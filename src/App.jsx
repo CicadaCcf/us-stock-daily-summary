@@ -29,6 +29,12 @@ import {
 import { useState, useEffect, useMemo, useRef, createContext, useContext } from 'react';
 import AdminDrawer from './components/AdminDrawer.jsx';
 import { fetchEditsForDate, saveEdit } from './lib/screenerEdits.js';
+import { isSupabaseEnabled } from './lib/supabase.js';
+
+// When Supabase isn't configured (missing env vars or we want a read-only
+// deploy as a fallback), the dashboard still renders fully — inline editing
+// just degrades to plain text so the UI stays honest about what works.
+const READ_ONLY = !isSupabaseEnabled;
 
 // Context so EditableCell / ReasonCell can trigger a refetch after save
 // without prop-drilling through the whole App tree.
@@ -611,6 +617,13 @@ function EditableCell({ tk, field, initial, placeholder, multiline }) {
   const [status, setStatus] = useState('idle');  // idle | saving | saved | error
   // Sync when overlay arrives async after first render.
   useEffect(() => { setValue(initial || ''); }, [initial]);
+  if (READ_ONLY) {
+    return (
+      <span className="editable-cell readonly">
+        {initial || <span className="muted">—</span>}
+      </span>
+    );
+  }
   const Tag = multiline ? 'textarea' : 'input';
   const save = async () => {
     if (value === (initial || '')) return;
@@ -662,6 +675,12 @@ function ReasonCell({ tk, initial }) {
   };
 
   const pick = (n) => {
+    if (READ_ONLY) {
+      // In read-only mode the popover is a candidate list — clicking a
+      // headline just opens the source URL in a new tab.
+      if (n.url) window.open(n.url, '_blank', 'noopener,noreferrer');
+      return;
+    }
     setValue(n.headline);
     setOpen(false);
     save(n.headline);
@@ -669,14 +688,20 @@ function ReasonCell({ tk, initial }) {
 
   return (
     <div className="reason-cell" ref={rootRef}>
-      <textarea
-        className={`editable-cell ${status}`}
-        value={value}
-        placeholder="填写异动原因…"
-        rows={2}
-        onChange={(e) => { setValue(e.target.value); setStatus('idle'); }}
-        onBlur={() => save(value)}
-      />
+      {READ_ONLY ? (
+        <span className="editable-cell readonly">
+          {value || <span className="muted">—</span>}
+        </span>
+      ) : (
+        <textarea
+          className={`editable-cell ${status}`}
+          value={value}
+          placeholder="填写异动原因…"
+          rows={2}
+          onChange={(e) => { setValue(e.target.value); setStatus('idle'); }}
+          onBlur={() => save(value)}
+        />
+      )}
       {news.length > 0 && (
         <button
           type="button"

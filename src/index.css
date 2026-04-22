@@ -260,6 +260,16 @@ table tr:hover td { background: rgba(9, 132, 227, .07); }
 .editable-cell.saved { border-color: var(--green); }
 .editable-cell.error { border-color: var(--red); }
 textarea.editable-cell { min-height: 40px; line-height: 1.4; }
+/* Read-only fallback (Supabase not configured): render as plain text,
+   no hover halo, no pointer affordance suggesting an input. */
+.editable-cell.readonly {
+  border-color: transparent !important;
+  background: transparent !important;
+  cursor: default;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+.editable-cell.readonly .muted { color: var(--text-dim); }
 
 /* ---- Reason cell with Futu-news picker popover ---- */
 .reason-cell { position: relative; }
