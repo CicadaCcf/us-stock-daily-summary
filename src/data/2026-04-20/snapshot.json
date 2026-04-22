@@ -1,0 +1,44 @@
+{
+  "headerDate": "美股日报 | 2026年4月15日 星期三",
+  "headerSub": "数据截至 16:00 ET | 生成时间 18:30 ET",
+  "footerTimestamp": "2026-04-15 18:30 ET",
+  "sectorMaxAbs": 2.5,
+  "indices": [
+    { "label": "S&P 500",      "value": "5,842.30",  "change": "+1.12%", "dir": "up"   },
+    { "label": "Nasdaq",       "value": "19,215.68", "change": "+1.54%", "dir": "up"   },
+    { "label": "Dow Jones",    "value": "42,180.45", "change": "+0.72%", "dir": "up"   },
+    { "label": "Russell 2000", "value": "2,285.10",  "change": "+0.45%", "dir": "up"   },
+    { "label": "VIX",          "value": "16.82",     "change": "-5.3%",  "dir": "down" },
+    { "label": "10Y Treasury", "value": "4.28%",     "change": "-2bp",   "dir": "down" }
+  ],
+  "sectors": [
+    { "name": "信息技术 Technology", "d1":  2.1, "d5":  4.3, "m1":  8.2 },
+    { "name": "通信服务 Comm.",      "d1":  1.8, "d5":  3.1, "m1":  6.5 },
+    { "name": "非必需消费 Disc.",    "d1":  1.5, "d5":  2.4, "m1":  3.8 },
+    { "name": "工业 Industrials",    "d1":  0.8, "d5":  1.2, "m1":  2.1 },
+    { "name": "金融 Financials",     "d1":  0.5, "d5":  0.8, "m1":  1.5 },
+    { "name": "材料 Materials",      "d1":  0.3, "d5":  0.2, "m1": -0.5 },
+    { "name": "房地产 Real Estate",  "d1":  0.1, "d5": -0.3, "m1": -1.2 },
+    { "name": "公用事业 Utilities",  "d1": -0.2, "d5": -0.5, "m1": -1.8 },
+    { "name": "医疗健康 Healthcare", "d1": -0.5, "d5": -1.1, "m1": -3.2 },
+    { "name": "能源 Energy",         "d1": -0.8, "d5": -2.3, "m1": -5.1 },
+    { "name": "必需消费 Staples",    "d1": -1.2, "d5": -2.8, "m1": -6.4 }
+  ],
+  "themes": [
+    { "name": "AI基础设施",   "dots": 5, "etfs": [{"sym":"SMH","chg":"+2.8%","dir":"up"},{"sym":"SOXX","chg":"+2.5%","dir":"up"}], "stocks": [{"tk":"NVDA","chg":"+6.5%","dir":"up"},{"tk":"SMCI","chg":"+9.7%","dir":"up"},{"tk":"AVGO","chg":"+3.2%","dir":"up"}] },
+    { "name": "AI应用",       "dots": 4, "etfs": [{"sym":"ARKK","chg":"+1.9%","dir":"up"},{"sym":"IGV","chg":"+1.6%","dir":"up"}], "stocks": [{"tk":"PLTR","chg":"+4.1%","dir":"up"},{"tk":"APP","chg":"+4.5%","dir":"up"},{"tk":"AI","chg":"+3.8%","dir":"up"}] },
+    { "name": "存储/HCI",     "dots": 4, "etfs": [{"sym":"SNDK","chg":"+2.1%","dir":"up"},{"sym":"XLK","chg":"+2.1%","dir":"up"}], "stocks": [{"tk":"NTNX","chg":"+4.8%","dir":"up"},{"tk":"PSTG","chg":"+3.5%","dir":"up"},{"tk":"SNDK","chg":"+2.1%","dir":"up"}] },
+    { "name": "量子计算",     "dots": 5, "etfs": [{"sym":"QTUM","chg":"+5.4%","dir":"up"}], "stocks": [{"tk":"QBTS","chg":"+18.4%","dir":"up"},{"tk":"IONQ","chg":"+14.2%","dir":"up"},{"tk":"RGTI","chg":"+11.6%","dir":"up"}] },
+    { "name": "清洁能源/核能","dots": 3, "etfs": [{"sym":"ICLN","chg":"+0.8%","dir":"up"},{"sym":"URA","chg":"+1.2%","dir":"up"}], "stocks": [{"tk":"VST","chg":"+3.4%","dir":"up"},{"tk":"CEG","chg":"+2.8%","dir":"up"},{"tk":"SMR","chg":"+2.1%","dir":"up"}] },
+    { "name": "中概股",       "dots": 2, "etfs": [{"sym":"KWEB","chg":"-0.6%","dir":"down"},{"sym":"FXI","chg":"-0.3%","dir":"down"}], "stocks": [{"tk":"BABA","chg":"-0.8%","dir":"down"},{"tk":"PDD","chg":"+0.5%","dir":"up"},{"tk":"JD","chg":"-1.2%","dir":"down"}] }
+  ],
+  "recap": {
+    "sections": [
+      { "heading": "市场整体", "html": "隔夜美股市场延续强势，纳斯达克100指数(QQQ)上涨1.4%，创下历史收盘新高，自本月初以来已呈直线拉升态势，累计涨幅达15%。市场力量正在扩大，科技板块呈现出<b>\"补涨轮动\"</b>的特征。此前表现落后的软件板块以及NVDA、TSLA、MSFT、AAPL等大型科技股在最近几个交易日获得资金追捧。甚至一些非盈利科技股和高空头仓位个股也出现空头回补带动的上涨行情，显示出市场情绪的普遍好转和健康的轮动格局。" },
+      { "heading": "AI/半导体个股亮点", "html": "<b>NVDA (+1.2%)</b> 股价触及六个月高点，市场对有关其下一代Rubin平台出货问题的传闻反应平淡，供应链的积极报告（如Vera Rubin出货按计划推进）提供了支撑。<b>AVGO (+4%)</b> 因宣布与Meta合作开发AI芯片而上涨，该交易包含超过1GW的初步产能承诺。<b>AMD (+1.2%)</b> 也因券商看好其MI455芯片及服务器CPU需求而走强。" },
+      { "heading": "软件板块强势反弹", "html": "软件板块的强劲反弹主要归因于前期超卖后的技术性修复，形成\"假性破位\"的看涨形态，而非由特定消息驱动。<b>MSFT</b>和<b>ORCL</b>在近几周展现出较强的相对强度，并未随软件指数(IGV)创下新低，其后续能否突破关键阻力位，将成为判断整体软件板块走向的重要领先指标。" },
+      { "heading": "半导体板块健康轮动", "html": "尽管半导体板块整体表现不及软件，但市场并未出现剧烈的板块轮动抛售，多数半导体股保持上涨，如AVGO (+4%)、INTC (+2%)、AMD (+1.2%)和NVDA (+1.2%)。前期涨幅巨大的龙头股如<b>SNDK</b>在月内上涨超50%后出现温和休整，资金轮动至其他滞涨板块，被视为健康的市场行为。" },
+      { "heading": "其他个股亮点", "html": "<b>AAPL (+3%)</b> 市场反馈投资者正为六月份即将举行的以Siri为核心的AI活动进行积极布局。<b>NET (+6.5%)</b> Piper Sandler上调评级至\"买入\"，理由是近期回调后提供了更具吸引力的切入点。<b>U (+8%)</b> 预告业绩后持续表现良好。Neoclouds方面，<b>CRWV (+1%)</b>和<b>NBIS (+3%)</b>受益于GPU定价和数据中心供需动态而走强。" }
+    ]
+  }
+}

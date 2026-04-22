@@ -1,0 +1,515 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis-apr21",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊停火协议极可能到期 Vance赴巴基斯坦谈判",
+      "summary": "Trump称停火协议将于周三到期，\"极不可能\"延长，并重申在协议签署前不会开放霍尔木兹海峡。Vance预计周二前往伊斯兰堡与伊朗谈判，伊朗方面则表示已为可能重启的战争准备新手段。美军持续对伊朗港口实施海上封锁。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "停火协议周三到期，\"极不可能\"延长",
+          "details": "Trump称停火协议将于周三晚间（华盛顿时间）到期，称\"极不可能\"延长与伊朗的停火协议；在协议签署之前不会开放霍尔木兹海峡",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "预计将对伊朗实施轰炸，已做好行动准备",
+          "details": "Trump称预计会采取对伊朗实施轰炸的举措，我们已做好行动准备",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "称收回伊朗浓缩铀将是漫长艰难过程",
+          "details": "Trump称收回伊朗的浓缩铀库存将是一个\"漫长而艰难的过程\"，并重申他于2025年6月发起的名为\"午夜铁锤行动\"的打击摧毁了伊朗的核设施；以色列从未说服我参与对伊朗的战争，但10/7的选举结果，更加坚定了我毕生的观点:伊朗永远不可能拥有核武器",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "暗示截获船只与习近平有关",
+          "details": "Trump称美军截获了一艘载有\"不太光彩\"货物的船只，暗示这可能与习近平有关。考虑到自己与习近平的关系，他对此感到惊讶，但指出\"战争就是这样\"",
+          "important": false
+        },
+        {
+          "actor": "Axios",
+          "actor_type": "新闻",
+          "text": "Vance预计周二前往伊斯兰堡谈判",
+          "details": "三位美国消息人士告诉Axios，Vance预计将于周二上午前往伊斯兰堡，与伊朗就结束战争的潜在协议进行谈判；伊朗代表团计划于周二前往伊斯兰堡，Ghalibaf将主持会谈，但是只有Vance出席他才出席",
+          "important": false
+        },
+        {
+          "actor": "CNN",
+          "actor_type": "新闻",
+          "text": "伊朗提议暂停铀浓缩10年",
+          "details": "CNN消息人士透露：伊朗提议暂停铀浓缩活动10年，随后又将铀浓缩活动限制在10年内；华盛顿方面倾向于认为伊朗谈判团队内部存在分歧",
+          "important": false
+        },
+        {
+          "actor": "Ghalibaf",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗拒绝在恐吓下谈判，已准备新牌",
+          "details": "Ghalibaf称Trump试图通过封锁和违反停火协议将谈判桌变成伊朗投降的战场，但伊朗拒绝在恐吓下进行谈判，并已准备在战场上亮出新牌",
+          "important": false
+        },
+        {
+          "actor": "伊朗司法部长",
+          "actor_type": "Foreign-Gov",
+          "text": "美军重启对伊袭击可能性\"绝非很低\"",
+          "details": "伊朗司法部长表示，由于华盛顿尚未实现其目标，美军重启对伊朗袭击的可能性\"绝非很低\"",
+          "important": false
+        },
+        {
+          "actor": "塔斯尼姆通讯社",
+          "actor_type": "新闻",
+          "text": "伊朗已为可能重启战争准备新\"惊喜\"",
+          "details": "塔斯尼姆通讯社报道：伊朗已为可能重启的战争准备了新的\"惊喜\"",
+          "important": false
+        },
+        {
+          "actor": "Aragchi",
+          "actor_type": "Foreign-Gov",
+          "text": "称美国\"非法行为\"与外交不相容",
+          "details": "Aragchi告诉俄罗斯外长，美国的\"非法行为和自相矛盾的立场\"与外交不相容",
+          "important": false
+        },
+        {
+          "actor": "Dan Caine将军",
+          "actor_type": "US-Executive",
+          "text": "美军已做好恢复对伊大规模作战准备",
+          "details": "参谋长联席会议主席Dan Caine将军表示：\"我们已做好准备，随时恢复对伊朗的大规模作战行动。\"",
+          "important": false
+        },
+        {
+          "actor": "巴基斯坦总理谢里夫",
+          "actor_type": "Foreign-Gov",
+          "text": "可能于明日宣布延长停火协议",
+          "details": "巴基斯坦总理谢赫巴兹·谢里夫可能于明日宣布延长停火协议",
+          "important": false
+        },
+        {
+          "actor": "以色列",
+          "actor_type": "Foreign-Gov",
+          "text": "以色列随时准备与伊朗再次开战",
+          "details": "第12频道：以色列随时准备与伊朗再次开战",
+          "important": false
+        },
+        {
+          "actor": "美军",
+          "actor_type": "US-Executive",
+          "text": "林肯号航母战斗群对伊朗港口实施海上封锁",
+          "details": "林肯号航母战斗群正在阿拉伯海北部执行任务，对伊朗港口实施海上封锁",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "伊朗油轮在印尼卸货后正驶回伊朗",
+          "details": "一艘隶属于伊朗国家油轮公司的油轮在印度尼西亚完成约2M桶原油卸载后，经由相关海域封锁线返回伊朗。该油轮目前正驶往伊朗主要石油出口枢纽Kharq，预计将于当地时间22日抵达。据悉，该油轮于3月下旬自伊朗启航，驶向印度尼西亚廖内群岛",
+          "important": false
+        },
+        {
+          "actor": "美国海军",
+          "actor_type": "US-Executive",
+          "text": "美海军在印太登船检查被制裁伊朗油轮",
+          "details": "美国海军在印太地区登船检查了被制裁的油轮\"蒂法尼\"号，进一步升级了针对伊朗相关航运的海上打击行动。这艘与伊朗有关联的油轮以频繁更换船旗而闻名，最后一次被追踪到是在斯里兰卡和马来西亚之间的印度洋海域",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "霍尔木兹海峡日通行8艘，3艘油轮未绕行出湾",
+          "details": "【日度通行】共8艘，其中3艘出湾的Tanker均未绕行出湾",
+          "important": false
+        },
+        {
+          "actor": "美国国务院",
+          "actor_type": "US-Executive",
+          "text": "美将于4月23日主持以色列-黎巴嫩会谈",
+          "details": "美国国务院官员:美国将于4月23日(星期四)在国务院主持以色列和黎巴嫩之间的第二轮大使级会谈。美国欢迎4月14日开始的富有成效的接触。我们将继续促进两国政府之间直接、真诚的对话",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Axios",
+        "CNN",
+        "塔斯尼姆通讯社"
+      ],
+      "date": "2026-04-20",
+      "image_urls": []
+    },
+    {
+      "id": "warsh-fed-confirmation-apr21",
+      "topic": "Warsh美联储听证会",
+      "topic_tag": "fed",
+      "title": "Warsh听证会讲稿曝光 承诺货币政策严格独立",
+      "summary": "Warsh提名听证会讲稿显示其承诺美联储在利率政策上保持严格独立，但释放了外汇互换和资产负债表政策等领域的自主权。Polymarket显示其6月底前确认概率达82%。前同事认为他不会轻易放弃鹰派立场。",
+      "bullets": [
+        {
+          "actor": "Warsh",
+          "actor_type": "Central-Bank",
+          "text": "承诺货币政策严格独立，称独立性主要取决于自身",
+          "details": "美联储必须在利率问题上保持严格独立，将与政府和国会合作，履行美联储与利率无关的职责，同时推动建立一个\"以改革为导向\"的美联储，更好地服务于公众。沃什提名听证会讲稿曝光，承诺货币政策严格独立，称美联储独立性主要取决于自身",
+          "important": true
+        },
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "KOL",
+          "text": "Warsh凭AI提升生产力论点获Trump提名",
+          "details": "Warsh凭借人工智能提升生产力的论点赢得了特朗普对美联储主席的提名。他认为，经济繁荣将抑制物价上涨，从而使美联储能够降息。然而，在他正式上任之前，这一论调就遭到了未来同事们的公开反对",
+          "important": false
+        },
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "KOL",
+          "text": "前同事认为Warsh不会轻易放弃鹰派立场",
+          "details": "前同事们认为Warsh在通货膨胀问题上坚持立场，不认为他会这么快就放弃他多年来一直奉行的鹰派货币主义观点，即使这意味着会招致特朗普的愤怒",
+          "important": false
+        },
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "KOL",
+          "text": "2006年布什道德律师曾为Warsh入职扫清障碍",
+          "details": "2006年，布什白宫的道德律师曾就沃什不透明的信息披露问题，为他进入美联储任职扫清障碍：他信任Warsh，但也理解参议员们为何感到不安",
+          "important": false
+        },
+        {
+          "actor": "Joseph Wang",
+          "actor_type": "KOL",
+          "text": "Warsh释放了外汇互换和资产负债表政策自主权",
+          "details": "Warsh的开场白将\"美联储独立性\"定义为利率政策的自主权，但却释放了其他领域的自主权，例如外汇互换额度政策，或者公共债务的期限（资产负债表政策）",
+          "important": false
+        },
+        {
+          "actor": "Ed Bradford",
+          "actor_type": "KOL",
+          "text": "Warsh听证会可能打断美债被伊朗战争主导的局面",
+          "details": "伊朗战争继续主导美国国债价格走势，但沃什明天的确认听证会可能会暂时打断当前的局面，特别是如果他坚持最近的利率鸽派和资产负债表鹰派立场的话",
+          "important": false
+        },
+        {
+          "actor": "Polymarket",
+          "actor_type": "Unknown",
+          "text": "Warsh 6月30日前确认概率82%",
+          "details": "Polymarket显示：Warsh 5月1日前确认概率3%（↓48%），5月15日前34%（↓42%），6月30日前82%（↑30%）。总交易量$594,678",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-04-20",
+      "image_urls": [
+        "/uploads/2026-04-20/716a7e678ce9.jpg"
+      ]
+    },
+    {
+      "id": "trump-domestic-policy-apr21",
+      "topic": "Trump国内政策",
+      "topic_tag": "policy",
+      "title": "Trump不满关税裁决 宣布国家紧急状态扩产油",
+      "summary": "Trump对最高法院关税裁决不满，希望亚马逊和苹果不申请关税退款。同时根据第14156号行政令宣布国家进入紧急状态，扩大国内石油生产、炼制和物流能力。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "对最高法院关税裁决不满",
+          "details": "Trump称我对最高法院关于关税裁决的裁决不满意，如果亚马逊和苹果不寻求关税退款，那就太好了",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "宣布国家紧急状态扩大石油产能",
+          "details": "Trump称我已根据第14156号EO宣布国家进入紧急状态，并进一步认定，必须采取行动扩大国内石油生产、炼制和物流能力，以避免出现工业资源或关键技术产品短缺，从而严重损害国防能力",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "若Fed不降息会感到失望，批评联邦建筑费用过高",
+          "details": "Trump称我们必须查明与Fed建筑相关的情况,批评联邦大楼建设费用过高；如果Fed不降低利率，会感到失望",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "不允许古巴演变成重大国安威胁",
+          "details": "Trump称如果可行，他将寻求外交途径解决问题，但他不会允许古巴演变成重大的国家安全威胁",
+          "important": false
+        },
+        {
+          "actor": "Greer",
+          "actor_type": "US-Executive",
+          "text": "周一与墨西哥总统会面为USMCA审查做准备",
+          "details": "Greer周一与墨西哥总统会面，为北美贸易协定审查做准备",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "AMZN",
+        "AAPL"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-04-20",
+      "image_urls": []
+    },
+    {
+      "id": "ecb-lagarde-hormuz-apr21",
+      "topic": "欧央行/油价冲击",
+      "topic_tag": "oil",
+      "title": "拉加德警告霍尔木兹冲突致全球油供损失13%",
+      "summary": "ECB行长Lagarde表示霍尔木兹海峡冲突导致全球每日石油供应损失约13M桶（占全球消费13%）。若冲突持续，经济调整将从通胀转向配给，历史数据显示此类冲击平均使欧元区首年GDP下降0.4%。",
+      "bullets": [
+        {
+          "actor": "Lagarde",
+          "actor_type": "Central-Bank",
+          "text": "霍尔木兹冲突致全球每日油供损失13M桶",
+          "details": "Lagarde表示霍尔木兹海峡冲突导致全球每日石油供应损失约13M桶（占全球消费13%）。虽然市场押注干扰短暂，但若冲突持续，经济调整将从通胀转向配给，严重打击增长",
+          "important": true
+        },
+        {
+          "actor": "Lagarde",
+          "actor_type": "Central-Bank",
+          "text": "此类冲击平均使欧元区首年GDP下降0.4%",
+          "details": "历史数据显示此类冲击平均使欧元区首年GDP下降0.4%。拉加德强调，鉴于财政空间缩小，财政支持必须临时且有针对性，以避免重蹈2022年通胀延长的覆辙，央行将确保中期通胀回归2%目标",
+          "important": false
+        },
+        {
+          "actor": "Bob",
+          "actor_type": "KOL",
+          "text": "柴油和航空燃油价格创历史新高",
+          "details": "柴油和航空燃油价格均创历史新高，推高了整个经济体的运输成本。人们关注汽油价格的同时，这些投入要素却造成了更广泛的通货膨胀和供应紧张的风险",
+          "important": false
+        },
+        {
+          "actor": "Peter Berezin",
+          "actor_type": "KOL",
+          "text": "海湾机场交通初步复苏",
+          "details": "尽管霍尔木兹海峡的船舶交通仍然受阻，但海湾地区的机场交通正在初步复苏",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-04-20",
+      "image_urls": []
+    },
+    {
+      "id": "car-short-squeeze-apr21",
+      "topic": "CAR逼空事件",
+      "topic_tag": "macro-other",
+      "title": "CAR(Avis)遭遇类Archegos式逼空 锁定股数超总流通盘",
+      "summary": "CAR股票出现结构性逼空，SRS和Pentwater两家机构通过互换交易和期权锁定约4260万股（占流通股120.6%），形成\"幻影股份\"。即使ATM 100%用于空头平仓仍缺400万股，40%情景下缺700万股。",
+      "bullets": [
+        {
+          "actor": "TheShortBear",
+          "actor_type": "KOL",
+          "text": "CAR锁定股数达120.6%流通股，缺口700万股",
+          "details": "CAR（Avis）目前的短挤局面，和几年前Archegos策划的那种通过互换交易构建的套利策略类似，这些互换交易及其相关收益将作为抵押品，供其他银行放贷，最终形成杠杆螺旋式上升；锁定总股数约42,599,129股（占流通股120.6%），超过法定流通股35,324,685股，幻影超额约7,274,444股（+20.6%）由做空借贷链条创造",
+          "important": true
+        },
+        {
+          "actor": "TheShortBear",
+          "actor_type": "KOL",
+          "text": "即使ATM 100%用于空头平仓仍缺400万股",
+          "details": "ATM毛发行+5,000,000股（+14.2%），但被Pentwater 3月20日看跌期权行权吸收~2,800,000股，做市商再对冲+散户买入吸收material量，做空利息窗口期增长+910,000股（SI从8.12m升至9.03m），Net ATM reaching short-cover pool ≈0。即使ATM 100%用于空头平仓，仍缺4,030,000股；更现实的40%情景下，缺7,030,000股",
+          "important": false
+        },
+        {
+          "actor": "TheShortBear",
+          "actor_type": "KOL",
+          "text": "类似保时捷-大众逼空，13D或互换公告将是催化剂",
+          "details": "和2008年保时捷悄悄大量买入大众股票+衍生品（swaps）导致的超级短挤非常相似，我们可能再次看到大众与保时捷的合作方案，无论是Pentwater宣布推出13D（从被动持股变成主动持股），还是仅仅通过互换方案（继续增加或被市场广泛注意到），都会是强烈的催化；这是一笔超级难做的交易，你得熬过一夜心跳加速，等着第二天大幅跳空低开",
+          "important": false
+        },
+        {
+          "actor": "Mengyu Lan",
+          "actor_type": "KOL",
+          "text": "CAR可能在$600-670震荡，$670有大量看涨期权",
+          "details": "从今天的期权结构来看，CAR可能会在$600-670之间震荡。$670有大量看涨期权，股价一旦突破$670，做市商会被迫将股价送到更高。两家对冲基金联手逼空空头——GME是散户逼空机构做空，这一次是两家机构逼空做空机构",
+          "important": false
+        },
+        {
+          "actor": "Mengyu Lan",
+          "actor_type": "KOL",
+          "text": "两家基金控制70%筹码，管理层增发可能被灭",
+          "details": "这两家对冲基金，即使没有私下沟通，现在也大概率形成默契，坚决不走人，继续逼空。自己控制70%的筹码，只要稍微加点做多期权，就能把空军持续消灭。管理层这时候是应该跳出来增发，这样可以杀一下多头，但是这次情况非常特殊，两家对冲基金联手控制了公司，如果管理层出来增发，可能会直接被两家基金直接灭掉，没法择时，硬要赌只能选择买看多期权",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "预计CAR逼空本周结束",
+          "details": "为$BIRD支付15美元以上的投资者群体与为$CAR支付600美元以上的投资者群体之间的venn图完全重合；当公司满足所有需求时，Gamma挤压效应就会结束。依我看来，这周应该会结束",
+          "important": false
+        },
+        {
+          "actor": "Negligible Capital",
+          "actor_type": "KOL",
+          "text": "逼空可能成为主题，高空仓股集体表现优异",
+          "details": "short squeeze可能成为潜在主题，今天许多空头持仓比例较高（20%以上）的股票表现优异，包括$BYND、$FLWS、$DNUT等。自从$GME以来，这种情况似乎每年都会发生一次，持续一到两周，然后逐渐消退，直到下一次",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "CAR",
+        "BYND",
+        "FLWS",
+        "DNUT"
+      ],
+      "image_indexes": [
+        0,
+        2
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-04-20",
+      "image_urls": [
+        "/uploads/2026-04-20/c6f513a957f2.png",
+        "/uploads/2026-04-20/938fb507b16e.jpg"
+      ]
+    },
+    {
+      "id": "sellside-outlook-apr21",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "高盛摩根大通上调SPX目标至7600 关注AI盈利增长",
+      "summary": "高盛和摩根大通均将SPX年底目标上调至7600点，主要驱动因素为AI投资带来的盈利增长（预计今年EPS增12%）。当前SPX远期市盈率21倍，估值合理。摩根大通预计美联储2026年全年维持利率不变。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs Ben Snider",
+          "actor_type": "Analyst",
+          "text": "预计SPX年底升至7600点，隐含7%上涨空间",
+          "details": "预计SPX年底升至7600点，隐含7%上涨空间。驱动因素为盈利增长，预计今年EPS增12%，其中AI投资贡献约40%。建议配置电力基础设施等长期成长股，规避受AI颠覆风险较高的软件板块。当前SPX远期市盈率21倍，估值合理",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs Inflation",
+          "actor_type": "Analyst",
+          "text": "3月美国整体CPI同比升至3.29%，能源价格大涨",
+          "details": "受伊朗战争影响，3月美国整体CPI同比升至3.29%，能源价格大涨是主因。预计核心PCE通胀将于2026年底降至2.5%。关税已推高核心PCE通胀0.8%，但效应将随时间减弱。短期通胀预期显著上升，密歇根大学1年期预期跳升至4.8%",
+          "important": false
+        },
+        {
+          "actor": "JPMorgan Macro",
+          "actor_type": "Analyst",
+          "text": "上调SPX目标至7600，预计Fed全年维持利率不变",
+          "details": "SPX的年底目标点位上调至7600点，理由是人工智能和科技驱动的盈利增长。就在几周前，摩根大通还将该指数的预期从7500点下调至7200点，而美伊停火协议提振了市场情绪。预计美联储2026年全年维持利率不变，10Y年底升至4.35%",
+          "important": false
+        },
+        {
+          "actor": "JPMorgan Macro",
+          "actor_type": "Analyst",
+          "text": "中期看空美元，看好铝价2026年供应赤字1.9Mt",
+          "details": "外汇方面，中期看空美元，推荐澳元和挪威克朗等高收益货币进行套息交易。大宗商品上，警示欧洲原油需求破坏，但看好铝价，预计2026年出现1.9Mt供应赤字。新兴市场外汇建议超配，主权债回归中性",
+          "important": false
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "纳斯达克连涨创55年来第五长纪录",
+          "details": "NASDAQ连续日涨幅数量：1971年至今只有四次更长的连涨纪录出现在该指数55年历史中",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3,
+        4
+      ],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs",
+        "JPMorgan",
+        "Deutsche Bank"
+      ],
+      "date": "2026-04-20",
+      "image_urls": [
+        "/uploads/2026-04-20/7a4f6afe9b91.png",
+        "/uploads/2026-04-20/bb1eafd1e510.png"
+      ]
+    },
+    {
+      "id": "boj-rate-decision-apr21",
+      "topic": "日本央行",
+      "topic_tag": "fed",
+      "title": "日经：BOJ将推迟4月加息 6月前评估中东局势",
+      "summary": "日经报道称日本央行将推迟4月份的加息计划，在6月份做出决定前将对中东局势进行评估。野村预计4月加息概率降至15-20%，政府正探讨将食品消费税降至1%。",
+      "bullets": [
+        {
+          "actor": "日经新闻",
+          "actor_type": "新闻",
+          "text": "BOJ将推迟4月加息，6月前评估中东局势",
+          "details": "日经报道称BOJ将推迟4月份的加息计划，在6月份做出决定前，将对中东局势进行评估",
+          "important": true
+        },
+        {
+          "actor": "Nomura BOJ",
+          "actor_type": "Analyst",
+          "text": "4月加息预期降至15-20%，下次窗口或推迟至6月",
+          "details": "日本央行4月加息预期降至15-20%，大概率按兵不动，下次加息窗口或推迟至6月。重点关注即将发布的《展望报告》中2027-28财年核心核心CPI预测。政府探讨将食品消费税降至1%，若可行有望在2026财年内实施。中东局势虽抑制部分资本支出，但替代人力投资保持强劲",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "日经新闻",
+        "Nomura"
+      ],
+      "date": "2026-04-20",
+      "image_urls": []
+    },
+    {
+      "id": "other-news-apr21",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "亚马逊追加投资Anthropic 最高达250亿美元",
+      "summary": "亚马逊宣布向Anthropic追加50亿美元投资，如合作达到某些商业里程碑，总投资额可能高达250亿美元。此外SpaceX计划在IPO后通过超级投票权股份巩固马斯克控制权。",
+      "bullets": [
+        {
+          "actor": "Amazon",
+          "actor_type": "Corporate",
+          "text": "向Anthropic追加50亿投资，总额可达250亿",
+          "details": "AMZN宣布将向Anthropic追加5B投资，这是双方扩大合作的一部分。亚马逊表示，如果合作达到某些商业里程碑，其总投资额可能高达25B",
+          "important": true
+        },
+        {
+          "actor": "Reuters",
+          "actor_type": "新闻",
+          "text": "SpaceX计划IPO后授予Musk超级投票权股份",
+          "details": "RTRS查阅的SpaceX公司IPO文件节选显示，SpaceX计划在IPO后巩固Musk的控制权，授予他和一小群内部人士超级投票权股份，其权重将超过其他投资者",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "AMZN"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "Reuters"
+      ],
+      "date": "2026-04-20",
+      "image_urls": []
+    }
+  ]
+}

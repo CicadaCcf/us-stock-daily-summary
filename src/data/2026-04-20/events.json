@@ -1,0 +1,16 @@
+{
+  "events": [
+    { "tag": "AI估值",      "tagCls": "hot",  "title": "Anthropic获最高8000亿美元估值要约",        "body": "多家顶级风投向Anthropic发出投资要约，估值高达8000亿美元。其新AI模型Mythos因卓越的网络攻防能力，已引起多国金融监管机构高度关注。", "tickers": ["MSFT", "GOOGL", "CRWD"] },
+    { "tag": "AI算力",      "tagCls": "hot",  "title": "CoreWeave获Jane Street等巨额投资",           "body": "CoreWeave一周内达成第三笔重大交易，获Jane Street 10亿美元股权投资和约60亿美元云服务采购承诺。此前已获Meta 210亿美元和Anthropic数十亿美元的长期算力采购。", "tickers": ["NVDA", "AMZN", "MSFT", "SMCI"] },
+    { "tag": "AI基建",      "tagCls": "hot",  "title": "甲骨文等AI基建融资规模创纪录",              "body": "甲骨文/OpenAI合作项目完成380亿美元巨额贷款，谷歌相关数据中心发行57亿美元垃圾债，AI基础设施竞赛进入重资本投入阶段。", "tickers": ["ORCL", "GOOGL", "VRT", "ETN"] },
+    { "tag": "半导体设备",  "tagCls": "",     "title": "ASML上调长期营收指引",                      "body": "ASML上调2026年营收展望至360亿-400亿欧元，AI热潮推动台积电、三星等加速产能扩张。尽管Q2展望低于预期引发短期波动，长期指引确认AI是核心驱动力。", "tickers": ["ASML", "TSM", "LRCX", "AMAT"] },
+    { "tag": "IPO",         "tagCls": "",     "title": "Alphabet持SpaceX股份或带来千亿回报",       "body": "Alphabet持有约5%的SpaceX股份，若SpaceX按计划6月以超2万亿美元估值IPO，持股价值将高达1000亿美元，有望成为史上最大IPO。", "tickers": ["GOOGL", "AMZN", "LMT"] },
+    { "tag": "监管",        "tagCls": "",     "title": "SEC取消小额投资者日内交易限制",              "body": "SEC批准取消对账户余额低于25,000美元投资者的PDT限制，以更灵活的日内保证金要求替代，被视为零售经纪商重大利好。", "tickers": ["HOOD", "SCHW"] },
+    { "tag": "自动驾驶",    "tagCls": "",     "title": "Uber投资超100亿美元转型Robotaxi",            "body": "Uber承诺投入超100亿美元购买自动驾驶汽车并入股开发商，打破传统\"轻资产\"模式，转型Robotaxi平台运营商。", "tickers": ["UBER", "TSLA", "GM", "GOOGL"] },
+    { "tag": "AI裁员",      "tagCls": "",     "title": "Snap裁员16%，转向AI提效",                    "body": "Snap宣布裁员约1000人(16%)，CEO指出AI技术使团队能更快工作，预计每年节省超5亿美元成本。", "tickers": ["SNAP", "META", "PINS"] },
+    { "tag": "私募",        "tagCls": "",     "title": "私募信贷市场面临审查，KKR限制赎回",            "body": "美国财政部要求私募信贷公司提供业务数据。继黑石之后，KKR也对资产支持信贷基金设置赎回上限，流动性和信用风险担忧加剧。", "tickers": ["KKR", "BX", "APO"] },
+    { "tag": "物理AI",      "tagCls": "",     "title": "Cadence与英伟达合作加速机器人AI",              "body": "Cadence物理仿真引擎与英伟达AI模型结合，通过模拟环境生成精准训练数据，加速机器人学习开发，是\"物理AI\"重要进展。", "tickers": ["CDNS", "NVDA", "ROK"] },
+    { "tag": "反垄断",      "tagCls": "warn", "title": "Live Nation被裁定为非法垄断",                  "body": "联邦陪审团裁定Ticketmaster及母公司Live Nation在现场活动市场存在非法垄断，可能面临巨额赔偿甚至拆分。", "tickers": ["LYV"] },
+    { "tag": "概念炒作",    "tagCls": "warn", "title": "Allbirds宣布转型AI计算，股价暴涨400%+",      "body": "鞋企Allbirds宣布出售品牌资产转型AI计算基础设施，更名NewBird AI，筹集5000万用于采购GPU，单日暴涨超400%，典型AI概念炒作。", "tickers": ["BIRD"] }
+  ]
+}

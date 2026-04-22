@@ -1,0 +1,14 @@
+{
+  "rows": [
+    { "tk": "QBTS", "nm": "D-Wave量子",  "score": 94.2, "tag": "量子计算",    "d1": "+18.4%", "a5": "+28.5%", "am": "+72.1%", "dots": 5, "hi": true,  "scoreGold": true },
+    { "tk": "SMCI", "nm": "超微电脑",    "score": 91.8, "tag": "AI基础设施",  "d1": "+9.7%",  "a5": "+12.8%", "am": "+18.4%", "dots": 5, "hi": true,  "scoreGold": true },
+    { "tk": "NTNX", "nm": "Nutanix",     "score": 88.5, "tag": "存储/HCI",    "d1": "+4.8%",  "a5": "+8.9%",  "am": "+11.2%", "dots": 4, "hi": true,  "scoreGold": true },
+    { "tk": "IONQ", "nm": "IonQ量子",    "score": 86.1, "tag": "量子计算",    "d1": "+14.2%", "a5": "+19.2%", "am": "+48.0%", "dots": 4, "hi": false, "scoreGold": true },
+    { "tk": "HOOD", "nm": "罗宾汉",      "score": 82.4, "tag": "金融科技",    "d1": "+8.3%",  "a5": "+9.8%",  "am": "+12.5%", "dots": 4, "hi": false, "scoreGold": false },
+    { "tk": "NVDA", "nm": "英伟达",      "score": 79.6, "tag": "半导体",      "d1": "+6.5%",  "a5": "+5.6%",  "am": "+8.2%",  "dots": 3, "hi": false, "scoreGold": false },
+    { "tk": "APP",  "nm": "AppLovin",    "score": 77.3, "tag": "广告科技",    "d1": "+4.5%",  "a5": "+4.6%",  "am": "+25.1%", "dots": 3, "hi": false, "scoreGold": false },
+    { "tk": "DASH", "nm": "DoorDash",    "score": 74.8, "tag": "互联网",      "d1": "+5.8%",  "a5": "+6.5%",  "am": "+15.9%", "dots": 3, "hi": false, "scoreGold": false },
+    { "tk": "PLTR", "nm": "Palantir",    "score": 71.5, "tag": "AI应用",      "d1": "+4.1%",  "a5": "+4.2%",  "am": "+14.0%", "dots": 3, "hi": false, "scoreGold": false },
+    { "tk": "TSLA", "nm": "特斯拉",      "score": 68.2, "tag": "新能源车",    "d1": "+5.2%",  "a5": "+1.2%",  "am": "-8.6%",  "dots": 2, "hi": false, "scoreGold": false, "amDown": true }
+  ]
+}

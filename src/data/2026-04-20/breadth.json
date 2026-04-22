@@ -1,0 +1,16 @@
+{
+  "advancers": 2418,
+  "decliners": 1986,
+  "unchanged": 347,
+  "adUpPct": 51,
+  "adUncPct": 7,
+  "adDownPct": 42,
+  "volUpPct": 58,
+  "volDownPct": 42,
+  "putCall": 0.82,
+  "vix": 16.82,
+  "new52wHigh": 185,
+  "new52wLow": 42,
+  "pctAbove50dma": 62.4,
+  "pctAbove200dma": 58.1
+}
