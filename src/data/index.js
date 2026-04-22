@@ -1,25 +1,52 @@
-// Data loader — picks the latest date's JSON bundle.
+// Data loader — picks the latest date folder under src/data/ automatically.
 //
-// For now this is a static import of today's (2026-04-20) data. Vite will
-// inline these JSON blobs at build time. When we add a multi-date picker,
-// swap these to dynamic imports keyed on the selected date.
+// At build time Vite's import.meta.glob eager-imports every `./YYYY-MM-DD/*.json`
+// file and inlines the JSON. At runtime we pick the lexicographically-largest
+// date (ISO YYYY-MM-DD sorts correctly) and expose that day's fields.
 //
-// Fallback: if any file is missing or malformed, consumers should treat
-// arrays as empty. We normalize shape here so App.jsx can assume fields.
+// Daily cron just writes a new `src/data/{trading_date}/` folder + commits —
+// nothing else has to change for the frontend to display the new day.
+//
+// Fallback: any missing file for the latest date falls back to an empty object
+// so App.jsx never crashes on a half-populated folder (e.g. cron ran but macro
+// hasn't been pasted yet).
 
-import snapshot from './2026-04-20/snapshot.json';
-import market from './2026-04-20/market.json';
-import screener from './2026-04-20/screener.json';
-import breadth from './2026-04-20/breadth.json';
-import alpha from './2026-04-20/alpha.json';
-import events from './2026-04-20/events.json';
-import macro from './2026-04-20/macro.json';
+const pickLatestDate = (glob) => {
+  const dates = Object.keys(glob)
+    .map((p) => p.match(/\.\/([\d-]+)\//)?.[1])
+    .filter(Boolean)
+    .sort();
+  return dates[dates.length - 1] || null;
+};
+
+const pickFor = (glob, date, filename) =>
+  (date && glob[`./${date}/${filename}`]) || {};
+
+// Eager-glob every per-date file type. Vite inlines the JSON at build time.
+const snapshotMap = import.meta.glob('./*/snapshot.json', { eager: true, import: 'default' });
+const marketMap   = import.meta.glob('./*/market.json',   { eager: true, import: 'default' });
+const screenerMap = import.meta.glob('./*/screener.json', { eager: true, import: 'default' });
+const breadthMap  = import.meta.glob('./*/breadth.json',  { eager: true, import: 'default' });
+const eventsMap   = import.meta.glob('./*/events.json',   { eager: true, import: 'default' });
+const macroMap    = import.meta.glob('./*/macro.json',    { eager: true, import: 'default' });
+
+// market.json is the canonical per-day marker — it's written by the daily
+// snapshot cron, so its presence is the authoritative signal that a date
+// folder is "ready" to be shown. macro/events may lag a day.
+const LATEST_DATE = pickLatestDate(marketMap);
+
+const snapshot = pickFor(snapshotMap, LATEST_DATE, 'snapshot.json');
+const market   = pickFor(marketMap,   LATEST_DATE, 'market.json');
+const screener = pickFor(screenerMap, LATEST_DATE, 'screener.json');
+const breadth  = pickFor(breadthMap,  LATEST_DATE, 'breadth.json');
+const events   = pickFor(eventsMap,   LATEST_DATE, 'events.json');
+const macro    = pickFor(macroMap,    LATEST_DATE, 'macro.json');
 
 // --- Shape normalizers ---------------------------------------------------
 
 const toArray = (v) => (Array.isArray(v) ? v : []);
 
-export const CURRENT_DATE = '2026-04-20';
+export const CURRENT_DATE = LATEST_DATE || '';
 
 // Transform market.json (IB raw shape {symbol, name, close, d1_pct, ...})
 // into the UI display shape {label, value, change, dir} that App.jsx expects.
@@ -100,6 +127,5 @@ export const BREADTH = {
   ...(breadth || {}),
 };
 
-export const ALPHA = toArray(alpha.rows);
 export const EVENTS = toArray(events.events);
 export const MACRO_TOPICS = toArray(macro.topics);

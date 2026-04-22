@@ -20,6 +20,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
+import { spawn } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -316,6 +317,41 @@ async function getAnthropicClient(env) {
   return client;
 }
 
+// For Events ingest: summarize the already-published macro.json into a
+// compact list of topics + key bullets, so Claude can skip events that
+// the Macro section already covers. Returns empty string if no macro
+// file exists yet. This is appended to the USER message (not system)
+// to preserve the cached system prefix.
+function buildMacroDedupContext(date) {
+  if (!date) return '';
+  const p = path.join(DATA_DIR, date, 'macro.json');
+  if (!fs.existsSync(p)) return '';
+  let topics;
+  try { topics = JSON.parse(fs.readFileSync(p, 'utf8')).topics; } catch { return ''; }
+  if (!Array.isArray(topics) || topics.length === 0) return '';
+
+  const lines = topics
+    .filter((t) => t && t.topic)
+    .map((t) => {
+      const tag = t.topic_tag ? ` (${t.topic_tag})` : '';
+      const bullets = Array.isArray(t.bullets) ? t.bullets.slice(0, 4) : [];
+      const inner = bullets
+        .map((b) => b && (b.text || b.details || '').toString().slice(0, 60))
+        .filter(Boolean)
+        .join(' / ');
+      return `• ${t.topic}${tag}${inner ? ' — ' + inner : ''}`;
+    })
+    .join('\n');
+
+  return `
+
+---
+[今日宏观日览已覆盖的主题 · src/data/${date}/macro.json]
+${lines}
+
+**去重要求**：以上主题已在"宏观日览"区块展示。请从 events 结果中**剔除任何被以上主题完全覆盖的内容**（如地缘表态、央行政策、宏观商品走向等）。只保留真正独立的**行业/个股事件**（财报、并购、监管细项、产品发布、股东行动等）。如不确定某条是否独立，倾向于**剔除**。`;
+}
+
 async function callClaude({ env, kind, text, images, imageUrls, date, modelOverride }) {
   const client = await getAnthropicClient(env);
 
@@ -335,10 +371,16 @@ async function callClaude({ env, kind, text, images, imageUrls, date, modelOverr
       });
     }
   }
+  // For events, append the already-covered macro topics so Claude can
+  // filter out duplicates. No-op if macro.json doesn't exist yet.
+  const dedupSuffix = isEvents ? buildMacroDedupContext(date) : '';
   if (text && String(text).trim()) {
-    userContent.push({ type: 'text', text: String(text) });
+    userContent.push({ type: 'text', text: String(text) + dedupSuffix });
   } else if (userContent.length > 0) {
-    userContent.push({ type: 'text', text: '请从上图中提取全部事件/主题，结合图中图表与文字。' });
+    userContent.push({ type: 'text', text: '请从上图中提取全部事件/主题，结合图中图表与文字。' + dedupSuffix });
+  }
+  if (dedupSuffix) {
+    console.log('[ingestApi] events dedup: appended macro context from', date);
   }
 
   const response = await client.messages.create({
@@ -467,6 +509,129 @@ async function callClaude({ env, kind, text, images, imageUrls, date, modelOverr
   };
 }
 
+// --- Update + Publish (dev-only, streams chunks back to the browser) -----
+//
+// /api/update   — runs polygon_snapshot.py and finviz_screenshot.py so the
+//                 user can review the new data + chart in the browser BEFORE
+//                 anything hits GitHub. No git commands run here.
+// /api/publish  — only git add / commit / push. Separate so a bad Finviz
+//                 screenshot or a broken macro paste never reaches prod.
+// Both endpoints stream stdout/stderr as chunked text/plain. The browser
+// reads via fetch().body.getReader() and appends to a log box. On exit they
+// write a final sentinel line the frontend parses:
+//     __STATUS__ ok=<true|false> [commit=<sha>] [date=<YYYY-MM-DD>]
+// so client code can tell success from failure without re-parsing the log.
+
+function startStream(res) {
+  res.writeHead(200, {
+    'Content-Type': 'text/plain; charset=utf-8',
+    'Cache-Control': 'no-cache',
+    'Connection': 'keep-alive',
+    'X-Content-Type-Options': 'nosniff',
+  });
+  return (s) => res.write(s);
+}
+
+function spawnStep(bin, args, write, env = process.env) {
+  return new Promise((resolve, reject) => {
+    write(`\n▶ ${bin} ${args.join(' ')}\n`);
+    const proc = spawn(bin, args, { cwd: REPO_ROOT, env });
+    proc.stdout.on('data', (d) => write(d.toString()));
+    proc.stderr.on('data', (d) => write(d.toString()));
+    proc.on('error', (e) => reject(new Error(`${bin}: ${e.message}`)));
+    proc.on('close', (code) =>
+      code === 0 ? resolve() : reject(new Error(`${bin} exited ${code}`))
+    );
+  });
+}
+
+function latestDataDate() {
+  try {
+    const dirs = fs.readdirSync(DATA_DIR, { withFileTypes: true })
+      .filter((d) => d.isDirectory() && /^\d{4}-\d{2}-\d{2}$/.test(d.name))
+      .map((d) => d.name)
+      .sort();
+    return dirs[dirs.length - 1] || null;
+  } catch { return null; }
+}
+
+async function handleUpdate(req, res) {
+  const write = startStream(res);
+  try {
+    write(`[info] step 1/2: polygon + yahoo + CNN PCR snapshot\n`);
+    await spawnStep('python3', ['-u', 'server/polygon_snapshot.py'], write);
+
+    write(`\n[info] step 2/2: Finviz bubble screenshot\n`);
+    try {
+      await spawnStep('python3', ['-u', 'server/finviz_screenshot.py'], write);
+    } catch (e) {
+      // Finviz failure is non-fatal — the previous PNG stays usable and the
+      // user can retry after checking their debug Chrome is up.
+      write(`\n[warn] Finviz step failed: ${e.message}\n`);
+      write(`[warn] keeping previous public/finviz_bubble.png\n`);
+    }
+    const date = latestDataDate();
+    write(`\n__STATUS__ ok=true date=${date}\n`);
+  } catch (e) {
+    write(`\n__STATUS__ ok=false error=${e.message}\n`);
+  }
+  res.end();
+}
+
+function gitSpawn(args, write) {
+  return new Promise((resolve, reject) => {
+    write(`\n▶ git ${args.join(' ')}\n`);
+    const proc = spawn('git', args, { cwd: REPO_ROOT, env: process.env });
+    let stdout = '';
+    proc.stdout.on('data', (d) => { const s = d.toString(); stdout += s; write(s); });
+    proc.stderr.on('data', (d) => write(d.toString()));
+    proc.on('error', (e) => reject(new Error(`git ${args[0]}: ${e.message}`)));
+    proc.on('close', (code) =>
+      code === 0 ? resolve(stdout.trim()) : reject(new Error(`git ${args[0]} exited ${code}`))
+    );
+  });
+}
+
+async function handlePublish(req, res) {
+  const write = startStream(res);
+  try {
+    const date = latestDataDate();
+    if (!date) throw new Error('no src/data/YYYY-MM-DD folder found');
+
+    // 1. Show what's changing so the user sees it in the log.
+    await gitSpawn(['status', '--short'], write);
+
+    // 2. Stage just the files the update flow touches — never blanket `git add .`
+    //    which could pick up unrelated local edits (.env.local won't get added
+    //    because of the gitignore, but be explicit anyway).
+    await gitSpawn(
+      ['add', `src/data/${date}`, 'public/finviz_bubble.png'],
+      write
+    );
+
+    // 3. If nothing staged, skip the commit — not an error, common when user
+    //    pressed Publish twice without re-running Update.
+    const diffCached = await new Promise((resolve) => {
+      const p = spawn('git', ['diff', '--cached', '--quiet'], { cwd: REPO_ROOT });
+      p.on('close', (code) => resolve(code));
+    });
+    if (diffCached === 0) {
+      write(`\n[info] nothing staged — already in sync with last publish\n`);
+      write(`\n__STATUS__ ok=true date=${date} commit=noop\n`);
+      return res.end();
+    }
+
+    await gitSpawn(['commit', '-m', `daily: ${date}`], write);
+    const sha = await gitSpawn(['rev-parse', '--short', 'HEAD'], write);
+    await gitSpawn(['push'], write);
+
+    write(`\n__STATUS__ ok=true date=${date} commit=${sha}\n`);
+  } catch (e) {
+    write(`\n__STATUS__ ok=false error=${e.message}\n`);
+  }
+  res.end();
+}
+
 // --- Plugin factory ------------------------------------------------------
 
 export function ingestApiPlugin(env) {
@@ -523,6 +688,16 @@ export function ingestApiPlugin(env) {
             if (!fs.existsSync(filePath)) fs.writeFileSync(filePath, buf);
             const url = `/uploads/${date}/${hash}.${ext}`;
             return sendJson(res, 200, { ok: true, url, hash, bytes: buf.length, filename: filename || null });
+          }
+
+          if (req.method === 'POST' && req.url === '/api/update') {
+            await handleUpdate(req, res);
+            return;
+          }
+
+          if (req.method === 'POST' && req.url === '/api/publish') {
+            await handlePublish(req, res);
+            return;
           }
 
           if (req.method === 'POST' && req.url === '/api/save') {

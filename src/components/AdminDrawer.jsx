@@ -21,15 +21,19 @@
 import { useState, useEffect, useRef } from 'react';
 
 const TABS = [
-  { id: 'events', label: 'Events' },
-  { id: 'macro',  label: 'Macro'  },
+  { id: 'events',   label: 'Events'   },
+  { id: 'macro',    label: 'Macro'    },
+  { id: 'publish',  label: 'Publish'  },
   { id: 'settings', label: 'Settings' },
 ];
 
 const MODEL_OPTIONS = [
   { value: '', label: 'Default (.env.local)' },
-  { value: 'claude-opus-4-5', label: 'Opus 4.5 (accurate, slow ~60-180s)' },
-  { value: 'claude-sonnet-4-5', label: 'Sonnet 4.5 (fast ~30s)' },
+  { value: 'claude-opus-4-7',    label: 'Opus 4.7 · 最强 (slow ~60-180s)' },
+  { value: 'claude-sonnet-4-6',  label: 'Sonnet 4.6 · 快 (~20-40s)' },
+  { value: 'claude-haiku-4-5-20251001', label: 'Haiku 4.5 · 最快便宜' },
+  { value: 'claude-opus-4-5',    label: 'Opus 4.5 (旧)' },
+  { value: 'claude-sonnet-4-5',  label: 'Sonnet 4.5 (旧)' },
 ];
 
 const MODEL_LS_KEY = '__ingest_model_override';
@@ -401,6 +405,150 @@ function SettingsTab() {
   );
 }
 
+// --- Publish tab: Update (snapshot + finviz, local only) + Publish (git push) ---
+//
+// Two buttons, two endpoints. The split lets you verify Finviz and the new
+// numbers LOCALLY before anything hits GitHub / Vercel. Both endpoints stream
+// chunked text/plain; we read via fetch body.getReader() and append to a
+// log box. Server writes a trailing `__STATUS__ ok=... date=... commit=...`
+// line we parse to show success/failure banners.
+function PublishTab() {
+  const [log, setLog] = useState('');
+  const [busy, setBusy] = useState(null); // 'update' | 'publish' | null
+  const [status, setStatus] = useState(null); // {ok, date, commit, error}
+  const abortRef = useRef(null);
+
+  async function runAction(action) {
+    if (busy) return;
+    setBusy(action);
+    setLog('');
+    setStatus(null);
+    const ctrl = new AbortController();
+    abortRef.current = ctrl;
+    try {
+      const resp = await fetch(`/api/${action}`, {
+        method: 'POST',
+        signal: ctrl.signal,
+      });
+      if (!resp.ok || !resp.body) throw new Error(`HTTP ${resp.status}`);
+      const reader = resp.body.getReader();
+      const decoder = new TextDecoder();
+      let buf = '';
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        buf += decoder.decode(value, { stream: true });
+        setLog(buf);
+      }
+      // Parse the final __STATUS__ line the server wrote
+      const m = buf.match(/__STATUS__\s+(.+)$/m);
+      if (m) {
+        const parts = Object.fromEntries(
+          m[1].trim().split(/\s+/).map((kv) => {
+            const i = kv.indexOf('=');
+            return i < 0 ? [kv, true] : [kv.slice(0, i), kv.slice(i + 1)];
+          })
+        );
+        setStatus({
+          ok: parts.ok === 'true',
+          date: parts.date,
+          commit: parts.commit,
+          error: parts.error,
+        });
+      } else {
+        setStatus({ ok: false, error: 'no __STATUS__ line from server' });
+      }
+    } catch (e) {
+      if (e.name !== 'AbortError') {
+        setLog((l) => l + `\n[client] ${e.message}\n`);
+        setStatus({ ok: false, error: e.message });
+      } else {
+        setLog((l) => l + `\n[client] aborted\n`);
+      }
+    } finally {
+      setBusy(null);
+      abortRef.current = null;
+    }
+  }
+
+  return (
+    <div>
+      <div style={{ fontSize: 11, color: 'var(--text-dim)', lineHeight: 1.6, marginBottom: 12 }}>
+        <div><b style={{ color: 'var(--text)' }}>① 更新 Update</b> — 跑 polygon_snapshot.py + finviz_screenshot.py。本地文件会被覆盖，刷页面看效果。<b>不碰 git</b>。</div>
+        <div style={{ marginTop: 4 }}><b style={{ color: 'var(--text)' }}>② 发布 Publish</b> — git add + commit + push → Vercel 自动 deploy。建议先 Update 看对了再 Publish。</div>
+      </div>
+
+      <div style={{ display: 'flex', gap: 8, marginBottom: 10 }}>
+        <button
+          onClick={() => runAction('update')}
+          disabled={!!busy}
+          style={{
+            flex: 1, padding: '10px 14px', fontSize: 13, fontWeight: 700,
+            background: busy === 'update' ? 'var(--card-alt)' : 'var(--green)',
+            color: busy === 'update' ? 'var(--text-dim)' : '#0d1117',
+            border: 0, borderRadius: 4,
+            cursor: busy ? 'wait' : 'pointer',
+            opacity: busy && busy !== 'update' ? 0.4 : 1,
+          }}
+        >
+          {busy === 'update' ? '更新中…' : '🔄 ① 更新 Update'}
+        </button>
+        <button
+          onClick={() => runAction('publish')}
+          disabled={!!busy}
+          style={{
+            flex: 1, padding: '10px 14px', fontSize: 13, fontWeight: 700,
+            background: busy === 'publish' ? 'var(--card-alt)' : 'var(--gold)',
+            color: busy === 'publish' ? 'var(--text-dim)' : '#0d1117',
+            border: 0, borderRadius: 4,
+            cursor: busy ? 'wait' : 'pointer',
+            opacity: busy && busy !== 'publish' ? 0.4 : 1,
+          }}
+        >
+          {busy === 'publish' ? '发布中…' : '🚀 ② 发布 Publish'}
+        </button>
+      </div>
+
+      {busy && (
+        <button
+          onClick={() => abortRef.current?.abort()}
+          style={{
+            padding: '4px 10px', fontSize: 11, marginBottom: 10,
+            background: 'transparent', border: '1px solid var(--border)',
+            borderRadius: 3, color: 'var(--text-dim)', cursor: 'pointer',
+          }}
+        >
+          取消
+        </button>
+      )}
+
+      {status && (
+        <div style={{
+          padding: '6px 10px', marginBottom: 10, borderRadius: 4, fontSize: 12,
+          background: status.ok ? 'rgba(70,180,110,.12)' : 'rgba(220,90,90,.12)',
+          border: `1px solid ${status.ok ? 'var(--green)' : 'var(--red)'}`,
+          color: status.ok ? 'var(--green)' : 'var(--red)',
+        }}>
+          {status.ok
+            ? `✓ 完成${status.date ? ` · ${status.date}` : ''}${status.commit && status.commit !== 'noop' ? ` · commit ${status.commit}` : status.commit === 'noop' ? ' · 无改动' : ''}`
+            : `✗ ${status.error || '失败'}`}
+        </div>
+      )}
+
+      <pre style={{
+        background: '#0b0e14', color: 'var(--text)',
+        padding: 10, borderRadius: 4, fontSize: 10.5, lineHeight: 1.45,
+        maxHeight: 460, overflowY: 'auto',
+        whiteSpace: 'pre-wrap', wordBreak: 'break-word',
+        fontFamily: 'ui-monospace, SFMono-Regular, monospace',
+        minHeight: 200, margin: 0,
+      }}>
+        {log || '(log 会实时显示在这里)'}
+      </pre>
+    </div>
+  );
+}
+
 export default function AdminDrawer({ currentDate }) {
   const [open, setOpen] = useState(false);
   const [tab, setTab] = useState('events');
@@ -466,6 +614,7 @@ export default function AdminDrawer({ currentDate }) {
           <div style={{ padding: 14, overflowY: 'auto', flex: 1 }}>
             {tab === 'events' && <IngestTab kind="events" date={currentDate} />}
             {tab === 'macro' && <IngestTab kind="macro" date={currentDate} />}
+            {tab === 'publish' && <PublishTab />}
             {tab === 'settings' && <SettingsTab />}
           </div>
         </div>
