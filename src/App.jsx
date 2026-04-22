@@ -28,6 +28,11 @@ import {
 } from 'recharts';
 import { useState, useEffect, useMemo, useRef, createContext, useContext } from 'react';
 import AdminDrawer from './components/AdminDrawer.jsx';
+import { fetchEditsForDate, saveEdit } from './lib/screenerEdits.js';
+
+// Context so EditableCell / ReasonCell can trigger a refetch after save
+// without prop-drilling through the whole App tree.
+const ScreenerEditsCtx = createContext({ edits: {}, reload: () => {} });
 
 // --- Lightbox: single shared overlay for all clickable images ------------
 const LightboxCtx = createContext({ open: () => {} });
@@ -577,9 +582,18 @@ function MacroBullet({ bullet }) {
 
 // --- Component ----------------------------------------------------------
 export default function App() {
+  const [edits, setEdits] = useState({});
+  const reload = async () => {
+    if (!CURRENT_DATE) return;
+    const m = await fetchEditsForDate(CURRENT_DATE);
+    setEdits(m);
+  };
+  useEffect(() => { reload(); /* eslint-disable-next-line react-hooks/exhaustive-deps */ }, []);
   return (
     <LightboxProvider>
-      <AppBody />
+      <ScreenerEditsCtx.Provider value={{ edits, reload }}>
+        <AppBody />
+      </ScreenerEditsCtx.Provider>
     </LightboxProvider>
   );
 }
@@ -590,27 +604,19 @@ export default function App() {
 // swapped without a reload). Latest date has no ?date param so the URL
 // stays clean for the default view.
 // Inline-editable cell for Top Movers (industry / reason). Saves to
-// src/data/{date}/screener.json via POST /api/screener-edit on blur.
-// Dev-only: the endpoint is served by the Vite plugin. In prod the JSON is
-// already committed so rows render read-only naturally.
+// Supabase (screener_edits table) on blur — the JSON stays pristine and
+// Supabase overlays the value at render time. See src/lib/screenerEdits.js.
 function EditableCell({ tk, field, initial, placeholder, multiline }) {
   const [value, setValue] = useState(initial || '');
   const [status, setStatus] = useState('idle');  // idle | saving | saved | error
+  // Sync when overlay arrives async after first render.
+  useEffect(() => { setValue(initial || ''); }, [initial]);
   const Tag = multiline ? 'textarea' : 'input';
   const save = async () => {
     if (value === (initial || '')) return;
     setStatus('saving');
-    try {
-      const r = await fetch('/api/screener-edit', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ date: CURRENT_DATE, tk, field, value }),
-      });
-      const j = await r.json();
-      setStatus(j.ok ? 'saved' : 'error');
-    } catch {
-      setStatus('error');
-    }
+    const ok = await saveEdit(CURRENT_DATE, tk, field, value);
+    setStatus(ok ? 'saved' : 'error');
   };
   return (
     <Tag
@@ -637,6 +643,7 @@ function ReasonCell({ tk, initial }) {
   const [open, setOpen] = useState(false);
   const news = MOVERS_NEWS[tk] || [];
   const rootRef = useRef(null);
+  useEffect(() => { setValue(initial || ''); }, [initial]);
 
   useEffect(() => {
     if (!open) return;
@@ -650,15 +657,8 @@ function ReasonCell({ tk, initial }) {
   const save = async (next) => {
     if (next === (initial || '')) return;
     setStatus('saving');
-    try {
-      const r = await fetch('/api/screener-edit', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ date: CURRENT_DATE, tk, field: 'reason', value: next }),
-      });
-      const j = await r.json();
-      setStatus(j.ok ? 'saved' : 'error');
-    } catch { setStatus('error'); }
+    const ok = await saveEdit(CURRENT_DATE, tk, 'reason', next);
+    setStatus(ok ? 'saved' : 'error');
   };
 
   const pick = (n) => {
@@ -754,6 +754,8 @@ function DateSwitcher() {
 function AppBody() {
   // Macro topics render in ingest order (no sort).
   const macroTopics = MACRO_TOPICS;
+  // Human overrides for Top Movers industry / reason (loaded from Supabase).
+  const { edits: screenerEdits } = useContext(ScreenerEditsCtx);
 
   return (
     <>
@@ -873,10 +875,13 @@ function AppBody() {
                 const d1 = s.d1;
                 const w1 = s.w1;
                 const isDown = (d1 ?? 0) < 0;
+                const ov = screenerEdits[s.tk] || {};
+                const industry = ov.industry ?? s.industry;
+                const reason   = ov.reason   ?? s.reason;
                 return (
                   <tr key={s.tk}>
                     <td style={{ padding: 2 }}>
-                      <EditableCell tk={s.tk} field="industry" initial={s.industry} placeholder="填写…" />
+                      <EditableCell tk={s.tk} field="industry" initial={industry} placeholder="填写…" />
                     </td>
                     <td className="tk">{s.tk}</td>
                     <td className="nm">{s.nm}</td>
@@ -893,7 +898,7 @@ function AppBody() {
                       {s.w1_avg_dollar_vol_bn != null ? s.w1_avg_dollar_vol_bn.toFixed(2) : '—'}
                     </td>
                     <td style={{ padding: 2 }}>
-                      <ReasonCell tk={s.tk} initial={s.reason} />
+                      <ReasonCell tk={s.tk} initial={reason} />
                     </td>
                     <td className="biz">{s.main_business || <span style={{ color: 'var(--text-dim)' }}>—</span>}</td>
                   </tr>

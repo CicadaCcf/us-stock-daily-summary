@@ -721,35 +721,6 @@ export function ingestApiPlugin(env) {
             return;
           }
 
-          if (req.method === 'POST' && req.url === '/api/screener-edit') {
-            const body = await readJsonBody(req);
-            const { date, tk, field, value } = body || {};
-            if (!date || !/^\d{4}-\d{2}-\d{2}$/.test(date)) {
-              return sendJson(res, 400, { ok: false, error: 'date must be YYYY-MM-DD' });
-            }
-            if (!tk || typeof tk !== 'string') {
-              return sendJson(res, 400, { ok: false, error: 'tk required' });
-            }
-            // Whitelist — only user-editable columns may be overwritten from the UI.
-            const EDITABLE = new Set(['industry', 'reason']);
-            if (!EDITABLE.has(field)) {
-              return sendJson(res, 400, { ok: false, error: `field must be one of ${[...EDITABLE].join(',')}` });
-            }
-            const filePath = path.join(DATA_DIR, date, 'screener.json');
-            if (!fs.existsSync(filePath)) {
-              return sendJson(res, 404, { ok: false, error: `no screener.json for ${date}` });
-            }
-            const json = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-            const rows = Array.isArray(json.rows) ? json.rows : [];
-            const row = rows.find(r => r.tk === tk);
-            if (!row) {
-              return sendJson(res, 404, { ok: false, error: `ticker ${tk} not found in ${date}` });
-            }
-            row[field] = typeof value === 'string' ? value : '';
-            fs.writeFileSync(filePath, JSON.stringify(json, null, 2) + '\n', 'utf8');
-            return sendJson(res, 200, { ok: true, tk, field });
-          }
-
           if (req.method === 'POST' && req.url === '/api/save') {
             const body = await readJsonBody(req);
             const { kind, date, data } = body || {};

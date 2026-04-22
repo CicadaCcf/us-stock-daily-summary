@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.64.0",
+    "@supabase/supabase-js": "^2.104.0",
     "https-proxy-agent": "^7.0.6",
     "jsonrepair": "^3.14.0",
     "react": "^19.2.5",
