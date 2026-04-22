@@ -9,7 +9,6 @@ import {
   SECTOR_MAX_ABS,
   SCREENER,
   SCREENER_MAX_ABS,
-  ALPHA,
   THEMES,
   EVENTS,
   BREADTH,
@@ -528,18 +527,21 @@ function AppBody() {
           )}
         </div>
         <div className="section-title" style={{ marginTop: 14 }}>市场总览 Market Overview</div>
-        <div className="idx-cards">
-          {INDICES.map(ix => (
-            <div className="idx-card" key={ix.label}>
-              <div className="label">{ix.label}</div>
-              <div className="value">{ix.value}</div>
-              <div className={`change ${ix.dir}`}>
-                <span className="arrow">{ix.dir === 'up' ? '\u25B2' : '\u25BC'}</span>
-                {ix.change}
+        {/* Row 1 = US (first 6 from INDICES_YAHOO), Row 2 = global + commodities */}
+        {[INDICES.slice(0, 6), INDICES.slice(6)].map((row, rowIdx) => (
+          <div className="idx-cards" key={rowIdx} style={rowIdx === 1 ? { marginTop: 6 } : undefined}>
+            {row.map(ix => (
+              <div className="idx-card" key={ix.label}>
+                <div className="label">{ix.label}</div>
+                <div className="value">{ix.value}</div>
+                <div className={`change ${ix.dir}`}>
+                  <span className="arrow">{ix.dir === 'up' ? '\u25B2' : '\u25BC'}</span>
+                  {ix.change}
+                </div>
               </div>
-            </div>
-          ))}
-        </div>
+            ))}
+          </div>
+        ))}
         <div className="breadth-grid" style={{ marginTop: 12 }}>
           <div className="breadth-box">
             <h3>涨跌家数 &amp; 成交量分布</h3>
@@ -572,12 +574,12 @@ function AppBody() {
           <div className="breadth-box">
             <h3>关键市场指标</h3>
             <div className="metric-grid" style={{ gridTemplateColumns: '1fr 1fr' }}>
-              <div className="metric"><div className="mv" style={{ color: 'var(--blue)' }}>{BREADTH.putCall ? BREADTH.putCall.toFixed(2) : '—'}</div><div className="ml">Put/Call Ratio</div></div>
-              <div className="metric"><div className="mv down">{BREADTH.vix.toFixed(2)}</div><div className="ml">VIX 恐慌指数</div></div>
-              <div className="metric"><div className="mv up">{BREADTH.new52wHigh || '—'}</div><div className="ml">52周新高</div></div>
-              <div className="metric"><div className="mv down">{BREADTH.new52wLow || '—'}</div><div className="ml">52周新低</div></div>
-              <div className="metric"><div className="mv" style={{ color: 'var(--gold)' }}>{BREADTH.pctAbove50dma ? BREADTH.pctAbove50dma.toFixed(1) + '%' : '—'}</div><div className="ml">股价 &gt; 50日均线</div></div>
-              <div className="metric"><div className="mv" style={{ color: 'var(--gold)' }}>{BREADTH.pctAbove200dma ? BREADTH.pctAbove200dma.toFixed(1) + '%' : '—'}</div><div className="ml">股价 &gt; 200日均线</div></div>
+              <div className="metric"><div className="mv">{BREADTH.putCall ? BREADTH.putCall.toFixed(2) : '—'}</div><div className="ml">Put/Call Ratio</div></div>
+              <div className="metric"><div className="mv">{BREADTH.vix.toFixed(2)}</div><div className="ml">VIX 恐慌指数</div></div>
+              <div className="metric"><div className="mv">{BREADTH.new52wHigh || '—'}</div><div className="ml">52周新高</div></div>
+              <div className="metric"><div className="mv">{BREADTH.new52wLow || '—'}</div><div className="ml">52周新低</div></div>
+              <div className="metric"><div className="mv">{BREADTH.pctAbove50dma ? BREADTH.pctAbove50dma.toFixed(1) + '%' : '—'}</div><div className="ml">股价 &gt; 50日均线</div></div>
+              <div className="metric"><div className="mv">{BREADTH.pctAbove200dma ? BREADTH.pctAbove200dma.toFixed(1) + '%' : '—'}</div><div className="ml">股价 &gt; 200日均线</div></div>
             </div>
           </div>
         </div>
@@ -650,47 +652,6 @@ function AppBody() {
             </tbody>
           </table>
         </div>
-      </div>
-
-      {/* ========== SECTION 5: ALPHA SIGNALS ========== */}
-      <div className="section">
-        <div className="section-title">Alpha信号 Alpha Signals</div>
-        <table>
-          <thead>
-            <tr>
-              <th>Ticker</th>
-              <th>名称</th>
-              <th>Alpha Score</th>
-              <th>板块</th>
-              <th>1D%</th>
-              <th>5D Alpha vs SPX</th>
-              <th>1M Alpha vs SPX</th>
-              <th>信号强度</th>
-            </tr>
-          </thead>
-          <tbody>
-            {ALPHA.map(a => (
-              <tr key={a.tk} className={a.hi ? 'alpha-hl' : undefined}>
-                <td style={{ color: 'var(--blue)', fontWeight: 600 }}>{a.tk}</td>
-                <td>{a.nm}</td>
-                <td style={{ color: a.scoreGold ? 'var(--gold)' : undefined, fontWeight: 700 }}>
-                  {a.score.toFixed(1)}
-                </td>
-                <td><span className="tag">{a.tag}</span></td>
-                <td className="up">{a.d1}</td>
-                <td className="up">{a.a5}</td>
-                <td className={a.amDown ? 'down' : 'up'}>{a.am}</td>
-                <td>
-                  <span className="dots">
-                    {Array.from({ length: 5 }).map((_, i) => (
-                      <span className={i < a.dots ? 'dot-on' : 'dot-off'} key={i}>●</span>
-                    ))}
-                  </span>
-                </td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
       </div>
 
       {/* ========== SECTION 6: THEME TRACKING ========== */}

@@ -76,12 +76,21 @@ PERIODS = {
 #   price       — show the price directly (e.g. S&P 500 7064)
 #   percent     — close is a yield × 10, show as X.XX% (e.g. TNX)
 INDICES_YAHOO = [
-    ('^GSPC', 'S&P 500',      'price'),
-    ('^NDX',  'Nasdaq 100',   'price'),
-    ('^DJI',  'Dow Jones',    'price'),
-    ('^RUT',  'Russell 2000', 'price'),
-    ('^VIX',  'VIX',          'price'),
-    ('^TNX',  '10Y Treasury', 'yield10'),  # TNX is yield × 10 (42.8 = 4.28%)
+    # Row 1 — US macro (order matters: frontend splits at index 6)
+    ('^GSPC',     'S&P 500',      'price'),
+    ('^NDX',      'Nasdaq 100',   'price'),
+    ('^DJI',      'Dow Jones',    'price'),
+    ('^RUT',      'Russell 2000', 'price'),
+    ('^VIX',      'VIX',          'price'),
+    ('^TNX',      '10Y Treasury', 'yield10'),  # TNX is yield × 10 (42.8 = 4.28%)
+    # Row 2 — global + commodities
+    ('DX-Y.NYB',  '美元指数 DXY', 'price'),
+    ('^N225',     '日经 225',     'price'),
+    ('^KS11',     '韩国 KOSPI',   'price'),
+    ('000300.SS', '沪深 300',     'price'),
+    ('^GDAXI',    '德国 DAX',     'price'),
+    ('GC=F',      '黄金 Gold',    'price'),
+    ('CL=F',      'WTI 原油',     'price'),
 ]
 SECTORS = [
     ('XLK',  '信息技术 Technology'),
@@ -136,6 +145,34 @@ def _get(path_and_query: str, timeout: int = 60) -> dict:
         except Exception:
             msg = str(e)
         raise RuntimeError(f'Polygon HTTP {e.code}: {msg}')
+
+def _fetch_cnn_pcr(timeout: int = 20) -> 'float | None':
+    """CNN Fear & Greed endpoint exposes the latest CBOE equity Put/Call Ratio
+    as a sub-indicator. CBOE's own CDN blocks non-browser requests, but CNN's
+    API accepts us with realistic headers. Returns None on any failure so the
+    snapshot never fails just because of this one field.
+    """
+    url = 'https://production.dataviz.cnn.io/index/fearandgreed/graphdata'
+    req = urllib.request.Request(url, headers={
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 '
+                      '(KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+        'Accept': 'application/json, text/plain, */*',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Referer': 'https://edition.cnn.com/',
+        'Origin':  'https://edition.cnn.com',
+    })
+    try:
+        opener = _opener()
+        with opener.open(req, timeout=timeout) as resp:
+            data = json.loads(resp.read().decode('utf-8'))
+        pts = (data.get('put_call_options') or {}).get('data') or []
+        if not pts:
+            return None
+        y = pts[-1].get('y')
+        return float(y) if y is not None else None
+    except Exception as e:
+        print(f'[warn] CNN PCR fetch failed: {e}')
+        return None
 
 def _get_yahoo_chart(symbol: str, range_: str = '1y', timeout: int = 30) -> dict:
     """Yahoo Finance chart endpoint (no auth). Must spoof User-Agent."""
@@ -429,6 +466,11 @@ def main():
     # VIX for breadth section
     vix_level = next((x['close'] for x in indices_out if x['symbol'] == 'VIX'), None)
 
+    # CBOE equity Put/Call Ratio — via CNN F&G endpoint (CBOE blocks direct).
+    pcr = _fetch_cnn_pcr()
+    if pcr is not None:
+        print(f'[info] Put/Call Ratio: {pcr:.2f}')
+
     # ----- market.json ------------------------------------------------
     def build_section(pairs: list) -> list:
         out = []
@@ -615,8 +657,9 @@ def main():
         # DMA — 0 until cache is bootstrapped (server/bootstrap_cache.py).
         'pctAbove50dma': pct_above_50,
         'pctAbove200dma': pct_above_200,
-        # Put/Call — no free source; still 0.
-        'putCall': 0,
+        # Put/Call Ratio — CBOE equity PCR via CNN F&G endpoint (CBOE CDN 403s
+        # outside their allowed surfaces). None if CNN is unreachable.
+        'putCall': round(pcr, 2) if pcr is not None else 0,
     }
     (out_dir / 'breadth.json').write_text(
         json.dumps(breadth, indent=2, ensure_ascii=False) + '\n'
