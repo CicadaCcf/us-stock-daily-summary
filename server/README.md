@@ -140,6 +140,28 @@ Fields that are `null` mean "not available in this snapshot", not
 
 ---
 
+## 1Y close-price cache (DMA + strict 52w)
+
+Two breadth metrics need a full rolling year of closes per ticker:
+`pctAbove50dma` / `pctAbove200dma` and strict `new52wHigh` / `new52wLow`.
+The 6-anchor approach in `polygon_snapshot.py` can't produce these, so we
+keep a local cache at `server/cache/closes_1y.json` (gitignored, ~20 MB).
+
+**One-time bootstrap** (takes ~10 min, hits Polygon ~252 times):
+
+```bash
+python3 server/bootstrap_cache.py                  # last 252 trading days
+python3 server/bootstrap_cache.py --days 200       # shorter, for smoke tests
+python3 server/bootstrap_cache.py --ref-date 2026-04-17
+```
+
+After that, `polygon_snapshot.py` incrementally appends each new trading
+day on every run (reusing its own `bars_today` so typically **zero extra
+API calls**), trims to the last 260 days, and writes stats into
+`breadth.json`. If `server/cache/closes_1y.json` is missing, the snapshot
+script still runs — it falls back to the 6-anchor 52w approximation and
+leaves DMA at 0, with `new52wApprox: true` so the frontend can label it.
+
 ## Scheduling (cron, optional)
 
 Run once per trading day around 16:30 ET, after the US close:

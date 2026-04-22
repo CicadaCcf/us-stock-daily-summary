@@ -51,6 +51,13 @@ PROXY = os.environ.get('HTTPS_PROXY') or os.environ.get('HTTP_PROXY')
 
 BASE = 'https://api.polygon.io'
 
+# 1Y close-price cache (populated by server/bootstrap_cache.py, then
+# incrementally updated here). Powers pctAbove50dma, pctAbove200dma, and
+# strict new52wHigh / new52wLow.
+CACHE_DIR        = ROOT / 'server' / 'cache'
+CACHE_FILE       = CACHE_DIR / 'closes_1y.json'
+CACHE_KEEP_DAYS  = 260   # ~1Y + buffer; trim older entries on each run
+
 # Period lookback in business days.
 # Keys match src/App.jsx SCREENER field names (d1/d5/m1/m3/m6/y1).
 PERIODS = {
@@ -178,6 +185,125 @@ def grouped_with_fallback(target: date, label: str, max_steps: int = 5) -> tuple
             return cur, bars
         cur -= timedelta(days=1)
     return cur, {}
+
+# --- 1Y close cache (bootstrap once, then incremental) ------------------
+
+def load_cache() -> 'dict | None':
+    if not CACHE_FILE.exists():
+        return None
+    try:
+        return json.loads(CACHE_FILE.read_text())
+    except Exception as e:
+        print(f'[warn] cache load failed: {e}')
+        return None
+
+def update_cache(cache: dict, ref_date: date, bars_today: dict) -> dict:
+    """Append every missing trading day through ref_date. Reuses bars_today
+    for ref_date itself so the common case costs zero extra API calls.
+    Trims to last CACHE_KEEP_DAYS and returns the mutated cache."""
+    cache_dates = [date.fromisoformat(s) for s in cache['dates']]
+    closes = cache['closes']
+    if cache_dates[-1] >= ref_date:
+        return cache
+    missing = []
+    cur = cache_dates[-1] + timedelta(days=1)
+    while cur <= ref_date:
+        if cur.weekday() < 5:
+            missing.append(cur)
+        cur += timedelta(days=1)
+    print(f'[info] cache incremental: {len(missing)} potential trading day(s) since {cache_dates[-1]}')
+    for d in missing:
+        if d == ref_date:
+            bars = bars_today  # reuse — saves one API call
+        else:
+            try:
+                bars = grouped_daily(d)
+            except Exception as e:
+                print(f'[warn] cache incr {d}: {e}')
+                time.sleep(0.15)
+                continue
+            time.sleep(0.15)
+        if not bars:
+            continue  # holiday
+        cache_dates.append(d)
+        new_idx = len(cache_dates) - 1
+        for tk in closes:
+            closes[tk].append(None)
+        for tk, bar in bars.items():
+            c = bar.get('c')
+            if c is None or c <= 0:
+                continue
+            c = round(float(c), 4)
+            if tk in closes:
+                closes[tk][new_idx] = c
+            else:
+                closes[tk] = [None] * new_idx + [c]
+        print(f'  [cache] +{d}: {len(bars):,} tickers')
+    if len(cache_dates) > CACHE_KEEP_DAYS:
+        trim = len(cache_dates) - CACHE_KEEP_DAYS
+        cache_dates = cache_dates[trim:]
+        for tk in list(closes.keys()):
+            closes[tk] = closes[tk][trim:]
+            if all(x is None for x in closes[tk]):
+                del closes[tk]
+    cache['dates']        = [d.isoformat() for d in cache_dates]
+    cache['last_date']    = cache_dates[-1].isoformat()
+    cache['days']         = len(cache_dates)
+    cache['closes']       = closes
+    cache['generated_at'] = datetime.now().isoformat(timespec='seconds')
+    return cache
+
+def save_cache(cache: dict) -> None:
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    CACHE_FILE.write_text(json.dumps(cache, separators=(',', ':')))
+
+def compute_cache_stats(cache: dict, today_table: dict) -> dict:
+    """Strict DMA + 52w stats against the full 1Y cache.
+
+    DMA window: last 50 / 200 non-null closes including today (Finviz /
+    Yahoo convention). 52w high/low: today's close vs the 252 PRIOR closes
+    (today excluded). Tickers with < 100 prior closes are skipped for 52w
+    (too young to have a meaningful 52w anchor). Denominators reflect
+    tickers with enough history, not the full 12k universe.
+    """
+    closes = cache['closes']
+    above50 = total50 = 0
+    above200 = total200 = 0
+    n_high = n_low = total_52w = 0
+    for tk, row in today_table.items():
+        today_close = row['close']
+        hist = closes.get(tk)
+        if not hist:
+            continue
+        vals = [c for c in hist if c is not None]
+        if not vals:
+            continue
+        if len(vals) >= 50:
+            ma50 = sum(vals[-50:]) / 50
+            total50 += 1
+            if today_close > ma50:
+                above50 += 1
+        if len(vals) >= 200:
+            ma200 = sum(vals[-200:]) / 200
+            total200 += 1
+            if today_close > ma200:
+                above200 += 1
+        window = vals[-253:-1]  # prior ≤252 closes, exclude today
+        if len(window) >= 100:
+            total_52w += 1
+            if today_close > max(window):
+                n_high += 1
+            if today_close < min(window):
+                n_low += 1
+    return {
+        'pct_above_50':  round(above50 / total50 * 100, 1) if total50 else 0,
+        'pct_above_200': round(above200 / total200 * 100, 1) if total200 else 0,
+        'n_52w_high':    n_high,
+        'n_52w_low':     n_low,
+        'dma_universe':  total50,
+        'n200_universe': total200,
+        '52w_universe':  total_52w,
+    }
 
 # --- Main ---------------------------------------------------------------
 
@@ -409,13 +535,9 @@ def main():
     print(f'[info] wrote {out_dir / "screener.json"} with {len(screener_rows)}/{len(candidates)} candidates')
 
     # ----- breadth.json ----------------------------------------------
+    # Advance/decline counts (always real from 12k universe).
     up = down = flat = 0
     vol_up = vol_down = 0.0
-    # Approx 52w high/low: today's close > max/min of the 6 anchor period
-    # closes for that ticker. Undercounts (misses peaks between anchors) but
-    # directionally correct and uses data we already have. Full 252-day rolling
-    # precision requires a bootstrap cache — see TODO in README.
-    n_52w_high = n_52w_low = 0
     for sym, r in table.items():
         d1 = r.get('d1_pct')
         if d1 is None:
@@ -428,20 +550,43 @@ def main():
             vol_down += r['dollar_volume']
         else:
             flat += 1
-        # 52w estimate via period anchor comparison
-        today_close = r['close']
-        prior_closes = []
-        for key in ('d5', 'm1', 'm3', 'm6', 'y1'):
-            pb = period_bars[key].get(sym)
-            if pb and pb.get('c') and pb['c'] > 0:
-                prior_closes.append(pb['c'])
-        if prior_closes:
-            if today_close > max(prior_closes) * 1.001:
-                n_52w_high += 1
-            if today_close < min(prior_closes) * 0.999:
-                n_52w_low += 1
     total_ad = up + down + flat
     total_vol = vol_up + vol_down
+
+    # DMA + strict 52w from 1Y cache if available; otherwise fall back to
+    # 6-anchor approximation for 52w and leave DMA at 0.
+    cache = load_cache()
+    if cache is not None:
+        cache = update_cache(cache, ref_date, bars_today)
+        save_cache(cache)
+        stats = compute_cache_stats(cache, table)
+        n_52w_high = stats['n_52w_high']
+        n_52w_low  = stats['n_52w_low']
+        pct_above_50  = stats['pct_above_50']
+        pct_above_200 = stats['pct_above_200']
+        approx_52w = False
+        print(f'[info] cache stats: {pct_above_50}% >50dma ({stats["dma_universe"]:,}), '
+              f'{pct_above_200}% >200dma ({stats["n200_universe"]:,}), '
+              f'52wH={n_52w_high} 52wL={n_52w_low} of {stats["52w_universe"]:,}')
+    else:
+        print('[warn] cache missing — run server/bootstrap_cache.py to enable DMA + strict 52w')
+        # 6-anchor 52w approximation (directionally correct, undercounts peaks
+        # between anchors). Skipped entirely when cache is present.
+        n_52w_high = n_52w_low = 0
+        for sym, r in table.items():
+            today_close = r['close']
+            prior_closes = []
+            for key in ('d5', 'm1', 'm3', 'm6', 'y1'):
+                pb = period_bars[key].get(sym)
+                if pb and pb.get('c') and pb['c'] > 0:
+                    prior_closes.append(pb['c'])
+            if prior_closes:
+                if today_close > max(prior_closes) * 1.001:
+                    n_52w_high += 1
+                if today_close < min(prior_closes) * 0.999:
+                    n_52w_low += 1
+        pct_above_50 = pct_above_200 = 0
+        approx_52w = True
 
     def pct(n, d):
         return round(n / d * 100, 1) if d else 0
@@ -462,15 +607,16 @@ def main():
         'volDownPct': pct(vol_down, total_vol),
         # Fear/VIX (from Yahoo)
         'vix': vix_level if vix_level is not None else 0,
-        # 52w stats — approximate from 6 anchor points (not strict rolling 252d).
-        # Full precision requires a grouped-daily bootstrap cache; TODO.
+        # 52w stats — strict rolling 252d when cache present, else approx
+        # from 6 anchor points (undercounts peaks between anchors).
         'new52wHigh': n_52w_high,
         'new52wLow': n_52w_low,
-        'new52wApprox': True,
-        # Fields still not populated (need rolling daily cache or different data source)
+        'new52wApprox': approx_52w,
+        # DMA — 0 until cache is bootstrapped (server/bootstrap_cache.py).
+        'pctAbove50dma': pct_above_50,
+        'pctAbove200dma': pct_above_200,
+        # Put/Call — no free source; still 0.
         'putCall': 0,
-        'pctAbove50dma': 0,
-        'pctAbove200dma': 0,
     }
     (out_dir / 'breadth.json').write_text(
         json.dumps(breadth, indent=2, ensure_ascii=False) + '\n'

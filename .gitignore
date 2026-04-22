@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# 1Y close-price cache — regenerable via server/bootstrap_cache.py (~20 MB)
+server/cache/
+
 # Claude Code local state — contains raw bash cache that may include secrets
 .claude/settings.local.json
 
