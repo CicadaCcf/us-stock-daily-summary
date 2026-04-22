@@ -28,7 +28,7 @@ import time
 import argparse
 import urllib.request
 import urllib.parse
-from datetime import date, datetime, timedelta
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 # --- Env / config --------------------------------------------------------
@@ -287,7 +287,7 @@ def update_cache(cache: dict, ref_date: date, bars_today: dict) -> dict:
     cache['last_date']    = cache_dates[-1].isoformat()
     cache['days']         = len(cache_dates)
     cache['closes']       = closes
-    cache['generated_at'] = datetime.now().isoformat(timespec='seconds')
+    cache['generated_at'] = datetime.now(timezone.utc).isoformat(timespec="seconds")
     return cache
 
 def save_cache(cache: dict) -> None:
@@ -513,7 +513,7 @@ def main():
             s['volumes_1y'] = []
 
     market = {
-        'generated_at': datetime.now().isoformat(timespec='seconds'),
+        'generated_at': datetime.now(timezone.utc).isoformat(timespec="seconds"),
         'source': 'polygon.io + yahoo',
         'date': out_date,
         'ref_date': ref_date.isoformat(),
@@ -559,7 +559,7 @@ def main():
         })
     screener = {
         'maxAbs': 500,
-        'generated_at': datetime.now().isoformat(timespec='seconds'),
+        'generated_at': datetime.now(timezone.utc).isoformat(timespec="seconds"),
         'source': 'polygon.io',
         'ref_date': ref_date.isoformat(),
         'filter': {
@@ -634,7 +634,7 @@ def main():
         return round(n / d * 100, 1) if d else 0
 
     breadth = {
-        'generated_at': datetime.now().isoformat(timespec='seconds'),
+        'generated_at': datetime.now(timezone.utc).isoformat(timespec="seconds"),
         'source': 'polygon.io + yahoo',
         'ref_date': ref_date.isoformat(),
         'universe_size': total_ad,

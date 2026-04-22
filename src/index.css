@@ -30,8 +30,14 @@ a { color: var(--blue); text-decoration: none; }
   padding: 14px 0; border-bottom: 1px solid var(--border);
   flex-wrap: wrap; gap: 10px;
 }
-.header-date { font-size: 20px; font-weight: 700; color: var(--text-bright); white-space: nowrap; }
+.header-date { font-size: 20px; font-weight: 700; color: var(--text-bright); white-space: nowrap; display: flex; align-items: center; gap: 10px; }
 .header-sub { font-size: 12px; color: var(--text-dim); margin-top: 2px; }
+.date-switcher {
+  background: var(--card-alt); color: var(--text); border: 1px solid var(--border);
+  border-radius: 4px; padding: 2px 6px; font-size: 12px; font-weight: 500;
+  cursor: pointer; font-family: inherit;
+}
+.date-switcher:hover { border-color: var(--blue); }
 .header-title-row {
   display: flex; justify-content: space-between; align-items: flex-start;
   flex: 1 1 100%; gap: 10px;
@@ -340,6 +346,7 @@ table tr:hover td { background: rgba(9, 132, 227, .07); }
 .macro-card-head:not(:disabled):hover { background: rgba(9, 132, 227, .06); }
 .macro-card-head h4 { margin: 6px 0 4px; }
 .macro-card-head .macro-summary { margin-bottom: 0; }
+.macro-tickers { padding: 0 14px 10px; }
 .macro-card-body {
   padding: 4px 14px 12px;
   border-top: 1px dashed var(--border);

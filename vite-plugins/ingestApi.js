@@ -603,11 +603,15 @@ async function handlePublish(req, res) {
 
     // 2. Stage just the files the update flow touches — never blanket `git add .`
     //    which could pick up unrelated local edits (.env.local won't get added
-    //    because of the gitignore, but be explicit anyway).
-    await gitSpawn(
-      ['add', `src/data/${date}`, 'public/finviz_bubble.png'],
-      write
-    );
+    //    because of the gitignore, but be explicit anyway). public/uploads/{date}/
+    //    holds attachments referenced by macro.json's image_urls; without it,
+    //    the prod site renders broken <img>s.
+    const addTargets = [`src/data/${date}`, 'public/finviz_bubble.png'];
+    const uploadsDir = path.join(REPO_ROOT, 'public', 'uploads', date);
+    if (fs.existsSync(uploadsDir)) {
+      addTargets.push(`public/uploads/${date}`);
+    }
+    await gitSpawn(['add', ...addTargets], write);
 
     // 3. If nothing staged, skip the commit — not an error, common when user
     //    pressed Publish twice without re-running Update.
