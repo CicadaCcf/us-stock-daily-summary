@@ -33,7 +33,8 @@ function marketIndicesToDisplay(rows) {
     // Others: formatted price
     let value;
     if (r.symbol === 'TNX') {
-      value = (r.close / 10).toFixed(2) + '%'; // TNX is yield × 10
+      // Yahoo returns TNX already as yield (e.g. 4.28) — show with % suffix
+      value = r.close.toFixed(2) + '%';
     } else if (typeof r.close === 'number') {
       value = r.close.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
     } else {
@@ -50,15 +51,24 @@ function marketIndicesToDisplay(rows) {
 function marketSectorsToDisplay(rows) {
   if (!rows || rows.length === 0) return null;
   return rows.map((r) => ({
+    symbol: r.symbol,
     name: r.name,
+    close: r.close,
     d1: r.d1_pct ?? 0,
     d5: r.d5_pct ?? 0,
     m1: r.m1_pct ?? 0,
+    m3: r.m3_pct ?? 0,
+    closes_1y: Array.isArray(r.closes_1y) ? r.closes_1y : [],
+    volumes_1y: Array.isArray(r.volumes_1y) ? r.volumes_1y : [],
   }));
 }
 
 export const INDICES = marketIndicesToDisplay(market.indices) || toArray(snapshot.indices);
 export const SECTORS = marketSectorsToDisplay(market.sectors) || toArray(snapshot.sectors);
+
+// Raw indices with sparklines (for benchmark line in combined sector chart)
+export const INDICES_RAW = toArray(market.indices);
+export const SPX_CLOSES_1Y = (INDICES_RAW.find((r) => r.symbol === 'GSPC')?.closes_1y) || [];
 export const SECTOR_MAX_ABS = typeof snapshot.sectorMaxAbs === 'number' ? snapshot.sectorMaxAbs : 2.5;
 export const THEMES = toArray(snapshot.themes);
 export const MARKET_GENERATED_AT = market.generated_at || null;

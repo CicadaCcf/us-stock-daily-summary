@@ -58,8 +58,66 @@ a { color: var(--blue); text-decoration: none; }
 .sector-bar { position: relative; height: 100%; border-radius: 3px; min-width: 2px; transition: width .3s; }
 .sector-bar.pos { background: linear-gradient(90deg, rgba(0,184,148,.7), var(--green)); }
 .sector-bar.neg { background: linear-gradient(270deg, rgba(225,112,85,.7), var(--red)); }
-.sector-pct { width: 55px; font-size: 12px; font-weight: 600; flex-shrink: 0; }
-.sector-extra { font-size: 10px; color: var(--text-dim); width: 120px; flex-shrink: 0; }
+.sector-pct { width: 55px; font-size: 12px; font-weight: 600; flex-shrink: 0; text-align: right; }
+.sector-extra { font-size: 10px; color: var(--text-dim); width: 100px; flex-shrink: 0; text-align: right; }
+
+/* Finviz bubble map display */
+.finviz-wrap {
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: 8px; overflow: hidden;
+}
+.finviz-img-btn {
+  display: block; width: 100%; padding: 0; border: 0;
+  background: transparent; cursor: zoom-in;
+}
+.finviz-img-btn img { display: block; width: 100%; height: auto; }
+.finviz-placeholder {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 20px 16px; gap: 12px;
+  font-size: 12px; color: var(--text-dim);
+}
+.finviz-placeholder code {
+  color: var(--gold); background: var(--bg);
+  padding: 1px 5px; border-radius: 3px; font-size: 11px;
+}
+
+/* Combined sector trend chart layout */
+.sector-trend-wrap {
+  display: grid; grid-template-columns: 1fr 220px; gap: 16px;
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: 6px; padding: 14px;
+}
+@media (max-width: 900px) { .sector-trend-wrap { grid-template-columns: 1fr; } }
+.sector-trend-chart { min-height: 320px; min-width: 0; }
+.sector-trend-legend { display: flex; flex-direction: column; gap: 4px; font-size: 11px; }
+.legend-row {
+  display: grid; grid-template-columns: 14px 1fr auto auto;
+  gap: 6px; align-items: center;
+  padding: 3px 0;
+}
+.legend-row.legend-spx { border-bottom: 1px dashed var(--border); padding-bottom: 6px; margin-bottom: 4px; color: var(--text-dim); }
+.legend-row .swatch { width: 10px; height: 10px; border-radius: 2px; flex-shrink: 0; }
+.legend-row .name { color: var(--text); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.legend-row .pct { font-weight: 600; font-variant-numeric: tabular-nums; min-width: 56px; text-align: right; }
+.legend-row .vol { color: var(--text-dim); font-size: 10px; min-width: 50px; text-align: right; font-variant-numeric: tabular-nums; }
+
+/* period tabs — shared with sector / alpha sections */
+.section-title-row {
+  display: flex; justify-content: space-between; align-items: center;
+  margin-bottom: 12px;
+}
+.section-title-row .section-title { margin-bottom: 0; }
+.period-tabs { display: flex; gap: 4px; }
+.period-tabs button {
+  background: var(--card); color: var(--text-dim);
+  border: 1px solid var(--border); border-radius: 3px;
+  padding: 3px 10px; font-size: 11px; cursor: pointer;
+  font-family: inherit;
+}
+.period-tabs button:hover { color: var(--text); }
+.period-tabs button.active {
+  background: var(--blue); color: #fff; border-color: var(--blue);
+}
 
 /* ---- Tables ---- */
 .dual-table { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
@@ -110,7 +168,25 @@ table tr:hover td { background: rgba(9, 132, 227, .07); }
 @media (max-width: 1000px) { .theme-grid { grid-template-columns: repeat(2, 1fr); } }
 .theme-card {
   background: var(--card); border: 1px solid var(--border);
-  border-radius: 6px; padding: 14px;
+  border-radius: 6px; padding: 0;
+  overflow: hidden;
+}
+.theme-card-head {
+  display: block; width: 100%; text-align: left;
+  background: transparent; border: 0; color: inherit;
+  padding: 14px; cursor: pointer; font: inherit;
+}
+.theme-card-head:disabled { cursor: default; }
+.theme-card-head:not(:disabled):hover { background: rgba(9, 132, 227, .06); }
+.tc-summary {
+  display: flex; gap: 10px; margin-top: 6px;
+  font-size: 10px; color: var(--text-dim); align-items: center;
+}
+.tc-chev { margin-left: auto; font-size: 11px; }
+.theme-card-body {
+  padding: 8px 14px 12px;
+  border-top: 1px dashed var(--border);
+  background: rgba(0, 0, 0, .08);
 }
 .theme-card .tc-head {
   display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;
