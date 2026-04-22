@@ -249,8 +249,6 @@ table tr:hover td { background: rgba(9, 132, 227, .07); }
   background: var(--blue); color: #fff;
   letter-spacing: .3px; text-transform: uppercase;
 }
-.event-tag.hot { background: #e17055; }
-.event-tag.warn { background: #fdcb6e; color: #333; }
 .event-tickers { font-size: 11px; color: var(--text-dim); }
 .event-tickers span {
   display: inline-block;
@@ -352,16 +350,6 @@ table tr:hover td { background: rgba(9, 132, 227, .07); }
   font-size: 12px; color: var(--text-dim); line-height: 1.55;
   margin: 2px 0 0;
 }
-/* extra event-tag variants used by macro topics */
-.event-tag.geo         { background: #c0392b; }
-.event-tag.policy      { background: #8e44ad; }
-.event-tag.rates       { background: #2980b9; }
-.event-tag.oil         { background: #d35400; }
-.event-tag.ai          { background: #16a085; }
-.event-tag.fed         { background: #f39c12; color: #1a1a2e; }
-.event-tag.earnings    { background: #27ae60; }
-.event-tag.macro-other { background: #7f8c8d; }
-
 /* ---- Print ---- */
 @media print {
   body { background: #fff; color: #222; font-size: 11px; padding: 10px; }

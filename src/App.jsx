@@ -689,7 +689,7 @@ function AppBody() {
           <div className="event-grid">
             {EVENTS.map(e => (
               <div className="event-item" key={e.title}>
-                <div className={`event-tag ${e.tagCls}`}>{e.tag}</div>
+                <div className="event-tag">{e.tag}</div>
                 <h4>{e.title}</h4>
                 <p>{e.body}</p>
                 <div className="event-tickers">
