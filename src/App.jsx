@@ -17,6 +17,7 @@ import {
   HEADER_SUB,
   FOOTER_TIMESTAMP,
   CURRENT_DATE,
+  AVAILABLE_DATES,
   SPX_CLOSES_1Y,
 } from './data/index.js';
 import {
@@ -429,6 +430,15 @@ function MacroCard({ topic }) {
         {topic.summary && <p className="macro-summary">{topic.summary}</p>}
       </button>
 
+      {Array.isArray(topic.tickers) && topic.tickers.length > 0 && (
+        <div className="event-tickers macro-tickers">
+          关注:{' '}
+          {topic.tickers.map((tk) => (
+            <span key={tk}>{tk}</span>
+          ))}
+        </div>
+      )}
+
       {open && (
         <div className="macro-card-body">
           {Array.isArray(topic.image_urls) && topic.image_urls.length > 0 && (
@@ -450,14 +460,6 @@ function MacroCard({ topic }) {
             <div className="macro-bullets">
               {sortedBullets.map(({ b, i }) => (
                 <MacroBullet bullet={b} key={i} />
-              ))}
-            </div>
-          )}
-          {Array.isArray(topic.tickers) && topic.tickers.length > 0 && (
-            <div className="event-tickers">
-              关注:{' '}
-              {topic.tickers.map((tk) => (
-                <span key={tk}>{tk}</span>
               ))}
             </div>
           )}
@@ -507,6 +509,37 @@ export default function App() {
   );
 }
 
+// --- DateSwitcher: <select> tied to ?date=YYYY-MM-DD so dashboards can be
+// shared at a specific trading day. Changing the selection sets the query
+// param and reloads the page (data is imported at module top and can't be
+// swapped without a reload). Latest date has no ?date param so the URL
+// stays clean for the default view.
+function DateSwitcher() {
+  if (!AVAILABLE_DATES.length) return null;
+  const latest = AVAILABLE_DATES[0];
+  const onPick = (e) => {
+    const picked = e.target.value;
+    const url = new URL(window.location.href);
+    if (picked === latest) url.searchParams.delete('date');
+    else url.searchParams.set('date', picked);
+    window.location.href = url.toString();
+  };
+  return (
+    <select
+      value={CURRENT_DATE}
+      onChange={onPick}
+      className="date-switcher"
+      title="切换历史日期"
+    >
+      {AVAILABLE_DATES.map((d) => (
+        <option value={d} key={d}>
+          {d}{d === latest ? ' (最新)' : ''}
+        </option>
+      ))}
+    </select>
+  );
+}
+
 function AppBody() {
   // Macro topics render in ingest order (no sort).
   const macroTopics = MACRO_TOPICS;
@@ -517,7 +550,10 @@ function AppBody() {
       <div className="section overview">
         <div className="header-title-row">
           <div>
-            <div className="header-date">{HEADER_DATE}</div>
+            <div className="header-date">
+              {HEADER_DATE || CURRENT_DATE}
+              <DateSwitcher />
+            </div>
             <div className="header-sub">{HEADER_SUB}</div>
           </div>
           {import.meta.env.DEV && (

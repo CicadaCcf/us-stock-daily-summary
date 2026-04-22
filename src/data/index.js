@@ -11,16 +11,25 @@
 // so App.jsx never crashes on a half-populated folder (e.g. cron ran but macro
 // hasn't been pasted yet).
 
-const pickLatestDate = (glob) => {
-  const dates = Object.keys(glob)
+const allDates = (glob) =>
+  Object.keys(glob)
     .map((p) => p.match(/\.\/([\d-]+)\//)?.[1])
     .filter(Boolean)
     .sort();
-  return dates[dates.length - 1] || null;
-};
 
 const pickFor = (glob, date, filename) =>
   (date && glob[`./${date}/${filename}`]) || {};
+
+// Read ?date=YYYY-MM-DD from the URL so dashboards can be shared at a
+// specific trading day (e.g. /?date=2026-04-22). SSR-safe: window may not
+// exist during build. Invalid or unknown dates fall through to the latest.
+function getRequestedDate() {
+  if (typeof window === 'undefined') return null;
+  try {
+    const d = new URLSearchParams(window.location.search).get('date');
+    return d && /^\d{4}-\d{2}-\d{2}$/.test(d) ? d : null;
+  } catch { return null; }
+}
 
 // Eager-glob every per-date file type. Vite inlines the JSON at build time.
 const snapshotMap = import.meta.glob('./*/snapshot.json', { eager: true, import: 'default' });
@@ -33,7 +42,12 @@ const macroMap    = import.meta.glob('./*/macro.json',    { eager: true, import:
 // market.json is the canonical per-day marker — it's written by the daily
 // snapshot cron, so its presence is the authoritative signal that a date
 // folder is "ready" to be shown. macro/events may lag a day.
-const LATEST_DATE = pickLatestDate(marketMap);
+const DATES_ASC = allDates(marketMap);
+const _requested = getRequestedDate();
+const LATEST_DATE =
+  (_requested && DATES_ASC.includes(_requested))
+    ? _requested
+    : DATES_ASC[DATES_ASC.length - 1] || null;
 
 const snapshot = pickFor(snapshotMap, LATEST_DATE, 'snapshot.json');
 const market   = pickFor(marketMap,   LATEST_DATE, 'market.json');
@@ -47,6 +61,9 @@ const macro    = pickFor(macroMap,    LATEST_DATE, 'macro.json');
 const toArray = (v) => (Array.isArray(v) ? v : []);
 
 export const CURRENT_DATE = LATEST_DATE || '';
+// Descending (newest first) so the header <select> shows the freshest day at
+// the top without extra work client-side.
+export const AVAILABLE_DATES = DATES_ASC.slice().reverse();
 
 // Transform market.json (IB raw shape {symbol, name, close, d1_pct, ...})
 // into the UI display shape {label, value, change, dir} that App.jsx expects.
@@ -100,8 +117,23 @@ export const SECTOR_MAX_ABS = typeof snapshot.sectorMaxAbs === 'number' ? snapsh
 export const THEMES = toArray(snapshot.themes);
 export const MARKET_GENERATED_AT = market.generated_at || null;
 
-export const HEADER_DATE = snapshot.headerDate || '';
-export const HEADER_SUB = snapshot.headerSub || '';
+// Header display — computed from CURRENT_DATE (trading day) + market.generated_at.
+// The legacy snapshot.headerDate / headerSub fallback exists only so archived
+// folders that still carry snapshot.json keep their hand-written subtitles.
+function formatTitle(dateStr) {
+  if (!dateStr) return '';
+  // Parse YYYY-MM-DD as a calendar date in ET so the weekday matches the
+  // trading-day label. Anchoring at 12:00 ET avoids DST/midnight drift.
+  const [y, m, d] = dateStr.split('-').map(Number);
+  const anchor = new Date(Date.UTC(y, m - 1, d, 16)); // 16:00 UTC ≈ 12:00 ET
+  const weekday = ['日','一','二','三','四','五','六'][anchor.getUTCDay()];
+  return `美股日报 | ${y}年${m}月${d}日 星期${weekday}`;
+}
+function formatSub() {
+  return '数据截至 16:00 ET';
+}
+export const HEADER_DATE = formatTitle(CURRENT_DATE) || snapshot.headerDate || '';
+export const HEADER_SUB = formatSub(market.generated_at) || snapshot.headerSub || '';
 export const FOOTER_TIMESTAMP = snapshot.footerTimestamp || '';
 export const RECAP_SECTIONS = toArray(snapshot.recap?.sections);
 
