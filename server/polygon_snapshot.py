@@ -302,9 +302,21 @@ def translate_descriptions(items: dict) -> dict:
         print(f'[warn] Claude translate failed: {e}')
     return {}
 
+def _rows_by_tk(path):
+    if not path.exists():
+        return {}
+    try:
+        data = json.loads(path.read_text())
+        return {r['tk']: r for r in (data.get('rows') or []) if r.get('tk')}
+    except Exception as e:
+        print(f'[warn] screener load {path}: {e}')
+        return {}
+
+
 def load_yesterday_screener(out_date: str) -> dict:
     """Return {ticker: row_dict} from the most recent screener.json
-    BEFORE out_date. Empty if not found — fine, first-day run."""
+    STRICTLY BEFORE out_date. Used to apply the Day Remaining
+    reset/decrement rules across trading days. Empty on first-day run."""
     data_dir = ROOT / 'src' / 'data'
     if not data_dir.exists():
         return {}
@@ -315,20 +327,16 @@ def load_yesterday_screener(out_date: str) -> dict:
     if not prior:
         return {}
     latest = sorted(prior)[-1]
-    path = data_dir / latest / 'screener.json'
-    if not path.exists():
-        return {}
-    try:
-        data = json.loads(path.read_text())
-        out = {}
-        for row in data.get('rows') or []:
-            tk = row.get('tk')
-            if tk:
-                out[tk] = row
-        return out
-    except Exception as e:
-        print(f'[warn] yesterday screener load: {e}')
-        return {}
+    return _rows_by_tk(data_dir / latest / 'screener.json')
+
+
+def load_existing_screener(out_date: str) -> dict:
+    """Return {ticker: row_dict} from the CURRENT out_date folder, if any.
+    Used to preserve state across same-day reruns — industry, reason, and
+    days_remaining stay put so pressing Update twice on the same trading
+    day is idempotent (no second decrement, no lost manual edits)."""
+    path = ROOT / 'src' / 'data' / out_date / 'screener.json'
+    return _rows_by_tk(path)
 
 # --- Business day helpers -----------------------------------------------
 
@@ -497,10 +505,6 @@ def main():
     parser.add_argument('--ref-date', help='trading date to use as "today" for computations. Defaults to latest available.')
     args = parser.parse_args()
 
-    out_date = args.date or date.today().isoformat()
-    out_dir = ROOT / 'src' / 'data' / out_date
-    out_dir.mkdir(parents=True, exist_ok=True)
-
     # Reference date = most recent trading day at/before `ref-date` (or today)
     ref_anchor = date.fromisoformat(args.ref_date) if args.ref_date else date.today()
     ref_date, bars_today = grouped_with_fallback(ref_anchor, 'today')
@@ -508,6 +512,15 @@ def main():
         print('ERROR: no trading bars found in last 5 days', file=sys.stderr)
         sys.exit(1)
     print(f'[info] reference trading day: {ref_date}  ({len(bars_today):,} tickers)')
+
+    # The output folder is named after the TRADING day, not the calendar day.
+    # If the user runs the snapshot on 4/23 before US market close, ref_date is
+    # 4/22 and we write to src/data/2026-04-22/ (overwriting in place). This
+    # avoids creating a half-populated 4/23 folder that the frontend would pick
+    # up as LATEST_DATE while events/macro/movers_news are still missing.
+    out_date = args.date or ref_date.isoformat()
+    out_dir = ROOT / 'src' / 'data' / out_date
+    out_dir.mkdir(parents=True, exist_ok=True)
 
     # Historical anchors
     period_bars = {}
@@ -769,12 +782,20 @@ def main():
         return r['dollar_volume'] >= flt['min_dollar_volume'] and momentum_ok
     partial_pass = {sym for sym, r in table.items() if passes_partial(r)}
 
-    # Stage 2: include yesterday's tickers even if they don't pass today —
-    # they may still deserve a spot via the Day Remaining countdown.
+    # Stage 2: include yesterday's tickers (for cross-day countdown) AND any
+    # rows already in the current out_date folder (so a same-day rerun is
+    # idempotent — manual edits + days_remaining are preserved).
     yesterday_rows = load_yesterday_screener(out_date)
-    candidate_tks = (partial_pass | set(yesterday_rows.keys())) & set(table.keys())
+    existing_rows  = load_existing_screener(out_date)
+    candidate_tks = (
+        partial_pass
+        | set(yesterday_rows.keys())
+        | set(existing_rows.keys())
+    ) & set(table.keys())
     print(f'[info] Top Movers: {len(partial_pass)} pass first cut, '
-          f'{len(yesterday_rows)} carry over from last run, {len(candidate_tks)} total to evaluate')
+          f'{len(yesterday_rows)} from prior trading day, '
+          f'{len(existing_rows)} already in {out_date}/, '
+          f'{len(candidate_tks)} total to evaluate')
 
     # Stage 3: fetch ticker reference (name, description, market_cap, type) for
     # each candidate — lazy + 30-day TTL so we only hit Polygon for new or stale
@@ -848,10 +869,22 @@ def main():
         if typ and typ not in INDIVIDUAL_STOCK_TYPES:
             continue
         r = table[tk]
-        yest = yesterday_rows.get(tk)
+        existing = existing_rows.get(tk)
+        yest     = yesterday_rows.get(tk)
         mc = market_cap_for(tk, r['close']) or 0
 
-        if yest:
+        if existing:
+            # Same-day rerun: preserve state verbatim. No countdown applied —
+            # the row was already resolved for today, and re-decrementing
+            # would erase it after 3 reruns on a flat day.
+            initial        = int(existing.get('initial_days') or 3)
+            dr_raw         = existing.get('days_remaining')
+            days_remaining = int(dr_raw) if dr_raw is not None else initial
+            if days_remaining <= 0:
+                continue
+            reason   = existing.get('reason', '')
+            industry = existing.get('industry', '')
+        elif yest:
             initial = int(yest.get('initial_days') or 3)
             # Legacy rows from the old schema don't carry days_remaining — treat
             # them as fresh (initial) so they don't instantly vanish when the

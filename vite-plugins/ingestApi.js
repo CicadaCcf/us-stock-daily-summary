@@ -557,11 +557,18 @@ function latestDataDate() {
 
 async function handleUpdate(req, res) {
   const write = startStream(res);
+  // Optional ?date=YYYY-MM-DD to force polygon + futu to target a specific
+  // folder (e.g. re-run 2026-04-22 after a schema change). When omitted each
+  // script picks its own default (polygon uses ref_date, futu uses latest).
+  const url = new URL(req.url, 'http://x');
+  const targetDate = url.searchParams.get('date');
+  const dateOk = targetDate && /^\d{4}-\d{2}-\d{2}$/.test(targetDate);
+  const pyArgs = (script) => dateOk ? [script, '--date', targetDate] : [script];
   try {
-    write(`[info] step 1/2: polygon + yahoo + CNN PCR snapshot\n`);
-    await spawnStep('python3', ['-u', 'server/polygon_snapshot.py'], write);
+    write(`[info] step 1/3: polygon + yahoo + CNN PCR snapshot${dateOk ? ` · date=${targetDate}` : ''}\n`);
+    await spawnStep('python3', ['-u', ...pyArgs('server/polygon_snapshot.py')], write);
 
-    write(`\n[info] step 2/2: Finviz bubble screenshot\n`);
+    write(`\n[info] step 2/3: Finviz bubble screenshot\n`);
     try {
       await spawnStep('python3', ['-u', 'server/finviz_screenshot.py'], write);
     } catch (e) {
@@ -569,6 +576,16 @@ async function handleUpdate(req, res) {
       // user can retry after checking their debug Chrome is up.
       write(`\n[warn] Finviz step failed: ${e.message}\n`);
       write(`[warn] keeping previous public/finviz_bubble.png\n`);
+    }
+
+    write(`\n[info] step 3/3: Polygon news for Top Movers\n`);
+    try {
+      await spawnStep('python3', ['-u', ...pyArgs('server/movers_news.py')], write);
+    } catch (e) {
+      // Non-fatal — if Polygon news call fails the reason picker just shows
+      // empty candidate lists; manual input in the cell still works.
+      write(`\n[warn] Movers news step failed: ${e.message}\n`);
+      write(`[warn] keeping previous src/data/{date}/movers_news.json\n`);
     }
     const date = latestDataDate();
     write(`\n__STATUS__ ok=true date=${date}\n`);
@@ -702,6 +719,35 @@ export function ingestApiPlugin(env) {
           if (req.method === 'POST' && req.url === '/api/publish') {
             await handlePublish(req, res);
             return;
+          }
+
+          if (req.method === 'POST' && req.url === '/api/screener-edit') {
+            const body = await readJsonBody(req);
+            const { date, tk, field, value } = body || {};
+            if (!date || !/^\d{4}-\d{2}-\d{2}$/.test(date)) {
+              return sendJson(res, 400, { ok: false, error: 'date must be YYYY-MM-DD' });
+            }
+            if (!tk || typeof tk !== 'string') {
+              return sendJson(res, 400, { ok: false, error: 'tk required' });
+            }
+            // Whitelist — only user-editable columns may be overwritten from the UI.
+            const EDITABLE = new Set(['industry', 'reason']);
+            if (!EDITABLE.has(field)) {
+              return sendJson(res, 400, { ok: false, error: `field must be one of ${[...EDITABLE].join(',')}` });
+            }
+            const filePath = path.join(DATA_DIR, date, 'screener.json');
+            if (!fs.existsSync(filePath)) {
+              return sendJson(res, 404, { ok: false, error: `no screener.json for ${date}` });
+            }
+            const json = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+            const rows = Array.isArray(json.rows) ? json.rows : [];
+            const row = rows.find(r => r.tk === tk);
+            if (!row) {
+              return sendJson(res, 404, { ok: false, error: `ticker ${tk} not found in ${date}` });
+            }
+            row[field] = typeof value === 'string' ? value : '';
+            fs.writeFileSync(filePath, JSON.stringify(json, null, 2) + '\n', 'utf8');
+            return sendJson(res, 200, { ok: true, tk, field });
           }
 
           if (req.method === 'POST' && req.url === '/api/save') {

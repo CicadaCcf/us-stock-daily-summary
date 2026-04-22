@@ -412,10 +412,14 @@ function SettingsTab() {
 // chunked text/plain; we read via fetch body.getReader() and append to a
 // log box. Server writes a trailing `__STATUS__ ok=... date=... commit=...`
 // line we parse to show success/failure banners.
-function PublishTab() {
+function PublishTab({ currentDate, availableDates }) {
   const [log, setLog] = useState('');
   const [busy, setBusy] = useState(null); // 'update' | 'publish' | null
   const [status, setStatus] = useState(null); // {ok, date, commit, error}
+  // Target date for Update: empty string means "auto" — the script picks the
+  // latest trading day (ref_date). Overriding lets us re-run a specific past
+  // day (e.g. backfill a folder after schema changes).
+  const [targetDate, setTargetDate] = useState('');
   const abortRef = useRef(null);
 
   async function runAction(action) {
@@ -426,7 +430,12 @@ function PublishTab() {
     const ctrl = new AbortController();
     abortRef.current = ctrl;
     try {
-      const resp = await fetch(`/api/${action}`, {
+      // Only /api/update accepts a target date — /api/publish always commits
+      // whatever is on disk at the latest folder.
+      const url = action === 'update' && targetDate
+        ? `/api/update?date=${encodeURIComponent(targetDate)}`
+        : `/api/${action}`;
+      const resp = await fetch(url, {
         method: 'POST',
         signal: ctrl.signal,
       });
@@ -471,11 +480,49 @@ function PublishTab() {
     }
   }
 
+  const dates = Array.isArray(availableDates) ? availableDates : [];
+
   return (
     <div>
       <div style={{ fontSize: 11, color: 'var(--text-dim)', lineHeight: 1.6, marginBottom: 12 }}>
-        <div><b style={{ color: 'var(--text)' }}>① 更新 Update</b> — 跑 polygon_snapshot.py + finviz_screenshot.py。本地文件会被覆盖，刷页面看效果。<b>不碰 git</b>。</div>
+        <div><b style={{ color: 'var(--text)' }}>① 更新 Update</b> — 跑 polygon_snapshot.py + finviz_screenshot.py + movers_news.py。本地文件会被覆盖，刷页面看效果。<b>不碰 git</b>。</div>
         <div style={{ marginTop: 4 }}><b style={{ color: 'var(--text)' }}>② 发布 Publish</b> — git add + commit + push → Vercel 自动 deploy。建议先 Update 看对了再 Publish。</div>
+      </div>
+
+      <div style={{
+        display: 'flex', alignItems: 'center', gap: 8,
+        padding: '8px 10px', marginBottom: 10,
+        background: 'var(--card-alt)', border: '1px solid var(--border)',
+        borderRadius: 4, fontSize: 12,
+      }}>
+        <span style={{ color: 'var(--text-dim)' }}>目标日期</span>
+        <select
+          value={targetDate}
+          disabled={!!busy}
+          onChange={(e) => setTargetDate(e.target.value)}
+          style={{
+            flex: 1, background: 'var(--card)', color: 'var(--text)',
+            border: '1px solid var(--border)', borderRadius: 3,
+            padding: '3px 6px', fontSize: 12, fontFamily: 'inherit',
+          }}
+        >
+          <option value="">自动（最新交易日）</option>
+          {dates.map((d) => (
+            <option key={d} value={d}>{d}{d === currentDate ? ' · 当前' : ''}</option>
+          ))}
+        </select>
+        {targetDate && (
+          <button
+            onClick={() => setTargetDate('')}
+            style={{
+              background: 'transparent', color: 'var(--text-dim)',
+              border: '1px solid var(--border)', borderRadius: 3,
+              padding: '2px 7px', fontSize: 11, cursor: 'pointer',
+            }}
+          >
+            清除
+          </button>
+        )}
       </div>
 
       <div style={{ display: 'flex', gap: 8, marginBottom: 10 }}>
@@ -549,7 +596,7 @@ function PublishTab() {
   );
 }
 
-export default function AdminDrawer({ currentDate }) {
+export default function AdminDrawer({ currentDate, availableDates }) {
   const [open, setOpen] = useState(false);
   const [tab, setTab] = useState('events');
 
@@ -614,7 +661,7 @@ export default function AdminDrawer({ currentDate }) {
           <div style={{ padding: 14, overflowY: 'auto', flex: 1 }}>
             {tab === 'events' && <IngestTab kind="events" date={currentDate} />}
             {tab === 'macro' && <IngestTab kind="macro" date={currentDate} />}
-            {tab === 'publish' && <PublishTab />}
+            {tab === 'publish' && <PublishTab currentDate={currentDate} availableDates={availableDates} />}
             {tab === 'settings' && <SettingsTab />}
           </div>
         </div>

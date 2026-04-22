@@ -32,12 +32,13 @@ function getRequestedDate() {
 }
 
 // Eager-glob every per-date file type. Vite inlines the JSON at build time.
-const snapshotMap = import.meta.glob('./*/snapshot.json', { eager: true, import: 'default' });
-const marketMap   = import.meta.glob('./*/market.json',   { eager: true, import: 'default' });
-const screenerMap = import.meta.glob('./*/screener.json', { eager: true, import: 'default' });
-const breadthMap  = import.meta.glob('./*/breadth.json',  { eager: true, import: 'default' });
-const eventsMap   = import.meta.glob('./*/events.json',   { eager: true, import: 'default' });
-const macroMap    = import.meta.glob('./*/macro.json',    { eager: true, import: 'default' });
+const snapshotMap   = import.meta.glob('./*/snapshot.json',    { eager: true, import: 'default' });
+const marketMap     = import.meta.glob('./*/market.json',      { eager: true, import: 'default' });
+const screenerMap   = import.meta.glob('./*/screener.json',    { eager: true, import: 'default' });
+const breadthMap    = import.meta.glob('./*/breadth.json',     { eager: true, import: 'default' });
+const eventsMap     = import.meta.glob('./*/events.json',      { eager: true, import: 'default' });
+const macroMap      = import.meta.glob('./*/macro.json',       { eager: true, import: 'default' });
+const moversNewsMap = import.meta.glob('./*/movers_news.json', { eager: true, import: 'default' });
 
 // market.json is the canonical per-day marker — it's written by the daily
 // snapshot cron, so its presence is the authoritative signal that a date
@@ -49,12 +50,13 @@ const LATEST_DATE =
     ? _requested
     : DATES_ASC[DATES_ASC.length - 1] || null;
 
-const snapshot = pickFor(snapshotMap, LATEST_DATE, 'snapshot.json');
-const market   = pickFor(marketMap,   LATEST_DATE, 'market.json');
-const screener = pickFor(screenerMap, LATEST_DATE, 'screener.json');
-const breadth  = pickFor(breadthMap,  LATEST_DATE, 'breadth.json');
-const events   = pickFor(eventsMap,   LATEST_DATE, 'events.json');
-const macro    = pickFor(macroMap,    LATEST_DATE, 'macro.json');
+const snapshot   = pickFor(snapshotMap,   LATEST_DATE, 'snapshot.json');
+const market     = pickFor(marketMap,     LATEST_DATE, 'market.json');
+const screener   = pickFor(screenerMap,   LATEST_DATE, 'screener.json');
+const breadth    = pickFor(breadthMap,    LATEST_DATE, 'breadth.json');
+const events     = pickFor(eventsMap,     LATEST_DATE, 'events.json');
+const macro      = pickFor(macroMap,      LATEST_DATE, 'macro.json');
+const moversNews = pickFor(moversNewsMap, LATEST_DATE, 'movers_news.json');
 
 // --- Shape normalizers ---------------------------------------------------
 
@@ -168,3 +170,9 @@ export const BREADTH = {
 
 export const EVENTS = toArray(events.events);
 export const MACRO_TOPICS = toArray(macro.topics);
+
+// Per-ticker Futu news candidates for the Top Movers reason picker.
+// Shape: { [TK]: [{headline, url, source, time_txt, published_at}, ...] }
+export const MOVERS_NEWS = (moversNews && typeof moversNews.by_ticker === 'object')
+  ? moversNews.by_ticker
+  : {};

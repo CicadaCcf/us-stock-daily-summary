@@ -20,12 +20,13 @@ import {
   AVAILABLE_DATES,
   SPX_CLOSES_1Y,
   TRADING_DATES_1Y,
+  MOVERS_NEWS,
 } from './data/index.js';
 import {
   LineChart, Line, XAxis, YAxis, Tooltip, Legend, ReferenceLine,
   ResponsiveContainer, CartesianGrid,
 } from 'recharts';
-import { useState, useEffect, useMemo, createContext, useContext } from 'react';
+import { useState, useEffect, useMemo, useRef, createContext, useContext } from 'react';
 import AdminDrawer from './components/AdminDrawer.jsx';
 
 // --- Lightbox: single shared overlay for all clickable images ------------
@@ -588,6 +589,142 @@ export default function App() {
 // param and reloads the page (data is imported at module top and can't be
 // swapped without a reload). Latest date has no ?date param so the URL
 // stays clean for the default view.
+// Inline-editable cell for Top Movers (industry / reason). Saves to
+// src/data/{date}/screener.json via POST /api/screener-edit on blur.
+// Dev-only: the endpoint is served by the Vite plugin. In prod the JSON is
+// already committed so rows render read-only naturally.
+function EditableCell({ tk, field, initial, placeholder, multiline }) {
+  const [value, setValue] = useState(initial || '');
+  const [status, setStatus] = useState('idle');  // idle | saving | saved | error
+  const Tag = multiline ? 'textarea' : 'input';
+  const save = async () => {
+    if (value === (initial || '')) return;
+    setStatus('saving');
+    try {
+      const r = await fetch('/api/screener-edit', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ date: CURRENT_DATE, tk, field, value }),
+      });
+      const j = await r.json();
+      setStatus(j.ok ? 'saved' : 'error');
+    } catch {
+      setStatus('error');
+    }
+  };
+  return (
+    <Tag
+      className={`editable-cell ${status}`}
+      value={value}
+      placeholder={placeholder}
+      rows={multiline ? 2 : undefined}
+      onChange={(e) => { setValue(e.target.value); setStatus('idle'); }}
+      onBlur={save}
+      onKeyDown={(e) => {
+        if (!multiline && e.key === 'Enter') { e.preventDefault(); e.currentTarget.blur(); }
+      }}
+    />
+  );
+}
+
+// Reason cell with a Futu-news picker. Shows current reason text (editable
+// inline) and, if Futu news candidates exist for this ticker, a "📰 N" button
+// that opens a popover listing them. Clicking a candidate fills the reason
+// and saves immediately.
+function ReasonCell({ tk, initial }) {
+  const [value, setValue] = useState(initial || '');
+  const [status, setStatus] = useState('idle');
+  const [open, setOpen] = useState(false);
+  const news = MOVERS_NEWS[tk] || [];
+  const rootRef = useRef(null);
+
+  useEffect(() => {
+    if (!open) return;
+    const onClick = (e) => {
+      if (rootRef.current && !rootRef.current.contains(e.target)) setOpen(false);
+    };
+    window.addEventListener('mousedown', onClick);
+    return () => window.removeEventListener('mousedown', onClick);
+  }, [open]);
+
+  const save = async (next) => {
+    if (next === (initial || '')) return;
+    setStatus('saving');
+    try {
+      const r = await fetch('/api/screener-edit', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ date: CURRENT_DATE, tk, field: 'reason', value: next }),
+      });
+      const j = await r.json();
+      setStatus(j.ok ? 'saved' : 'error');
+    } catch { setStatus('error'); }
+  };
+
+  const pick = (n) => {
+    setValue(n.headline);
+    setOpen(false);
+    save(n.headline);
+  };
+
+  return (
+    <div className="reason-cell" ref={rootRef}>
+      <textarea
+        className={`editable-cell ${status}`}
+        value={value}
+        placeholder="填写异动原因…"
+        rows={2}
+        onChange={(e) => { setValue(e.target.value); setStatus('idle'); }}
+        onBlur={() => save(value)}
+      />
+      {news.length > 0 && (
+        <button
+          type="button"
+          className="news-btn"
+          title={`${news.length} 条 Futu 候选新闻`}
+          onClick={() => setOpen((o) => !o)}
+        >
+          📰 {news.length}
+        </button>
+      )}
+      {open && (
+        <div className="news-popover">
+          <div className="news-popover-head">
+            <span>{tk} · Futu 候选新闻</span>
+            <button type="button" className="news-close" onClick={() => setOpen(false)}>×</button>
+          </div>
+          {news.length === 0 ? (
+            <div className="news-popover-empty">无候选新闻</div>
+          ) : (
+            <ul className="news-popover-list">
+              {news.map((n, i) => (
+                <li key={i} className={value === n.headline ? 'picked' : ''}>
+                  <button type="button" className="news-pick" onClick={() => pick(n)}>
+                    <div className="news-headline">{n.headline}</div>
+                    <div className="news-meta">
+                      {n.source && <span className="news-source">{n.source}</span>}
+                      {n.time_txt && <span className="news-time">{n.time_txt}</span>}
+                    </div>
+                  </button>
+                  {n.url && (
+                    <a
+                      className="news-ext"
+                      href={n.url}
+                      target="_blank"
+                      rel="noreferrer"
+                      title="在新标签页打开"
+                    >↗</a>
+                  )}
+                </li>
+              ))}
+            </ul>
+          )}
+        </div>
+      )}
+    </div>
+  );
+}
+
 function DateSwitcher() {
   if (!AVAILABLE_DATES.length) return null;
   const latest = AVAILABLE_DATES[0];
@@ -632,7 +769,7 @@ function AppBody() {
           </div>
           {import.meta.env.DEV && (
             <div className="header-admin">
-              <AdminDrawer currentDate={CURRENT_DATE} />
+              <AdminDrawer currentDate={CURRENT_DATE} availableDates={AVAILABLE_DATES} />
             </div>
           )}
         </div>
@@ -738,7 +875,9 @@ function AppBody() {
                 const isDown = (d1 ?? 0) < 0;
                 return (
                   <tr key={s.tk}>
-                    <td>{s.industry || <span style={{ color: 'var(--text-dim)' }}>—</span>}</td>
+                    <td style={{ padding: 2 }}>
+                      <EditableCell tk={s.tk} field="industry" initial={s.industry} placeholder="填写…" />
+                    </td>
                     <td className="tk">{s.tk}</td>
                     <td className="nm">{s.nm}</td>
                     <td style={{ textAlign: 'center', fontWeight: 600 }}>{s.days_remaining ?? '—'}</td>
@@ -753,8 +892,8 @@ function AppBody() {
                     <td style={{ textAlign: 'right', fontVariantNumeric: 'tabular-nums', color: 'var(--text-dim)' }}>
                       {s.w1_avg_dollar_vol_bn != null ? s.w1_avg_dollar_vol_bn.toFixed(2) : '—'}
                     </td>
-                    <td style={{ fontSize: 11 }}>
-                      {s.reason || <span style={{ color: 'var(--text-dim)' }}>—</span>}
+                    <td style={{ padding: 2 }}>
+                      <ReasonCell tk={s.tk} initial={s.reason} />
                     </td>
                     <td className="biz">{s.main_business || <span style={{ color: 'var(--text-dim)' }}>—</span>}</td>
                   </tr>
