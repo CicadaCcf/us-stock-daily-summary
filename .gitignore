@@ -28,3 +28,6 @@ server/cache/
 *.njsproj
 *.sln
 *.sw?
+
+# Claude Code worktrees — branch checkouts for parallel work
+.claude/worktrees/
