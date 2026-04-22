@@ -41,7 +41,11 @@ if _env_file.exists():
         if not line or line.startswith('#') or '=' not in line:
             continue
         k, v = line.split('=', 1)
-        os.environ.setdefault(k.strip(), v.strip())
+        k, v = k.strip(), v.strip()
+        # Treat .env.local as source of truth when the shell value is unset or
+        # empty (shells sometimes export empty placeholders that mask real secrets).
+        if not os.environ.get(k):
+            os.environ[k] = v
 
 API_KEY = os.environ.get('POLYGON_API_KEY')
 if not API_KEY:
@@ -57,6 +61,15 @@ BASE = 'https://api.polygon.io'
 CACHE_DIR        = ROOT / 'server' / 'cache'
 CACHE_FILE       = CACHE_DIR / 'closes_1y.json'
 CACHE_KEEP_DAYS  = 260   # ~1Y + buffer; trim older entries on each run
+
+# S&P 500 sector map (built by server/build_sector_map.py). Used to sum per-
+# sector dollar volume on ref_date across real constituents — a better
+# "sector heat" proxy than the ETF's own trading volume.
+SECTOR_MAP_FILE      = CACHE_DIR / 'sector_map.json'
+# 1Y rolling per-sector $-volume history (built by server/build_sector_volumes.py,
+# then incrementally updated here). Lets the frontend show period-averaged
+# sector volume that tracks the 1W/1M/3M/6M/1Y tab selection.
+SECTOR_VOLUMES_FILE  = CACHE_DIR / 'sector_volumes_1y.json'
 
 # Period lookback in business days.
 # Keys match src/App.jsx SCREENER field names (d1/d5/m1/m3/m6/y1).
@@ -109,13 +122,23 @@ THEME_ETFS   = ['SMH','SOXX','ARKK','IGV','SNDK','XLK','QTUM','ICLN','URA','KWEB
 THEME_STOCKS = ['NVDA','SMCI','AVGO','PLTR','APP','AI','NTNX','PSTG','SNDK',
                 'QBTS','IONQ','RGTI','VST','CEG','SMR','BABA','PDD','JD']
 
-# Top Movers filter (see src/App.jsx screener criteria line).
+# Top Movers filter — match the user's Futu-style criteria.
 SCREENER_FILTERS = {
-    'min_dollar_volume': 100_000_000,  # Trading Volume ≥ $100M
-    'min_d1_pct':         5.0,         # 1D Change > 5%
-    'min_y1_pct':        40.0,         # 1Y Change > 40%
+    'min_dollar_volume':  300_000_000,    # $Vol ≥ $300M
+    'min_d1_pct':         15.0,           # 1D ≥ 15%
+    'min_w1_pct':         40.0,           # 1W ≥ 40% (uses d5_pct from anchors)
+    'min_market_cap':     1_000_000_000,  # Mkt Cap ≥ $1B
 }
-SCREENER_TOP_N = 15
+SCREENER_TOP_N = 20
+
+# Ticker reference cache: name + description + shares outstanding. Fetched
+# lazily from Polygon /v3/reference/tickers/{t} and reused across runs so
+# we don't hammer the API for stable attributes. description_cn is added
+# once by the Claude translation pass (see translate_descriptions).
+TICKER_INFO_FILE = CACHE_DIR / 'ticker_info.json'
+# Refresh reference data if older than this many days (shares outstanding
+# rarely change; description effectively never does).
+TICKER_INFO_TTL_DAYS = 30
 
 # --- HTTP ---------------------------------------------------------------
 
@@ -182,6 +205,130 @@ def _get_yahoo_chart(symbol: str, range_: str = '1y', timeout: int = 30) -> dict
     req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     with opener.open(req, timeout=timeout) as resp:
         return json.loads(resp.read().decode('utf-8'))
+
+# --- Ticker reference + Claude translation (Top Movers enrichment) ------
+
+def load_ticker_info() -> dict:
+    if TICKER_INFO_FILE.exists():
+        try:
+            return json.loads(TICKER_INFO_FILE.read_text())
+        except Exception:
+            pass
+    return {}
+
+def save_ticker_info(info: dict) -> None:
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    TICKER_INFO_FILE.write_text(json.dumps(info, indent=2, ensure_ascii=False))
+
+def fetch_ticker_reference(ticker: str) -> dict:
+    """Polygon /v3/reference/tickers/{t}. Returns the `results` object
+    (name, description, market_cap, weighted_shares_outstanding, etc.)."""
+    try:
+        data = _get(f'/v3/reference/tickers/{urllib.parse.quote(ticker, safe="")}')
+        return data.get('results') or {}
+    except Exception as e:
+        print(f'[warn] reference {ticker}: {e}')
+        return {}
+
+def fetch_w1_avg_dollar_volume(ticker: str, ref_date: date) -> 'float | None':
+    """Mean of close*volume over the last ~5 trading days ending at ref_date."""
+    from_dt = biz_days_back(ref_date, 6)  # a small buffer
+    try:
+        data = _get(
+            f'/v2/aggs/ticker/{urllib.parse.quote(ticker, safe="")}'
+            f'/range/1/day/{from_dt.isoformat()}/{ref_date.isoformat()}'
+            f'?adjusted=true&sort=asc&limit=50'
+        )
+        results = (data.get('results') or [])[-5:]
+        dvs = [r['c'] * r['v'] for r in results
+               if r.get('c') and r.get('v') and r['c'] > 0 and r['v'] > 0]
+        return sum(dvs) / len(dvs) if dvs else None
+    except Exception as e:
+        print(f'[warn] w1_avg_vol {ticker}: {e}')
+        return None
+
+def translate_descriptions(items: dict) -> dict:
+    """{ticker: english_description} → {ticker: chinese_one_liner}.
+
+    One batched Claude call, so a 20-ticker Top Movers list = 1 API call
+    instead of 20. Returns empty dict on any error (caller keeps going).
+    Cached in ticker_info so repeat tickers don't re-translate.
+    """
+    if not items:
+        return {}
+    api_key = os.environ.get('ANTHROPIC_API_KEY')
+    if not api_key:
+        print('[warn] ANTHROPIC_API_KEY not set — skipping main_business translation')
+        return {}
+    lines = [f'{tk}: {desc[:400]}' for tk, desc in items.items() if desc]
+    if not lines:
+        return {}
+    prompt = (
+        '为每家公司生成一个简洁的中文主营业务描述（1 句，15-30 汉字），突出核心业务。'
+        '**严格只输出 JSON**，形如 {"AAPL": "设计制造 iPhone / Mac 等智能硬件", ...}，不要任何解释。\n\n'
+        + '\n'.join(lines)
+    )
+    body = json.dumps({
+        'model': os.environ.get('ANTHROPIC_MODEL', 'claude-opus-4-7'),
+        'max_tokens': 2000,
+        'messages': [{'role': 'user', 'content': prompt}],
+    }).encode('utf-8')
+    req = urllib.request.Request(
+        'https://api.anthropic.com/v1/messages',
+        data=body,
+        headers={
+            'content-type': 'application/json',
+            'anthropic-version': '2023-06-01',
+            'x-api-key': api_key,
+        },
+        method='POST',
+    )
+    try:
+        opener = _opener()
+        with opener.open(req, timeout=120) as resp:
+            data = json.loads(resp.read().decode('utf-8'))
+        text = ''.join(b.get('text', '') for b in data.get('content', []) if b.get('type') == 'text')
+        # First try strict parse
+        try:
+            return json.loads(text.strip())
+        except Exception:
+            pass
+        # Extract first {...} block
+        import re
+        m = re.search(r'\{.*\}', text, re.DOTALL)
+        if m:
+            return json.loads(m.group(0))
+    except Exception as e:
+        print(f'[warn] Claude translate failed: {e}')
+    return {}
+
+def load_yesterday_screener(out_date: str) -> dict:
+    """Return {ticker: row_dict} from the most recent screener.json
+    BEFORE out_date. Empty if not found — fine, first-day run."""
+    data_dir = ROOT / 'src' / 'data'
+    if not data_dir.exists():
+        return {}
+    prior = [
+        d.name for d in data_dir.iterdir()
+        if d.is_dir() and len(d.name) == 10 and d.name < out_date
+    ]
+    if not prior:
+        return {}
+    latest = sorted(prior)[-1]
+    path = data_dir / latest / 'screener.json'
+    if not path.exists():
+        return {}
+    try:
+        data = json.loads(path.read_text())
+        out = {}
+        for row in data.get('rows') or []:
+            tk = row.get('tk')
+            if tk:
+                out[tk] = row
+        return out
+    except Exception as e:
+        print(f'[warn] yesterday screener load: {e}')
+        return {}
 
 # --- Business day helpers -----------------------------------------------
 
@@ -512,6 +659,86 @@ def main():
             s['closes_1y']  = []
             s['volumes_1y'] = []
 
+    # Per-sector dollar-volume across SP500 constituents. We compute today's
+    # totals, append them to sector_volumes_1y.json (if bootstrapped), and embed
+    # the trailing 252-day series into each sector row so the UI can compute
+    # period averages (1W/1M/3M/6M/1Y) client-side.
+    sector_map = None
+    if SECTOR_MAP_FILE.exists():
+        try:
+            sector_map = json.loads(SECTOR_MAP_FILE.read_text()).get('tickers_by_sector', {})
+        except Exception as e:
+            print(f'[warn] sector_map load failed: {e}')
+    sector_vol_cache = None
+    if SECTOR_VOLUMES_FILE.exists():
+        try:
+            sector_vol_cache = json.loads(SECTOR_VOLUMES_FILE.read_text())
+        except Exception as e:
+            print(f'[warn] sector_volumes cache load failed: {e}')
+
+    today_totals = {}
+    if sector_map:
+        for s in sectors_enriched:
+            tickers = sector_map.get(s['symbol']) or []
+            total = matched = 0
+            for tk in tickers:
+                row = table.get(tk)
+                if row:
+                    total += row['dollar_volume']
+                    matched += 1
+            today_totals[s['symbol']]       = round(total) if tickers else None
+            s['sector_constituents_count']  = matched
+        print(f'[info] today\'s sector $-volume totals: {sum(len(v) for v in sector_map.values())} SP500 tickers')
+
+        # Update the rolling history cache with today's row
+        if sector_vol_cache is not None:
+            cache_dates = [date.fromisoformat(s) for s in sector_vol_cache['dates']]
+            if cache_dates and cache_dates[-1] < ref_date:
+                cache_dates.append(ref_date)
+                for etf in sector_vol_cache['volumes']:
+                    sector_vol_cache['volumes'][etf].append(today_totals.get(etf) or 0)
+                if len(cache_dates) > CACHE_KEEP_DAYS:
+                    trim = len(cache_dates) - CACHE_KEEP_DAYS
+                    cache_dates = cache_dates[trim:]
+                    for etf in sector_vol_cache['volumes']:
+                        sector_vol_cache['volumes'][etf] = sector_vol_cache['volumes'][etf][trim:]
+                sector_vol_cache['dates']        = [d.isoformat() for d in cache_dates]
+                sector_vol_cache['last_date']    = cache_dates[-1].isoformat()
+                sector_vol_cache['days']         = len(cache_dates)
+                sector_vol_cache['generated_at'] = datetime.now(timezone.utc).isoformat(timespec='seconds')
+                SECTOR_VOLUMES_FILE.write_text(json.dumps(sector_vol_cache, separators=(',', ':')))
+                print(f'[info] sector_volumes cache extended to {cache_dates[-1]} ({len(cache_dates)} days)')
+            elif cache_dates and cache_dates[-1] == ref_date:
+                # Already up to date — overwrite today's row in case it was incomplete
+                for etf in sector_vol_cache['volumes']:
+                    sector_vol_cache['volumes'][etf][-1] = today_totals.get(etf) or 0
+                sector_vol_cache['generated_at'] = datetime.now(timezone.utc).isoformat(timespec='seconds')
+                SECTOR_VOLUMES_FILE.write_text(json.dumps(sector_vol_cache, separators=(',', ':')))
+
+            # Embed last 252 days per sector so the frontend gets a stable window
+            for s in sectors_enriched:
+                hist = sector_vol_cache['volumes'].get(s['symbol'], [])
+                s['sector_dollar_volume_1y'] = hist[-252:]
+        else:
+            # No bootstrapped history — emit a 1-entry array so the UI still
+            # has something to reduce over. Period tabs will all show the
+            # same single-day number until bootstrap runs.
+            print('[warn] no sector_volumes_1y.json — emitting single-day total')
+            print('       (run `python3 server/build_sector_volumes.py` once to enable period averages)')
+            for s in sectors_enriched:
+                t = today_totals.get(s['symbol'])
+                s['sector_dollar_volume_1y'] = [t] if t is not None else []
+    else:
+        print('[warn] no sector_map.json — skipping per-sector totals (run server/build_sector_map.py)')
+        for s in sectors_enriched:
+            s['sector_dollar_volume_1y']    = []
+            s['sector_constituents_count']  = 0
+
+    # Trading dates aligned to sector_dollar_volume_1y arrays (and sectors'
+    # closes_1y). Frontend uses these for the X-axis labels on the sector
+    # performance chart.
+    trading_dates_1y = (sector_vol_cache or {}).get('dates', [])[-252:]
+
     market = {
         'generated_at': datetime.now(timezone.utc).isoformat(timespec="seconds"),
         'source': 'polygon.io + yahoo',
@@ -521,60 +748,201 @@ def main():
         'sectors':       sectors_enriched,
         'themes_etfs':   build_section([(s, s) for s in THEME_ETFS]),
         'themes_stocks': build_section([(s, s) for s in THEME_STOCKS]),
+        'trading_dates_1y': trading_dates_1y,
     }
     (out_dir / 'market.json').write_text(
         json.dumps(market, indent=2, ensure_ascii=False) + '\n'
     )
     print(f'[info] wrote {out_dir / "market.json"}')
 
-    # ----- screener.json ---------------------------------------------
+    # ----- screener.json (Top Movers — Futu-style with Day Remaining) -----
     flt = SCREENER_FILTERS
-    candidates = []
-    for sym, r in table.items():
-        if r['dollar_volume'] < flt['min_dollar_volume']:
-            continue
-        if r.get('d1_pct') is None or r['d1_pct'] <= flt['min_d1_pct']:
-            continue
-        if r.get('y1_pct') is None or r['y1_pct'] <= flt['min_y1_pct']:
-            continue
-        candidates.append(r)
-    # Rank by dollar volume descending (matches legacy App.jsx sort)
-    candidates.sort(key=lambda x: -x['dollar_volume'])
-    top = candidates[:SCREENER_TOP_N]
 
-    screener_rows = []
-    for r in top:
-        screener_rows.append({
-            'tk': r['symbol'],
-            'nm': r['symbol'],         # placeholder — can enrich via AI later
-            'd1': round(r['d1_pct'], 1),
-            'd5': round(r['d5_pct'], 1) if r['d5_pct'] is not None else None,
-            'm1': round(r['m1_pct'], 1) if r['m1_pct'] is not None else None,
-            'm3': round(r['m3_pct'], 1) if r['m3_pct'] is not None else None,
-            'm6': round(r['m6_pct'], 1) if r['m6_pct'] is not None else None,
-            'y1': round(r['y1_pct'], 1) if r['y1_pct'] is not None else None,
-            'vol': round(r['dollar_volume'] / 1e9, 2),  # $Bn (matches existing schema)
-            'cap': None,               # mkt cap — skip for MVP
-            'biz': '',                 # business desc — can enrich via AI later
-        })
+    # Stage 1: first cut by $-vol AND (1D OR 1W). Market-cap check needs a
+    # per-ticker reference call; defer until we've narrowed the set.
+    # Note: momentum condition is OR — 1D ≥ 15% OR 1W ≥ 40%, not both.
+    def passes_partial(r):
+        d1 = r.get('d1_pct')
+        w1 = r.get('d5_pct')
+        momentum_ok = (d1 is not None and d1 > flt['min_d1_pct']) \
+                      or (w1 is not None and w1 > flt['min_w1_pct'])
+        return r['dollar_volume'] >= flt['min_dollar_volume'] and momentum_ok
+    partial_pass = {sym for sym, r in table.items() if passes_partial(r)}
+
+    # Stage 2: include yesterday's tickers even if they don't pass today —
+    # they may still deserve a spot via the Day Remaining countdown.
+    yesterday_rows = load_yesterday_screener(out_date)
+    candidate_tks = (partial_pass | set(yesterday_rows.keys())) & set(table.keys())
+    print(f'[info] Top Movers: {len(partial_pass)} pass first cut, '
+          f'{len(yesterday_rows)} carry over from last run, {len(candidate_tks)} total to evaluate')
+
+    # Stage 3: fetch ticker reference (name, description, market_cap, type) for
+    # each candidate — lazy + 30-day TTL so we only hit Polygon for new or stale
+    # rows. `type` is what lets us filter out ETFs / ETNs / funds later.
+    ticker_info = load_ticker_info()
+    today_iso = date.today().isoformat()
+    fetched = 0
+    for tk in sorted(candidate_tks):
+        entry = ticker_info.get(tk) or {}
+        last = entry.get('last_ref_fetched') or '1970-01-01'
+        age_days = (date.fromisoformat(today_iso) - date.fromisoformat(last)).days \
+            if last != '1970-01-01' else 9999
+        # Force a refetch when `type` is missing — older cache entries from before
+        # the ETF-filter change don't have it, so we can't rule them in/out.
+        needs_refetch = (
+            age_days >= TICKER_INFO_TTL_DAYS
+            or 'name' not in entry
+            or 'type' not in entry
+        )
+        if needs_refetch:
+            ref = fetch_ticker_reference(tk)
+            if ref:
+                entry.update({
+                    'name':                     ref.get('name', tk),
+                    'type':                     ref.get('type'),   # CS / ETF / ETN / FUND / PFD / ...
+                    'description':              ref.get('description') or entry.get('description', ''),
+                    'market_cap':               ref.get('market_cap'),
+                    'weighted_shares_outstanding': ref.get('weighted_shares_outstanding'),
+                    'share_class_shares_outstanding': ref.get('share_class_shares_outstanding'),
+                    'sic_description':          ref.get('sic_description', ''),
+                    'last_ref_fetched':         today_iso,
+                })
+                ticker_info[tk] = entry
+                fetched += 1
+            time.sleep(0.1)
+    if fetched:
+        print(f'[info] fetched fresh reference data for {fetched} tickers')
+
+    # Types we accept as "individual stocks" per the user's focus. Everything
+    # else (ETF / ETN / FUND / preferred / warrant / unit / SP / etc.) is filtered out.
+    INDIVIDUAL_STOCK_TYPES = {'CS', 'ADRC', 'ADRP', 'ADRW', 'ADRR'}
+
+    def market_cap_for(tk, today_close):
+        info = ticker_info.get(tk) or {}
+        # Prefer a shares-based calc since Polygon's market_cap is static daily.
+        shares = info.get('weighted_shares_outstanding') or info.get('share_class_shares_outstanding')
+        if shares and today_close:
+            return shares * today_close
+        return info.get('market_cap')
+
+    # Stage 4: evaluate "passes ALL today" (including mkt cap now that we have it).
+    # Also drops non-individual-stock types (ETFs, funds, etc.) per user's focus.
+    def passes_full(tk):
+        r = table[tk]
+        if not passes_partial(r):
+            return False
+        info = ticker_info.get(tk) or {}
+        typ = info.get('type')
+        if typ and typ not in INDIVIDUAL_STOCK_TYPES:
+            return False
+        mc = market_cap_for(tk, r['close']) or 0
+        return mc >= flt['min_market_cap']
+
+    # Stage 5: Day Remaining bookkeeping
+    new_rows_by_tk = {}
+    for tk in candidate_tks:
+        info = ticker_info.get(tk) or {}
+        typ = info.get('type')
+        # Drop ETFs / funds / etc. immediately — even yesterday's carryovers —
+        # so they never linger on the Top Movers list via the decrement path.
+        if typ and typ not in INDIVIDUAL_STOCK_TYPES:
+            continue
+        r = table[tk]
+        yest = yesterday_rows.get(tk)
+        mc = market_cap_for(tk, r['close']) or 0
+
+        if yest:
+            initial = int(yest.get('initial_days') or 3)
+            # Legacy rows from the old schema don't carry days_remaining — treat
+            # them as fresh (initial) so they don't instantly vanish when the
+            # schema changes. Going forward rows have a real counter to decay.
+            yest_dr = yest.get('days_remaining')
+            yest_dr = int(yest_dr) if yest_dr is not None else initial
+            # Countdown rule: only today's 1D move matters. If 1D > 15%, reset;
+            # otherwise decrement — regardless of 1W, $-vol, or mkt cap.
+            d1_today = r.get('d1_pct')
+            if d1_today is not None and d1_today > flt['min_d1_pct']:
+                days_remaining = initial  # reset
+            else:
+                days_remaining = yest_dr - 1
+                if days_remaining <= 0:
+                    continue  # off the list
+            reason       = yest.get('reason', '')
+            industry     = yest.get('industry', '')
+        else:
+            if not passes_full(tk):
+                continue  # new entrants must pass all
+            initial        = 3
+            days_remaining = 3
+            reason         = ''
+            industry       = ''
+
+        new_rows_by_tk[tk] = {
+            'tk':                    tk,
+            'nm':                    info.get('name') or tk,
+            'industry':              industry,
+            'days_remaining':        days_remaining,
+            'initial_days':          initial,
+            'd1':                    round(r['d1_pct'], 1) if r.get('d1_pct') is not None else None,
+            'w1':                    round(r['d5_pct'], 1) if r.get('d5_pct') is not None else None,
+            'market_cap_bn':         round(mc / 1e9, 2) if mc else None,
+            'dollar_vol_bn':         round(r['dollar_volume'] / 1e9, 2),
+            'w1_avg_dollar_vol_bn':  None,   # filled in stage 6
+            'reason':                reason,
+            'main_business':         info.get('description_cn') or '',
+        }
+
+    # Stage 6: fetch 1W avg $-volume per surviving row
+    for tk, row in new_rows_by_tk.items():
+        avg = fetch_w1_avg_dollar_volume(tk, ref_date)
+        if avg is not None:
+            row['w1_avg_dollar_vol_bn'] = round(avg / 1e9, 2)
+        time.sleep(0.1)
+
+    # Stage 7: translate any English descriptions we haven't translated yet
+    need_cn = {}
+    for tk in new_rows_by_tk:
+        info = ticker_info.get(tk) or {}
+        if not info.get('description_cn') and info.get('description'):
+            need_cn[tk] = info['description']
+    if need_cn:
+        print(f'[info] translating {len(need_cn)} main_business descriptions via Claude...')
+        cn_map = translate_descriptions(need_cn)
+        for tk, cn in cn_map.items():
+            if isinstance(cn, str) and cn.strip():
+                ticker_info.setdefault(tk, {})['description_cn'] = cn.strip()
+                if tk in new_rows_by_tk:
+                    new_rows_by_tk[tk]['main_business'] = cn.strip()
+
+    save_ticker_info(ticker_info)
+
+    # Stage 8: sort by 1D change descending, cap at SCREENER_TOP_N
+    sorted_rows = sorted(
+        new_rows_by_tk.values(),
+        key=lambda r: -(r['d1'] if r.get('d1') is not None else -9999),
+    )
+    top_rows = sorted_rows[:SCREENER_TOP_N]
+
     screener = {
-        'maxAbs': 500,
         'generated_at': datetime.now(timezone.utc).isoformat(timespec="seconds"),
-        'source': 'polygon.io',
+        'source': 'polygon.io + claude',
         'ref_date': ref_date.isoformat(),
         'filter': {
             'min_dollar_volume_usd': flt['min_dollar_volume'],
-            'min_d1_pct': flt['min_d1_pct'],
-            'min_y1_pct': flt['min_y1_pct'],
-            'universe_size': len(table),
-            'candidates': len(candidates),
+            'min_d1_pct':  flt['min_d1_pct'],
+            'min_w1_pct':  flt['min_w1_pct'],
+            'min_market_cap_usd': flt['min_market_cap'],
+            'universe_size':    len(table),
+            'partial_pass':     len(partial_pass),
+            'with_carryover':   len(candidate_tks),
+            'after_full_check': len(new_rows_by_tk),
         },
-        'rows': screener_rows,
+        'rows': top_rows,
     }
     (out_dir / 'screener.json').write_text(
         json.dumps(screener, indent=2, ensure_ascii=False) + '\n'
     )
-    print(f'[info] wrote {out_dir / "screener.json"} with {len(screener_rows)}/{len(candidates)} candidates')
+    print(f'[info] wrote {out_dir / "screener.json"}: {len(top_rows)} rows')
 
     # ----- breadth.json ----------------------------------------------
     # Advance/decline counts (always real from 12k universe).

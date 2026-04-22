@@ -19,6 +19,7 @@ import {
   CURRENT_DATE,
   AVAILABLE_DATES,
   SPX_CLOSES_1Y,
+  TRADING_DATES_1Y,
 } from './data/index.js';
 import {
   LineChart, Line, XAxis, YAxis, Tooltip, Legend, ReferenceLine,
@@ -212,9 +213,12 @@ function SectorPerformance() {
       ...slices.map((x) => x.closes.length),
     );
     if (maxLen < 2) return { data: [], sectors: slices };
+    // Slice the trading-date list to the same period. These dates drive the
+    // X-axis labels below; alignment is by index (i=0 is period start).
+    const dates = Array.isArray(TRADING_DATES_1Y) ? TRADING_DATES_1Y.slice(-N) : [];
     const data = [];
     for (let i = 0; i < maxLen; i++) {
-      const row = { _idx: i };
+      const row = { _idx: i, date: dates[i] || '' };
       for (const { s, closes } of slices) {
         if (closes.length >= 2 && i < closes.length && closes[0] > 0) {
           row[s.symbol] = ((closes[i] / closes[0]) - 1) * 100;
@@ -235,12 +239,56 @@ function SectorPerformance() {
       const pct = closes.length >= 2 && closes[0] > 0
         ? ((closes[closes.length - 1] / closes[0]) - 1) * 100
         : 0;
-      const vols = Array.isArray(s.volumes_1y) ? s.volumes_1y.slice(-p.days) : [];
-      const avgVol = vols.length > 0 ? vols.reduce((a, b) => a + b, 0) / vols.length : 0;
-      const lastClose = closes[closes.length - 1] || 0;
-      out[s.symbol] = { pct, avgDollarVol: avgVol * lastClose, name: s.name };
+      // Period-average SP500 sector $-volume from sector_dollar_volume_1y cache.
+      // Falls back to 0 if the bootstrap hasn't run yet.
+      const sectorHist = Array.isArray(s.sector_dollar_volume_1y)
+        ? s.sector_dollar_volume_1y.slice(-p.days).filter((x) => typeof x === 'number')
+        : [];
+      const sectorAvg = sectorHist.length > 0
+        ? sectorHist.reduce((a, b) => a + b, 0) / sectorHist.length
+        : null;
+      out[s.symbol] = { pct, sectorAvg, name: s.name };
     }
     return out;
+  }, [chartData, p.days]);
+
+  const fmtUsd = (v) => {
+    if (v == null) return '—';
+    if (v >= 1e9) return `$${(v / 1e9).toFixed(2)}B`;
+    if (v >= 1e6) return `$${(v / 1e6).toFixed(0)}M`;
+    return `$${Math.round(v)}`;
+  };
+
+  // SPX overall: period return from SPX_CLOSES_1Y + period-avg SP500 $-volume
+  // (sum across sector histories, per day, then averaged).
+  const spxSummary = useMemo(() => {
+    const closes = Array.isArray(SPX_CLOSES_1Y) ? SPX_CLOSES_1Y.slice(-p.days) : [];
+    const pct = closes.length >= 2 && closes[0] > 0
+      ? ((closes[closes.length - 1] / closes[0]) - 1) * 100
+      : null;
+    // Per-day sum across sectors, then mean over the period.
+    const N = p.days;
+    let maxLen = 0;
+    for (const { s } of chartData.sectors) {
+      const h = Array.isArray(s.sector_dollar_volume_1y) ? s.sector_dollar_volume_1y : [];
+      if (h.length > maxLen) maxLen = h.length;
+    }
+    const window = Math.min(N, maxLen);
+    let total = null;
+    if (window > 0) {
+      let sumOfDays = 0;
+      for (let i = -window; i < 0; i++) {
+        let daySum = 0;
+        for (const { s } of chartData.sectors) {
+          const h = s.sector_dollar_volume_1y || [];
+          const v = h.length + i >= 0 ? h[h.length + i] : null;
+          if (typeof v === 'number') daySum += v;
+        }
+        sumOfDays += daySum;
+      }
+      total = sumOfDays / window;
+    }
+    return { pct, avg: total };
   }, [chartData, p.days]);
 
   const tickFmt = (v) => `${v >= 0 ? '+' : ''}${v.toFixed(0)}%`;
@@ -267,7 +315,18 @@ function SectorPerformance() {
           <ResponsiveContainer width="100%" height={320}>
             <LineChart data={chartData.data} margin={{ top: 8, right: 12, left: 0, bottom: 0 }}>
               <CartesianGrid stroke="#253655" strokeDasharray="3 3" vertical={false} />
-              <XAxis dataKey="_idx" tick={false} axisLine={{ stroke: '#253655' }} />
+              <XAxis
+                dataKey="date"
+                tick={{ fill: '#8899aa', fontSize: 10 }}
+                axisLine={{ stroke: '#253655' }}
+                tickLine={{ stroke: '#253655' }}
+                minTickGap={42}
+                tickFormatter={(d) => {
+                  if (!d || typeof d !== 'string') return '';
+                  const [, m, day] = d.split('-');
+                  return `${parseInt(m, 10)}/${parseInt(day, 10)}`;
+                }}
+              />
               <YAxis
                 tick={{ fill: '#8899aa', fontSize: 11 }}
                 tickFormatter={tickFmt}
@@ -276,7 +335,7 @@ function SectorPerformance() {
               />
               <Tooltip
                 contentStyle={{ background: '#16213e', border: '1px solid #253655', fontSize: 11 }}
-                labelFormatter={(v) => `T-${chartData.data.length - 1 - v}`}
+                labelFormatter={(d) => d || ''}
                 formatter={(val, key) => {
                   if (typeof val !== 'number') return ['N/A', key];
                   return [`${val >= 0 ? '+' : ''}${val.toFixed(2)}%`, key];
@@ -285,7 +344,7 @@ function SectorPerformance() {
               <ReferenceLine y={0} stroke="#555" strokeDasharray="2 2" />
               {chartData.data.length > 0 && SPX_CLOSES_1Y.length > 1 && (
                 <Line
-                  type="monotone"
+                  type="linear"
                   dataKey="__spx"
                   name="SPX"
                   stroke="#e0e0e0"
@@ -298,7 +357,7 @@ function SectorPerformance() {
               {chartData.sectors.map(({ s }) => (
                 <Line
                   key={s.symbol}
-                  type="monotone"
+                  type="linear"
                   dataKey={s.symbol}
                   name={s.name}
                   stroke={SECTOR_COLORS[s.symbol] || '#888'}
@@ -309,30 +368,45 @@ function SectorPerformance() {
               ))}
             </LineChart>
           </ResponsiveContainer>
+          <div className="sector-trend-note">
+            各<b>板块日均成交</b>是该板块 S&amp;P 500 成分股（~500 只，占美股市值 80%+）在所选周期内的日均成交额。
+          </div>
         </div>
         <div className="sector-trend-legend">
+          <div className="legend-row legend-head">
+            <span className="swatch" />
+            <span className="name" />
+            <span className="pct">涨幅</span>
+            <span className="vol">板块日均成交</span>
+          </div>
           <div className="legend-row legend-spx">
             <span className="swatch" style={{ borderTop: '2px dashed #e0e0e0' }} />
             <span className="name">SPX 基准</span>
-            <span className="pct" />
-            <span className="vol" />
+            <span
+              className="pct"
+              style={{
+                color: spxSummary.pct == null ? undefined
+                  : spxSummary.pct >= 0 ? 'var(--green)' : 'var(--red)',
+              }}
+            >
+              {spxSummary.pct == null
+                ? '—'
+                : `${spxSummary.pct >= 0 ? '+' : ''}${spxSummary.pct.toFixed(1)}%`}
+            </span>
+            <span className="vol">{fmtUsd(spxSummary.avg)}</span>
           </div>
           {chartData.sectors.map(({ s }) => {
             const sum = summary[s.symbol] || {};
             const pct = sum.pct ?? 0;
             const isUp = pct >= 0;
-            const vol = sum.avgDollarVol || 0;
-            const volLabel = vol >= 1e9
-              ? `$${(vol / 1e9).toFixed(2)}B`
-              : `$${(vol / 1e6).toFixed(0)}M`;
             return (
               <div className="legend-row" key={s.symbol}>
                 <span className="swatch" style={{ background: SECTOR_COLORS[s.symbol] }} />
-                <span className="name">{s.name}</span>
+                <span className="name">{s.name} ETF</span>
                 <span className="pct" style={{ color: isUp ? 'var(--green)' : 'var(--red)' }}>
                   {isUp ? '+' : ''}{pct.toFixed(1)}%
                 </span>
-                <span className="vol">{volLabel}</span>
+                <span className="vol">{fmtUsd(sum.sectorAvg)}</span>
               </div>
             );
           })}
@@ -631,57 +705,58 @@ function AppBody() {
       <div className="section">
         <div className="section-title">异动筛选 Top Movers</div>
         <div style={{ fontSize: 10, color: 'var(--text-dim)', marginBottom: 8 }}>
-          筛选条件: Mid Cap | Trading Volume ≥ $100M | 1D Change &gt; 5% | 1Y Change &gt; 40% | 按 Trading Volume ↓ 排序
+          筛选条件: Mkt Cap ≥ $1Bn | $Volume ≥ $300M | 1D ≥ 15% 或 1W ≥ 40%（任一） · 按 1D Change ↓ 排序
         </div>
         <div style={{ overflowX: 'auto' }}>
           <table className="screener-tbl">
             <thead>
               <tr>
-                <th style={{ width: 55 }}>Ticker</th>
-                <th style={{ width: 170 }}>Name</th>
-                <th style={{ width: 55, textAlign: 'right' }}>1D %</th>
-                <th style={{ width: 55, textAlign: 'right' }}>5D %</th>
-                <th style={{ width: 55, textAlign: 'right' }}>1M %</th>
-                <th style={{ width: 55, textAlign: 'right' }}>3M %</th>
-                <th style={{ width: 55, textAlign: 'right' }}>6M %</th>
-                <th style={{ width: 55, textAlign: 'right' }}>1Y %</th>
-                <th style={{ width: 85, textAlign: 'right' }}>Volume ($Bn)</th>
-                <th style={{ width: 75, textAlign: 'right' }}>MktCap ($Bn)</th>
-                <th style={{ width: 90 }}>多周期趋势</th>
-                <th style={{ minWidth: 180 }}>主营业务</th>
+                <th style={{ width: 90 }}>行业分类</th>
+                <th style={{ width: 60 }}>Ticker</th>
+                <th style={{ minWidth: 140 }}>Name</th>
+                <th style={{ width: 60, textAlign: 'center' }}>Day<br/>Remaining</th>
+                <th style={{ width: 65, textAlign: 'right' }}>Change_%</th>
+                <th style={{ width: 65, textAlign: 'right' }}>1w<br/>Change_%</th>
+                <th style={{ width: 75, textAlign: 'right' }}>Market_Cap<br/>($ Bn)</th>
+                <th style={{ width: 70, textAlign: 'right' }}>$Volume<br/>($ Bn)</th>
+                <th style={{ width: 70, textAlign: 'right' }}>1w avg<br/>$Volume<br/>($ Bn)</th>
+                <th style={{ minWidth: 180 }}>Reason</th>
+                <th style={{ minWidth: 200 }}>Main Business</th>
               </tr>
             </thead>
             <tbody>
+              {SCREENER.length === 0 && (
+                <tr>
+                  <td colSpan={11} style={{ textAlign: 'center', color: 'var(--text-dim)', padding: 16 }}>
+                    今日无符合筛选条件的个股
+                  </td>
+                </tr>
+              )}
               {SCREENER.map(s => {
-                const periods = [s.d1, s.d5, s.m1, s.m3, s.m6, s.y1];
+                const d1 = s.d1;
+                const w1 = s.w1;
+                const isDown = (d1 ?? 0) < 0;
                 return (
                   <tr key={s.tk}>
+                    <td>{s.industry || <span style={{ color: 'var(--text-dim)' }}>—</span>}</td>
                     <td className="tk">{s.tk}</td>
                     <td className="nm">{s.nm}</td>
-                    {periods.map((v, i) => (
-                      <td
-                        className={`pct ${v == null ? '' : pnClass(v)}`}
-                        style={v == null ? { color: 'var(--text-dim)' } : undefined}
-                        key={i}
-                      >
-                        {v == null ? 'N/A' : fmtPct(v)}
-                      </td>
-                    ))}
-                    <td className="vol" style={s.vol != null && s.vol >= 1 ? { color: 'var(--gold)' } : undefined}>
-                      {s.vol != null ? s.vol.toFixed(1) : 'N/A'}
+                    <td style={{ textAlign: 'center', fontWeight: 600 }}>{s.days_remaining ?? '—'}</td>
+                    <td className={`pct ${isDown ? 'down' : 'up'}`}>{d1 == null ? '—' : fmtPct(d1)}</td>
+                    <td className={`pct ${(w1 ?? 0) < 0 ? 'down' : 'up'}`}>{w1 == null ? '—' : fmtPct(w1)}</td>
+                    <td style={{ textAlign: 'right', fontVariantNumeric: 'tabular-nums' }}>
+                      {s.market_cap_bn != null ? s.market_cap_bn.toFixed(1) : '—'}
                     </td>
-                    <td className="cap">{s.cap != null ? s.cap.toFixed(1) : '—'}</td>
-                    <td>
-                      <div className="mini-bars">
-                        {periods.map((v, i) => {
-                          if (v == null) return <div className="mini-bar n" style={{ height: 2 }} key={i} />;
-                          let h = Math.min(Math.abs(v) / SCREENER_MAX_ABS * 14, 14);
-                          h = Math.max(h, 2);
-                          return <div className={`mini-bar ${v >= 0 ? 'g' : 'r'}`} style={{ height: h }} key={i} />;
-                        })}
-                      </div>
+                    <td style={{ textAlign: 'right', fontVariantNumeric: 'tabular-nums' }}>
+                      {s.dollar_vol_bn != null ? s.dollar_vol_bn.toFixed(2) : '—'}
                     </td>
-                    <td className="biz">{s.biz}</td>
+                    <td style={{ textAlign: 'right', fontVariantNumeric: 'tabular-nums', color: 'var(--text-dim)' }}>
+                      {s.w1_avg_dollar_vol_bn != null ? s.w1_avg_dollar_vol_bn.toFixed(2) : '—'}
+                    </td>
+                    <td style={{ fontSize: 11 }}>
+                      {s.reason || <span style={{ color: 'var(--text-dim)' }}>—</span>}
+                    </td>
+                    <td className="biz">{s.main_business || <span style={{ color: 'var(--text-dim)' }}>—</span>}</td>
                   </tr>
                 );
               })}

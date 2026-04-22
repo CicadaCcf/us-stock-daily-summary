@@ -104,6 +104,8 @@ function marketSectorsToDisplay(rows) {
     m3: r.m3_pct ?? 0,
     closes_1y: Array.isArray(r.closes_1y) ? r.closes_1y : [],
     volumes_1y: Array.isArray(r.volumes_1y) ? r.volumes_1y : [],
+    sector_dollar_volume_1y: Array.isArray(r.sector_dollar_volume_1y) ? r.sector_dollar_volume_1y : [],
+    sector_constituents_count: r.sector_constituents_count ?? 0,
   }));
 }
 
@@ -113,6 +115,11 @@ export const SECTORS = marketSectorsToDisplay(market.sectors) || toArray(snapsho
 // Raw indices with sparklines (for benchmark line in combined sector chart)
 export const INDICES_RAW = toArray(market.indices);
 export const SPX_CLOSES_1Y = (INDICES_RAW.find((r) => r.symbol === 'GSPC')?.closes_1y) || [];
+// Trading dates aligned to the 1Y sector cache (last 252 trading days
+// ending at ref_date). Used for X-axis labels on the sector chart.
+export const TRADING_DATES_1Y = Array.isArray(market.trading_dates_1y)
+  ? market.trading_dates_1y
+  : [];
 export const SECTOR_MAX_ABS = typeof snapshot.sectorMaxAbs === 'number' ? snapshot.sectorMaxAbs : 2.5;
 export const THEMES = toArray(snapshot.themes);
 export const MARKET_GENERATED_AT = market.generated_at || null;
