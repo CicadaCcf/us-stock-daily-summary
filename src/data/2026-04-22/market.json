@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T01:07:54+00:00",
+  "generated_at": "2026-04-23T01:28:49+00:00",
   "source": "polygon.io + yahoo",
   "date": "2026-04-22",
   "ref_date": "2026-04-22",
@@ -1605,16 +1605,17 @@
     {
       "symbol": "DX-Y.NYB",
       "name": "美元指数 DXY",
-      "close": 98.56,
+      "close": 98.59,
       "prev_close": null,
-      "d1_pct": -0.03,
-      "d5_pct": 0.35,
-      "m1_pct": -0.4,
-      "m3_pct": -0.84,
+      "d1_pct": 0.18,
+      "d5_pct": 0.54,
+      "m1_pct": -1.06,
+      "m3_pct": -0.74,
       "volume": null,
       "mkt_cap_bn": null,
       "last_updated": "2026-04-22",
       "closes_1y": [
+        99.83999633789062,
         99.29000091552734,
         99.47000122070312,
         99.01000213623047,
@@ -1865,19 +1866,18 @@
         98.0999984741211,
         98.05000305175781,
         98.41000366210938,
-        98.58999633789062,
-        98.55899810791016
+        98.58999633789062
       ]
     },
     {
       "symbol": "N225",
       "name": "日经 225",
-      "close": 59990.32,
+      "close": 59585.86,
       "prev_close": null,
-      "d1_pct": 0.68,
-      "d5_pct": 0.79,
-      "m1_pct": 14.81,
-      "m3_pct": 11.22,
+      "d1_pct": 0.4,
+      "d5_pct": 2.5,
+      "m1_pct": 15.67,
+      "m3_pct": 10.12,
       "volume": null,
       "mkt_cap_bn": null,
       "last_updated": "2026-04-22",
@@ -2125,19 +2125,18 @@
         58475.8984375,
         58824.890625,
         59349.171875,
-        59585.859375,
-        59990.3203125
+        59585.859375
       ]
     },
     {
       "symbol": "KS11",
       "name": "韩国 KOSPI",
-      "close": 6550.84,
+      "close": 6417.93,
       "prev_close": null,
-      "d1_pct": 2.07,
-      "d5_pct": 5.22,
-      "m1_pct": 17.95,
-      "m3_pct": 36.55,
+      "d1_pct": 0.46,
+      "d5_pct": 5.36,
+      "m1_pct": 18.72,
+      "m3_pct": 35.88,
       "volume": null,
       "mkt_cap_bn": null,
       "last_updated": "2026-04-22",
@@ -2384,8 +2383,7 @@
         6191.919921875,
         6219.08984375,
         6388.47021484375,
-        6417.93017578125,
-        6550.83984375
+        6417.93017578125
       ]
     },
     {
@@ -2916,16 +2914,17 @@
     {
       "symbol": "GC=F",
       "name": "黄金 Gold",
-      "close": 4762.9,
+      "close": 4698.4,
       "prev_close": null,
-      "d1_pct": 1.37,
-      "d5_pct": -0.77,
-      "m1_pct": 4.21,
-      "m3_pct": 3.18,
+      "d1_pct": -2.25,
+      "d5_pct": -2.62,
+      "m1_pct": 2.12,
+      "m3_pct": 1.56,
       "volume": null,
       "mkt_cap_bn": null,
       "last_updated": "2026-04-22",
       "closes_1y": [
+        3400.800048828125,
         3276.300048828125,
         3332.0,
         3282.39990234375,
@@ -3176,23 +3175,23 @@
         4785.39990234375,
         4857.60009765625,
         4806.60009765625,
-        4698.39990234375,
-        4762.89990234375
+        4698.39990234375
       ]
     },
     {
       "symbol": "CL=F",
       "name": "WTI 原油",
-      "close": 93.21,
+      "close": 92.13,
       "prev_close": null,
-      "d1_pct": 1.17,
-      "d5_pct": 2.1,
-      "m1_pct": -5.2,
-      "m3_pct": 57.48,
+      "d1_pct": 2.81,
+      "d5_pct": 0.93,
+      "m1_pct": -4.17,
+      "m3_pct": 48.55,
       "volume": null,
       "mkt_cap_bn": null,
       "last_updated": "2026-04-22",
       "closes_1y": [
+        64.30999755859375,
         62.27000045776367,
         62.790000915527344,
         63.02000045776367,
@@ -3443,8 +3442,7 @@
         94.69000244140625,
         83.8499984741211,
         89.61000061035156,
-        92.12999725341797,
-        93.20999908447266
+        92.12999725341797
       ]
     }
   ],
@@ -3969,8 +3967,10 @@
         12638295,
         13826687
       ],
-      "sector_dollar_volume_1y": [],
-      "sector_constituents_count": 0
+      "sector_constituents_count": 73,
+      "sector_dollar_volume_1y": [
+        191619394989
+      ]
     },
     {
       "symbol": "XLC",
@@ -4492,8 +4492,10 @@
         3852030,
         3078662
       ],
-      "sector_dollar_volume_1y": [],
-      "sector_constituents_count": 0
+      "sector_constituents_count": 23,
+      "sector_dollar_volume_1y": [
+        30400550438
+      ]
     },
     {
       "symbol": "XLY",
@@ -5015,8 +5017,10 @@
         7240504,
         5287853
       ],
-      "sector_dollar_volume_1y": [],
-      "sector_constituents_count": 0
+      "sector_constituents_count": 48,
+      "sector_dollar_volume_1y": [
+        53531819545
+      ]
     },
     {
       "symbol": "XLI",
@@ -5538,8 +5542,10 @@
         8738906,
         10594577
       ],
-      "sector_dollar_volume_1y": [],
-      "sector_constituents_count": 0
+      "sector_constituents_count": 79,
+      "sector_dollar_volume_1y": [
+        47108620325
+      ]
     },
     {
       "symbol": "XLF",
@@ -6061,8 +6067,10 @@
         34077803,
         31831080
       ],
-      "sector_dollar_volume_1y": [],
-      "sector_constituents_count": 0
+      "sector_constituents_count": 76,
+      "sector_dollar_volume_1y": [
+        41908096909
+      ]
     },
     {
       "symbol": "XLB",
@@ -6584,8 +6592,10 @@
         9544936,
         8931708
       ],
-      "sector_dollar_volume_1y": [],
-      "sector_constituents_count": 0
+      "sector_constituents_count": 26,
+      "sector_dollar_volume_1y": [
+        8709412152
+      ]
     },
     {
       "symbol": "XLRE",
@@ -7107,8 +7117,10 @@
         5073293,
         5115820
       ],
-      "sector_dollar_volume_1y": [],
-      "sector_constituents_count": 0
+      "sector_constituents_count": 31,
+      "sector_dollar_volume_1y": [
+        6860054971
+      ]
     },
     {
       "symbol": "XLU",
@@ -7630,8 +7642,10 @@
         19591545,
         21731448
       ],
-      "sector_dollar_volume_1y": [],
-      "sector_constituents_count": 0
+      "sector_constituents_count": 31,
+      "sector_dollar_volume_1y": [
+        8718187128
+      ]
     },
     {
       "symbol": "XLV",
@@ -8153,8 +8167,10 @@
         8725722,
         8315114
       ],
-      "sector_dollar_volume_1y": [],
-      "sector_constituents_count": 0
+      "sector_constituents_count": 58,
+      "sector_dollar_volume_1y": [
+        35336688768
+      ]
     },
     {
       "symbol": "XLE",
@@ -8676,8 +8692,10 @@
         41276458,
         40565378
       ],
-      "sector_dollar_volume_1y": [],
-      "sector_constituents_count": 0
+      "sector_constituents_count": 22,
+      "sector_dollar_volume_1y": [
+        12939969796
+      ]
     },
     {
       "symbol": "XLP",
@@ -9199,8 +9217,10 @@
         8699728,
         9137050
       ],
-      "sector_dollar_volume_1y": [],
-      "sector_constituents_count": 0
+      "sector_constituents_count": 36,
+      "sector_dollar_volume_1y": [
+        14908210765
+      ]
     }
   ],
   "themes_etfs": [

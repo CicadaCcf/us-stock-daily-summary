@@ -561,9 +561,18 @@ def main():
             if not r:
                 return None
             meta = r[0].get('meta', {})
+            timestamps = r[0].get('timestamp', []) or []
             closes = r[0].get('indicators', {}).get('quote', [{}])[0].get('close', []) or []
-            # Last non-null close is "today"; previous non-null is "prev day"
-            closes_filtered = [(i, c) for i, c in enumerate(closes) if c is not None]
+            # Align to ref_date: a 4/22 snapshot must show each market's 4/22
+            # close by its own local calendar. Dropping bars dated after
+            # ref_date also guards against Asia markets' next-day close
+            # leaking in when the snapshot runs later the same day.
+            ref_iso = ref_date.isoformat()
+            closes_filtered = [
+                (i, c) for i, (t, c) in enumerate(zip(timestamps, closes))
+                if c is not None
+                   and datetime.fromtimestamp(t, tz=timezone.utc).date().isoformat() <= ref_iso
+            ]
             if not closes_filtered:
                 return None
             price = closes_filtered[-1][1]
