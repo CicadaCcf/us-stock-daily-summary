@@ -1,0 +1,456 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-apr22",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "特朗普延长停火 伊朗内部分裂 谈判命悬一线",
+      "summary": "特朗普应巴基斯坦请求延长停火并暂停攻击伊朗，但维持海上封锁。伊朗内部分歧严重、哈梅内伊将于周三回应，美伊代表团伊斯兰堡会谈被无限延期。IRGC威胁武力打破封锁，并今日袭击3艘集装箱船。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普延长停火、暂停攻击伊朗、维持封锁",
+          "details": "鉴于伊朗政府内部存在严重分歧(这也在意料之中)，且应陆军元帅阿西姆·穆尼尔及巴基斯坦总理谢赫·巴兹·谢里夫之请，我们已被要求暂停对伊朗发起攻击，直至其领导层和代表能够提出一项统一的方案。因此，我已指示我方军队继续实施封锁，并在所有其他方面保持待命和准备就绪的状态。因此，我将延长停火期限，直至他们的方案被提交并讨论告一段落为止，无论最终结果如何",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普:霍尔木兹关闭伊朗每日损失500M、现金短缺",
+          "details": "伊朗声称其关闭霍尔木兹海峡的意图只是为了挽回颜面，实际上他们想立刻开放，如果我们去开放霍尔木兹海峡，将永远无法与伊朗达成任何协议。由于霍尔木兹海峡关闭，伊朗每天损失500M，伊朗正面临现金流动性短缺的问题，军警抱怨领不到工资。",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "贝森特:哈尔克岛石油储备将数日内填满，继续最大施压",
+          "details": "Bessent:伊朗哈尔克岛石油储备将在数日内填满；我们将继续对伊朗施加最大压力，削弱其金融能力。",
+          "important": false
+        },
+        {
+          "actor": "Axios",
+          "actor_type": "新闻",
+          "text": "Axios:特朗普再给伊朗3-5天停火窗口、非无限期",
+          "details": "Axios援引消息人士称：特朗普愿意再给伊朗三到五天的停火时间，让他们把事情理顺……这不会是无限期的。报道称，总统认为美国在军事层面已经实现了一切可以实现的目标，希望退出这场日益不得人心的战争。在耗尽所有其他选项之前，他不会重启军事行动；但如果巴基斯坦方面的斡旋未能在特朗普设定的时间窗口内促成伊朗参与，军事选项仍将重新摆上桌面。",
+          "important": false
+        },
+        {
+          "actor": "CNN/美国官员",
+          "actor_type": "新闻",
+          "text": "美伊谈判代表可能很快会晤、浓缩铀考察引分歧",
+          "details": "CNN报道，美国官员表示美伊谈判代表可能很快举行会晤，伊朗代表团参加浓缩铀考察活动资格问题引发美国官员分歧。",
+          "important": false
+        },
+        {
+          "actor": "伊朗/巴基斯坦斡旋方",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗不参加周三会谈、JD Vance伊斯兰堡之行无限延期",
+          "details": "伊朗通过巴基斯坦向美方通报称，它不会参加周三的会谈，JD Vance原定的伊斯兰堡之行被无限延期，此前巴基斯坦主导的调解人已确认，美国副总统和伊朗议会议长将于周三清晨抵达伊斯兰堡；伊朗已\"非正式地\"向巴基斯坦表示，一旦由副总统约翰·万斯率领的美国代表团离开华盛顿，伊朗将允许其代表团前往伊斯兰堡。",
+          "important": false
+        },
+        {
+          "actor": "美国官员/地区消息人士",
+          "actor_type": "新闻",
+          "text": "哈梅内伊周三回应、谈判代表等最高领袖绿灯",
+          "details": "据一位美国官员和一位地区消息人士透露，伊朗领导层近日就如何与特朗普政府进行谈判展开了激烈的内部辩论。哈梅内伊预计将于周三作出回应，伊朗谈判代表表示，他们正在等待最高领袖的绿灯。",
+          "important": false
+        },
+        {
+          "actor": "Aragchi",
+          "actor_type": "Foreign-Gov",
+          "text": "伊外长:封锁港口属战争行为、违反停火协议",
+          "details": "Aragchi称封锁伊朗港口是一种战争行为，因此违反了停火协议，袭击商船并劫持船员是更为严重的违法行为。",
+          "important": false
+        },
+        {
+          "actor": "Ghalibaf顾问",
+          "actor_type": "Foreign-Gov",
+          "text": "伊议长顾问:延长停火无理、是为突袭争取时间",
+          "details": "伊朗议会议长Ghalibaf的顾问表示：特朗普延长停火的决定毫无道理。延长停火是为了争取时间发动突袭。伊朗目前掌握着主动权。",
+          "important": false
+        },
+        {
+          "actor": "IRGC",
+          "actor_type": "Foreign-Gov",
+          "text": "IRGC:封锁期间不开放海峡、必要时武力打破",
+          "details": "IRGC称在海军封锁持续期间不会重新开放霍尔木兹海峡，如有必要将使用武力打破封锁。IRGC发言人表示，伊朗已\"百分之百准备好\"应对美国的任何突袭，警告\"一旦发生侵略\"，伊朗军队\"将立即对预定目标进行强力打击，并给美国一个比以往更加严厉的教训\"。塔斯尼姆通讯社称伊朗部队已处于全面戒备状态，手指扣在扳机上。",
+          "important": false
+        },
+        {
+          "actor": "伊朗农业部长/莫哈杰拉尼",
+          "actor_type": "Foreign-Gov",
+          "text": "伊官员:基本物资未受封锁影响、戒备下谈判",
+          "details": "伊朗农业部长：尽管美国实施了海上封锁，但基本物资和食品供应并未受到影响。法蒂玛·莫哈杰拉尼表示，伊朗在全面军事戒备状态下进行谈判，并警告称，如果再次遭到袭击，伊朗将做出更有力的回应。",
+          "important": false
+        },
+        {
+          "actor": "美军",
+          "actor_type": "US-Executive",
+          "text": "布什号航母驶向阿拉伯海、B-52从英国起飞",
+          "details": "美国海军布什号航空母舰(CVN-77)位于马达加斯加北部，正驶向阿拉伯海；今天早些时候，B-52战略轰炸机满载着货物从英国皇家空军费尔福德基地起飞。",
+          "important": false
+        },
+        {
+          "actor": "胡塞武装",
+          "actor_type": "Foreign-Gov",
+          "text": "胡塞武装预计恢复对红海船只袭击",
+          "details": "据黎巴嫩媒体援引也门一名军方消息人士的话报道，胡塞武装预计将恢复对红海船只的袭击。",
+          "important": false
+        },
+        {
+          "actor": "UKMTO/IRGC",
+          "actor_type": "新闻",
+          "text": "IRGC今日袭击3艘集装箱船、拦截2艘入伊朗领海",
+          "details": "【日度通行】4/21 17:30 - 4/22 17:30共8艘，其中2艘出湾Tanker未绕行，1艘进湾Tanker绕行。【重要】UKMTO报告今日IRGC袭击3艘集装箱船，IRGC称他们拦截了两艘船只，并将它们引导驶入伊朗领海。",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "至少2艘伊朗满载油轮绕过封锁、本周运出约9M桶",
+          "details": "BBG报道至少两艘满载的伊朗油轮本周已驶出波斯湾并绕过美国封锁。这支船队通过绕行军舰，已向市场运送约9M桶原油。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ:美考虑向阿联酋提供财政援助",
+          "details": "WSJ报道特朗普政府正考虑向阿联酋提供财政援助，以弥补该国因美国与伊朗战争而遭受的经济损失。",
+          "important": false
+        },
+        {
+          "actor": "AgResource",
+          "actor_type": "新闻",
+          "text": "若美伊和谈破裂、5月中旬美中峰会或推迟",
+          "details": "据AgResource报道，美伊和平谈判在巴基斯坦可能破裂，这可能会导致原定于5月中旬举行的美中峰会推迟。",
+          "important": false
+        },
+        {
+          "actor": "Peter Zerezin",
+          "actor_type": "KOL",
+          "text": "KOL:伊朗权力真空、若无政权更迭反更棘手",
+          "details": "Peter Zerezin:伊朗可能存在权力真空。在这种环境下，要想成为强人，就要表现得强硬。在美国轰炸伊朗之后同意与JD对话，这听起来并不强硬。讽刺的是，如果特朗普没有实现\"政权更迭\"，事情反而会更容易些。",
+          "important": false
+        },
+        {
+          "actor": "@citrinowicz",
+          "actor_type": "KOL",
+          "text": "KOL:伊朗绝不会屈服、特朗普谈判风格与伊朗战略文化严重错配",
+          "details": "伊朗的决定不难预测。它绝不会屈服。没有任何一种戏剧性的举措能够迫使伊朗政权举起白旗。特朗普的策略以施压、公开示好和快速达成协议为基础，其假设是对手会对不断升级的成本做出可预测的反应。但伊朗的行事方式并非如此。对德黑兰而言，时间并非束缚，而是一种工具。战略耐心是其决策的内在组成部分。威胁非但不能迫使对方妥协，反而常常强化抵抗，在德黑兰看来，仅仅是顶住美国的压力保持坚定，本身在国内和地区层面都可以被视为一种胜利。",
+          "important": false
+        },
+        {
+          "actor": "Niall Ferguson",
+          "actor_type": "KOL",
+          "text": "Ferguson:妥协耗时超市场预期、参照基辛格74年石油禁运",
+          "details": "Niall Ferguson:如果特朗普现在就部署地面部队，我会感到惊讶。谈判还会继续。如果伊朗人重拾北越的策略，拖延美国谈判代表，那么可能不得不进行更多轰炸。最终妥协方案的达成所需时间将比市场先生目前预期的要长。预测市场的共识是这场冲突将在5月底结束，但请记住：亨利·基辛格花了四个多月的时间才解除1973-1974年的石油禁运。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "CNN",
+        "Axios",
+        "Bloomberg",
+        "UKMTO",
+        "AgResource"
+      ],
+      "date": "2026-04-22",
+      "image_urls": []
+    },
+    {
+      "id": "china-japan-apr22",
+      "topic": "中日关系",
+      "topic_tag": "geo",
+      "title": "中方抨击高市靖国神社供奉 中国海军穿冲绳水道",
+      "summary": "中共机关报严厉批评日本首相高市早苗本周向靖国神社供奉，定性为对二战胜利成果的挑衅。同日中国海军舰艇编队完成远海能力测试后经冲绳两岛间水道返航。",
+      "bullets": [
+        {
+          "actor": "中共机关报",
+          "actor_type": "Foreign-Gov",
+          "text": "党报抨击高市靖国神社供奉是对历史正义的公开亵渎",
+          "details": "中国共产党机关报抨击日本首相高市早苗本周向靖国神社供奉的行为，称其为\"对人类良知的肆意践踏、对历史正义的公开亵渎，以及对二战胜利成果的傲慢挑衅\"。",
+          "important": true
+        },
+        {
+          "actor": "中国海军",
+          "actor_type": "Foreign-Gov",
+          "text": "中国驱逐舰编队经冲绳两岛水道返航",
+          "details": "中国表示，在完成远海能力测试后，一支包括驱逐舰在内的中国海军舰艇编队于周三通过由日本冲绳县管辖的两座岛屿之间的水道返航。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-04-22",
+      "image_urls": []
+    },
+    {
+      "id": "warsh-fed-nomination-apr22",
+      "topic": "美联储主席提名",
+      "topic_tag": "fed",
+      "title": "Warsh参议院听证会:捍卫独立性 主张新通胀框架",
+      "summary": "美联储主席提名人Warsh在参议院听证中捍卫美联储独立性、未预先承诺政策，主张缓慢缩表、以修剪均值/中位数通胀替代核心PCE，并呼吁改革沟通框架、取消前瞻性指引。提名在参议院仍面临共和党内部阻力。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS:Warsh主张缓慢缩表、新通胀框架偏好修剪均值",
+          "details": "GS:美联储主席提名人沃什在听证会上表示未预先承诺任何政策。他主张缓慢缩表，并呼吁建立新通胀框架，强调修剪均值和中位数通胀优于核心PCE。目前修剪均值PCE同比2.3%，显著低于核心PCE的3.0%。沃什认为AI将提升供给侧生产力，劳动力市场接近充分就业。",
+          "important": true
+        },
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "Nick:Warsh回避降息与Cook案、改革议程严肃",
+          "details": "Nick:他没有呼吁降息，但也没有否定降息的必要性；百般回避与特朗普保持距离的机会；承诺维护美联储的独立性，但却回避了cook案件和建筑起诉；Warsh对改革议程非常认真，改革内容涵盖美联储的经济分析方式以及与公众沟通的方式等各个方面；引用了一些比美联储用作主要基准的\"粗略估计\"更令人满意的通胀指标；独立性论点在美联储内部会引发争议，而且可能也无助于他扩大在民主党人中的支持率。",
+          "important": false
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "UBS:Warsh反对前瞻指引、批资产负债表加剧不公",
+          "details": "UBS:沃什坚决捍卫美联储独立性，否认受政治施压。他批评资产负债表工具加剧不公，主张以利率为主要手段；反对前瞻性指引，呼吁改革沟通框架。他强调AI驱动的生产力增长可能具反通胀效应，但具体利率路径未明。提名在参议院仍面临共和党内部阻力。",
+          "important": false
+        },
+        {
+          "actor": "@Credit_Junk",
+          "actor_type": "KOL",
+          "text": "KOL:Warsh更关注通胀端、轻就业端",
+          "details": "@Credit_Junk:在沃什的参议院确认听证会上，他似乎更关注美联储双重使命中的通胀方面，而不是就业方面。",
+          "important": false
+        },
+        {
+          "actor": "Econstratpb",
+          "actor_type": "KOL",
+          "text": "KOL:Warsh为上位不惜矛盾前立场",
+          "details": "Econstratpb:为了得到这份工作，他会不顾一切地说出任何话，不管这些话听起来是否合情合理，或者是否与他之前的立场一致。",
+          "important": false
+        },
+        {
+          "actor": "Dow",
+          "actor_type": "KOL",
+          "text": "KOL:QT致通胀下行/资产下跌的说法荒谬",
+          "details": "Dow:认为QT会给通胀带来下行压力或导致资产价格下跌，这种想法是过去20年来一直关注货币政策和市场的人所能提出的最荒谬的主张之一。Fed在金融危机后大幅扩张了资产负债表，却未能刺激通胀。通胀直到新冠疫情导致全球供应中断后才出现。自美联储2023年开始QT以来，市场已经创下数百个历史新高。",
+          "important": false
+        },
+        {
+          "actor": "Ed Bradford",
+          "actor_type": "KOL",
+          "text": "KOL:降低SOMA的WAM或是Warsh计划一部分、通胀措辞鸽派",
+          "details": "Ed Bradford:降低SOMA的WAM可能是Warsh计划的一部分，许多FOMC成员可能会支持该计划；关于通胀的表述细节其实非常鸽派。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "GS",
+        "UBS",
+        "WSJ"
+      ],
+      "date": "2026-04-22",
+      "image_urls": [
+        "/uploads/2026-04-22/9b9a2592e752.png"
+      ]
+    },
+    {
+      "id": "gs-oil-outlook-apr22",
+      "topic": "原油与库存",
+      "topic_tag": "oil",
+      "title": "GS:海峡重启前全球油库或降至历史低位",
+      "summary": "GS指出尽管霍尔木兹通行低迷、全球可见库存大幅抽降，油价仍因风险溢价回落、去库存预期和现货买盘放缓而下跌。若通行量4月底开始恢复，全球可见库存仍可能触及历史最低，战争以来已抽降474 mb，平均6.3 mb/日。",
+      "bullets": [
+        {
+          "actor": "GS Oil",
+          "actor_type": "Analyst",
+          "text": "GS:库存抽降6.3 mb/日、累计474 mb、仍或创历史低位",
+          "details": "GS Oil:即使在霍尔木兹通行量在四月底开始恢复的乐观情形下，全球可见石油库存也很可能达到历史最低水平(图1)，抽降平均速度为6.3 mb/日，自战争开始以来，总计估算的原油库存回撤达474 mb。",
+          "important": true
+        },
+        {
+          "actor": "GS Oil",
+          "actor_type": "Analyst",
+          "text": "GS:风险溢价下降与去库存预期压制油价",
+          "details": "GS Oil:风险溢价下降，为预期霍尔木兹海峡重新开放而提前去库存，及现货买盘的放缓，共同解释了为何自停火以来尽管霍尔木兹通行量仍然偏低且全球可见库存大幅抽降，油价均有所回落。",
+          "important": false
+        },
+        {
+          "actor": "数据",
+          "actor_type": "Unknown",
+          "text": "全球可见油库存最新7864 mb、7日降5.1 mb/日",
+          "details": "Global Visible Total Oil Inventories最新水平:Total 7864 mb, Landed 6174 mb, On Water 1689 mb。自2/27变化:Total -255 mb, Total Ex Mideast -359 mb。最新7日变化:Total -5.1 mb/d, Landed +2.7 mb/d, On Water -7.8 mb/d。情景路径包括Flows Start to Recover Late April/Mid-May/Late May。",
+          "important": false
+        },
+        {
+          "actor": "船货数据",
+          "actor_type": "新闻",
+          "text": "煤油/喷气燃料海上库存近期大幅下滑",
+          "details": "Daily Commodities on water (Kero/Jet, by destination trading region) 过去18个月数据显示，10日MA自Sep 2025高点约6000+ ktons回落，2026年3-4月加速下滑至约2700 ktons，主要目的地包括North West Europe Zone、MED Zone、Eastern Asia、South-East Asia、Latin America、USEC/USWC等。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "USO",
+        "XLE"
+      ],
+      "image_indexes": [
+        1,
+        2
+      ],
+      "importance": 2,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-04-22",
+      "image_urls": [
+        "/uploads/2026-04-22/b5f349d4dd78.jpg",
+        "/uploads/2026-04-22/fc03d74bee71.png"
+      ]
+    },
+    {
+      "id": "sellside-equity-apr22",
+      "topic": "卖方观点-股票",
+      "topic_tag": "earnings",
+      "title": "GS/BofA/JPM:美股续创新高 CTA重加杠杆",
+      "summary": "GS予SPX年底目标7600点(上涨7%)，预计今年EPS增12%/明年10%、21x PE。BofA看到向上风险、建议QQQ看涨价差与VIX尾部对冲。JPM指美伊停火触发动量阈值，CTA重加杠杆；权益ETF净流入$42.9B。",
+      "bullets": [
+        {
+          "actor": "GS Strategy",
+          "actor_type": "Analyst",
+          "text": "GS:SPX年底目标7600、涨7%、EPS今明两年12%/10%",
+          "details": "GS Strategy:在持续盈利增长的推动下，美国股市在未来几个月应会继续创出新高。预计标普500指数将上涨7%，年终目标为7600点，包含今年EPS增长12%、明年增长10%，以及接近当前21x市盈率。投资者仓位已回升到战前水平；仓位仍低于此前高位。美国情绪指标显示投资者仓位在三月底触底至-0.9，现为+0.8(图2)。",
+          "important": true
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "BofA:纳指波动率超互联网泡沫、建议QQQ看涨价差+VIX对冲",
+          "details": "BofA:美股现\"向上风险\"迹象，纳指波动率飙升超互联网泡沫期。报告建议买入QQQ看涨期权价差捕捉上行，配置VIX看涨期权价差对冲尾部风险。亚洲方面，看好中国中证1000看涨期权价差(7.3倍赔付)，建议买入印度Nifty看跌期权价差以防范供应链中断冲击。",
+          "important": false
+        },
+        {
+          "actor": "JPM Flow",
+          "actor_type": "Analyst",
+          "text": "JPM:停火触发动量阈值 CTA加杠杆 ETF净流入$42.9B",
+          "details": "JPM Flow:美伊停火声明引发市场急剧反弹，推动市场突破多个关键动量阈值，促使CTA在股票领域重新加杠杆。如果波动率保持受控，预计未来几周CTA敞口将继续重建。权益类ETF净流入$42.9B(1.4z)，其中美国主导了大部分流入$32.7B。",
+          "important": false
+        },
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "KOL:路线图类似Archegos与大众逼空、警惕大幅回撤",
+          "details": "short bear:我看到的路线图只有Archegos和大众汽车的。大众汽车的例子跟踪性能几乎完美。我们会看到大幅下跌吗。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "QQQ",
+        "VIX"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "BofA",
+        "JPM"
+      ],
+      "date": "2026-04-22",
+      "image_urls": []
+    },
+    {
+      "id": "ai-datacenter-infra-apr22",
+      "topic": "AI基础设施",
+      "topic_tag": "ai",
+      "title": "BofA:全球数据中心超11,200个 2030容量翻倍至200GW",
+      "summary": "BofA指出全球数据中心已超11,200个、2030年容量翻倍至200GW，AI专用容量18个月增两倍。水资源成关键瓶颈、基础设施缺口达$58B；高压输电许可需7-10年、变压器交货期4年；数据中心耗电2030年将超全球3%。",
+      "bullets": [
+        {
+          "actor": "BofA Menka Bajaj",
+          "actor_type": "Analyst",
+          "text": "BofA:全球数据中心2030容量翻倍至200GW",
+          "details": "BofA Menka Bajaj:全球数据中心数量已超11,200个，预计到2030年容量将翻倍至200GW，其中AI专用容量在18个月内增长了两倍。",
+          "important": true
+        },
+        {
+          "actor": "BofA Menka Bajaj",
+          "actor_type": "Analyst",
+          "text": "水资源瓶颈 基建缺口$58B 电网许可7-10年",
+          "details": "水资源成为AI发展的关键瓶颈，基础设施缺口达$58B；数据中心用电占全球电力的1.5%以上，预计2030年将超过3%。问题在于局部电网的承载能力。高压输电项目许可需7-10年；数据中心每兆瓦需嵌入60-75吨金属，其中铜和铝为主。变压器交货期长达4年。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "VRT",
+        "GEV",
+        "ETN"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "BofA"
+      ],
+      "date": "2026-04-22",
+      "image_urls": []
+    },
+    {
+      "id": "corp-tech-apr22",
+      "topic": "科技公司动态",
+      "topic_tag": "macro-other",
+      "title": "Meta员工监控AI训练 / SpaceX或60B收购Cursor / Anthropic Mythos泄露",
+      "summary": "Meta在员工电脑安装追踪软件喂给AI训练。SpaceX据称达成60B收购Cursor或10B合作协议。蓝色起源第三次新格伦发射上面级故障。Anthropic新Mythos模型遭少数未授权访问、或用于网络攻击。",
+      "bullets": [
+        {
+          "actor": "SpaceX",
+          "actor_type": "Corporate",
+          "text": "SpaceX拟60B收购Cursor或10B合作",
+          "details": "SpaceX表示，已达成协议，将在今年晚些时候以60B收购人工智能编码初创公司Cursor，或者支付10B用于双方的合作，以期在人工智能编码领域赶上竞争对手。",
+          "important": true
+        },
+        {
+          "actor": "Meta",
+          "actor_type": "Corporate",
+          "text": "Meta在员工电脑安装追踪软件喂AI训练",
+          "details": "Meta公司正在美国员工的工作电脑上安装追踪软件，该软件会捕捉鼠标移动、点击、击键和屏幕截图，并将这些数据输入到其人工智能训练流程中。",
+          "important": false
+        },
+        {
+          "actor": "Blue Origin",
+          "actor_type": "Corporate",
+          "text": "蓝色起源第三次新格伦发射上面级故障",
+          "details": "蓝色起源公司的第三次新格伦火箭发射以上面级发动机故障告终，导致AST SpaceMobile公司的通信卫星进入了低于预期轨道的位置，无法回收。",
+          "important": false
+        },
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "BBG:Anthropic新Mythos模型遭未授权访问、或用于网攻",
+          "details": "BBG报道少数未经授权的用户已访问Anthropic PBC的新款Mythos AI模型，该公司表示该模型可能被用于危险的网络攻击。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "META",
+        "ASTS"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-04-22",
+      "image_urls": []
+    }
+  ]
+}
