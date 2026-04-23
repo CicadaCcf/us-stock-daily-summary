@@ -696,7 +696,7 @@ function ReasonCell({ tk, initial }) {
         <textarea
           className={`editable-cell ${status}`}
           value={value}
-          placeholder="填写异动原因…"
+          placeholder=""
           rows={2}
           onChange={(e) => { setValue(e.target.value); setStatus('idle'); }}
           onBlur={() => save(value)}
@@ -776,11 +776,29 @@ function DateSwitcher() {
   );
 }
 
+// localStorage-backed overrides for Day Remaining. Keyed by trading date so
+// different days don't collide. Single-browser only — no cross-device sync.
+const DAYS_LS_KEY = `days_remaining_${CURRENT_DATE}`;
+function loadDaysOverrides() {
+  try {
+    const raw = typeof window !== 'undefined' && window.localStorage.getItem(DAYS_LS_KEY);
+    return raw ? JSON.parse(raw) : {};
+  } catch { return {}; }
+}
+
 function AppBody() {
   // Macro topics render in ingest order (no sort).
   const macroTopics = MACRO_TOPICS;
   // Human overrides for Top Movers industry / reason (loaded from Supabase).
   const { edits: screenerEdits } = useContext(ScreenerEditsCtx);
+  const [daysOverrides, setDaysOverrides] = useState(loadDaysOverrides);
+  const setDaysFor = (tk, v) => {
+    setDaysOverrides((prev) => {
+      const next = { ...prev, [tk]: v };
+      try { window.localStorage.setItem(DAYS_LS_KEY, JSON.stringify(next)); } catch {}
+      return next;
+    });
+  };
 
   return (
     <>
@@ -910,7 +928,24 @@ function AppBody() {
                     </td>
                     <td className="tk">{s.tk}</td>
                     <td className="nm">{s.nm}</td>
-                    <td style={{ textAlign: 'center', fontWeight: 600 }}>{s.days_remaining ?? '—'}</td>
+                    <td style={{ textAlign: 'center', fontWeight: 600 }}>
+                      <input
+                        type="text"
+                        value={daysOverrides[s.tk] ?? String(s.days_remaining ?? '')}
+                        onChange={(e) => setDaysFor(s.tk, e.target.value)}
+                        style={{
+                          width: 40,
+                          textAlign: 'center',
+                          background: 'transparent',
+                          color: 'inherit',
+                          border: 'none',
+                          outline: 'none',
+                          fontSize: 'inherit',
+                          fontWeight: 600,
+                          padding: 0,
+                        }}
+                      />
+                    </td>
                     <td className={`pct ${isDown ? 'down' : 'up'}`}>{d1 == null ? '—' : fmtPct(d1)}</td>
                     <td className={`pct ${(w1 ?? 0) < 0 ? 'down' : 'up'}`}>{w1 == null ? '—' : fmtPct(w1)}</td>
                     <td style={{ textAlign: 'right', fontVariantNumeric: 'tabular-nums' }}>

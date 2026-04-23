@@ -895,20 +895,14 @@ def main():
             industry = existing.get('industry', '')
         elif yest:
             initial = int(yest.get('initial_days') or 3)
-            # Legacy rows from the old schema don't carry days_remaining — treat
-            # them as fresh (initial) so they don't instantly vanish when the
-            # schema changes. Going forward rows have a real counter to decay.
+            # Day Remaining is now manually managed via the Supabase overlay
+            # (screener_edits.days_remaining) — the pipeline just carries
+            # yesterday's value forward. The editor decides when to drop a row
+            # by setting days_remaining to 0.
             yest_dr = yest.get('days_remaining')
-            yest_dr = int(yest_dr) if yest_dr is not None else initial
-            # Countdown rule: only today's 1D move matters. If 1D > 15%, reset;
-            # otherwise decrement — regardless of 1W, $-vol, or mkt cap.
-            d1_today = r.get('d1_pct')
-            if d1_today is not None and d1_today > flt['min_d1_pct']:
-                days_remaining = initial  # reset
-            else:
-                days_remaining = yest_dr - 1
-                if days_remaining <= 0:
-                    continue  # off the list
+            days_remaining = int(yest_dr) if yest_dr is not None else initial
+            if days_remaining <= 0:
+                continue  # off the list
             reason       = yest.get('reason', '')
             industry     = yest.get('industry', '')
         else:
