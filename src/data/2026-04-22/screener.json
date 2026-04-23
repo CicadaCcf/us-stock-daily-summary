@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T01:43:08+00:00",
+  "generated_at": "2026-04-23T02:08:42+00:00",
   "source": "polygon.io + claude",
   "ref_date": "2026-04-22",
   "filter": {
@@ -154,20 +154,6 @@
       "main_business": "开发美国本土稀土永磁体制造及关键矿物供应链"
     },
     {
-      "tk": "VICR",
-      "nm": "Vicor Corp",
-      "industry": "",
-      "days_remaining": 2,
-      "initial_days": 3,
-      "d1": 7.6,
-      "w1": 36.5,
-      "market_cap_bn": 12.02,
-      "dollar_vol_bn": 0.58,
-      "w1_avg_dollar_vol_bn": 0.34,
-      "reason": "",
-      "main_business": "研发制造模块化电源转换器及电源系统集成方案"
-    },
-    {
       "tk": "LUNR",
       "nm": "Intuitive Machines, Inc. Class A Common Stock",
       "industry": "",
@@ -180,6 +166,20 @@
       "w1_avg_dollar_vol_bn": 0.44,
       "reason": "",
       "main_business": "设计建造月球着陆器及深空探测航天器与服务"
+    },
+    {
+      "tk": "VICR",
+      "nm": "Vicor Corp",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": 7.6,
+      "w1": 36.5,
+      "market_cap_bn": 12.02,
+      "dollar_vol_bn": 0.58,
+      "w1_avg_dollar_vol_bn": 0.34,
+      "reason": "",
+      "main_business": "研发制造模块化电源转换器及电源系统集成方案"
     },
     {
       "tk": "IREN",
