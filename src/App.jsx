@@ -807,6 +807,38 @@ function AppBody() {
   // (otherwise everything would glow).
   const hasPrevDay = PREV_SCREENER_TKS.size > 0;
 
+  // User-draggable width for the Name column, persisted to localStorage so
+  // it survives reloads and syncs across open tabs of the same browser.
+  // Different screens / font-scale settings mean no single default fits
+  // everyone; letting the user drag it once and forget it is simplest.
+  const [nameW, setNameW] = useState(() => {
+    try {
+      const v = parseInt(window.localStorage.getItem('screener_name_w'), 10);
+      return Number.isFinite(v) && v >= 60 ? v : 160;
+    } catch { return 160; }
+  });
+  useEffect(() => {
+    try { window.localStorage.setItem('screener_name_w', String(nameW)); } catch {}
+  }, [nameW]);
+  const startNameDrag = (e) => {
+    const startX = e.clientX;
+    const startW = nameW;
+    const onMove = (ev) => setNameW(Math.max(60, startW + ev.clientX - startX));
+    const onUp = () => {
+      document.removeEventListener('mousemove', onMove);
+      document.removeEventListener('mouseup', onUp);
+      document.body.style.cursor = '';
+      document.body.style.userSelect = '';
+    };
+    document.addEventListener('mousemove', onMove);
+    document.addEventListener('mouseup', onUp);
+    // Lock cursor + kill text selection while dragging so the UX feels like
+    // a spreadsheet column drag, not a misbehaving text highlight.
+    document.body.style.cursor = 'col-resize';
+    document.body.style.userSelect = 'none';
+    e.preventDefault();
+  };
+
   return (
     <>
       {/* ========== SECTION 1: MARKET OVERVIEW (indices + breadth merged) ========== */}
@@ -910,17 +942,39 @@ function AppBody() {
           <table className="screener-tbl">
             <thead>
               <tr>
-                <th style={{ width: 90 }}>行业分类</th>
+                {/* Narrow/numeric columns use `width` (hard cap so they don't
+                    eat space); flex columns (Name/Reason/MainBiz) use only
+                    `minWidth` so they expand proportionally on wide screens. */}
+                <th style={{ minWidth: 120 }}>行业分类</th>
                 <th style={{ width: 60 }}>Ticker</th>
-                <th style={{ minWidth: 140 }}>Name</th>
+                <th style={{ width: nameW, position: 'relative', paddingRight: 10 }}>
+                  Name
+                  {/* Drag handle — thin invisible strip on the right edge.
+                      Hover shows a vertical line hint; col-resize cursor
+                      signals draggability. Only the Name column carries
+                      this for now; others stay auto-sized. */}
+                  <span
+                    onMouseDown={startNameDrag}
+                    aria-label="拖动调整 Name 列宽"
+                    title="拖动调整 Name 列宽"
+                    style={{
+                      position: 'absolute',
+                      top: 0, right: 0, bottom: 0,
+                      width: 6,
+                      cursor: 'col-resize',
+                      userSelect: 'none',
+                    }}
+                    className="col-resize-handle"
+                  />
+                </th>
                 <th style={{ width: 60, textAlign: 'center' }}>Day<br/>Remaining</th>
-                <th style={{ width: 65, textAlign: 'right' }}>Change_%</th>
-                <th style={{ width: 65, textAlign: 'right' }}>1w<br/>Change_%</th>
-                <th style={{ width: 75, textAlign: 'right' }}>Market_Cap<br/>($ Bn)</th>
-                <th style={{ width: 70, textAlign: 'right' }}>$Volume<br/>($ Bn)</th>
-                <th style={{ width: 70, textAlign: 'right' }}>1w avg<br/>$Volume<br/>($ Bn)</th>
-                <th style={{ minWidth: 180 }}>Reason</th>
-                <th style={{ minWidth: 200 }}>Main Business</th>
+                <th style={{ width: 70, textAlign: 'right' }}>Change_%</th>
+                <th style={{ width: 70, textAlign: 'right' }}>1w<br/>Change_%</th>
+                <th style={{ width: 80, textAlign: 'right' }}>Market_Cap<br/>($ Bn)</th>
+                <th style={{ width: 75, textAlign: 'right' }}>$Volume<br/>($ Bn)</th>
+                <th style={{ width: 75, textAlign: 'right' }}>1w avg<br/>$Volume<br/>($ Bn)</th>
+                <th style={{ minWidth: 240 }}>Reason</th>
+                <th style={{ minWidth: 260 }}>Main Business</th>
               </tr>
             </thead>
             <tbody>
