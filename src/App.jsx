@@ -787,6 +787,62 @@ function loadDaysOverrides() {
   } catch { return {}; }
 }
 
+// Draggable column width — one hook per column, persisted to localStorage
+// so the layout survives reloads. Drag listeners attach to `document` so
+// they keep tracking even when the pointer leaves the 6px-wide handle.
+// Min 60px so a column can't be shrunk into oblivion.
+function useResizableCol(storageKey, defaultW) {
+  const [w, setW] = useState(() => {
+    try {
+      const v = parseInt(window.localStorage.getItem(storageKey), 10);
+      return Number.isFinite(v) && v >= 60 ? v : defaultW;
+    } catch { return defaultW; }
+  });
+  useEffect(() => {
+    try { window.localStorage.setItem(storageKey, String(w)); } catch {}
+  }, [storageKey, w]);
+  const startDrag = (e) => {
+    const startX = e.clientX;
+    const startW = w;
+    const onMove = (ev) => setW(Math.max(60, startW + ev.clientX - startX));
+    const onUp = () => {
+      document.removeEventListener('mousemove', onMove);
+      document.removeEventListener('mouseup', onUp);
+      document.body.style.cursor = '';
+      document.body.style.userSelect = '';
+    };
+    document.addEventListener('mousemove', onMove);
+    document.addEventListener('mouseup', onUp);
+    // Lock cursor + kill text selection while dragging so the UX feels
+    // like a spreadsheet column drag, not a misbehaving text highlight.
+    document.body.style.cursor = 'col-resize';
+    document.body.style.userSelect = 'none';
+    e.preventDefault();
+  };
+  return [w, startDrag];
+}
+
+// Thin invisible strip on the right edge of a <th>. Hover reveals a
+// vertical rule via .col-resize-handle:hover. Parent <th> must be
+// `position: relative` for the absolute positioning to work.
+function DragHandle({ onMouseDown, label }) {
+  return (
+    <span
+      onMouseDown={onMouseDown}
+      aria-label={label}
+      title={label}
+      style={{
+        position: 'absolute',
+        top: 0, right: 0, bottom: 0,
+        width: 6,
+        cursor: 'col-resize',
+        userSelect: 'none',
+      }}
+      className="col-resize-handle"
+    />
+  );
+}
+
 function AppBody() {
   // Macro topics render in ingest order (no sort).
   const macroTopics = MACRO_TOPICS;
@@ -807,37 +863,15 @@ function AppBody() {
   // (otherwise everything would glow).
   const hasPrevDay = PREV_SCREENER_TKS.size > 0;
 
-  // User-draggable width for the Name column, persisted to localStorage so
-  // it survives reloads and syncs across open tabs of the same browser.
-  // Different screens / font-scale settings mean no single default fits
-  // everyone; letting the user drag it once and forget it is simplest.
-  const [nameW, setNameW] = useState(() => {
-    try {
-      const v = parseInt(window.localStorage.getItem('screener_name_w'), 10);
-      return Number.isFinite(v) && v >= 60 ? v : 160;
-    } catch { return 160; }
-  });
-  useEffect(() => {
-    try { window.localStorage.setItem('screener_name_w', String(nameW)); } catch {}
-  }, [nameW]);
-  const startNameDrag = (e) => {
-    const startX = e.clientX;
-    const startW = nameW;
-    const onMove = (ev) => setNameW(Math.max(60, startW + ev.clientX - startX));
-    const onUp = () => {
-      document.removeEventListener('mousemove', onMove);
-      document.removeEventListener('mouseup', onUp);
-      document.body.style.cursor = '';
-      document.body.style.userSelect = '';
-    };
-    document.addEventListener('mousemove', onMove);
-    document.addEventListener('mouseup', onUp);
-    // Lock cursor + kill text selection while dragging so the UX feels like
-    // a spreadsheet column drag, not a misbehaving text highlight.
-    document.body.style.cursor = 'col-resize';
-    document.body.style.userSelect = 'none';
-    e.preventDefault();
-  };
+  // User-draggable widths for the four "long-content" screener columns,
+  // persisted to localStorage. Different screens / font-scale settings
+  // mean no single default fits everyone — letting the user drag once and
+  // forget it is simpler than trying to auto-tune. Numeric columns stay
+  // auto-sized since their content length is predictable.
+  const [industryW, startIndustryDrag] = useResizableCol('screener_industry_w', 140);
+  const [nameW,     startNameDrag]     = useResizableCol('screener_name_w',     160);
+  const [reasonW,   startReasonDrag]   = useResizableCol('screener_reason_w',   280);
+  const [bizW,      startBizDrag]      = useResizableCol('screener_biz_w',      300);
 
   return (
     <>
@@ -942,39 +976,32 @@ function AppBody() {
           <table className="screener-tbl">
             <thead>
               <tr>
-                {/* Narrow/numeric columns use `width` (hard cap so they don't
-                    eat space); flex columns (Name/Reason/MainBiz) use only
-                    `minWidth` so they expand proportionally on wide screens. */}
-                <th style={{ minWidth: 120 }}>行业分类</th>
+                {/* All four "long-content" columns are user-resizable via
+                    the DragHandle on the right edge; numeric columns stay
+                    fixed-width since their content length is predictable. */}
+                <th style={{ width: industryW, position: 'relative', paddingRight: 10 }}>
+                  行业分类
+                  <DragHandle onMouseDown={startIndustryDrag} label="拖动调整 行业分类 列宽" />
+                </th>
                 <th style={{ width: 60 }}>Ticker</th>
                 <th style={{ width: nameW, position: 'relative', paddingRight: 10 }}>
                   Name
-                  {/* Drag handle — thin invisible strip on the right edge.
-                      Hover shows a vertical line hint; col-resize cursor
-                      signals draggability. Only the Name column carries
-                      this for now; others stay auto-sized. */}
-                  <span
-                    onMouseDown={startNameDrag}
-                    aria-label="拖动调整 Name 列宽"
-                    title="拖动调整 Name 列宽"
-                    style={{
-                      position: 'absolute',
-                      top: 0, right: 0, bottom: 0,
-                      width: 6,
-                      cursor: 'col-resize',
-                      userSelect: 'none',
-                    }}
-                    className="col-resize-handle"
-                  />
+                  <DragHandle onMouseDown={startNameDrag} label="拖动调整 Name 列宽" />
                 </th>
                 <th style={{ width: 60, textAlign: 'center' }}>Day<br/>Remaining</th>
                 <th style={{ width: 70, textAlign: 'right' }}>Change_%</th>
                 <th style={{ width: 70, textAlign: 'right' }}>1w<br/>Change_%</th>
                 <th style={{ width: 80, textAlign: 'right' }}>Market_Cap<br/>($ Bn)</th>
-                <th style={{ width: 75, textAlign: 'right' }}>$Volume<br/>($ Bn)</th>
-                <th style={{ width: 75, textAlign: 'right' }}>1w avg<br/>$Volume<br/>($ Bn)</th>
-                <th style={{ minWidth: 240 }}>Reason</th>
-                <th style={{ minWidth: 260 }}>Main Business</th>
+                <th style={{ width: 80, textAlign: 'right' }}>$Volume<br/>($ Mn)</th>
+                <th style={{ width: 80, textAlign: 'right' }}>1w avg<br/>$Volume<br/>($ Mn)</th>
+                <th style={{ width: reasonW, position: 'relative', paddingRight: 10 }}>
+                  Reason
+                  <DragHandle onMouseDown={startReasonDrag} label="拖动调整 Reason 列宽" />
+                </th>
+                <th style={{ width: bizW, position: 'relative', paddingRight: 10 }}>
+                  Main Business
+                  <DragHandle onMouseDown={startBizDrag} label="拖动调整 Main Business 列宽" />
+                </th>
               </tr>
             </thead>
             <tbody>
@@ -1028,10 +1055,14 @@ function AppBody() {
                       {s.market_cap_bn != null ? s.market_cap_bn.toFixed(1) : '—'}
                     </td>
                     <td style={{ textAlign: 'right', fontVariantNumeric: 'tabular-nums' }}>
-                      {s.dollar_vol_bn != null ? s.dollar_vol_bn.toFixed(2) : '—'}
+                      {s.dollar_vol_bn != null
+                        ? Math.round(s.dollar_vol_bn * 1000).toLocaleString('en-US')
+                        : '—'}
                     </td>
                     <td style={{ textAlign: 'right', fontVariantNumeric: 'tabular-nums', color: 'var(--text-dim)' }}>
-                      {s.w1_avg_dollar_vol_bn != null ? s.w1_avg_dollar_vol_bn.toFixed(2) : '—'}
+                      {s.w1_avg_dollar_vol_bn != null
+                        ? Math.round(s.w1_avg_dollar_vol_bn * 1000).toLocaleString('en-US')
+                        : '—'}
                     </td>
                     <td style={{ padding: 2 }}>
                       <ReasonCell tk={s.tk} initial={reason} />
