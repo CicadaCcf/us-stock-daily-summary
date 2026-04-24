@@ -1,0 +1,335 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis-2025-04-22",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "特朗普下令击沉布雷船只 伊美谈判或现突破",
+      "summary": "特朗普升级霍尔木兹海峡军事回应，命令海军击沉任何布雷船只并加强三倍扫雷力度，同时否认因中期选举急于结束战争。伊朗消息人士暗示伊美谈判准备或今晚/明日取得突破，外长专机已抵土耳其，但伊朗外交部公开称暂无谈判计划。白宫封锁伊朗港口措施持续，市场关注海峡通行与清雷时长（WSJ称或需6个月）。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "下令海军击沉霍尔木兹海峡任何布雷船只 扫雷力度加三倍",
+          "details": "Trump已下令美国海军击沉任何在霍尔木兹海峡布雷的船只，无论大小（称伊朗海军舰艇全部159艘都已沉入海底）；务必毫不犹豫。此外，美国扫雷舰目前正在清理海峡，命令继续进行这项行动，但力度要加强三倍。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "称结束战争没有时间框架 否认中期选举压力",
+          "details": "Trump称伊朗冲突或停火'没有时间框架'和'没有时间压力'，人们说我想结束这场战争是因为中期选举，这不是真的。"
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "伊朗取消处决八名女性抗议者 四人即刻释放",
+          "details": "Trump称原定今晚在伊朗被处决的八名女性抗议者将不再被处决。其中四人将被立即释放，另外四人将被判处一个月监禁。非常感谢伊朗及其领导人尊重我作为美国总统的要求，并终止了原定的处决计划。"
+        },
+        {
+          "actor": "伊朗消息人士",
+          "actor_type": "Foreign-Gov",
+          "text": "伊美谈判准备或今晚/明日取得突破",
+          "details": "伊朗消息人士称伊美谈判准备工作或将于今晚或明日取得突破；伊朗外长专机已落地土耳其。"
+        },
+        {
+          "actor": "伊朗外交部",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗外交部：目前没有谈判计划",
+          "details": "伊朗外交部公开表态：'我们目前没有谈判计划'。"
+        },
+        {
+          "actor": "Leavitt",
+          "actor_type": "US-Executive",
+          "text": "封锁伊朗港口仍有效 哈尔格岛已满油",
+          "details": "Leavitt称封锁措施依然有效，进出伊朗港口的船只已实施封锁，哈尔格岛已完全满油，扣押伊朗船只一事并非违反停火协议的行为。"
+        },
+        {
+          "actor": "Leavitt",
+          "actor_type": "US-Executive",
+          "text": "停火期延长给特朗普灵活性 3-5天时间表不实",
+          "details": "Leavitt称由于停火协议的延长，Trump拥有了灵活性，为期3-5d的停火时间表并不属实。"
+        },
+        {
+          "actor": "Leavitt",
+          "actor_type": "US-Executive",
+          "text": "伊朗领导层分歧明显 仍需交出浓缩铀",
+          "details": "Leavitt称伊朗领导层内部存在诸多分歧，伊朗人无法发出一个统一的信息，重申伊朗在公开场合与私下交流时的表述存在差异，我们正等待伊朗的回应，重申伊朗必须交出浓缩铀。"
+        },
+        {
+          "actor": "Leavitt",
+          "actor_type": "US-Executive",
+          "text": "淡化伊朗扣船：非美以军舰 伊朗已无法控海峡",
+          "details": "Leavitt淡化伊朗在霍尔木兹海峡扣押两艘船只一事：'这些不是美国军舰，也不是以色列军舰……（美国）已经彻底摧毁了伊朗的常规海军，这两艘军舰是被伊朗炮艇俘获的。他们无法控制海峡'。"
+        },
+        {
+          "actor": "Ghalibaf / Pezeshkian",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗议长与总统：欢迎对话 但封锁威胁是障碍",
+          "details": "Ghalibaf与Masoud Pezeshkian均称伊朗伊斯兰共和国欢迎对话与协议，并将继续如此。违背承诺、封锁和威胁是真正谈判的主要障碍。世界看穿了你们无休止的虚伪言辞和言行不一的矛盾之处。"
+        },
+        {
+          "actor": "英国/POLITICO",
+          "actor_type": "新闻",
+          "text": "英国将派扫雷船参与霍尔木兹多国联合行动",
+          "details": "据POLITICO报道，英国将提供扫雷船，参与霍尔木兹海峡的多国联合行动。"
+        },
+        {
+          "actor": "伊朗",
+          "actor_type": "Foreign-Gov",
+          "text": "德黑兰爆炸为军演 油价冲高回落",
+          "details": "报道称德黑兰发生爆炸事件，市场猜测袭击已重新开始，油价一度大幅飙升。不过，在伊朗方面表示这些情况源于计划中的军事演习后，涨幅有所回落。"
+        },
+        {
+          "actor": "海峡通行数据",
+          "actor_type": "新闻",
+          "text": "4/21-22海峡日通行仅8艘 1艘Tanker绕行",
+          "details": "海峡日度通行：4/21 17:30 - 4/22 17:30 共8艘，其中2艘出湾Tanker未绕行，1艘进湾Tanker绕行。"
+        },
+        {
+          "actor": "WaPo / WSJ",
+          "actor_type": "新闻",
+          "text": "伊朗或已布雷20+枚 清雷或需6个月",
+          "details": "TWP报道伊朗可能在霍尔木兹及其周边地区布设了20枚或更多地雷；WSJ报道清除霍尔木兹海峡的水雷可能需要6mo时间。"
+        },
+        {
+          "actor": "NYP",
+          "actor_type": "新闻",
+          "text": "特朗普称最早周五与伊朗举行会谈",
+          "details": "NYP报道特朗普称最早可能于周五与伊朗举行会谈。"
+        },
+        {
+          "actor": "AXIOS",
+          "actor_type": "新闻",
+          "text": "特朗普欲抽身 战争日益不得人心",
+          "details": "AXIOS报道多名美国官员和特朗普身边人士得出了相同的结论：总统认为美国在军事层面已做到了一切力所能及之事，并希望从这场日益不得人心的战争中抽身。除非他已穷尽所有其他选择，否则他不会重新介入这场战争。"
+        },
+        {
+          "actor": "DoD",
+          "actor_type": "US-Executive",
+          "text": "海军部长John Phalen立即辞职",
+          "details": "海军部长John C. Phalen已立即辞职。"
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "WaPo",
+        "NYP",
+        "AXIOS",
+        "POLITICO"
+      ],
+      "date": "2026-04-23",
+      "image_urls": []
+    },
+    {
+      "id": "fed-oversight-powell-warsh-2025-04-22",
+      "topic": "美联储监督与主席提名",
+      "topic_tag": "fed",
+      "title": "国会酝酿加强美联储监督 Hassett支持Powell临时留任",
+      "summary": "Thune称预计参议院委员会将加强对美联储监督，部分共和党议员考虑通过国会调查为凯文·沃什（Warsh）提名僵局寻'下台阶'。Hassett支持Powell任期届满而继任者未获确认前暂留主席职位，并拒绝透露申请外汇掉期额度的国家名单。",
+      "bullets": [
+        {
+          "actor": "Thune",
+          "actor_type": "US-Congress",
+          "text": "预计参议院将加强Fed监督 为Warsh僵局找下台阶",
+          "details": "Thune称预计参议院委员会将加强对美联储的监督；部分共和党议员正考虑通过国会调查来为当前阻碍美联储主席提名人凯文·沃什确认的僵局寻找'下台阶'。",
+          "important": true
+        },
+        {
+          "actor": "Hassett",
+          "actor_type": "US-Executive",
+          "text": "支持Powell任期届满后暂时留任Fed主席",
+          "details": "Hassett表示若Powell任期下月届满而继任者仍未获参议院确认，他支持Powell暂时留任Fed主席的计划。"
+        },
+        {
+          "actor": "Hassett",
+          "actor_type": "US-Executive",
+          "text": "拒绝透露申请外汇掉期额度的国家名单",
+          "details": "Hassett拒绝透露申请外汇掉期额度的国家名单。"
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-04-23",
+      "image_urls": []
+    },
+    {
+      "id": "senate-budget-ice-va-redistrict-2025-04-22",
+      "topic": "国会财政与选区",
+      "topic_tag": "policy",
+      "title": "参议院50-48通过预算草案 弗州重划或添民主党4席",
+      "summary": "参议院以50-48通过预算草案，为ICE、边境巡逻队等在总统剩余任期内提供资金，其中移民执法支出增加70B，压制了民主党降低成本的提案。弗吉尼亚州民主党以微弱优势赢得重新划分选区的胜利，可能在众议院为民主党增加多达4个席位。",
+      "bullets": [
+        {
+          "actor": "参议院",
+          "actor_type": "US-Congress",
+          "text": "参议院50-48通过预算 ICE/边境在特朗普任期内获资金",
+          "details": "参议院以50-48投票结果通过了一项预算草案，该草案旨在为ICE、边境巡逻队以及其他机构在总统剩余任期内提供资金。",
+          "important": true
+        },
+        {
+          "actor": "弗吉尼亚民主党",
+          "actor_type": "US-Congress",
+          "text": "弗州选区重划险胜 众议院或增4席",
+          "details": "弗吉尼亚州民主党以微弱优势赢得重新划分选区的胜利，为民主党在众议院增加多达四个席位，其中移民执法支出增加70B，成功压制了民主党旨在降低成本的提案。"
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-04-23",
+      "image_urls": []
+    },
+    {
+      "id": "ai-financing-openai-deepseek-2025-04-22",
+      "topic": "AI 融资与投入",
+      "topic_tag": "ai",
+      "title": "软银拟质押OpenAI股份贷款10B 腾讯阿里洽谈投资DeepSeek",
+      "summary": "软银财团被曝将抵押OpenAI股份贷款10B继续押注AI投资。The Information称腾讯、阿里正在洽谈投资DeepSeek，估值超过20B。Hedgie观察到AI初创公司'代币最大化'趋势——计算支出超员工薪资，OpenAI和Anthropic每售出一代币均亏损。",
+      "bullets": [
+        {
+          "actor": "软银财团",
+          "actor_type": "Corporate",
+          "text": "软银拟抵押OpenAI股份贷款10B继续押注AI",
+          "details": "软银财团被曝，将抵押ChatGPT母公司OpenAI的股份，从而贷款出10B，继续押注AI投资。",
+          "important": true
+        },
+        {
+          "actor": "腾讯/阿里/DeepSeek",
+          "actor_type": "Corporate",
+          "text": "腾讯阿里洽谈投资DeepSeek 估值超20B",
+          "details": "The Information援引四位知情人士透露，中国科技巨头腾讯、阿里正在洽谈投资DeepSeek，估值超过20B。"
+        },
+        {
+          "actor": "Hedgie",
+          "actor_type": "KOL",
+          "text": "AI初创'代币最大化' OpenAI/Anthropic每售一代币亏损",
+          "details": "Hedgie：一批新型AI初创公司正在炫耀他们在AI计算上的支出超过了员工薪资，这种趋势被称为'代币最大化'（tokenmaxxing），OpenAI和Anthropic每售出一个代币都在亏损，因为计算成本超过了收入。初创公司将这些补贴代币视为人力资本的替代品。而为这些初创公司提供资金的投资者，往往也是为那些出售补贴代币的前沿人工智能公司提供资金的投资者。所有人都将这些支出视为增长的证据，而其背后的经济问题却依然悬而未决。"
+        }
+      ],
+      "tickers": [
+        "BABA"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "The Information"
+      ],
+      "date": "2026-04-23",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-views-2025-04-22",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "高盛SPX年底看7600 美银看空原油建议对冲长端",
+      "summary": "高盛策略将SPX年底目标设在7600（~7%上行），隐含2026 EPS +12%、2027 +10%、21x PE；建议超配世俗成长而非周期股。高盛美国日报预计2026-28年美国潜在GDP增速~2.3%，生产率约2%，劳动力贡献降至0.3%。高盛全球80图显示美国库存周期触底回升。美银认为Warsh偏好的trimmed mean/中位数CPI当前2.3%/2.8%低于核心PCE 3.0%；Q1 GDP追踪上调至2.0%。美银宏观建议对冲布油90-95，5月美元或反弹，预计Fed于2026年9月和10月各降息25bp。",
+      "bullets": [
+        {
+          "actor": "高盛策略",
+          "actor_type": "Analyst",
+          "text": "SPX年底目标7600 隐含~7%上行空间",
+          "details": "高盛策略：在企业盈利持续增长的支撑下，美国股市将在未来数月继续刷新历史新高。具体而言，SPX年底目标位被设定在7600点，相对当前水平存在约7%的上行空间。该目标隐含2026年EPS增长12%、2027年增长10%，以及与当前接近的21倍PE估值水平。",
+          "important": true
+        },
+        {
+          "actor": "高盛策略",
+          "actor_type": "Analyst",
+          "text": "建议超配世俗成长 而非周期股",
+          "details": "高盛策略：当前市场定价已基本反映高盛经济学家对未来几个季度GDP稳健但低于趋势增长的预测。基于此，组合策略层面建议投资者把仓位向具有特异性盈利顺风、且AI颠覆风险有限的世俗成长公司倾斜（如电力基础设施投资相关公司），而非押注广义经济增长的周期股。近期成长股估值溢价的压缩进一步增强了对世俗成长板块的配置吸引力。"
+        },
+        {
+          "actor": "高盛美国日报",
+          "actor_type": "Analyst",
+          "text": "2026-28年美国潜在增速~2.3% 劳动力贡献降至0.3%",
+          "details": "高盛US Daily：展望未来，预计2026年至2028年美国潜在经济增长率平均约为2.3%，略高于CBO同期预测值和FOMC的长期增长预期。预计整体经济生产率将继续以每年约2%的速度增长，人工智能将带来显著推动；由于移民减少和人口老龄化，预计劳动力增长对经济增长的贡献平均约为0.3%，低于2010年代0.7%的平均水平。2025年潜在GDP增速2.3%。"
+        },
+        {
+          "actor": "高盛全球研究",
+          "actor_type": "Analyst",
+          "text": "美国库存周期触底 全球集运同比+5%",
+          "details": "高盛《Around the World in 80 Charts》：美国库存周期正出现积极拐点：库存水平在2025年12月触底，ISM新订单/库存比已明显转向，洛杉矶港进口预计在4月恢复增长，进口商预测进口量将回升。后疫情时代中国主导全球贸易增长的趋势延续至2026年Q1，全球集装箱贸易同比增长5%，中国出口保持两位数增长。航空货运费率继续高双位数同比上涨。集装箱航运运价随燃油附加费上涨而上升。航空公司因燃油成本上升开始削减欧洲和跨大西洋运力，长途航线定价能力明显强于短途。"
+        },
+        {
+          "actor": "美银Fed组",
+          "actor_type": "Analyst",
+          "text": "Warsh偏好指标低于核心PCE Q1 GDP追踪上调至2.0%",
+          "details": "BofA Fed：Warsh偏好修剪均值及中位数通胀指标，当前分别为2.3%和2.8%，均低于核心PCE的3.0%。此举或使能源冲击对政策影响更大，并引发'选择性取舍'风险。宏观方面，因3月工业生产上修，美银将一季度GDP追踪预测上调至2.0%。"
+        },
+        {
+          "actor": "美银宏观",
+          "actor_type": "Analyst",
+          "text": "布油看90-95 预计Fed 2026年9/10月各降25bp",
+          "details": "BofA Macro：发布宏观风险摘要，指出原油远期定价过于完美，建议对冲长期敞口，预计布伦特原油均价将达90-95美元/桶。虽中期看空美元，但受季节性因素影响，5月美元可能反弹，提供更好对冲时机。预计Fed将于2026年9月和10月各降息25bp，建议在美国中期将固定利率负债转为浮动利率。"
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "Goldman Sachs",
+        "BofA"
+      ],
+      "date": "2026-04-23",
+      "image_urls": [
+        "/uploads/2026-04-23/7e84c471007d.png",
+        "/uploads/2026-04-23/86ab4f07c57a.png"
+      ]
+    },
+    {
+      "id": "kol-views-2025-04-22",
+      "topic": "KOL 观点",
+      "topic_tag": "macro-other",
+      "title": "Kao估海峡重开需65-70天再平衡 Short Bear警示大众保时捷式交易",
+      "summary": "Michael Kao称霍尔木兹基本仍关闭，伊朗原油从2M骤降至400K b/d，累计损失460m桶，即使立即重开也需65-70天才能再平衡。@AlaliQasem称当前石油危机比现代史上任何危机都严重。Short Bear警示可能重现大众-保时捷式交易并点评Warsh油价引发加息逻辑。EconomistPB讽刺trimmed mean指标脱离现实。",
+      "bullets": [
+        {
+          "actor": "Michael Kao",
+          "actor_type": "KOL",
+          "text": "伊朗原油日产从2M降至400K 海峡重开需65-70天再平衡",
+          "details": "Michael Kao：霍尔木兹海峡基本上仍然关闭，伊朗原油输送量已从每日2M b/d骤降至400K b/d，自两伊战争爆发以来，累计原油损失已达460m，库存下降速度加快，但由于战略石油储备释放和全球炼油厂强制停产导致的需求萎缩，这一趋势被掩盖，欧洲、印度、东南亚和非洲最容易受到炼油混乱的影响；中国仍然拥有充足的石油和成品油储备，即使霍尔木兹海峡立即重新开放，也至少需要65-70d才能恢复平衡；如果冲突持续下去，后果将不堪设想。",
+          "important": true
+        },
+        {
+          "actor": "@AlaliQasem",
+          "actor_type": "KOL",
+          "text": "石油危机比现代史上任何危机都更严重",
+          "details": "@AlaliQasem：石油危机比现代史上任何危机都更加严重。没有人恐慌。这就是问题所在。"
+        },
+        {
+          "actor": "Short Bear",
+          "actor_type": "KOL",
+          "text": "警惕大众-保时捷式交易 预计4号表披露大额抛售",
+          "details": "Short Bear：要警惕万一我们再次看到大众与保时捷的合作方案，无论是Pentwater宣布推出13D，还是仅仅通过Swap转换；最终很可能发生的情况是，两大TRS持有者之一或内部人士今天抛售了约750k-1.2M股票，我预计稍后会通过4号表格披露此事。"
+        },
+        {
+          "actor": "Short Bear",
+          "actor_type": "KOL",
+          "text": "认同Warsh 油价驱动加息是错误做法",
+          "details": "Short Bear：Warsh是对的，由于石油供应问题导致利率上升，这从来都不是一个正确的做法，因为它本身就对消费者支出产生了负面影响……再加上AI等通缩性结构性变革和疲软的就业市场，灾难就不可避免了。话虽如此，但这并非过度运行的理由。"
+        },
+        {
+          "actor": "EconomistPB",
+          "actor_type": "KOL",
+          "text": "讽刺截尾均值是货币政策的'独角兽估值法'",
+          "details": "EcontratPB：截尾均值相当于货币政策领域的独角兽估值法，适用于私募股权领域。留下你喜欢的，把其他的都扔掉。它脱离了现实。"
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-04-23",
+      "image_urls": []
+    }
+  ]
+}
