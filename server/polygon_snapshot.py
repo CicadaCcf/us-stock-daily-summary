@@ -89,21 +89,25 @@ PERIODS = {
 #   price       — show the price directly (e.g. S&P 500 7064)
 #   percent     — close is a yield × 10, show as X.XX% (e.g. TNX)
 INDICES_YAHOO = [
-    # Row 1 — US macro (order matters: frontend splits at index 6)
-    ('^GSPC',     'S&P 500',      'price'),
-    ('^NDX',      'Nasdaq 100',   'price'),
-    ('^DJI',      'Dow Jones',    'price'),
-    ('^RUT',      'Russell 2000', 'price'),
-    ('^VIX',      'VIX',          'price'),
-    ('^TNX',      '10Y Treasury', 'yield10'),  # TNX is yield × 10 (42.8 = 4.28%)
-    # Row 2 — global + commodities
-    ('DX-Y.NYB',  '美元指数 DXY', 'price'),
-    ('^N225',     '日经 225',     'price'),
-    ('^KS11',     '韩国 KOSPI',   'price'),
-    ('000300.SS', '沪深 300',     'price'),
-    ('^GDAXI',    '德国 DAX',     'price'),
-    ('GC=F',      '黄金 Gold',    'price'),
-    ('CL=F',      'WTI 原油',     'price'),
+    # Row 1 — US macro + commodities. Frontend picks by symbol (not slice
+    # position) so adding or reordering is safe without a client change.
+    ('^GSPC',     'S&P 500',       'price'),
+    ('^NDX',      'Nasdaq 100',    'price'),
+    ('^DJI',      'Dow Jones',     'price'),
+    ('^RUT',      'Russell 2000',  'price'),
+    ('^VIX',      'VIX',           'price'),
+    ('^TNX',      '10Y Treasury',  'yield10'),  # TNX is yield × 10 (42.8 = 4.28%)
+    ('DX-Y.NYB',  '美元指数 DXY',  'price'),
+    ('GC=F',      '黄金 Gold',     'price'),
+    ('CL=F',      'WTI 原油',      'price'),
+    ('HG=F',      '铜期货 Copper', 'price'),
+    # Row 2 — global. Order per user request: 韩国, 日经, 沪深300, 新加坡, 德国, 澳洲.
+    ('^KS11',     '韩国 KOSPI',    'price'),
+    ('^N225',     '日经 225',      'price'),
+    ('000300.SS', '沪深 300',      'price'),
+    ('^STI',      '新加坡 STI',    'price'),
+    ('^GDAXI',    '德国 DAX',      'price'),
+    ('^AXJO',     '澳洲 ASX 200',  'price'),
 ]
 SECTORS = [
     ('XLK',  '信息技术 Technology'),

@@ -90,7 +90,7 @@ function marketIndicesToDisplay(rows) {
       pct == null
         ? 'N/A'
         : (pct >= 0 ? '+' : '') + pct.toFixed(2) + '%';
-    return { label: r.name, value, change, dir: (pct ?? 0) >= 0 ? 'up' : 'down' };
+    return { symbol: r.symbol, label: r.name, value, change, dir: (pct ?? 0) >= 0 ? 'up' : 'down' };
   });
 }
 

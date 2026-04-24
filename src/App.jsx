@@ -826,8 +826,18 @@ function AppBody() {
           )}
         </div>
         <div className="section-title" style={{ marginTop: 14 }}>市场总览 Market Overview</div>
-        {/* Row 1 = US (first 6 from INDICES_YAHOO), Row 2 = global + commodities */}
-        {[INDICES.slice(0, 6), INDICES.slice(6)].map((row, rowIdx) => (
+        {/* Row 1 = US macro + commodities (DXY, Gold, WTI, Copper).
+            Row 2 = global indices (韩国, 日经, 沪深300, 新加坡, 德国, 澳洲).
+            Picking by symbol (not slice) so server-side reorders don't
+            break the layout, and missing tickers just drop out silently. */}
+        {(() => {
+          const bySymbol = Object.fromEntries(INDICES.map(ix => [ix.symbol, ix]));
+          const ROW1 = ['GSPC','NDX','DJI','RUT','VIX','TNX','DX-Y.NYB','GC=F','CL=F','HG=F'];
+          const ROW2 = ['KS11','N225','000300.SS','STI','GDAXI','AXJO'];
+          const row1 = ROW1.map(s => bySymbol[s]).filter(Boolean);
+          const row2 = ROW2.map(s => bySymbol[s]).filter(Boolean);
+          return [row1, row2];
+        })().map((row, rowIdx) => (
           <div className="idx-cards" key={rowIdx} style={rowIdx === 1 ? { marginTop: 6 } : undefined}>
             {row.map(ix => (
               <div className="idx-card" key={ix.label}>
