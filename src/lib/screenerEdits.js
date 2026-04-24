@@ -28,15 +28,23 @@ function getEditor() {
   } catch { return 'anon'; }
 }
 
-// Fetch all edits for a given trading day.
+// Fetch edits for a given trading day, with carry-forward from earlier days.
 // Returns { [tk]: { industry?: string, reason?: string } } — empty map
 // if Supabase isn't configured or the fetch fails.
+//
+// Why carry-forward: edits are stored per (date, tk) but a ticker that
+// appears in Top Movers multiple days in a row should keep its industry /
+// reason tag without the user re-typing it each day. We pull every row
+// with date <= target, sort ascending, and let later non-null values
+// overwrite earlier ones — so today's explicit edit always wins, but
+// unedited fields fall back to the most recent prior annotation.
 export async function fetchEditsForDate(date) {
   if (!isSupabaseEnabled || !date) return {};
   const { data, error } = await supabase
     .from(TABLE)
-    .select('tk, industry, reason')
-    .eq('date', date);
+    .select('date, tk, industry, reason')
+    .lte('date', date)
+    .order('date', { ascending: true });
   if (error) {
     // eslint-disable-next-line no-console
     console.warn('[screenerEdits] fetch failed:', error.message);
@@ -44,9 +52,10 @@ export async function fetchEditsForDate(date) {
   }
   const map = {};
   for (const row of data || []) {
+    const cur = map[row.tk] || {};
     map[row.tk] = {
-      industry: row.industry ?? undefined,
-      reason:   row.reason   ?? undefined,
+      industry: row.industry != null ? row.industry : cur.industry,
+      reason:   row.reason   != null ? row.reason   : cur.reason,
     };
   }
   return map;

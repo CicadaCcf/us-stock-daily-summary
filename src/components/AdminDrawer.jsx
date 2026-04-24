@@ -435,9 +435,25 @@ function PublishTab({ currentDate, availableDates }) {
       const url = action === 'update' && targetDate
         ? `/api/update?date=${encodeURIComponent(targetDate)}`
         : `/api/${action}`;
+      // Publish also carries the user's localStorage Day Remaining edits so
+      // the server can fold them into screener.json (and drop any row whose
+      // final days_remaining is 0) before git commit.
+      let body;
+      let headers;
+      if (action === 'publish') {
+        let overrides = {};
+        try {
+          const raw = window.localStorage.getItem(`days_remaining_${currentDate}`);
+          if (raw) overrides = JSON.parse(raw) || {};
+        } catch {}
+        body = JSON.stringify({ days_remaining_overrides: overrides });
+        headers = { 'Content-Type': 'application/json' };
+      }
       const resp = await fetch(url, {
         method: 'POST',
         signal: ctrl.signal,
+        body,
+        headers,
       });
       if (!resp.ok || !resp.body) throw new Error(`HTTP ${resp.status}`);
       const reader = resp.body.getReader();
@@ -464,6 +480,13 @@ function PublishTab({ currentDate, availableDates }) {
           commit: parts.commit,
           error: parts.error,
         });
+        // Publish succeeded: baseline screener.json now reflects the user's
+        // Day Remaining edits, so the localStorage overrides are stale. Clear
+        // them so the inputs fall back to the JSON values (and tomorrow's
+        // pipeline carry-forward sees the right numbers).
+        if (action === 'publish' && parts.ok === 'true') {
+          try { window.localStorage.removeItem(`days_remaining_${currentDate}`); } catch {}
+        }
       } else {
         setStatus({ ok: false, error: 'no __STATUS__ line from server' });
       }

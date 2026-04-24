@@ -21,6 +21,7 @@ import {
   SPX_CLOSES_1Y,
   TRADING_DATES_1Y,
   MOVERS_NEWS,
+  PREV_SCREENER_TKS,
 } from './data/index.js';
 import {
   LineChart, Line, XAxis, YAxis, Tooltip, Legend, ReferenceLine,
@@ -800,6 +801,12 @@ function AppBody() {
     });
   };
 
+  // Tickers that weren't in yesterday's screener — highlighted below with a
+  // slightly brighter row background so today's new movers stand out from
+  // the carryovers. Skip highlighting entirely if there's no prior-day data
+  // (otherwise everything would glow).
+  const hasPrevDay = PREV_SCREENER_TKS.size > 0;
+
   return (
     <>
       {/* ========== SECTION 1: MARKET OVERVIEW (indices + breadth merged) ========== */}
@@ -921,8 +928,12 @@ function AppBody() {
                 const ov = screenerEdits[s.tk] || {};
                 const industry = ov.industry ?? s.industry;
                 const reason   = ov.reason   ?? s.reason;
+                const isNewToday = hasPrevDay && !PREV_SCREENER_TKS.has(s.tk);
                 return (
-                  <tr key={s.tk}>
+                  <tr
+                    key={s.tk}
+                    style={isNewToday ? { background: 'rgba(255,255,255,0.10)' } : undefined}
+                  >
                     <td style={{ padding: 2 }}>
                       <EditableCell tk={s.tk} field="industry" initial={industry} placeholder="填写…" />
                     </td>
@@ -933,6 +944,7 @@ function AppBody() {
                         type="text"
                         value={daysOverrides[s.tk] ?? String(s.days_remaining ?? '')}
                         onChange={(e) => setDaysFor(s.tk, e.target.value)}
+                        onFocus={(e) => e.target.select()}
                         style={{
                           width: 40,
                           textAlign: 'center',

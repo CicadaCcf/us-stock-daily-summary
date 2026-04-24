@@ -149,6 +149,17 @@ export const RECAP_SECTIONS = toArray(snapshot.recap?.sections);
 export const SCREENER = toArray(screener.rows);
 export const SCREENER_MAX_ABS = typeof screener.maxAbs === 'number' ? screener.maxAbs : 500;
 
+// Tickers that appeared on the previous trading day. Used by the Top Movers
+// table to draw a visual boundary between "new today" rows and rows carried
+// forward from yesterday — the pipeline already sorts the former first, so
+// we just need to detect where the first carryover starts.
+const _prevDate = (() => {
+  const i = DATES_ASC.indexOf(LATEST_DATE);
+  return i > 0 ? DATES_ASC[i - 1] : null;
+})();
+const _prevScreener = pickFor(screenerMap, _prevDate, 'screener.json');
+export const PREV_SCREENER_TKS = new Set(toArray(_prevScreener.rows).map(r => r.tk));
+
 // Breadth — provide safe defaults for every field so the JSX never errors.
 export const BREADTH = {
   advancers: 0,

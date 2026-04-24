@@ -618,11 +618,14 @@ async function handlePublish(req, res) {
     // 1. Show what's changing so the user sees it in the log.
     await gitSpawn(['status', '--short'], write);
 
-    // 2. Stage just the files the update flow touches — never blanket `git add .`
-    //    which could pick up unrelated local edits (.env.local won't get added
-    //    because of the gitignore, but be explicit anyway). public/uploads/{date}/
-    //    holds attachments referenced by macro.json's image_urls; without it,
-    //    the prod site renders broken <img>s.
+    // 2. Stage both data files AND any modified code. `-u` only touches
+    //    already-tracked files so it won't sweep in .env.local or a random
+    //    scratch file. Explicit paths then cover NEW files the daily flow
+    //    creates (src/data/{date}/ + public/uploads/{date}/ + the bubble).
+    //    Rationale: Publish is "one-click ship to Vercel", so both today's
+    //    data and whatever code edits the user made in this session need to
+    //    travel together.
+    await gitSpawn(['add', '-u'], write);
     const addTargets = [`src/data/${date}`, 'public/finviz_bubble.png'];
     const uploadsDir = path.join(REPO_ROOT, 'public', 'uploads', date);
     if (fs.existsSync(uploadsDir)) {
@@ -645,6 +648,22 @@ async function handlePublish(req, res) {
     await gitSpawn(['commit', '-m', `daily: ${date}`], write);
     const sha = await gitSpawn(['rev-parse', '--short', 'HEAD'], write);
     await gitSpawn(['push'], write);
+
+    // Vercel's Production deploy follows `main`, but day-to-day work happens
+    // on a feature branch. Fast-forward main to the current HEAD so Publish
+    // actually lands on the live site. If main has diverged (someone else
+    // pushed directly to it), this fails with a clear non-fast-forward error
+    // and leaves the feature-branch push intact — user can reconcile by hand.
+    const currentBranch = await gitSpawn(['rev-parse', '--abbrev-ref', 'HEAD'], write);
+    if (currentBranch !== 'main') {
+      try {
+        await gitSpawn(['push', 'origin', 'HEAD:main'], write);
+        write(`[info] fast-forwarded origin/main → ${sha}\n`);
+      } catch (e) {
+        write(`[warn] could not update origin/main: ${e.message}\n`);
+        write(`[warn] feature branch pushed, but Vercel (which tracks main) won't see this change until main is updated manually\n`);
+      }
+    }
 
     write(`\n__STATUS__ ok=true date=${date} commit=${sha}\n`);
   } catch (e) {
