@@ -325,7 +325,7 @@ function SectorPerformance() {
       </div>
       <div className="sector-trend-wrap">
         <div className="sector-trend-chart">
-          <ResponsiveContainer width="100%" height={320}>
+          <ResponsiveContainer width="100%" height="100%">
             <LineChart data={chartData.data} margin={{ top: 8, right: 12, left: 0, bottom: 0 }}>
               <CartesianGrid stroke="#253655" strokeDasharray="3 3" vertical={false} />
               <XAxis

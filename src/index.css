@@ -5,13 +5,19 @@
   --text: #e0e0e0; --text-dim: #8899aa; --text-bright: #ffffff;
   --border: #253655;
   /* Adaptive scale multiplier — the whole document reads from this.
-     1.0× at ~1280px viewport, growing linearly to 1.3× at ~2560px+.
+     1.0× at ~1280px viewport, growing linearly to 1.35× at ~2560px+.
      Rules below use calc(Npx * var(--sc)) so font-size AND spacing grow
      together on ultrawide monitors, instead of just stretching the page
      and leaving the type looking tiny. The pixel-unit trick lets us do
      unitless multiplication downstream: --sc has units of px, but we
      multiply against a unitless count like `calc(13 * var(--sc))`. */
-  --sc: clamp(1px, calc(0.7px + 0.0234vw), 1.3px);
+  --sc: clamp(1px, calc(0.65px + 0.0273vw), 1.35px);
+  /* Height-only scale for large containers (charts, popovers, images)
+     where we want "same aspect ratio as width" growth — i.e., the panel
+     gets taller in the same proportion the page gets wider. Grows from
+     1.0× at 1280px to ~1.7× at 2560px+. Applied to min-heights that
+     would otherwise keep a tall chart flat on an ultrawide monitor. */
+  --sch: clamp(1px, calc(0.4px + 0.0469vw), 1.7px);
 }
 body {
   background: var(--bg);
@@ -102,7 +108,10 @@ a { color: var(--blue); text-decoration: none; }
   border-radius: 6px; padding: calc(14 * var(--sc));
 }
 @media (max-width: 900px) { .sector-trend-wrap { grid-template-columns: 1fr; } }
-.sector-trend-chart { min-height: calc(320 * var(--sc)); min-width: 0; }
+/* Explicit height (not min-height) so ResponsiveContainer can fill it.
+   Uses --sch so the chart grows ~1.7× on ultrawide — same proportional
+   scaling as the page's width growth, instead of a fixed 320px flat. */
+.sector-trend-chart { height: calc(320 * var(--sch)); min-width: 0; }
 .sector-trend-legend { display: flex; flex-direction: column; gap: 4px; font-size: calc(11 * var(--sc)); }
 .legend-row {
   display: grid; grid-template-columns: calc(14 * var(--sc)) 1fr auto auto;
@@ -323,7 +332,7 @@ textarea.editable-cell { min-height: calc(40 * var(--sc)); line-height: 1.4; }
 }
 .news-popover-list {
   list-style: none; padding: 0; margin: 0;
-  max-height: calc(360 * var(--sc)); overflow-y: auto;
+  max-height: calc(360 * var(--sch)); overflow-y: auto;
 }
 .news-popover-list li {
   display: flex; align-items: flex-start;
@@ -443,7 +452,7 @@ textarea.editable-cell { min-height: calc(40 * var(--sc)); line-height: 1.4; }
   display: block; padding: 0; border: 0; background: transparent; cursor: zoom-in;
 }
 .macro-images img {
-  max-width: 100%; max-height: calc(140 * var(--sc)); border: 1px solid var(--border);
+  max-width: 100%; max-height: calc(140 * var(--sch)); border: 1px solid var(--border);
   border-radius: 4px; background: var(--bg); object-fit: contain;
   transition: transform .15s;
   display: block;
