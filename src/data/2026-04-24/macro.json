@@ -1,0 +1,321 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis-apr24",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊危机：Trump放话拖时间、谈判巴基斯坦推进、海峡布雷",
+      "summary": "Trump强调时间在美方一边、不急于行动，称油价200也不会用核武，并暗示伊朗石油基础设施面临崩溃风险。美伊在巴基斯坦的谈判可能在今晚或明天取得突破，以色列国防部长扬言再次开战，美军布什号航母抵中东并进入高度戒备，伊朗据报在霍尔木兹海峡部署更多地雷。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump称时间在美方一边，不急于动手等伊朗政权动荡",
+          "details": "Trump：我可能是身处此位以来压力最小的人。我有的是时间，但伊朗没有，时间紧迫；不要催促我，给予伊朗一个解决其内部动荡问题的机会，伊朗并不知道谁正领导着这个国家，因为我们的政权更迭，我正坐在一旁静观其变，等待达成一项协议，我不想操之过急，我想慢慢来。时间很充裕，我想买到物美价廉的东西。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：油价到200也不会用核武器，伊朗已减对真主党资助",
+          "details": "Trump不会对伊朗使用核武器，任何人都绝不应该被允许使用核武器，被问及油价200怎么办？称没有什么比核武器更糟糕；伊朗可能已经减少了对真主党的财政支持。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：伊朗若不出口石油基建会崩溃；海峡布雷伤伊更甚",
+          "details": "如果他们不把石油运出去，他们的整个石油基础设施就会崩溃，因为他们根本没有地方储存石油。不知道伊朗是否在布设地雷，霍尔木兹海峡的地雷对伊朗的影响将大于对美国的影响，没人想穿过霍尔木兹海峡。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump将调查Polymarket战争内幕交易",
+          "details": "就 Polymarket 上的内幕交易和联邦赌博问题表示：将调查此事；称整个世界都是战争内幕交易的赌场；并补充说，他从来都不是这些赌博平台的坚定支持者，我从概念上不喜欢赌博。同时以色列与黎巴嫩之间的停火协议将延长三周，美国军方正在制定相关计划，准备在停火协议失效的情况下对伊朗霍尔木兹海峡的防御系统进行打击。",
+          "important": false
+        },
+        {
+          "actor": "伊朗政府/巴基斯坦消息人士",
+          "actor_type": "Foreign-Gov",
+          "text": "美伊巴基斯坦谈判，今晚或明天可能取得突破",
+          "details": "据伊朗政府声明，伊朗和巴基斯坦举行会晤，商讨停火事宜；一名伊朗外交消息人士称伊朗与美国在巴基斯坦谈判的准备工作可能在\"今晚或明天\"取得突破。据以色列 N12 新闻频道报道，伊朗议会议长Ghalibaf已宣布退出谈判团队，随后伊朗媒体辟谣。巴基斯坦消息人士称，美伊谈判仍在继续。",
+          "important": false
+        },
+        {
+          "actor": "Israel Katz",
+          "actor_type": "Foreign-Gov",
+          "text": "以色列国防部长：以方已准备好再次对伊朗开战",
+          "details": "以色列国防部长以色列·卡茨表示，以色列已准备好再次对伊朗开战。",
+          "important": false
+        },
+        {
+          "actor": "美军/CNN",
+          "actor_type": "US-Executive",
+          "text": "布什号航母抵中东，美陆军高度戒备准备空袭",
+          "details": "美国军方表示，\"乔治·H·W.布什\"号航空母舰已抵达中东。CNN 消息人士透露：美国陆军已进入高度戒备状态，准备恢复对伊朗的空袭，Trump可能兑现其袭击伊朗能源设施的威胁。有报道称伊朗首都德黑兰发生了防空活动和爆炸，随后以色列否认在伊朗发动任何攻击。DoD将于明天8:00 est举行新闻发布会。",
+          "important": false
+        },
+        {
+          "actor": "AXIOS / 伊朗",
+          "actor_type": "新闻",
+          "text": "霍尔木兹海峡：日通行5艘，伊朗加布水雷并对俄西免过境费",
+          "details": "4/23 17:30 - 4/24 17:30 共5艘，其中2艘出湾的Tanker均未绕行出湾。AXIOS报道伊朗本周在霍尔木兹海峡部署更多地雷。伊朗允许西班牙船只和油轮自由通行霍尔木兹海峡，无需支付任何限制或通行费。伊朗驻莫斯科大使卡齐姆·贾拉利表示，伊朗还免除了俄罗斯和其他友好国家的过境费。位于伊朗首都德黑兰的伊玛目霍梅尼国际机场25日起将恢复飞往土耳其伊斯坦布尔和阿曼马斯喀特的国际航班。",
+          "important": false
+        },
+        {
+          "actor": "NYT",
+          "actor_type": "新闻",
+          "text": "NYT：伊朗最高领袖之子Mojtaba战伤后仍掌权",
+          "details": "NYT报道Mojtaba在战争初期的一次袭击中身负重伤，但思维依然敏捷。曾三次接受腿部手术，目前正在等待安装假肢；通过密封的手写信函与下属沟通，这些信函由信使系统传递给他，他还将部分决策权下放给了他的将军们。这反过来又使得他们在伊朗更广泛的决策过程中获得了不成比例的影响力。",
+          "important": false
+        },
+        {
+          "actor": "Dallas Fed调查",
+          "actor_type": "新闻",
+          "text": "Dallas Fed：40%油气企业认为海峡通行11月后才恢复",
+          "details": "Sahm引用Dallas Fed调查：99家石油和天然气公司在4月15-20日期间被调查，约40%认为霍尔木兹海峡的交通要到 11 月或更晚才能恢复正常（May 2026 约20%、August 2026 约39%、November 2026 约26%、Later than November 2026 约14%）。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 3,
+      "sources": [
+        "Trump",
+        "AXIOS",
+        "CNN",
+        "NYT",
+        "N12",
+        "Dallas Fed"
+      ],
+      "date": "2026-04-24",
+      "image_urls": [
+        "/uploads/2026-04-24/d74649a7410a.png"
+      ]
+    },
+    {
+      "id": "gulf-oil-supply-balance-apr24",
+      "topic": "海湾原油供给/油价",
+      "topic_tag": "oil",
+      "title": "海湾产量崩塌14.5mb/d，JPM测算4月供应缺口13.7mb/d",
+      "summary": "GS估计海湾原油较战前下降14.5mb/d（57%），但若海峡安全重启数月内可基本恢复。JPM测算3月全球供应中断9.1mb/d、4月扩大至13.7mb/d，库存释放与需求被迫损失补缺，Brent实现价99.7、Dated Brent 121.6。",
+      "bullets": [
+        {
+          "actor": "JPM Commodities",
+          "actor_type": "Analyst",
+          "text": "JPM：4月供应中断13.7mb/d，需求被迫损失4.3mb/d",
+          "details": "3 月全球供应中断总计为9.1 mb/d，4 月扩大至 13.7 mb/d。备用产能未能发挥作用，几乎所有世界备用产能集中在沙特阿拉伯和阿联酋。美国即使价格大幅上涨，也无法在此规模上立即通过页岩油实现增长。库存减少很可能比目前可见的报告数据要大得多。需求也出现崩溃，3 月平均下降2.8 mb/d，4 月份的下降幅度更大，达到 4.3 mb/d。单靠价格不足以解释如此规模、迅速的需求下降。这表明大部分下降并非传统的、由价格驱动的\"需求破坏\"，而是由缺失供应导致的被迫需求损失。Figure 4简化平衡：Supply loss 9.1/13.7、Inventory release 4.0/7.1、Demand loss 2.8/4.3、Residual 2.3/2.3、Run cuts 2.3/3.8、Realized Brent 99.6/99.7、Realized Dated Brent 103.9/121.6。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS：海湾产量较战前-14.5mb/d（-57%），重启后数月可恢复",
+          "details": "GS估计海湾地区的原油产量比战前水平下降了14.5M b/d（或 57%）。假设1）石油资产不再遭受袭击，2）霍尔木兹海峡在未来几个月内全面安全地重新开放，海湾地区的原油产量很可能在重新开放后的几个月内基本恢复，因为油田物理损坏有限，沙特和阿联酋可能利用剩余产能稳定市场。配合表格：4月预估海湾原油产量无战时25.4mb/d，仍在生产11.0、因物理损毁停产0.3、其他原因停产14.2；沙特10.1/6.1/0.3/3.7、伊拉克4.4/1.4/0/3.0、伊朗3.5/1.0/0/2.5、阿联酋3.5/0.8/0/2.7、科威特2.6/1.4/0/1.2、卡塔尔1.3/0.2/0/1.0。",
+          "important": false
+        },
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "Warren Pies：8月Brent即将悄然创新高",
+          "details": "Warren Pies：8 月份Brent原油价格即将悄然创下新高。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        3
+      ],
+      "importance": 3,
+      "sources": [
+        "GS",
+        "JPM"
+      ],
+      "date": "2026-04-24",
+      "image_urls": [
+        "/uploads/2026-04-24/a05e2c412757.png",
+        "/uploads/2026-04-24/0906680c127a.png"
+      ]
+    },
+    {
+      "id": "us-congress-budget-apr24",
+      "topic": "美国国会/财政",
+      "topic_tag": "policy",
+      "title": "众议院共和党下周表决2026预算决议，含350B国防与伊朗战拨款",
+      "summary": "众议院共和党领导人计划下周就参议院2026预算决议进行全体投票，随后启动Reconciliation，包含更大税改、350B国防、伊朗战争额外拨款及更大规模福利削减。",
+      "bullets": [
+        {
+          "actor": "众议院共和党领导层",
+          "actor_type": "US-Congress",
+          "text": "下周众议院投票2026预算决议，随即推进和解程序",
+          "details": "众议院共和党领导人希望下周就参议院的2026预算决议进行全体投票，之后马上跟进Reconciliation，包括更大程度税改、350B国防资金、伊朗战争额外拨款，和更大规模福利削减。",
+          "important": true
+        },
+        {
+          "actor": "中国证监会",
+          "actor_type": "Foreign-Gov",
+          "text": "证监会4/24起允许QFII参与国债期货套保",
+          "details": "证监会将从4/24起允许合格境外投资者参与国债期货交易，交易目的限于套期保值。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-04-24",
+      "image_urls": []
+    },
+    {
+      "id": "ai-megacaps-layoffs-apr24",
+      "topic": "AI/科技裁员",
+      "topic_tag": "ai",
+      "title": "OpenAI发GPT-5.5、Meta裁8K、微软7%买断",
+      "summary": "OpenAI发布GPT-5.5、Anthropic推出Mythos，编码与网安领域竞争白热化。Meta裁员8K（10%）冻结6K岗，微软向7%美国员工（约8.75K）提供自愿买断（27年首次），德勤大砍员工福利。",
+      "bullets": [
+        {
+          "actor": "OpenAI / Anthropic",
+          "actor_type": "Corporate",
+          "text": "OpenAI发GPT-5.5，Anthropic推Mythos比拼编码与网安",
+          "details": "OpenAI发布GPT-5.5模型，主打以更少指令完成复杂任务，编码能力突出；Anthropic同步推出Mythos模型，因强大的代码漏洞利用能力引发关注。两大巨头在编码、网络安全和科研应用领域竞争进入白热化。",
+          "important": true
+        },
+        {
+          "actor": "Meta / Microsoft",
+          "actor_type": "Corporate",
+          "text": "Meta裁8K冻结6K岗，微软7%员工买断",
+          "details": "Meta宣布裁员约8K（10%）并冻结6k岗位；微软向约8.75k美国员工（约7%）提供自愿买断计划。两家巨头均称此举是在加大AI投资的背景下控制成本、提升运营效率。$MSFT 将向其 7% 的员工提供提前退休选择，这是该公司 27 年历史上首次进行买断。",
+          "important": false
+        },
+        {
+          "actor": "Deloitte",
+          "actor_type": "Corporate",
+          "text": "德勤砍育儿假、试管婴儿报销、冻结后台养老金",
+          "details": "德勤将从 2027 年 1 月起，把员工的育儿假从 16 周缩短至 8 周，带薪休假减少 5 至 10 天，取消 5 万美元的试管婴儿和收养费用报销，并冻结包括行政、IT 和财务在内的内部支持岗位员工的养老金累积。",
+          "important": false
+        },
+        {
+          "actor": "学术/研究",
+          "actor_type": "Analyst",
+          "text": "AI企业雇佣调研：95.7%企业过去半年用工无变化",
+          "details": "Table 4 Share of AI-using firms by AI-driven employment change (last six months)：Firm-weighted Increased 2.3% (s.e. 0.08%)、Decreased 2.0% (0.09%)、No Change 95.7% (0.14%)；Employment-weighted Increased 3.7% (1.51%)、Decreased 2.4% (0.52%)、No Change 93.9% (1.35%)。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MSFT",
+        "META"
+      ],
+      "image_indexes": [
+        1
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-04-24",
+      "image_urls": [
+        "/uploads/2026-04-24/dc452f67c3b3.png"
+      ]
+    },
+    {
+      "id": "sellside-views-apr24",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "JPM上调SPX目标至7,600；BOE料2026底加息至4%",
+      "summary": "JPM上调SPX目标价至7,600，看好AI驱动盈利与宏观韧性，做多金铜空油，超配新兴市场货币。JPM利率组预计BOE 2026年底加息至4.00%、英国GDP下调至0.5%、美国核心PCE回升至3%以上，警告欧元区套息陷阱。",
+      "bullets": [
+        {
+          "actor": "JPM Macro",
+          "actor_type": "Analyst",
+          "text": "JPM上调SPX目标至7,600，做多金铜空油",
+          "details": "上调SPX目标价至7,600点，看好AI驱动的美股盈利增长。报告指出，尽管伊朗冲突引发地缘担忧，但AI强劲势头与宏观韧性支撑风险资产。债市方面，核心欧洲债券优于美债，投资级信用利差收紧。大宗策略上，做多黄金、铜，做空石油。新兴市场外汇整体超配，重点关注拉美及中欧货币。",
+          "important": true
+        },
+        {
+          "actor": "JPM Rates",
+          "actor_type": "Analyst",
+          "text": "JPM：BOE 2026年底加息至4%，美核心PCE回升超3%",
+          "details": "发布利率市场策略报告，预计BOE将于2026年底加息至4.00%，以应对能源冲击导致的通胀反弹，同时将英国全年GDP增长预测下调至0.5%。报告指出，美国核心PCE通胀将回升至3%以上，全球宏观呈现韧性但分化加剧。此外，警告投资者警惕欧元区内部利差的\"套息陷阱\"，因地缘政治风险导致波动性飙升，风险调整后收益显著恶化。外资持续流入欧元区债市，但去美元化证据尚不充分。",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "BofA：半导体200日均线偏离40%，2000年6月以来最超买",
+          "details": "BofA Chart 3：Semiconductors (SOX) % deviation from 200dma 触及40%，为Jun'00以来最超买；Chart 4：半导体上行突破暗示美国ISM将冲破60。BofA私人客户配置：股票65% AUM (Oct'21峰值66%、Feb'09低点39%)，债券18% (May'08 26%、Feb'09 34%、Mar'22 17%)，现金10% (Feb'09 21%、Mar'20 14%)；近4周私人客户ETF净流入能源(>10%)、Dividend、Industrials居前，金融、银行贷款、Staples、Utilities流出。Chart 5：25/25/25/25组合2026年表现为过去百年第三佳。Chart 6：Trump通胀支持率崩至30%、整体41%、经济37%。Chart 7：Bro Billionaires (NVDA/META/PLTR/TSLA/ARKK/COIN/APO/ORCL/XBT) 自Trump当选+50%，Russell 2000 +23%。Chart 8：S&P 500员工2025年首次下降至28.1mn。Chart 9：美国薪资与EPS加速。Table 1：新Fed主席任职后3月，2Y平均+55bps，10Y +48bps。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        4,
+        5,
+        6
+      ],
+      "importance": 2,
+      "sources": [
+        "JPM",
+        "BofA"
+      ],
+      "date": "2026-04-24",
+      "image_urls": [
+        "/uploads/2026-04-24/9f75267f2f1e.png",
+        "/uploads/2026-04-24/6cbbffcd6916.png",
+        "/uploads/2026-04-24/16e23b0d37bf.png"
+      ]
+    },
+    {
+      "id": "kol-views-apr24",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "Andy/Nick G谈Fed缩WAM、ENSO转厄尔尼诺概率75%",
+      "summary": "Andy/Nick G认为Fed缩短WAM可平滑陡峭化2Y30Y 50-100bps、无需YCC。short bear认为IRGC与谈判团脱节，美国享受\"模糊状态\"红利。Ole S Hansen警示化肥短缺、ENSO 7月起75%概率转厄尔尼诺。Danny调侃\"What war? Welcome to 2021\"。",
+      "bullets": [
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "Andy：Fed缩WAM可让2Y30Y陡峭50-100bps，无需YCC",
+          "details": "Fed持有4.38T国债，WAM 8.56Y，全市场国债WAM 5.83Y，过度持有久期风险，Fed降低WAM市场能够轻松吸收，2Y30Y最多陡峭化50-100bps，不需要YCC，而且执行上平滑会降低冲击，只需要逐步改变在投资政策就可以了。",
+          "important": true
+        },
+        {
+          "actor": "Nick G",
+          "actor_type": "KOL",
+          "text": "Nick G：重新分配过剩准备金+缩WAM组合可降利率陡峭曲线",
+          "details": "我们只需要一种机制去分配准备金，将目前充裕的储备重新分配到银行体系中真正需要的地方，而不是浪费在储备过剩的地方；另外一个重要的事情就是缩短WAM，将这两种方法结合起来，可以降低债券持有量，降低利率，曲线陡峭化。",
+          "important": false
+        },
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "short bear：IRGC与谈判团脱节，美国享受模糊状态红利",
+          "details": "IRGC和谈判代表团严重脱节，伊朗想要和平，但不是任何代价都行（油价、国内支持是代价），美国最喜欢当前的\"模糊状态\"（ambiguity），既能获得油价溢价，又能对外展示\"促和\"形象。",
+          "important": false
+        },
+        {
+          "actor": "Ole S Hansen",
+          "actor_type": "KOL",
+          "text": "Ole S Hansen：化肥短缺+ENSO 7月起75%概率转厄尔尼诺",
+          "details": "目前化肥短缺已经引发了人们对全球作物产量的担忧，而美国国家海洋和大气管理局 (NOAA) 确认，厄尔尼诺-南方涛动 (ENSO) 中性状况预计将持续到 2026 年 6 月，然后从 7 月开始以75%的概率转变为厄尔尼诺现象。",
+          "important": false
+        },
+        {
+          "actor": "Danny",
+          "actor_type": "KOL",
+          "text": "Danny：What war? Welcome to 2021",
+          "details": "Danny: What war? Welcome to 2021。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-04-24",
+      "image_urls": []
+    }
+  ]
+}
