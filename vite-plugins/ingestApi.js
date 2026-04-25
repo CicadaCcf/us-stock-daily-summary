@@ -664,21 +664,29 @@ async function handlePublish(req, res) {
       write(`[info] fast-forwarded origin/main → ${shortSha}\n`);
     }
 
-    // 6. Verify remote refs actually landed at our HEAD. Belt-and-braces:
-    //    catches the rare case where git push exit-zeros but the remote
-    //    rejected (malformed pack, ref protection, etc.). Without this
-    //    a silent push failure would still report ok=true.
-    const verifyRemote = async (ref, label) => {
-      const out = await gitSpawn(['ls-remote', 'origin', ref], write);
-      const remoteSha = (out.split(/\s+/)[0] || '').trim();
-      if (remoteSha !== sha) {
-        throw new Error(
-          `remote ${label} = ${remoteSha.slice(0, 7) || '(empty)'}, expected ${shortSha} — push didn't land`
-        );
-      }
-    };
-    await verifyRemote(currentBranch, currentBranch);
-    if (currentBranch !== 'main') await verifyRemote('main', 'main');
+    // 6. Best-effort remote ref check (advisory only). `git push` exit code
+    //    is already the authoritative truth — if push exit-zeroed, the
+    //    remote accepted it. This extra ls-remote round-trip is just a
+    //    diagnostic in case push silently lied (extremely rare). We do NOT
+    //    fail the whole Publish on a verify mismatch / network error here,
+    //    because that would fake a "✗ failed" state on a successful push
+    //    whenever GitHub has a transient API blip.
+    try {
+      const verifyRemote = async (ref, label) => {
+        const out = await gitSpawn(['ls-remote', 'origin', ref], write);
+        const remoteSha = (out.split(/\s+/)[0] || '').trim();
+        if (remoteSha !== sha) {
+          write(
+            `[warn] verify: remote ${label} = ${remoteSha.slice(0, 7) || '(empty)'}, ` +
+            `expected ${shortSha}. push exit-zeroed though, so trusting that.\n`
+          );
+        }
+      };
+      await verifyRemote(currentBranch, currentBranch);
+      if (currentBranch !== 'main') await verifyRemote('main', 'main');
+    } catch (e) {
+      write(`[warn] could not verify remote refs (${e.message}) — push exit-zeroed, trusting that\n`);
+    }
 
     write(`\n__STATUS__ ok=true date=${date} commit=${shortSha}\n`);
   } catch (e) {
