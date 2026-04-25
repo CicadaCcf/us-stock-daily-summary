@@ -633,39 +633,54 @@ async function handlePublish(req, res) {
     }
     await gitSpawn(['add', ...addTargets], write);
 
-    // 3. If nothing staged, skip the commit — not an error, common when user
-    //    pressed Publish twice without re-running Update.
+    // 3. If anything's staged, commit it. If not, we still proceed to the
+    //    push step — a previous Publish may have committed locally but
+    //    failed to push (network blip, drawer closed mid-stream, etc.),
+    //    leaving an orphan commit. Re-running Publish should recover.
     const diffCached = await new Promise((resolve) => {
       const p = spawn('git', ['diff', '--cached', '--quiet'], { cwd: REPO_ROOT });
       p.on('close', (code) => resolve(code));
     });
-    if (diffCached === 0) {
-      write(`\n[info] nothing staged — already in sync with last publish\n`);
-      write(`\n__STATUS__ ok=true date=${date} commit=noop\n`);
-      return res.end();
+    if (diffCached !== 0) {
+      await gitSpawn(['commit', '-m', `daily: ${date}`], write);
+    } else {
+      write(`\n[info] nothing new staged — checking if any local commits still need pushing\n`);
     }
 
-    await gitSpawn(['commit', '-m', `daily: ${date}`], write);
-    const sha = await gitSpawn(['rev-parse', '--short', 'HEAD'], write);
+    const sha = await gitSpawn(['rev-parse', 'HEAD'], write);
+    const shortSha = sha.slice(0, 7);
+    const currentBranch = await gitSpawn(['rev-parse', '--abbrev-ref', 'HEAD'], write);
+
+    // 4. Push the feature branch. Hard-fails on any non-zero exit (caught
+    //    by the outer try/catch and surfaced as ok=false in the UI).
     await gitSpawn(['push'], write);
 
-    // Vercel's Production deploy follows `main`, but day-to-day work happens
-    // on a feature branch. Fast-forward main to the current HEAD so Publish
-    // actually lands on the live site. If main has diverged (someone else
-    // pushed directly to it), this fails with a clear non-fast-forward error
-    // and leaves the feature-branch push intact — user can reconcile by hand.
-    const currentBranch = await gitSpawn(['rev-parse', '--abbrev-ref', 'HEAD'], write);
+    // 5. Fast-forward main so Vercel deploys. This is now a HARD fail,
+    //    not a warning — without main-update, "published" means nothing
+    //    to the user (Vercel tracks main only). If main has diverged
+    //    they'll see a clear non-fast-forward error in the UI.
     if (currentBranch !== 'main') {
-      try {
-        await gitSpawn(['push', 'origin', 'HEAD:main'], write);
-        write(`[info] fast-forwarded origin/main → ${sha}\n`);
-      } catch (e) {
-        write(`[warn] could not update origin/main: ${e.message}\n`);
-        write(`[warn] feature branch pushed, but Vercel (which tracks main) won't see this change until main is updated manually\n`);
-      }
+      await gitSpawn(['push', 'origin', 'HEAD:main'], write);
+      write(`[info] fast-forwarded origin/main → ${shortSha}\n`);
     }
 
-    write(`\n__STATUS__ ok=true date=${date} commit=${sha}\n`);
+    // 6. Verify remote refs actually landed at our HEAD. Belt-and-braces:
+    //    catches the rare case where git push exit-zeros but the remote
+    //    rejected (malformed pack, ref protection, etc.). Without this
+    //    a silent push failure would still report ok=true.
+    const verifyRemote = async (ref, label) => {
+      const out = await gitSpawn(['ls-remote', 'origin', ref], write);
+      const remoteSha = (out.split(/\s+/)[0] || '').trim();
+      if (remoteSha !== sha) {
+        throw new Error(
+          `remote ${label} = ${remoteSha.slice(0, 7) || '(empty)'}, expected ${shortSha} — push didn't land`
+        );
+      }
+    };
+    await verifyRemote(currentBranch, currentBranch);
+    if (currentBranch !== 'main') await verifyRemote('main', 'main');
+
+    write(`\n__STATUS__ ok=true date=${date} commit=${shortSha}\n`);
   } catch (e) {
     write(`\n__STATUS__ ok=false error=${e.message}\n`);
   }
