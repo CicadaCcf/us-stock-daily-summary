@@ -21,7 +21,6 @@ import {
   SPX_CLOSES_1Y,
   TRADING_DATES_1Y,
   MOVERS_NEWS,
-  PREV_SCREENER_TKS,
 } from './data/index.js';
 import {
   LineChart, Line, XAxis, YAxis, Tooltip, Legend, ReferenceLine,
@@ -857,11 +856,15 @@ function AppBody() {
     });
   };
 
-  // Tickers that weren't in yesterday's screener — highlighted below with a
-  // slightly brighter row background so today's new movers stand out from
-  // the carryovers. Skip highlighting entirely if there's no prior-day data
-  // (otherwise everything would glow).
-  const hasPrevDay = PREV_SCREENER_TKS.size > 0;
+  // "Fresh today" highlighting: any row that the pipeline marked as a
+  // first-day entry on today's run gets a brighter background so it stands
+  // out from carryovers. Signal = `days_remaining === initial_days`, i.e.
+  // the countdown hasn't been ticked down yet — that's the pipeline's own
+  // marker for "this ticker passed_full() today as a new entrant", and it
+  // works even if the same ticker appeared on the list days ago and then
+  // dropped off. (Self-contained per row; doesn't depend on prior-day
+  // screener.json being present, which makes it more robust than the
+  // previous "not in yesterday's set" check.)
 
   // User-draggable widths for the four "long-content" screener columns,
   // persisted to localStorage. Different screens / font-scale settings
@@ -1019,7 +1022,10 @@ function AppBody() {
                 const ov = screenerEdits[s.tk] || {};
                 const industry = ov.industry ?? s.industry;
                 const reason   = ov.reason   ?? s.reason;
-                const isNewToday = hasPrevDay && !PREV_SCREENER_TKS.has(s.tk);
+                const isNewToday =
+                  s.days_remaining != null
+                  && s.initial_days != null
+                  && s.days_remaining === s.initial_days;
                 return (
                   <tr
                     key={s.tk}
