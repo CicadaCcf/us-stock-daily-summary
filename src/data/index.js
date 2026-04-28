@@ -148,6 +148,17 @@ export const RECAP_SECTIONS = toArray(snapshot.recap?.sections);
 
 export const SCREENER = toArray(screener.rows);
 export const SCREENER_MAX_ABS = typeof screener.maxAbs === 'number' ? screener.maxAbs : 500;
+// Filter thresholds for the day — used by the UI to flag rows that re-qualify
+// fresh today vs rows that are only on the list as a days_remaining carryover.
+// Defaults match the pipeline's hard-coded filter so historical dates that
+// pre-date the filter field still render correctly.
+export const SCREENER_FILTER = {
+  min_market_cap_usd: 1_000_000_000,
+  min_dollar_volume_usd: 300_000_000,
+  min_d1_pct: 15.0,
+  min_w1_pct: 40.0,
+  ...(screener.filter || {}),
+};
 
 // Tickers that appeared on the previous trading day. Used by the Top Movers
 // table to draw a visual boundary between "new today" rows and rows carried

@@ -1,0 +1,644 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-negotiations-apr26",
+      "topic": "美伊谈判与霍尔木兹海峡危机",
+      "topic_tag": "geo",
+      "title": "美伊谈判陷入僵局，霍尔木兹海峡紧张持续",
+      "summary": "美伊第二轮会谈取消，伊朗内部对核问题应对未达共识。Trump周一将召开伊朗问题战情室会议，威特科夫和库什纳已前往巴基斯坦。伊朗提出三阶段谈判方案，双方在封锁和核问题上分歧明显，IRGC称控制霍尔木兹是伊朗的最终战略。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "美伊第二轮会谈取消，伊朗内讧争夺领导权",
+          "details": "美伊第二轮会谈取消了，伊朗人可以随时与美国联系，伊朗人正在内讧，争夺领导权；取消与巴基斯坦会晤10分钟后，又收到一份新的提议，这份文件好得多。他们提出了很多，但还不够，我们不会大费周章地跑到巴基斯坦去，仅仅为了从伊朗拿到一份毫无价值的文件；从未考虑过放弃停火协议",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "周一将召开伊朗问题战情室会议",
+          "details": "Trump将于周一与他的国家安全和外交政策高级团队在战情室召开伊朗问题会议",
+          "important": false
+        },
+        {
+          "actor": "LeaVitt",
+          "actor_type": "US-Executive",
+          "text": "威特科夫和库什纳将前往巴基斯坦与伊朗会面",
+          "details": "伊朗主动联系美国，要求举行面对面会晤，威特科夫和库什纳将于明日上午出发，前往巴基斯坦，万斯将在美国待命，如有必要，所有人都将随时准备飞往巴基斯坦",
+          "important": false
+        },
+        {
+          "actor": "Hegseth",
+          "actor_type": "US-Executive",
+          "text": "若伊朗布雷或威胁美国商船军队，将开火摧毁",
+          "details": "埋设更多地雷违反了停火协议；如果伊朗在水中布雷或以其他方式威胁美国商船或美国军队，我们将开火摧毁；我们有的是时间；我们并不急于达成协议",
+          "important": false
+        },
+        {
+          "actor": "白宫",
+          "actor_type": "US-Executive",
+          "text": "不会与伊朗达成任何不能确保阻止其获核的协议",
+          "details": "白宫对 Axios 表示：我们不会与伊朗达成任何不能确保阻止其获得核武器的协议",
+          "important": false
+        },
+        {
+          "actor": "伊朗消息人士",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗提出三阶段谈判方案，核问题放最后",
+          "details": "伊朗方面消息人士称，伊朗已通过中间人向美方传达了一个三阶段谈判方案。谈判第一阶段的重点是彻底结束战争，并防止对伊朗和黎巴嫩重新发动战争的保证。如果在第一阶段达成协议，各方将进入第二阶段，该阶段将专门研究霍尔木兹海峡如何管理的问题。第三阶段与核问题讨论有关，但在前两个阶段达成协议之前，伊朗绝不会参与核问题谈判",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "美要求伊朗暂停铀浓缩20年，伊朗仅愿5+5年",
+          "details": "WSJ援引伊朗外交官和知情人士的话称：美国和伊朗代表团可能在未来几天会面，Trump倾向于继续利用封锁向伊朗施压，迫使其做出妥协，双方矛盾仍是封锁和核问题，美国目前要求伊朗暂停铀浓缩活动20年，伊朗表示可能愿意暂停浓缩铀活动5年，并有可能再延长5年，在此期间其浓缩铀计划将受到限制；阿拉格奇原计划前往阿曼，阿曼一直是伊朗与阿拉伯国家之间的桥梁，之后再前往莫斯科。俄罗斯与德黑兰关系密切，被视为伊朗转移铀库存的潜在目的地",
+          "important": false
+        },
+        {
+          "actor": "IRGC",
+          "actor_type": "Foreign-Gov",
+          "text": "控制霍尔木兹是伊朗的最终战略",
+          "details": "IRGC称控制霍尔木兹河是伊朗的\"最终战略\"；伊朗最高军事指挥部表示，如果美军继续在该地区实施封锁，将面临伊朗的报复",
+          "important": false
+        },
+        {
+          "actor": "Aragchi",
+          "actor_type": "Foreign-Gov",
+          "text": "将访问阿曼、巴基斯坦和俄罗斯，周一会见普京",
+          "details": "Aragchi将于周一前往俄罗斯，与总统普京会面；Aragchi将于周五开始访问阿曼、巴基斯坦和俄罗斯，伊朗此行旨在缓和与美国的紧张关系。他此行的目的是与地区调解人协调，并讨论持续不断的冲突；伊朗高级消息人士称，Aragchi访巴期间，伊美之间没有举行会谈，只有双边接触，称在封锁下不会参加强加的谈判；IRNA报道：部分伊朗代表团成员已返回德黑兰进行磋商，并将于明日与Aragchi在巴基斯坦会合",
+          "important": false
+        },
+        {
+          "actor": "Aragchi",
+          "actor_type": "Foreign-Gov",
+          "text": "重申建立可行框架以永久结束伊朗战争的立场",
+          "details": "Aragchi重申伊朗关于建立可行框架以永久结束伊朗战争的立场，目前还不清楚美国是否真的认真对待外交努力",
+          "important": false
+        },
+        {
+          "actor": "伊朗议会副主席",
+          "actor_type": "Foreign-Gov",
+          "text": "绝不会让霍尔木兹海峡恢复到以前状态",
+          "details": "伊朗议会副主席称我们绝不会让霍尔木兹海峡恢复到以前的状态，因为这是革命领袖的决定",
+          "important": false
+        },
+        {
+          "actor": "Axios",
+          "actor_type": "新闻",
+          "text": "伊朗领导层对如何应对美国核问题要求未达共识",
+          "details": "据 Axios 消息人士透露，Aragchi 周末向巴基斯坦、埃及、土耳其和卡塔尔的调解人明确表示，伊朗领导层内部对于如何应对美国在核问题上的要求没有达成共识",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "伊朗谈判代表要求Trump减少威胁性措辞",
+          "details": "WSJ报道伊朗谈判代表已向美国发出信息，要求Trump减少威胁，认为较为温和的措辞可能会让伊朗强硬派更愿意参与谈判",
+          "important": false
+        },
+        {
+          "actor": "巴基斯坦官方",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗未作任何让步，立场依然坚定",
+          "details": "巴基斯坦官方人士称伊朗未作任何让步，立场依然坚定，与伊斯兰堡会谈前所作的表态一致，巴基斯坦总理办公室：总理和伊朗总统同意继续保持密切协调，赞赏伊朗持续开展外交活动，包括派遣高级代表团访问伊斯兰堡",
+          "important": false
+        },
+        {
+          "actor": "伊朗国际报",
+          "actor_type": "新闻",
+          "text": "传Ghalibaf因内部分歧辞职后被辟谣",
+          "details": "《伊朗国际报》获悉，伊朗与美国谈判团队负责人Ghalibaf因内部分歧而辞职。后被辟谣；伊朗议员谈及针对卡利巴夫的暗杀未遂事件，但未具体说明地点和时间",
+          "important": false
+        },
+        {
+          "actor": "伊朗",
+          "actor_type": "Foreign-Gov",
+          "text": "重新开放德黑兰机场，多国敦促公民24小时内离伊",
+          "details": "伊朗已重新开放德黑兰伊玛目霍梅尼国际机场，英国、俄罗斯、印度、中国和土耳其敦促其公民在24小时内离开伊朗",
+          "important": false
+        },
+        {
+          "actor": "悬挂伊朗国旗散货船",
+          "actor_type": "Foreign-Gov",
+          "text": "受美制裁伊朗船只离开霍尔木兹海峡驶往中国",
+          "details": "悬挂伊朗国旗且受美国制裁的散货船\"PARISA\"号离开霍尔木兹海峡，目的地：中国",
+          "important": false
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "预计美伊将在未来几周达成和平协议",
+          "details": "花旗认为美国与伊朗（在以色列同意并承诺维持停火条件下）将在未来几周内达成和平协议。然而，达成协议的 path 可能充满紧张局势和短期压力峰值。双方均有达成协议的动力：特朗普政府需将注意力转向国内中期选举，而伊朗政权需要现金流维持运转。霍尔木兹海峡的控制权是谈判的主要争议点",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "Axios",
+        "IRNA",
+        "伊朗国际报",
+        "Citi"
+      ],
+      "date": "2026-04-27",
+      "image_urls": []
+    },
+    {
+      "id": "israel-lebanon-apr26",
+      "topic": "以色列与黎巴嫩",
+      "topic_tag": "geo",
+      "title": "以色列轰炸黎巴嫩，内塔尼亚胡接受前列腺癌治疗",
+      "summary": "内塔尼亚胡指示军队对黎巴嫩境内的真主党目标发动强力打击，以色列再次轰炸黎巴嫩。以色列总参谋长建议告知华盛顿恢复在伊朗作战的必要性。内塔尼亚胡接受了前列腺癌切除治疗。",
+      "bullets": [
+        {
+          "actor": "内塔尼亚胡",
+          "actor_type": "Foreign-Gov",
+          "text": "指示军队对黎巴嫩真主党目标发动强力打击",
+          "details": "内塔尼亚胡办公室：总理已指示军队对黎巴嫩境内的真主党目标发动强力打击；以色列总参谋长建议告知华盛顿恢复在伊朗作战的必要性；以色列总理内塔尼亚胡接受了前列腺癌切除治疗",
+          "important": true
+        },
+        {
+          "actor": "以色列",
+          "actor_type": "Foreign-Gov",
+          "text": "以色列再次轰炸黎巴嫩",
+          "details": "以色列再次轰炸黎巴嫩",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-04-27",
+      "image_urls": []
+    },
+    {
+      "id": "fed-powell-warsh-apr26",
+      "topic": "美联储人事与调查",
+      "topic_tag": "fed",
+      "title": "Powell调查争议持续，Warsh提名将推进投票",
+      "summary": "Trump称DOJ对Powell的调查并未停止，与DOJ宣布已结束调查的说法相矛盾。参议院银行委员会将于4月29日投票表决Warsh的Fed主席提名。Bessent表示不排斥未来担任Fed主席。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "称DOJ对Powell的调查并没有停止",
+          "details": "Trump谈到DOJ Jeanine Pirro所说的已经结束的Powell调查时说\"调查并没有停止\"",
+          "important": true
+        },
+        {
+          "actor": "DoJ",
+          "actor_type": "US-Executive",
+          "text": "宣布已结束对Fed chair Powell的刑事调查",
+          "details": "DoJ已结束对Fed chair Powell的刑事调查",
+          "important": false
+        },
+        {
+          "actor": "LeaVitt",
+          "actor_type": "US-Executive",
+          "text": "Fed的案件未必会撤销",
+          "details": "LeaVitt称Fed的案件未必会撤销",
+          "important": false
+        },
+        {
+          "actor": "Tills",
+          "actor_type": "US-Congress",
+          "text": "已准备好推进Warsh的Fed主席提名",
+          "details": "Tills表示，他已准备好推进Warsh的Fed主席提名",
+          "important": false
+        },
+        {
+          "actor": "参议院银行委员会",
+          "actor_type": "US-Congress",
+          "text": "将于4月29日投票表决Warsh任命",
+          "details": "参议院银行委员会将于4月29日（周三）投票表决是否推进Warsh的任命",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "不排斥未来担任Fed主席",
+          "details": "Bessent没有竞选公职的野心，但如果以后有机会担任Fed主席，他也不会拒绝",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "预计Warsh六月投票支持裁员，凑五票可行",
+          "details": "Andy称Warsh将在六月份投票支持裁员。Waller, Williams, Miran or someone like him & Bowman，就能凑够五票支持裁员。只需要两名中间派投赞成票即可",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-04-27",
+      "image_urls": []
+    },
+    {
+      "id": "us-china-ai-tech-apr26",
+      "topic": "中美科技竞争与AI",
+      "topic_tag": "ai",
+      "title": "美国打压中国AI企业，中国限制美资投资AI初创",
+      "summary": "美国国务院已下令在全球范围内关注中国公司（包括DeepSeek）窃取美国AI知识产权的行为。中国监管部门指导AI私营企业在融资中拒绝美资。Bessent将AI竞赛视为关乎国家命运的博弈。",
+      "bullets": [
+        {
+          "actor": "美国国务院",
+          "actor_type": "US-Executive",
+          "text": "下令全球关注中国公司窃取美国AI知识产权",
+          "details": "国务院已下令在全球范围内采取行动，以引起人们对中国公司（包括人工智能初创公司 DeepSeek）窃取美国人工智能实验室知识产权的广泛行为的关注",
+          "important": true
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "中国监管指导AI企业在融资中拒绝美资",
+          "details": "BBG援引知情人士消息，最近几周多个 AI 科技私营企业，如月之暗面、阶跃星辰，已收到来自监管部门的指导建议，在后续融资中如果没有明确批准，应拒绝来自美国的资本",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "AI竞赛是关乎国家命运的博弈，12-18个月定走向",
+          "details": "Bessent认为AI 竞赛是关乎国家命运的博弈，认为未来 12-18 个月将决定技术发展的走向",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "将中国视为战略竞争对手，致力关键领域自主",
+          "details": "Bessent将中国视为战略竞争对手而非简单的商业竞争者，认为中国寻求建立\"宗主国-附属国\"式的全球体系，致力于在关键矿产、医药和半导体三个领域实现美国的高度自主",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-04-27",
+      "image_urls": []
+    },
+    {
+      "id": "trump-china-save-act-apr26",
+      "topic": "Trump其他表态",
+      "topic_tag": "policy",
+      "title": "Trump评价中国援助有限，警告SAVE法案",
+      "summary": "Trump认为中国的援助有限但本可以做得更糟。警告SAVE法案若不通过将导致参议院历史上最惨重失败，呼吁终止阻挠议事规则。白宫新闻晚宴发生枪手闯入事件。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "认为中国援助有限，但本可以做得更糟",
+          "details": "Trump认为中国的援助有限。\"我认为中国本可以做得更糟，\"他说，\"我并不太失望。\"",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "警告SAVE法案不通过将是参议院最惨重失败",
+          "details": "Trump称SAVE法案若不通过，将导致美国参议院历史上任何政党遭遇最惨重的失败。这无异于自取灭亡！同样，阻挠议事规则应立即终止",
+          "important": false
+        },
+        {
+          "actor": "白宫",
+          "actor_type": "US-Executive",
+          "text": "新闻晚宴发生枪手闯入事件，嫌犯被拘",
+          "details": "白宫新闻晚宴上，一名霰弹枪手试图闯入安保，现场听到4-6声巨响，枪手已被拘留，Vance和Trump已被撤离，嫌犯为加州居民，31岁男性，动机不明",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-04-27",
+      "image_urls": []
+    },
+    {
+      "id": "us-social-security-apr26",
+      "topic": "美国社保危机",
+      "topic_tag": "policy",
+      "title": "社保退休信托基金预计2034年破产",
+      "summary": "CRFB报告指出美国社保退休信托基金预计2034年破产，届时受益人福利将自动削减24%。若1995年采取行动，单一措施可恢复75年偿付能力，但拖延至今效果大幅下降。",
+      "bullets": [
+        {
+          "actor": "CRFB",
+          "actor_type": "Analyst",
+          "text": "社保基金2034年破产，届时福利削减24%",
+          "details": "美国社保退休信托基金预计2034年破产，届时受益人福利将自动削减24%。CRFB报告指出，如果政策制定者在30年前（1995年）采取行动，仅通过取消工资税上限或渐进式价格指数化其中一项措施即可恢复社保75年的偿付能力。然而，由于拖延至今（2026年），这两项措施各自的效果大幅下降：取消税上限目前只能解决65%的偿付缺口，将破产时间推迟21年；而渐进式价格指数化仅能解决50%的缺口，仅将破产推迟一周",
+          "important": true
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "美国赤字占GDP 5.2%，债务水平处于可控范围",
+          "details": "BofA认为目前美国赤字占 GDP 的比例为 5.2%，略高于本世纪平均水平（4.6%），整体债务水平（约 GDP 的 100%）被认为处于\"可控\"范围，强制性支出（国防、净利息、社保、医保等）占到了总支出的 75%，财政空间有限，2026 财年的赤字可能会扩大，但得益于美国经济的弹性，目前无需过度担忧",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "CRFB",
+        "BofA"
+      ],
+      "date": "2026-04-27",
+      "image_urls": []
+    },
+    {
+      "id": "oil-price-outlook-apr26",
+      "topic": "原油市场展望",
+      "topic_tag": "oil",
+      "title": "摩根士丹利维持布油2Q26预测$110/桶",
+      "summary": "MS维持Brent原油价格预测2Q26为$110/桶。因霍尔木兹海峡关闭，中东出口较预期降14.2M b/d，需求破坏达3.6-4.3M b/d，2026年全球石油需求增速下调。GS认为能源价格仍是利率市场焦点。",
+      "bullets": [
+        {
+          "actor": "MS",
+          "actor_type": "Analyst",
+          "text": "维持布油2Q26预测$110/桶，油价上行风险显著",
+          "details": "MS维持Brent原油价格预测，2Q26为$110/桶。因霍尔木兹海峡关闭，中东出口较预期降14.2M b/d，但库存仅降4.8M b/d。预估需求破坏达3.6-4.3M b/d，2026年全球石油需求增速下调至-0.8百3M b/d。供应恢复推迟至5月下旬，油价上行风险显著",
+          "important": true
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "能源价格仍是利率市场焦点，做多通胀是有效对冲",
+          "details": "GS GRT认为能源价格仍然是利率市场的关注焦点，但对能源价格上涨的反应较小，导致利率波动性低于3月份的水平。美国利率仍然缺乏能够持续走低收益率的潜在催化剂，无论是缓和局势的措施还是对经济增长下行的担忧。但较高的收益率起点以及利率对油价波动的敏感性降低，目前仍然有利于套利交易，做多通胀仍然是对冲更持久和/或更具破坏性后果的有效手段",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "XOM",
+        "CVX"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "MS",
+        "GS"
+      ],
+      "date": "2026-04-27",
+      "image_urls": []
+    },
+    {
+      "id": "spx-valuation-earnings-apr26",
+      "topic": "美股估值与盈利",
+      "topic_tag": "earnings",
+      "title": "标普500前瞻PE从23.1x降至19.6x，盈利集中度高",
+      "summary": "Citadel数据显示标普500前瞻PE从23.1x降至19.6x，2026年EPS预期从$76升至$81。Peter Berezin指出MU/NVDA/XOM/CVX/AVGO/SNDK六家公司占SPX 2026年盈利预期上调的70%。",
+      "bullets": [
+        {
+          "actor": "Citadel Securities",
+          "actor_type": "Analyst",
+          "text": "标普500前瞻PE从23.1x降至19.6x",
+          "details": "Bloomberg数据由Citadel Securities, GMI编制，截至2026年4月6日。SPX前瞻PE从23.1x降至19.6x，2026年平均EPS预期从$76升至$81。Q4'26 EPS $88(+15.3% Y/Y)，Q3'26 $85(+19.1% Y/Y)，Q2'26 $79(+17.7% Y/Y)，Q1'26 $72(+11.6% Y/Y)",
+          "important": true
+        },
+        {
+          "actor": "Peter Berezin",
+          "actor_type": "KOL",
+          "text": "六家公司占SPX 2026年盈利预期上调的70%",
+          "details": "Peter Berezin指出MU\\NVDA\\XOM\\CVX\\AVGO\\SNDK六家公司就占了SPX2026 年盈利预期上调的 70%",
+          "important": false
+        },
+        {
+          "actor": "Master wu",
+          "actor_type": "KOL",
+          "text": "SPX基本由NVDA和AMZN支撑",
+          "details": "Master wu称SPX 基本上是由两个名字支撑的，$NVDA和$AMZN。$NVDA 终于觉醒了科技股的狂热，跃升至历史新高——仅此一举就能抵消标普 500 指数成分股 200-300 点的回调",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "AMZN",
+        "MU",
+        "XOM",
+        "CVX",
+        "AVGO"
+      ],
+      "image_indexes": [
+        2
+      ],
+      "importance": 2,
+      "sources": [
+        "Bloomberg",
+        "Citadel Securities"
+      ],
+      "date": "2026-04-27",
+      "image_urls": [
+        "/uploads/2026-04-27/9da49b82761f.png"
+      ]
+    },
+    {
+      "id": "ipo-market-outlook-apr26",
+      "topic": "美国IPO市场",
+      "topic_tag": "macro-other",
+      "title": "高盛预测2026年美国IPO规模将达$160B",
+      "summary": "高盛预测2026年美国IPO规模将达$160B，年初至今25家公司上市募资$14B。近期IPO首日平均回报19%，但低估值标的后续表现更佳。大型IPO纳入指数引发的被动卖压有限。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "预测2026年美国IPO规模将达$160B",
+          "details": "GS预测2026年美国IPO规模将达160B。尽管近期市场波动，但宏观环境仍有利。近期IPO首日平均回报19%，但后续表现分化，低估值（P/S<2x）标的12个月回报达11%。年初至今25家公司上市，2025年全年61家，2026E预计100家",
+          "important": true
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "共同基金现金持有量处于历史低位1.4%",
+          "details": "GS指出历史数据显示，共同基金通常提前增加现金储备以应对大型IPO，目前基金现金持有量处于历史低位（1.4%），预计将重复这一模式。大型IPO纳入指数引发的被动卖压有限，预计不超过日均交易量的10%",
+          "important": false
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "IPO禁售期解禁前平均下跌4%-5%，近期约10%",
+          "details": "GS指出近十年IPO在180天禁售期结束前平均下跌4%-5%，近期甚至下跌约10%,但在解禁后三个月内通常能收复失地并超过首日收盘价",
+          "important": false
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "纳斯达克5月起调整NDX，加快大型公司纳入",
+          "details": "GS指出自5/1起，纳斯达克将对NDX进行调整，加快部分大型公司的纳入速度，并提高部分低流通股的权重。Rusell已启动公众咨询，就类似的潜在调整征求意见。新闻报道显示，S&P也在考虑类似的调整，但该公司 3 月份发布的最新博文表明，在进行公众咨询之前，不会对SPX的纳入规则进行任何修改",
+          "important": false
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "约18T基金以SPX为基准，大型IPO卖压约5bps",
+          "details": "GS指出目前约有 18T的基金资产管理规模以SPX为基准，另有5T的基金资产以RTY和NDX为基准。如果以SPX为基准的基金在其投资组合中按基准权重纳入一家市值 1T、流通股比例 10%的 IPO 公司，那么由此产生的资金重新配置只会对现有指数成分股造成约5bps的抛售压力，且不足其日均交易量的 10%",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3,
+        4,
+        5
+      ],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "FactSet"
+      ],
+      "date": "2026-04-27",
+      "image_urls": [
+        "/uploads/2026-04-27/2db57744a3fd.png",
+        "/uploads/2026-04-27/a97d6c2ebeb8.png",
+        "/uploads/2026-04-27/1d8c5b11fb3d.png"
+      ]
+    },
+    {
+      "id": "sellside-views-apr26",
+      "topic": "卖方观点汇总",
+      "topic_tag": "macro-other",
+      "title": "卖方观点：AI生产力提升、利率市场、联储政策",
+      "summary": "摩根士丹利认为AI短期对劳动力市场冲击有限，预计2025-2028年数据中心资本支出超$3T。巴克莱预计美联储5月将RMPs降至$10B/mo。德银预计TGA将在四周内下降$250-300B。",
+      "bullets": [
+        {
+          "actor": "MS",
+          "actor_type": "Analyst",
+          "text": "AI短期对劳动力市场冲击有限，数据中心资本支出超$3T",
+          "details": "MS发布全球宏观展望，认为AI短期对劳动力市场冲击有限，高暴露行业生产率提升主要源于产出增长而非裁员。预计2025-2028年数据中心资本支出超3T，但目前仅部署1/4。短期需关注政策应对及基础设施瓶颈，长期看好生产力提升",
+          "important": true
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "AI处于奇点转折点，维持超配股票建议",
+          "details": "BofA认为AI正处于\"奇点\"转折点，机器智能将超越人类生物智能，推动生产力和生活水平加速提升；资本收入在经济总量中的份额正在增加，而劳动力成本占比下降。这导致企业利润率创下历史新高；家庭财富相对于可支配收入的比例不断上升，形成了一个巨大的\"蓄水池\"，增强了经济抵御周期性衰退的韧性，维持超配股票的建议",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "亚洲科技市场表现强劲，参考2022年经验",
+          "details": "BofA认为尽管亚洲对能源进口依赖度高，但由于 AI 基础设施（数据中心）需求旺盛，韩国、台湾等科技导向型市场表现强劲，参考 2022 年经验，即便能源价格维持在高位，只要价格不再剧烈飙升，亚洲股市仍有持续反弹的空间",
+          "important": false
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "预计美联储5月将RMPs降至$10B/mo",
+          "details": "Barclays认为美利率市场呈\"维持现状\"，预计美联储5月将RMPs降至$10B/mo。欧洲央行按兵不动，英国央行或更鹰派，推荐做多9月英欧利差（目标130bp）。日本3月国债投资降至4.4T日元，关注通胀风险溢价回升。美住房通胀下行风险增加，推荐1y1y vs 5y5y CPI互换陡峭化",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "预计TGA将在四周内下降$250-300B",
+          "details": "DB预计美国财政部一般账户（TGA）将迎来大规模季节性提取，将在未来四周内下降250-300B，推动银行准备金升至3.2T以上。此举将压低回购利率，预计美联储下月将把储备管理购买（RMP）放缓至15B/mo的稳态水平，资金市场有望延续平静格局",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "MS",
+        "BofA",
+        "Barclays",
+        "DB"
+      ],
+      "date": "2026-04-27",
+      "image_urls": []
+    },
+    {
+      "id": "kol-views-apr26",
+      "topic": "KOL观点汇总",
+      "topic_tag": "macro-other",
+      "title": "KOL观点：市场仓位、冲突预警、英特尔持股",
+      "summary": "tphuang推测中东冲突将在本周末再次爆发。Anna Wong指出美国政府通过持有英特尔9.9%股份获利$27B。Mark Ritchie II认为大多数多头仓位偏低。",
+      "bullets": [
+        {
+          "actor": "tphuang",
+          "actor_type": "KOL",
+          "text": "推测中东冲突将在本周末再次爆发",
+          "details": "tphuang称中国上次发出公民撤离伊朗通知，是警告伊朗即将面临攻击，但伊朗领导人没有足够谨慎，结果被杀害。基于此推测冲突将在本周末再次爆发",
+          "important": true
+        },
+        {
+          "actor": "@citrinowicz",
+          "actor_type": "KOL",
+          "text": "关键在于美国是否再次用军事压力迫使伊朗让步",
+          "details": "@citrinowicz称好像回到了26年2月，美国、伊朗和以色列都处于高度戒备状态，与此同时，各方正在做出重大努力，以达成一项能够防止局势进一步升级的协议；各方的立场根本没有改变，再加上最近发生的冲突，霍尔木兹海峡问题被推到了风口浪尖？认为关键还在于美国，是否会再次试图利用军事压力迫使伊朗在谈判中做出让步？或者，鉴于德黑兰显然认为自己占据上风，因此没有太多让步的动力，美国政府是否愿意在关键问题上做出妥协",
+          "important": false
+        },
+        {
+          "actor": "Anna Wong",
+          "actor_type": "KOL",
+          "text": "美国政府持有英特尔9.9%股份获利$27B",
+          "details": "Anna Wong称账面价值看，自去年8月以来，美国政府通过持有英特尔9.9%的股份获利27B",
+          "important": false
+        },
+        {
+          "actor": "Mark Ritchie II",
+          "actor_type": "KOL",
+          "text": "大多数多头仓位偏低，宏观空头在做空上涨",
+          "details": "Mark Ritchie II称我们经历了一波势不可挡的上涨行情，股价一路飙升至新高，之后一些股票开始形成柄状形态并逐渐回落。有多少人在这些形态中建立了大量仓位？我不得而知，如果历史经验可以借鉴，我的直觉告诉我，大多数多头的仓位都偏低，而且有很多宏观空头（目前都是霍尔木兹海峡和石油专家）正在做空这波上涨行情",
+          "important": false
+        },
+        {
+          "actor": "Musk",
+          "actor_type": "Corporate",
+          "text": "X Money金融服务工具预计本月推出",
+          "details": "Musk称他正接近实现将 X 平台打造成\"万能应用\"的目标，一款名为 X Money 的全新金融服务工具预计将于本月面向公众推出",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "INTC"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-04-27",
+      "image_urls": []
+    },
+    {
+      "id": "other-2026-04-27",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "其他零散信息",
+      "bullets": [
+        {
+          "actor": "分析师",
+          "actor_type": "Analyst",
+          "text": "[软件行业到期债务] 2027-2028年软件到期债务$164.7B为最脆弱期",
+          "details": "软件行业到期债务分析显示2027-2028 cohort is the most vulnerable。2026年$44.0B(Less than 4.5x: $28.7B, At least 4.5x: $10.1B, NM: $5.2B)；2027年$55.6B(Less than 4.5x: $38.0B, At least 4.5x: $9.9B, NM: $7.7B)；2028年$109.1B(Less than 4.5x: $41.5B, At least 4.5x: $43.3B, NM: $24.3B)；2029年$51.9B(Less than 4.5x: $32.6B, At least 4.5x: $13.9B, NM: $5.4B)；2030年$61.5B(Less than 4.5x: $29.0B, At least 4.5x: $23.3B, NM: $9.2B)",
+          "important": true
+        },
+        {
+          "actor": "PCPartPicker",
+          "actor_type": "新闻",
+          "text": "[DDR5内存价格] DDR5内存价格18个月从$200飙升至$900+",
+          "details": "PCPartPicker数据显示DDR5-5600 2x32GB平均价格在2024年11月至2025年9月期间维持在$200左右，之后开始急剧上涨，至2025年12月达到约$800，2026年初稳定在$900以上",
+          "important": true
+        }
+      ],
+      "tickers": [
+        "MU"
+      ],
+      "importance": 1,
+      "sources": [
+        "PCPartPicker"
+      ],
+      "date": "2026-04-27",
+      "image_urls": [
+        "/uploads/2026-04-27/067393ddb58f.jpg",
+        "/uploads/2026-04-27/e3866462ec3a.jpg"
+      ]
+    }
+  ]
+}

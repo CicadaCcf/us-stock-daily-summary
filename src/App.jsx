@@ -21,6 +21,7 @@ import {
   SPX_CLOSES_1Y,
   TRADING_DATES_1Y,
   MOVERS_NEWS,
+  SCREENER_FILTER,
 } from './data/index.js';
 import {
   LineChart, Line, XAxis, YAxis, Tooltip, Legend, ReferenceLine,
@@ -1022,10 +1023,21 @@ function AppBody() {
                 const ov = screenerEdits[s.tk] || {};
                 const industry = ov.industry ?? s.industry;
                 const reason   = ov.reason   ?? s.reason;
-                const isNewToday =
-                  s.days_remaining != null
-                  && s.initial_days != null
-                  && s.days_remaining === s.initial_days;
+                // "Fresh today" highlight: a row is highlighted iff it
+                // re-qualifies under the day's full screening criteria
+                // (market cap + dollar volume + |1d| or |1w| change). Computed
+                // at render time from the row's own numbers + the day's
+                // filter, so it works correctly for every date regardless of
+                // the days_remaining bookkeeping. Tickers on the list as a
+                // carryover (countdown ticking down) but not re-qualifying
+                // today stay un-highlighted. Per user: "新一交易日筛选出的
+                // ticker 都表亮，不管是不是上一次的".
+                const f = SCREENER_FILTER;
+                const mcOk = (s.market_cap_bn ?? 0) * 1e9 >= f.min_market_cap_usd;
+                const dvOk = (s.dollar_vol_bn  ?? 0) * 1e9 >= f.min_dollar_volume_usd;
+                const chOk = Math.abs(s.d1 ?? 0) >= f.min_d1_pct
+                          || Math.abs(s.w1 ?? 0) >= f.min_w1_pct;
+                const isNewToday = mcOk && dvOk && chOk;
                 return (
                   <tr
                     key={s.tk}

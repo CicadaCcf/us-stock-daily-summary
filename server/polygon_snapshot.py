@@ -210,6 +210,41 @@ def _get_yahoo_chart(symbol: str, range_: str = '1y', timeout: int = 30) -> dict
     with opener.open(req, timeout=timeout) as resp:
         return json.loads(resp.read().decode('utf-8'))
 
+def _yahoo_last_1h_close_on(symbol: str, target_date, timeout: int = 30) -> 'float | None':
+    """Fallback for Asia indices: when Yahoo's daily aggregation drops the
+    ref_date bar (close=None) we can usually still recover the close from the
+    1h-interval feed — the intraday data is there, only the daily roll-up
+    failed. Queries a small window around target_date and returns the last
+    non-null 1h close whose UTC date matches.
+    """
+    try:
+        from datetime import datetime as _dt, timezone as _tz, timedelta as _td
+        p1 = int(_dt(target_date.year, target_date.month, target_date.day, tzinfo=_tz.utc).timestamp()) - 86400
+        p2 = int((_dt(target_date.year, target_date.month, target_date.day, tzinfo=_tz.utc) + _td(days=1)).timestamp())
+        q = urllib.parse.quote(symbol, safe='')
+        url = (f'https://query1.finance.yahoo.com/v8/finance/chart/{q}'
+               f'?interval=1h&period1={p1}&period2={p2}&includePrePost=false')
+        opener = _opener()
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        with opener.open(req, timeout=timeout) as resp:
+            d = json.loads(resp.read().decode('utf-8'))
+        r = (d.get('chart') or {}).get('result') or []
+        if not r:
+            return None
+        ts = r[0].get('timestamp') or []
+        cs = (r[0].get('indicators', {}).get('quote') or [{}])[0].get('close') or []
+        last = None
+        target_iso = target_date.isoformat()
+        for t, c in zip(ts, cs):
+            if c is None:
+                continue
+            if datetime.fromtimestamp(t, tz=timezone.utc).date().isoformat() == target_iso:
+                last = c
+        return float(last) if last is not None else None
+    except Exception as e:
+        print(f'[warn] yahoo 1h fallback {symbol} failed: {e}')
+        return None
+
 # --- Ticker reference + Claude translation (Top Movers enrichment) ------
 
 def load_ticker_info() -> dict:
@@ -572,13 +607,37 @@ def main():
             # ref_date also guards against Asia markets' next-day close
             # leaking in when the snapshot runs later the same day.
             ref_iso = ref_date.isoformat()
-            closes_filtered = [
-                (i, c) for i, (t, c) in enumerate(zip(timestamps, closes))
+            # Build (timestamp, close) tuples filtered to ≤ ref_date in UTC.
+            # We keep timestamps now so the 1h-fallback below can append a
+            # synthetic bar in chronological order if needed.
+            bars = [
+                (t, c) for t, c in zip(timestamps, closes)
                 if c is not None
                    and datetime.fromtimestamp(t, tz=timezone.utc).date().isoformat() <= ref_iso
             ]
-            if not closes_filtered:
+            if not bars:
                 return None
+            # Yahoo's daily aggregation occasionally drops ref_date for Asia
+            # indices (returns close=None for that bar even though intraday
+            # data exists — observed for ^KS11/^N225/^STI/000300.SS on
+            # 2026-04-27). Detect that and recover the close from the 1h feed
+            # so the snapshot doesn't silently fall back to last week's data.
+            last_bar_date = datetime.fromtimestamp(bars[-1][0], tz=timezone.utc).date().isoformat()
+            if last_bar_date < ref_iso:
+                fallback = _yahoo_last_1h_close_on(sym, ref_date)
+                if fallback is not None:
+                    # Synthesize a daily-bar entry timestamped at the start of
+                    # ref_date in UTC. Used only for ordering; downstream code
+                    # only reads the close.
+                    synthetic_ts = int(datetime(
+                        ref_date.year, ref_date.month, ref_date.day,
+                        tzinfo=timezone.utc,
+                    ).timestamp())
+                    bars.append((synthetic_ts, fallback))
+                    print(f'[info] yahoo {sym}: 1h-fallback recovered {ref_iso} close={fallback}')
+                else:
+                    print(f'[warn] yahoo {sym}: missing {ref_iso} close, latest available is {last_bar_date}')
+            closes_filtered = [(i, c) for i, (_, c) in enumerate(bars)]
             price = closes_filtered[-1][1]
             # Pct move for each period: count back N trading bars (each bar is a trading day)
             def pct_back(n: int) -> 'float | None':
@@ -899,14 +958,20 @@ def main():
             industry = existing.get('industry', '')
         elif yest:
             initial = int(yest.get('initial_days') or 3)
-            # Day Remaining is now manually managed via the Supabase overlay
-            # (screener_edits.days_remaining) — the pipeline just carries
-            # yesterday's value forward. The editor decides when to drop a row
-            # by setting days_remaining to 0.
-            yest_dr = yest.get('days_remaining')
-            days_remaining = int(yest_dr) if yest_dr is not None else initial
-            if days_remaining <= 0:
-                continue  # off the list
+            if passes_full(tk):
+                # Re-qualified fresh today (passes full screening — mc + $vol +
+                # |1d| or |1w|). User's rule: "新一交易日筛选出的 ticker 都
+                # 表亮，不管是不是上一次的". Reset the countdown so the row
+                # reads as fresh, keeping dr aligned with the highlight rule.
+                days_remaining = initial
+            else:
+                # True carryover (still on the list via days_remaining countdown
+                # but didn't re-qualify today). Auto-decrement; drop at zero.
+                yest_dr = yest.get('days_remaining')
+                base = int(yest_dr) if yest_dr is not None else initial
+                days_remaining = base - 1
+                if days_remaining <= 0:
+                    continue  # countdown reached zero — drop off the list
             reason       = yest.get('reason', '')
             industry     = yest.get('industry', '')
         else:
