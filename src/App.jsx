@@ -1057,20 +1057,18 @@ function AppBody() {
                 const ov = screenerEdits[s.tk] || {};
                 const industry = ov.industry ?? s.industry;
                 const reason   = ov.reason   ?? s.reason;
-                // "Fresh today" highlight = ticker has a meaningful TODAY move,
-                // i.e. |d1| ≥ filter threshold (mcap + dollar-vol gates also
-                // apply). w1 is intentionally NOT a highlight signal: the
-                // rolling 7-day window keeps a big past move "alive" for days
-                // after it happened (e.g. a +50% Monday still shows w1≈+50%
-                // through Friday), producing visually stale highlights.
-                // The pipeline keeps (|d1|≥X OR |w1|≥Y) for *list inclusion*
-                // — w1 hits stay on the table as carryovers — but only fresh
-                // intraday moves get highlighted. Per user 2026-04-29: 选 "真
-                // 新动" — 要求当天 |d1|≥阈值，避免 w1 滚动窗口拖尾。
+                // "Fresh today" highlight = 今天 d1 涨幅 ≥ 阈值（正向涨幅，跌
+                // 不算）。Per user 2026-04-29: "只要涨幅大于15%就高亮"。
+                // w1 不参与高亮（7 天窗口会把旧涨幅一直拖着，产生视觉残影；
+                // 例如周一 +50% 周五还显示 w1≈+50%）。下跌不参与高亮（即使
+                // |d1|≥15）—— 这跟 pipeline 的 list inclusion 规则不同：
+                // pipeline 用 (|d1|≥X OR |w1|≥Y) 决定是否上榜，所以下跌大票
+                // 和 w1 拖尾依然会作为 carryover 留在表里，但只有当天**正向**
+                // 涨幅过阈值才高亮。
                 const f = SCREENER_FILTER;
                 const mcOk = (s.market_cap_bn ?? 0) * 1e9 >= f.min_market_cap_usd;
                 const dvOk = (s.dollar_vol_bn  ?? 0) * 1e9 >= f.min_dollar_volume_usd;
-                const chOk = Math.abs(s.d1 ?? 0) >= f.min_d1_pct;
+                const chOk = (s.d1 ?? 0) >= f.min_d1_pct;
                 const isNewToday = mcOk && dvOk && chOk;
                 return (
                   <tr
