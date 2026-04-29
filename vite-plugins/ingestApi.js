@@ -28,6 +28,13 @@ const REPO_ROOT = path.resolve(__dirname, '..');
 const DATA_DIR = path.join(REPO_ROOT, 'src', 'data');
 
 // --- Tool schemas (forced structured output) -----------------------------
+//
+// IMPORTANT: the EVENT_TOOL / MACRO_TOOL schemas and the SYS_EVENTS / SYS_MACRO
+// system prompts below are mirrored byte-for-byte in
+// server/notion_to_dashboard.py (used by the daily 08:10 BJT scheduled
+// ingest). If you edit prompts here, edit the Python copy too — drift will
+// break prompt-cache hits and produce subtly different classifications
+// between the manual /api/ingest path and the daily auto path.
 
 // Matches existing EVENTS shape in src/data/<date>/events.json
 const EVENT_TOOL = {

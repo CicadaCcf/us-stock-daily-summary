@@ -101,50 +101,84 @@ function useLightbox() { return useContext(LightboxCtx); }
 const fmtPct = (v) => v == null ? 'N/A' : (v >= 0 ? '+' : '') + v.toFixed(1) + '%';
 const pnClass = (v) => v == null ? '' : v >= 0 ? 'up' : 'down';
 
-// --- Finviz bubble map section: shows public/finviz_bubble.png if it exists,
-// otherwise a placeholder. The daily screenshot job is server/finviz_screenshot.py.
+// --- Finviz bubble map section: matches the upstream angran page —
+// per-date PNG screenshot embedded as a "webpage preview", with a click-
+// anywhere-to-open behavior that pops the live finviz.com/bubbles.ashx in a
+// new tab.
+//
+// Image source order:
+//   1. /archive/finviz/{CURRENT_DATE}.png  — per-date archive (never
+//      overwritten; preserves history for past daily reports)
+//   2. /finviz_bubble.png                  — legacy single-file location,
+//      kept as fallback so dates that pre-date the archive still render
+//   3. placeholder                         — no image, click-through still works
+//
+// The daily cron writes both #1 and #2 (server/finviz_screenshot.py).
 function FinvizBubble() {
-  const { open: openLightbox } = useLightbox();
-  const [imgOk, setImgOk] = useState(null); // null = untested, true/false after load
-  // Cache-busting param so each reload re-tests the latest screenshot
-  const src = `/finviz_bubble.png?v=${Date.now()}`;
+  const FINVIZ_URL = 'https://finviz.com/bubbles.ashx';
+  const [imgSrc, setImgSrc] = useState(null);
+
   useEffect(() => {
-    const img = new Image();
-    img.onload  = () => setImgOk(true);
-    img.onerror = () => setImgOk(false);
-    img.src = src;
-    return () => { img.onload = img.onerror = null; };
-    // eslint-disable-next-line react-hooks/exhaustive-deps
+    let cancelled = false;
+    const tryLoad = (url) => new Promise((resolve, reject) => {
+      const img = new Image();
+      img.onload = () => resolve(url);
+      img.onerror = () => reject(url);
+      img.src = url;
+    });
+    const archived = CURRENT_DATE ? `/archive/finviz/${CURRENT_DATE}.png` : null;
+    // Cache-bust the live file only — archives are immutable so the browser
+    // can keep them cached forever.
+    const legacy = `/finviz_bubble.png?v=${Date.now()}`;
+    (async () => {
+      try {
+        const url = archived ? await tryLoad(archived) : Promise.reject();
+        if (!cancelled) setImgSrc(url);
+      } catch {
+        try {
+          const url = await tryLoad(legacy);
+          if (!cancelled) setImgSrc(url);
+        } catch {
+          if (!cancelled) setImgSrc(null);
+        }
+      }
+    })();
+    return () => { cancelled = true; };
   }, []);
+
+  const openFinviz = () => window.open(FINVIZ_URL, '_blank', 'noopener,noreferrer');
   return (
     <div className="section">
       <div className="section-title">全市场气泡图 Finviz Bubble Map</div>
-      <div className="finviz-wrap">
-        {imgOk ? (
-          <button
-            type="button"
-            className="finviz-img-btn"
-            onClick={() => openLightbox(src)}
-            title="点击放大"
-          >
-            <img src={src} alt="Finviz bubble map" />
-          </button>
+      <div
+        className="finviz-wrap"
+        onClick={openFinviz}
+        style={{ position: 'relative', cursor: 'pointer' }}
+        title="点击新标签页打开今日 Finviz"
+      >
+        {imgSrc ? (
+          <img
+            src={imgSrc}
+            alt="Finviz bubble map"
+            style={{ width: '100%', display: 'block', minHeight: 200, objectFit: 'contain', background: '#0b0e17' }}
+          />
         ) : (
           <div className="finviz-placeholder">
-            <span>
-              气泡图占位 — 跑 <code>python server/finviz_screenshot.py</code> 自动截图，
-              或手工保存为 <code>public/finviz_bubble.png</code>
-            </span>
-            <a
-              href="https://finviz.com/bubbles.ashx"
-              target="_blank"
-              rel="noreferrer"
-              style={{ fontSize: 11, color: 'var(--blue)' }}
-            >
-              打开 Finviz ↗
-            </a>
+            <span>点击查看今日 Finviz Bubble Map（实时）</span>
           </div>
         )}
+        <div className="finviz-overlay">
+          <span>数据来源: Finviz.com · 点击在新标签页打开实时版</span>
+          <a
+            href={FINVIZ_URL}
+            target="_blank"
+            rel="noreferrer"
+            onClick={(e) => e.stopPropagation()}
+            style={{ color: 'var(--blue)' }}
+          >
+            打开 Finviz ↗
+          </a>
+        </div>
       </div>
     </div>
   );
@@ -1023,20 +1057,20 @@ function AppBody() {
                 const ov = screenerEdits[s.tk] || {};
                 const industry = ov.industry ?? s.industry;
                 const reason   = ov.reason   ?? s.reason;
-                // "Fresh today" highlight: a row is highlighted iff it
-                // re-qualifies under the day's full screening criteria
-                // (market cap + dollar volume + |1d| or |1w| change). Computed
-                // at render time from the row's own numbers + the day's
-                // filter, so it works correctly for every date regardless of
-                // the days_remaining bookkeeping. Tickers on the list as a
-                // carryover (countdown ticking down) but not re-qualifying
-                // today stay un-highlighted. Per user: "新一交易日筛选出的
-                // ticker 都表亮，不管是不是上一次的".
+                // "Fresh today" highlight = ticker has a meaningful TODAY move,
+                // i.e. |d1| ≥ filter threshold (mcap + dollar-vol gates also
+                // apply). w1 is intentionally NOT a highlight signal: the
+                // rolling 7-day window keeps a big past move "alive" for days
+                // after it happened (e.g. a +50% Monday still shows w1≈+50%
+                // through Friday), producing visually stale highlights.
+                // The pipeline keeps (|d1|≥X OR |w1|≥Y) for *list inclusion*
+                // — w1 hits stay on the table as carryovers — but only fresh
+                // intraday moves get highlighted. Per user 2026-04-29: 选 "真
+                // 新动" — 要求当天 |d1|≥阈值，避免 w1 滚动窗口拖尾。
                 const f = SCREENER_FILTER;
                 const mcOk = (s.market_cap_bn ?? 0) * 1e9 >= f.min_market_cap_usd;
                 const dvOk = (s.dollar_vol_bn  ?? 0) * 1e9 >= f.min_dollar_volume_usd;
-                const chOk = Math.abs(s.d1 ?? 0) >= f.min_d1_pct
-                          || Math.abs(s.w1 ?? 0) >= f.min_w1_pct;
+                const chOk = Math.abs(s.d1 ?? 0) >= f.min_d1_pct;
                 const isNewToday = mcOk && dvOk && chOk;
                 return (
                   <tr

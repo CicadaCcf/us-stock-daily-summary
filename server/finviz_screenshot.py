@@ -29,25 +29,47 @@ Dependencies:
 """
 
 import os
+import shutil
 import sys
 import time
 import argparse
 import asyncio
+from datetime import datetime
 from pathlib import Path
+
+try:
+    from zoneinfo import ZoneInfo
+except ImportError:  # py<3.9 fallback (we require 3.11+ but be defensive)
+    from backports.zoneinfo import ZoneInfo  # type: ignore
 
 ROOT = Path(__file__).resolve().parent.parent
 PUBLIC_DIR = ROOT / 'public'
+# Per-date archive — never overwritten so past daily reports keep their
+# original bubble map. New each trading day. Folder is created on first run.
+ARCHIVE_DIR = PUBLIC_DIR / 'archive' / 'finviz'
 
 # Default Finviz URL — user can override with --url
 DEFAULT_URL = 'https://finviz.com/bubbles.ashx'
 # Default CDP endpoint matches the Chrome launch arg above
 DEFAULT_CDP = 'http://localhost:9222'
-# Output path relative to project root
+# Output path relative to project root (latest, always overwritten)
 DEFAULT_OUT = 'public/finviz_bubble.png'
 
 
+def trading_date_ny() -> str:
+    """Today's date in America/New_York. Caller stamps this onto the archive
+    filename so each daily run preserves a permanent copy under
+    public/archive/finviz/{YYYY-MM-DD}.png. Weekends still get stamped — if
+    you accidentally run the script on a Saturday it'll overwrite Friday's
+    archive only if you also pass --date Friday's-iso, otherwise it lands in
+    a Saturday-named file you can delete."""
+    return datetime.now(ZoneInfo('America/New_York')).date().isoformat()
+
+
 async def run(cdp_url: str, target_url: str, out_path: Path,
-              wait_seconds: float, viewport: tuple, crop: bool):
+              wait_seconds: float, viewport: tuple, crop: bool,
+              archive_path=None):  # archive_path: Path | None — written as untyped
+                                    # to keep py3.9 compat (PEP 604 needs 3.10+)
     try:
         from playwright.async_api import async_playwright
     except ImportError:
@@ -100,6 +122,13 @@ async def run(cdp_url: str, target_url: str, out_path: Path,
 
             size = out_path.stat().st_size
             print(f'[info] wrote {out_path} ({size:,} bytes)')
+
+            # Mirror to per-date archive so historical daily reports keep their
+            # original bubble map even after future runs overwrite the live PNG.
+            if archive_path is not None:
+                archive_path.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(out_path, archive_path)
+                print(f'[info] archived to {archive_path}')
         finally:
             await page.close()
             # Don't close the browser — it's the user's Chrome.
@@ -115,9 +144,19 @@ def main():
     parser.add_argument('--width', type=int, default=1600, help='Viewport width')
     parser.add_argument('--height', type=int, default=1000, help='Viewport height')
     parser.add_argument('--full-page', action='store_true', help='Screenshot full page instead of just canvas')
+    parser.add_argument('--date', default=None,
+                        help='Trading date for archive filename (YYYY-MM-DD). '
+                             'Default: today in America/New_York. Pass --no-archive to skip.')
+    parser.add_argument('--no-archive', action='store_true',
+                        help='Skip writing the per-date archive copy')
     args = parser.parse_args()
 
     out_path = ROOT / args.out if not os.path.isabs(args.out) else Path(args.out)
+
+    archive_path = None
+    if not args.no_archive:
+        date_str = args.date or trading_date_ny()
+        archive_path = ARCHIVE_DIR / f'{date_str}.png'
 
     asyncio.run(run(
         cdp_url=args.cdp,
@@ -126,6 +165,7 @@ def main():
         wait_seconds=args.wait,
         viewport=(args.width, args.height),
         crop=not args.full_page,
+        archive_path=archive_path,
     ))
 
 

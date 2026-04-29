@@ -1,0 +1,485 @@
+{
+  "topics": [
+    {
+      "id": "iran-hormuz-crisis-apr28",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊霍尔木兹海峡危机持续，特朗普对伊朗提议不满",
+      "summary": "特朗普对伊朗重开霍尔木兹海峡的提议表示不满，质疑伊朗诚意及是否愿意停止铀浓缩。伊朗面临严峻经济压力，安全机构评估认为经济无法承受超过6-8周的海上封锁。高盛大幅上调油价预测，市场从2025年1.8mb/d盈余急转为2026Q2创纪录的9.6mb/d赤字。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "对伊朗最新提出的重开霍尔木兹海峡并结束战争方案\"不满意\"",
+          "details": "特朗普对伊朗最新提出的重开霍尔木兹海峡并结束战争的方案\"不满意\"。特朗普和国家安全团队对伊朗的最新提议持怀疑态度，没有直接拒绝该提议，但质疑伊朗是否出于诚意，以及是否愿意满足他的关键要求，即停止铀浓缩活动并承诺不发展核武器",
+          "important": true
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ报道美国对伊朗协议持怀疑态度，预计数日内给出反提议",
+          "details": "WSJ报道美国方面对伊朗提出的协议持怀疑态度，该协议内容包括重开霍尔木兹海峡，并将就其核计划的讨论推迟到以后。虽然特朗普并未直接否决该提议，但官员们称，他强调伊朗过去缺乏诚信、且不大可能同意其关键要求——停止铀浓缩并承诺永不制造核武器。官员表示，美国将继续与伊朗谈判，白宫预计将在未来几天给出回应和反提议方案",
+          "important": false
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "阻止伊朗获核武器是核心问题，霍尔木兹海峡是伊朗\"经济核武器\"",
+          "details": "阻止伊朗获得核武器仍然是核心问题，这是造成当前局势的根源；霍尔木兹海峡是伊朗试图用来对付世界的\"经济核武器\"，伊朗不能成为海峡非法、不正当且不合理的收费和管制制度的唯一受益者",
+          "important": false
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "政权更迭须来自伊朗内部，质疑提议官员是否有执行权限",
+          "details": "政权更迭必须来自伊朗内部，提出伊朗最新提议的官员是否有权执行该提议？美国没有证据表明Mojtaba已经去世，他是否真的在做决定，还是有人代替他掌控着90%的权力，并代表他做出实际决定？我们不得而知",
+          "important": false
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "与伊朗的直接沟通非常罕见，需通过中间人",
+          "details": "与伊朗的直接沟通非常罕见且谨慎；从未与伊朗外交部长交谈过；伊朗的提议超出预期；与伊朗的直接沟通需通过一到两名中间人。以色列和黎巴嫩都寻求彼此和平，两国都是真主党的受害者",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "伊朗接下来将面临汽油短缺，与伊朗航空打交道存在制裁风险",
+          "details": "伊朗接下来将面临汽油短缺；与伊朗航空公司打交道存在制裁风险",
+          "important": false
+        },
+        {
+          "actor": "伊朗外长",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗外长指责美国\"破坏性习惯\"和\"不合理要求\"阻碍外交",
+          "details": "伊朗外长告诉俄罗斯总统普京，美国的\"破坏性习惯\"、\"不合理要求\"和频繁的立场转变正在阻碍外交进展。伊朗外长表示，特朗普要求进行谈判是因为美国尚未实现任何目标，我们正在研究这一要求",
+          "important": false
+        },
+        {
+          "actor": "伊朗消息人士",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗安全机构评估：经济无法承受超过6-8周海上封锁",
+          "details": "伊朗消息人士称，安全机构评估认为，经济危机和普遍失业很快将演变成该政权的严重问题，伊朗经济无法承受超过6-8wk的海上封锁",
+          "important": false
+        },
+        {
+          "actor": "Leavitt",
+          "actor_type": "US-Executive",
+          "text": "特朗普今天与团队讨论伊朗提议，很快将发表讲话",
+          "details": "特朗普今天与团队讨论了伊朗的提议，不愿透露美国是否正在考虑伊朗的提议，很快将听到特朗普关于伊朗的讲话",
+          "important": false
+        },
+        {
+          "actor": "霍尔木兹海峡",
+          "actor_type": "Unknown",
+          "text": "日度通行：4/27-4/28共6艘，2艘出湾Tanker未绕行",
+          "details": "【日度通行】4/27 17:30 - 4/28 17:30 共6艘，其中2艘出湾的Tanker均未绕行出湾",
+          "important": false
+        },
+        {
+          "actor": "Rory Johnston",
+          "actor_type": "KOL",
+          "text": "继续封锁2个多月将对伊朗能源产业造成重大长期损害",
+          "details": "一些政府官员认为，继续封锁2个多月将对德黑兰的能源产业造成重大的长期损害",
+          "important": false
+        },
+        {
+          "actor": "Campbell",
+          "actor_type": "KOL",
+          "text": "简化看伊朗让步关键是霍尔木兹海峡通行和铀浓缩问题",
+          "details": "简化看伊朗是否让步就是hormuz海峡通行问题和铀浓缩",
+          "important": false
+        },
+        {
+          "actor": "英国财政大臣里夫斯",
+          "actor_type": "Foreign-Gov",
+          "text": "英国考虑冻结租金以遏制伊朗战争的后续影响",
+          "details": "英国财政大臣里夫斯考虑冻结租金以遏制伊朗战争的后续影响",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-04-28",
+      "image_urls": []
+    },
+    {
+      "id": "oil-supply-demand-apr28",
+      "topic": "原油供需与油价",
+      "topic_tag": "oil",
+      "title": "高盛大幅上调油价预测，全球库存创纪录下降",
+      "summary": "高盛将2026Q4 Brent/WTI预测从$80/75大幅上调至$90/83，主要因霍尔木兹海峡中断导致海湾产量大幅下降。市场从2025年1.8mb/d盈余急转为2026Q2创纪录9.6mb/d赤字，全球库存以11-12mb/d创纪录速度下降。伊朗库存仅剩12-22天，沙特可能下调6月亚洲OSP。",
+      "bullets": [
+        {
+          "actor": "GS Oil",
+          "actor_type": "Analyst",
+          "text": "高盛将2026Q4 Brent/WTI从$80/75上调至$90/83",
+          "details": "将2026年四季度Brent/WTI油价预测从$80/75大幅上调至$90/83，主要原因是波斯湾原油产量因霍尔木兹海峡中断而大幅下降。现假设海湾出口将于6月底前恢复正常（此前假设为5月中旬），且产量恢复速度更慢。经济风险大于原油基准情景所暗示的水平，因为油价存在净上行风险、成品油价格异常高企、存在产品短缺风险，且库存下降速度史无前例。基准情景下，市场从2025年1.8mb/d的盈余急转为2026Q2创纪录的9.6mb/d赤字，全球库存以11-12mb/d的创纪录速度下降",
+          "important": true
+        },
+        {
+          "actor": "Kpler",
+          "actor_type": "Analyst",
+          "text": "伊朗库存仅剩12-22天，4月出口仍有望达1.4mb/d",
+          "details": "根据伊朗持续的出口能力，伊朗的库存还剩下12-22d。出口量下降了500k b/d，但伊朗目前有望在4月份实现至少1.4m b/d的出口量。经济上的打击需要几个月的时间才会显现",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "伊朗急寻新储油方式，重启废旧储油设施并尝试铁路运输至中国",
+          "details": "WSJ报道由于美国海军封锁导致伊朗石油出口受阻、且结束战争的谈判陷入僵局，伊朗正急于寻找新的石油储存方式，以避免因储存空间见顶而被迫大幅减产。伊朗正重启被称为\"废旧储油\"的闲置设施，使用临时改装的储存容器，并尝试通过铁路向中国运输原油",
+          "important": false
+        },
+        {
+          "actor": "路透",
+          "actor_type": "新闻",
+          "text": "沙特可能将6月亚洲OSP从纪录高位下调",
+          "details": "RTRS报道随着现货溢价回落、且在美以对伊战争导致的供应中断数周之后需求转弱，沙特阿拉伯可能会将6月面向亚洲的官方原油售价（OSP）从纪录高位下调",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        2,
+        3
+      ],
+      "importance": 3,
+      "sources": [
+        "Goldman Sachs",
+        "Kpler",
+        "WSJ",
+        "Reuters"
+      ],
+      "date": "2026-04-28",
+      "image_urls": [
+        "/uploads/2026-04-28/177fa23c4dc7.png",
+        "/uploads/2026-04-28/42b2595c6097.png",
+        "/uploads/2026-04-28/4d1f4685ff58.png"
+      ]
+    },
+    {
+      "id": "us-labor-immigration-apr28",
+      "topic": "美国劳动力与移民",
+      "topic_tag": "macro-other",
+      "title": "美国薪资增长回升，净移民大幅放缓",
+      "summary": "Apollo数据显示跳槽者薪资增长开始回升。CBO预测美国净移民将从2023年高峰3.4mn大幅降至2025年0.4mn。BofA数据显示标普500成分股员工数2025年首次下降至2810万，为2016年以来首次。",
+      "bullets": [
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "薪资增长开始回升，跳槽者尤为明显",
+          "details": "Wage growth starting to rise, in particular for job switchers. 数据来源：Federal Reserve Bank of Atlanta, Macrobond, Apollo Chief Economist",
+          "important": true
+        },
+        {
+          "actor": "CBO",
+          "actor_type": "US-Congress",
+          "text": "美国净移民预计从2023年3.4mn降至2025年0.4mn",
+          "details": "Net immigration slowing dramatically. 美国净移民：2022年2.9mn，2023年3.4mn，2024年2.8mn；CBO预测：2025年0.4mn，2026年0.6mn，2027年0.7mn。来源：An Update to the Demographic Outlook, 2025 to 2055 | Congressional Budget Office, Apollo Chief Economist",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "标普500员工数2025年首次下降至2810万，2016年以来首次",
+          "details": "S&P 500 employees fell in 2025, first time since 2016. 标普500员工数从1990年16.7mn增长至2024年峰值后，2025年降至28.1mn。来源：BofA Global Investment Strategy, Bloomberg",
+          "important": false
+        },
+        {
+          "actor": "Erine",
+          "actor_type": "KOL",
+          "text": "AI对劳动力影响：招聘减少而非解雇增加，经济衰退或改变",
+          "details": "虽然AI对劳动力市场的影响仍存在很大的不确定性（而且为时尚早），但迄今为止的证据更倾向于招聘人数减少而非解雇人数增加（但随着经济衰退的加剧，这种情况可能会改变）",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        4
+      ],
+      "importance": 2,
+      "sources": [
+        "Apollo",
+        "CBO",
+        "BofA",
+        "Bloomberg"
+      ],
+      "date": "2026-04-28",
+      "image_urls": [
+        "/uploads/2026-04-28/3a098c3c632c.png",
+        "/uploads/2026-04-28/b61795005398.jpg"
+      ]
+    },
+    {
+      "id": "us-fiscal-tariffs-apr28",
+      "topic": "美国财政与关税",
+      "topic_tag": "policy",
+      "title": "IEEPA关税退款启动，FY26赤字预测上调至$1.98T",
+      "summary": "JPM分析显示CBP已启动IEEPA关税退款程序，预计约75%的$166B关税将被退还。FY26联邦赤字预测从$1.875T上调至$1.98T，关税总收入预期从近$400B下调至$325B。",
+      "bullets": [
+        {
+          "actor": "JPM Abiel Reinhart",
+          "actor_type": "Analyst",
+          "text": "IEEPA关税退款启动，FY26赤字预测上调至$1.98T",
+          "details": "CBP已启动IEEPA关税退款的第一阶段程序。通过更新的ACE门户中的CAPE功能，进口商或其报关行只需提供入境号码列表即可申请退款，无需采取法律行动。第一阶段涵盖某些预估关税及2026年1月30日后最终确定的关税。鉴于最高法院已裁定IEEPA违宪，此前收集的$166B关税中，目前已有5.6万名进口商完成电子退款登记，涉及本金$127B",
+          "important": true
+        },
+        {
+          "actor": "JPM Abiel Reinhart",
+          "actor_type": "Analyst",
+          "text": "预计75%的$166B关税将被退还，FY26关税收入下调至$325B",
+          "details": "考虑到退款的不确定性及时间分布，假设最终约75%的$166B关税将被退还。其中超过$30B将在FY26退还，其余900多亿美元将在FY27退还。由于退款及部分关税税率在7月前不会恢复至IEEPA水平，FY26联邦赤字预测从$1.875T上调至1.98T，同时将FY26关税总收入预期从近$400B下调至$325B",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "敦促众院共和党通过预算蓝图，设6月1日最终法案期限",
+          "details": "特朗普敦促众议院共和党人团结一致，通过预算蓝图，以结束国土安全部自2月14日以来持续的停摆，并为移民和海关执法局（ICE）和边境巡逻队提供全额资金，绕过参议院的民主党人；他设定最终法案提交到他办公桌的最后期限是6月1日",
+          "important": false
+        },
+        {
+          "actor": "加州进步派",
+          "actor_type": "Unknown",
+          "text": "加州将就对$1B以上财富征收5%一次性税公投",
+          "details": "进步派宣布已收集到足够多的签名，可以将一项财富税公投列入11月的选票，将对拥有超过1B财富的个人征收一次性5%的税",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "JPMorgan"
+      ],
+      "date": "2026-04-28",
+      "image_urls": []
+    },
+    {
+      "id": "fed-rates-apr28",
+      "topic": "美联储与货币政策",
+      "topic_tag": "fed",
+      "title": "高盛预测美联储4月维持利率不变，9月12月各降息25bp",
+      "summary": "高盛预测美联储4月会议维持利率不变，受伊朗战争不确定性影响将重申观望立场。高盛比市场更鸽派，预计9月和12月各降息25bp，认为加息可能性极小。新主席Warsh政策观点与鲍威尔相似。",
+      "bullets": [
+        {
+          "actor": "GS Fed",
+          "actor_type": "Analyst",
+          "text": "高盛预测4月维持利率不变，9月12月各降息25bp",
+          "details": "预测美联储4月会议将维持利率不变。受伊朗战争不确定性影响，FOMC将重申观望立场。尽管通胀高企，高盛仍比市场更鸽派，预计9月和12月各降息25bp，认为加息可能性极小。新主席Warsh的政策观点被认为与鲍威尔相似，过渡影响有限",
+          "important": true
+        },
+        {
+          "actor": "Nick",
+          "actor_type": "KOL",
+          "text": "Powell的底线可能比他自己高，或希望再待几个月",
+          "details": "只剩下最后一个剧情线：Powell是留下还是离开？Tills暗示Powell的底线可能比他自己高，这意味着Powell可能希望再待几个月，直到调查完全结束",
+          "important": false
+        },
+        {
+          "actor": "Mike Konzcal",
+          "actor_type": "KOL",
+          "text": "Warsh关注trimmed inflation指标值得注意，此指标曾误导市场",
+          "details": "Warsh选择重点关注trimmed inflation指标就显得格外值得注意。首先，它恰好是所有指标中最低的。第二，这基本上是过去六年里最糟糕的教训，它误导了很多人，让他们走向不同的方向",
+          "important": false
+        },
+        {
+          "actor": "BofA Catalyst",
+          "actor_type": "Analyst",
+          "text": "BofA预计Fed维持利率不变但措辞鹰派",
+          "details": "本周市场聚焦FOMC会议及科技巨头财报。预计Fed维持利率不变但措辞鹰派",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs",
+        "BofA"
+      ],
+      "date": "2026-04-28",
+      "image_urls": []
+    },
+    {
+      "id": "ai-macro-apr28",
+      "topic": "AI行业宏观",
+      "topic_tag": "ai",
+      "title": "AI支出增长预期分歧大，数据中心面临55GW电力短缺",
+      "summary": "摩根士丹利指出市场对2027年AI支出增长共识预期5-6%远低于其22%预测。美国DC面临55GW电力短缺。预计2026年投资级AI相关债务发行量约$400B。OpenAI CFO担忧若收入增长不够快或无法支付未来算力合同。",
+      "bullets": [
+        {
+          "actor": "MS Vishwanath Tirupattur",
+          "actor_type": "Analyst",
+          "text": "市场对27年AI支出增长共识5-6%，远低于MS预测22%",
+          "details": "市场对27年AI支出增长的共识预期5-6%远低于MS的预测22%",
+          "important": true
+        },
+        {
+          "actor": "MS Vishwanath Tirupattur",
+          "actor_type": "Analyst",
+          "text": "美国DC面临55GW电力短缺，离网电力方案成信贷关注点",
+          "details": "美国DC面临55GW的电力短缺，离网电力解决方案（燃料电池、储能等）将成为信贷市场关注的重点",
+          "important": false
+        },
+        {
+          "actor": "MS Vishwanath Tirupattur",
+          "actor_type": "Analyst",
+          "text": "预计2026年投资级AI相关债务发行量约$400B",
+          "details": "AIDC的融资不再局限于IG无担保债券，已扩展至HY债券、杠杆贷款及私募信贷。结构化创新受到投资者欢迎。预计2026年投资级AI相关债务发行量约为$400B",
+          "important": false
+        },
+        {
+          "actor": "MS Vishwanath Tirupattur",
+          "actor_type": "Analyst",
+          "text": "标普成分股提及AI量化影响比例从25Q1的13%升至26Q1的25%",
+          "details": "SPX成分股中，提及AI带来量化影响的公司比例从25Q1的13%上升至26Q1的25%",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "OpenAI CFO担忧收入增长不够快或无法支付未来算力合同",
+          "details": "WSJ报道OpenAI首席财务官Sarah Friar在与公司其他高层的交流中表示，如果收入增长不够快，她担心公司可能无法支付未来的算力合同费用。报道还指出公司在用户增长等方面未能达到内部目标，而CEO Altman正在推动在内部存在分歧的情况下加快IPO时间表",
+          "important": false
+        },
+        {
+          "actor": "杰弗里斯",
+          "actor_type": "US-Congress",
+          "text": "民主党若重夺众院将聚焦AI消费者保护，防止电力成本转嫁",
+          "details": "少数党领袖杰弗里斯周一表示，如果民主党重新赢得众议院多数地位，其人工智能议程的重点之一将是保护消费者，避免数据中心热潮推高的电力成本向居民转嫁",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Morgan Stanley",
+        "WSJ"
+      ],
+      "date": "2026-04-28",
+      "image_urls": []
+    },
+    {
+      "id": "private-credit-apr28",
+      "topic": "私人信贷市场",
+      "topic_tag": "macro-other",
+      "title": "高盛：私人信贷不会引发系统性风险，软件板块或现15%违约率",
+      "summary": "高盛认为私人信贷市场不会引发类似2008年的系统性风险，杠杆远低于GFC时期。但悲观派预测2027-2029年软件板块将出现15%峰值违约率。上市BDC较NAV折价约20%，非上市BDC在2026Q1遭遇显著赎回。",
+      "bullets": [
+        {
+          "actor": "GS TOM",
+          "actor_type": "Analyst",
+          "text": "私人信贷不会引发GFC式系统性风险，杠杆仅0-2倍",
+          "details": "尽管私人信贷市场目前面临违约上升和赎回压力，但不会引发类似2008年金融危机（GFC）的系统性风险。私人信贷基金的杠杆通常在0-2倍，远低于GFC时期银行高达32倍的杠杆。资金多为长期锁定，零售端的非上市BDC设有赎回上限（通常每季度5%），防止了\"银行挤兑\"式的抛售。私人信贷之间缺乏复杂的衍生品嵌套，损失主要由基金投资者承担，而非银行体系",
+          "important": true
+        },
+        {
+          "actor": "GS TOM",
+          "actor_type": "Analyst",
+          "text": "悲观派预测软件板块2027-2029年峰值违约率15%",
+          "details": "分歧点在于私人信贷市场中约有23%（前十大贷款人甚至达到26%）的资金投向了软件行业。悲观派认为软件行业杠杆极高（8-10倍EBITDA），且极易受到AI技术的颠覆。他预测2027-2029年软件板块将出现15%的峰值违约率，回收率可能仅为0-30%",
+          "important": false
+        },
+        {
+          "actor": "GS TOM",
+          "actor_type": "Analyst",
+          "text": "上市BDC较NAV折价约20%，非上市BDC触发赎回门槛",
+          "details": "公开上市的BDC股价较NAV有约20%的折价，反映了市场对未来回报和违约的担忧，非上市BDC（Evergreen型）在2026年Q1遭遇了显著的赎回请求，导致多数基金触发了5%的\"赎回门槛\"，虽然\"坏的PIK\"（因财务压力）有所增加，但目前总额仍低于2020年的峰值",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs"
+      ],
+      "date": "2026-04-28",
+      "image_urls": []
+    },
+    {
+      "id": "market-outlook-apr28",
+      "topic": "市场观点与展望",
+      "topic_tag": "macro-other",
+      "title": "BofA看好科技巨头财报，警告AI板块泡沫迹象",
+      "summary": "BofA看好微软、亚马逊、Meta、Alphabet、苹果业绩超预期，AI驱动增长强劲。同时警告AI板块现泡沫迹象，纳指波动率近25%，建议利用QQQ及VIX期权对冲尾部风险。Erian指出局部价格冲击已演变为更广泛通胀。",
+      "bullets": [
+        {
+          "actor": "BofA Catalyst",
+          "actor_type": "Analyst",
+          "text": "BofA看好MSFT/AMZN/META/GOOGL/AAPL业绩超预期",
+          "details": "看好微软、亚马逊、Meta、Alphabet、苹果业绩超预期，AI驱动增长强劲。同时警告AI板块现泡沫迹象，纳指波动率近25%，建议利用QQQ及VIX期权对冲尾部风险",
+          "important": true
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "KOL",
+          "text": "局部价格冲击已演变为更广泛通胀，需求萎缩迹象显现",
+          "details": "最初只是局部的价格冲击（能源和借贷成本），如今已演变为更广泛的通胀现象。与此同时，需求萎缩（经济增长放缓）的迹象也开始显现。如果战争持续陷入僵局，或者更糟的是，战争再次升级，那么这一进程的下一阶段很可能还会包括对金融不稳定的担忧急剧上升",
+          "important": false
+        },
+        {
+          "actor": "Lord Fed",
+          "actor_type": "KOL",
+          "text": "空头挤压行情已走完，应转为防御防止利润回撤",
+          "details": "这一波由\"空头挤压\"带动的上涨行情已基本走完，目前应转为防御，防止利润回撤",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MSFT",
+        "AMZN",
+        "META",
+        "GOOGL",
+        "AAPL",
+        "QQQ"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "BofA"
+      ],
+      "date": "2026-04-28",
+      "image_urls": []
+    },
+    {
+      "id": "other-apr28",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "Hegseth面临参议院共和党人质疑",
+      "summary": "国防部长Hegseth与国会多个委员会会面，据称参议院共和党人对其失去信心，担忧主要集中在五角大楼的动荡局势上，但最终决定权在Trump手中。",
+      "bullets": [
+        {
+          "actor": "Hegseth",
+          "actor_type": "US-Executive",
+          "text": "Hegseth与国会军事委员会会面，参议院共和党人对其失去信心",
+          "details": "Hegseth与参议院军事委员会、众议院军事委员会和国防拨款委员会的主席及资深成员会面，据称参议院共和党人对其失去信心；一些人认为他今天不会获得确认，应该\"另谋出路\"，但最终决定权在Trump手中；担忧主要集中在五角大楼的动荡局势上",
+          "important": true
+        },
+        {
+          "actor": "Hegseth",
+          "actor_type": "US-Executive",
+          "text": "部分共和党人认为Hegseth应\"另谋出路\"",
+          "details": "一些人认为他今天不会获得确认，应该\"另谋出路\"，但最终决定权在Trump手中",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-04-28",
+      "image_urls": []
+    }
+  ]
+}

@@ -81,25 +81,33 @@ a { color: var(--blue); text-decoration: none; }
 .sector-pct { width: calc(55 * var(--sc)); font-size: calc(12 * var(--sc)); font-weight: 600; flex-shrink: 0; text-align: right; }
 .sector-extra { font-size: calc(10 * var(--sc)); color: var(--text-dim); width: calc(100 * var(--sc)); flex-shrink: 0; text-align: right; }
 
-/* Finviz bubble map display */
+/* Finviz bubble map: image preview embedded in the page; clicking the wrap
+   opens the live finviz.com/bubbles.ashx in a new tab. Finviz blocks iframes
+   (X-Frame-Options: SAMEORIGIN), so the daily PNG snapshot is the closest
+   "embedded webpage view" we can render without violating their headers. */
 .finviz-wrap {
   background: var(--card); border: 1px solid var(--border);
   border-radius: 8px; overflow: hidden;
+  transition: border-color 0.15s ease;
 }
-.finviz-img-btn {
-  display: block; width: 100%; padding: 0; border: 0;
-  background: transparent; cursor: zoom-in;
-}
-.finviz-img-btn img { display: block; width: 100%; height: auto; }
+.finviz-wrap:hover { border-color: var(--blue); }
 .finviz-placeholder {
-  display: flex; align-items: center; justify-content: space-between;
-  padding: calc(20 * var(--sc)) calc(16 * var(--sc)); gap: calc(12 * var(--sc));
-  font-size: calc(12 * var(--sc)); color: var(--text-dim);
+  display: flex; align-items: center; justify-content: center;
+  min-height: calc(180 * var(--sc));
+  padding: calc(20 * var(--sc));
+  color: var(--text-dim); font-size: calc(13 * var(--sc));
+  background: #0b0e17;
 }
-.finviz-placeholder code {
-  color: var(--gold); background: var(--bg);
-  padding: 1px 5px; border-radius: 3px; font-size: calc(11 * var(--sc));
+.finviz-overlay {
+  position: absolute; left: 0; right: 0; bottom: 0;
+  padding: calc(6 * var(--sc)) calc(12 * var(--sc));
+  background: linear-gradient(transparent, rgba(22, 33, 62, 0.95));
+  display: flex; justify-content: space-between; align-items: center;
+  font-size: calc(11 * var(--sc)); color: var(--text-dim);
+  pointer-events: none;
 }
+.finviz-overlay a { pointer-events: auto; text-decoration: none; }
+.finviz-overlay a:hover { text-decoration: underline; }
 
 /* Combined sector trend chart layout */
 .sector-trend-wrap {

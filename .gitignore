@@ -15,6 +15,10 @@ dist-ssr
 # 1Y close-price cache — regenerable via server/bootstrap_cache.py (~20 MB)
 server/cache/
 
+# Daily-pipeline archives — alphapai raw JSON + per-BJT-day publish markers.
+# Re-fetchable from alphapai if needed; not part of the source tree.
+data_archive/
+
 # Claude Code local state — contains raw bash cache that may include secrets
 .claude/settings.local.json
 
