@@ -37,7 +37,12 @@ const MODEL_OPTIONS = [
 ];
 
 const MODEL_LS_KEY = '__ingest_model_override';
-const HARD_TIMEOUT_MS = 240000; // 4 min
+// Frontend timeout for /api/ingest. Pushed to 10 min to accommodate macro
+// classifies with many images (Opus 4.5 vision can take 4-6 min for 8+
+// images, plus prompt-cache misses on first call of the day add ~30s).
+// The Anthropic SDK's own default timeout is also 10 min, so this matches.
+// Per user 2026-04-29: classify timing out on image-heavy macro paste.
+const HARD_TIMEOUT_MS = 600000; // 10 min
 
 async function fileToBase64(file) {
   const buf = await file.arrayBuffer();

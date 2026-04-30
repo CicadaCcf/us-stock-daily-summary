@@ -1,0 +1,498 @@
+{
+  "topics": [
+    {
+      "id": "iran-us-hormuz-crisis-apr29",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "Trump准备长期封锁伊朗，伊朗经济崩溃求开放海峡",
+      "summary": "WSJ报道Trump已指示助手准备对伊朗实施长期封锁，坚持伊朗至少20年暂停核浓缩。伊朗通知美方其处于\"崩溃状态\"，希望重开霍尔木兹海峡。伊朗经济严峻，200万人失业，年通胀67%，重建费用高达2700亿美元。美国情报机构正评估伊朗可能反应。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "WSJ：Trump已指示助手准备对伊朗长期封锁，迫使核让步",
+          "details": "WSJ援引美方官员消息报道称，Trump已指示助手\"准备对伊朗实施长期封锁\"，旨在迫使伊朗做出\"核让步\"。美方官员称，在近期的会议，包括4/26在战情室的一次讨论中，Trump选择继续通过阻止进出伊朗港口的航运来挤压其经济和石油出口。他评估认为，其他选择——恢复轰炸或从冲突中抽身——都比维持封锁风险更大",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "伊朗通知美方其处于\"崩溃状态\"，希望尽快开放霍尔木兹海峡",
+          "details": "伊朗刚刚通知我们，他们正处于\"崩溃状态\"。他们希望我们尽快\"开放霍尔木兹海峡\"，以便他们能够尽快解决领导层问题（我相信他们能够做到！）",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump称美国已军事击败伊朗，伊朗可能接受临时协议结束封锁",
+          "details": "美国已在军事上击败伊朗，伊朗希望重新开放霍尔木兹海峡，并可能接受一项临时协议，以结束美国对伊朗的海上封锁，同时更广泛的结束战争谈判仍在继续",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump批德国总理梅尔茨：伊朗拥核将使全球被扣为人质",
+          "details": "德国总理梅尔茨认为伊朗拥有核武器是正常的。他不知道他在说什么!如果伊朗拥有核武器，整个世界都将被扣为人质。我正在对伊朗做着其他国家或总统早就应该做的事情。德国在经济和其它方面表现不佳",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump会见石油公司高管讨论伊朗战争影响",
+          "details": "会见石油公司高管，讨论伊朗战争的影响",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump称伊朗理不清自己的事，不知如何签非核协议",
+          "details": "伊朗就是理不清他们自己的事。他们根本不知道该如何签署一份非核协议（nonnuclear deal）。他们最好尽快聪明一点",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ：美方坚持伊朗至少20年暂停核浓缩并持续限制",
+          "details": "WSJ报道当前并不愿放弃其最低要求，即伊朗必须承诺至少20年暂停核浓缩活动，并在此之后接受持续限制",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ：伊朗200万人失业，年通胀67%，重建费用达2700亿美元",
+          "details": "WSJ报道伊朗经济严峻，25M人口中1M因为战争直接失业，1M间接失业，截至4月中旬，年通货膨胀率已达67%。基本生活物资如红肉，的价格已超出大多数人的承受能力，由于原材料（如钢铁）短缺和电力限制，从制造业到零售业的各类企业纷纷倒闭。互联网长期关停也沉重打击了在线业务；据估计，伊朗战争重建费用可能高达270B，而伊朗去年的GDP仅为34B；美国赌伊朗会因经济崩溃而屈服。伊朗赌：美国会因全球油价上涨压力而先解除封锁",
+          "important": false
+        },
+        {
+          "actor": "CNN",
+          "actor_type": "新闻",
+          "text": "CNN：伊朗预计很快将提交经修订的和平方案",
+          "details": "CNN报道伊朗预计很快将提交经修订的和平方案",
+          "important": false
+        },
+        {
+          "actor": "美国情报机构",
+          "actor_type": "US-Executive",
+          "text": "美情报机构评估：伊朗可能将美撤军视为胜利",
+          "details": "美国情报机构正在评估如果特朗普宣布胜利并缩减正在进行的战争的伊朗可能的反应。初步评估表明，伊朗可能会将美国的撤军视为胜利",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "财政部对35个伊朗实体制裁，打击影子银行和加密货币网络",
+          "details": "对35个伊朗实体和个人实施制裁，原因是他们协助规避制裁；该部门还对几家总部位于香港的公司因与伊朗有联系而进行处罚；针对伊朗的国际影子银行基础设施、加密货币访问、影子舰队、武器采购网络、该地区恐怖代理人的资金，以及支持的独立中国炼油厂",
+          "important": false
+        },
+        {
+          "actor": "伊朗议会赫兹里安",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗警告阿联酋正与美国结盟准备再次攻击伊朗",
+          "details": "伊朗议会国家安全委员会赫兹里安：阿联酋正在采取措施与美国结盟，准备再次攻击伊朗，阿联酋公民应该明白，在任何可能的未来战争中，这个国家都将受到教训",
+          "important": false
+        },
+        {
+          "actor": "霍尔木兹海峡",
+          "actor_type": "Unknown",
+          "text": "日度通行：4/28-4/29共8艘船只，无油轮",
+          "details": "【日度通行】4/28 17:30 - 4/29 17:30 共8艘，无Tanker",
+          "important": false
+        },
+        {
+          "actor": "trap_zack",
+          "actor_type": "KOL",
+          "text": "KOL：是否暗示将军事强行打通海峡？伊朗谈判代表无法说服革命卫队",
+          "details": "是否暗示将采取军事手段强行打通霍尔木兹海峡？这也暗示伊朗谈判代表无论讨论什么，都无法说服伊朗伊斯兰革命卫队",
+          "important": false
+        },
+        {
+          "actor": "@CRUDEOIL231",
+          "actor_type": "KOL",
+          "text": "KOL：伊朗最迟5月中旬被迫减产，石油收入需近一季度才大幅下降",
+          "details": "由于运营限制以及技术和地理方面的困难，伊朗可能无法充分利用其所有储油罐。最迟在5月中旬之后，他们将被迫减产。由于石油通过水路运输需要时间，而且实际收到货款也需要时间，我预计伊朗的石油收入需要将近一个季度的时间才会出现大幅下降。美国的海上封锁将给伊朗带来经济压力。问题在于这不足以迫使伊朗立即投降——尤其是在伊朗已经挺过了疫情期间油价低于50美元/桶、出口量一度跌至约50万桶/日的困境",
+          "important": false
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "KOL",
+          "text": "Erian：中东战争经济影响进入第三阶段（需求破坏）",
+          "details": "中东战争的经济影响可以概括为四个阶段。在过去的九周里，全球经济经历了第一阶段（价格冲击范围较窄，能源和借贷成本上升）和第二阶段（通胀冲击范围更广）。目前它正日益经历第三阶段（需求破坏），这一现象在不同国家以不同的方式展开",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        5
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "CNN"
+      ],
+      "date": "2026-04-29",
+      "image_urls": [
+        "/uploads/2026-04-29/3c81d4bf40a4.png",
+        "/uploads/2026-04-29/078bd35596b1.png"
+      ]
+    },
+    {
+      "id": "uae-exits-opec-apr29",
+      "topic": "阿联酋退出欧佩克",
+      "topic_tag": "oil",
+      "title": "阿联酋宣布2026年5月退出欧佩克+，海湾分裂加剧",
+      "summary": "阿联酋宣布退出欧佩克和欧佩克+，将于2026年5月1日生效。阿联酋总统缺席吉达地区安全会议，被视为对沙特王储的蔑视。阿联酋产能逼近5m b/d，与配额差距达1.4m b/d，多年围绕产量限制的紧张局势最终导致退出。",
+      "bullets": [
+        {
+          "actor": "阿联酋",
+          "actor_type": "Foreign-Gov",
+          "text": "阿联酋宣布退出欧佩克和欧佩克+，2026年5月1日生效",
+          "details": "阿拉伯联合酋长国已决定退出欧佩克和欧佩克+，退出将于2026年5月1日生效",
+          "important": true
+        },
+        {
+          "actor": "Samfor",
+          "actor_type": "新闻",
+          "text": "阿联酋总统缺席吉达会议并退出欧佩克，被视为对沙特的蔑视",
+          "details": "Samfor报道阿联酋宣布退出欧佩克之际，海湾国家领导人正齐聚吉达召开会议，讨论地区安全问题。值得注意的是，阿联酋总统穆罕默德·本·扎耶德缺席了此次会议。阿联酋此举既缺席了此次会议，又同时退出欧佩克，将被视为对沙特实际统治者、王储穆罕默德·本·萨勒曼的蔑视。有迹象表明，阿联酋将在未来几周内进一步退出多边组织",
+          "important": false
+        },
+        {
+          "actor": "Macropotamus",
+          "actor_type": "KOL",
+          "text": "KOL：阿联酋产能逼近5m b/d，与配额差距扩大致退出",
+          "details": "阿联酋的石油产能早已超过欧佩克的限制。随着产能逼近每日5m b/d，与欧佩克+配额的差距日益扩大，加上多年来围绕产量限制和政策决策的紧张局势不断升级，最终导致阿联酋退出欧佩克",
+          "important": false
+        },
+        {
+          "actor": "Campell",
+          "actor_type": "KOL",
+          "text": "KOL Campell：持续封锁看涨农业",
+          "details": "持续封锁看涨农业",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 3,
+      "sources": [
+        "Samfor"
+      ],
+      "date": "2026-04-29",
+      "image_urls": [
+        "/uploads/2026-04-29/dc140bd0b472.jpg"
+      ]
+    },
+    {
+      "id": "fed-powell-warsh-apr29",
+      "topic": "美联储/Warsh继任",
+      "topic_tag": "fed",
+      "title": "UBS预计Warsh 6月前就任Fed主席，主张缩表回归旧工具箱",
+      "summary": "UBS预计Kevin Warsh将在6月FOMC前就任美联储主席，主张回归以政策利率为核心的旧工具箱模式，减少渐进主义和前瞻指引，缩小资产负债表。这将带来反通胀脉冲和收益率曲线平坦化压力。国会方面，Tills认为Powell有合理依据在5/15后留任处理未了结事务。",
+      "bullets": [
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "UBS：预计Warsh 6月FOMC前就任，主张缩表、反通胀、曲线平坦化",
+          "details": "预计Kevin Warsh将在6月FOMC会议前就任美联储主席，其政策理念与伯南克时代截然不同。Warsh主张回归以政策利率为核心工具的\"旧工具箱\"模式，减少渐进主义，反对前瞻指引，并希望缩小美联储资产负债表规模。这一\"制度变革\"将带来反通胀脉冲，并对美国收益率曲线产生平坦化压力。UBS已于2025年9月平仓美国5s30s陡峭化交易，预计5s30s曲线将持续承压走平。自特朗普1月底提名Warsh以来，黄金价格已下跌约14%。此外，UBS预计2027-2028年Fed将逐步增加国债购买量",
+          "important": true
+        },
+        {
+          "actor": "Tills",
+          "actor_type": "US-Congress",
+          "text": "Tills：Powell 5/15后留任有合理依据，协助处理审计和诉讼",
+          "details": "Tills声称认为Powell在5/15美联储主席任期届满后，继续留在Board任职一段时间是有\"合理依据\"的，留任可以协助处理目前美联储面临的一些\"未了结的事务\"（loose threads），主要包括：审计调查、法律诉讼",
+          "important": false
+        },
+        {
+          "actor": "Nick",
+          "actor_type": "KOL",
+          "text": "Nick：本周FOMC焦点是否承认降息已不可能",
+          "details": "本周FOMC的焦点——除了迫在眉睫的\"政权更迭\"之外——将集中在委员会内部一场悄悄的辩论上，这场辩论的主题是是否承认降息已不可能",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "UBS"
+      ],
+      "date": "2026-04-29",
+      "image_urls": []
+    },
+    {
+      "id": "us-rates-treasury-apr29",
+      "topic": "美债/利率",
+      "topic_tag": "rates",
+      "title": "DB警示7-8月3800亿美元Tbills发行，建议做空下半年SOFR/FF",
+      "summary": "DB报告RMP用量降至15B/月及7-8月380B净Tbills发行可能推高利率。跨保证金机制实施或省50%-80%保证金成本。Barclay预计美国联邦赤字将从1.775T扩至2.0T，曲线或因久期供应增加变陡。Ed Bradford认为4月下旬至5月初是增持国债良机，但担忧QRA可能预测更多coupon发行。",
+      "bullets": [
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "DB：7-8月380B净Tbills发行或推高利率，建议做空下半年SOFR/FF",
+          "details": "尽管TGA季节性提取短期维稳，但RMP用量降至$15B/mo及7-8月$380B净Tbills发行可能推高利率。跨保证金机制实施或省50%-80%保证金成本（允许中央对手方CCP识别抵消性敞口，如回购融资的美国国债与期货，显著降低初始保证金成本），重燃杠杆需求并推升SOFR。鉴于终端用户广泛采用新机制可能需要数月时间建立基础设施和完成法律安排，其影响可能在今年晚些时候才显现，建议做空下半年SOFR/FF",
+          "important": true
+        },
+        {
+          "actor": "Barclay",
+          "actor_type": "Analyst",
+          "text": "Barclay：关税退款及国防支出推动赤字扩至2.0T，曲线或变陡",
+          "details": "受关税退款及国防支出增加影响，预计美国联邦赤字将从2025财年1.775T扩至2026-27财年约2.0T。中期选举前财政刺激可能性低，收益率曲线或因久期供应增加而变陡",
+          "important": false
+        },
+        {
+          "actor": "Ed Bradford",
+          "actor_type": "KOL",
+          "text": "KOL：4月下旬至5月初是增持国债良机，担忧QRA预测更多coupon",
+          "details": "今年美国国债的走势与季节性波动基本吻合。现在是增持国债的良机，窗口期为4月下旬至5月初。下周的QRA令我最为担忧，因为财政部可能会预测今年晚些时候将发行更多coupon",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 2,
+      "sources": [
+        "DB",
+        "Barclay"
+      ],
+      "date": "2026-04-29",
+      "image_urls": [
+        "/uploads/2026-04-29/df1cdd610b93.png"
+      ]
+    },
+    {
+      "id": "ai-macro-apr29",
+      "topic": "AI行业宏观",
+      "topic_tag": "ai",
+      "title": "Bofa：全球25%岗位暴露AI影响，资本-劳动不平等或加剧",
+      "summary": "Bofa报告全球约25%就业岗位暴露于AI影响，高收入国家达33%，亚太受影响人数最多约4.42亿。AI主要替代任务而非消灭工作，但资本-劳动不平等可能加剧。OpenAI押注8美元广告版ChatGPT今年达1.22亿用户。Bob认为芯片股飙升更像狂热而非合理宏观现实。",
+      "bullets": [
+        {
+          "actor": "Bofa",
+          "actor_type": "Analyst",
+          "text": "Bofa：全球25%岗位暴露AI影响，亚太4.42亿人受影响最多",
+          "details": "全球约25%的就业岗位暴露于AI影响，但AI主要替代任务而非消灭工作。高收入国家暴露度达33%，亚太地区受影响人数最多，约442m。报告认为，适应性是新的就业保障，AI将增强而非完全取代人类，尤其利好老龄化社会。然而，资本-劳动不平等可能加剧，早期生产力增益更多流向资本方。建议政策层面加强终身学习与财政支持以平滑转型",
+          "important": true
+        },
+        {
+          "actor": "Information",
+          "actor_type": "新闻",
+          "text": "OpenAI押注8美元广告版ChatGPT，目标今年1.22亿用户",
+          "details": "Information报道OpenAI押注8美元广告版ChatGPT会带来用户数大爆发（今年达1.22亿），即使很多老用户降级，也能通过广告赚得更多，彻底改变过去三年主要靠20美元订阅的盈利模式",
+          "important": false
+        },
+        {
+          "actor": "Bob",
+          "actor_type": "KOL",
+          "text": "KOL Bob：芯片股飙升但市场认为利润增长对经济影响小，更像狂热",
+          "details": "受人工智能乐观情绪的影响，芯片股飙升，但市场似乎认为利润会大幅增长，而对整体经济的影响却很小，这表明这与其说是合理的宏观现实，不如说是另一种狂热",
+          "important": false
+        },
+        {
+          "actor": "Bloom Energy",
+          "actor_type": "Corporate",
+          "text": "Bloom Energy盘后大涨，与甲骨文AI合作扩大，季度销售额翻倍",
+          "details": "Bloom Energy在盘后交易中大涨，该公司宣布与甲骨文的AI相关合作扩大，季度销售额同比翻倍",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "BE",
+        "ORCL"
+      ],
+      "image_indexes": [
+        4,
+        6
+      ],
+      "importance": 2,
+      "sources": [
+        "Bofa",
+        "Information"
+      ],
+      "date": "2026-04-29",
+      "image_urls": [
+        "/uploads/2026-04-29/e9eb7bd6e256.jpg",
+        "/uploads/2026-04-29/f04079811525.png"
+      ]
+    },
+    {
+      "id": "gold-outlook-apr29",
+      "topic": "黄金展望",
+      "topic_tag": "macro-other",
+      "title": "高盛：2026年底金价目标5400美元，近期风险偏下行",
+      "summary": "高盛预计2026年底金价将达每盎司5400美元，受益于央行多元化投资、投机性持仓正常化及美联储50bps降息预期。但近期价格预测面临下行风险，若霍尔木兹扰乱持续或债券股票回调，黄金仍可能遭受抛售。",
+      "bullets": [
+        {
+          "actor": "GS Precious",
+          "actor_type": "Analyst",
+          "text": "高盛：2026年底金价目标5400美元，央行多元化+Fed降息50bps",
+          "details": "2026年底，金价将达到每盎司5400美元，原因是各国央行持续推进多元化投资，目前相对较低的投机性持仓将趋于正常化，且Fed将兑现我们经济学家预期的50bps cut。我们的基本预测假设私人部门不会进一步抛售黄金，也不会增加对黄金的配置（美联储降息带来的小幅提振除外）",
+          "important": true
+        },
+        {
+          "actor": "GS Precious",
+          "actor_type": "Analyst",
+          "text": "高盛：近期金价风险偏下行，霍尔木兹扰乱或引发抛售",
+          "details": "近期黄金价格预测面临的风险偏向下行，因为如果霍尔木兹号扰乱持续，债券或股票进一步回调，黄金仍容易受到进一步抛售的影响（尽管大部分黄金头寸和看涨期权头寸已经clear）",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GLD"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-04-29",
+      "image_urls": []
+    },
+    {
+      "id": "china-policy-apr29",
+      "topic": "中国政策",
+      "topic_tag": "policy",
+      "title": "中国召开4月政治局会议，决定向亚洲出口航空燃油",
+      "summary": "中国召开4月政治局会议。同时，中国决定开始向目前燃油供应极度短缺的亚洲国家供应航空燃油出口。",
+      "bullets": [
+        {
+          "actor": "中国",
+          "actor_type": "Foreign-Gov",
+          "text": "中国召开4月政治局会议",
+          "details": "中国召开4月政治局会议",
+          "important": true
+        },
+        {
+          "actor": "中国",
+          "actor_type": "Foreign-Gov",
+          "text": "中国决定向亚洲燃油短缺国家出口航空燃油",
+          "details": "中国决定开始向目前燃油供应极度短缺的亚洲国家供应航空燃油出口",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-04-29",
+      "image_urls": []
+    },
+    {
+      "id": "earnings-consumer-apr29",
+      "topic": "财报/消费",
+      "topic_tag": "earnings",
+      "title": "Visa收入增长消费韧性，星巴克上调指引，Booking下调展望",
+      "summary": "Visa最新季度收入增长，消费者支出保持韧性。星巴克上调全年指引，CEO表示更快服务和增加人手吸引顾客回流。Booking Holdings下调全年展望，预计中东冲突将继续抑制部分地区旅游需求。Robinhood一季度盈利不及预期。",
+      "bullets": [
+        {
+          "actor": "Visa",
+          "actor_type": "Corporate",
+          "text": "Visa季度收入增长，消费者支出保持韧性",
+          "details": "Visa最新季度收入增长，尽管通胀压力存在，消费者支出仍保持韧性",
+          "important": true
+        },
+        {
+          "actor": "星巴克",
+          "actor_type": "Corporate",
+          "text": "星巴克上调全年指引，CEO称更快服务吸引顾客回流",
+          "details": "星巴克上调全年指引，CEO Niccol表示，更快的服务和增加人手的投资正吸引顾客回流",
+          "important": false
+        },
+        {
+          "actor": "Booking Holdings",
+          "actor_type": "Corporate",
+          "text": "Booking下调全年展望，预计中东冲突抑制旅游需求",
+          "details": "Booking Holdings下调全年展望，预计中东冲突将继续抑制部分地区的旅游需求",
+          "important": false
+        },
+        {
+          "actor": "Robinhood",
+          "actor_type": "Corporate",
+          "text": "Robinhood一季度盈利不及预期，交易收入偏弱",
+          "details": "Robinhood一季度盈利不及预期，交易收入偏弱及期权、加密货币业务费率下降，抵消了客户资产和存款增长",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "V",
+        "SBUX",
+        "BKNG",
+        "HOOD"
+      ],
+      "image_indexes": [
+        3
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-04-29",
+      "image_urls": [
+        "/uploads/2026-04-29/d5cca00418be.png"
+      ]
+    },
+    {
+      "id": "other-2026-04-29",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "其他零散信息",
+      "bullets": [
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "[日本央行] 野村：BOJ 4月鹰派持稳，3名委员支持加息，6月加息概率70%",
+          "details": "BOJ4月\"鹰派\"持稳，预计6月加息。尽管利率维持0.75%不变，但3名委员支持加息超预期。央行将2026财年核心CPI预测从1.9%大幅上调至2.8%，并警示通胀上行风险。市场定价显示6月加息概率升至70%。野村维持6月、12月及2027年6月加息预测，风险偏向更早更频繁加息。日元承压，美元/日元逼近160",
+          "important": true
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "[农产品/厄尔尼诺] 花旗：强厄尔尼诺概率超90%，看好可可糖，看跌咖啡",
+          "details": "强厄尔尼诺现象今年发生概率超90%，将导致全球农产品产量分化。看好可可和糖，预计3个月内可可涨至3,500美元/吨，糖涨至0.17美元/磅；看跌阿拉比卡咖啡，目标2.75美元/磅。谷物方面，预计12个月内玉米和小麦价格分别升至5.25和6.50美元/蒲式耳",
+          "important": true
+        },
+        {
+          "actor": "JPM Flow",
+          "actor_type": "Analyst",
+          "text": "[ETF资金流/半导体] JPM：上周半导体ETF流出32亿美元，杠杆ETF大幅流出锁定利润",
+          "details": "上周SOXX、SOXL和SMH等半导体ETF合计流出$3.2B，IGV流出0.8B。杠杆ETF如TQQQ和SOXL分别流出$1.6B和$1.3B，而反向杠杆ETF SOXS则流入约$0.8B，显示投资者在科技股高位运行后选择锁定利润",
+          "important": true
+        },
+        {
+          "actor": "SuperMacro",
+          "actor_type": "KOL",
+          "text": "[美国劳动力市场] KOL：高频数据显示裁员历史低位，ADP月增就业超20万",
+          "details": "美国劳动力市场不仅保持稳定，而且还在加速增长。高频数据显示裁员人数处于历史低位，而Indeed的实时职位发布量正在回升，这与JOLTS数据相符，ADP公布的私营部门就业增长速度意味着每月新增就业岗位超过20万个，这使得\"经济放缓\"的说法显得越来越站不住脚。",
+          "important": true
+        },
+        {
+          "actor": "众议院",
+          "actor_type": "US-Congress",
+          "text": "[美国国会僵局] 众议院因共和党内部分歧暂停议事，监控法和农业法案搁置",
+          "details": "众议院实际上暂停了议事，因为经过数日的内部谈判，共和党各派系之间未能达成协议，这使得议长Johnson无法延长即将到期的监控法，也无法通过备受期待的农业法案，参议院共和党人感到沮丧，因为众议院仍未审议他们提出的为DHS大部分部门提供资金的法案",
+          "important": true
+        }
+      ],
+      "tickers": [
+        "SOXX",
+        "SOXL",
+        "SMH",
+        "IGV",
+        "TQQQ",
+        "SOXS"
+      ],
+      "importance": 1,
+      "sources": [
+        "Nomura",
+        "Citi",
+        "JPM"
+      ],
+      "date": "2026-04-29",
+      "image_urls": []
+    }
+  ]
+}
