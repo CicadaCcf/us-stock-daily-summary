@@ -1,0 +1,437 @@
+{
+  "topics": [
+    {
+      "id": "iran-hormuz-crisis-apr30",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "Trump拒绝伊朗提议，军事打击计划就绪",
+      "summary": "Trump拒绝伊朗重开霍尔木兹海峡提议，坚持须达成含核计划的协议才解除封锁，否则考虑军事行动。中央司令部已准备对伊朗发起\"短促有力\"打击计划，可能包括基础设施、海峡军事行动及夺取高浓缩铀库存。伊朗方面警告将以\"区域惩罚\"回应，可能攻击海湾石油基础设施，Ghalibaf预测油价将推至140美元。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "拒绝伊朗重开海峡提议，无核协议不解除封锁，否则考虑军事行动",
+          "details": "Trump拒绝伊朗重开霍尔木兹海峡的提议，除非达成包含核计划在内的协议，否则我不会解除海上封锁；如果伊朗不采取行动，将考虑采取军事行动",
+          "important": true
+        },
+        {
+          "actor": "中央司令部",
+          "actor_type": "US-Executive",
+          "text": "周四向Trump汇报军事打击新计划，含基础设施及地面部队行动",
+          "details": "周四中央司令部给Trump做潜在军事行动新计划简报，准备对伊朗发起一轮\"短促而有力\"的打击行动，很可能包括针对基础设施的目标；另一项计划还可能包括对海峡的军事行动、夺取高浓缩铀库存行动，一位消息人士称，此类行动可能包括地面部队",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "认为封锁比轰炸更有效，伊朗处境将更糟",
+          "details": "认为封锁比轰炸稍微有效一些，他们就像一只被噎住的猪一样窒息。情况对他们来说会更糟",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "与石油公司讨论封锁可能持续数月的措施",
+          "details": "周二会见了能源公司高管，讨论了国内石油生产、委内瑞拉局势、石油期货、天然气和航运等问题；Trump与石油公司讨论了如有必要将对伊朗的封锁持续数月的措施",
+          "important": false
+        },
+        {
+          "actor": "普京",
+          "actor_type": "Foreign-Gov",
+          "text": "与Trump通话90分钟，警告美以恢复袭击伊朗将有极其有害后果",
+          "details": "Trump与普京进行了大约一个半小时的电话交谈，据俄罗斯官方通讯社塔斯社报道，在今天的通话中，普京对Trump延长与伊朗停火的决定表示欢迎，同时警告说，如果以色列和美国恢复对伊朗的袭击，将会造成\"极其有害的后果\"；普京就伊朗核计划提出了想法",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "每天与内塔尼亚胡通话，要求限制对黎巴嫩的军事行动",
+          "details": "本周Trump每天都与内塔尼亚胡通话，Trump表示，他已告知内塔尼亚胡，应将对黎巴嫩的军事行动限制在\"外科手术式\"打击范围内，避免更大规模的战争；内塔尼亚胡计划在未来几周内访问华盛顿和Trump会面",
+          "important": false
+        },
+        {
+          "actor": "Ghalibaf",
+          "actor_type": "Foreign-Gov",
+          "text": "称敌人通过封锁等手段削弱伊朗，预测油价将推至140美元",
+          "details": "Ghalibaf称敌人现在已经进入新阶段，企图通过海上封锁、媒体战、经济压力和内部分裂来削弱甚至摧毁伊朗；3天过去了我们没有出问题，我们可以延长30天，这就是美国政府从像贝森特这样的人那里得到的垃圾建议，他们也支持封锁理论，并将油价推高至120美元以上。下一站:140",
+          "important": false
+        },
+        {
+          "actor": "伊朗最高领袖Mojtaba",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗将像守护国界一样守护导弹和核技术",
+          "details": "伊朗最高领袖Mojtaba表示，伊朗将像守护国界一样守护其导弹和核技术",
+          "important": false
+        },
+        {
+          "actor": "伊朗议会议长副手",
+          "actor_type": "Foreign-Gov",
+          "text": "美国必须接受伊斯兰共和国要求，否则伊朗民族将与敌人对抗",
+          "details": "伊朗议会议长副手：美国必须接受伊斯兰共和国的要求；否则，\"伊朗民族\"将与敌人对抗",
+          "important": false
+        },
+        {
+          "actor": "IRGC",
+          "actor_type": "Foreign-Gov",
+          "text": "警告若美国继续扣押伊朗船只将采取前所未有的军事行动",
+          "details": "IRGC警告称，如果美国继续扣押与伊朗有关的船只，伊朗将采取\"前所未有的军事行动\"",
+          "important": false
+        },
+        {
+          "actor": "Hegseth",
+          "actor_type": "US-Executive",
+          "text": "称美国正向伊朗施压迫使其谈判并放弃核计划",
+          "details": "美国正在向伊朗施压，迫使其进行谈判并放弃其核计划；总统展现了确保伊朗永远不拥有核武器的勇气",
+          "important": false
+        },
+        {
+          "actor": "DoD",
+          "actor_type": "US-Executive",
+          "text": "迄今已在伊朗战争中花费250亿美元",
+          "details": "DoD迄今已在伊朗战争中花费了25B",
+          "important": false
+        },
+        {
+          "actor": "OFAC",
+          "actor_type": "US-Executive",
+          "text": "禁止美国公民向伊朗支付霍尔木兹海峡通行费",
+          "details": "美国公民（包括美国金融机构）或美国拥有或控制的外国实体，不得直接或间接向伊朗政府或伊斯兰革命卫队（IRGC）支付任何费用，以换取安全通过霍尔木兹海峡",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "美国正寻求没收两艘在封锁期间扣押的伊朗相关油轮",
+          "details": "BBG报道，美国正寻求没收两艘与伊朗有关的油轮，这两艘油轮是被美国海军在对伊朗实施封锁期间扣押的",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "美国寻求组建\"海上自由联盟\"确保海峡航行安全",
+          "details": "WSJ报道，政府正在寻求国际合作伙伴，组建一个新的\"海上自由联盟\"，以确保霍尔木兹海峡的航行安全。据美国国务院电报称，这个由美国领导的联盟将共享信息、进行外交协调并执行制裁",
+          "important": false
+        },
+        {
+          "actor": "Hormuz Letter",
+          "actor_type": "KOL",
+          "text": "消息称伊朗将美方调动解读为打击警告，或以攻击海湾油气设施回应",
+          "details": "一位接近Ghalibaf的消息人士称，伊朗将美国的特殊后勤调动、特朗普与内塔尼亚胡的通话以及日益频繁的战略通信活动解读为\"打击警告\"，并将以\"区域惩罚\"作为回应，攻击海湾地区的石油基础设施（单点source，真实性低）",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "伊朗Kharg岛发现两艘VLCC装载原油，用于储存过剩原油",
+          "details": "今天在伊朗Kharg岛发现两艘VLCC正在装载原油，2艘船都限制多年，现在被用来储存无法运出的过剩原油",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "Axios",
+        "塔斯社",
+        "Bloomberg",
+        "WSJ"
+      ],
+      "date": "2026-04-30",
+      "image_urls": [
+        "/uploads/2026-04-30/8161ee2d3767.png",
+        "/uploads/2026-04-30/bd4dbacd65ba.png"
+      ]
+    },
+    {
+      "id": "fed-fomc-apr30",
+      "topic": "美联储/FOMC",
+      "topic_tag": "fed",
+      "title": "FOMC维持利率不变，内部分歧创30年之最",
+      "summary": "美联储4月FOMC维持利率不变，但出现3-4票反对，创1992年以来最大分歧。Powell称委员会转向更中性立场，受战争引发的通胀风险制约，降息需待劳动力市场软化。Powell确认留任理事以捍卫美联储独立性。市场定价2027年初加息概率升至50%，前端收益率升10bp。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "FOMC维持利率不变，3名委员异议，预计暂停期可能延长",
+          "details": "GS FOMC：会议维持利率不变，但3名委员异议凸显政策分歧。鲍威尔称委员会正转向更中性立场，但受战争引发的通胀风险制约，降息需待劳动力市场软化。预计Fed暂停期可能延长，9月及12月降息前景面临挑战，但仍排除加息可能",
+          "important": true
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "出现4票反对创1992年以来最大分歧，仍预计2026年降息2次",
+          "details": "Nomura FOMC：维持利率不变，但出现4票反对，创1992年以来最大分歧。尽管鹰派声音增强，野村仍预计2026年降息2次（9月、12月），年底利率降至3.125%。Powell宣布留任理事以应对法律挑战。风险偏向更少且更晚降息，主因伊朗战争引发的能源冲击及关税影响",
+          "important": false
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "Powell称需见能源价格稳定才考虑降息，市场定价2027年初加息概率升至50%",
+          "details": "JPM Rates：美联储4月FOMC会议维持利率不变，但表态鹰派，Powell称需见能源价格稳定及关税进展才考虑降息。市场定价2027年初加息概率升至50%。前端收益率升10bp，曲线平坦化5bp。建议平仓部分利率衍生品多头，关注2Y看空趋势",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "Powell确认留任理事捍卫独立性，6月指引可能更中立",
+          "details": "DB FOMC：美联储4月FOMC会议维持利率不变，虽保留温和降息倾向，但内部对政策平衡性争论激烈。鲍威尔暗示6月指引可能更中立，强调通胀仍高（3月核心PCE同比3.2%），但劳动力市场稳健（失业率4.3%）。Powell确认留任理事以捍卫美联储独立性，近期加息概率低但并未完全排除",
+          "important": false
+        },
+        {
+          "actor": "Steve Matthews",
+          "actor_type": "KOL",
+          "text": "Fed主席们的异议向沃什传递强烈信号：短期不会降息",
+          "details": "Steve Matthews：Fed主席们的异议似乎是在向沃什传递一个非常强烈的信号：短期内不会有降息。他们本可以顺应FOMC的多数派，发表讲话阐述自己的观点。但他们的异议本身就是一种信号",
+          "important": false
+        },
+        {
+          "actor": "Nick",
+          "actor_type": "KOL",
+          "text": "周三事件引发问题：美联储主席主导的时代是否终结",
+          "details": "Nick：周三的事件引发了一个问题：美联储主席主导的时代是否正在走向终结？艾伦·格林斯潘是这一时代的象征。本·伯南克、珍妮特·耶伦和鲍威尔在不削弱主席权力的前提下，使主席的角色更加民主化，他们通过主席发号施令、委员会执行的框架来应对危机",
+          "important": false
+        },
+        {
+          "actor": "Omair Sharif",
+          "actor_type": "KOL",
+          "text": "Powell很可能留任至夏天监察长报告出炉，与最高法院库克案裁决时间吻合",
+          "details": "Omair Sharif：Powell主席很可能会留任至少到今年夏天监察长报告出炉，并很可能证明他清白为止。这与最高法院对库克案的裁决时间吻合，预计裁决将在六月公布。因此，在监察长报告和最高法院裁决出炉之前，他的governor任期可能很短暂",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "称Powell想留在Fed因其他地方找不到工作",
+          "details": "Trump称Powell像留在Fed，因为他在其他地方找不到工作",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "批评Powell卸任主席后仍留在Board打破Fed传统",
+          "details": "Bessent批评Powell在卸任美联储主席后仍留在Board的决定，称这相当于打破了Fed的传统",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "GS",
+        "JPM",
+        "DB",
+        "Nomura"
+      ],
+      "date": "2026-04-30",
+      "image_urls": []
+    },
+    {
+      "id": "warsh-nomination-apr30",
+      "topic": "Warsh提名进展",
+      "topic_tag": "policy",
+      "title": "Warsh获参议院银行委员会批准，全体投票在即",
+      "summary": "Warsh沃什获参议院银行委员会批准，进入参议院全体投票阶段。全体投票预计无障碍，等同于已通过提名。",
+      "bullets": [
+        {
+          "actor": "参议院银行委员会",
+          "actor_type": "US-Congress",
+          "text": "Warsh获银行委员会批准，进入全体投票阶段",
+          "details": "Warsh沃什获参议院银行委员会批准，进入参议院全体投票阶段（full floor无障碍，等同于已通过提名）",
+          "important": true
+        },
+        {
+          "actor": "Steve Matthews",
+          "actor_type": "KOL",
+          "text": "Fed主席们的异议向沃什传递信号：短期不会降息",
+          "details": "Steve Matthews：Fed主席们的异议似乎是在向沃什传递一个非常强烈的信号：短期内不会有降息",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-04-30",
+      "image_urls": []
+    },
+    {
+      "id": "us-budget-apr30",
+      "topic": "美国财政预算",
+      "topic_tag": "policy",
+      "title": "众议院通过FY2026预算决议，为ICE/CBP提供750亿美元",
+      "summary": "众议院以214-212-1通过FY2026预算决议(S. Con. Res. 33)，为ICE和CBP提供750亿美元资金。领导层承诺今年晚些时候启动第三个预算调节法案，纳入保守派关于国防、社会福利和医疗削减诉求。",
+      "bullets": [
+        {
+          "actor": "众议院",
+          "actor_type": "US-Congress",
+          "text": "以214-212-1通过FY2026预算决议，为ICE/CBP提供750亿美元",
+          "details": "众议院以214-212-1通过了S. Con. Res. 33号决议，即FY2026 Budget Resolution，为ICE和CBP提供75B资金",
+          "important": true
+        },
+        {
+          "actor": "众议院领导层",
+          "actor_type": "US-Congress",
+          "text": "承诺今年晚些时候启动第三个预算调节法案纳入保守派诉求",
+          "details": "为了换取党内硬派的支持，领导层承诺在今年晚些时候启动第三个预算调节法案，以纳入保守派关于国防开支、社会福利和医疗保健削减的诉求",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-04-30",
+      "image_urls": []
+    },
+    {
+      "id": "oil-macro-apr30",
+      "topic": "油价/全球经济展望",
+      "topic_tag": "oil",
+      "title": "JPM警告海峡关闭或推油价至150美元，全球衰退风险升至35%",
+      "summary": "JPM全球经济报告指出，受霍尔木兹海峡关闭影响，全球衰退风险升至35%。基准情景下若海峡短期重开，布伦特Q4回落至80美元/桶；若持续关闭，油价或飙升至150美元/桶，导致全球GDP下滑1.6%，引发滞胀或衰退。",
+      "bullets": [
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "全球衰退风险升至35%，若海峡持续关闭油价或飙至150美元",
+          "details": "JPM Global Eco：受霍尔木兹海峡关闭影响，全球衰退风险升至35%。基准情景下，若海峡短期重开，布伦特油价预计Q4回落至80美元/桶，全球增长保持韧性，美联储将按兵不动。若持续关闭，油价或飙升至150美元/桶，导致全球GDP下滑1.6%，引发滞胀或衰退",
+          "important": true
+        },
+        {
+          "actor": "Ghalibaf",
+          "actor_type": "Foreign-Gov",
+          "text": "称封锁将推油价至120美元以上，下一站140美元",
+          "details": "Ghalibaf称这就是美国政府从像贝森特这样的人那里得到的垃圾建议，他们也支持封锁理论，并将油价推高至120美元以上。下一站:140",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "JPM"
+      ],
+      "date": "2026-04-30",
+      "image_urls": []
+    },
+    {
+      "id": "japan-fx-apr30",
+      "topic": "日本央行/日元",
+      "topic_tag": "rates",
+      "title": "日本财务省发出最高级别外汇警告",
+      "summary": "日本最高外汇事务官员MIMURA发出最高级别警告，称观察到市场投机性交易增多，即将采取重大行动。这是行动前发出的最后警告。",
+      "bullets": [
+        {
+          "actor": "MIMURA",
+          "actor_type": "Foreign-Gov",
+          "text": "发出最高级别外汇警告：即将对外汇市场采取重大行动",
+          "details": "日本MIMURA发出最高级别外汇警告：日本最高外汇事务官员观察到市场上的投机性交易活动日益增多。我们即将迎来采取重大行动的时机了，届时我们将针对外汇市场采取行动。这是我在行动前发出的最后警告。不对市场趋势发表评论。我们正在全方位审视各个市场",
+          "important": true
+        },
+        {
+          "actor": "Ed Bradford",
+          "actor_type": "KOL",
+          "text": "做多日元实际上是在预测全球债券收益率和油价见顶",
+          "details": "Ed Bradford：利率上升和能源成本高企对任何能源净进口国的货币都将造成不利影响。现在做多日元（或者新兴市场外汇）实际上就是在预测全球债券收益率和石油价格的顶部",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-04-30",
+      "image_urls": []
+    },
+    {
+      "id": "ai-anthropic-apr30",
+      "topic": "AI行业",
+      "topic_tag": "ai",
+      "title": "Anthropic考虑新一轮融资估值或超9000亿，白宫反对Mythos扩展",
+      "summary": "Bloomberg报道Anthropic已开始考虑新一轮融资，估值将超9000亿美元，有可能超越OpenAI成为全球最有价值AI初创公司。同时WSJ报道白宫不赞成Anthropic扩大Mythos模型使用范围的计划。软银40B过桥贷款银团吸引更多贷款机构参与。",
+      "bullets": [
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "Anthropic考虑新一轮融资，估值或超9000亿美元超越OpenAI",
+          "details": "BBG报道，AI Anthropic PBC已开始考虑新一轮融资，此举将使其估值超过900B，有可能超越其长期竞争对手OpenAI，成为全球最有价值的人工智能初创公司",
+          "important": true
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "白宫不赞成Anthropic扩大Mythos模型使用范围的计划",
+          "details": "WSJ报道称，白宫不赞成Anthropic扩大Mythos模型使用范围的计划",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "软银40B过桥贷款银团吸引更多贷款机构参与",
+          "details": "BBG报道，近期与软银签署40B过桥贷款协议，用于软银投资美国科技巨头OpenAI的银行，已吸引更多贷款机构参与该银团贷款交易",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Bloomberg",
+        "WSJ"
+      ],
+      "date": "2026-04-30",
+      "image_urls": []
+    },
+    {
+      "id": "other-apr30",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "其他市场动态",
+      "summary": "Trump对INTC股价上涨感到自豪；美国正在考虑从德国撤出部分军队。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "对INTC股价持续上涨感到自豪",
+          "details": "Trump称INTC股价持续上涨，很自豪",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "美国正在考虑从德国撤出部分军队",
+          "details": "美国正在考虑从德国撤出部分军队",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "[欧央行] 预计ECB本周维持利率不变，6-7月或各加息25bp",
+          "details": "DB ECB：预计ECB本周将维持利率不变，因缺乏冲击规模新证据。但保留6月、7月各加息25bp的预期，随后2027年可能开启降息。策略上做多德国国债（目标收益率2.75%），短期对欧元持谨慎态度，年底看至1.20",
+          "important": true
+        },
+        {
+          "actor": "Charles Schwab",
+          "actor_type": "Analyst",
+          "text": "[TIPS投资] 五年期TIPS实际收益率约1.2%处于近20年高位",
+          "details": "Charles Schwab：当前五年期TIPS实际收益率约1.2%，处于近20年高位，且盈亏平衡通胀率（2.2%）低于实际CPI（3.3%），使得TIPS相对名义国债更具吸引力。但TIPS短期价格波动较大，2022年通胀飙升时总回报为负，持有至到期方能有效抵御通胀",
+          "important": true
+        }
+      ],
+      "tickers": [
+        "INTC"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "DB",
+        "Charles Schwab"
+      ],
+      "date": "2026-04-30",
+      "image_urls": []
+    }
+  ]
+}
