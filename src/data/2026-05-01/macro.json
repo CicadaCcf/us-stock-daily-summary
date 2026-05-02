@@ -1,0 +1,464 @@
+{
+  "topics": [
+    {
+      "id": "iran-hormuz-crisis-apr26",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊局势升级：封锁持续、双方军事准备就绪",
+      "summary": "美伊冲突进入关键阶段。Trump称已获胜但需确保伊朗永不拥核，预计近日做出决定；Cooper向Trump汇报最后一击方案。伊朗强硬派Mojtaba宣布霍尔木兹进入新阶段、波斯湾将无美国存在，多位伊朗官员称目前并非停火状态。以色列准备宣布谈判失败并获美授权打击伊朗能源设施，阿联酋禁止公民前往伊朗等国。",
+      "bullets": [
+        {
+          "actor": "Mojtaba",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗称导弹核能力为国家财产，霍尔木兹将实施新管理制度",
+          "details": "Mojtaba称伊朗全体人民将导弹和核能力视为和领土一样的国家财产，Hormuz进入新阶段，将实施新的管理制度，波斯湾将是没有美国存在的海湾",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump称伊朗战争已获胜，但需确保伊朗永不拥核",
+          "details": "伊朗战争已经获胜，但我希望能以更大的优势赢得这场胜利，需要保证伊朗永远都不会拥有核武器；我们或许需要与伊朗达成一项协议；伊朗的形势非常糟糕，领导层已不复存在，伊朗谁在掌权仍不清楚，伊朗经济正濒临崩溃，封锁措施效果非常有效",
+          "important": false
+        },
+        {
+          "actor": "NBC",
+          "actor_type": "新闻",
+          "text": "NBC报道伊朗利用停火从地下开采武器，Trump近日将做决定",
+          "details": "NBC报道伊朗正利用停火协议从地下开采武器，Trump不想因为伊朗战争再次推迟访华行程，预计Trump将在未来几天内就伊朗问题做出决定",
+          "important": false
+        },
+        {
+          "actor": "Cooper",
+          "actor_type": "US-Executive",
+          "text": "Cooper向Trump汇报针对伊朗的\"最后一击\"打击方案",
+          "details": "Cooper向Trump汇报了针对伊朗的\"最后一击\"打击方案，以备总统选择恢复对伊朗的军事行动。报道称，评估的目标包括伊朗剩余的军事装备和设施、伊朗政权/伊斯兰革命卫队领导层以及其他基础设施",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "Bessent称伊朗石油业关闭、货币暴跌，政权早该承认失败",
+          "details": "随着石油工业的关闭和货币的暴跌，伊朗政权早就应该承认，伊朗人民理应得到比其当前政权所能提供的更好的生活",
+          "important": false
+        },
+        {
+          "actor": "Johnson",
+          "actor_type": "US-Congress",
+          "text": "Johnson称美国未与伊朗交战，国会无需就60天战争权限表决",
+          "details": "Johnson称美国\"未与伊朗交战\"，国会无需就60天战争权限表决",
+          "important": false
+        },
+        {
+          "actor": "伊朗国家安全委员会成员雷泽伊",
+          "actor_type": "Foreign-Gov",
+          "text": "雷泽伊：目前处于与敌人战争第二阶段，海上封锁是战争延续",
+          "details": "伊朗国家安全委员会成员雷泽伊表示：我们目前正处于与敌人战争的第二阶段……海上封锁是战争的延续……我们现在并未处于停火状态",
+          "important": false
+        },
+        {
+          "actor": "伊朗议员",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗议员称核问题已结束不予谈判，仅愿谈赔款与海峡过境",
+          "details": "一位伊朗议员表示，伊朗认为其核问题已结束且不予谈判，并补充说，如果制裁解除，当局只会就战争赔款和霍尔木兹海峡过境问题进行谈判",
+          "important": false
+        },
+        {
+          "actor": "伊朗外长Araghchi",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗外长重申：制止以色列对黎巴嫩侵略是停火方案组成部分",
+          "details": "伊朗外长 Seyed Abbas Araghchi 通过与黎巴嫩议长 Nabih Berri 的通话或联合声明中，明确重申：\"制止以色列对黎巴嫩的侵略\"是伊朗与美国停火方案的一个组成部分",
+          "important": false
+        },
+        {
+          "actor": "IRGC航空航天部队司令Mousavi",
+          "actor_type": "Foreign-Gov",
+          "text": "IRGC威胁若美国恢复轰炸将对美军区域目标实施长期打击",
+          "details": "IRGC 航空航天部队司令Majid Mousavi 等高级官员威胁：如果美国恢复轰炸，伊朗将对美军区域目标实施长期且痛苦的打击",
+          "important": false
+        },
+        {
+          "actor": "阿联酋",
+          "actor_type": "Foreign-Gov",
+          "text": "阿联酋禁止公民前往伊朗、黎巴嫩和伊拉克，在当地国民需立即返回",
+          "details": "阿联酋已禁止其公民前往伊朗、黎巴嫩和伊拉克，已在当地的国民被告知立即离开并返回家园",
+          "important": false
+        },
+        {
+          "actor": "以色列第12频道",
+          "actor_type": "新闻",
+          "text": "以色列准备宣布与伊朗谈判失败，美已授权打击伊朗能源设施",
+          "details": "据第 12 频道报道，以色列正准备宣布与伊朗的谈判失败，美国已授权以色列在宣布失败后立即打击伊朗的能源设施",
+          "important": false
+        },
+        {
+          "actor": "以色列后方司令部",
+          "actor_type": "Foreign-Gov",
+          "text": "以色列通知黎巴嫩边境下周起集会和教育活动将受限制",
+          "details": "以色列后方司令部已告知黎巴嫩边境地区的官员，下周起，由于国防政策调整，集会活动将减少，教育活动也将受到限制",
+          "important": false
+        },
+        {
+          "actor": "德黑兰防空系统",
+          "actor_type": "Foreign-Gov",
+          "text": "据报道德黑兰防空系统已启动",
+          "details": "据报道德黑兰的防空系统已启动",
+          "important": false
+        },
+        {
+          "actor": "美国海军",
+          "actor_type": "US-Executive",
+          "text": "福特号部署已300天，未来几天将离开红海返回诺福克",
+          "details": "福特号部署已300d，未来几天将离开红海，开始返回位于弗吉尼亚州诺福克海军基地的母港",
+          "important": false
+        },
+        {
+          "actor": "伊朗内部",
+          "actor_type": "Foreign-Gov",
+          "text": "Pezeshkian和Ghalibaf对外长处理核谈判方式不满，呼吁解职",
+          "details": "Pezeshkian和Ghalibaf对外交部长Araghchi处理外交事务（特别是核谈判）的方式感到不满，他们呼吁解除其职务",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ：封锁导致伊朗政治分裂，温和派求谈判、强硬派主战",
+          "details": "WSJ称封锁已经导致伊朗政治体系分裂，温和派寻求谈判，而强硬派则认为伊朗必须采取军事行动",
+          "important": false
+        },
+        {
+          "actor": "HormuzLetter",
+          "actor_type": "KOL",
+          "text": "消息人士：美已进入最后打击部署，RC-135W正收集目标信息",
+          "details": "一位接近加利巴夫的消息人士称，美国已进入最后的打击部署阶段，RC-135W 侦察机正在收集目标信息，准备对伊朗石油基础设施发动打击。伊朗将采取\"双重回应\"，即直接用导弹袭击海湾地区的能源设施和支持此次袭击的美国基地，并利用布雷和导弹全面封锁霍尔木兹海峡",
+          "important": false
+        },
+        {
+          "actor": "Mikhail Ulyanov",
+          "actor_type": "KOL",
+          "text": "普京向Trump表示在伊朗领土发动地面军事行动尤其不可接受",
+          "details": "普京总统在与特朗普的通话中指出，如果美国和以色列恢复军事行动，不仅对伊朗及其邻国，而且对整个国际社会都将造成极其不利的后果。他还强调，在伊朗领土上发动地面军事行动尤其不可接受且危险",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "NBC",
+        "WSJ",
+        "以色列第12频道"
+      ],
+      "date": "2026-05-01",
+      "image_urls": []
+    },
+    {
+      "id": "oil-market-supply-apr26",
+      "topic": "原油市场/库存",
+      "topic_tag": "oil",
+      "title": "JPM/GS：霍尔木兹中断冲击全球库存，6月或触及操作压力",
+      "summary": "JPM估计全球进入2026年时拥有8.4B桶库存，但仅800M桶可实际提取。截至4/23已消耗约280M桶。GS测算海峡中断对全球商业石油库存净冲击为12.6mb/d。JPM预计OECD商业库存将在6月初触及操作压力水平。美国将从战略石油储备中借出92.5Mb。",
+      "bullets": [
+        {
+          "actor": "JPM OIL",
+          "actor_type": "Analyst",
+          "text": "JPM：全球8.4B桶库存中仅800M桶可实际提取，已消耗280M桶",
+          "details": "世界进入 2026 年时，拥有8.4B桶的健康库存，约6.6B，另有1.8B桶处于海上漂浮状态，部分漂浮的原油只是处于从生产国到消费国的运输途中，而其他原油实际上起到了海上浮仓的作用。按类型划分，约有5.2B桶是原油，3.2B桶是成品油；必须区分由政府控制的战略石油储备 (SPR) 和私营部门持有的商业库存。在全球8.4B桶的总体指标中，我们估计只有800M桶是可以在不将系统推向操作压力的情况下实际可供提取的。截至4/23，已有约280M桶被消耗以缓解冲突带来的冲击",
+          "important": true
+        },
+        {
+          "actor": "GS Oil",
+          "actor_type": "Analyst",
+          "text": "GS：海峡中断对全球商业石油库存净冲击为12.6mb/d",
+          "details": "海峡中断对全球商业石油库存的净冲击为12.6 mb/d（图）",
+          "important": false
+        },
+        {
+          "actor": "JPM OIL",
+          "actor_type": "Analyst",
+          "text": "JPM：库存提取分五层，预计6月初OECD库存触及操作压力",
+          "details": "提取库存的过程就像剥洋葱一样分阶段进行，由获取速度、经济成本、政治意愿和物流难度决定。第一层：水上原油与漂浮商业库存，最容易获取，过去两个月已下降74M桶；第二层：商业陆地库存，OECD商业库存4月份以约2.2M b/d的速度下降；第三层：战略石油储备(SPR)，自3月26日起日本已释放61M桶；第四层：需求破坏，高油价开始抑制需求，全球石油需求已出现萎缩。预计OECD商业库存将在6月初触及操作压力水平；第五层：操作最低库存，必须不惜一切代价避免动用",
+          "important": false
+        },
+        {
+          "actor": "GS Oil",
+          "actor_type": "Analyst",
+          "text": "GS：若封锁延长，海湾原油产量恢复预测存下行风险",
+          "details": "如果对伊朗的封锁可能延长，则意味着海湾原油产量恢复的预测存在下行风险，按失地产量的比例，到7月/12月恢复约70%/90%",
+          "important": false
+        },
+        {
+          "actor": "美国政府",
+          "actor_type": "US-Executive",
+          "text": "美国将从战略石油储备中向能源公司借出92.5Mb",
+          "details": "美国将从战略石油储备中向能源公司借出92.5Mb",
+          "important": false
+        },
+        {
+          "actor": "日本副财务大臣三浦",
+          "actor_type": "Foreign-Gov",
+          "text": "日本副财务大臣警告准备干预原油期货市场",
+          "details": "日本副财务大臣三浦警告准备干预原油期货市场",
+          "important": false
+        },
+        {
+          "actor": "JPM Jason Hunter",
+          "actor_type": "Analyst",
+          "text": "JPM技术分析：原油支撑$83-84，中期底部$73.5-76.5",
+          "details": "原油市场反弹受阻，但未见明确看跌反转信号。初始支撑位于$83-84区域，中期底部可能在$73.5-76.5",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        2
+      ],
+      "importance": 3,
+      "sources": [
+        "JPM",
+        "GS"
+      ],
+      "date": "2026-05-01",
+      "image_urls": [
+        "/uploads/2026-05-01/f9342b7a2c22.png",
+        "/uploads/2026-05-01/3d18ec96af31.jpg"
+      ]
+    },
+    {
+      "id": "fed-inflation-apr26",
+      "topic": "美联储/通胀",
+      "topic_tag": "fed",
+      "title": "通胀压力持续：Trimmed Mean PCE升至7个月高位，Fed降息门槛提高",
+      "summary": "Dallas Fed Trimmed Mean PCE 3月月率年化2.9%，为7个月最高。GS Mericle指出FOMC内部对平衡指引的支持扩大，主要与战争引发的通胀上行风险有关。MS预计Fed在2026年按兵不动，2027年1月和3月各降息25bp至3.0%-3.25%。",
+      "bullets": [
+        {
+          "actor": "Nick",
+          "actor_type": "Analyst",
+          "text": "Dallas Fed Trimmed Mean PCE 3月月率年化2.9%，7个月最高",
+          "details": "Dallas Fed's \"trimmed mean\"通胀率3月份的月度变化率为2.9%，为7个月以来的最高水平",
+          "important": true
+        },
+        {
+          "actor": "GS David Mericle",
+          "actor_type": "Analyst",
+          "text": "GS：FOMC对平衡指引支持扩大，与战争通胀上行风险有关",
+          "details": "FOMC内部对转向平衡指引的支持扩大，主要与战争引发的通胀上行风险有关。部分持异议的委员可能属于那些预测中性利率高达3.5%或以上的群体。即使未来战争结束，如果通胀率仍接近3%而非2%，即便大部分超标源于关税和能源价格传导，部分FOMC参与者仍可能对降息持犹豫态度",
+          "important": false
+        },
+        {
+          "actor": "MS Michael T Gapen",
+          "actor_type": "Analyst",
+          "text": "MS预计Fed 2026年按兵不动，2027年1月和3月各降息25bp",
+          "details": "预计美联储将在2026年按兵不动，随后在2027年1月和3月各降息25bp，联邦基金利率终端目标区间降至3.0%-3.25%",
+          "important": false
+        },
+        {
+          "actor": "MS Michael T Gapen",
+          "actor_type": "Analyst",
+          "text": "美联储降息门槛提高，需看到核心通胀减速和关税影响消退",
+          "details": "美联储对降息的门槛提高，要求看到核心通胀切实减速的证据，特别是关税影响消退和能源价格回落的确切信号",
+          "important": false
+        },
+        {
+          "actor": "Mike Konczal",
+          "actor_type": "KOL",
+          "text": "Konczal：服务业通胀日益成为驱动因素，非仅伊朗和关税",
+          "details": "Warsh会说绿色方框代表的是伊朗和关税，才是真正的驱动因素。但我们必须看到，橙色方框代表的服务业，正日益成为驱动因素（图4）",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 2,
+      "sources": [
+        "Dallas Fed",
+        "GS",
+        "MS"
+      ],
+      "date": "2026-05-01",
+      "image_urls": [
+        "/uploads/2026-05-01/a4ad5200c59b.jpg"
+      ]
+    },
+    {
+      "id": "us-china-diplomacy-apr26",
+      "topic": "中美关系",
+      "topic_tag": "geo",
+      "title": "王毅与Rubio通话：台湾问题是中美关系最大风险点",
+      "summary": "王毅同美国国务卿Rubio通电话，强调台湾问题事关中国核心利益，是中美关系的最大风险点。双方还就中东局势等交换了意见。",
+      "bullets": [
+        {
+          "actor": "王毅",
+          "actor_type": "Foreign-Gov",
+          "text": "王毅与Rubio通话：台湾问题是中美关系最大风险点",
+          "details": "王毅同美国国务卿Rubio通电话，称台湾问题事关中国的核心利益是中美关系的最大风险点，双方还就中东局势等交换了意见",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump不想因伊朗战争再次推迟访华行程",
+          "details": "Trump不想因为伊朗战争再次推迟访华行程",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-01",
+      "image_urls": []
+    },
+    {
+      "id": "market-technicals-apr26",
+      "topic": "市场技术面",
+      "topic_tag": "macro-other",
+      "title": "SPX创新高但广度极窄，动量因子年内涨25%",
+      "summary": "GS Macroscope指出动量因子今年迄今已上涨25%，广度降至近几十年（除互联网泡沫外）最窄水平之一。SPX已反弹14%并达历史新高，但成分股中位数仍较各自高点低13%。",
+      "bullets": [
+        {
+          "actor": "GS Macroscope",
+          "actor_type": "Analyst",
+          "text": "动量因子年内涨25%，广度降至近几十年最窄水平之一",
+          "details": "动量因子今年迄今已上涨25%，广度降至近几十年中（除互联网泡沫外）最窄的水平之一。SPX已反弹14%，并达到历史新高，然而，SPX成分股的中位数仍较各自高点低13%",
+          "important": true
+        },
+        {
+          "actor": "JPM Jason Hunter",
+          "actor_type": "Analyst",
+          "text": "黄金跌破$4600指向$4075-4264支撑，阻力$4655",
+          "details": "黄金跌破$4600，指向$4075-4264的中期区间支撑。关键战术阻力位于$4655（4月38.2%回撤位）。若跌势延续，预计黄金将在$4200附近构建看涨反转形态",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "JPM"
+      ],
+      "date": "2026-05-01",
+      "image_urls": []
+    },
+    {
+      "id": "spx-index-rules-apr26",
+      "topic": "标普指数规则",
+      "topic_tag": "policy",
+      "title": "标普考虑修改规则：IPO后6个月即可纳入指数",
+      "summary": "标普正在考虑修改规则，允许公司更快加入标普指数。此举正值SpaceX、OpenAI和Anthropic即将上市之际，计划将上市后纳入时间从12个月缩短至6个月，并取消散户流通股比例至少10%及净利润为正的要求。",
+      "bullets": [
+        {
+          "actor": "标普",
+          "actor_type": "Corporate",
+          "text": "标普考虑允许公司上市6个月后即可纳入指数",
+          "details": "标普正在考虑修改规则，允许公司更快地加入标普指数。此举正值 SpaceX、OpenAI 和 Anthropic 即将上市之际，预计这些公司将于今年晚些时候进行 IPO，计划公司上市后只需满 6 个月，就可以被纳入指数，而以前要求是上市后满 12 个月，以前要求散户流通股比例至少达到 10%，这项规则也被取消，不再要求公司净利润为正",
+          "important": true
+        },
+        {
+          "actor": "SEC",
+          "actor_type": "US-Executive",
+          "text": "SEC批准纳斯达克上市与主要股指挂钩的预测工具",
+          "details": "SEC批准了纳斯达克期权交易平台提出的一项提案，允许其上市交易一类与主要股指挂钩的新型股票市场预测工具",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-01",
+      "image_urls": [
+        "/uploads/2026-05-01/33cfcc08c9f6.jpg"
+      ]
+    },
+    {
+      "id": "hyperscaler-capex-apr26",
+      "topic": "AI基建投资",
+      "topic_tag": "ai",
+      "title": "大厂Capex上调：2026/2027年将达$800B/$1.1T",
+      "summary": "MS上调超大规模云厂商Capex预测，2026/2027年将达$797B/$1.1T，较此前$765B/$950B上调。MSFT和GOOGL增幅最大。同时Andy指出谷歌最近一季度未回购任何股票，META过去两季取消回购。",
+      "bullets": [
+        {
+          "actor": "MS",
+          "actor_type": "Analyst",
+          "text": "MS：Hyperscaler Capex 2026/2027年升至$800B/$1.1T",
+          "details": "We now see Hyperscaler capex approaching $800bn/$1.1trln in '26/'27 vs $765bn/$950bn prior。2024年总计$261B，2025年$449B，2026年Current $797B（Prior $765B），2027年Current $1,108B（Prior $951B）。MSFT和GOOGL增幅最大",
+          "important": true
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "谷歌最近一季度未回购股票，META连续两季取消回购",
+          "details": "谷歌一直以每年约50B股的速度回购股票，平均每个季度约12B股。但最近一个季度，他们没有回购任何股票。META 在过去两个季度取消了股票回购计划",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GOOGL",
+        "META",
+        "MSFT",
+        "AMZN",
+        "ORCL"
+      ],
+      "image_indexes": [
+        4
+      ],
+      "importance": 2,
+      "sources": [
+        "MS"
+      ],
+      "date": "2026-05-01",
+      "image_urls": [
+        "/uploads/2026-05-01/8f2fb5edec06.jpg"
+      ]
+    },
+    {
+      "id": "other-macro-apr26",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "其他宏观消息：俄乌、LLY、威士忌关税等",
+      "summary": "乌克兰无人机袭击俄罗斯图阿普谢港口，两周内第四起。LLY上调年度销售和利润预期。Trump将取消与苏格兰和肯塔基州威士忌相关的关税限制。",
+      "bullets": [
+        {
+          "actor": "乌克兰",
+          "actor_type": "Foreign-Gov",
+          "text": "乌克兰无人机袭击俄罗斯图阿普谢港口，两周内第四起",
+          "details": "俄罗斯黑海港口城市图阿普谢的一个码头遭到乌克兰无人机袭击后起火，当地政府周五表示，这是两周多以来发生的第四起此类袭击",
+          "important": false
+        },
+        {
+          "actor": "LLY",
+          "actor_type": "Corporate",
+          "text": "LLY上调年度销售和利润预期，肥胖症药物需求飙升",
+          "details": "LLY上调了年度销售额和利润预期，令华尔街感到意外，因为对肥胖症药物的需求飙升",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump将取消苏格兰与肯塔基州威士忌领域的关税限制",
+          "details": "将取消与苏格兰与肯塔基州在威士忌和波旁威士忌领域合作相关的威士忌关税和限制",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "LLY"
+      ],
+      "image_indexes": [
+        5
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-05-01",
+      "image_urls": [
+        "/uploads/2026-05-01/fcc711a4b13a.png"
+      ]
+    }
+  ]
+}
