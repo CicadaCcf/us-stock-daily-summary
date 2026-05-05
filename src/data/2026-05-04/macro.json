@@ -1,0 +1,696 @@
+{
+  "topics": [
+    {
+      "id": "iran-us-hormuz-crisis-may26",
+      "topic": "美伊霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊霍尔木兹对峙升级：自由计划启动与伊朗14点方案",
+      "summary": "Trump宣布\"自由计划\"周一启动，引导被困船只安全离开霍尔木兹海峡，同时警告任何干扰将被强力应对。伊朗提出14点谈判方案设1个月期限，但核心要求基本未变。5/4两艘油轮遭伊朗袭击，局势持续紧张。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "\"自由计划\"周一启动，将引导被困船只安全离开海峡",
+          "details": "为了伊朗、中东和美国自身的利益，我们已告知这些国家，我们将引导他们的船只安全地驶出这些受限水域，这些船只来自世界不同地区，与当前中东地区发生的事件毫无关联，我们将尽最大努力确保他们的船只和船员安全离开该海峡。在任何情况下，他们均表示除非该地区变得对航行及其他一切活动都安全无虞，否则他们不会返回。这一进程，即\"自由计划\"，将于中东时间周一早上开始。我完全清楚我的代表正与伊朗国家进行非常积极的对话，而这些对话可能为各方带来非常积极的结果。此次船舶行动只是为了释放那些绝对没有犯过任何错误的人、公司和国家——他们是环境的受害者。这是代表美国、中东国家，但尤其是伊朗国家的人道主义姿态。如果这一人道主义进程在任何方面遭到干扰，那么这种干扰将不可避免地需要被强力应对。",
+          "important": true
+        },
+        {
+          "actor": "伊朗",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗提出新14点谈判方案，设1个月最后期限",
+          "details": "伊朗提出新14点谈判方案，并设定1个月最后期限，第一阶段：重新开放霍尔木兹海峡 + 结束当前战争，同时要求美国解除海军封锁。第二阶段：在第一阶段协议达成后，再推进核协议谈判；但在提案中基本保持原要求不变，保证不恢复对伊朗的战斗行动、美军撤出当地地区、停止对霍尔木兹海峡的美国海上封锁、释放冻结的伊朗资产、结束以色列-黎巴嫩冲突以及赔偿",
+          "important": true
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "5/4两艘油轮遭伊朗袭击",
+          "details": "5/4，2艘油轮遭到伊朗袭击",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "伊朗在霸凌中东国家，消除了85%火箭生产",
+          "details": "伊朗在霸凌中东国家，我们消除了85%的火箭生产，有能力对空伊朗无人机，伊朗的粮食储备将在三个月内耗尽，消除了伊朗领导层的第一层和第二层，伊朗需要20年时间重建能力，但我们不会现在撤军，不会提前离开，否则问题会再次发生，我当然想消灭伊朗剩下的一切，对伊朗的围困太宽容了；军事打击有可能恢复，如果局势升级，可能会重新进入主动冲突",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "与伊朗通过电话会谈，对核问题提议不满",
+          "details": "与伊朗正在通过电话进行会谈，伊朗强硬派也想达成协议，对伊朗的核问题提议感到不满，表示伊朗谈判目前还没有进展",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "无法想象伊朗计划可接受，过去47年未付足够代价",
+          "details": "很快会审查伊朗刚刚发给我们的计划，但我无法想象这是可以接受的，因为他们过去47年来对人类和世界所做的一切还没有付出足够大的代价",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "发文配图把霍尔木兹海峡称为Trump海峡",
+          "details": "发文配图把Hormuz海峡称为Trump海峡",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "完成伊朗任务后将前往古巴接管",
+          "details": "完成伊朗任务后，我们将前往古巴，接管古巴",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "美国已完全控制霍尔木兹海峡，封锁将持续",
+          "details": "1.美国已完全控制霍尔木兹海峡。2.伊朗硬通货(即美元)出现短缺。3.食品和汽油已实行配给制。4.整个国际社会都已转向反对你们。5.封锁将持续下去，直到恢复2月27日之前的航行自由",
+          "important": false
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "批准向中东盟国快速武器转让，绕过国会审查",
+          "details": "批准了向以色列、科威特、卡塔尔和阿拉伯联合酋长国的快速武器转让，绕过了国会的标准审查，加快向中东输送防空导弹和激光制导系统",
+          "important": false
+        },
+        {
+          "actor": "Steve Witkoff",
+          "actor_type": "US-Executive",
+          "text": "周一向美国发送修正案清单，重点将核问题纳入草案",
+          "details": "周一，白宫特使 Steve Witkoff向美国发送了一份修正案清单，根据知情人士透露，这些修正案的重点是将核问题重新纳入草案文本，其中一项修正案要求伊朗承诺不试图将其浓缩铀移出被轰炸的核设施，或在这些地点重新开始任何活动，据称周五伊朗已向美国就结束战争的最新修正案做出回应（Axios）",
+          "important": false
+        },
+        {
+          "actor": "伊朗",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗同意通过技术委员会讨论核问题，长期冻结铀浓缩",
+          "details": "伊朗回应细节：德黑兰同意通过技术委员会讨论核问题，长期冻结铀浓缩活动，并将导弹和武器问题推迟到后续阶段（AlArabiya）",
+          "important": false
+        },
+        {
+          "actor": "伊朗议会国家安全委员会主席",
+          "actor_type": "Foreign-Gov",
+          "text": "美国若干预霍尔木兹海峡系统将视为违反停火协议",
+          "details": "伊朗议会国家安全委员会主席回应自由通行计划，霍尔木兹海峡和海湾水域的管理工作将不会受到美国总统那些妄自尊大的言论的影响，美国若对霍尔木兹海峡系统实施任何干预，都将被视为对停火协议的违反",
+          "important": false
+        },
+        {
+          "actor": "IRGC发言人",
+          "actor_type": "Foreign-Gov",
+          "text": "海峡管理方式未变，不遵守机制将面临严重后果",
+          "details": "IRGC发言人：霍尔木兹海峡的管理方式没有发生任何变化，任何不遵守我海军公布机制的海上行动都将面临严重后果，海峡的所有航行都将与其武装部队协调进行",
+          "important": false
+        },
+        {
+          "actor": "伊朗外交部",
+          "actor_type": "Foreign-Gov",
+          "text": "谈判进行中，美方不放弃强硬要求，正与阿曼讨论联合机制",
+          "details": "伊朗外交部：谈判仍在进行中，我们已收到美方的回应，我们将通过巴基斯坦调解人宣布我们的立场，美国方面依然不放弃其强硬要求，DC正在放缓和平协议步伐，我们正在与阿曼讨论建立霍尔木兹海峡联合机制",
+          "important": false
+        },
+        {
+          "actor": "伊朗司法主管",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗不寻求持续冲突，但尊严受威胁准备战斗",
+          "details": "伊朗司法主管戈拉姆侯赛因·莫赫塞尼·埃杰伊表示，该国不寻求持续冲突，但如果\"尊严\"受到威胁，准备战斗",
+          "important": false
+        },
+        {
+          "actor": "伊朗副外长",
+          "actor_type": "Foreign-Gov",
+          "text": "已向巴基斯坦提交结束战争建议，球在美国手中",
+          "details": "伊朗副外长：我们已向巴基斯坦提交了决定性结束战争的建议，现在球在美国手中，选择外交路线还是继续对抗，伊朗已完全准备好应对任何侵略",
+          "important": false
+        },
+        {
+          "actor": "中央司令部",
+          "actor_type": "US-Executive",
+          "text": "自由计划军事支持含驱逐舰、100+飞机、15K军人",
+          "details": "中央司令部表示对\"自由计划\"的军事支持将包括导弹驱逐舰、100 多架陆基和海基飞机、多域无人平台和15K军人",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "5/2-5/3共9艘船通行海峡，其中2艘出湾油轮",
+          "details": "【日度通行】5/2 17:30 - 5/3 17:30 共9艘，其中2艘出湾Tanker",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "伊朗VLCC油轮载1.9Mb原油躲避美海军抵达远东",
+          "details": "一艘由伊朗国家油轮公司（NITC）运营的 VLCC 超级油轮，载有超过1.9Mb（价值近$220M）原油，成功躲避了美国海军，抵达远东",
+          "important": false
+        },
+        {
+          "actor": "Axios",
+          "actor_type": "新闻",
+          "text": "自由通行计划是对伊朗控制海峡的明确挑战",
+          "details": "AXIOS报道虽然Trump声称自由同行计划是\"人道主义\"，但这是美国对德黑兰控制海峡努力的明确挑战。伊朗的军事反应可能会引发对抗，甚至重新升级为战争，一位官员说，如果需要防止伊朗军方攻击通过海峡的商业船只，美国海军舰艇将\"在附近\"。美国海军将向商业船只提供关于海峡最佳航道的信息，特别是在使用没有被伊朗军方埋设地雷的航道时",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "美国协助船只离开任务不涉及海军护航",
+          "details": "WSJ报道Trump宣布的美国协助船只驶离波斯湾的任务将不会涉及美国海军的护航行动",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "伊朗提交结束战争新提案暗示妥协，但实质分歧巨大",
+          "details": "WSJ报道伊朗向华盛顿提交了一份结束战争的新提案，暗示妥协，试图重启谈判，结束这场对其经济造成代价沉重的僵局。然而，知情人士称，双方在重开霍尔木兹海峡和伊朗核计划等实质性问题上仍存在巨大分歧，这表明谈判将继续充满紧张",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "伊朗放弃解除封锁作为谈判条件以换取更长停火",
+          "details": "WSJ报道伊朗在一定程度上愿意进行谈判，并放弃了解除封锁作为谈判条件，前提是他们能够从美国/以色列那里获得更长时间的停火",
+          "important": false
+        },
+        {
+          "actor": "Axios",
+          "actor_type": "新闻",
+          "text": "沙特阿联酋关系破裂，阿联酋主战沙特求退",
+          "details": "AXIOS报道沙特和阿联酋关系破裂，虽然两国的设施都遭受了伊朗无人机的袭击，但阿联酋主张战斗到底，而沙特则在经济受损后急于寻求退出战争的途径",
+          "important": false
+        },
+        {
+          "actor": "高级外交官",
+          "actor_type": "Foreign-Gov",
+          "text": "预计伊朗与美国敌对行动将恢复",
+          "details": "一位在德黑兰参与谈判的高级外交官预计伊朗与美国之间的敌对行动将恢复",
+          "important": false
+        },
+        {
+          "actor": "DoD",
+          "actor_type": "US-Executive",
+          "text": "美国将在6-12个月内从德国撤出约5K士兵",
+          "details": "美国将在未来6-12mo内从德国撤出约5k士兵",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "Axios",
+        "AlArabiya"
+      ],
+      "date": "2026-05-04",
+      "image_urls": []
+    },
+    {
+      "id": "fed-policy-outlook-may26",
+      "topic": "美联储政策",
+      "topic_tag": "fed",
+      "title": "Fed官员分歧：通胀担忧与伊朗冲击下的利率路径",
+      "summary": "Fed官员对政策路径出现分歧。Kashkari认为伊朗战争可能导致加息或降息两种路径，若能源基础设施长期关闭可能需要一系列加息。Logan和Goolsbee均对通胀表示担忧。摩根士丹利预计2026年全年利率不变，降息推迟至2027年初。",
+      "bullets": [
+        {
+          "actor": "Kashkari",
+          "actor_type": "Central-Bank",
+          "text": "伊朗战争下利率可能加也可能降，长期基建受损或需一系列加息",
+          "details": "鉴于伊朗战争可能带来的各种结果，statement应该表明下一步利率变动可能是cut也可能是hike。一是霍尔木兹海峡迅速重新开放，这似乎也是市场预期之中的情况。在这种情况下，美联储可以维持利率不变一段时间，然后随着冲击消退逐步降息。二是能源和商品基础设施长期关闭和受损——可能需要提高利率，\"甚至可能需要一系列的提高……即使这意味着劳动力市场进一步疲软\"，以稳定市场预期",
+          "important": true
+        },
+        {
+          "actor": "Logan",
+          "actor_type": "Central-Bank",
+          "text": "越来越担心通胀恢复到2%目标需要多久",
+          "details": "越来越担心通胀需要多久才能完全恢复到联邦公开市场委员会设定的2%的目标水平，我关注的是剔除极端价格波动或价格波动较大类别的通胀指标。即使在近期能源和其他大宗商品价格上涨之前，这些指标也已显著高于2%",
+          "important": false
+        },
+        {
+          "actor": "Goolsbee",
+          "actor_type": "Central-Bank",
+          "text": "上周通胀数据是\"坏消息\"",
+          "details": "上周的通胀数据是\"坏消息\"",
+          "important": false
+        },
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "Fed转向中性，预计2026年全年利率不变，降息推迟至2027年初",
+          "details": "Fed立场转向中性，降息门槛提高。因经济韧性与通胀粘性，预计2026年全年维持利率不变，降息推迟至2027年初",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Morgan Stanley"
+      ],
+      "date": "2026-05-04",
+      "image_urls": []
+    },
+    {
+      "id": "oil-energy-outlook-may26",
+      "topic": "原油与能源",
+      "topic_tag": "oil",
+      "title": "霍尔木兹危机冲击能源市场：高盛上调油价预期",
+      "summary": "因伊朗冲突致霍尔木兹海峡中断延长，高盛将2026年Q4布伦特原油价上调至90美元/桶。摩根士丹利预计造成3.6-4.3Mb/d的需求破坏。俄罗斯普里莫尔斯克港遭无人机袭击起火，日本已停止公布石油储备数据并表示愿干预原油期货市场。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "上调Q4布伦特油价至90美元/桶，预计核心PCE升至2.6%",
+          "details": "因伊朗冲突致霍尔木兹海峡中断延长，高盛将2026年Q4布伦特原油价上调至90美元/桶。预计美12月核心PCE通胀升至2.6%，Fed需劳动力市场软化才降息",
+          "important": true
+        },
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "中东冲突致3.6-4.3Mb/d需求破坏，全球需求增长预期下调",
+          "details": "中东冲突致霍尔木兹海峡石油流量骤减，预计造成3.6-4.3M b/d的需求破坏，2026年全球石油需求增长预期下调至0.8M b/d",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "俄罗斯最大波罗的海石油出口码头遭无人机袭击起火",
+          "details": "俄罗斯最大的波罗的海石油出口码头——普里莫尔斯克港，今晨着火。NASA 的 FIRMS 在乌克兰攻击无人机袭击该港口后不久，发现港口发生多起火灾",
+          "important": false
+        },
+        {
+          "actor": "日本",
+          "actor_type": "Foreign-Gov",
+          "text": "日本停止公布石油储备数据，表示愿干预原油期货市场",
+          "details": "日本已停止公布石油储备数据，日本外汇官员表示愿意干预原油期货市场",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "CVX",
+        "VLO",
+        "PSX"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "NASA FIRMS"
+      ],
+      "date": "2026-05-04",
+      "image_urls": []
+    },
+    {
+      "id": "us-rates-bonds-may26",
+      "topic": "美债与利率",
+      "topic_tag": "rates",
+      "title": "卖方看空美债久期：DB上调10Y目标至4.45%",
+      "summary": "德银维持看空美债久期观点，将10Y目标上调至4.45%，推荐做多5y5y CPI互换目标260bp。高盛认为美国利率缺乏持续压低收益率的催化剂，倾向于carry表达并保留通胀多头对冲。巴克莱预计Fed将在5月中旬将RMP削减至每月10B。",
+      "bullets": [
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "看空美债久期，10Y目标上调至4.45%，推荐做空",
+          "details": "维持对美债久期的看空观点，将10Y目标上调至4.45%。报告指出，受期限溢价上升及财政赤字风险驱动，建议做空10Y美债。同时，鉴于通胀持续性风险重估，推荐做多5y5y美国CPI互换，目标260bp",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "美国利率缺乏压低收益率催化剂，倾向carry并保留通胀对冲",
+          "details": "能源价格仍是全球利率市场的核心变量，但美国利率对油价上行的日度敏感度已经低于3月，因此利率波动没有重新回到冲突初期水平。美国利率缺乏能够持续压低收益率的催化剂：一方面没有明显的地缘缓和relief，另一方面增长下行担忧尚未强到把油价冲击从鹰派通胀冲击转化为增长冲击。在较高起点收益率和油价敏感度下降的背景下，报告倾向于继续寻找carry表达，同时保留通胀多头作为更持久或更扰动性能源情景的对冲",
+          "important": false
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "资金面受支持，但下半年杠杆需求可能带来资金压力",
+          "details": "资金面方面，回购市场目前受到美联储RMP操作、eSLR改革增加的dealer资产负债表容量以及季节性TGA下降的支持，维持做多1y1y SOFR/FF。然而，随着Tbills发行量显著增加以及跨保证金设施的临近，杠杆需求可能重新出现，导致资金压力在下半年重现",
+          "important": false
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "预计Fed将5月中旬将RMP削减至月10B，9月回调至月20B",
+          "details": "随着GSIB资产负债表回升、SLR改革生效以及美联储对短期国债的需求减少净供应，融资压力并未在税务季节出现反弹。巴克莱预计美联储将在5月中旬将RMP削减至每月10B，并在9月中旬回调至每月20B",
+          "important": false
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "2026年短债净供应预计900B，Q2/Q3对私人投资者净供应230B/342B",
+          "details": "2026年短期国债净供应预计达到900B，其中Fed通过RMP和MBS runoff购买约435B，留给私人投资者的净供应约为450B。Q2和Q3对私人投资者的净供应预测分别为230B和+342B。国防支出和中期选举前的刺激措施可能带来供应上行风险",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "在ZB加大1x2 put spread仓位看空债市，Sharpe仅0.046",
+          "details": "在ZB上加了一笔比较大的1x2 put spread仓位（看跌期权比率组合），看空债市，原因是目前10Y swap的fix leg只有3.93%，加上swap spread（43bp）+ Kim term premium（65bp）后，杠杆做多国债的预期超额回报只有23bp,这还是在一个波动率约5%的品种上 → Sharpe Ratio仅0.046（极差）,尽管风险调整后回报这么差，保险公司、对冲基金、杠杆投资者仍在大量杠杆做多国债，认为债市已经严重过热",
+          "important": false
+        },
+        {
+          "actor": "Ed Bradford",
+          "actor_type": "KOL",
+          "text": "SR1显示原油飙升是否导致二次通胀需时间确定，2026加息不大",
+          "details": "SR1目前非常奇怪的path表明，原油价格飙升是否会导致第二轮通胀，还需要一段时间才能确定。2026年加息的可能性不大，而是推迟到2027年中期",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Deutsche Bank",
+        "Goldman Sachs",
+        "Barclays"
+      ],
+      "date": "2026-05-04",
+      "image_urls": []
+    },
+    {
+      "id": "earnings-outlook-may26",
+      "topic": "财报与盈利预期",
+      "topic_tag": "earnings",
+      "title": "Q1盈利强劲但预期或过高：能源科技领跑，利润率承压",
+      "summary": "高盛报告SPX Q1 EPS增速剔除一次性项后达16%，情绪指标升至1.7高位预示短期回报承压。能源和科技板块盈利修正最强，但管理层频繁提及大宗商品成本压力。多位KOL认为未来12个月盈利增长预期yoy 26.5%可能过高。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "SPX Q1 EPS增速剔一次性达16%，情绪指标1.7高位，维持年底7600点",
+          "details": "SPX Q1 EPS增速剔除一次性项后达16%，但情绪指标升至1.7高位，预示短期回报承压。AI资本支出预期飙升至751B，推动基建股盈利上调，但导致回购增速降至1%。维持SPX年底7600点目标，建议警惕高仓位下的波动风险",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "大型科技巨头Q1营收同比增20%，净利润增61%，1/3来自PE投资",
+          "details": "大型科技巨头（AMZN, GOOGL, META, MSFT）Q1营收同比增长20%，净利润增长61%，其中近1/3利润来自私募股权投资的\"其他收入\"。2026年AI hyperscaler资本支出预期上调至751B，较年初增加80B",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "管理层频繁提及大宗商品成本压力，利润率预期可能下调",
+          "details": "尽管分析师普遍预计SPX中位数成分股今年利润率将扩张129bps，但管理层在财报电话会中频繁提及大宗商品投入成本压力。分析师已下调多数行业Q2利润率预期，GS认为随着成本压力显现，未来的共识利润率预期可能会进一步下调",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "未来12个月盈利增长预期飙升至yoy 26.5%，认为预期过高",
+          "details": "在最近的财报和业绩指引发布后，未来12个月的盈利增长预期已飙升至yoy26.5%。如果我们能实现一半的盈利增长预期，那么一年后股票的表现将相当不错，那么它们的价格将会非常便宜。但在此过程中，预期可能会发生变化。在我看来目前的预期确实过高了",
+          "important": false
+        },
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "盈利增长势头正在加速，yoy上调超25%，预期趋于稳定",
+          "details": "盈利增长势头正在加速。目前yoy上调超过25%。在第一季度财报的第一部分结束后，未来预期正在趋于稳定",
+          "important": false
+        },
+        {
+          "actor": "Bob",
+          "actor_type": "KOL",
+          "text": "2026年美国经济增长预期仍过高，通胀预期仍过低",
+          "details": "2026年美国的经济增长预期仍然过高，而通胀预期仍然过低",
+          "important": false
+        },
+        {
+          "actor": "James Chaos",
+          "actor_type": "KOL",
+          "text": "AI资本支出推高SPX 2026-27 EPS预期，资本支出利润魔力飙升",
+          "details": "鉴于收入/利润（即时确认）与成本（大部分资本化）在会计处理上的不匹配，人工智能相关资本支出预期的大幅增长也将推高标普500指数2026-2027年的每股收益预期。资本支出带来的利润\"魔力\"正在飙升",
+          "important": false
+        },
+        {
+          "actor": "Emma",
+          "actor_type": "KOL",
+          "text": "股市走强带来财富效应支撑消费，金融环境宽松赋予Fed按兵不动底气",
+          "details": "股市走强带来的\"财富效应\"，再次为消费预期提供了坚实支撑。整体而言，3月下旬以来金融环境已边际宽松，这与股市的反弹步调高度吻合。随着美股屡创新高，金融环境的宽松效应赋予了美联储更多\"按兵不动\"的底气，以进一步观察冲突对实际消费和宏观经济增长的后续影响。今年3月，油价飙升导致金融环境收紧的风险，曾是鸽派阵营支持降息的重要论据",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "AMZN",
+        "GOOGL",
+        "META",
+        "MSFT",
+        "DOW",
+        "INTC",
+        "CF",
+        "STX",
+        "TXN",
+        "SNDK",
+        "CVX",
+        "VLO",
+        "PSX",
+        "LYB"
+      ],
+      "image_indexes": [
+        0,
+        1,
+        5,
+        6,
+        7
+      ],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs",
+        "FactSet",
+        "3Fourteen Research"
+      ],
+      "date": "2026-05-04",
+      "image_urls": [
+        "/uploads/2026-05-04/e44ac81d2c95.png",
+        "/uploads/2026-05-04/724485f3bcb7.png",
+        "/uploads/2026-05-04/585f70e523c5.png",
+        "/uploads/2026-05-04/6ca4ecbd3ae9.jpg",
+        "/uploads/2026-05-04/2281e5ed373e.jpg"
+      ]
+    },
+    {
+      "id": "ai-capex-macro-may26",
+      "topic": "AI资本支出",
+      "topic_tag": "ai",
+      "title": "AI资本支出预期飙升：2026年达751B约占GDP 2.4%",
+      "summary": "大科技公司2026年AI资本支出预期上调至751B（约占GDP 2.4%），较年初增加80B。高盛指出AI capex推动基建股盈利上调，但导致回购增速降至1%。Bloomberg正开发AI聊天机器人界面ASKB。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "2026年AI hyperscaler资本支出预期上调至751B，较年初增80B",
+          "details": "2026年AI hyperscaler资本支出预期上调至751B，较年初增加80B",
+          "important": true
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "BBG正开发AI聊天机器人界面ASKB，解决信息过载痛点",
+          "details": "BBG称正开发一款AI聊天机器人界面，名为ASKB，目标是用自然语言交互取代传统复杂命令，解决海量数据下\"信息过载、难以提取洞察\"的痛点",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "与Palantir和OpenAI有关联的超级PAC秘密支付影响者宣传亲AI反中国内容",
+          "details": "一个由与Palantir和OpenAI有关联的高管资助的强大超级政治行动委员会支持的亲人工智能\"黑钱\"组织，一直在秘密地向有影响力的人支付费用，让他们在TikTok和IG上宣传亲人工智能、反中国的宣传内容",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MSFT",
+        "GOOGL",
+        "AMZN",
+        "META",
+        "ORCL",
+        "PLTR"
+      ],
+      "image_indexes": [
+        4
+      ],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs",
+        "Bloomberg",
+        "Carson Investment Research"
+      ],
+      "date": "2026-05-04",
+      "image_urls": [
+        "/uploads/2026-05-04/3e6f0594fb22.jpg"
+      ]
+    },
+    {
+      "id": "gold-reserve-outlook-may26",
+      "topic": "黄金与央行储备",
+      "topic_tag": "macro-other",
+      "title": "德银：EM央行推动黄金地位上升，金价五年或接近8000",
+      "summary": "德银强调黄金占比由地缘政治环境驱动。美元在全球央行储备中份额已从60%以上降至约40%，黄金份额则三倍上升至接近30%。若EM央行把黄金占储备目标提高到40%，金价未来五年仍可能接近8000。",
+      "bullets": [
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "美元储备份额从60%降至40%，黄金份额三倍升至接近30%",
+          "details": "强调黄金占比更多受地缘政治环境驱动。美元在全球央行储备中的份额已从60%以上降至约40%，黄金份额则从低点三倍上升至接近30%",
+          "important": true
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "若EM央行黄金目标升至40%，金价五年或接近8000",
+          "details": "报告建立三因素框架：央行持有的黄金数量、黄金价格、全球FX储备规模；三者都由EM推动。若EM央行把黄金占储备目标提高到40%，即便EM FX储备降至5T，金价未来五年仍可能接近8000。长期看，黄金不仅是储值和制裁规避资产，也可能成为降低对美元依赖的新货币秩序锚之一",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GLD",
+        "GDX"
+      ],
+      "image_indexes": [
+        2,
+        3
+      ],
+      "importance": 2,
+      "sources": [
+        "Deutsche Bank"
+      ],
+      "date": "2026-05-04",
+      "image_urls": [
+        "/uploads/2026-05-04/bdc3d5d0c9cb.png",
+        "/uploads/2026-05-04/7da7cc2f0ce3.png"
+      ]
+    },
+    {
+      "id": "trump-tariff-eu-may26",
+      "topic": "关税政策",
+      "topic_tag": "policy",
+      "title": "Trump宣布下周对欧盟汽车加征25%关税",
+      "summary": "Trump宣布下周将对进入美国的欧盟汽车和卡车征收更高关税，税率提高到25%。同时表示如果在美国工厂生产将不会有关税。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "下周对欧盟汽车卡车关税提高至25%，在美生产则无关税",
+          "details": "下周我将对进入美国的欧盟汽车和卡车征收更高的关税。关税将提高到25%。完全理解并同意，如果他们在美国的工厂生产汽车和卡车，将不会有关税",
+          "important": true
+        },
+        {
+          "actor": "中国商务部",
+          "actor_type": "Foreign-Gov",
+          "text": "禁令要求对五家中国公司制裁不得承认、执行或遵守",
+          "details": "中国商务部的禁令要求对这五家中国公司的制裁不得被承认、不执行，也不得遵守",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-04",
+      "image_urls": []
+    },
+    {
+      "id": "sec-disclosure-policy-may26",
+      "topic": "SEC监管",
+      "topic_tag": "policy",
+      "title": "SEC计划允许上市公司财报披露降至每半年一次",
+      "summary": "SEC一项允许上市公司将财报披露频率由每季度一次降至每半年一次的计划已通过白宫审查，进一步接近落地。",
+      "bullets": [
+        {
+          "actor": "SEC",
+          "actor_type": "US-Executive",
+          "text": "财报披露频率由季度改半年的计划已通过白宫审查",
+          "details": "一项允许上市公司将财报披露频率由每季度一次降至每半年一次的计划，已通过白宫审查，进一步接近落地",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "签署EO加快精神疾病患者获得迷幻辅助治疗，关注退伍军人",
+          "details": "签署了一项新的EO，旨在加快美国严重精神疾病患者获得迷幻辅助治疗的途径，特别关注那些与PTSD、抑郁症、物质使用障碍和自杀风险作斗争的退伍军人",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-04",
+      "image_urls": []
+    },
+    {
+      "id": "kol-iran-analysis-may26",
+      "topic": "KOL观点",
+      "topic_tag": "geo",
+      "title": "KOL分析：伊朗不会投降，军事目标无法实现",
+      "summary": "KOL @citrinowicz认为伊朗不会投降，政权短期内不会崩溃，军事上彻底瓦解伊朗轴心的目标完全无法实现。另一KOL认为伊朗公开向Trump发动战争挑战表明其认为自己处于战略优势。",
+      "bullets": [
+        {
+          "actor": "@citrinowicz",
+          "actor_type": "KOL",
+          "text": "伊朗不会投降，军事瓦解伊朗轴心目标无法实现",
+          "details": "伊朗不会投降，政权短期内也不会崩溃。任何大规模军事行动只会进一步加剧全球经济压力。军事上彻底瓦解伊朗轴心这类目标完全无法实现，以此为基础的军事计划从一开始就注定失败。战术层面的成功与战略层面的宏大目标之间存在巨大差距，最终只会带来深刻失望",
+          "important": true
+        },
+        {
+          "actor": "Patarames",
+          "actor_type": "KOL",
+          "text": "伊朗极端要求短期时间表表明其认为自己处于战略优势",
+          "details": "伊朗公开向特朗普发动战争挑战，极端要求，短期时间表，只有当你真的认为自己处于战略优势时，你才会这样",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-05-04",
+      "image_urls": []
+    },
+    {
+      "id": "other-news-may26",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "其他市场动态",
+      "summary": "GameStop准备向eBay提出收购要约。低价航空Spirit Airlines因政府救市计划未谈妥5/2起停止运营。Buffett表示美国从未有过如此多赌博心态投资者但机会依然存在。",
+      "bullets": [
+        {
+          "actor": "GameStop",
+          "actor_type": "Corporate",
+          "text": "GameStop准备向eBay提出收购要约",
+          "details": "GameStop准备向eBay提出收购要约",
+          "important": false
+        },
+        {
+          "actor": "Spirit Airlines",
+          "actor_type": "Corporate",
+          "text": "政府救市计划未谈妥，Spirit Airlines 5/2起停止运营",
+          "details": "政府救市计划没谈妥，低价航空公司Spirit Airlines 5/2开始停止运营、所有航班全部取消",
+          "important": false
+        },
+        {
+          "actor": "Buffett",
+          "actor_type": "Corporate",
+          "text": "美国从未有如此多赌博心态投资者，但机会依然存在",
+          "details": "美国从未有过如此多的\"赌博心态\"投资者，但机会依然存在",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GME",
+        "EBAY",
+        "SAVE"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-05-04",
+      "image_urls": []
+    }
+  ]
+}
