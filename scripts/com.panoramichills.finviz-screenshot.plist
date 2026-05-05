@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  launchd job: daily Finviz bubble-map screenshot.
+
+  Schedule (Mac local time = Asia/Shanghai, CST UTC+8):
+    Goal: fire ~30 min after US market close (16:30 ET).
+    Because Beijing has no DST and US has, "16:30 ET" maps to two different
+    Beijing times across the year:
+      - Mar–Nov (EDT, UTC-4): 16:30 ET = 04:30 Beijing next day
+      - Nov–Mar (EST, UTC-5): 16:30 ET = 05:30 Beijing next day
+    We fire at BOTH 04:30 and 05:30 every weekday. The wrapper is idempotent
+    (skips if archive exists) and time-gated (skips if NY hour < 16), so the
+    "wrong" half always no-ops.
+    Sat-Sun → wrapper skips (no US trading)
+  RunAtLoad=true → catch-up if the Mac was off at the scheduled time
+
+  Install:
+    cp scripts/com.panoramichills.finviz-screenshot.plist \
+       ~/Library/LaunchAgents/
+    launchctl load -w ~/Library/LaunchAgents/com.panoramichills.finviz-screenshot.plist
+
+  Disable / remove:
+    launchctl unload -w ~/Library/LaunchAgents/com.panoramichills.finviz-screenshot.plist
+    rm ~/Library/LaunchAgents/com.panoramichills.finviz-screenshot.plist
+
+  Logs: ~/Library/Logs/finviz-screenshot.{out,err}.log
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.panoramichills.finviz-screenshot</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/future/us-stock-daily-summary/.claude/worktrees/awesome-hertz-8e0ae2/scripts/daily_finviz.sh</string>
+    </array>
+
+    <!-- Mon–Fri × {04:30, 05:30} Asia/Shanghai (covers EDT and EST).
+         launchd Weekday: 1=Mon, 2=Tue, 3=Wed, 4=Thu, 5=Fri (0/7=Sun, 6=Sat). -->
+    <key>StartCalendarInterval</key>
+    <array>
+        <!-- 04:30 — fires at 16:30 EDT (summer) -->
+        <dict><key>Weekday</key><integer>1</integer><key>Hour</key><integer>4</integer><key>Minute</key><integer>30</integer></dict>
+        <dict><key>Weekday</key><integer>2</integer><key>Hour</key><integer>4</integer><key>Minute</key><integer>30</integer></dict>
+        <dict><key>Weekday</key><integer>3</integer><key>Hour</key><integer>4</integer><key>Minute</key><integer>30</integer></dict>
+        <dict><key>Weekday</key><integer>4</integer><key>Hour</key><integer>4</integer><key>Minute</key><integer>30</integer></dict>
+        <dict><key>Weekday</key><integer>5</integer><key>Hour</key><integer>4</integer><key>Minute</key><integer>30</integer></dict>
+        <!-- 05:30 — fires at 16:30 EST (winter); in EDT it's 17:30, archive
+             already exists so wrapper skips harmlessly -->
+        <dict><key>Weekday</key><integer>1</integer><key>Hour</key><integer>5</integer><key>Minute</key><integer>30</integer></dict>
+        <dict><key>Weekday</key><integer>2</integer><key>Hour</key><integer>5</integer><key>Minute</key><integer>30</integer></dict>
+        <dict><key>Weekday</key><integer>3</integer><key>Hour</key><integer>5</integer><key>Minute</key><integer>30</integer></dict>
+        <dict><key>Weekday</key><integer>4</integer><key>Hour</key><integer>5</integer><key>Minute</key><integer>30</integer></dict>
+        <dict><key>Weekday</key><integer>5</integer><key>Hour</key><integer>5</integer><key>Minute</key><integer>30</integer></dict>
+    </array>
+
+    <!-- Run when this agent is loaded (login, system reboot) so a missed
+         scheduled run gets caught up automatically. The wrapper is idempotent
+         and time-gated, so this is safe to fire any time. -->
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/future/Library/Logs/finviz-screenshot.out.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/future/Library/Logs/finviz-screenshot.err.log</string>
+
+    <!-- launchd jobs run with a minimal PATH; ensure /usr/bin/python3 etc.
+         resolve and that Homebrew binaries (if any) are also reachable. -->
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    </dict>
+
+    <!-- Don't restart automatically on success/failure — once a day is enough -->
+    <key>KeepAlive</key>
+    <false/>
+</dict>
+</plist>

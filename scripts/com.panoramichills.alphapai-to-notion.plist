@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  launchd job: daily alphapai 全球版 -> Notion push.
+
+  Schedule (Mac local time = Asia/Shanghai, CST UTC+8, no DST):
+    Tue-Sat at 08:05 BJT — alphapai's global edition publishes ~08:00-08:03 BJT
+    on weekdays (Tue-Fri) plus Saturday (covering Friday's NY close).
+    We fire at 08:05 to give alphapai a 2-minute buffer past its publish window
+    (last known publish was 08:03), while still leaving 5 minutes before the
+    08:10 Notion -> dashboard ingest.
+    Sun (Weekday 7) and Mon (Weekday 1) are skipped because alphapai does not
+    publish a fresh global edition on those mornings (no NY trading the prior
+    night). The wrapper double-checks BJT_DOW and exits early if invoked then.
+  RunAtLoad=true -> catch up if the Mac was off at 08:01
+
+  Install:
+    cp scripts/com.panoramichills.alphapai-to-notion.plist \
+       ~/Library/LaunchAgents/
+    launchctl load -w ~/Library/LaunchAgents/com.panoramichills.alphapai-to-notion.plist
+
+  Disable / remove:
+    launchctl unload -w ~/Library/LaunchAgents/com.panoramichills.alphapai-to-notion.plist
+    rm ~/Library/LaunchAgents/com.panoramichills.alphapai-to-notion.plist
+
+  Logs: ~/Library/Logs/alphapai-to-notion.{out,err}.log
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.panoramichills.alphapai-to-notion</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/future/us-stock-daily-summary/.claude/worktrees/awesome-hertz-8e0ae2/scripts/daily_alphapai.sh</string>
+    </array>
+
+    <!-- Tue-Sat 08:01 Asia/Shanghai.
+         launchd Weekday: 1=Mon, 2=Tue, 3=Wed, 4=Thu, 5=Fri, 6=Sat (0/7=Sun). -->
+    <key>StartCalendarInterval</key>
+    <array>
+        <dict><key>Weekday</key><integer>2</integer><key>Hour</key><integer>8</integer><key>Minute</key><integer>5</integer></dict>
+        <dict><key>Weekday</key><integer>3</integer><key>Hour</key><integer>8</integer><key>Minute</key><integer>5</integer></dict>
+        <dict><key>Weekday</key><integer>4</integer><key>Hour</key><integer>8</integer><key>Minute</key><integer>5</integer></dict>
+        <dict><key>Weekday</key><integer>5</integer><key>Hour</key><integer>8</integer><key>Minute</key><integer>5</integer></dict>
+        <dict><key>Weekday</key><integer>6</integer><key>Hour</key><integer>8</integer><key>Minute</key><integer>5</integer></dict>
+    </array>
+
+    <!-- RunAtLoad lets us catch up if the Mac was asleep at 08:01. The wrapper
+         is idempotent (skips when data_archive/alphapai/{NY-date}.json exists)
+         and DOW-gated, so re-firing at any time of day is safe. -->
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/future/Library/Logs/alphapai-to-notion.out.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/future/Library/Logs/alphapai-to-notion.err.log</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    </dict>
+
+    <key>KeepAlive</key>
+    <false/>
+</dict>
+</plist>
