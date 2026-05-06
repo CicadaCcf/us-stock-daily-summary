@@ -1,0 +1,447 @@
+{
+  "topics": [
+    {
+      "id": "iran-hormuz-crisis-may25",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "霍尔木兹海峡危机升级：美伊军事对峙与多方谈判进行中",
+      "summary": "美国启动\"自由计划\"护航商船通过霍尔木兹海峡，伊朗IRGC宣布关闭海峡并击中美舰。Trump警告伊朗若袭击将遭毁灭性空袭，阿联酋遭导弹袭击后考虑报复。多方谈判仍在进行，但伊朗内部政府与革命卫队出现分歧。",
+      "bullets": [
+        {
+          "actor": "IRGC",
+          "actor_type": "Foreign-Gov",
+          "text": "IRGC宣布霍尔木兹海峡关闭，发布控制区域地图",
+          "details": "IRGC发布了一张新的地图，显示其海军在霍尔木兹海峡控制的区域，宣布目前Hormuz海峡已经关闭，任何试图穿越的船只都将被摧毁",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "美国已打通霍尔木兹海峡，伊朗被给予24小时",
+          "details": "美国已成功打通霍尔木兹海峡；伊朗仅被给予了24h的时间。此后，世界可能将目睹有史以来最具毁灭性的空袭之一，如果伊朗人攻击正在引导船只通过霍尔木兹海峡的美国船只（这是\"自由计划\"的一部分），他们将被\"从地球上抹去\"",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "伊朗谈判立场更灵活，美军弹药充足随时可用",
+          "details": "伊朗现在在谈判中更易于妥协，伊朗谈判立场更加灵活，美国弹药比以往更多，军事基地装备充足，如有必要，我们将使用所有先进武器；伊朗要么真诚地达成协议，要么最终战斗行动可能会恢复",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "伊朗战争可能持续2-3周，要求伊朗交出浓缩铀",
+          "details": "伊朗导弹大部分被击落了，有一些漏网之鱼，被问及伊朗停火协议是否已失效时，我无法就此做出确切答复，伊朗战争可能还会持续两到三个星期，对我们来说，时间并非至关重要，重申伊朗必须向我们提供浓缩铀",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "伊朗向韩国货船开火，其他船只未受损",
+          "details": "伊朗向一艘韩国货船开火。\"除了这艘货船，目前为止，没有其他海峡中的船只受损\"",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "与中国友好相处比对抗要好",
+          "details": "我认为与中国友好相处比与中国对抗要好得多。他们也持同样的观点",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "\"自由项目\"未与伊朗协调，愿应对升级",
+          "details": "\"自由项目\"的实施并未与伊朗进行协调，如果伊朗人想采取升级行动，我们愿意照办",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "请求中国参与霍尔木兹行动，中国购买伊朗90%能源",
+          "details": "中国购买了伊朗 90%的能源，恳请中国与我们一同参与霍尔木兹行动",
+          "important": false
+        },
+        {
+          "actor": "美国国会",
+          "actor_type": "US-Congress",
+          "text": "Trump通知国会战争已\"结束\"，共和党争取对伊动武授权",
+          "details": "Trump通知国会议员，伊朗战争已经\"结束\"，与德黑兰停火实际上可以阻止超越战争权力的60d期限，一部分参议院共和党人仍在幕后努力争取授权对伊朗使用武力，共和党的授权可能会限制地面部队的数量，并规定冲突的期限是有限的",
+          "important": false
+        },
+        {
+          "actor": "Witkoff",
+          "actor_type": "US-Executive",
+          "text": "继续谈判但双方不喜欢彼此提议，Mojtaba情况不明拖慢进程",
+          "details": "Witkoff称继续谈判，但是相互不喜欢彼此提议，不清楚Mojtaba情况，拖慢了进程",
+          "important": false
+        },
+        {
+          "actor": "Aragchi",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗外长赴北京会见中国外长，称核谈判不在议程",
+          "details": "伊朗外交部长Aragchi今天将前往北京会见中国外长；Aragchi告诉国内议员，核谈判不在议程中；称随着谈判在巴基斯坦的友好努力下取得进展，美国应该警惕被别有用心的人拖回泥潭——阿联酋也应该如此——将华盛顿的\"自由计划\"描述为\"僵局计划\"，霍尔木兹海峡的局势清楚地表明，政治危机无法通过军事手段解决",
+          "important": false
+        },
+        {
+          "actor": "Ghalibaf",
+          "actor_type": "Foreign-Gov",
+          "text": "海峡新格局形成，美国违反停火危及航运安全",
+          "details": "Ghalibaf称海峡的新格局正在逐步形成。美国及其盟友违反停火协议并实施封锁，危及航运和能源运输安全；当然，他们的恶行终将收敛。我们非常清楚，美国无法容忍现状的持续；而我们甚至还未真正开始行动",
+          "important": false
+        },
+        {
+          "actor": "伊朗内部",
+          "actor_type": "Foreign-Gov",
+          "text": "IRGC擅自袭击阿联酋阿曼，伊朗总统对此极其愤怒",
+          "details": "伊朗对阿联酋、阿曼和霍尔木兹海峡的袭击是由伊朗伊斯兰革命卫队在伊朗政府不知情或未协调的情况下实施的。伊朗总统对伊斯兰革命卫队指挥官艾哈迈德·瓦希迪的行动\"极其愤怒\"，并呼吁召开紧急会议，制止对波斯湾国家的袭击",
+          "important": false
+        },
+        {
+          "actor": "伊朗电视台",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗高级军官称目前没有针对UAE的计划",
+          "details": "伊朗电视台报道伊朗高级军官称目前没有针对UAE的计划",
+          "important": false
+        },
+        {
+          "actor": "美国军方",
+          "actor_type": "US-Executive",
+          "text": "伊朗用巡航导弹袭击商船和美舰，封锁效果超预期",
+          "details": "美国军方称伊朗曾用巡航导弹袭击商船和美国军舰，对伊朗的军事封锁效果超出预期，美国封锁有两个目标：确保安全和清理水道",
+          "important": false
+        },
+        {
+          "actor": "美国海军",
+          "actor_type": "US-Executive",
+          "text": "周一起美海军护航商船通过海峡，被授权打击伊朗升级行动",
+          "details": "从周一开始，美国海军将帮助美国国旗和其他商业船只通过海峡，向他们提供如何避开水雷的建议，并准备随时干预，以防止伊朗攻击，海军舰艇和空军附近随时待命，被授权打击，如果伊朗升级打击海湾国家将恢复全面战争",
+          "important": false
+        },
+        {
+          "actor": "Fars通讯社",
+          "actor_type": "Foreign-Gov",
+          "text": "IRGC称两枚导弹击中美军舰，美方称报道\"伪造\"",
+          "details": "Fars通讯社表示IRGC两枚导弹击中了一艘美国军舰，这艘美国军舰已撤离该地点，美国官员称伊朗新闻报道的船只袭击是\"伪造的\"",
+          "important": false
+        },
+        {
+          "actor": "CNN",
+          "actor_type": "新闻",
+          "text": "美以可能24小时内对伊发动袭击，阿联酋打算报复",
+          "details": "CNN的报道声称，美国和以色列可能对伊朗发动袭击，这可能发生在接下来的 24 小时内；一名阿联酋高级官员告诉以色列，在今晚的无人机和导弹袭击之后，阿联酋打算对伊朗进行报复",
+          "important": false
+        },
+        {
+          "actor": "以色列",
+          "actor_type": "Foreign-Gov",
+          "text": "以色列军队高度戒备，准备恢复在伊朗战斗",
+          "details": "以色列军队已进入高度戒备状态。以色列官员称已准备好恢复在伊朗的战斗，只等美国开绿灯",
+          "important": false
+        },
+        {
+          "actor": "海峡通行",
+          "actor_type": "Unknown",
+          "text": "5/4-5/5仅2艘船通行，无出湾油轮",
+          "details": "【日度通行】5/4 17:30 - 5/5 17:30，共2艘，无出湾Tanker",
+          "important": false
+        },
+        {
+          "actor": "美国海军",
+          "actor_type": "US-Executive",
+          "text": "美海军发布通行规范要求走阿曼海岸线，2艘驱逐舰穿越时遭攻击无命中",
+          "details": "美国海军发布通行规范，坚持要求商船走阿曼海岸线；中央司令部协助两艘悬挂美国国旗的船只穿越霍尔木兹海峡，美国海军2艘导弹驱逐舰周一也从阿拉伯海经霍尔木兹海峡航行穿越，过程中遭到伊朗无人机、导弹和小型快速攻击艇的攻击，无炮弹命中",
+          "important": false
+        },
+        {
+          "actor": "韩国",
+          "actor_type": "Foreign-Gov",
+          "text": "韩国确认海峡内韩船爆炸起火疑遭导弹袭击，ADNOC油轮遭无人机袭击",
+          "details": "韩国确认霍尔木兹海峡内一韩船只爆炸起火，涉事船只疑似遭遇导弹袭击；伊朗无人机在霍尔木兹海峡袭击与阿布扎比国家石油公司（ADNOC）有关的油轮，两架无人机撞上了这艘船，但没有人员伤亡报告",
+          "important": false
+        },
+        {
+          "actor": "航运公司",
+          "actor_type": "Corporate",
+          "text": "主要航运公司表示等双方停止敌对再尝试穿越",
+          "details": "主要航运公司表示，他们可能会等到双方同意停止敌对行动后再尝试穿越海峡",
+          "important": false
+        },
+        {
+          "actor": "阿联酋",
+          "actor_type": "Foreign-Gov",
+          "text": "阿联酋防空拦截3枚导弹，迪拜爆炸，富查伊拉石油设施遭袭",
+          "details": "阿联酋称其防空系统目前正在应对导弹威胁，在领海拦截了三枚导弹；阿联酋防空部队拦截来袭导弹时，迪拜地区发生爆炸；伊朗无人机袭击富查伊拉石油工业区，富查伊拉的 VTTI 石油设施遭到空袭，FOTT 油罐遭到袭击，ADNOC 穆尔班原油油罐昨日遭到袭击",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "Trump希望避免空袭倾向谈判，但正权衡军事vs外交",
+          "details": "WSJ报道Trump希望避免再次发动空袭，他更倾向于通过谈判结束德黑兰的核计划和持续数周的战争。然而，他目前正在权衡采取军事手段还是外交手段。一些美国和外国官员表示，他们认为Trump很可能在几天内授权对伊朗采取军事行动",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ批评单纯防御性护航不足以维持航运信心",
+          "details": "WSJ称文章伊朗打破了停火协议，批评单纯的防御性护航可能不足以维持航运信心，建议特朗普采取报复性打击",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "Trump在结束战争与惩罚伊朗两种冲动间博弈",
+          "details": "WSJ称Trump目前在两种相互矛盾的冲动之间博弈，彻底结束战争：他希望通过谈判解决伊朗核问题，避免陷入旷日持久的中东冲突，从而稳定全球油价和经济，严厉惩罚伊朗：面对伊朗不愿在核谈判中让步且主动袭击美舰的行为，他面临着来自党内巨大压力",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "CNN",
+        "Fars通讯社"
+      ],
+      "date": "2026-05-05",
+      "image_urls": [
+        "/uploads/2026-05-05/1897758e6574.png"
+      ]
+    },
+    {
+      "id": "fed-williams-inflation-outlook-may25",
+      "topic": "美联储政策与通胀",
+      "topic_tag": "fed",
+      "title": "Williams：预计今年通胀达3%，2027年回落至2%",
+      "summary": "纽约联储主席Williams表示在伊朗战争造成供应链中断背景下，美联储在价格稳定和就业间取得平衡。他预计今年通胀3%、2027年回落至2%，GDP增长2%-2.25%。同时指出AI可能提高R*，与人口老龄化形成拉锯。",
+      "bullets": [
+        {
+          "actor": "Williams",
+          "actor_type": "Central-Bank",
+          "text": "预计今年通胀3%，2027年回落至2%，GDP增长2%-2.25%",
+          "details": "伊朗战争造成\"显著\"供应链中断的情况下，美国央行目前的立场是在价格稳定和充分就业之间取得平衡。威廉姆斯将伊朗战争造成的供应链中断与后疫情时代的供应链中断进行了比较，认为这次持续通胀的空间可能会较小，预计今年通胀率将达到 3% 左右，然后在 2027 年回落至 2%，并预计美国经济今年和明年将增长 2%- 2.25%",
+          "important": true
+        },
+        {
+          "actor": "Williams",
+          "actor_type": "Central-Bank",
+          "text": "AI可能提高R*，与人口老龄化形成\"拉锯战\"",
+          "details": "人工智能可以提高生产力和投资，从而提高R*，人口结构变化导致经济增长放缓，而人工智能/生产力提高则推动经济增长，两者之间存在着\"拉锯战\"",
+          "important": false
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "Williams每年都说通胀明年回落至2%",
+          "details": "Williams说他认为明年通货膨胀率将回落至 2%。但请注意，他每年都这么说",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-05",
+      "image_urls": [
+        "/uploads/2026-05-05/13625b9d68c0.png"
+      ]
+    },
+    {
+      "id": "powell-investigation-fed-pressure-may25",
+      "topic": "鲍威尔调查与美联储压力",
+      "topic_tag": "fed",
+      "title": "Pirro称对鲍威尔刑事调查未结束，Powell留任门槛提高",
+      "summary": "Pirro表示对鲍威尔的刑事调查尚未结束，她保留审查原始材料并得出自己结论的权利。Nick分析认为Powell留任不仅取决于调查问题解决，还取决于美联储整体压力氛围是否改变。",
+      "bullets": [
+        {
+          "actor": "Nick",
+          "actor_type": "KOL",
+          "text": "Powell留任取决于美联储整体压力氛围是否改变，门槛更高",
+          "details": "Powell上周的公开表态表明，他决定留任不仅仅是为了解决刑事调查的遗留问题（监察长报告、传票裁决诉讼）。这还取决于美联储面临的整体压力氛围是否发生改变。这无疑是一个更高的门槛",
+          "important": true
+        },
+        {
+          "actor": "Pirro",
+          "actor_type": "US-Executive",
+          "text": "对鲍威尔刑事调查未结束，保留审查原始材料权利",
+          "details": "Pirro周日告诉 CNN 的杰克·塔珀，对鲍威尔的刑事调查尚未结束。如果监察长没有发现任何问题，她就会结束调查，但她保留审查监察长办公室原始材料并得出自己结论的权利。她说，作为一名地方检察官，她有时会对调查人员说：\"你们什么也没找到，但我发现了犯罪。\"",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "CNN"
+      ],
+      "date": "2026-05-05",
+      "image_urls": []
+    },
+    {
+      "id": "oil-inventory-shortage-risk-may25",
+      "topic": "全球石油库存与短缺风险",
+      "topic_tag": "oil",
+      "title": "高盛：全球石油库存接近8年最低，成品油短缺风险上升",
+      "summary": "高盛指出全球石油库存接近8年最低水平，5月底将降至98天需求量。商业成品油库存已降至45天（战前50天），南非、印度、泰国、台湾面临更高短缺风险，欧洲航空燃油库存6月可能跌破IEA 23天临界阈值。",
+      "bullets": [
+        {
+          "actor": "高盛",
+          "actor_type": "Analyst",
+          "text": "全球石油库存接近8年最低，5月底将降至98天需求量",
+          "details": "全球石油库存接近8y来的最低水平，从消耗速度的角度来看，这比从总量的角度来看（目前）更令人担忧，估计，目前全球石油总库存（包括估计的\"隐形\"库存，主要指非经合组织成员国的精炼产品）相当于全球需求的101d，到5月底将降至98d。虽然这些总库存估计值仍高于欧盟要求的最低紧急库存量（61d）以及全球石油系统最低运营陆上存储水平（约30-40d）",
+          "important": true
+        },
+        {
+          "actor": "高盛",
+          "actor_type": "Analyst",
+          "text": "商业成品油库存降至45天，南非印度泰国台湾短缺风险更高",
+          "details": "全球商业成品油库存已迅速降至45DoD（战前为50）。全球原油库存大致稳定，为拥有炼油能力的国家提供了缓冲。尽管目前仅可见约 30%的产品库存，但除出口限制地区（例如中国）外，其他地区的库存均呈现快速下降趋势，预计亚洲和非洲多个国家的成品油供应量（基于原油和成品油贸易量）将大幅下降，尤其是石脑油和液化石油气（石化产品）、航空煤油和燃料油，柴油的供应量也将受到影响。我们对成品油供应量和各国原油库存的估算表明，南非、印度、泰国和台湾地区面临更高的成品油短缺风险；欧洲商业航空燃油库存（不包括政府紧急储备）在 6 月份可能会跌破国际能源署设定的 23d短缺的临界阈值",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "高盛"
+      ],
+      "date": "2026-05-05",
+      "image_urls": []
+    },
+    {
+      "id": "ai-capex-gdp-impact-may25",
+      "topic": "AI资本支出与GDP影响",
+      "topic_tag": "ai",
+      "title": "AI Capex周期由大盘股驱动，对GDP贡献约0.4%",
+      "summary": "Apollo数据显示当前资本支出周期主要由大盘股公司驱动，小中盘股资本支出增速已转负。Ernie分析指出AI Capex中大量涉及进口设备，计算机支出对GDP贡献扣除进口后仅约0.4%。",
+      "bullets": [
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "Capex周期仅由大盘股驱动，小中盘股增速转负",
+          "details": "Apollo数据显示当前Capex周期仅由大盘股公司驱动，S&P 100 YoY增速约20-25%，而S&P 600(小盘)和S&P 400(中盘)增速已转负或接近零",
+          "important": true
+        },
+        {
+          "actor": "Ernie",
+          "actor_type": "KOL",
+          "text": "AI Capex对GDP贡献扣除进口后仅约0.4%",
+          "details": "在具体讨论AI Capex对 GDP 增长的影响时，一个问题是，宣布的资本支出中很大一部分涉及进口零部件和设备——因此不会直接增加 GDP 增长（尽管它仍然反映在美国的最终需求中）。包括数据中心建设在内的计算机支出对经济增长的贡献约为 1.1%（最终需求效应），但扣除进口支出后，贡献值接近 0.4%（GDP 效应）。如果将数据中心配套的电力投资也纳入考量，这两个数字都会略高一些，尽管其中很大一部分电力也是进口的",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [
+        "Apollo"
+      ],
+      "date": "2026-05-05",
+      "image_urls": [
+        "/uploads/2026-05-05/ece0f93501a1.png"
+      ]
+    },
+    {
+      "id": "kol-iran-views-may25",
+      "topic": "KOL观点",
+      "topic_tag": "geo",
+      "title": "KOL评美伊局势：华盛顿战术精明，伊朗两难抉择",
+      "summary": "多位KOL评论美伊局势：The short bear认为双方都不希望全面升级；Econstrat PB批评Trump不知如何应对；@citrinowicz指出美国缺乏战略一致性；@CRUDEOIL231认为华盛顿诱饵布置完美；Mengyu Lan认为美军战术给力把握主动权。",
+      "bullets": [
+        {
+          "actor": "@CRUDEOIL231",
+          "actor_type": "KOL",
+          "text": "华盛顿诱饵布置完美，伊朗快艇开火即遭打击",
+          "details": "伊朗似乎只剩下两个选择：要么袖手旁观，看着美国海军护航舰艇通过海峡，失去所有筹码；要么采取军事行动保护海峡。前者会削弱他们的谈判能力，而后者则为美国和以色列重启敌对军事行动提供了完美的借口。我们都知道伊朗会做出怎样的选择。一旦他们的快艇开火，美国和以色列国防军就会立即投放导弹。说实话，我觉得华盛顿这次打得相当聪明。他们的诱饵布置得非常完美",
+          "important": true
+        },
+        {
+          "actor": "The short bear",
+          "actor_type": "KOL",
+          "text": "双方都不希望全面升级，协议将在最大压力下达成",
+          "details": "伊朗没有任何理由先发制人地攻击邻国，他们继续在海峡布雷，而美国希望海峡畅通。一方需要一个借口/理由来发动攻击，过去一周双方各个研判要点在逐步接近解决方案，最终达成一致的要点必然是在最大压力和迫在眉睫的威胁下产生的，否则如果没有压力，你为什么要同意呢？这是一场风险极高的谈判，目前任何一方都不希望事态全面升级",
+          "important": false
+        },
+        {
+          "actor": "Econstrat PB",
+          "actor_type": "KOL",
+          "text": "Trump根本不知道该如何应对伊朗问题",
+          "details": "Trump根本不知道该如何应对伊朗问题",
+          "important": false
+        },
+        {
+          "actor": "@citrinowicz",
+          "actor_type": "KOL",
+          "text": "美国对伊朗缺乏战略一致性，必须尽快做出抉择",
+          "details": "美国对于伊朗没有战略一致性，不可能两头占，美国必须尽快做出根本性抉择：如果接受伊朗现政权将继续存在 → 就应该回到现实的谈判框架，聚焦核限制 + 地区降温。如果追求彻底改变伊朗政权 → 就必须坦承这需要长期、昂贵、可能涉及地面部队的持久冲突",
+          "important": false
+        },
+        {
+          "actor": "Gregg Carlstrom",
+          "actor_type": "KOL",
+          "text": "攻击威胁足以让船只望而却步，无论美驱逐舰多少",
+          "details": "事发地点在乌姆盖万附近，就在 ADNOC 油轮在富查伊拉附近被击中的几个小时后。记住，仅仅是攻击威胁就足以让伊朗基本封锁霍尔木兹海峡。这类事件很可能会让许多船只望而却步，无论附近有多少美国驱逐舰",
+          "important": false
+        },
+        {
+          "actor": "Mengyu Lan",
+          "actor_type": "KOL",
+          "text": "美军战术给力，封锁经济同时偷开航道把握主动权",
+          "details": "美军现在战术非常给力，一方面封锁伊朗的经济，一方面又偷偷在霍尔木兹海峡打开航道，所以基本上把握了所有的主动权。这种偷偷打开航道的做法，还没办法引起伊朗军队全面撕毁停战协议，只能被迫打几个导弹，发泄一下情绪",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-05",
+      "image_urls": []
+    },
+    {
+      "id": "other-macro-may25",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "EWY看涨期权激增、SOFR期货曲线",
+      "summary": "Brandon Carl指出EWY(韩国ETF)看涨期权未平仓合约相当于ETF市值25%以上。SOFR期货曲线显示2026年初约3.67%，2027年初小峰约3.85-3.87%，之后持续上升至2031年底约4.18-4.20%。",
+      "bullets": [
+        {
+          "actor": "Brandon Carl",
+          "actor_type": "KOL",
+          "text": "EWY看涨期权OI相当于ETF市值25%以上",
+          "details": "目前EWY call OI相当于该 ETF 市值的 25%以上",
+          "important": true
+        },
+        {
+          "actor": "市场数据",
+          "actor_type": "Unknown",
+          "text": "SOFR期货曲线显示2031年底收益率约4.18-4.20%",
+          "details": "3个月SOFR期货曲线：2026年初约3.67-3.68%，2026年底/2027年初小峰约3.85-3.87%，之后下降至2028年中约3.67-3.68%，然后持续线性上升至2031年底约4.18-4.20%",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "EWY"
+      ],
+      "image_indexes": [
+        2,
+        4
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-05-05",
+      "image_urls": [
+        "/uploads/2026-05-05/cc1b1d860a3f.png",
+        "/uploads/2026-05-05/29401a2d38ef.png"
+      ]
+    }
+  ]
+}
