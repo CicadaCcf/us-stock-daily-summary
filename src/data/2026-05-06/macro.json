@@ -1,0 +1,567 @@
+{
+  "topics": [
+    {
+      "id": "iran-us-hormuz-crisis-may26",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊谈判取得重大进展，自由项目暂停",
+      "summary": "美国宣布在对伊战役中取得军事胜利，与伊朗代表就全面协议取得重大进展，\"自由项目\"暂停以观察协议签署进展。AXIOS报道白宫认为与伊朗的一页谅解备忘录谈判已接近达成，伊朗革命卫队宣布将确保霍尔木兹海峡安全通行。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "美伊协议取得巨大进展，\"自由项目\"暂停观察",
+          "details": "基于巴基斯坦和其他一些国家的要求，我们在对伊朗的战役中取得了巨大的军事胜利，我们在与伊朗代表达成全面最终协议方面取得了巨大进展，我们一致同意，尽管封锁将继续全面有效，但\"自由项目\"(通过霍尔木兹海峡的船只通行)将暂停一段时间，以观察是否可以最终确定并签署该协议",
+          "important": true
+        },
+        {
+          "actor": "Axios",
+          "actor_type": "新闻",
+          "text": "白宫认为与伊朗一页谅解备忘录谈判已接近达成",
+          "details": "AXIOS报道白宫认为与伊朗就一份一页谅解备忘录的谈判已接近达成，该谅解备忘录将宣布结束该地区的战争，并开启为期30天的谈判期，以达成一项详细协议。伊朗将承诺暂停核浓缩活动（转移铀浓缩，伊朗任何违反浓缩铀限制的行为都将延长暂停期限。暂停期结束后，伊朗可将浓缩铀丰度维持在3.67%的低水平，承诺不追求核武器，不运营地下核设施，加强核查机制），美国同意解除制裁并解冻数十亿美元的伊朗资金，双方还将取消对霍尔木兹海峡通行的限制；白宫认为伊朗领导层存在分歧，要在各派系间达成共识可能较为困难。部分美国官员仍对能否达成初步协议持怀疑态度",
+          "important": true
+        },
+        {
+          "actor": "IRGC",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗革命卫队宣布将确保霍尔木兹海峡安全通行",
+          "details": "IRGC宣布由于\"侵略者的威胁\"结束和新措施的实施，将确保经由霍尔木兹海峡的安全通行",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "若伊朗不同意协议将从更高级别开始轰炸",
+          "details": "如果伊朗不同意达成协议，轰炸将从更高级别开始，如果伊朗同意，那么Epic fury将会结束，海峡将会开放，如果他们不同意，轰炸就会开始",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "伊朗正努力求生并希望达成协议",
+          "details": "现在伊朗正在努力求生，伊朗希望达成协议。我们完全控制局面。伊朗没有攻击受到美国保护的船只。我不喜欢伊朗和我谈话后又否认。伊朗在玩游戏，但想要达成协议",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "希望伊朗金融体系崩溃，一切在掌控中",
+          "details": "希望伊朗的金融体系崩溃；伊朗上个月杀害了42K人；他们应该做明智的事，因为我们不想进去杀人；一切都在我们掌控之中，无论怎么打，我们都会赢，因为我永远在赢",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "将与习近平讨论伊朗问题",
+          "details": "将与Xi讨论伊朗问题，Xi对伊朗的态度一直非常友善，中国在伊朗问题上尚未对我发起挑战",
+          "important": false
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "Operation Epic Fury已结束，自由项目旨在确保海峡安全",
+          "details": "\"Operation Epic Fury\"已经结束，目前正在进行的\"Project Freedom\"旨在确保霍尔木兹海峡的通行安全，并希望其他国家也能参与其中",
+          "important": false
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "提议向联合国安理会提交霍尔木兹海峡决议",
+          "details": "提议向联合国安理会提交关于Hormuz海峡的决议，美国的目标是在Hormuz海峡建立一个安全通道，我们倾向于让霍尔木兹海峡恢复到战前状态；自由项目是\"防御性的\"，并表示美国军队只有在受到攻击时才会进行军事对抗",
+          "important": false
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "若中国无视伊朗制裁将面临二级制裁",
+          "details": "如果中国无视伊朗相关的制裁那么将面临二级制裁；我们不需要台湾发生任何破坏稳定的事件；古巴的现状是不可接受的，我们将着手解决这个问题——但不是今天",
+          "important": false
+        },
+        {
+          "actor": "Hegseth",
+          "actor_type": "US-Executive",
+          "text": "伊朗和美国之间的停火\"并未结束\"",
+          "details": "伊朗和美国之间的停火\"并未结束\"",
+          "important": false
+        },
+        {
+          "actor": "王毅",
+          "actor_type": "Foreign-Gov",
+          "text": "中方：全面止战刻不容缓，赞赏伊朗不发展核武承诺",
+          "details": "王毅同伊朗外长阿拉格齐会谈：全面止战刻不容缓，重启战端更不可取，坚持谈判尤为重要，国际社会对恢复海峡正常安全通行有共同关切，赞赏伊朗关于不发展核武器的承诺，同时认为伊朗有和平利用核能的正当权利",
+          "important": false
+        },
+        {
+          "actor": "伊朗",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗正在评估美国提出的旨在结束战争的新方案",
+          "details": "伊朗正在评估美国提出的旨在结束其持续10周战争的新方案",
+          "important": false
+        },
+        {
+          "actor": "伊朗总理佩泽什基扬",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗不会屈服于美国单方面要求",
+          "details": "伊朗总理佩泽什基扬表示：美国奉行极限施压政策，想让伊朗回到谈判桌前，屈服于其单方面要求，这是不可能的",
+          "important": false
+        },
+        {
+          "actor": "伊朗外交部",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗否认向阿联酋发射导弹和无人机",
+          "details": "伊朗外交部发言人否认阿联酋关于伊朗向其发射导弹和无人机的指控，并表示伊朗的防御行动完全针对美国",
+          "important": false
+        },
+        {
+          "actor": "伊朗武装部队",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗谴责阿布扎比为美国提供军事基地",
+          "details": "伊朗武装部队发言人称：最近几天没有对阿联酋进行任何导弹或无人机行动。谴责阿布扎比继续为美国提供军事基地和海军活动",
+          "important": false
+        },
+        {
+          "actor": "巴基斯坦外交部长",
+          "actor_type": "Foreign-Gov",
+          "text": "巴基斯坦：正协商以\"双赢\"方式结束战争",
+          "details": "巴基斯坦外交部长表示，正在进行协商以\"双赢\"方式结束战争",
+          "important": false
+        },
+        {
+          "actor": "UKMTO",
+          "actor_type": "Unknown",
+          "text": "集装箱船在霍尔木兹海峡遭炮弹击中",
+          "details": "UKMTO报告，一艘集装箱船在霍尔木兹海峡遭到一枚炮弹击中，奇怪的是没有透露事件发生的地点，疑似发生在美国规划的安全路线上，这是自\"自由计划\"行动以来，伊朗人袭击的第5艘船只",
+          "important": false
+        },
+        {
+          "actor": "伊朗",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗启动新系统监管霍尔木兹海峡船只通行",
+          "details": "伊朗已启动一项新系统，用于监管通过霍尔木兹海峡的船只通行，船只必须首先通知伊朗当局，然后接收一封电子消息，其中概述了航行规则。在接受这些条款后，它们将获得过境许可。许可将由新成立的政府机构颁发",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Axios",
+        "UKMTO",
+        "路透"
+      ],
+      "date": "2026-05-06",
+      "image_urls": []
+    },
+    {
+      "id": "us-fiscal-budget-may26",
+      "topic": "美国财政",
+      "topic_tag": "policy",
+      "title": "CBO评估2026预算法案将增加940亿赤字",
+      "summary": "CBO对2026财年预算协调法案进行评估，估计该法案将在未来十年内增加720亿美元赤字，加上利息将增加约940亿美元。资金主要用于国土安全和移民执法。",
+      "bullets": [
+        {
+          "actor": "CBO",
+          "actor_type": "US-Congress",
+          "text": "CBO估计预算法案十年内增加940亿赤字（含利息）",
+          "details": "CBO对2026财年预算协调法案进行评估，估计该法案将在未来十年内增加72B的赤字，加上利息将增加约94B",
+          "important": true
+        },
+        {
+          "actor": "CBO",
+          "actor_type": "US-Congress",
+          "text": "法案总拨款717亿，主要用于边境和移民执法",
+          "details": "Homeland Security & Governmental Affairs Committee获325亿（CBP 223亿、ICE 75亿、DHS 25亿），Judiciary Committee获392亿（ICE 307亿、CBP 35亿、DHS 25亿、司法部15亿、特勤局10亿），总计717亿",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [
+        "CBO",
+        "CRFB"
+      ],
+      "date": "2026-05-06",
+      "image_urls": [
+        "/uploads/2026-05-06/a0b690ee218a.jpg"
+      ]
+    },
+    {
+      "id": "sec-earnings-reporting-may26",
+      "topic": "SEC监管",
+      "topic_tag": "policy",
+      "title": "SEC允许上市公司可选半年报",
+      "summary": "SEC宣布美国上市公司可选择每半年发布一次财报，而不是每季度，有公共意见和审核期，最快三个月后生效。此外白宫法律顾问办公室讨论应对民主党可能赢得众议院后的国会调查。",
+      "bullets": [
+        {
+          "actor": "SEC",
+          "actor_type": "US-Executive",
+          "text": "SEC允许上市公司可选半年报，最快三个月后生效",
+          "details": "SEC宣布美国上市公司，可选择每半年发布一次财报，而不是每季度，有公共意见和审核期，最快三个月后生效",
+          "important": true
+        },
+        {
+          "actor": "白宫法律顾问办公室",
+          "actor_type": "US-Executive",
+          "text": "白宫讨论应对民主党赢得众议院后的国会调查",
+          "details": "据称白宫法律顾问办公室一直在与一系列高级政府官员举行闭门简报会，讨论如果民主党在11月赢得众议院多数席位，如何才能最好地应对国会可能展开的调查",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-06",
+      "image_urls": []
+    },
+    {
+      "id": "ai-sector-macro-may26",
+      "topic": "AI行业宏观",
+      "topic_tag": "ai",
+      "title": "Anthropic承诺向Google Cloud投资2000亿，AI采用率持续上升",
+      "summary": "Anthropic承诺未来五年向Google Cloud投资2000亿美元，占谷歌云收入储备40%以上。高盛预测2026-2031年AI资本支出将达7.6万亿美元，美国企业AI采用率已升至19.8%。AI短期推高通胀但长期有望回落。",
+      "bullets": [
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic承诺五年内向Google Cloud投资2000亿美元",
+          "details": "The Information援引消息人士报道，Anthropic已承诺在未来五年内向Google Cloud投资200B。该报道称，这项承诺意味着这家人工智能初创公司占谷歌上周向投资者披露的收入储备的40%以上。这些收入储备反映了云客户的合同承诺",
+          "important": true
+        },
+        {
+          "actor": "FT",
+          "actor_type": "新闻",
+          "text": "中国大基金将以450亿美元估值领投DeepSeek",
+          "details": "FT报道中国国家级半导体投资基金，即中国集成电路产业投资基金，被曝将以接近45B美金估值，领投DeepSeek公司",
+          "important": true
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "高盛预测2026-2031年AI资本支出达7.6万亿美元",
+          "details": "2026年765B（计算494B、数据中心232B、电力39B），2027年1011B，2028年1220B，2029年1392B，2030年1579B，2031年1636B。假设NVIDIA占总计算支出70-90%",
+          "important": false
+        },
+        {
+          "actor": "GS AI",
+          "actor_type": "Analyst",
+          "text": "美国AI采用率升至19.8%，半年内预计达23%",
+          "details": "2026年4月美国企业AI采用率升至19.8%，预计半年内达23.0%。半导体营收预期2026年底增长50%，美国AI投资较2022年增$360B。虽特定行业月减员11K，但数据中心建设带动建筑就业增212k，整体就业影响有限。AI平均提升生产率23%-33%",
+          "important": false
+        },
+        {
+          "actor": "GS Eco",
+          "actor_type": "Analyst",
+          "text": "AI短期推高通胀0.3%，长期将带来通缩压力",
+          "details": "AI短期推高美国通胀，长期将带来通缩压力。受AI基础设施需求、软件提价及电力成本上升影响，预计未来一年核心PCE和核心CPI将分别额外上升0.3%和0.1%。但随生产力增益普及及统计偏差修正，中长期通胀有望回落",
+          "important": false
+        },
+        {
+          "actor": "GS US daily",
+          "actor_type": "Analyst",
+          "text": "高盛预计美国生产率增速将达2.3%，高于市场共识",
+          "details": "专业预测者在预测美国生产率时存在\"先反应不足、后反应过度\"的系统性偏差。尽管市场共识预期2026-2030年年均增速仅为2%左右，但高盛基于对AI采用的乐观看法，预计增速将达2.3%。历史数据显示，预测者往往锚定过去10年均值，导致对趋势转折判断滞后",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "AI迫使CEO选择裁员或让员工承担更多工作",
+          "details": "WSJ报道AI正迫使CEO们做出一个严峻的选择：裁员还是让他们承担更多工作。文章还提到，企业高管们对于这项技术最直接、最有效的益处存在分歧，分成了两派。双方都认为近期内不会增加招聘",
+          "important": false
+        },
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic发布10个金融服务agent",
+          "details": "Anthropic同一天发布了10个金融服务agent，处理财报分析、市场研究、财务建模、审计",
+          "important": false
+        },
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "Apollo：AI冲击与中国冲击对比，就业影响有限",
+          "details": "Apollo分析AI冲击与2001-2010年中国冲击对比：AI自动化减少知识工人需求、消灭中技能工作，但杰文斯悖论（低成本创造更多需求）、生产率提升创造新岗位、渐进采用限制冲击。赢家与输家并存，整体就业影响有限",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GOOGL",
+        "MSFT",
+        "AMZN",
+        "META",
+        "ORCL",
+        "NVDA"
+      ],
+      "image_indexes": [
+        3,
+        4,
+        5
+      ],
+      "importance": 3,
+      "sources": [
+        "The Information",
+        "FT",
+        "WSJ",
+        "Goldman Sachs",
+        "Apollo"
+      ],
+      "date": "2026-05-06",
+      "image_urls": [
+        "/uploads/2026-05-06/da3100cb414a.jpg",
+        "/uploads/2026-05-06/1b55f95cc93a.png",
+        "/uploads/2026-05-06/e3fe3d010d2a.png"
+      ]
+    },
+    {
+      "id": "fed-rates-treasury-may26",
+      "topic": "美联储与美债",
+      "topic_tag": "fed",
+      "title": "Warsh接任Fed后短期降息难度极大，美债市场抛压持续",
+      "summary": "JPM认为Warsh接任美联储主席后受FOMC制约短期降息难度极大。美银指出10年期公允价值约4.15%，国债市场空头仍处盈利状态，建议财政部设反向询价窗口应对需求疲软。",
+      "bullets": [
+        {
+          "actor": "JPM Michael Feroli",
+          "actor_type": "Analyst",
+          "text": "Warsh接任Fed后短期降息难度极大",
+          "details": "Warsh接任美联储主席后，受FOMC内部制约，短期降息难度极大。尽管沃什倾向鸽派并主张缩小资产负债表，但减少银行准备金需求需数年，2026-2027年难见实质变化。预计沃什将保留新闻发布会以维持政策叙事主导权，避免市场混乱",
+          "important": true
+        },
+        {
+          "actor": "BofA Rates",
+          "actor_type": "Analyst",
+          "text": "美银：10年期公允价值约4.15%，基准为\"不着陆\"",
+          "details": "指出宏观数据信号冲突，10Y公允价值约4.15%。基准情景为\"不着陆\"（概率50-60%），预期Fed长期按兵不动。建议结构性逢低买入中期美债，并战术性做空美债相对于欧债的价差以对冲全球估值偏高风险",
+          "important": false
+        },
+        {
+          "actor": "BofA Rates",
+          "actor_type": "Analyst",
+          "text": "美债市场空头仍处盈利，资管持续增加空头头寸",
+          "details": "美国国债市场空头仍处盈利状态，资产管理公司持续增加空头头寸。尽管外国官方投资者近期逢低买入30B，但银行UST持有量较峰值减少30B，养老金去风险化动力不足，市场抛压bias依然存在",
+          "important": false
+        },
+        {
+          "actor": "BofA Rates",
+          "actor_type": "Analyst",
+          "text": "美银建议财政部设\"反向询价窗口\"发行长端国债",
+          "details": "建议美财政部设\"反向询价窗口\",该窗口允许财政部直接向最终用户发行债券，针对长端美债收益率破5%及需求疲软，美银提出通过反向询价窗口直接向终端用户发行10Y以上国债。此举旨在补充常规发行，不违反\"常规且可预测\"原则，有望缓解交易商资产负债表压力，并推动长端资产互换利差走阔",
+          "important": false
+        },
+        {
+          "actor": "Ed Bradford",
+          "actor_type": "KOL",
+          "text": "债券市场押注明日QRA不会意外，5s30s逼近90bps",
+          "details": "债券市场押注明日早间不会出现QRA意外。5s30s收益率持续趋于平稳，目前正逼近90bps",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "Bessent不会延长债务期限，维持现状无助刺激经济",
+          "details": "此后的每一次QRA都维持了债券发行量不变。明天也不会例外。它抑制了yield的上升，在通胀接近崩溃时刺激了通胀，推动了股市和黄金的上涨，并重创了美元。与此同时，债务却不断增长，政府通过各种短期和长期债券来维持运转。这对资产持有者来说是好事，但对通胀来说却是坏事。尽管Bessent曾严厉批评Yellon政府延长债务期限，但他永远不会这样做。他的理由是利率会下降，到那时他就可以这样做了。但这种情况并没有发生。即便如此，维持现状也无助于刺激经济",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "JPMorgan",
+        "BofA"
+      ],
+      "date": "2026-05-06",
+      "image_urls": []
+    },
+    {
+      "id": "us-labor-market-may26",
+      "topic": "美国劳动力市场",
+      "topic_tag": "macro-other",
+      "title": "JOLTS招聘率反弹至两年高位，但非农面临下行风险",
+      "summary": "3月JOLTS招聘率大幅反弹至3.5%为近两年最高。花旗预计3月非农将减少1.5万人，远低于市场共识的增加6.5万人，警告劳动力市场存在下行风险。",
+      "bullets": [
+        {
+          "actor": "Heather Long",
+          "actor_type": "KOL",
+          "text": "JOLTS 3月招聘率反弹至3.5%，为近两年最高",
+          "details": "JOLTS 3月份美国官方招聘率出现大幅反弹。3.5%的招聘率是近两年来最高的！3月份运输、仓储和公用事业行业招聘强劲（新增108K）。专业/商业服务（新增165k）和酒店业招聘也表现稳健",
+          "important": true
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "花旗预计3月非农减少1.5万，远低于市场共识",
+          "details": "美国就业数据面临下行风险，预计3月非农就业人数将减少15K，远低于市场共识的增加65k。分析师认为劳动力市场正逐渐放松，若\"残余季节性\"重演，初请失业金人数或将攀升，需警惕数据疲软对市场的影响",
+          "important": false
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "JOLTS职位空缺微降至686万，信息行业裁员率升至2.4%",
+          "details": "美国3月JOLTS职位空缺微降至6.86M，但招聘率大幅反弹至3.5%，印证非农强劲。然而，信息行业裁员率升至2.4%，显示科技业调整",
+          "important": false
+        },
+        {
+          "actor": "@wabuffo",
+          "actor_type": "KOL",
+          "text": "四月劳动力数据疲软，或是市场疲软的开始",
+          "details": "April comes in soft,本周美国劳动力市场数据将会很有意思。我们不妨把美国工资税预扣缴总额数据也纳入考量。我们将拭目以待，看看四月份的情况只是昙花一现，还是未来几个月劳动力市场疲软的开始…",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Citi"
+      ],
+      "date": "2026-05-06",
+      "image_urls": []
+    },
+    {
+      "id": "energy-supply-chain-may26",
+      "topic": "能源供应链",
+      "topic_tag": "oil",
+      "title": "中东冲突致亚洲燃料供应承压，汽油价格飙升推高食品通胀",
+      "summary": "瑞银警告亚洲燃料供应靠库存维持，二季度末压力或加剧，新加坡3月炼油产出骤降30%。KOL指出汽油价格飙升将带动大宗谷物价格上涨，下一波食品通胀已经到来。",
+      "bullets": [
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "瑞银：亚洲燃料供应靠库存维持，二季度末压力加剧",
+          "details": "尽管中东能源中断，亚洲燃料供应目前靠库存和政府干预维持稳定。但二季度末供应链压力或加剧，新加坡3月炼油产出骤降30%，菲律宾、越南交通拥堵跌8%-9%。北亚因高库存相对安全，东南亚暴露度高。若霍尔木兹海峡持续受限，化学品短缺及航空运力削减风险上升，财政补贴成本将成为长期负担",
+          "important": true
+        },
+        {
+          "actor": "Otavio Costa",
+          "actor_type": "KOL",
+          "text": "汽油价格飙升将带动谷物价格上涨，食品通胀来临",
+          "details": "汽油价格飙升很可能带动大宗谷物价格上涨。下一波食品通胀已经到来",
+          "important": false
+        },
+        {
+          "actor": "Diane Swonk",
+          "actor_type": "KOL",
+          "text": "此次冲击不仅是石油危机，更是类似疫情的供应链中断",
+          "details": "此次冲击不仅仅是石油危机（石油危机本身已十分严重），更是一场供应链中断，其影响与疫情期间出现的供应链中断如出一辙。这一次，我们面临着物资短缺，却没有财政和货币刺激措施的缓冲",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 2,
+      "sources": [
+        "UBS"
+      ],
+      "date": "2026-05-06",
+      "image_urls": [
+        "/uploads/2026-05-06/6d2faa8213db.jpg"
+      ]
+    },
+    {
+      "id": "boj-japan-may26",
+      "topic": "日本央行",
+      "topic_tag": "fed",
+      "title": "野村预计BOJ 6月加息，日元异动引发干预猜测",
+      "summary": "野村预计日本央行6月加息，4月按兵不动视为\"鹰派暂停\"，3名委员支持加息。日元周三突然飙升引发东京干预货币政策的猜测。",
+      "bullets": [
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "野村预计BOJ 6月加息，4月为\"鹰派暂停\"",
+          "details": "预计BOJ 6月加息：尽管4月按兵不动，但鉴于3名委员支持加息及通胀风险，视其为\"鹰派暂停\"。主要风险来自中东局势引发的供应限制与需求收缩，可能阻碍加息进程。此外，食品消费税削减辩论持续，系统升级与政策承诺间的平衡成焦点，预计6月发布中期报告",
+          "important": true
+        },
+        {
+          "actor": "Unknown",
+          "actor_type": "新闻",
+          "text": "日元突然飙升引发东京干预猜测",
+          "details": "日元周三突然飙升，引发外界猜测东京方面将进一步干预货币政策。上周日元大幅反弹，普遍认为是东京方面所为",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Nomura"
+      ],
+      "date": "2026-05-06",
+      "image_urls": []
+    },
+    {
+      "id": "market-technicals-may26",
+      "topic": "市场技术面",
+      "topic_tag": "macro-other",
+      "title": "市场从痛苦上涨转向疯狂追高，市场宽度处于极端水平",
+      "summary": "KOL Lord Fed指出市场已从\"痛苦上涨\"转向\"疯狂追高\"，半导体ETF参与度处于5年来99%分位，建议核心转向对冲而非增加风险。市场宽度处于极端狭窄水平。",
+      "bullets": [
+        {
+          "actor": "Lord Fed",
+          "actor_type": "KOL",
+          "text": "市场从痛苦上涨转向疯狂追高，SOXL参与度99%分位",
+          "details": "市场现状：从\"痛苦上涨\"到\"疯狂追高（Chase mania），原本看空的投资者开始在7300点附近被迫入场，CTA动能见顶，半导体ETF（SOXL）的参与度处于5年来的99%分位，现在的核心不再是增加风险，而是对冲",
+          "important": true
+        },
+        {
+          "actor": "Unknown",
+          "actor_type": "Analyst",
+          "text": "S&P 500市场宽度处于极端狭窄水平",
+          "details": "S&P 500 52周市场宽度显示当前处于约-15%，低于-1个标准差，为1985年以来的极端狭窄水平",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "SOXL"
+      ],
+      "image_indexes": [
+        1
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-06",
+      "image_urls": [
+        "/uploads/2026-05-06/ec6e5f43bd7e.jpg"
+      ]
+    },
+    {
+      "id": "other-macro-may26",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "朝鲜修宪删除统一条款，Coinbase裁员14%",
+      "summary": "朝鲜修改宪法将领土范围界定为与韩国接壤并删除统一条款。Coinbase宣布裁员14%应对市场波动和AI拐点，精简组织架构。",
+      "bullets": [
+        {
+          "actor": "朝鲜",
+          "actor_type": "Foreign-Gov",
+          "text": "朝鲜修宪删除统一条款，将韩国定为独立国家",
+          "details": "朝鲜已修改宪法，将领土范围界定为与韩国接壤，并删除了有关统一的条款，此举将朝鲜领导人金正恩推动朝韩两国为独立国家的举措写入法律。（RTRS）",
+          "important": false
+        },
+        {
+          "actor": "Coinbase CEO Brian Armstrong",
+          "actor_type": "Corporate",
+          "text": "Coinbase裁员14%应对市场波动和AI拐点",
+          "details": "Coinbase CEO Brian Armstrong今日宣布裁员14%，他将此举解释为应对市场周期性波动以及他所谓的\"人工智能拐点\"。该计划将组织架构精简至CEO/COO以下最多五层，每位领导者直接管理15名以上的下属",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "COIN"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "路透"
+      ],
+      "date": "2026-05-06",
+      "image_urls": []
+    }
+  ]
+}
