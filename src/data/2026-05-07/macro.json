@@ -1,0 +1,418 @@
+{
+  "topics": [
+    {
+      "id": "fed-officials-may2025",
+      "topic": "美联储官员表态",
+      "topic_tag": "fed",
+      "title": "Fed官员Musalem与Goolsbee关注通胀与关税不确定性",
+      "summary": "Musalem指出关税与战争不确定性带来挑战，劳动力市场趋于稳定，但通胀风险上升。Goolsbee强调长期高油价可能推高通胀预期，并表示所有政策选项保持开放。两人均对利率前景持观望态度。",
+      "bullets": [
+        {
+          "actor": "Musalem",
+          "actor_type": "Central-Bank",
+          "text": "关税战争不确定性是挑战，通胀风险高于就业风险",
+          "details": "关税和战争带来的不确定性是一个挑战，美联储除了关注关税和石油冲击之外，还应该关注潜在的通货膨胀，劳动力市场在经历了去年的缓慢降温期后，似乎正在趋于稳定，两项授权都存在风险，但目前的关注点更多地转向了通货膨胀",
+          "important": true
+        },
+        {
+          "actor": "Musalem",
+          "actor_type": "Central-Bank",
+          "text": "当前政策中立或略宽松，降息加息均有可能",
+          "details": "目前的政策实际上要么是中立的，要么略微支持性，目前的情况可能导致降息和加息两种结果，有一些合理的情况可能会使利率在一段时间内保持不变",
+          "important": false
+        },
+        {
+          "actor": "Goolsbee",
+          "actor_type": "Central-Bank",
+          "text": "长期高油价可能推高通胀预期，所有政策选项开放",
+          "details": "长期高油价可能导致更高的通胀预期，鉴于美伊冲突持续，出现新的供应链紧张并不令人意外；就业市场稳定但并不特别强劲，工资数据可能无法反映真正的就业弱化，所有政策选项都保持开放，并强调这一点应被明确理解",
+          "important": false
+        },
+        {
+          "actor": "Goolsbee",
+          "actor_type": "Central-Bank",
+          "text": "认可Warsh新政策理念，生产率提升或持久但影响复杂",
+          "details": "认可Warsh一些新政策理念，美国的生产率提升可能是持久的，尽管其对利率的影响复杂，不要因为生产率增长加快就盲目降低利率，因为这种现象有时会推高通货膨胀",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-05-07",
+      "image_urls": []
+    },
+    {
+      "id": "iran-us-hormuz-crisis-may2025",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊谈判进展：伊朗或周四提交回应，海峡通行现突破",
+      "summary": "美伊谈判取得重要进展：据报道双方就放松封锁达成谅解，伊朗预计周四提交回应，同意转移60%富铀库存至第三国。但伊朗IRGC海军仍要求船只获许可方可通过海峡，沙特阻止美军使用其基地，美军击沉一艘空油轮。Trump称如谈判失败将恢复轰炸。",
+      "bullets": [
+        {
+          "actor": "阿拉伯通讯社",
+          "actor_type": "新闻",
+          "text": "【重要】就放松封锁、逐步开放霍尔木兹海峡达成谅解",
+          "details": "阿拉伯通讯社称就放松封锁、以换取逐步开放霍尔木兹海峡一事达成谅解，未来数小时内，被困于海峡中的船只的处境将迎来突破性进展",
+          "important": true
+        },
+        {
+          "actor": "CNN",
+          "actor_type": "新闻",
+          "text": "【重要】伊朗预计周四向调解人提交对美方案的回应",
+          "details": "CNN报道一位地区消息人士透露，伊朗预计将于周四向调解人提交其对美国提出的结束战争方案的回应。消息人士称，伊朗一直在研究美国的提议，双方都在朝着达成结束战争的协议迈进",
+          "important": true
+        },
+        {
+          "actor": "以色列12频道",
+          "actor_type": "新闻",
+          "text": "伊朗同意将60%富铀库存转移给第三国",
+          "details": "以色列 12 频道称伊朗同意将其 60%富铀库存转移给一个尚未确定的第三国",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "若冲突不结束将恢复轰炸，达成协议则放松制裁",
+          "details": "如果冲突不结束，我们将恢复轰炸，如果我们达成协议，我们将放松制裁，将拭目以待伊朗是否同意",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "过去24小时会谈良好，伊朗核野心已被阻止",
+          "details": "过去24小时我们进行了非常好的会谈，伊朗的核野心已被阻止，并在其他问题上达成了协议；美国将从伊朗获得浓缩铀；伊朗有一周时间签署协议，伊朗从未有过最后期限，协议会达成，但不会设定最后期限",
+          "important": false
+        },
+        {
+          "actor": "伊朗总统佩泽什基扬",
+          "actor_type": "Foreign-Gov",
+          "text": "宣布与最高领袖穆杰塔巴·哈梅尼举行会晤",
+          "details": "伊朗总统佩泽什基扬宣布最近与最高领袖穆杰塔巴·哈梅尼举行了会晤",
+          "important": false
+        },
+        {
+          "actor": "IRGC海军",
+          "actor_type": "Foreign-Gov",
+          "text": "警告船只须获许可才能通过海峡，否则面临攻击",
+          "details": "IRGC海军警告船只，必须获得许可才能通过霍尔木兹海峡，并称未经授权的船只将面临被攻击的风险",
+          "important": false
+        },
+        {
+          "actor": "Ghalibaf",
+          "actor_type": "Foreign-Gov",
+          "text": "军事袭击可能性不低，敌人指望经济压力",
+          "details": "Ghalibaf称军事袭击的可能性不低，但\"敌人\"指望经济压力，并且根据\"虚假\"报道做出决定，伊朗人民无论面临多大的经济压力，都将为了自己的信仰和信念忍受苦难",
+          "important": false
+        },
+        {
+          "actor": "Aragchi",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗重视北京的四点计划",
+          "details": "Aragchi表示伊朗重视北京的四点计划",
+          "important": false
+        },
+        {
+          "actor": "沙特阿拉伯",
+          "actor_type": "Foreign-Gov",
+          "text": "阻止美国使用其基地和领空，迫使Trump放弃航运计划",
+          "details": "沙特阿拉伯阻止美国使用其基地和领空，迫使特朗普放弃霍尔木兹海峡航运计划",
+          "important": false
+        },
+        {
+          "actor": "美军",
+          "actor_type": "US-Executive",
+          "text": "美军击沉一艘悬挂伊朗国旗、试图驶往伊朗港口的空油轮",
+          "details": "5月6日上午9点（美国东部时间），在阿曼湾执行封锁措施的美军击沉了一艘悬挂伊朗国旗、试图驶往伊朗港口的空油轮",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "一艘法国集装箱船罕见穿越霍尔木兹海峡",
+          "details": "一艘法国集装箱船在波斯湾最后一次露面后，近日出现在阿拉伯海，这表明一艘西欧船只罕见地穿越了霍尔木兹海峡",
+          "important": false
+        },
+        {
+          "actor": "波斯湾海峡管理局",
+          "actor_type": "Foreign-Gov",
+          "text": "发布通行机制：优先伊朗货币、须赔偿损失、制裁国禁行",
+          "details": "波斯湾海峡管理局向几家船舶滞留在海湾的航运公司发送的电子邮件：打算通过霍尔木兹海峡的船舶必须发送电子邮件至 info@PGSA.ir。运输机制中需要考虑的最重要几点：1）优先以伊朗本国货币支付；2）伊朗银行签发担保书；3）如果一个国家在最近的战争中对伊朗造成了损失，则必须先赔偿损失才能获得通行许可。对伊朗实施制裁或冻结伊朗资金的国家不允许通行；4）所有文件中必须写明正确的标题\"波斯湾\"；5）不遵守上述规定将导致货物被扣押，并处以货物价值20%的罚款",
+          "important": false
+        },
+        {
+          "actor": "伊朗",
+          "actor_type": "Foreign-Gov",
+          "text": "向商船发消息称伊朗港口已准备好提供海事服务",
+          "details": "伊朗向霍尔木兹海峡的商船发出信息，称伊朗港口已完全准备好为船只提供一般海事服务和支持",
+          "important": false
+        },
+        {
+          "actor": "NBC",
+          "actor_type": "新闻",
+          "text": "沙特暂停美军使用基地后，Trump改变护航计划",
+          "details": "NBC报道海湾地区一个重要的盟友（沙特）暂停了美军使用其基地和领空执行该行动的能力后，总统突然改变了帮助船只通过霍尔木兹海峡的计划",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "Trump顾问们试图在中期选举前结束战争以降低物价",
+          "details": "WSJ援引消息人士的话称：特朗普的顾问们试图在中期选举前结束战争，以期降低物价",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "伊朗官员：讨论转移高浓缩铀，但反对向美国转移",
+          "details": "WSJ表示一位伊朗官员表示：\"双方还在讨论可能从国外移除部分高浓缩铀库存的问题，但伊朗仍然反对向美国转移任何此类铀\"",
+          "important": false
+        },
+        {
+          "actor": "@gbrew24",
+          "actor_type": "KOL",
+          "text": "伊朗在转移高浓缩铀问题上\"令人惊讶的开放\"",
+          "details": "伊朗在将其高浓缩铀库存转移给第三国的问题上表现出'令人惊讶的开放态度'。但双方尚未就转移对象达成一致",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "CNN",
+        "NBC",
+        "WSJ",
+        "以色列12频道",
+        "阿拉伯通讯社"
+      ],
+      "date": "2026-05-07",
+      "image_urls": [
+        "/uploads/2026-05-07/05ad0ff38a8d.png"
+      ]
+    },
+    {
+      "id": "ai-sector-macro-may2025",
+      "topic": "AI行业宏观",
+      "topic_tag": "ai",
+      "title": "美中考虑AI磋商；xAI并入SpaceX；Anthropic获SpaceX算力",
+      "summary": "WSJ报道美中正考虑就AI展开正式磋商，防止竞争演变为军备竞赛。xAI将解散并与SpaceX合并更名SpaceXAI。Anthropic与SpaceX签署协议获取Colossus数据中心计算资源，大幅增加算力。",
+      "bullets": [
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "美中正考虑就AI展开正式磋商，防止军备竞赛",
+          "details": "WSJ报道消息人士透露，华盛顿和北京正在考虑就人工智能展开正式磋商，因为双方在人工智能领域的竞争有可能演变为数字时代的军备竞赛",
+          "important": true
+        },
+        {
+          "actor": "xAI",
+          "actor_type": "Corporate",
+          "text": "xAI将解散并与SpaceX合并，更名SpaceXAI",
+          "details": "xAI将解散，不再作为一家独立公司运营，并将与SpaceX合并，更名为SpaceXAl",
+          "important": false
+        },
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "与SpaceX签署协议获取Colossus数据中心计算资源",
+          "details": "Anthropic PBC 与埃隆·马斯克的 SpaceX 签署了一项协议，以访问 SpaceX 大型数据中心 Colossus 1 的计算资源。此次合作将\"大幅\"增加 Anthropic 的计算资源，并使其能够提高其人工智能产品（包括其 Claude 人工智能软件）的使用限制",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MSFT",
+        "GOOGL",
+        "AMZN",
+        "META"
+      ],
+      "image_indexes": [
+        3
+      ],
+      "importance": 2,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-05-07",
+      "image_urls": [
+        "/uploads/2026-05-07/b742a66b6f1a.jpg"
+      ]
+    },
+    {
+      "id": "sellside-views-may2025",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "卖方机构观点汇总：波动率、AI通胀、英债风险",
+      "summary": "GS认为当前个股波动率高但相关性低，宏观冲击可能推升指数波动率；AI短期推高通胀约0.3%，长期压低。DB指出UK债券受伊朗事件冲击最大，叠加政治风险。JPM预计周五非农仅增50k。野村预计中国猪肉价格Q2同比-13.3%。BCA认为全球经济仍有韧性但海峡持续关闭至6月则衰退风险急升。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "个股波动率高但相关性低，宏观冲击可能推升指数波动率",
+          "details": "GS Global Market Daily：美股指数波动率可分解为平均个股波动率与相关性两部分。当前平均个股隐含波动率处于历史高位，而隐含相关性降至历史低位，表明市场更受\"分配性\"担忧（如AI赢家与输家之争）驱动，这限制了指数波动率的上行空间。然而，若发生宏观冲击，相关性及指数波动率可能急剧攀升。伊朗战争期间，指数波动率上升即主要源于相关性飙升。GS维持做多长期股票波动率的建议，以同时捕捉AI结构性与宏观事件影响，但若分配性冲击延续，指数波动率上行或有限。报告并给出13项跨资产交易想法，涵盖利率、外汇及股指",
+          "important": true
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "AI短期推高核心PCE约0.3%，长期影响转为压低通胀",
+          "details": "GS Eco：AI未来几年会带来显著生产率收益，提高潜在增长并压低生产成本，但短期内AI反而在推高美国通胀。渠道包括：AI基础设施需求推高电子投入价格，AI功能带动软件提价，以及数据中心用电需求推高部分地区电价。软件和电脑配件价格近期对核心PCE的推动明显大于核心CPI，其中一部分可能是统计口径和质量调整问题。预计电子、软件和电力价格将在未来一年把核心PCE推高约0.3%、核心CPI推高约0.1%，但随着AI效率提升和生产率释放，长期影响应转为压低通胀。核心是：AI对测算通胀先推升、后压低",
+          "important": false
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "QRA：拍卖规模增加推迟至2027年5月，讨论TGA投资回购",
+          "details": "GS QRA：将拍卖规模增加时点推迟至2027年5月，且仅限于2至7年期国债。此外，讨论将TGA多余现金投资回购市场,此举有助于缓解TGA波动对准备金的影响，降低融资波动性，并可能允许美联储更小的资产负债表规模，而不必过度依赖常备回购便利等临时流动性工具。不过，会议纪要强调需要进一步研究\"操作与实施考虑\"，表明政策转变可能尚需时日",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "UK债券受伊朗事件冲击最大，叠加明天地方选举政治风险",
+          "details": "DB Cotd：UK债券收到伊朗事件影响最大。首先，英国是石油净进口国，因此极易受到此次能源冲击的影响。此外，英国的国际净投资头寸本来就为负，而且经常账户和预算都存在赤字。所以，英国依赖于外界的援助，抵御外部冲击的能力有限；其次，政治风险溢价在明天的地方选举前持续上升。将于2024年上台的工党政府支持率下滑，外界普遍猜测，如果选举结果不佳，首相基尔·斯塔默可能会面临挑战。市场对此高度关注，因为市场预期新任工党领袖将面临放松财政政策的压力，从而增加英国国债发行量",
+          "important": false
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "4月ADP私营就业增109k创15月新高，预计周五非农仅增50k",
+          "details": "JPM Eco：美国4月ADP私营就业增加109k，创15个月新高，远超前12个月均值36K，显示就业增长基础稳固。但该行预计周五BLS非农仅增50k，私营就业增60k，因3月数据异常高企后需向下修正。就业广泛增长但专业服务和中型企业疲软，服务业贡献94K",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "中国猪肉价跌至16年低点，预计Q2猪肉CPI同比-13.3%",
+          "details": "Nomura CN：中国猪肉批发价跌至16年低点，4月17日降至14.4元/公斤。餐饮和建筑行业需求崩塌为主因，餐饮收入增速放缓至3.2%，建筑业农民工四年减少13m。政治局首次明确稳定猪肉价格，但政策存在10-12个月时滞。野村预计Q2猪肉CPI同比-13.3%，下半年转正，全年微升0.3%；整体CPI从2025年0.0%→0.6%",
+          "important": false
+        },
+        {
+          "actor": "BCA",
+          "actor_type": "Analyst",
+          "text": "霍尔木兹危机推动布伦特至117美元，海峡若6月仍关闭衰退风险急升",
+          "details": "BCA：霍尔木兹危机推动布伦特原油升至117美元/桶，但全球经济仍显韧性，主因油价冲击存在滞后效应、全球石油强度下降、通胀预期稳定及AI投资热潮等七大因素。然而，若海峡持续关闭至6月，衰退风险将急剧攀升。目前BCA对全球股票保持中性",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "DB",
+        "JPM",
+        "Nomura",
+        "BCA"
+      ],
+      "date": "2026-05-07",
+      "image_urls": [
+        "/uploads/2026-05-07/05ad0ff38a8d.png"
+      ]
+    },
+    {
+      "id": "kol-views-may2025",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "KOL观点汇总：市场情绪分歧、TGA投资回购、半导体风险",
+      "summary": "markminervini指出股市逼近新高但情绪悲观，多空分化明显。Andy分析杠杆ETF需买入16B、NDX五周涨超20%、TGA投资SOFR影响。Joseph认为TGA投资回购对市场融资略有帮助。short bear警告半导体隔夜风险。",
+      "bullets": [
+        {
+          "actor": "@markminervini",
+          "actor_type": "KOL",
+          "text": "股市逼近新高但情绪悲观，多头下跌空头上涨",
+          "details": "股市正逼近历史新高，而市场情绪却愈发悲观——多头下跌，空头上涨。这表明市场缺乏信心。投资者正在逆势而行，这是典型的\"锁定反弹\"现象",
+          "important": true
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "杠杆ETF需买入16B才能跑赢，预先配置正在进行",
+          "details": "市场全天在高位徘徊。这是因为杠杆 ETF 必须买入 16B才能在当前价格下跑赢收盘价，价格更低时买入量更少，价格更高时买入量更多。各种形式的预先配置正在进行中",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "NDX五周涨幅超20%收于历史新高，1999年三个月涨60%",
+          "details": "NDX五周涨幅超过20%，最终收于历史新高之上，这种情况已经很久没有出现了。但 1999 年的那波行情，三个月内涨幅就达到了 60%",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "TGA投资SOFR将温和宽松，推低回购利率",
+          "details": "TGA投资SOFR，1. 这将是一种温和的宽松政策，会将 SOFR 等利率推低至区间下限，因为另一位回购参与者也会拉低回购利率。2. Fed的资产负债表负债将下降（TGA），因此可以选择减少资产（出售Tiblls）或增加准备金负债。毋庸置疑，这一选择将对货币政策产生温和的紧缩或宽松影响",
+          "important": false
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "财政部考虑将TGA现金投资回购市场，或略助市场融资",
+          "details": "财政部似乎正在考虑将多余的 TGA 现金投资于回购市场。这看起来不会对经济产生太大影响，但在Fed资产负债表持续缩减的情况下，或许能略微帮助市场融资",
+          "important": false
+        },
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "半导体股高β高位，空头不敢补多头过度自信，隔夜风险大",
+          "details": "目前大涨的半导体股票是高板块β高位状态，很多人害怕隔夜、仓位被吓跑，导致空头不敢补、 多头过于自信 → 次日经常gap down（跳空低开），隔夜风险是是实在存在的，最好保持灵活性",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        2
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-07",
+      "image_urls": [
+        "/uploads/2026-05-07/45dd32474590.png",
+        "/uploads/2026-05-07/3851308b9be9.png"
+      ]
+    },
+    {
+      "id": "other-2026-05-07",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "其他零散信息",
+      "bullets": [
+        {
+          "actor": "俄罗斯",
+          "actor_type": "Foreign-Gov",
+          "text": "[俄乌局势] 要求外国从基辅撤离，警告5月9日若乌袭莫斯科将报复",
+          "details": "俄罗斯要求外国政府和组织从基辅撤离外交人员和公民，并称如果乌克兰在 5 月 9 日二战胜利日庆祝活动期间试图袭击莫斯科，报复性打击将不可避免",
+          "important": true
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "[美国石油储备] Trump政府研究利用军事基地地下石油补充战略储备",
+          "details": "BBG报道特朗普政府正在研究利用美国军事基地和其他战争部设施地下的石油，以帮助补充国家日益枯竭的紧急石油储备",
+          "important": true
+        },
+        {
+          "actor": "Pulte",
+          "actor_type": "US-Executive",
+          "text": "[美联储理事任命争议] 预计Cook将被起诉，起诉足以在任期结束前免职",
+          "details": "Pulte表示，他预计Cook将被起诉，即使最高法院允许她留任，他也声称即将到来的起诉（不是定罪，而是起诉）足以在她任期结束前成功地将她免职",
+          "important": true
+        }
+      ],
+      "tickers": [],
+      "importance": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-05-07",
+      "image_urls": []
+    }
+  ]
+}
