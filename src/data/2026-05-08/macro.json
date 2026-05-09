@@ -1,0 +1,441 @@
+{
+  "topics": [
+    {
+      "id": "hormuz-iran-crisis-may26",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊霍尔木兹海峡冲突升级，双方互指对方违反停火",
+      "summary": "美国海军驱逐舰编队穿越霍尔木兹海峡时遭伊朗导弹、无人机和小型船只袭击，美方实施自卫反击打击伊朗军事设施。Trump称报复性打击只是\"轻轻一击\"，停火仍在继续。伊朗指责美国违反停火协议，伊朗要求赔偿战争损失作为重开海峡条件，沙特和科威特推翻阻止美军使用基地的决定。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "对伊朗报复性打击只是\"轻轻一击\"，停火仍有效，正与伊朗谈判",
+          "details": "【重要】对伊朗目标的报复性打击只是\"轻轻一击\"，停火还在继续，仍然有效，正与伊朗官员进行谈判",
+          "important": true
+        },
+        {
+          "actor": "美国中央司令部",
+          "actor_type": "US-Executive",
+          "text": "美驱逐舰编队穿越海峡时遭伊朗袭击，随即反击打击伊军事设施",
+          "details": "【重要】美国中央司令部表示，美国海军导弹驱逐舰编队当天在穿越霍尔木兹海峡驶向阿曼湾之际，拦截了伊朗发起的无端袭击（导弹、无人机、小型船只），并随即采取自卫反击行动，对负责袭击美军的伊朗军事设施实施了定点打击，其中包括导弹与无人机发射阵地、指挥控制中心，以及情报、监视与侦察节点",
+          "important": false
+        },
+        {
+          "actor": "伊朗中央总部发言人",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗指控美国违反停火，袭击伊朗油轮并空袭沿海民用区",
+          "details": "【重要】伊朗中央总部发言人称，美国违反停火协议，袭击了一艘从伊朗贾斯克附近沿海水域驶向霍尔木兹海峡的伊朗油轮，以及另一艘进入阿联酋富查伊拉港附近的霍尔木兹海峡船只。同时在一些地区国家的合作下，他们对BandarKhamir, Sirik, and Qeshm Island沿海的民用区实施了空袭",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "三艘美国驱逐舰成功穿越海峡，未受损但对伊朗造成巨大损伤",
+          "details": "三艘世界级美国驱逐舰刚刚在炮火下成功通过Hormuz海峡。三艘驱逐舰未受损，但对伊朗攻击者造成了巨大损伤……但伊朗不是普通国家。他们由疯子领导……如果他们不签署协议，未来我们会更狠、更暴力地击垮他们，我们的三艘驱逐舰及其出色的船员们，现在将重新加入我们的海上封锁",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "美国打击目标针对对袭击负有责任的伊朗设施",
+          "details": "其目标针对的是对袭击负有责任的伊朗设施",
+          "important": false
+        },
+        {
+          "actor": "莫森·雷扎伊",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗要求美国重开海峡计划包含战争损失赔偿",
+          "details": "伊朗高级官员莫森·雷扎伊表示，除非美国提出的重新开放霍尔木兹海峡的计划包含对战争损失的赔偿，否则德黑兰不会接受该计划",
+          "important": false
+        },
+        {
+          "actor": "Aragchi",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗导弹库存和发射能力为2月28日的120%，非75%",
+          "details": "Aragchi称我们的导弹库存和发射能力并非2月28日时的75%，正确数字是120%，伊朗人民不会屈服于压力",
+          "important": false
+        },
+        {
+          "actor": "伊朗",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗声称向美舰发射导弹，阿联酋防空击落2枚导弹和3架无人机",
+          "details": "伊朗声称已向三艘美国舰发射导弹，阿联酋防空部队称击落了2枚来自伊朗的弹道导弹和3架无人机，造成3人中度受伤",
+          "important": false
+        },
+        {
+          "actor": "伊朗国家媒体Mehr",
+          "actor_type": "新闻",
+          "text": "伊朗媒体报道阿联酋对伊朗发动了攻击",
+          "details": "伊朗国家媒体Mehr报道称，阿联酋已经对伊朗发动了攻击",
+          "important": false
+        },
+        {
+          "actor": "沙特/科威特",
+          "actor_type": "Foreign-Gov",
+          "text": "沙特和科威特推翻阻止美军使用其基地的决定",
+          "details": "沙特阿拉伯、科威特推翻阻止美军使用其基地的决定",
+          "important": false
+        },
+        {
+          "actor": "巴基斯坦",
+          "actor_type": "Foreign-Gov",
+          "text": "巴基斯坦要求美国在与伊朗谈判期间暂停\"自由计划\"",
+          "details": "巴基斯坦要求美国在与伊朗进行谈判期间暂停\"自由计划\"",
+          "important": false
+        },
+        {
+          "actor": "美国",
+          "actor_type": "US-Executive",
+          "text": "美国考虑重启\"自由计划\"以疏通霍尔木兹海峡",
+          "details": "美国正考虑重启\"自由计划\"以疏通霍尔木兹海峡",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ报道美国对伊打击目标为无人机和导弹发射场及雷达站",
+          "details": "WSJ报道对伊朗的打击目标是无人机和导弹发射场及雷达站",
+          "important": false
+        },
+        {
+          "actor": "伊朗新闻电视台",
+          "actor_type": "新闻",
+          "text": "伊朗媒体称海峡沿岸局势已恢复正常",
+          "details": "伊朗新闻电视台：霍尔木兹海峡沿岸伊朗岛屿和沿海城市局势已恢复正常",
+          "important": false
+        },
+        {
+          "actor": "财新",
+          "actor_type": "新闻",
+          "text": "中国大型成品油轮上周在阿联酋附近被伊朗炮弹击中",
+          "details": "财新报道，一艘中国大型成品油轮于上周一在阿联酋吉尔港附近海域遭伊朗炮弹击中。据船东消息人士透露，这是中国首次遭遇此类事件",
+          "important": false
+        },
+        {
+          "actor": "Gregory Brew",
+          "actor_type": "KOL",
+          "text": "\"停火\"是一种状态而非正式协议，小规模冲突仍有发生空间",
+          "details": "\"停火\"是一种状态。双方并没有正式的协议要求放下武器。这是一种双方共同的决定，即不再恢复更激烈的敌对行动。在这个界限之内，小规模冲突仍然有很大的发生空间",
+          "important": false
+        },
+        {
+          "actor": "Gregory Brew",
+          "actor_type": "KOL",
+          "text": "小规模冲突可能升级破坏交战规则，双方都希望达成协议",
+          "details": "存在局势意外升级的可能性，小规模冲突可能导致针锋相对的报复性交战，从而破坏现有的交战规则。如果\"不战不和\"的现状持续下去，这种风险就越来越大。这也是双方都希望达成协议的部分原因",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "财新",
+        "伊朗新闻电视台",
+        "Mehr"
+      ],
+      "date": "2026-05-08",
+      "image_urls": []
+    },
+    {
+      "id": "us-tariff-court-ruling-may26",
+      "topic": "美国关税政策",
+      "topic_tag": "policy",
+      "title": "美国贸易法庭裁定122条款全球关税政策无效",
+      "summary": "美国贸易法庭裁定Trump的122条款10%全球关税政策无效。但据KOL分析，122关税将于7/24到期，预计被301条关税取代，后者也将面临法律挑战。最高法本届会期不太可能驳回122条关税。",
+      "bullets": [
+        {
+          "actor": "美国贸易法庭",
+          "actor_type": "US-Congress",
+          "text": "贸易法庭裁定Trump的122条款10%全球关税政策无效",
+          "details": "美国贸易法庭裁定Trump的122条款10%全球关税政策无效",
+          "important": true
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "122关税7/24到期将被301条关税取代，最高法本届会期不太可能驳回",
+          "details": "无论如何，122关税将于7/24到期，据称将被第301条关税取代。届时，第301条关税也将面临挑战。最高法本届会期不太可能驳回第122条关税，所以明年或后年。目前，第122条关税将先被征收，然后是第301条关税，之后或许会像现在的IEEPA关税一样，全部税款连本带息地偿还",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-08",
+      "image_urls": []
+    },
+    {
+      "id": "fed-policy-outlook-may26",
+      "topic": "美联储政策",
+      "topic_tag": "fed",
+      "title": "Miran称Powell留任暂时，减少前瞻指引增加灵活性",
+      "summary": "白宫经济顾问Miran表示Powell的留任只是暂时的，减少前瞻性指引将带来更大的政策灵活性。德银指出市场对美联储与欧央行利率定价存在分歧，美国核心通胀3.2%但Fed按兵不动。",
+      "bullets": [
+        {
+          "actor": "Miran",
+          "actor_type": "US-Executive",
+          "text": "Powell留任只是暂时的，减少前瞻指引将带来更大政策灵活性",
+          "details": "Powell的留任只是暂时的；减少前瞻性指引将带来更大的政策灵活性",
+          "important": true
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "美联储与欧央行利率定价不一致，美国core inflation达3.2%但Fed按兵不动",
+          "details": "美联储与欧洲央行利率定价不一致，市场预计欧央行未来12个月可能加息三次，而Fed按兵不动，尽管美国core inflation达3.2%、就业强劲",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-08",
+      "image_urls": []
+    },
+    {
+      "id": "us-china-summit-may26",
+      "topic": "中美关系/峰会",
+      "topic_tag": "geo",
+      "title": "特朗普下周访华，预计仅达成框架性协议",
+      "summary": "白宫邀请缩减规模的CEO代表团陪同特朗普访华，反映政府内部对华政策分歧及对峰会预期有限。摩根大通预计峰会仅达成框架性协议，中方将大量采购美国大豆、波音飞机及能源，高科技领域博弈加剧。",
+      "bullets": [
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "中美峰会预计仅达框架协议，中国将大量采购美国商品维持关税现状",
+          "details": "中美峰会预计仅达成框架性协议，中国将大量采购美国大豆、波音飞机及能源以维持关税现状。美方迫切要求中国协助重启霍尔木兹海峡，中方则期待美方在台湾问题上释放善意。高科技领域博弈加剧，华为昇腾950芯片加速替代Nvidia H200，削弱美国半导体管制效果。双方或就稀土与芯片管制达成有限妥协，但全面贸易协议仍难落地，中期选举临近令不确定性上升",
+          "important": true
+        },
+        {
+          "actor": "路透",
+          "actor_type": "新闻",
+          "text": "白宫邀请缩减规模CEO代表团陪同特朗普下周访华",
+          "details": "RTRS报道白宫已邀请一个规模缩减的首席执行官代表团陪同特朗普总统下周访问北京，这反映出美国政府内部在对华经济政策上存在分歧，以及对此次峰会的预期有限",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "伊朗加大对华铁路贸易，货运列车从每周一列增至每三四天一列",
+          "details": "BBG报道伊朗正加大对华铁路贸易力度，以期缓解美国对其港口封锁的影响，并应对旨在扼杀其经济的压力。据彭博社消息人士透露，自4月13日封锁开始以来，货运列车的数量已从冲突前每周约一列增加到每三四天一列",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "BA",
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Reuters",
+        "Bloomberg",
+        "JPMorgan"
+      ],
+      "date": "2026-05-08",
+      "image_urls": []
+    },
+    {
+      "id": "us-labor-market-nfp-may26",
+      "topic": "美国就业市场",
+      "topic_tag": "macro-other",
+      "title": "高盛预计4月非农增7.5万，盈亏平衡就业率已降至6.5万/月",
+      "summary": "高盛预计4月美国非农就业人数增加7.5万，略高于市场共识6.5万，失业率料维持4.3%。盈亏平衡就业率已降至约6.5万/月，年底将进一步降至5万/月。能源成本冲击和AI替代效应或推动失业率年底前上升0.3%至4.6%。",
+      "bullets": [
+        {
+          "actor": "GS Eco",
+          "actor_type": "Analyst",
+          "text": "预计4月非农增7.5万，失业率维持4.3%，平均时薪环比升0.3%",
+          "details": "预计4月美国非农就业人数增加75k，略高于市场共识的65k，私人部门就业预计增长80k。失业率料维持在4.3%，但向下取整至4.2%的门槛不高，因3月未经四舍五入的失业率仅为4.26%。平均时薪预计环比上升0.3%，日历效应中性。政府就业预计减少5k，联邦冻结招聘持续拖累。劳动力市场降温但未坍塌，薪资增长温和有助于通胀回落",
+          "important": true
+        },
+        {
+          "actor": "GS Eco",
+          "actor_type": "Analyst",
+          "text": "盈亏平衡就业率已降至约6.5万/月，年底失业率或升至4.6%",
+          "details": "美国盈亏平衡就业率已降至约65k/mo，年底预计进一步降至50k/mo，远低于此前水平。净移民从2023年峰值2.4M降至近期年化0.4M，2026年将放缓至0.2M，劳动力供给增长显著降温。向后看估计的盈亏平衡率仅约30K/mo。尽管趋势就业增长回升至50k/mo，但能源成本冲击和AI替代效应或推动失业率在年底前上升0.3%至4.6%",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs"
+      ],
+      "date": "2026-05-08",
+      "image_urls": []
+    },
+    {
+      "id": "market-equity-outlook-may26",
+      "topic": "股市/策略展望",
+      "topic_tag": "macro-other",
+      "title": "摩根大通称SPX超买但看涨延续，半导体可能盘整",
+      "summary": "摩根大通认为SPX虽超买但无衰竭迹象，看涨趋势延续，下一阻力位7650点。半导体板块全面走强，内存和模拟芯片领涨但已达中期目标可能减速盘整。德银指出股市与利率市场对伊朗冲突定价出现分歧。",
+      "bullets": [
+        {
+          "actor": "JPM Equity Strategy",
+          "actor_type": "Analyst",
+          "text": "SPX虽超买但无衰竭迹象，看涨延续，下一阻力7650点",
+          "details": "SPX虽超买但无衰竭迹象，看涨趋势延续，下一阻力位7650点。半导体板块全面走强，内存和模拟芯片领涨，但已实现中期目标，可能减速盘整。4月全球制造业PMI升至52.6，降低周期股下行风险。防御股与美债收益率料维持区间波动，建议利用弱势战术性做多对冲",
+          "important": true
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "股市与利率市场对伊朗冲突定价分歧，SPX重回历史高位而美债收益率紧贴油价",
+          "details": "当前全球市场存在四大错位：股市与利率市场对伊朗冲突的定价出现分歧，SPX已重回历史高位，而美债收益率仍紧贴油价",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "美欧信用利差反常收窄至冲突前以下，长期通胀预期异常稳定",
+          "details": "美欧信用利差反常收窄至冲突前水平以下，无视能源冲击和增长降级；长期通胀预期异常稳定，5y5y通胀互换仅略高于2%，但历史上无经济体长期维持通胀低于2%。这些错位提示部分资产定价面临修正风险",
+          "important": false
+        },
+        {
+          "actor": "@MarkRitchie_II",
+          "actor_type": "KOL",
+          "text": "动量信号通常在短期顶部出现，龙头股回调下跌股增多",
+          "details": "这些\"动量\"信号通常会在短期顶部或回调附近出现。今天很多龙头股都在回调，下跌的股票也明显增多",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        2
+      ],
+      "importance": 2,
+      "sources": [
+        "JPMorgan",
+        "Deutsche Bank"
+      ],
+      "date": "2026-05-08",
+      "image_urls": [
+        "/uploads/2026-05-08/ca64104b7a23.png",
+        "/uploads/2026-05-08/c459368d0883.png"
+      ]
+    },
+    {
+      "id": "ai-bubble-rates-may26",
+      "topic": "AI投资与利率",
+      "topic_tag": "ai",
+      "title": "KOL称AI板块处于泡沫，瑞银称AI投资短期带来通胀压力",
+      "summary": "KOL Andy断言当前处于\"镐和铲\"泡沫中，类似2000年光纤芯片泡沫或2007年住宅房地产泡沫。瑞银指出AI实验室发布新模型时美债收益率并未显著下降，短期AI投资需求可能带来通胀压力。",
+      "bullets": [
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "当前处于AI\"镐和铲\"泡沫中，类似2000年光纤芯片泡沫",
+          "details": "根据过去一周的走势以及过去48小时的抛物线式波动，我现在就断言，我们正处于泡沫之中，具体来说，是镐和铲的泡沫，类似于2000年的光纤和芯片泡沫，或者2007年的住宅房地产泡沫",
+          "important": true
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "AI新模型发布未显著降低美债收益率，短期AI投资需求可能带来通胀压力",
+          "details": "2025-26年主要AI实验室发布新前沿模型时，美国10年期国债收益率并未显著下降，也未引起市场大幅重新定价美国财政风险。此前关于AI发布降低利率的观点或受其他因素影响。短期看，AI投资需求和瓶颈可能带来通胀压力，财政与货币政策仍是利率主导因素",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "UBS"
+      ],
+      "date": "2026-05-08",
+      "image_urls": []
+    },
+    {
+      "id": "oil-shock-history-may26",
+      "topic": "石油冲击与股市历史",
+      "topic_tag": "oil",
+      "title": "历史表明油价冲击对股市的滞后影响更大",
+      "summary": "Peter Berezin指出1973年阿以战争至石油禁运解除期间SPX仅下跌11%而油价涨135%，但随后7个月随经济衰退SPX暴跌36%。1979年伊朗革命后油价飙升166%但SPX仍创新高，随后才崩盘。",
+      "bullets": [
+        {
+          "actor": "Peter Berezin",
+          "actor_type": "KOL",
+          "text": "1973年阿以战争期间SPX仅跌11%而油价涨135%，随后7个月SPX跌36%",
+          "details": "从1973年10月6日阿以战争爆发到1974年3月18日石油禁运解除，SPX仅下跌了11%，而在此期间，油价上涨了135%。随后的七个月里，随着经济陷入更深的衰退，SPX下跌了36%。类似的模式在20世纪80年代初再次上演。尽管1979年伊朗革命后石油价格飙升了166%，但SPX在1981年11月仍创下历史新高。随后，随着经济陷入深度衰退，股市开始暴跌",
+          "important": true
+        },
+        {
+          "actor": "Peter Berezin",
+          "actor_type": "KOL",
+          "text": "经济对高油价的反应存在滞后，股市亦然",
+          "details": "Just as the economy generally responds to higher oil prices with a lag, the same is true for stocks",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [
+        "BCA Research"
+      ],
+      "date": "2026-05-08",
+      "image_urls": [
+        "/uploads/2026-05-08/6cc8645d0d25.png"
+      ]
+    },
+    {
+      "id": "us-consumer-layoffs-may26",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "低收入群体出现负现金流，多家科技公司宣布裁员",
+      "summary": "卡夫亨氏CEO表示低收入群体出现负现金流，月底将没钱。Cloudflare裁员约20%，Upwork裁员约24%，BILL计划裁员至多30%。中国军事法庭对两名前国防部长判处死刑缓期执行。",
+      "bullets": [
+        {
+          "actor": "卡夫亨氏CEO",
+          "actor_type": "Corporate",
+          "text": "低收入群体出现负现金流，月底将没钱，不得不动用积蓄",
+          "details": "卡夫亨氏CEO本周在接受采访时表示：\"他们月底真的会没钱了。我们看到低收入群体出现了负现金流，他们不得不动用积蓄\"",
+          "important": true
+        },
+        {
+          "actor": "多家公司",
+          "actor_type": "Corporate",
+          "text": "Cloudflare裁员约20%，Upwork裁员约24%，BILL计划裁员至多30%",
+          "details": "Cloudflare将裁员约20%，Upwork将裁员约24%，$BILL计划裁员至多30%",
+          "important": false
+        },
+        {
+          "actor": "Ed Bradford",
+          "actor_type": "KOL",
+          "text": "SOFR互换利差扩大，SR3相对美债承压",
+          "details": "SOFR swap spreads widening, SR3s under pressure vs USTs",
+          "important": false
+        },
+        {
+          "actor": "中国",
+          "actor_type": "Foreign-Gov",
+          "text": "中国军事法庭对两名前国防部长判处死刑缓期执行",
+          "details": "中国军事法庭对两名前国防部长判处死刑缓期执行，罪名是贪污腐败",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NET",
+        "UPWK",
+        "BILL",
+        "KHC"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-05-08",
+      "image_urls": []
+    }
+  ]
+}

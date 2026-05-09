@@ -1,0 +1,394 @@
+{
+  "generated_at": "2026-05-09T00:23:11+00:00",
+  "date": "2026-05-08",
+  "since": "2026-05-06T20:00:00+00:00",
+  "by_ticker": {
+    "INOD": [
+      {
+        "headline": "Nasdaq Tops 29,000 Records, Micron Soars 13%: Stock Market Today",
+        "url": "https://www.benzinga.com/markets/equities/26/05/52422543/nasdaq-100-record-highs-tech-rally-semiconductor-performance-micron-best-week-since-2008-friday-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "source": "Benzinga",
+        "published_at": "2026-05-08T17:36:32Z",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/05/08/New-York--Ny--Usa---August-21--2022-The-.jpeg?width=1200&height=800&fit=crop",
+        "description": "U.S. equities reached fresh record highs on Friday, with the Nasdaq 100 jumping 1.6% above 29,000 and the S&P 500 climbing 0.8% to near 7,400. A strong April jobs report (115,000 jobs added) and a semiconductor rally led gains, with Micron Technology surging 13.5% for its best week since 2008. However, mixed earnings results saw software stocks stumble, with Cloudflare and HubSpot falling over 20% on weak guidance."
+      }
+    ],
+    "RXT": [
+      {
+        "headline": "Stock Market Today, May 8: Rackspace Surges on AMD AI Cloud Agreement",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/05/08/stock-market-today-may-8-rackspace-surges-after-amd-ai-cloud-agreement/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-05-08T22:19:59Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ffba1f8637ee52b475744b372db2dad28ef4043f2-200x200.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+        "description": "Rackspace Technology surged 55.97% after announcing a memorandum of understanding with AMD to develop governed Enterprise AI Cloud infrastructure for regulated customers. The company also reported improved Q1 results with 2% revenue growth to $678 million and a return to profitability. The key challenge ahead is converting this framework agreement into actual customer workloads and recurring managed-cloud revenue."
+      }
+    ],
+    "RKLB": [
+      {
+        "headline": "Stock Market Today, May 8: Nasdaq Gains 1.7% on AI Demand and Strong Jobs Data",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/05/08/stock-market-today-may-8-nasdaq-gains-1-7-on-ai-demand-and-strong-jobs-data/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-05-08T21:11:33Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Feebe7e12e410c082d3c847f0413d646229dc8d1f-200x200.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+        "description": "The Nasdaq jumped 1.7% to record highs on May 8, 2026, driven by strong jobs data showing 115,000 nonfarm payroll additions and resilient AI/tech sector strength. The S&P 500 rose 0.76% and the Dow inched up 0.02%. Memory stocks surged with Micron up 16%, while Intel rallied on Apple chip deal reports. However, Cloudflare plunged 24% due to AI-focused layoffs and HubSpot fell 19% on weak guidance."
+      },
+      {
+        "headline": "Space Earnings Heat Up: Rocket Lab Tops $200M, Firefly Hits Record Revenue, Redwire Backlog Surges",
+        "url": "https://www.benzinga.com/trading-ideas/movers/26/05/52422709/space-earnings-heat-up-rocket-lab-tops-200m-firefly-hits-record-revenue-redwire-backlog-surg?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "source": "Benzinga",
+        "published_at": "2026-05-08T17:40:10Z",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/05/08/Space-Stocks-r.jpeg?width=1200&height=800&fit=crop",
+        "description": "Space sector companies reported strong Q1 earnings driven by surging defense and national security demand. Rocket Lab achieved record revenue of $200.3M with 63.5% YoY growth and $2.2B backlog. Firefly Aerospace posted $80.9M revenue (up 40% QoQ) with full-year guidance of $420-450M. Redwire reported $97M revenue (up 57.9% YoY) with record $498.1M backlog. Other companies like Voyager Technologies, BlackSky, and upcoming reporters also showed strong momentum, though sector-wide losses persist as"
+      },
+      {
+        "headline": "Nasdaq Tops 29,000 Records, Micron Soars 13%: Stock Market Today",
+        "url": "https://www.benzinga.com/markets/equities/26/05/52422543/nasdaq-100-record-highs-tech-rally-semiconductor-performance-micron-best-week-since-2008-friday-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "source": "Benzinga",
+        "published_at": "2026-05-08T17:36:32Z",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/05/08/New-York--Ny--Usa---August-21--2022-The-.jpeg?width=1200&height=800&fit=crop",
+        "description": "U.S. equities reached fresh record highs on Friday, with the Nasdaq 100 jumping 1.6% above 29,000 and the S&P 500 climbing 0.8% to near 7,400. A strong April jobs report (115,000 jobs added) and a semiconductor rally led gains, with Micron Technology surging 13.5% for its best week since 2008. However, mixed earnings results saw software stocks stumble, with Cloudflare and HubSpot falling over 20% on weak guidance."
+      },
+      {
+        "headline": "Why Is Rocket Lab Stock Soaring Friday?",
+        "url": "https://www.benzinga.com/markets/large-cap/26/05/52403322/why-is-rocket-lab-stock-soaring-friday?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "source": "Benzinga",
+        "published_at": "2026-05-08T10:52:31Z",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/05/08/3--The-Space-Race.jpeg?width=1200&height=800&fit=crop",
+        "description": "Rocket Lab shares surged in premarket trading after announcing its largest launch contract to date (5 Neutron and 3 Electron missions worth $2.2B+ backlog), a $30M defense contract with Anduril Industries for hypersonic testing, the acquisition of Motiv Space Systems, and a partnership with Raytheon for the U.S. Space Force's Space Based Interceptor program. The company also beat Q1 revenue expectations ($200.35M vs. $189.68M estimate) and issued strong Q2 guidance ($225-240M vs. $205.05M consen"
+      },
+      {
+        "headline": "Rocket Lab To Acquire Robotics Leader Motiv Space Systems",
+        "url": "https://www.benzinga.com/pressreleases/26/05/g52388902/rocket-lab-to-acquire-robotics-leader-motiv-space-systems?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "source": "Benzinga",
+        "published_at": "2026-05-07T20:13:00Z",
+        "image": "https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png",
+        "description": "Rocket Lab announced a definitive agreement to acquire Motiv Space Systems, a California-based robotics company specializing in space robotics and precision mechanisms. The acquisition will add Mars-proven robotics capabilities for planetary and national security missions, and complete Rocket Lab's vertical integration strategy by bringing in-house costly spacecraft components like solar array drive assemblies. The deal is expected to close in Q2 2026."
+      }
+    ],
+    "FLNC": [],
+    "AKAM": [
+      {
+        "headline": "Stock Market Today, May 8: Rackspace Surges on AMD AI Cloud Agreement",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/05/08/stock-market-today-may-8-rackspace-surges-after-amd-ai-cloud-agreement/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-05-08T22:19:59Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ffba1f8637ee52b475744b372db2dad28ef4043f2-200x200.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+        "description": "Rackspace Technology surged 55.97% after announcing a memorandum of understanding with AMD to develop governed Enterprise AI Cloud infrastructure for regulated customers. The company also reported improved Q1 results with 2% revenue growth to $678 million and a return to profitability. The key challenge ahead is converting this framework agreement into actual customer workloads and recurring managed-cloud revenue."
+      },
+      {
+        "headline": "Nasdaq Tops 29,000 Records, Micron Soars 13%: Stock Market Today",
+        "url": "https://www.benzinga.com/markets/equities/26/05/52422543/nasdaq-100-record-highs-tech-rally-semiconductor-performance-micron-best-week-since-2008-friday-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "source": "Benzinga",
+        "published_at": "2026-05-08T17:36:32Z",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/05/08/New-York--Ny--Usa---August-21--2022-The-.jpeg?width=1200&height=800&fit=crop",
+        "description": "U.S. equities reached fresh record highs on Friday, with the Nasdaq 100 jumping 1.6% above 29,000 and the S&P 500 climbing 0.8% to near 7,400. A strong April jobs report (115,000 jobs added) and a semiconductor rally led gains, with Micron Technology surging 13.5% for its best week since 2008. However, mixed earnings results saw software stocks stumble, with Cloudflare and HubSpot falling over 20% on weak guidance."
+      },
+      {
+        "headline": "Stock Market Today, May 7: Fastly Shares Plunge After Record Q1 Results Fail to Ease Growth Concerns",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/05/07/stock-market-today-may-7-fastly-shares-plunge-after-record-q1-results-fail-to-ease-growth-concerns/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-05-07T21:29:13Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Feebe7e12e410c082d3c847f0413d646229dc8d1f-200x200.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+        "description": "Fastly stock plunged 38.23% to $19.50 despite posting record Q1 results with 20% sales growth and raised 2026 guidance. The sell-off was driven by concerns about slowing core networking services growth (11% vs. market expectations), though the company's Security and Compute segments showed strong growth of 67% and 47% respectively. The stock trades at 71x forward earnings after tripling over the past year."
+      }
+    ],
+    "EOSE": [],
+    "FROG": [
+      {
+        "headline": "Nasdaq Tops 29,000 Records, Micron Soars 13%: Stock Market Today",
+        "url": "https://www.benzinga.com/markets/equities/26/05/52422543/nasdaq-100-record-highs-tech-rally-semiconductor-performance-micron-best-week-since-2008-friday-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "source": "Benzinga",
+        "published_at": "2026-05-08T17:36:32Z",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/05/08/New-York--Ny--Usa---August-21--2022-The-.jpeg?width=1200&height=800&fit=crop",
+        "description": "U.S. equities reached fresh record highs on Friday, with the Nasdaq 100 jumping 1.6% above 29,000 and the S&P 500 climbing 0.8% to near 7,400. A strong April jobs report (115,000 jobs added) and a semiconductor rally led gains, with Micron Technology surging 13.5% for its best week since 2008. However, mixed earnings results saw software stocks stumble, with Cloudflare and HubSpot falling over 20% on weak guidance."
+      }
+    ],
+    "FLY": [
+      {
+        "headline": "Space Earnings Heat Up: Rocket Lab Tops $200M, Firefly Hits Record Revenue, Redwire Backlog Surges",
+        "url": "https://www.benzinga.com/trading-ideas/movers/26/05/52422709/space-earnings-heat-up-rocket-lab-tops-200m-firefly-hits-record-revenue-redwire-backlog-surg?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "source": "Benzinga",
+        "published_at": "2026-05-08T17:40:10Z",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/05/08/Space-Stocks-r.jpeg?width=1200&height=800&fit=crop",
+        "description": "Space sector companies reported strong Q1 earnings driven by surging defense and national security demand. Rocket Lab achieved record revenue of $200.3M with 63.5% YoY growth and $2.2B backlog. Firefly Aerospace posted $80.9M revenue (up 40% QoQ) with full-year guidance of $420-450M. Redwire reported $97M revenue (up 57.9% YoY) with record $498.1M backlog. Other companies like Voyager Technologies, BlackSky, and upcoming reporters also showed strong momentum, though sector-wide losses persist as"
+      }
+    ],
+    "DXYZ": [
+      {
+        "headline": "The SpaceX IPO Could Be the Biggest in a Decade. Here's How to Get In Early.",
+        "url": "https://www.fool.com/investing/2026/05/07/the-spacex-ipo-could-be-the-biggest-in-a-decade-he/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-05-07T16:24:27Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F868832%2Fgettyimages-1367686706.jpg&w=1200&op=resize",
+        "description": "SpaceX filed for an IPO expected within months with a reported $1.75 trillion valuation, potentially the world's largest IPO. Before the official public debut, investors can access SpaceX through private secondary marketplaces, specialized ETFs, or tokenized SPVs, though these options have drawbacks including low liquidity, high fees, and limited actual ownership. The company plans to offer 20-30% of shares to retail investors through traditional brokerages at IPO launch."
+      }
+    ],
+    "MXL": [],
+    "WSC": [],
+    "RDW": [
+      {
+        "headline": "Space Earnings Heat Up: Rocket Lab Tops $200M, Firefly Hits Record Revenue, Redwire Backlog Surges",
+        "url": "https://www.benzinga.com/trading-ideas/movers/26/05/52422709/space-earnings-heat-up-rocket-lab-tops-200m-firefly-hits-record-revenue-redwire-backlog-surg?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "source": "Benzinga",
+        "published_at": "2026-05-08T17:40:10Z",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/05/08/Space-Stocks-r.jpeg?width=1200&height=800&fit=crop",
+        "description": "Space sector companies reported strong Q1 earnings driven by surging defense and national security demand. Rocket Lab achieved record revenue of $200.3M with 63.5% YoY growth and $2.2B backlog. Firefly Aerospace posted $80.9M revenue (up 40% QoQ) with full-year guidance of $420-450M. Redwire reported $97M revenue (up 57.9% YoY) with record $498.1M backlog. Other companies like Voyager Technologies, BlackSky, and upcoming reporters also showed strong momentum, though sector-wide losses persist as"
+      }
+    ],
+    "LUNR": [],
+    "SNDK": [
+      {
+        "headline": "SanDisk Did In Months What Nvidia Took 9 Years To Pull Off — And The Chart Looks Almost Unreal",
+        "url": "https://www.benzinga.com/markets/tech/26/05/52425213/sandisk-nvidia-ai-semiconductor-memory-stocks?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "source": "Benzinga",
+        "published_at": "2026-05-08T18:42:56Z",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/05/08/Milpitas--Ca---Feb--12--2017-Sandisk---A.jpeg?width=1200&height=800&fit=crop",
+        "description": "SanDisk has surged 4,086% since its February 2025 spin-off, matching Nvidia's 9-year 4,006% gain in just 15 months. The rally is driven by an extreme supply-demand imbalance in AI memory chips, with hyperscalers signing multi-year contracts and memory companies operating at 80%+ margins. Despite explosive earnings growth, memory chip makers trade at valuations (5-8x forward earnings) far below the S&P 500 (21.5x) and Nvidia (37x), suggesting potential further upside if the market re-rates these "
+      },
+      {
+        "headline": "Nasdaq Tops 29,000 Records, Micron Soars 13%: Stock Market Today",
+        "url": "https://www.benzinga.com/markets/equities/26/05/52422543/nasdaq-100-record-highs-tech-rally-semiconductor-performance-micron-best-week-since-2008-friday-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "source": "Benzinga",
+        "published_at": "2026-05-08T17:36:32Z",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/05/08/New-York--Ny--Usa---August-21--2022-The-.jpeg?width=1200&height=800&fit=crop",
+        "description": "U.S. equities reached fresh record highs on Friday, with the Nasdaq 100 jumping 1.6% above 29,000 and the S&P 500 climbing 0.8% to near 7,400. A strong April jobs report (115,000 jobs added) and a semiconductor rally led gains, with Micron Technology surging 13.5% for its best week since 2008. However, mixed earnings results saw software stocks stumble, with Cloudflare and HubSpot falling over 20% on weak guidance."
+      },
+      {
+        "headline": "Why Sandisk Stock Bounced Back Today",
+        "url": "https://www.fool.com/investing/2026/05/08/why-sandisk-stock-bounced-back-today/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-05-08T14:16:42Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F869233%2Fone-green-arrow-sticks-out-of-a-list-of-stock-prices-that-are-all-red.jpg&w=1200&op=resize",
+        "description": "SanDisk stock rebounded 8.5% after Bernstein analyst reassured investors that the company's Q4 guidance remains safe despite concerns about spot market demand for NAND memory. While high memory prices may force some buyers to reduce purchases, strong price increases (DRAM up 57%, NAND up 65-70% in April) should support continued demand and SanDisk's projected $8 billion in sales and $30-33 per share profits."
+      },
+      {
+        "headline": "Why Sandisk Stock Just Dropped",
+        "url": "https://www.fool.com/investing/2026/05/07/why-sandisk-stock-just-dropped/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-05-07T15:32:37Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F869113%2F1-blue-semiconductor-computer-chip.jpg&w=1200&op=resize",
+        "description": "SanDisk stock dropped 4.4% after analyst Bernstein warned that rising memory prices are depressing demand, forcing OEMs and module houses to reduce purchases. While Q4 guidance appears intact, concerns are mounting for Q1 2027 when prices are expected to fall."
+      }
+    ],
+    "MU": [
+      {
+        "headline": "Stock Market Today, May 8: Nasdaq Gains 1.7% on AI Demand and Strong Jobs Data",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/05/08/stock-market-today-may-8-nasdaq-gains-1-7-on-ai-demand-and-strong-jobs-data/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-05-08T21:11:33Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Feebe7e12e410c082d3c847f0413d646229dc8d1f-200x200.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+        "description": "The Nasdaq jumped 1.7% to record highs on May 8, 2026, driven by strong jobs data showing 115,000 nonfarm payroll additions and resilient AI/tech sector strength. The S&P 500 rose 0.76% and the Dow inched up 0.02%. Memory stocks surged with Micron up 16%, while Intel rallied on Apple chip deal reports. However, Cloudflare plunged 24% due to AI-focused layoffs and HubSpot fell 19% on weak guidance."
+      },
+      {
+        "headline": "Wall Street Pops The Champagne, Main Street Hits A Record Low: This Week In The Market",
+        "url": "https://www.benzinga.com/markets/market-summary/26/05/52428253/wall-street-tech-rally-record-vs-consumer-sentiment-collapse?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "source": "Benzinga",
+        "published_at": "2026-05-08T20:01:01Z",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/05/08/Wall-Street-Bull.jpeg?width=1200&height=800&fit=crop",
+        "description": "While the U.S. tech sector experiences its best six-week rally on record with the S&P 500 and Nasdaq 100 hitting all-time highs, consumer sentiment has collapsed to a historic low of 48.2—worse than the 2008 financial crisis. The divergence reflects concerns over gasoline prices and tariffs, creating a stark contrast between Wall Street gains and Main Street pessimism."
+      },
+      {
+        "headline": "SanDisk Did In Months What Nvidia Took 9 Years To Pull Off — And The Chart Looks Almost Unreal",
+        "url": "https://www.benzinga.com/markets/tech/26/05/52425213/sandisk-nvidia-ai-semiconductor-memory-stocks?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "source": "Benzinga",
+        "published_at": "2026-05-08T18:42:56Z",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/05/08/Milpitas--Ca---Feb--12--2017-Sandisk---A.jpeg?width=1200&height=800&fit=crop",
+        "description": "SanDisk has surged 4,086% since its February 2025 spin-off, matching Nvidia's 9-year 4,006% gain in just 15 months. The rally is driven by an extreme supply-demand imbalance in AI memory chips, with hyperscalers signing multi-year contracts and memory companies operating at 80%+ margins. Despite explosive earnings growth, memory chip makers trade at valuations (5-8x forward earnings) far below the S&P 500 (21.5x) and Nvidia (37x), suggesting potential further upside if the market re-rates these "
+      },
+      {
+        "headline": "Nasdaq Tops 29,000 Records, Micron Soars 13%: Stock Market Today",
+        "url": "https://www.benzinga.com/markets/equities/26/05/52422543/nasdaq-100-record-highs-tech-rally-semiconductor-performance-micron-best-week-since-2008-friday-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "source": "Benzinga",
+        "published_at": "2026-05-08T17:36:32Z",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/05/08/New-York--Ny--Usa---August-21--2022-The-.jpeg?width=1200&height=800&fit=crop",
+        "description": "U.S. equities reached fresh record highs on Friday, with the Nasdaq 100 jumping 1.6% above 29,000 and the S&P 500 climbing 0.8% to near 7,400. A strong April jobs report (115,000 jobs added) and a semiconductor rally led gains, with Micron Technology surging 13.5% for its best week since 2008. However, mixed earnings results saw software stocks stumble, with Cloudflare and HubSpot falling over 20% on weak guidance."
+      },
+      {
+        "headline": "Strong Earnings Push Micron Stock Higher as Bulls Eye Next Major Breakout",
+        "url": "https://www.investing.com/analysis/strong-earnings-push-micron-stock-higher-as-bulls-eye-next-major-breakout-200679972",
+        "source": "Investing.com",
+        "published_at": "2026-05-08T12:36:00Z",
+        "image": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+        "description": "Micron's stock has surged over 20% this week and 700% over the past year, driven by strong earnings and booming AI demand. The chipmaker reported $23.9B in quarterly revenue (up 196% YoY) with gross margins reaching 74%, and expects $33.5B next quarter. Its high bandwidth memory chips are fully booked for 2026. Despite the rally, analysts believe the stock remains undervalued at 11x forward earnings, with price targets ranging from $740 to $1,000. However, risks include potential oversupply, exe"
+      },
+      {
+        "headline": "AI Stocks Were Just Put to the Test. Here's How They Fared.",
+        "url": "https://www.fool.com/investing/2026/05/07/ai-stocks-were-just-put-to-the-test-heres-how-they/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-05-07T09:05:00Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F868829%2Fgettyimages-2196790819-1201x800-5b2df79.jpg&w=1200&op=resize",
+        "description": "AI stocks faced significant headwinds in early 2026 due to valuation concerns, with the S&P 500 Shiller CAPE ratio reaching 40 (matching dot-com bubble levels), and geopolitical uncertainty from the Iran war. However, AI stocks have rebounded strongly as tech giants demonstrated that their massive AI infrastructure spending is justified by solid customer commitments and strong revenue growth. Companies like Amazon are monetizing their $200 billion AI investments through committed customer deals,"
+      },
+      {
+        "headline": "Narrow Tech Leadership Continues as Oil and Rates Fall",
+        "url": "https://www.investing.com/analysis/narrow-tech-leadership-continues-as-oil-and-rates-fall-200679834",
+        "source": "Investing.com",
+        "published_at": "2026-05-07T06:43:00Z",
+        "image": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+        "description": "Technology sector significantly outperforms the broader market by 12.5 percentage points over the past 30 days, driven by major names like Nvidia, Microsoft, Apple, Broadcom, Micron, and AMD. However, this narrow market leadership concentrated in large-cap tech stocks poses correction risks. Oil prices fell sharply on U.S.-Iran deal hopes, while interest rates declined as the 10-year yield fell below its multi-year downtrend. AMD surged 18.61% after strong earnings, while ARM and Palantir showed"
+      },
+      {
+        "headline": "This Wall Street Analyst Has a Simple Method for Finding the Next Chip Stock Winners. Will It Pay Off?",
+        "url": "https://www.fool.com/investing/2026/05/06/this-wall-street-analyst-has-a-simple-method-for-f/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-05-07T02:30:00Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F869005%2Fai-chip.jpg&w=1200&op=resize",
+        "description": "Citrini Research suggests finding winning semiconductor stocks by identifying laggards that haven't surged yet and still trade at lower valuations. The theory focuses on Edge AI as the next breakthrough, with companies like Qualcomm, Skyworks, and Wolfspeed positioned to benefit as AI expands into consumer devices and applications beyond data centers."
+      }
+    ],
+    "NVTS": [
+      {
+        "headline": "Navitas to Participate at Upcoming Investor Conferences",
+        "url": "https://www.globenewswire.com/news-release/2026/05/07/3289915/0/en/Navitas-to-Participate-at-Upcoming-Investor-Conferences.html",
+        "source": "GlobeNewswire Inc.",
+        "published_at": "2026-05-07T12:00:00Z",
+        "image": "https://ml.globenewswire.com/Resource/Download/868101a2-7cda-489f-8c4f-e2f9c2618358",
+        "description": "Navitas Semiconductor announced that CEO Chris Allexandre and CFO Tonya Stevens will participate in one-on-one investor meetings at the CJS Securities 2nd Annual Spring 1x1 Conference (May 13, 2026) and J.P. Morgan Global Technology, Media & Communications Conference (May 19, 2026 in Boston)."
+      }
+    ],
+    "POET": [
+      {
+        "headline": "POET SHAREHOLDER ALERT: Securities Fraud Lawsuit Filed on Behalf of POET Technologies Inc. Investors - Contact Kirby McInerney LLP by June 29, 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/05/08/3291383/937/en/POET-SHAREHOLDER-ALERT-Securities-Fraud-Lawsuit-Filed-on-Behalf-of-POET-Technologies-Inc-Investors-Contact-Kirby-McInerney-LLP-by-June-29-2026.html",
+        "source": "GlobeNewswire Inc.",
+        "published_at": "2026-05-08T22:00:00Z",
+        "image": "https://ml.globenewswire.com/Resource/Download/192da1d1-643f-4eee-b850-dde5b9f2b00f",
+        "description": "Kirby McInerney LLP has filed a securities fraud class action lawsuit against POET Technologies Inc. on behalf of investors who purchased securities between April 1-27, 2026. The lawsuit alleges POET misrepresented its tax status as a potential Passive Foreign Investment Company (PFIC), and that CFO Thomas Mika violated confidentiality agreements. The stock declined 8% on April 14 following a Wolfpack Research report about PFIC concerns, and dropped 47.4% on April 27 after the company disclosed "
+      },
+      {
+        "headline": "ROSEN, NATIONAL TRIAL LAWYERS, Encourages POET Technologies Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm – POET",
+        "url": "https://www.globenewswire.com/news-release/2026/05/08/3291377/673/en/ROSEN-NATIONAL-TRIAL-LAWYERS-Encourages-POET-Technologies-Inc-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-First-Filed-by-the-Firm-POET.html",
+        "source": "GlobeNewswire Inc.",
+        "published_at": "2026-05-08T21:38:00Z",
+        "image": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+        "description": "Rosen Law Firm has filed a securities class action lawsuit against POET Technologies Inc., alleging the company made false and misleading statements regarding its tax status as a potential passive foreign investment company (PFIC), failed to disclose negative tax implications for U.S. stockholders, and that a defendant violated a non-disclosure agreement by discussing business agreements publicly. The firm is seeking lead plaintiffs by the June 29, 2026 deadline."
+      },
+      {
+        "headline": "STLA DEADLINE: The Gross Law Firm Reminds Stellantis N.V. Investors of Upcoming Securities Class Action Deadline",
+        "url": "https://www.globenewswire.com/news-release/2026/05/08/3291079/0/en/STLA-DEADLINE-The-Gross-Law-Firm-Reminds-Stellantis-N-V-Investors-of-Upcoming-Securities-Class-Action-Deadline.html",
+        "source": "GlobeNewswire Inc.",
+        "published_at": "2026-05-08T13:00:00Z",
+        "image": "https://ml.globenewswire.com/Resource/Download/0e447323-403e-415d-a0b4-846f2654a80f",
+        "description": "The Gross Law Firm has announced securities class action lawsuits against Stellantis N.V., Lufax Holding Ltd, and POET Technologies Inc. for allegedly providing false and misleading statements to investors. Stellantis faces allegations of overstating earnings growth potential and electrification capabilities, leading to a €22 billion charge announcement and a 23.69% stock price decline on February 6, 2026. Investors who purchased shares during the specified class periods are encouraged to regist"
+      }
+    ],
+    "AMD": [
+      {
+        "headline": "Stock Market Today, May 8: Rackspace Surges on AMD AI Cloud Agreement",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/05/08/stock-market-today-may-8-rackspace-surges-after-amd-ai-cloud-agreement/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-05-08T22:19:59Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ffba1f8637ee52b475744b372db2dad28ef4043f2-200x200.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+        "description": "Rackspace Technology surged 55.97% after announcing a memorandum of understanding with AMD to develop governed Enterprise AI Cloud infrastructure for regulated customers. The company also reported improved Q1 results with 2% revenue growth to $678 million and a return to profitability. The key challenge ahead is converting this framework agreement into actual customer workloads and recurring managed-cloud revenue."
+      },
+      {
+        "headline": "Is it Too Late to Buy AMD Stock?",
+        "url": "https://www.fool.com/investing/2026/05/08/is-it-too-late-to-buy-amd-stock/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-05-08T22:11:32Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F869303%2F11-amd-part_1.jpg&w=1200&op=resize",
+        "description": "AMD stock surged following strong quarterly earnings results, with the company emerging as one of 2026's biggest winners as the AI trade expands beyond Nvidia. Wall Street analysts have raised their price targets significantly in response to the company's Q1 beat and strong Q2 data center outlook."
+      },
+      {
+        "headline": "Semiconductor Index Momentum Remains Strong but Pullback Risk Is Growing",
+        "url": "https://www.investing.com/analysis/semiconductor-index-momentum-remains-strong-but-pullback-risk-is-growing-200680004",
+        "source": "Investing.com",
+        "published_at": "2026-05-08T20:34:00Z",
+        "image": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+        "description": "The Semiconductor Index (SOX) shows strong momentum with an 11% rise from its April 26 high, tracking Elliott Wave Principle predictions. The index bottomed at $9,865 on April 28 and is now trading around $11,760. Analysts project an ideal upside target of $12,110-$12,300 before a potential retrace to $10,000, with pullback risks increasing as the index approaches completion of its current wave pattern."
+      },
+      {
+        "headline": "Wall Street Pops The Champagne, Main Street Hits A Record Low: This Week In The Market",
+        "url": "https://www.benzinga.com/markets/market-summary/26/05/52428253/wall-street-tech-rally-record-vs-consumer-sentiment-collapse?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "source": "Benzinga",
+        "published_at": "2026-05-08T20:01:01Z",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/05/08/Wall-Street-Bull.jpeg?width=1200&height=800&fit=crop",
+        "description": "While the U.S. tech sector experiences its best six-week rally on record with the S&P 500 and Nasdaq 100 hitting all-time highs, consumer sentiment has collapsed to a historic low of 48.2—worse than the 2008 financial crisis. The divergence reflects concerns over gasoline prices and tariffs, creating a stark contrast between Wall Street gains and Main Street pessimism."
+      },
+      {
+        "headline": "Arm Just Made a Bold Prediction, And It Could Be a Huge Buy Signal",
+        "url": "https://www.fool.com/investing/2026/05/08/arm-just-made-a-bold-prediction-and-it-could-be-a/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-05-08T18:20:00Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F869235%2Fai-chip.jpg&w=1200&op=resize",
+        "description": "Arm Holdings forecasts becoming the CPU market leader by decade's end, with CEO Rene Haas predicting it will have the largest market share by CPU type. The company's new AGI CPU has demand exceeding $2 billion, more than double initial expectations. While supply chain constraints limit near-term fulfillment, Arm projects $15 billion in CPU revenue by fiscal 2031 and $25 billion in total revenue, with potential to significantly exceed these conservative forecasts."
+      },
+      {
+        "headline": "Nasdaq Tops 29,000 Records, Micron Soars 13%: Stock Market Today",
+        "url": "https://www.benzinga.com/markets/equities/26/05/52422543/nasdaq-100-record-highs-tech-rally-semiconductor-performance-micron-best-week-since-2008-friday-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "source": "Benzinga",
+        "published_at": "2026-05-08T17:36:32Z",
+        "image": "https://cdn.benzinga.com/files/images/story/2026/05/08/New-York--Ny--Usa---August-21--2022-The-.jpeg?width=1200&height=800&fit=crop",
+        "description": "U.S. equities reached fresh record highs on Friday, with the Nasdaq 100 jumping 1.6% above 29,000 and the S&P 500 climbing 0.8% to near 7,400. A strong April jobs report (115,000 jobs added) and a semiconductor rally led gains, with Micron Technology surging 13.5% for its best week since 2008. However, mixed earnings results saw software stocks stumble, with Cloudflare and HubSpot falling over 20% on weak guidance."
+      },
+      {
+        "headline": "Meet the Super Semiconductor Stock Obliterating Nvidia, AMD, and Broadcom Right Now",
+        "url": "https://www.fool.com/investing/2026/05/08/meet-the-super-semiconductor-stock-obliterating-nv/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-05-08T16:35:00Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F866993%2Fgettyimages-1652005987.jpg&w=1200&op=resize",
+        "description": "Aehr Test Systems, a semiconductor testing equipment maker, has surged 327% year-to-date, significantly outperforming major chipmakers. The stock has risen 186% since March 30 following strong bookings and a record $41 million production order. However, the company remains unprofitable with a high price-to-sales ratio of 62, and analysts have a median price target of $67, suggesting 24% downside. While long-term prospects appear strong with anticipated 71% revenue growth in fiscal 2027, the stoc"
+      },
+      {
+        "headline": "Why Sandisk Stock Bounced Back Today",
+        "url": "https://www.fool.com/investing/2026/05/08/why-sandisk-stock-bounced-back-today/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-05-08T14:16:42Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F869233%2Fone-green-arrow-sticks-out-of-a-list-of-stock-prices-that-are-all-red.jpg&w=1200&op=resize",
+        "description": "SanDisk stock rebounded 8.5% after Bernstein analyst reassured investors that the company's Q4 guidance remains safe despite concerns about spot market demand for NAND memory. While high memory prices may force some buyers to reduce purchases, strong price increases (DRAM up 57%, NAND up 65-70% in April) should support continued demand and SanDisk's projected $8 billion in sales and $30-33 per share profits."
+      },
+      {
+        "headline": "Strong Earnings Push Micron Stock Higher as Bulls Eye Next Major Breakout",
+        "url": "https://www.investing.com/analysis/strong-earnings-push-micron-stock-higher-as-bulls-eye-next-major-breakout-200679972",
+        "source": "Investing.com",
+        "published_at": "2026-05-08T12:36:00Z",
+        "image": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+        "description": "Micron's stock has surged over 20% this week and 700% over the past year, driven by strong earnings and booming AI demand. The chipmaker reported $23.9B in quarterly revenue (up 196% YoY) with gross margins reaching 74%, and expects $33.5B next quarter. Its high bandwidth memory chips are fully booked for 2026. Despite the rally, analysts believe the stock remains undervalued at 11x forward earnings, with price targets ranging from $740 to $1,000. However, risks include potential oversupply, exe"
+      },
+      {
+        "headline": "Here's Why This Artificial Intelligence (AI) Stock Just Exploded Past Wall Street's Most Bullish Price Target",
+        "url": "https://www.fool.com/investing/2026/05/07/why-ai-stock-exploded-past-wall-street-bull-target/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-05-07T20:16:00Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F868815%2Fa-smiling-investor-celebrating-a-win-on-the-floor-of-the-stock-exchange.jpg&w=1200&op=resize",
+        "description": "DigitalOcean's stock surged 40% after reporting strong Q1 2026 results, with AI-related revenue jumping 221% year-over-year. The cloud computing company is aggressively building AI infrastructure for small and medium-sized businesses through its new AI-Native Cloud platform. While the stock has exceeded analyst price targets, it now trades at a premium valuation, requiring investors to maintain a long-term outlook of at least three years."
+      }
+    ],
+    "HIMX": [
+      {
+        "headline": "Himax Technologies, Inc. Declares Cash Dividend for FY2025",
+        "url": "https://www.benzinga.com/pressreleases/26/05/g52355947/himax-technologies-inc-declares-cash-dividend-for-fy2025?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "source": "Benzinga",
+        "published_at": "2026-05-07T09:00:00Z",
+        "image": "https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png",
+        "description": "Himax Technologies (NASDAQ: HIMX) announced a cash dividend of 25.2 cents per ADS (12.6 cents per ordinary share) for fiscal year 2025, with a 100% payout ratio reflecting the company's healthy balance sheet and positive cash flow outlook. The dividend will be paid on July 10, 2026 to shareholders of record as of June 30, 2026."
+      },
+      {
+        "headline": "Himax Technologies, Inc. Declares Cash Dividend for FY2025",
+        "url": "https://www.globenewswire.com/news-release/2026/05/07/3289662/8267/en/Himax-Technologies-Inc-Declares-Cash-Dividend-for-FY2025.html",
+        "source": "GlobeNewswire Inc.",
+        "published_at": "2026-05-07T09:00:00Z",
+        "image": "https://ml.globenewswire.com/Resource/Download/8a883352-5fa8-4372-85f7-6f01dca576fd",
+        "description": "Himax Technologies declared a cash dividend of 25.2 cents per ADS (12.6 cents per ordinary share) for 2025, representing a 100% payout ratio of last year's profit. The dividend will be paid on July 10, 2026 to shareholders of record as of June 30, 2026. CEO Jordan Wu highlighted the company's healthy balance sheet, positive cash flow outlook, and in-house manufacturing capacity in WLO and LCoS segments to support anticipated growth."
+      }
+    ],
+    "DOCN": [
+      {
+        "headline": "Here's Why This Artificial Intelligence (AI) Stock Just Exploded Past Wall Street's Most Bullish Price Target",
+        "url": "https://www.fool.com/investing/2026/05/07/why-ai-stock-exploded-past-wall-street-bull-target/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-05-07T20:16:00Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F868815%2Fa-smiling-investor-celebrating-a-win-on-the-floor-of-the-stock-exchange.jpg&w=1200&op=resize",
+        "description": "DigitalOcean's stock surged 40% after reporting strong Q1 2026 results, with AI-related revenue jumping 221% year-over-year. The cloud computing company is aggressively building AI infrastructure for small and medium-sized businesses through its new AI-Native Cloud platform. While the stock has exceeded analyst price targets, it now trades at a premium valuation, requiring investors to maintain a long-term outlook of at least three years."
+      },
+      {
+        "headline": "DigitalOcean’s AI Surge: How Far Can This Rally Go?",
+        "url": "https://www.investing.com/analysis/digitaloceans-ai-surge-how-far-can-this-rally-go-200679871",
+        "source": "Investing.com",
+        "published_at": "2026-05-07T08:30:00Z",
+        "image": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+        "description": "DigitalOcean (DOCN) reported strong Q1 earnings with 22% revenue growth, driven by large clients and AI demand (ARR up 221%). The company raised guidance to at least 50% revenue growth for the next fiscal year and plans to triple capacity by early 2028. However, valuation concerns exist at 125X current-year earnings, and institutional selling in early 2026 presents headwinds. While the MACD suggests momentum continuation, analysts expect a correction to consensus price targets before further adv"
+      }
+    ]
+  }
+}

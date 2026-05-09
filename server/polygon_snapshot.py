@@ -25,7 +25,11 @@ import os
 import sys
 import json
 import time
+import socket
 import argparse
+import http.client
+import ssl
+import urllib.error
 import urllib.request
 import urllib.parse
 from datetime import date, datetime, timedelta, timezone
@@ -153,6 +157,44 @@ def _opener():
         )
     return urllib.request.build_opener()
 
+# Transient errors worth retrying (VPN flake, TLS handshake timeout, mid-stream
+# connection drop). Per user 2026-05-09: VPN node randomly fails the TLS
+# handshake to polygon / yahoo, killing the whole snapshot. Retry with short
+# backoff so a single flake doesn't break the daily run.
+_RETRYABLE_EXC = (
+    urllib.error.URLError,         # wraps timeouts, conn-refused, DNS, TLS
+    socket.timeout,
+    http.client.RemoteDisconnected,
+    http.client.IncompleteRead,
+    ssl.SSLError,
+    ConnectionError,
+)
+
+
+def _open_with_retry(opener, req, timeout: int, attempts: int = 3, label: str = ''):
+    """Open `req` via `opener`, retrying transient network failures.
+
+    HTTPError (4xx/5xx) is NOT retried — those are real server responses, not
+    network flake. Only TLS / socket / DNS / mid-stream failures retry.
+    Backoff: 1s, then 3s. Caller still gets the original exception if all
+    attempts fail, so existing error-handling above doesn't change shape.
+    """
+    last_exc = None
+    for i in range(attempts):
+        try:
+            return opener.open(req, timeout=timeout)
+        except urllib.error.HTTPError:
+            raise  # real HTTP response; don't retry
+        except _RETRYABLE_EXC as e:
+            last_exc = e
+            if i + 1 < attempts:
+                wait = 1 + 2 * i  # 1s, 3s
+                tag = f' ({label})' if label else ''
+                print(f'[warn] transient network error{tag}: {e!r} — retry {i + 1}/{attempts - 1} in {wait}s')
+                time.sleep(wait)
+    raise last_exc  # type: ignore[misc]
+
+
 def _get(path_and_query: str, timeout: int = 60) -> dict:
     """GET to the Polygon base with apiKey injected. Returns parsed JSON.
 
@@ -163,7 +205,7 @@ def _get(path_and_query: str, timeout: int = 60) -> dict:
     opener = _opener()
     req = urllib.request.Request(url)
     try:
-        with opener.open(req, timeout=timeout) as resp:
+        with _open_with_retry(opener, req, timeout=timeout, label=f'polygon {path_and_query.split("?")[0]}') as resp:
             return json.loads(resp.read().decode('utf-8'))
     except urllib.error.HTTPError as e:
         try:
@@ -190,7 +232,7 @@ def _fetch_cnn_pcr(timeout: int = 20) -> 'float | None':
     })
     try:
         opener = _opener()
-        with opener.open(req, timeout=timeout) as resp:
+        with _open_with_retry(opener, req, timeout=timeout, label='cnn pcr') as resp:
             data = json.loads(resp.read().decode('utf-8'))
         pts = (data.get('put_call_options') or {}).get('data') or []
         if not pts:
@@ -207,7 +249,7 @@ def _get_yahoo_chart(symbol: str, range_: str = '1y', timeout: int = 30) -> dict
     url = f'https://query1.finance.yahoo.com/v8/finance/chart/{q}?interval=1d&range={range_}'
     opener = _opener()
     req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-    with opener.open(req, timeout=timeout) as resp:
+    with _open_with_retry(opener, req, timeout=timeout, label=f'yahoo {symbol} {range_}') as resp:
         return json.loads(resp.read().decode('utf-8'))
 
 def _yahoo_last_1h_close_on(symbol: str, target_date, timeout: int = 30) -> 'float | None':
@@ -226,7 +268,7 @@ def _yahoo_last_1h_close_on(symbol: str, target_date, timeout: int = 30) -> 'flo
                f'?interval=1h&period1={p1}&period2={p2}&includePrePost=false')
         opener = _opener()
         req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-        with opener.open(req, timeout=timeout) as resp:
+        with _open_with_retry(opener, req, timeout=timeout, label=f'yahoo 1h {symbol}') as resp:
             d = json.loads(resp.read().decode('utf-8'))
         r = (d.get('chart') or {}).get('result') or []
         if not r:
@@ -324,7 +366,7 @@ def translate_descriptions(items: dict) -> dict:
     )
     try:
         opener = _opener()
-        with opener.open(req, timeout=120) as resp:
+        with _open_with_retry(opener, req, timeout=120, label='anthropic translate') as resp:
             data = json.loads(resp.read().decode('utf-8'))
         text = ''.join(b.get('text', '') for b in data.get('content', []) if b.get('type') == 'text')
         # First try strict parse
