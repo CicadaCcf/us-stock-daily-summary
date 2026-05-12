@@ -1058,18 +1058,16 @@ function AppBody() {
                 const industry = ov.industry ?? s.industry;
                 const reason   = ov.reason   ?? s.reason;
                 // "Fresh today" highlight = 今天 d1 涨幅 ≥ 阈值（正向涨幅，跌
-                // 不算）。Per user 2026-04-29: "只要涨幅大于15%就高亮"。
-                // w1 不参与高亮（7 天窗口会把旧涨幅一直拖着，产生视觉残影；
-                // 例如周一 +50% 周五还显示 w1≈+50%）。下跌不参与高亮（即使
-                // |d1|≥15）—— 这跟 pipeline 的 list inclusion 规则不同：
-                // pipeline 用 (|d1|≥X OR |w1|≥Y) 决定是否上榜，所以下跌大票
-                // 和 w1 拖尾依然会作为 carryover 留在表里，但只有当天**正向**
-                // 涨幅过阈值才高亮。
+                // 不算）。Per user 2026-04-29: "只要涨幅大于15%就高亮"；
+                // 2026-05-11 进一步明确：mcap / dvol gate 不再前端 second-guess
+                // —— pipeline 决定上榜（包含 3 天 carryover 机制）就已经过过了
+                // 流动性 / 市值检查，今天哪怕 dvol 跌到 $300M 以下，只要 d1
+                // 涨幅过阈值就高亮（HIMX 5-07 新入榜 +30%、5-11 +16% 但 dvol
+                // 跌到 $280M，按 carryover 仍在榜上，应该被视为今日真新动）。
+                // w1 不参与高亮（rolling window 拖尾会一直亮）；下跌不参与
+                // 高亮（即使 |d1|≥15）。
                 const f = SCREENER_FILTER;
-                const mcOk = (s.market_cap_bn ?? 0) * 1e9 >= f.min_market_cap_usd;
-                const dvOk = (s.dollar_vol_bn  ?? 0) * 1e9 >= f.min_dollar_volume_usd;
-                const chOk = (s.d1 ?? 0) >= f.min_d1_pct;
-                const isNewToday = mcOk && dvOk && chOk;
+                const isNewToday = (s.d1 ?? 0) >= f.min_d1_pct;
                 return (
                   <tr
                     key={s.tk}

@@ -1,0 +1,643 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis-may10",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊互递方案僵持，霍尔木兹海峡成焦点",
+      "summary": "Trump拒绝伊朗回应称\"完全不可接受\"，但仍预期伊朗很快回应美方最新和平提议。伊朗方案要求美国战争赔偿、坚持霍尔木兹主权、拒绝拆除核设施，仅愿将部分高浓缩铀转第三国并稀释剩余。多方军事姿态升级，英国拟向海峡部署军舰。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "称伊朗回应\"完全不可接受\"，但预计伊朗很快回应",
+          "details": "刚读了伊朗所谓\"代表\"的回应。我不喜欢，完全不可接受。拒绝透露是否会与伊朗继续谈判，拒绝透露是否会对伊朗采取军事行动。预计\"很快\"就会收到伊朗方面关于美国最新和平提议的回应，伊朗仍然希望达成一项持久协议；如果与伊朗的协议未能最终达成，美国将对伊朗采取更强硬的行动。我们正在监控埋在瓦砾下的伊朗浓缩铀，美国太空军正在接管。",
+          "important": true
+        },
+        {
+          "actor": "伊朗外交部",
+          "actor_type": "Foreign-Gov",
+          "text": "浓缩铀计划不容谈判，绝不外运400kg浓缩铀",
+          "details": "伊朗外交部书面表示，浓缩铀计划不容谈判；绝不将400公斤浓缩铀运出伊朗；以及伊朗必须继续控制霍尔木兹海峡。",
+          "important": false
+        },
+        {
+          "actor": "伊朗",
+          "actor_type": "Foreign-Gov",
+          "text": "回应方案：要求战争赔偿、保留霍尔木兹主权、解除制裁",
+          "details": "伊朗已提交一项方案以回应美国的方案，伊朗方案强调了伊朗民族的基本权利。伊朗拒绝了美国方案，该方案意味着伊朗向特朗普的贪婪低头。伊朗方案强调，美国有必要作出战争赔偿，同时强调伊朗对霍尔木兹海峡的主权。必须终止对伊制裁，并解除对伊朗资金和资产的冻结；美军基地无法实现自我保障，海湾国家应该摆脱美军影响。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "伊朗提议高浓铀转第三国并稀释剩余，但拒拆核设施",
+          "details": "WSJ报道，伊朗提出将部分高浓缩铀库存转移给第三国，并稀释剩余部分，以回应美国最新的停火提案，但拒绝拆除核设施，并要求保证如果谈判失败将归还铀，承诺不研发核武，但期限短于二十年。",
+          "important": false
+        },
+        {
+          "actor": "伊朗官媒",
+          "actor_type": "Foreign-Gov",
+          "text": "对美反馈已交巴基斯坦，要求先停火再谈其他",
+          "details": "伊朗官媒报道：对美国提议的反馈，已交给巴基斯坦…重点是停火，先停再谈其他。",
+          "important": false
+        },
+        {
+          "actor": "伊朗最高领袖顾问",
+          "actor_type": "Foreign-Gov",
+          "text": "称控制霍尔木兹海峡\"与原子弹一样珍贵\"",
+          "details": "伊朗最高领袖顾问称，控制霍尔木兹海峡\"代表着与原子弹一样珍贵的机会\"。",
+          "important": false
+        },
+        {
+          "actor": "伊朗副外长",
+          "actor_type": "Foreign-Gov",
+          "text": "称以\"护航\"为名部署驱逐舰是危机升级",
+          "details": "伊朗副外长称，任何以\"保护航运\"为名在霍尔木兹海峡部署和驻扎驱逐舰，都是危机的升级。",
+          "important": false
+        },
+        {
+          "actor": "IRGC",
+          "actor_type": "Foreign-Gov",
+          "text": "称导弹无人机已锁定美军目标，等待发射命令",
+          "details": "IRGC海军称任何对伊朗伊斯兰共和国油轮或商船的袭击都将引发对该地区美国基地和敌方舰船的猛烈打击；IRGC空军司令称伊朗伊斯兰革命卫队空天军的导弹和无人机已锁定该地区的美国目标和敌方侵略舰艇；我们正在等待发射命令。",
+          "important": false
+        },
+        {
+          "actor": "伊朗最高领袖",
+          "actor_type": "Foreign-Gov",
+          "text": "向哈塔姆·安比亚总部下达对抗敌人新指令",
+          "details": "伊朗最高领袖向哈塔姆·安比亚中央总部指挥官下达了新指令，要求他继续以坚定和决心对抗敌人。",
+          "important": false
+        },
+        {
+          "actor": "内塔尼亚胡",
+          "actor_type": "Foreign-Gov",
+          "text": "称对伊战争未结束，应进入伊朗夺取高浓铀",
+          "details": "内塔尼亚胡称：与伊朗的战争尚未结束；告知华盛顿，任何不终止核计划的协议都不足以解决问题；我们应该进入伊朗夺取高浓缩铀；中国支持伊朗部分导弹制造计划，并表示北京应重新考虑；摩萨德认为，重返战争将加速伊朗政权的衰落，最终导致其垮台。",
+          "important": false
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "预计伊朗今天回应，若发射导弹美方将反击",
+          "details": "预计伊朗今天会做出回应，希望伊朗的提议是真诚的；如果伊朗向我们发射导弹，我们将予以回应。",
+          "important": false
+        },
+        {
+          "actor": "AXIOS",
+          "actor_type": "新闻",
+          "text": "Rubio与Witkoff周六在迈阿密会见卡塔尔首相",
+          "details": "AXIOS报道，Rubio和Witkoff周六在迈阿密会见了卡塔尔首相，此举旨在努力达成一项结束伊朗战争的协议。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "下一轮美伊会谈最早可能下周在伊斯兰堡举行",
+          "details": "WSJ报道伊斯兰堡最早可能下周举行下一轮美伊会谈。",
+          "important": false
+        },
+        {
+          "actor": "美国中央司令部",
+          "actor_type": "US-Executive",
+          "text": "调动61艘商船，击毁4艘以确保遵守规定",
+          "details": "中央司令部称我们调动了61艘商船，击毁了4艘船只以确保遵守规定。",
+          "important": false
+        },
+        {
+          "actor": "海峡通行",
+          "actor_type": "新闻",
+          "text": "5/9-5/10通行9艘，前一日0艘",
+          "details": "【日度通行】5/9 17:30 - 5/10 19:30 共9艘，其中3艘出弯Tanker；5/8 17:30 - 5/9 17:30 共0艘。一艘卡塔尔LNG船被允许驶向霍尔木兹，第二艘船正与伊朗合作穿越海湾。",
+          "important": false
+        },
+        {
+          "actor": "UMTO",
+          "actor_type": "新闻",
+          "text": "卡塔尔附近一散货船遭不明飞行物击中",
+          "details": "UMTO称一艘散货船在卡塔尔附近遭不明飞行物击中。",
+          "important": false
+        },
+        {
+          "actor": "伊朗海军",
+          "actor_type": "Foreign-Gov",
+          "text": "扣押中国籍油轮OceanKoi",
+          "details": "伊朗海军在阿曼海扣押了中国籍油轮OceanKoi，称其运载伊朗石油并扰乱该国出口。",
+          "important": false
+        },
+        {
+          "actor": "伊朗",
+          "actor_type": "Foreign-Gov",
+          "text": "拟控制7条海底互联网电缆并收使用费",
+          "details": "伊朗正考虑控制霍尔木兹海峡的7条海底互联网电缆，并计划收取使用费。",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "Kharg岛附近数万桶原油泄漏",
+          "details": "伊朗Kharg岛附近发生重大漏油事故，据报道估计有数万桶原油泄漏到波斯湾。",
+          "important": false
+        },
+        {
+          "actor": "BBG",
+          "actor_type": "新闻",
+          "text": "英国准备向霍尔木兹海峡部署军舰",
+          "details": "BBG报道英国正准备向霍尔木兹海峡部署军舰，以支持保护该地区的商业航运。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "以色列在伊拉克沙漠建秘密军事基地支援对伊空袭",
+          "details": "WSJ报道以色列在伊拉克沙漠建立了一个秘密军事基地，以支持其对伊朗的空袭行动。",
+          "important": false
+        },
+        {
+          "actor": "普京",
+          "actor_type": "Foreign-Gov",
+          "text": "称俄罗斯准备再次代储伊朗高浓铀",
+          "details": "我们准备好再次重复之前储存伊朗浓缩铀的经验（2015年伊核协议中俄罗斯曾帮伊朗把多余的高浓度铀运到俄罗斯境内储存），当初大家都同意了，但后来美国突然变态度强硬起来了。",
+          "important": false
+        },
+        {
+          "actor": "美国",
+          "actor_type": "US-Executive",
+          "text": "制裁三家向伊朗提供卫星图像的中国公司",
+          "details": "美国制裁三家向伊朗提供图像的中国卫星公司，imagery-mizarvision, the earth eye and chang guang。",
+          "important": false
+        },
+        {
+          "actor": "Mostafa Salem",
+          "actor_type": "KOL",
+          "text": "伊朗强硬派Paydari阵线加大破坏美伊协议力度",
+          "details": "随着美伊谈判进入关键阶段，伊朗一个规模虽小但影响力强大的强硬派（被称为\"Jebhe-ye Paydari\"，意为\"坚韧阵线\"）加大了破坏与华盛顿达成潜在协议的力度，极端强硬派在媒体、议会和街头加大了宣传力度，反对与美国达成协议，他们认为只有打败华盛顿，伊朗才能获得有利的协议。",
+          "important": false
+        },
+        {
+          "actor": "@IzadiFoad",
+          "actor_type": "KOL",
+          "text": "Trump在意中期选举，高油价令其输选举",
+          "details": "Trump很在意11月的中期选举。高油价意味着他会输。内塔尼亚胡告诉他，他可以迅速推翻伊朗政府，并使油价回落。这事不会发生。伊朗人会确保美国付出足够高的代价——因为如果代价太低，美国就会每隔几个月就攻击伊朗一次。如果民主党在11月赢得大选，他将因非法袭击伊朗而面临弹劾。",
+          "important": false
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "KOL",
+          "text": "华尔街新缩写NACHO：霍尔木兹绝无可能开放",
+          "details": "CNBC报道，华尔街有了一个新的缩写词：NACHO，\"Not A Chance Hormuz Opens.\"",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "AXIOS",
+        "BBG",
+        "CNBC"
+      ],
+      "date": "2026-05-11",
+      "image_urls": [
+        "/uploads/2026-05-11/1142230a2cd9.png"
+      ]
+    },
+    {
+      "id": "oil-supply-impact-may10",
+      "topic": "原油供应与油价",
+      "topic_tag": "oil",
+      "title": "全球可见库存创纪录速度下降，MS警示布伦特或飙至150",
+      "summary": "JPM数据显示全球可见原油库存以创纪录速度下降，假设危机不解决，6月将触及操作压力位7.6B桶、9月触及6.8B桶操作底线。MS测算若海峡关闭延续至6月后，布伦特或飙升至130-150美元/桶。",
+      "bullets": [
+        {
+          "actor": "MS Oil",
+          "actor_type": "Analyst",
+          "text": "若海峡关闭延续至6月后，布伦特或飙至130-150美元",
+          "details": "尽管霍尔木兹海峡关闭致中东石油海运出口同比减少12.3M b/d，但美国出口增3.8M b/d及中国进口降5.5M b/d共同缓冲冲击，近期全球海运石油量反增4.1M b/d，布伦特油价暂稳于约100美元/桶。若海峡关闭延续至6月后，美国及中国库存缓冲面临枯竭风险，布伦特或飙升至130-150美元/桶。",
+          "important": true
+        },
+        {
+          "actor": "JPM Commodities",
+          "actor_type": "Analyst",
+          "text": "全球可见库存6月触压力位7.6B，9月触底线6.8B",
+          "details": "JPMorgan Commodities Research数据：World Oil Inventories以创纪录速度下降，从9.0B水平下行，假设6月无解决方案、需求减少5.6M b/d，则Operational stress level 7.6B到6月触及，Operational floor level 6.8B（维持管道运行与炼厂运作的最低水平）到9月触及。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "USO",
+        "XOM",
+        "CVX"
+      ],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "JPMorgan",
+        "MS",
+        "Bloomberg"
+      ],
+      "date": "2026-05-11",
+      "image_urls": [
+        "/uploads/2026-05-11/8ebea86b3338.jpg"
+      ]
+    },
+    {
+      "id": "fed-rate-path-may10",
+      "topic": "美联储与利率路径",
+      "topic_tag": "fed",
+      "title": "Goolsbee谨慎，BofA推迟降息至2027下半年，GS看12月",
+      "summary": "Goolsbee称通胀不乐观、cut非唯一方向。Hassett预计今年会降息。BofA将降息时点推迟至2027下半年，GS预计下次25bp降息推迟至12月。PIMCO警示QT接近临界点，2026年底可能触发货币市场压力。",
+      "bullets": [
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "下调降息预期，推迟至2027下半年",
+          "details": "下调美联储降息预期，预计年内不再降息，将降息时点推迟至2027年下半年。报告指出，3月核心PCE通胀同比升至3.2%，剔除关税影响后仍达2.5%，显示去通胀停滞；同时劳动力市场稳健，私人部门月均新增就业8.6万人。由于供给侧多重冲击，政策前景不确定，但美银认为加息概率约15-20%，触发条件为失业率降至4%以下且核心PCE接近3.5%。终端利率预测维持在3.0-3.25%。",
+          "important": true
+        },
+        {
+          "actor": "Goolsbee",
+          "actor_type": "Central-Bank",
+          "text": "通胀不乐观，cut不是唯一方向",
+          "details": "就业市场没有崩溃，通胀不乐观，不只是能源，服务业通胀最令人担忧；cut不是唯一的方向；不确定是否需要缩小B/S。",
+          "important": false
+        },
+        {
+          "actor": "Hassett",
+          "actor_type": "US-Executive",
+          "text": "认为今年会看到降息，因为Warsh",
+          "details": "过去两个月的就业报告表现强劲，就业市场\"异常火爆\"；即使石油价格和就业形势出现波动，核心通胀率依然保持稳定。我认为今年我们会看到降息，因为Warsh。",
+          "important": false
+        },
+        {
+          "actor": "Sonderling",
+          "actor_type": "US-Executive",
+          "text": "BLS代理局长称Fed应降低利率",
+          "details": "Sonderling（BLS代理局长）：Fed应该降低利率。",
+          "important": false
+        },
+        {
+          "actor": "GS GRT",
+          "actor_type": "Analyst",
+          "text": "预计下次25bp降息推迟至12月，明年3月再调整",
+          "details": "市场对经济增长的乐观情绪持续高涨，但4月份的劳动力市场报告应该有助于抑制美国近月利率鹰派情绪的进一步抬头。目前预计下一次cut 25bps将在12月进行，随后在明年3月进行最后一次调整（此前预测为9月和12月）。预计短期内利差仍将是关注焦点，认为如果美国利率短期内出现盘整或下调，5Y的表现可能会优于其他债券。",
+          "important": false
+        },
+        {
+          "actor": "GS Rates Vol",
+          "actor_type": "Analyst",
+          "text": "仍预期收益率长期走低",
+          "details": "市场已恢复对乐观增长路径的预期，同时对鹰派政策前景的预期也略有缓和。我们仍预期收益率将长期走低，而通胀缓解或经济增长预期恶化都可能成为催化剂。",
+          "important": false
+        },
+        {
+          "actor": "MS Rates",
+          "actor_type": "Analyst",
+          "text": "维持看多美债及曲线陡峭化",
+          "details": "尽管美国4月非农就业大幅超预期，美债市场反应冷淡，暗示投资者空头仓位偏高。劳动力市场存在结构性脆弱，收入增长放缓，预计核心通胀将回落。维持看多美债及曲线陡峭化策略，建议做多5年期国债（目标收益率3.25%）、5年期TIPS（实际收益率目标1.05%）、7s30s曲线陡峭化（目标121bp）及2年期UST SOFR swap spread（目标11bp）。",
+          "important": false
+        },
+        {
+          "actor": "PIMCO",
+          "actor_type": "Analyst",
+          "text": "Fed缩表接近临界点，2026底或触货币市场压力",
+          "details": "Fed缩表进程接近临界点。随着逆回购协议（RRP）余额从峰值2万亿美元降至约400B，银行准备金占GDP比例已降至12%，接近10%的临界水平。报告引用美联储研究指出，若QT持续，2026年底可能引发货币市场利率压力，需关注政策调整信号。",
+          "important": false
+        },
+        {
+          "actor": "GS GRT",
+          "actor_type": "Analyst",
+          "text": "财政部回购放贷将致Fed资产负债表缩小",
+          "details": "财政部通过回购市场放贷可以抑制资金波动，但从长远来看，这会导致Fed资产负债表规模缩小，考虑到流通货币和银行体系的趋势性增长，单独来看，这种转变更有可能导致资产负债表规模的增长幅度小于直接缩减。",
+          "important": false
+        },
+        {
+          "actor": "WSJ汇总",
+          "actor_type": "新闻",
+          "text": "投行Fed call分歧：BofA推迟至2027/7，GS看2026/12",
+          "details": "WSJ汇总Fed call as of 5/8/2026：BofA Cut July 2027 none；Barclays Cut March 2027；BNPP indefinite hold；Citigroup Cut Sept 2026 cut 75 bps；Deutsche Bank indefinite hold；Goldman Sachs Cut Dec 2026 cut 25 bps；HSBC indefinite hold；Jefferies Cut Sept 2026 cut 50 bps；JP Morgan Hike 2027；Morgan Stanley Cut Jan 2027；MPA Macro indefinite hold；MUFG Cut July 2026 cut 75 bps；Nomura Cut Sept 2026 cut 50 bps；Oxford Economics Cut Dec 2026 cut 25 bps；RBC indefinite hold；TD Securities Cut Sept 2026 cut 50 bps；UBS Cut Dec 2026 cut 25 bps；Wells Fargo Cut Sept 2026 cut 50 bps。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TLT",
+        "IEF"
+      ],
+      "image_indexes": [
+        9
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "GS",
+        "MS",
+        "BofA",
+        "PIMCO"
+      ],
+      "date": "2026-05-11",
+      "image_urls": [
+        "/uploads/2026-05-11/73d05e5dee18.png"
+      ]
+    },
+    {
+      "id": "us-jobs-quality-may10",
+      "topic": "美国就业",
+      "topic_tag": "macro-other",
+      "title": "4月就业表象强劲，但白领与全职就业疲弱",
+      "summary": "Nick指过去六月平均招聘攀至55K，让Fed得以聚焦通胀。Hedgie拆解新增主要为送货司机/护理员，非自愿兼职激增445K接近衰退初期信号。Emma认为报告符合市场预期。",
+      "bullets": [
+        {
+          "actor": "Hedgie",
+          "actor_type": "KOL",
+          "text": "非自愿兼职激增445K，新增就业质量差且集中",
+          "details": "乍看之下就业形势似乎十分强劲，但仔细分析新增就业岗位的来源后就会发现并非如此，一份就业增长主要集中在送货司机和家庭护理员，而白领就业岗位却在萎缩的报告，医疗保健、快递和社工服务占据了新增就业岗位的大部分，而这些行业的增长不受经济周期的影响，因为它们与人口结构和消费物流密切相关，而非商业投资；由于找不到全职工作而从事兼职工作的人数激增445K，这属于非自愿兼职，而一个月内500K的流动速度通常与经济衰退初期相关。再加上此前几个月数据的持续下调，信息行业在三年内流失了11%的劳动力，115K个新增就业岗位背后的真实情况是：新增就业岗位的质量更低、更不稳定，且集中在比标题所显示的更少的行业。这份报告并不算糟糕，但远未达到市场的预期，下个月的修正数据可能会使市场共识更接近于现有数据所反映的情况。",
+          "important": true
+        },
+        {
+          "actor": "Nick",
+          "actor_type": "新闻",
+          "text": "过去六月平均招聘升至55K，Fed得以聚焦通胀",
+          "details": "过去六个月的平均招聘人数攀升至55K工作岗位，为2025年5月以来的最高水平；四月份的就业报告让美联储得以关注通胀问题（而不是同时关注通胀和就业问题）。",
+          "important": false
+        },
+        {
+          "actor": "EconstratPB",
+          "actor_type": "KOL",
+          "text": "劳动力萎缩致求职门槛降低，U3下降",
+          "details": "由于劳动力萎缩，求职门槛降低了，U3下降。",
+          "important": false
+        },
+        {
+          "actor": "Peter Berezin",
+          "actor_type": "KOL",
+          "text": "全职就业人口比例低迷，临时就业回升",
+          "details": "全职就业人口比例仍然相当低迷，临时就业人数的回升。",
+          "important": false
+        },
+        {
+          "actor": "Emma",
+          "actor_type": "KOL",
+          "text": "CPS有弱项但无方向性问题，符合市场预期",
+          "details": "总的来看CPS的确有一些比较弱的地方，但是没有看到什么方向性的问题，对市场来说它的作用更接近于去得出\"这不是一个大爆报告不用加息\"的结论。客观来说我也觉得它可能很接近一个符合市场预期的报告，目前还是保持稳定的劳动力市场，边际上在回暖，符合美联储继续按兵不动的态势。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-11",
+      "image_urls": []
+    },
+    {
+      "id": "us-china-talks-may10",
+      "topic": "中美谈判",
+      "topic_tag": "policy",
+      "title": "中美讨论采购承诺，GS预期低、人民币强烈看多",
+      "summary": "美中已讨论飞机/农业采购承诺，将讨论中国对伊俄支持及中国核计划。GS认为达成\"大妥协\"可能性不大，市场预期已偏低。GS FX强烈看多人民币，12月目标下调至6.50。Rubio访问期间将讨论台海稳定。",
+      "bullets": [
+        {
+          "actor": "GS China",
+          "actor_type": "Analyst",
+          "text": "大妥协可能性不大，市场预期较低",
+          "details": "本次中美会谈，美国可能会更侧重贸易问题，而中国则可能强调技术/半导体和台湾问题，中国将购买更多美国农产品、能源和制成品，以换取更少的技术限制和略微降低的关税。达成\"大妥协\"的可能性不大；市场对会议结果抱有较低的预期，不太可能出现令人惊喜的利好消息。",
+          "important": true
+        },
+        {
+          "actor": "美国官员",
+          "actor_type": "US-Executive",
+          "text": "美中讨论飞机/农业采购承诺，2026互访",
+          "details": "据美国官员称，美中已讨论包括飞机和农业在内的潜在采购承诺；预计将讨论中国对伊朗和俄罗斯的支持；在北京访问期间提及中国核计划；计划于2026年接待中国习近平进行互访。",
+          "important": false
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "访美期间将讨论中国与台湾问题",
+          "details": "此次访美期间将讨论中国和台湾问题，强调中台海峡稳定的必要性。",
+          "important": false
+        },
+        {
+          "actor": "GS FX",
+          "actor_type": "Analyst",
+          "text": "强烈看多人民币，12月目标下调至6.50",
+          "details": "强烈看多人民币，将12个月目标下调至6.50，认为中国外部顺差逼近历史高位、人民币仍被低估逾20%，清洁能源出口将提供长期动力。日元干预效果有限，贬值压力延续，财务省仍有约1.1万亿美元弹药但效果存疑。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "FXI",
+        "BABA"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-05-11",
+      "image_urls": []
+    },
+    {
+      "id": "spx-earnings-capex-may10",
+      "topic": "盈利与资本支出",
+      "topic_tag": "earnings",
+      "title": "GS：Q1 EPS YoY 17%，Capex取代回购成现金支出主轴",
+      "summary": "GS Kickstart显示Q1剔除一次性后SPX EPS同比17%，年内NTM EPS预期上调13%而市盈率下降4%。资本支出取代股票回购成主导，2026 Capex预计增33%至2T，由AI超大规模厂商驱动。投资者继续偏好成长型投资公司。",
+      "bullets": [
+        {
+          "actor": "GS Kickstart",
+          "actor_type": "Analyst",
+          "text": "Q1 EPS YoY 17%，NTM EPS预期升13%、P/E降4%",
+          "details": "Q1盈利表现强劲，剔除部分一次性项目后，SPX的EPS YOY 17%。SPX年初至今已上涨8%，同时，未来12个月的EPS预期也增长了13%，市盈率则下降了4%。",
+          "important": true
+        },
+        {
+          "actor": "GS Kickstart",
+          "actor_type": "Analyst",
+          "text": "2026 Capex增33%至2T，回购仅增3%至1T",
+          "details": "企业支出重点正从股票回购转向资本支出。SPX 2026年Q1 Capex yoy 38%，而股票回购仅增长1%。我们更新后的现金支出预测表明，这一趋势将持续，2026年资本支出将增长33%至2T，而股票回购仅增长3%至1T。这一转变主要由人工智能超大规模数据中心推动，预计这些企业2026年的资本支出将达到755B。",
+          "important": false
+        },
+        {
+          "actor": "GS Kickstart",
+          "actor_type": "Analyst",
+          "text": "投资者偏好成长型投资公司，远离负债不佳企业",
+          "details": "投资者更青睐那些投资于增长而非向股东返还现金的公司。他们似乎也停止了对资产负债表状况不佳公司的投资。这种对增长型投资支出的偏好在各行各业都有体现，但在AI领域尤为突出。与此同时，战争对经济增长前景和美联储政策的影响，终结了2025年大部分时间里主导股市的\"质量股\"轮动趋势。预计投资者将继续青睐那些投资于长期增长机遇的公司。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY"
+      ],
+      "image_indexes": [
+        6,
+        7
+      ],
+      "importance": 2,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-05-11",
+      "image_urls": [
+        "/uploads/2026-05-11/358d853d4178.png",
+        "/uploads/2026-05-11/d7a9851aa7d4.png"
+      ]
+    },
+    {
+      "id": "ai-capex-concentration-may10",
+      "topic": "AI 行业宏观",
+      "topic_tag": "ai",
+      "title": "AI Capex+TBAC或占GDP 9-10%，AI Big10集中度40%",
+      "summary": "Jon Turek估算AI capex加TBAC融资到2026年或达美国GDP的9-10%。BofA图示AI Big10（M7+AVGO/MU/AMD）集中度达40%，接近历史泡沫峰值水平。CNBC称4月裁员中AI占比26%。Softbank削减OpenAI抵押贷款规模从10B至6B。",
+      "bullets": [
+        {
+          "actor": "Jon Turek",
+          "actor_type": "KOL",
+          "text": "AI Capex+TBAC到2026年或达美GDP 9-10%",
+          "details": "AI capex估计值与本周公布的TBAC（待定预算）加起来的资本需求，到2026年可能最终会达到美国GDP的9-10%左右。",
+          "important": true
+        },
+        {
+          "actor": "BofA Research",
+          "actor_type": "Analyst",
+          "text": "AI Big10集中度40%，逼近历史泡沫峰值",
+          "details": "BofA Chart 13: Peak concentration levels of major bubbles >40%。AI Big Ten = Magnificent 7 + AVGO, MU, AMD 占S&P 500比例达40%，与Railroads 63%、Nifty Fifty、Japan、Tech & telecom 2000等历史泡沫顶峰40-44%水平相当。",
+          "important": false
+        },
+        {
+          "actor": "CNBC",
+          "actor_type": "新闻",
+          "text": "AI成4月裁员最大驱动，占26%",
+          "details": "CNBC报道AI已成为4月份裁员的最大驱动因素之一，占所有裁员的26%。",
+          "important": false
+        },
+        {
+          "actor": "Softbank",
+          "actor_type": "Corporate",
+          "text": "OpenAI股票抵押融资从10B削减至6B",
+          "details": "Softbank已将其以OpenAI股票作抵押的融资贷款计划规模从10B削减至约6B。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "AVGO",
+        "MU",
+        "AMD",
+        "SMH"
+      ],
+      "image_indexes": [
+        3,
+        4,
+        5
+      ],
+      "importance": 2,
+      "sources": [
+        "BofA",
+        "CNBC"
+      ],
+      "date": "2026-05-11",
+      "image_urls": [
+        "/uploads/2026-05-11/2cc333af032f.jpg",
+        "/uploads/2026-05-11/6cf95e1bb772.png",
+        "/uploads/2026-05-11/b38d163e087c.jpg"
+      ]
+    },
+    {
+      "id": "uk-reform-may10",
+      "topic": "英国政治",
+      "topic_tag": "geo",
+      "title": "Reform UK地方选举压倒性胜利，工党失Tameside多数席",
+      "summary": "Nigel Farage领导的Reform UK在英格兰地方选举取得压倒性胜利，宣告两党制终结。在Angela Rayner的Tameside议会获得18席，工党自1970s来首失多数。Starmer誓言留任但党内权斗预计加剧。",
+      "bullets": [
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "Reform UK地方选举大胜，两党制终结",
+          "details": "Nigel Farage领导的右翼政党\"改革英国党\"（Reform UK）在英格兰地方选举中取得了压倒性胜利，宣告了工党与保守党长期垄断的\"两党制\"政治宣告终结，尽管Starmer誓言留任，但惨败已引发党内对其领导地位的质疑，内部权力斗争预计将加剧。",
+          "important": true
+        },
+        {
+          "actor": "Open Council Data UK",
+          "actor_type": "新闻",
+          "text": "工党自1970s首次失去Tameside多数，Reform增18席",
+          "details": "Labour Lose Tameside Majority for First Time Since the 1970s. Reform gained 18 seats in Angela Rayner's council.",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-05-11",
+      "image_urls": [
+        "/uploads/2026-05-11/58936ad34d73.png"
+      ]
+    },
+    {
+      "id": "other-misc-may10",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "弗州选区案/朝鲜核反击修宪/普京乌克兰/KOL交易",
+      "summary": "弗吉尼亚最高法院4-3推翻民主党选区方案。朝鲜修宪允许领导人丧失行为能力时核反击。普京称对乌特别军事行动\"即将结束\"。Andy提示15-20B非弹性买盘，Cheddar Low提示MU 1.2M看涨期权下注。",
+      "bullets": [
+        {
+          "actor": "弗吉尼亚州最高法院",
+          "actor_type": "US-Congress",
+          "text": "4-3推翻民主党主导选区重新划分方案",
+          "details": "弗吉尼亚州最高法院以4-3的裁决推翻了该州由民主党主导的选区重新划分方案。",
+          "important": false
+        },
+        {
+          "actor": "朝鲜",
+          "actor_type": "Foreign-Gov",
+          "text": "修宪允许领导人丧失行为能力时核反击",
+          "details": "朝鲜近期修订宪法，在其领导人丧失行为能力的情况下，可以使用核武器进行反击。其中包括金正恩，遭遇斩首或类似行动。",
+          "important": false
+        },
+        {
+          "actor": "普京",
+          "actor_type": "Foreign-Gov",
+          "text": "称对乌特别军事行动\"即将结束\"",
+          "details": "认为和乌克兰的冲突正在趋于结束，称在乌克兰的特别军事行动\"即将结束\"，将战争归咎于\"全球主义\"西方领导人，指责其违背北约不东扩的承诺并试图拉拢乌克兰进入欧盟势力范围。",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "今日做空将面临15-20B非弹性买盘",
+          "details": "如果你今天做空，你将面临15-20B的非弹性买盘，这些买盘主要集中在QQQ和半导体板块，因为需要对杠杆ETF进行再平衡。",
+          "important": true
+        },
+        {
+          "actor": "Cheddar low",
+          "actor_type": "KOL",
+          "text": "机构投1.2M买MU年底1300看涨",
+          "details": "一名机构交易员投入1.2M买入MU的看涨期权，年底到期行权价1300，押注股价在未来七个月内接近翻倍。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MU",
+        "QQQ"
+      ],
+      "image_indexes": [
+        8
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-05-11",
+      "image_urls": [
+        "/uploads/2026-05-11/b3931fe3d909.png"
+      ]
+    }
+  ]
+}
