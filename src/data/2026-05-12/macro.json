@@ -1,0 +1,538 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊谈判僵持 霍尔木兹海峡危机持续",
+      "summary": "Trump 表示将继续与伊朗谈判直至达成协议，否则采取行动；停火处于'1%生存几率'的生命维持状态。美方提议解除港口封锁换取霍尔木兹通航，伊方要求停止战斗、解除海上封锁和制裁，并威胁将铀浓缩至90%。WSJ 披露 UAE 曾对伊朗未公开军事打击，美军 SSBN-732 抵达直布罗陀施压。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "停火危如累卵 谈判不成将采取行动",
+          "details": "Trump 表示将与伊朗持续谈判直至达成协议，如失败将采取行动；正在考虑重启 project freedom 作为更大行动的一部分；称美伊停火协议岌岌可危，正处于'巨大的生命维持'状态，比喻为只有 1% 生存几率的病人。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "提议解除港口封锁换霍尔木兹通航",
+          "details": "据报道 Trump 曾提议，在 DC 解除对伊朗港口的封锁期间，伊朗应允许船只通过霍尔木兹海峡，之后再进行核谈判。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "称伊朗缺乏技术回收核尘埃",
+          "details": "Trump 表示伊朗谈判代表告诉他，美国需要从伊朗被摧毁的核设施中回收放射性物质（'核尘埃'），因为德黑兰缺乏移除这些物质的技术。",
+          "important": false
+        },
+        {
+          "actor": "伊朗政府",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗回应：要求解除封锁制裁、立即停战",
+          "details": "伊朗对美国和平提议作出回应，要求 DC 解除海上封锁和制裁，同时保持对霍尔木兹海峡交通的控制；任何协议都必须立即停止战斗，包括在黎巴嫩的战斗。",
+          "important": false
+        },
+        {
+          "actor": "伊朗国家广播电视台",
+          "actor_type": "Foreign-Gov",
+          "text": "官媒称美方计划等同投降 要求战争赔偿",
+          "details": "伊朗官方媒体伊朗国家广播电视台称，特朗普上周提出的计划无异于投降，并表示美国还必须支付战争赔偿。",
+          "important": false
+        },
+        {
+          "actor": "Rezaei (伊朗议会委员会发言人)",
+          "actor_type": "Foreign-Gov",
+          "text": "若美再袭 议会或讨论将铀浓缩至90%",
+          "details": "伊朗议会委员会发言人 Rezaei 表示，如果美国再次发动攻击，德黑兰可能将铀浓缩至 90%，并称议会将讨论这一选项。",
+          "important": false
+        },
+        {
+          "actor": "Ghalibaf (伊朗议会主席)",
+          "actor_type": "Foreign-Gov",
+          "text": "议会主席：拖越久美纳税人付出越多",
+          "details": "伊朗议会主席 Ghalibaf 称美国别无选择，只能接受伊朗人民的权利，正如 14 点提案所规定；其他方法将完全无定论，一连串的失败；他们拖得越久，美国纳税人为此付出的代价就越多；武装部队准备对任何侵略作出应得的回应。",
+          "important": false
+        },
+        {
+          "actor": "伊朗副外长",
+          "actor_type": "Foreign-Gov",
+          "text": "称美方霍尔木兹决议是颠倒事实",
+          "details": "伊朗副外长称美国及地区盟友试图提出关于霍尔木兹的决议，反映出试图颠倒事实的努力。",
+          "important": false
+        },
+        {
+          "actor": "革命卫队 Akbarzadeh",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗扩大霍尔木兹战略区 纳入Jask和Siri岛",
+          "details": "革命卫队海军官员阿克巴扎德表示，伊朗已大幅扩大霍尔木兹海峡战略区的范围，将 Jask 和 Siri 岛纳入。",
+          "important": false
+        },
+        {
+          "actor": "伊朗军方",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗在霍尔木兹海峡部署深海潜艇",
+          "details": "伊朗宣布在霍尔木兹海峡部署深海潜艇。",
+          "important": false
+        },
+        {
+          "actor": "美国海军",
+          "actor_type": "US-Executive",
+          "text": "俄亥俄级核潜艇阿拉斯加号抵达直布罗陀",
+          "details": "阿拉斯加号潜艇（SSBN-732）是一艘俄亥俄级潜艇，装备有三叉戟 II D5 洲际弹道导弹，已抵达直布罗陀，似乎是对伊朗发出的又一次战略信号。",
+          "important": false
+        },
+        {
+          "actor": "塔斯尼姆通讯社",
+          "actor_type": "新闻",
+          "text": "伊朗尚未放行UAE液化石油气油轮",
+          "details": "塔斯尼姆通讯社报道：伊朗尚未允许载有阿联酋液化石油气的油轮通过霍尔木兹海峡。",
+          "important": false
+        },
+        {
+          "actor": "Hassett",
+          "actor_type": "US-Executive",
+          "text": "Hassett：伊朗经济濒崩 不宜急谈",
+          "details": "Hassett 表示伊朗经济濒临崩溃，不宜急于与伊朗进行谈判。",
+          "important": false
+        },
+        {
+          "actor": "OFAC",
+          "actor_type": "US-Executive",
+          "text": "财政部对3名个人和9个组织新制裁",
+          "details": "财政部 OFAC 对 3 名伊朗个人和 9 个组织实施新的伊朗制裁：香港和阿联酋各 4 个，阿曼 1 个。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ：UAE四月初曾对伊朗未公开军事打击",
+          "details": "WSJ 报道 UAE 对伊朗进行了未公开的军事打击，包括在四月初袭击 Lavan Island 的一家炼油厂，正值特朗普宣布停火的时候。",
+          "important": false
+        },
+        {
+          "actor": "CNN",
+          "actor_type": "新闻",
+          "text": "CNN：Trump耐心耗尽 考虑恢复对伊军事行动",
+          "details": "CNN 报道伊朗领导层的分裂使其无法做出重大让步，Trump 对海峡的持续关闭感到耐心耗尽，正在考虑恢复对伊朗的军事行动。",
+          "important": false
+        },
+        {
+          "actor": "CNN",
+          "actor_type": "新闻",
+          "text": "CNN：白宫不满巴基斯坦调解角色",
+          "details": "CNN 报道特朗普圈内许多人希望巴基斯坦调解人与伊朗人沟通时能更加直接；一些特朗普官员长期以来质疑巴基斯坦方面是否积极表达了特朗普对谈判现状的不满；一些政府官员认为巴基斯坦往往与美国分享的伊朗立场比实际更为积极。",
+          "important": false
+        },
+        {
+          "actor": "@gbrew24",
+          "actor_type": "KOL",
+          "text": "伊沙巴三方电话斡旋持续 局势未破裂",
+          "details": "@gbrew24：伊朗外交部长今天上午与沙特外交部长通话，通话结束后沙特外交部长立即与巴基斯坦外长沟通；相关谈判仍在继续，目前尚未达成协议，但也没有破裂，局势仍处于持续观察中。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "CNN",
+        "NYP",
+        "塔斯尼姆"
+      ],
+      "date": "2026-05-12",
+      "image_urls": []
+    },
+    {
+      "id": "us-china-summit-prep",
+      "topic": "中美峰会",
+      "topic_tag": "geo",
+      "title": "Trump访华在即 福特电池厂CATL合作成示范",
+      "summary": "Trump 表示非常期待访华、与习主席会面；随访企业家名单含 Musk 但黄仁勋缺席。福特密歇根 3B BlueOval 电池厂由 CATL 技术许可支持落成，中国考虑购买约 500 架 737 Max。WSJ 称特朗普未计划调整对台立场，NYP 称希望中国施压伊朗。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：非常期待访华 中美都将迎来伟大成就",
+          "details": "Trump 表示非常期待这次前往中国的旅程，称中国是令人惊叹的国家，有一位备受尊敬的主席习主席，两国都将迎来伟大成就。",
+          "important": false
+        },
+        {
+          "actor": "白宫",
+          "actor_type": "US-Executive",
+          "text": "随访名单：Musk入列 黄仁勋缺席",
+          "details": "随访企业家公布，Musk 在其中，黄仁勋缺席（上周曾表示若受邀愿意参加）。",
+          "important": false
+        },
+        {
+          "actor": "Ford / CATL",
+          "actor_type": "Corporate",
+          "text": "福特3B BlueOval电池厂落成 CATL技术许可",
+          "details": "福特汽车在密歇根州马歇尔市建成 3B 的 BlueOval 电池工厂，这是其半个世纪以来首个全资拥有的国内新建工厂，由 CATL 通过技术许可和工程师培训提供电池技术支持（宁德时代不持股），这一中美罕见务实合作有望成为 Trump 与习本周北京峰会期间深化关系的范例。",
+          "important": true
+        },
+        {
+          "actor": "中国",
+          "actor_type": "Foreign-Gov",
+          "text": "中国考虑购约500架737 Max",
+          "details": "中国正在考虑购买约 500 架 737 Max 飞机，这将为中国航空公司提供急需的飞机，并为 Trump 总统带来贸易上的胜利。",
+          "important": false
+        },
+        {
+          "actor": "人民日报钟声",
+          "actor_type": "Foreign-Gov",
+          "text": "钟声：台湾是不容逾越的第一条红线",
+          "details": "《人民日报》钟声署名评论：1）中美两国应以更广阔、更长远的视角看待双边关系，让经贸关系继续发挥'压舱物'和'引擎'作用；2）国际社会比以往任何时候都更需要一个具有战略性、建设性和稳定性的中美关系；3）台湾问题是中国核心利益的核心，是中美关系政治基础的基石，是双边关系中'不容逾越的第一条红线'，也是中美关系中最大的风险点。",
+          "important": false
+        },
+        {
+          "actor": "新华社",
+          "actor_type": "Foreign-Gov",
+          "text": "中美联合缉毒 逮捕2中国公民3美国公民",
+          "details": "新华社周一报道，中国公安部和美国缉毒局逮捕了两名中国公民和三名美国公民，涉嫌贩毒；上月初双方在中国辽宁省和广东省以及佛罗里达州和内华达州同时展开缉毒行动。",
+          "important": false
+        },
+        {
+          "actor": "WSJ 魏玲玲",
+          "actor_type": "新闻",
+          "text": "WSJ：特朗普未计划调整对台立场",
+          "details": "WSJ 的魏玲玲报道，特朗普为峰会做准备时，并未包括美国对台湾立场的任何调整计划。",
+          "important": false
+        },
+        {
+          "actor": "NYP",
+          "actor_type": "新闻",
+          "text": "NYP：特朗普希望中国施压伊朗终结核野心",
+          "details": "NYP 报道，特朗普希望中国施压伊朗，以结束其核野心。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "F",
+        "BA"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "NYP",
+        "人民日报",
+        "新华社"
+      ],
+      "date": "2026-05-12",
+      "image_urls": []
+    },
+    {
+      "id": "us-domestic-policy",
+      "topic": "美国国内政策",
+      "topic_tag": "policy",
+      "title": "Trump禁机构买独栋房 参院推进Warsh提名",
+      "summary": "Trump 签行政令禁止大型机构收购独栋住宅。参议院 49-44 推进 Warsh 程序性投票，周二正式投票。弗吉尼亚州民主党就国会选区案上诉最高法但胜算低。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "签行政令禁大型机构收购独栋住宅",
+          "details": "Trump 签署行政命令，禁止大型投资机构收购单一家庭住宅，并呼吁国会永久禁止此类购买行为，称成品房屋投资剥夺美股梦。",
+          "important": true
+        },
+        {
+          "actor": "参议院",
+          "actor_type": "US-Congress",
+          "text": "参院49-44程序性推进Warsh",
+          "details": "参议院以 49-44 票推动通过 Warsh 沃什的程序性投票，周二正式投票。",
+          "important": false
+        },
+        {
+          "actor": "弗吉尼亚州 / 最高法院",
+          "actor_type": "US-Executive",
+          "text": "VA民主党请最高法恢复选区方案 胜算低",
+          "details": "弗吉尼亚州及其民主党领导人请求最高法院恢复一项经选民批准的国会选区划分方案，该方案此前被弗吉尼亚州最高法院宣布无效；此举是民主党对共和党在 Texas 等州重划选区的反制，但成功上诉概率低，因为最高法通常尊重州法院对自己宪法解释。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-12",
+      "image_urls": []
+    },
+    {
+      "id": "april-cpi-preview",
+      "topic": "4月CPI预览",
+      "topic_tag": "rates",
+      "title": "4月CPI预览：核心环比中值0.36% 关注OER纠正",
+      "summary": "WSJ 调查14家机构预测4月核心CPI环比中值0.36%、同比2.7%，主要源于去年10月政府关门导致的OER零通胀纠正。Anna Wong、Emma、Ed Bradford 等KOL重点关注OER跳升、关税pass through见顶、机票食品价格。",
+      "bullets": [
+        {
+          "actor": "WSJ调查",
+          "actor_type": "新闻",
+          "text": "14家机构中值：核心环比0.36% 同比2.7%",
+          "details": "WSJ 汇总 14 家机构 4 月 CPI 预测，Headline 环比中值 0.56%/同比 3.7%，Core 环比中值 0.36%/同比 2.7%；前值 3 月 Headline 0.87%/3.3%，Core 0.20%/2.6%。Wells Fargo 核心环比最高 0.50%，Moody's 最低 0.28%。",
+          "important": true
+        },
+        {
+          "actor": "Anna Wong",
+          "actor_type": "Analyst",
+          "text": "Wong：OER跳升约为典型两倍 关税pass through见顶",
+          "details": "Anna Wong 4月CPI关注：1）租金通胀跳升约为典型月度 OER/主要租金的两倍，是核心热读数主因，6月反映去年10月关门导致零租金通胀的纠正；2）AI对CPI附带影响——存储和存储芯片提升计算机相关CPI项，但看不到明确影响；3）关税 pass through 已达顶峰，现在要 roll over；4）机票价格激增但其他旅行相关自由裁量服务有所抵消；5）食品价格上涨。",
+          "important": false
+        },
+        {
+          "actor": "Emma",
+          "actor_type": "KOL",
+          "text": "Emma：关注OER反弹、supercore粘性",
+          "details": "Emma 称本月 CPI 关键不在 headline 数字，而在驱动结构，重点关注 OER 项的反弹情况、关税项和 supercore 的粘性、以及能源对食品和 airfares 单项的渗透程度。",
+          "important": false
+        },
+        {
+          "actor": "Ed Bradford",
+          "actor_type": "KOL",
+          "text": "Bradford：CPI双重打击 核心因油价上涨",
+          "details": "Ed Bradford 称明天公布的四月 CPI 将是双重打击，由于原油价格上涨，核心价格将上涨，以纠正去年十月政府关门带来的'误差'。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        5
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-05-12",
+      "image_urls": [
+        "/uploads/2026-05-12/901288f44264.png"
+      ]
+    },
+    {
+      "id": "sellside-views",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "卖方：MS油市损1B桶 BofA警告加息被低估",
+      "summary": "MS 称霍尔木兹关闭以来全球油市累损近1B桶；JPM 调查92%看涨2026但54%预期超30%回调；JPM 宏观预测Fed 2026全年暂停cut、10Y升至4.50%；BofA 推荐做空2Y/做空10Y vs Bund；Barclays 提示Fed换届SPX历史回撤显著；UBS 看英国10Y至4.75%。",
+      "bullets": [
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "BofA：Fed加息风险被显著低估",
+          "details": "BofA 认为 Fed 加息风险被显著低估，因美国劳动力市场强劲且通胀高企，市场仅定价约 5bps 加息概率；6 个月移动平均非农就业已升至 55k，Taylor Rule 暗示年底 FFR 应达 4.0%；推荐做空 2Y（目标 4.10%）、2s5s 曲线平坦化，做空 10Y 美债相对德债（利差目标 160bp）；警告若加息预期重燃，风险资产或重现 SPX 近 25% 历史跌幅。",
+          "important": true
+        },
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "MS：海峡关闭累损近1B桶 但油价涨幅有限",
+          "details": "MS 称霍尔木兹海峡关闭至今全球石油市场已累计损失近 1B 桶供应，考虑供应链重启时间，实际损失还将扩大；油价涨幅有限远未达 2022 水平；原因包括初期库存缓冲、市场坚信海峡很快重开、美国海运原油出口大幅激增（过去30天同比+3.8 Mb/d）、中国海运原油进口显著下滑（过去30天同比-5.5 Mb/d，宁愿耗库存）；若关闭时间超过中美能维持当前流动的极限，可能再度收紧油市。",
+          "important": false
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "JPM调查：92%看涨2026 但54%预期超30%回调",
+          "details": "JPM 调查：92% 投资者看涨 2026 股市但无人预计涨幅超 20%；84% 认为牛市还有超 20% 上行空间，54% 预期今明两年出现超 30% 回调；配置上中小盘仅 37% 超配、新兴市场超配 75%、欧洲 100% 低配；油价每涨 10%，新兴市场 GDP 损失 20bps，高于发达市场 14bps；行业偏好科技、公用事业、工业，冷落通信服务与非必需消费。",
+          "important": false
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "JPM宏观：Fed 2026全年暂停cut 10Y至4.50%",
+          "details": "JPM 宏观展望：Fed 预计 2026 年全年暂停 cut，利率维持 3.5%-3.75%，10Y 年底升至 4.50%；中东冲突持续，布伦特原油均价看至 96 美元/桶；美元走势不明朗。",
+          "important": false
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "Barclays：Fed换届SPX 6月平均回撤16%",
+          "details": "Barclays 根据历史数据，自 1930 年以来 Fed 新主席上任后一、三、六个月内，SPX 平均最大回撤分别达 5%、12%、16%，均高于普通年份典型跌幅。",
+          "important": false
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "UBS：英国10Y年底看至4.75%",
+          "details": "UBS 称英国政治不确定性推升财政风险，期限溢价或上升 25-50bps，10Y 年底看至 4.75%；建议不做多英国 10Y，转而做多名义 5s10s 曲线陡峭化交易。",
+          "important": false
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "DB：当前油价冲击远未达历史最严重水平",
+          "details": "Deutsche Bank 图表显示当前油价冲击虽是近几十年较大的之一，但远未达历史最严重水平；WTI 实际价格历史峰值出现在 2008（~210）、1979-80第二次石油危机（~165）、2022 能源危机（~165），近期 intraday 高点约 120 美元/桶。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "MS",
+        "JPM",
+        "BofA",
+        "Barclays",
+        "UBS",
+        "Deutsche Bank"
+      ],
+      "date": "2026-05-12",
+      "image_urls": [
+        "/uploads/2026-05-12/cade7996f56c.jpg"
+      ]
+    },
+    {
+      "id": "kol-market-views",
+      "topic": "KOL市场观点",
+      "topic_tag": "macro-other",
+      "title": "KOL：半导体顶部疲态 SOX超50DMA 36%",
+      "summary": "Linda Raschke 称 MU 技术形态顶部疲态；@TheShortBear 看好半导体熄火后币股软件扩散；Master Wu 称市场宽度犹豫建议买6-7月put；Brandon Carl 称KOSPI 12个月涨200%在发达国家史无前例；图表显示SOX 36%超50DMA为30年来第3次极值。",
+      "bullets": [
+        {
+          "actor": "Linda Raschke",
+          "actor_type": "KOL",
+          "text": "Raschke：MU技术图形顶部疲态",
+          "details": "Linda Raschke 称 MU 虽然目前很强，但技术图形已出现顶部疲态信号，上涨趋势很可能快要结束了。",
+          "important": true
+        },
+        {
+          "actor": "@TheShortBear",
+          "actor_type": "KOL",
+          "text": "看好半导体熄火后币股软件扩散",
+          "details": "@TheShortBear 看好 semi 熄火后的扩散，提了币股、软件等滞后板块。",
+          "important": false
+        },
+        {
+          "actor": "Master Wu",
+          "actor_type": "KOL",
+          "text": "市场宽度犹豫 建议买6-7月put",
+          "details": "Master Wu 称市场宽度盘旋，并表现出与主线指数强度相比下的犹豫不决，这通常是参与度下降的早期信号，可以开始买 6 月或 7 月的 put。",
+          "important": false
+        },
+        {
+          "actor": "Brandon Carl",
+          "actor_type": "KOL",
+          "text": "KOSPI 12月涨200% 发达国家史无前例",
+          "details": "Brandon Carl 称 KOSPI 在 12 个月内增长 200%，对于历史上同等规模的发达国家来说是前所未有的；香港 1972-73 年间增长三倍多但在全球 GDP 比例远小，而且是英国殖民地；希腊 1986-87 年增长三倍多但在全球 GDP 比例小得多。",
+          "important": false
+        },
+        {
+          "actor": "Opening Bell Daily",
+          "actor_type": "KOL",
+          "text": "SOX超50DMA 36% 30年第3次极值",
+          "details": "图表显示 SOX 于 2026年5月11日收盘超 50 日均线 36.0%，30 年内仅第 3 次达此水平；前两次为 2000 年 3 月互联网泡沫顶部 +46.7% 和 2002 年 11 月熊市反弹 +36.0%。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MU"
+      ],
+      "image_indexes": [
+        1,
+        2
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-12",
+      "image_urls": [
+        "/uploads/2026-05-12/70e636c6b8b4.jpg",
+        "/uploads/2026-05-12/bc6a083ff3fb.jpg"
+      ]
+    },
+    {
+      "id": "other-news",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "英国斯塔默面临党内逼宫 韩国推AI红利方案",
+      "summary": "英国81+工党议员呼吁斯塔默辞职，今晨内阁会议或触发领导权挑战；韩国推AI利润公民福利方案；秘鲁发能源危机紧急法令；GME 因 Keith Gill 神秘帖暴涨后回落；OpenAI 与 MSFT 总收益分成上限定为38B。",
+      "bullets": [
+        {
+          "actor": "工党议员",
+          "actor_type": "Foreign-Gov",
+          "text": "81+工党议员逼宫 斯塔默或被迫下台",
+          "details": "英国内阁会议今天早上举行，斯塔默首相将面临'优雅辞职'或面临部长辞职的机会；目前已有超过 81 名工党议员呼吁基尔·斯塔默辞职；如果他们团结支持某一位候选人，这就足以正式发起领导权挑战导致内阁更迭。",
+          "important": true
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "英国实际房价已回到GFC前水平",
+          "details": "DB 图表显示 UK 房价实际值已回到 GFC 前水平，经历多年甚至数十年的通胀调整后大涨；Inner London 从 2017-18 峰值约 880,000 英镑回落至 2025 年约 630,000，UK 整体从 2022 峰值约 300,000 回落至 260,000（按 2026年2月价格）。",
+          "important": false
+        },
+        {
+          "actor": "韩国政府",
+          "actor_type": "Foreign-Gov",
+          "text": "韩国推AI利润公民福利方案",
+          "details": "韩国推出利用 AI 利润发放公民福利方案，称 AI 带来的利润和税收应该以更加结构化的方式返还给所有公民。",
+          "important": false
+        },
+        {
+          "actor": "秘鲁政府",
+          "actor_type": "Foreign-Gov",
+          "text": "秘鲁发能源危机紧急法令",
+          "details": "秘鲁发布能源危机紧急法令。",
+          "important": false
+        },
+        {
+          "actor": "NBC",
+          "actor_type": "新闻",
+          "text": "NBC：Trump对古巴政权未倒台日益沮丧",
+          "details": "NBC 报道 Trump 对古巴政府尽管承受美国数月压力仍继续执政感到越来越沮丧；白宫认为该政权可能会在年底前垮台，但特朗普希望更快取得成果。",
+          "important": false
+        },
+        {
+          "actor": "FT",
+          "actor_type": "新闻",
+          "text": "FT：石油巨头加码阿拉斯加北极勘探",
+          "details": "FT 报道世界上一些最大的石油公司正在阿拉斯加北极进行勘探，以补充储备、多元化投资组合，并借助特朗普推动的化石燃料钻探活动。",
+          "important": false
+        },
+        {
+          "actor": "GameStop / Keith Gill",
+          "actor_type": "Corporate",
+          "text": "GME盘后飙涨后回落 因Gill神秘帖",
+          "details": "GameStop 股价在周一的市后交易中飙升后迅速下跌，原因是金融影响者 Keith Gill 的社交媒体账号出现了神秘的帖子，随后又消失了。",
+          "important": false
+        },
+        {
+          "actor": "OpenAI / Microsoft",
+          "actor_type": "Corporate",
+          "text": "The Information：OpenAI-MSFT分成上限38B",
+          "details": "The Information 周一报道，OpenAI 与 Microsoft 微软达成协议，将总收益分享支付上限限制在 38B。",
+          "important": false
+        },
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "Apollo：各行业EBITDA规模分布差异显著",
+          "details": "Apollo 图表展示 23 个行业按公司规模（<$25M、$25-50M、$50-75M、$75-100M、>$100M）的 EBITDA 分布，涵盖制药、保险、生命科学、资本市场、医疗科技、软件、媒体、化工、航空航天等行业。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GME",
+        "MSFT"
+      ],
+      "image_indexes": [
+        3,
+        4
+      ],
+      "importance": 2,
+      "sources": [
+        "NBC",
+        "FT",
+        "The Information"
+      ],
+      "date": "2026-05-12",
+      "image_urls": [
+        "/uploads/2026-05-12/abec01ea87d4.png",
+        "/uploads/2026-05-12/21ac53e88ab7.png"
+      ]
+    }
+  ]
+}
