@@ -1,0 +1,488 @@
+{
+  "topics": [
+    {
+      "id": "fed-cpi-goolsbee-warsh",
+      "topic": "美联储与通胀",
+      "topic_tag": "fed",
+      "title": "Goolsbee警告通胀过热，参议院确认Warsh任理事",
+      "summary": "芝加哥联储主席Goolsbee表示4月CPI比预期更糟，服务业通胀是最差部分，可能表明经济过热。参议院确认Warsh出任美联储理事。WSJ Nick Timiraos指出政府停摆数据缺失使核心CPI看起来偏低，实际上自10月以来基本横盘。",
+      "bullets": [
+        {
+          "actor": "Goolsbee",
+          "actor_type": "Central-Bank",
+          "text": "4月CPI比预期更糟，服务业通胀最差，经济可能过热",
+          "details": "Goolsbee：通胀数据比预期更糟，可能表明经济过热，4月份CPI最糟糕的部分是服务业通胀。",
+          "important": true
+        },
+        {
+          "actor": "美国参议院",
+          "actor_type": "US-Congress",
+          "text": "参议院确认Warsh出任美联储理事",
+          "details": "参议院确认Warsh出任美联储理事。",
+          "important": false
+        },
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "Nick：政府停摆导致数据缺失，核心CPI看似偏低",
+          "details": "Nick Timiraos：自10月份以来，核心CPI基本保持横盘整理，但由于政府停摆导致数据缺失，因此看起来较低。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-05-13",
+      "image_urls": []
+    },
+    {
+      "id": "trump-iran-china-cuba",
+      "topic": "特朗普外交议程",
+      "topic_tag": "geo",
+      "title": "特朗普访华前夕谈伊朗、中国、古巴",
+      "summary": "特朗普周三晚间抵达北京展开三天访华行程，将与习近平优先讨论贸易问题，淡化伊朗议题。表示对伊朗实施封锁，有信心其100%停止铀浓缩；将请习近平开放中国市场；还计划与古巴决策者举行会谈。习近平年底将访问DC。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普周三抵京三天访华，优先谈贸易、淡化伊朗",
+          "details": "Trump将于周三晚间抵达北京，展开为期三天的访华之旅。表示与习近平的会晤将优先讨论贸易问题，同时淡化了双方对伊朗问题的关注，\"老实说，我不会说伊朗是其中之一，因为我们对伊朗的控制非常到位。\"",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "对伊朗不必急于求成，有信心100%停止铀浓缩",
+          "details": "Trump：我们不必急于求成。我们已对其实施了封锁，这使他们无法获得任何资金，我们不能让他们拥有核武器，有信心伊朗将100%停止铀浓缩活动，我们100%能得到伊朗的核尘埃。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "习近平年底访DC，美军实力强于中国",
+          "details": "Trump：我认为与习近平的会晤会很顺利；中国很强，但我们的军事实力比中国更强；习近平主席将于今年底访问DC。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "将请习近平开放中国，让美CEO发挥才能",
+          "details": "Trump：将请求习近平主席——一位杰出的领导人——'开放'中国，让这些杰出人士（美国CEO们）能够发挥他们的才能，帮助中国迈上更高的台阶。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "计划与古巴决策者举行某种会谈",
+          "details": "Trump计划在尚未确定的时间和日期与古巴决策者举行某种程度的会谈。",
+          "important": false
+        },
+        {
+          "actor": "黄仁勋",
+          "actor_type": "Corporate",
+          "text": "黄仁勋作为临时增援加入特朗普访华行程",
+          "details": "黄仁勋作为临时增援人员加入了美国总统唐纳德·特朗普的访华行程，这使得人工智能和科技在备受瞩目的北京峰会前夕成为焦点。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-05-13",
+      "image_urls": []
+    },
+    {
+      "id": "china-us-relations-amb",
+      "topic": "中美关系",
+      "topic_tag": "geo",
+      "title": "中国驻美大使全面回应中美议题，农产品采购或落地",
+      "summary": "中国驻美大使驳斥\"中国军事援伊\"等虚假信息，呼吁停止战事支持美伊谈判；希望美方取消单边关税；重申一个中国原则反对美台官方往来；呼吁AI领域加强对话避免\"AI铁幕\"。中国官员据悉与美磋商采购玉米、高粱等美农产品，或在特朗普访华期间达成协议。",
+      "bullets": [
+        {
+          "actor": "中国官员",
+          "actor_type": "Foreign-Gov",
+          "text": "中美磋商美农产品采购，或在特朗普访华达成协议",
+          "details": "中国官员据悉与美国磋商采购玉米、高粱等美国农产品，或在特朗普访华期间达成协议。",
+          "important": true
+        },
+        {
+          "actor": "中国驻美大使",
+          "actor_type": "Foreign-Gov",
+          "text": "驳斥中国军援伊朗虚假信息，呼吁停止战事",
+          "details": "中方驳斥了\"中国军事援伊\"等虚假信息，指出其目的是破坏中美关系。中方呼吁立即停止战事，支持美伊谈判。",
+          "important": false
+        },
+        {
+          "actor": "中国驻美大使",
+          "actor_type": "Foreign-Gov",
+          "text": "希望美方彻底取消单边关税，全面看待贸易不平衡",
+          "details": "历史证明贸易战两败俱伤。中方希望美方彻底取消单边关税。对于贸易不平衡问题，应全面看待商品、服务、资本账户等多维度。",
+          "important": false
+        },
+        {
+          "actor": "中国驻美大使",
+          "actor_type": "Foreign-Gov",
+          "text": "重申一个中国原则，反对美台官方往来和军事勾连",
+          "details": "重申一个中国原则是国际关系基本准则和中美关系基础。反对美台官方往来和军事勾连。中方强调有智慧解决台湾问题，敦促美方恪守一个中国原则，搬除影响中美关系的障碍。",
+          "important": false
+        },
+        {
+          "actor": "中国驻美大使",
+          "actor_type": "Foreign-Gov",
+          "text": "呼吁中美AI领域加强对话，避免\"AI铁幕\"",
+          "details": "呼吁中美在人工智能领域加强对话、管理竞争、开展合作，避免\"人工智能铁幕\"。",
+          "important": false
+        },
+        {
+          "actor": "王毅",
+          "actor_type": "Foreign-Gov",
+          "text": "王毅呼吁巴基斯坦加强调解努力结束中东战争",
+          "details": "王毅称我们呼吁巴基斯坦加强调解努力，结束中东战争。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-05-13",
+      "image_urls": []
+    },
+    {
+      "id": "us-iran-hormuz-crisis",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "伊朗加强海峡控制，美军考虑\"重锤行动\"",
+      "summary": "伊朗似乎正加强对霍尔木兹海峡的控制，已与伊拉克、巴基斯坦签署能源协议，宣示海峡主导地位。伊朗要求承认海峡主权等五项先决条件才参加下轮美伊会谈。美国国防部考虑停火破裂后将伊朗行动更名为\"重锤行动\"，估计战争成本约29B；上诉法院暂缓执行国际贸易法院对10%关税违法的裁决，关税继续征。美国释放53.3m桶SPR石油。英国向海峡派战机军舰。",
+      "bullets": [
+        {
+          "actor": "伊朗政府",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗与伊拉克、巴基斯坦签能源协议，宣示海峡主导地位",
+          "details": "RTRS报道伊朗似乎正在加强对霍尔木兹海峡的控制，已与伊拉克和巴基斯坦达成协议，从该地区运输石油和液化天然气。消息人士称，其他国家也在探索类似的协议，此举可能使德黑兰对该水道的控制更加稳固。伊拉克和巴基斯坦与伊朗签署能源协议，德黑兰宣示霍尔木兹的主导地位。",
+          "important": true
+        },
+        {
+          "actor": "伊朗政府",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗：承认海峡主权等5项条件落实才参加下轮会谈",
+          "details": "称除非包括承认海峡主权在内的五项先决条件得以落实，否则伊朗不会参加下轮美伊会谈。",
+          "important": false
+        },
+        {
+          "actor": "美国国防部",
+          "actor_type": "US-Executive",
+          "text": "DoD考虑停火破裂后改名\"重锤行动\"，战争成本约29B",
+          "details": "DoD考虑如果停火破裂，将伊朗行动更名为\"重锤行动\"；估计伊朗战争成本约为29B。",
+          "important": false
+        },
+        {
+          "actor": "美国政府",
+          "actor_type": "US-Executive",
+          "text": "美国释放53.3m桶SPR石油",
+          "details": "Administration SPR：美国释放53.3m桶石油。",
+          "important": false
+        },
+        {
+          "actor": "美国上诉法院",
+          "actor_type": "US-Executive",
+          "text": "上诉法院暂缓10%关税违法裁决，关税继续征",
+          "details": "上诉法院下令暂缓执行本月早些时候国际贸易法院有关特朗普10%关税违法的裁决，关税将继续征。",
+          "important": false
+        },
+        {
+          "actor": "英国政府",
+          "actor_type": "Foreign-Gov",
+          "text": "英国向霍尔木兹海峡多国护航行动派战机军舰",
+          "details": "英国将向霍尔木兹海峡多国护航行动派遣战机及军舰。",
+          "important": false
+        },
+        {
+          "actor": "中远海运",
+          "actor_type": "Corporate",
+          "text": "满载VLCC中远海\"远华湖\"穿越出海峡",
+          "details": "满载vlcc中远海yuanhuahu穿越出海峡。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Reuters"
+      ],
+      "date": "2026-05-13",
+      "image_urls": []
+    },
+    {
+      "id": "india-gold-silver-tariff",
+      "topic": "印度关税",
+      "topic_tag": "policy",
+      "title": "印度上调金银进口关税以提振卢比",
+      "summary": "印度政府修订黄金、白银进口关税，基本关税从5%上调至10%，农业基础设施与发展附加税从1%提高至5%，旨在通过减少美元外流抑制进口并提振卢比。",
+      "bullets": [
+        {
+          "actor": "印度政府",
+          "actor_type": "Foreign-Gov",
+          "text": "印度黄金白银基本关税从5%升至10%，附加税1%升至5%",
+          "details": "印度政府修订黄金、白银进口关税，将黄金和白银进口的基本关税从5%上调至10%，将黄金、白银进口的农业基础设施与发展附加税从1%提高至5%，抑制进口以提振卢比（by减少美元外流）。",
+          "important": true
+        },
+        {
+          "actor": "印度政府",
+          "actor_type": "Foreign-Gov",
+          "text": "政策目的：减少美元外流提振卢比",
+          "details": "通过抑制金银进口减少美元外流，提振卢比汇率。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GLD",
+        "SLV"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-13",
+      "image_urls": []
+    },
+    {
+      "id": "ai-megadeals",
+      "topic": "AI行业",
+      "topic_tag": "ai",
+      "title": "Anthropic拟融资30B估值900B+，Google与SpaceX谈轨道数据中心",
+      "summary": "Anthropic与投资者初步磋商新一轮融资至少30B，估值超900B，并推出逾十款法律AI工具。Google与SpaceX洽谈发射轨道数据中心测试产品。高盛CEO称AI帮助扩大业务规模而无需大幅招聘，银行业\"人力装配线\"面临自动化。",
+      "bullets": [
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic拟新一轮融资至少30B，估值超900B",
+          "details": "Anthropic据悉正与投资者展开初步磋商，计划在新一轮融资中募资至少30B，对该公司的估值超900B。",
+          "important": true
+        },
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic推出逾十款法律AI工具",
+          "details": "Anthropic推出逾十款法律AI工具，覆盖合同审查到司法备考。",
+          "important": false
+        },
+        {
+          "actor": "Google/SpaceX",
+          "actor_type": "Corporate",
+          "text": "谷歌与SpaceX洽谈发射轨道数据中心测试产品",
+          "details": "谷歌与SpaceX据悉洽谈发射用于轨道数据中心的测试产品。",
+          "important": false
+        },
+        {
+          "actor": "高盛CEO",
+          "actor_type": "Corporate",
+          "text": "高盛CEO：AI让业务扩张无需大幅招聘",
+          "details": "高盛CEO表示，人工智能的应用正帮助该行在无需大幅增加招聘的情况下扩大业务规模，银行业\"人力装配线\"面临自动化。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GOOGL",
+        "GS"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-05-13",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-cpi-views",
+      "topic": "卖方观点-CPI",
+      "topic_tag": "fed",
+      "title": "Barclays/Nomura：4月CPI跳升属技术性，趋势未恶化",
+      "summary": "Barclays称4月核心CPI环比加速至0.38%主因住房一次性调整，非趋势恶化，维持Q4同比3.0%预测，预计美联储2026年按兵不动、2027年3月降25bp。Nomura核心CPI环比0.376%超预期，受租金技术性回补和机票2.8%跳升扰动，核心PCE追踪上调至0.359%，维持9月和12月各降一次预期，风险偏向更少更晚降息。",
+      "bullets": [
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "巴克莱：CPI跳升属住房一次性调整，2027年3月才降息",
+          "details": "Barclay：美国4月核心CPI环比加速至0.38%，主因住房分项一次性调整，而非通胀趋势恶化。核心商品通胀放缓，显示关税效应减弱；能源价格推升整体CPI至0.64%。巴克莱维持核心CPI今年四季度同比3.0%的预测，并预计美联储2026年维持利率不变，2027年3月降息25bps。",
+          "important": true
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "野村：核心PCE追踪升至0.359%环比，风险偏向更晚降息",
+          "details": "Nomura：美国4月核心CPI环比上涨0.376%，超预期，主要受租金技术性回补和机票价格跳升2.8%的暂时性扰动；但潜在通胀趋势未现加速，核心商品通胀放缓至0.03%。核心PCE追踪估计上调至0.359%环比，同比升至3.4%。野村维持美联储9月和12月各降息一次的预期，但强调风险愈发偏向更少或更晚降息。",
+          "important": false
+        },
+        {
+          "actor": "David Rosenberg",
+          "actor_type": "Analyst",
+          "text": "Rosenberg：剔除租金的核心CPI仅+0.2%，并不可怕",
+          "details": "David Rosenberg：剔除租金成分（BLS承认该成分的计算存在误差）的核心CPI在4月份录得令人担忧的+0.2%的涨幅，并且在过去三个月中，该数据均与此持平或更低，尽管人们对能源价格转嫁和关税忧心忡忡，结果就只有这点儿涨幅？",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Barclays",
+        "Nomura"
+      ],
+      "date": "2026-05-13",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-asia-ai",
+      "topic": "卖方观点-AI与亚洲",
+      "topic_tag": "ai",
+      "title": "GS看好AI生产力红利，MS上调韩国GDP并看好内存上行",
+      "summary": "高盛Briggs估计生成式AI可拉升发达经济体劳动生产率15%，美国非科技公司已重配约25%的IT劳动力；AI相关组织投资约50B/年几乎未计入GDP，rGDP至少被低估0.2%。MS Kathleen Oh将韩国2026年GDP增速预测从1.8%上调至2.8%，预计Q4首次加息、2027年中达终端3.25%。MS Joon Seok维持KOSPI 6500~9500交易区间，DRAM供应趋紧、DDR5现货价预计环比上涨50%、NAND eSSD价格可能翻倍。",
+      "bullets": [
+        {
+          "actor": "MS Kathleen Oh",
+          "actor_type": "Analyst",
+          "text": "大摩上调韩国26年GDP至2.8%，预计Q4首次加息",
+          "details": "MS Kathleen Oh：将2026年韩国GDP增速预测从1.8%大幅上调至2.8%，远高于2025年的1.0%；预计Q4首次加息，2027年中达到终端利率3.25%，共3次加息。若内需过热，加息可能提前至Q3，终端利率或触及3.50%。",
+          "important": true
+        },
+        {
+          "actor": "GS Joseph Briggs",
+          "actor_type": "Analyst",
+          "text": "高盛：生成式AI可拉升发达经济体生产率15%",
+          "details": "GS Joseph Briggs：生成式AI预计可为发达经济体劳动生产率带来15%的拉升，美国非科技公司为推进AI转型已重新配置约25%的IT劳动力。AI相关的组织投资（约$50B/年）几乎完全未计入美国GDP，因此rGDP至少被低估了0.2%。",
+          "important": false
+        },
+        {
+          "actor": "MS Joon Seok",
+          "actor_type": "Analyst",
+          "text": "大摩：DDR5现货价或涨50%，NAND eSSD价或翻倍",
+          "details": "MS Joon Seok：KOSPI存在进一步上行空间，但2026年下半年可能波动加剧，维持6500~9500点的3-6个月交易区间判断。Agentic AI的兴起推动了CPU和内存需求，尽管存在数据中心建设延迟和融资担忧，但芯片制造商基本面强韧，资本管理是影响股价的关键变量。DRAM供应趋紧，DDR5现货价预计环比上涨50%，NAND eSSD价格可能翻倍，行业处于上行周期中段。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MU",
+        "EWY"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Goldman Sachs",
+        "Morgan Stanley"
+      ],
+      "date": "2026-05-13",
+      "image_urls": []
+    },
+    {
+      "id": "kol-views",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "Bob/Brerezin/Minervini论油价、衰退、市场集中度",
+      "summary": "Bob指油价上涨将全球债券收益率推至周期高位，但全球股市未受拖累。Peter Brerezin称石油期货深度贴水显示投资者认为冲击短暂，但若家庭企业认为持续将引发衰退担忧再起。Mark Minervini指当前市场集中度高且选择性强，牛市仍在但部分区域可能泡沫。",
+      "bullets": [
+        {
+          "actor": "Bob",
+          "actor_type": "KOL",
+          "text": "油价推升全球债券收益率至周期高位，股市未受拖累",
+          "details": "Bob：油价上涨正将全球债券收益率推至周期高位，导致发达市场的金融环境趋紧。然而，全球股市却似乎并未受到这些直接经济拖累的影响。",
+          "important": true
+        },
+        {
+          "actor": "Peter Brerezin",
+          "actor_type": "KOL",
+          "text": "石油期货深度贴水显示冲击短暂，但风险在持续",
+          "details": "Peter Brerezin：如果企业预期经济冲击会很快过去，就应该维持就业人数不变。相反，如果预期经济冲击会持续很长时间，那么裁员可能就比较合理了，目前石油期货价格曲线处于深度贴水状态，表明投资者预期石油冲击将很快过，如果家庭和企业开始感到石油危机将持续下去，他们的行为就会变得更加谨慎。这可能导致人们对经济衰退的担忧再次加剧。",
+          "important": false
+        },
+        {
+          "actor": "Mark Minervini",
+          "actor_type": "KOL",
+          "text": "市场集中度高且选择性强，部分区域可能泡沫",
+          "details": "Mark Minervini：当前市场的特点是集中度高且选择性强。随着许多股票价格过高，市场格局变得更加挑剔。牛市依然存在，但部分区域可能出现泡沫。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-13",
+      "image_urls": []
+    },
+    {
+      "id": "technical-charts-ndr-nomura",
+      "topic": "技术图表",
+      "topic_tag": "macro-other",
+      "title": "NDR纳指周期组合与Nomura QQQ偏度波动率",
+      "summary": "NDR 2026年纳指周期组合（等权一年季节/四年总统/十年十年期周期）显示实际纳指截至5月已较周期路径偏离明显，5月录得-11低点；周期模型指引下半年回升、年底冲高至约7.25。Nomura QQQ 3M偏度处于0%tile（低位），ATM波动率位于81%tile，Call Skew处100%tile，Put Skew处0%tile，整体呈现看涨偏度极致状态。",
+      "bullets": [
+        {
+          "actor": "NDR",
+          "actor_type": "Analyst",
+          "text": "NDR：纳指周期模型指向年底冲高至7.25",
+          "details": "NDR 2026年NASDAQ Cycle Composite（等权一年季节、四年总统、十年十年期周期）显示：周期路径从1月约2.75回落，10月低位约2.75后强劲反弹，12月见顶约7.25，1月2027收于约7.00；实际纳指截至2026-05-11从1月0附近升至4月峰值约7后回落至-11。强调趋势比绝对水平更重要。",
+          "important": true
+        },
+        {
+          "actor": "Nomura Vol",
+          "actor_type": "Analyst",
+          "text": "Nomura：QQQ Put Skew/Skew处0%tile，Call Skew处100%tile",
+          "details": "Nomura Vol QQQ历史百分位：3M Skew (25dP/25dC) 处0%tile，最新降至约1.28；3M ATM Vol处81%tile，约22；3M Call Skew (25dC/ATM)处100%tile，末端上冲至约0.9；3M Put Skew (25dP/ATM)处0%tile，末端急降至约1.15。整体呈极端看涨偏度结构。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "QQQ"
+      ],
+      "image_indexes": [
+        0,
+        1
+      ],
+      "importance": 2,
+      "sources": [
+        "NDR",
+        "Nomura"
+      ],
+      "date": "2026-05-13",
+      "image_urls": [
+        "/uploads/2026-05-13/8e65a7b00455.jpg",
+        "/uploads/2026-05-13/c43632eae0b7.png"
+      ]
+    },
+    {
+      "id": "other-misc",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "纽约市房产税调整、三星罢工风险",
+      "summary": "纽约市长放弃备受争议的房产税上调计划，但将针对高价二套房的附加税计划纳入新预算案。三星电子与工会未能在最后一刻达成工资协议，加剧罢工风险。",
+      "bullets": [
+        {
+          "actor": "纽约市长",
+          "actor_type": "US-Executive",
+          "text": "放弃房产税上调，转向高价二套房附加税",
+          "details": "纽约市长放弃备受争议的房产税上调计划，但将针对高价二套房的附加税计划纳入新预算案。",
+          "important": true
+        },
+        {
+          "actor": "三星电子",
+          "actor_type": "Corporate",
+          "text": "三星与工会未达工资协议，罢工风险加剧",
+          "details": "韩联社报道称，三星电子与其工会未能在最后一刻达成工资协议，这加剧了发生罢工的风险。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "韩联社"
+      ],
+      "date": "2026-05-13",
+      "image_urls": []
+    }
+  ]
+}
