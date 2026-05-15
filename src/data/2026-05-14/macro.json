@@ -1,0 +1,371 @@
+{
+  "topics": [
+    {
+      "id": "fed-speakers-hawkish-2026-05-14",
+      "topic": "Fed官员表态",
+      "topic_tag": "fed",
+      "title": "Kashkari与Collins偏鹰：通胀过高，今年内难下行",
+      "summary": "Kashkari表示对通胀上行不意外，关键看霍尔木兹海峡关闭持续时间，新主席需说服其他决策者；Collins强调通胀前景是首要关注，若战事延长通胀将上行，今年通胀不会下降，可能要到2027年才放缓，利率或需更长时间维持紧缩。",
+      "bullets": [
+        {
+          "actor": "Collins",
+          "actor_type": "Central-Bank",
+          "text": "通胀今年不会下降，利率可能更长时间维持紧缩",
+          "details": "Collins称目前关键经济指标波动极大，失业率仍相当低，最关心当前通胀前景；若战争持续更长时间通胀将上升，今年通胀不会下降并可能在2027年放缓，强调保持通胀预期稳定的重要性。利率可能需要在较长时间内保持紧缩状态，如果通胀持续利率甚至可能上升，如果经济形势允许，他希望今年晚些时候进一步降息。",
+          "important": true
+        },
+        {
+          "actor": "Kashkari",
+          "actor_type": "Central-Bank",
+          "text": "通胀上升不意外，海峡关闭时长是关键",
+          "details": "Kashkari对通胀率上升并不感到意外，重要的是海峡关闭的持续时间，通胀水平过高；Fed chair必须说服其他政策制定者。",
+          "important": false
+        },
+        {
+          "actor": "美国参议院",
+          "actor_type": "US-Congress",
+          "text": "参院54-45确认沃什担任Fed主席",
+          "details": "参院以54-45投票确认沃什(Warsh)担任Fed chair。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-05-14",
+      "image_urls": [
+        "/uploads/2026-05-14/b683ba0d6e39.jpg"
+      ]
+    },
+    {
+      "id": "us-china-xi-visit-2026-05-14",
+      "topic": "中美关系",
+      "topic_tag": "geo",
+      "title": "Trump邀习近平9/24访美，H200对华出口获批",
+      "summary": "Trump邀请习近平于9/24访美。美方批准阿里、字节、腾讯、京东等中国买家及联想富士康等分销商采购英伟达H200。习近平定位中美\"建设性战略稳定关系\"，强调台湾问题是最重要议题；荷兰抗议美进一步限ASML对华出口，中国重发数百家美牛肉厂出口许可，Citi获中国第七张外商独资券商牌照。",
+      "bullets": [
+        {
+          "actor": "美国政府",
+          "actor_type": "US-Executive",
+          "text": "美批准阿里腾讯字节京东等采购英伟达H200",
+          "details": "RTRS透露，美国已批准阿里巴巴、字节跳动、腾讯、京东等中国买家采购H200，包括联想和富士康在内的少数分销商也获得了美国批准购买英伟达的H200。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "邀请习近平于9/24访问美国",
+          "details": "Trump邀请习近平于9/24访问美国。",
+          "important": false
+        },
+        {
+          "actor": "习近平",
+          "actor_type": "Foreign-Gov",
+          "text": "提\"建设性战略稳定关系\"，强调台湾是最重要问题",
+          "details": "习近平发言强调对中美关系定性和台湾问题：将构建\"中美建设性战略稳定关系\"作为中美关系新定位(核心强调稳定)；台湾问题是中美关系中最重要的问题。处理好了，两国关系就能保持总体稳定；处理不好，两国就会碰撞甚至冲突，将整个中美关系推向十分危险的境地。",
+          "important": false
+        },
+        {
+          "actor": "Musk/Cook/Huang",
+          "actor_type": "Corporate",
+          "text": "习近平会见美企代表，马斯克黄仁勋反馈正面",
+          "details": "习近平会见美国企业代表会后，Musk：很好、很有成效；Cook没说话，打了一个和一个手势；Huang：很顺利，两位领导都很了不起。人民日报发表评论文章《中美关系不能回到过去，但可以拥抱更美好的未来》。",
+          "important": false
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "正说服中国向伊朗施压停止霍尔木兹行动",
+          "details": "Rubio：我们正试图说服中国进行干预，向伊朗施压，迫使其停止在霍尔木兹海峡的行动；看到世界稳定符合每个人的利益。",
+          "important": false
+        },
+        {
+          "actor": "美国参议员两党联名",
+          "actor_type": "US-Congress",
+          "text": "两党参议员致信支持《台湾关系法》",
+          "details": "一群两党参议员致信Rubio，承诺支持《台湾关系法》，允许在北京威胁加剧的情况下向这个自治岛屿出售国防武器。他们还警告不要\"单方面改变该政策\"或\"任何新的台湾声明性政策\"。",
+          "important": false
+        },
+        {
+          "actor": "中国监管",
+          "actor_type": "Foreign-Gov",
+          "text": "Citi获中国第七张外商独资券商牌照",
+          "details": "Citi将获中国第七张外商独资券商牌照。",
+          "important": false
+        },
+        {
+          "actor": "荷兰政府",
+          "actor_type": "Foreign-Gov",
+          "text": "荷兰抗议美进一步限ASML对华出口",
+          "details": "荷兰抗议美国进一步禁止芯片巨头ASML进入中国市场的提议。",
+          "important": false
+        },
+        {
+          "actor": "中国海关",
+          "actor_type": "Foreign-Gov",
+          "text": "中国重发数百家美牛肉加工厂出口许可",
+          "details": "海关数据显示，中国已重新发放数百家美国牛肉加工厂的出口许可证，为更多美国肉类出口打开了大门。",
+          "important": false
+        },
+        {
+          "actor": "ChinaFacts",
+          "actor_type": "KOL",
+          "text": "KOL：习特会预期不高，稀土半导体难突破",
+          "details": "ChinaFacts：保守估计全年会见3-4次，这次只是\"开始\"并非重头戏；元首会面前一天中美经贸团队才在韩国磋商半天，说明分歧不多但预期普遍不高。容易达成共识集中在采购、投资等低门槛领域；稀土和科技/半导体短期难达成；台湾问题会有表态但实质性交换短期内谈不成；关税大幅变动可能性小；伊朗、俄乌会谈但难快速突破；禁毒、移民、军事沟通可推进；未来最确定突破点是中国对美投资。",
+          "important": false
+        },
+        {
+          "actor": "Macromargin",
+          "actor_type": "KOL",
+          "text": "KOL：中美磋商通稿\"建设性\"用词偏淡",
+          "details": "宏观边际Macromargin：中美韩国贸易磋商通稿简短，提到\"进一步拓展务实合作\"，可能包括芬太尼合作、AI对话、金融等，但不超预期；用词仍是\"坦诚、深入、建设性\"，若较上次有重要突破应该用更积极词，说明访华可能难有超预期。积极度排序：实质性(瑞士)＞富有建设性(马来西亚、瑞典)＞建设性＞不提建设性。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "BABA",
+        "JD",
+        "PDD",
+        "TCEHY",
+        "ASML",
+        "C"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Reuters",
+        "人民日报"
+      ],
+      "date": "2026-05-14",
+      "image_urls": []
+    },
+    {
+      "id": "iran-hormuz-crisis-2026-05-14",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "海峡过境5艘油轮，中远未缴通行费过拉拉克港",
+      "summary": "5/13 17:30-5/14 17:30海峡共5艘船过境，含1艘出湾油轮。UKMTO报富查伊拉东北38海里一艘停泊船被未授权登船驶向伊朗领海。中远集团向WSJ透露最近出湾油轮未缴通行费通过拉拉克港，视为伊朗在北京峰会前释放的善意信号。Vance称伊朗谈判取得进展；伊朗总统强硬表态；科威特与伊朗就渔船渗透事件互指。",
+      "bullets": [
+        {
+          "actor": "中远集团官员",
+          "actor_type": "Corporate",
+          "text": "出湾油轮未缴通行费过拉拉克港，伊朗示好信号",
+          "details": "中远集团的一位官员告诉WSJ，最近出湾的油轮在拉拉克港没有缴纳通行费就通过了港口，该公司认为这是伊朗在北京峰会前释放的善意信号，伊朗战争将是北京峰会的重要议题。",
+          "important": true
+        },
+        {
+          "actor": "UKMTO",
+          "actor_type": "新闻",
+          "text": "富查伊拉东北38海里一停泊船被登船驶向伊朗",
+          "details": "UKMTO报告在阿联酋富查伊拉东北38海里处发生一起事件，一艘停泊中的船只被未经授权人员登船，目前正驶向伊朗领海。5/13 17:30 - 5/14 17:30海峡共5艘，其中1艘出湾Tanker。",
+          "important": false
+        },
+        {
+          "actor": "Vance",
+          "actor_type": "US-Executive",
+          "text": "Vance：相信伊朗谈判正在取得进展",
+          "details": "Vance谈伊朗谈判：相信我们正在取得进展。",
+          "important": false
+        },
+        {
+          "actor": "伊朗总统",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗总统：敌人让我们屈服的梦想永远不会实现",
+          "details": "伊朗总统：敌人企图让我们的人民投降和屈服的梦想永远不会实现。",
+          "important": false
+        },
+        {
+          "actor": "科威特国防部",
+          "actor_type": "Foreign-Gov",
+          "text": "科威特指控IRGC渗透布比延岛，伊朗否认",
+          "details": "科威特国防部指控伊斯兰革命卫队人员企图利用租来的渔船渗透布比延岛。伊朗否认了这些指控，声称科威特军队非法拦截了一艘伊朗船只并拘留了四名伊朗公民。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "UKMTO"
+      ],
+      "date": "2026-05-14",
+      "image_urls": []
+    },
+    {
+      "id": "us-inflation-data-2026-05-14",
+      "topic": "美国通胀数据",
+      "topic_tag": "rates",
+      "title": "亚特兰大粘性CPI年化4.6%大幅跳升，核心PPI超预期",
+      "summary": "亚特兰大联储4月粘性CPI年化4.6%(前值2.4%)，同比3.1%；核心粘性4月年化4.8%，12个月3.0%。核心PPI环比1%(预期0.3%)，同比5.2%(市场预期4.3%)，预示更高消费者通胀仍在酝酿。",
+      "bullets": [
+        {
+          "actor": "亚特兰大联储",
+          "actor_type": "Central-Bank",
+          "text": "4月粘性CPI年化4.6%，前值2.4%大幅跳升",
+          "details": "亚特兰大联储的粘性价格消费者价格指数(CPI)——由价格变动相对缓慢的商品和服务组成的加权组合——4月份年化上涨4.6%，此前3月份上涨2.4%。同比来看该指数上涨3.1%。以核心价格(不包括食品和能源)计算，4月份粘性价格指数(年化)上涨4.8%，12个月的百分比变化为3.0%。",
+          "important": true
+        },
+        {
+          "actor": "El-Erian",
+          "actor_type": "KOL",
+          "text": "核心PPI环比1%大超预期，同比5.2%",
+          "details": "Erian：核心PPI也随之上涨1%(预期为0.3%)，使年度核心通胀率达到5.2%(市场普遍预期为4.3%)。虽然这种对应关系并非完全一致，但这些数字强烈表明，更高的消费者通胀仍在酝酿之中。",
+          "important": false
+        },
+        {
+          "actor": "Emma",
+          "actor_type": "KOL",
+          "text": "KOL：PPI超预期多与油价相关，Fed不会过度反应",
+          "details": "Emma PPI thoughts：1.导致大超预期的很多sub components都间接和油价有关，边际上是一个好消息；2.进入PCE的分项相对比较benign，PPI的超预期没有1 to 1 体现在April PCE上，缺点是像portfolio mgmt下个月会比较难看，所以这个月的拖累可能被look through；3.AI demand导致的electronic prices boost还是比较明显，但这也是street estimates相对计价比较充分的单项，PCE一直比CPI更多体现这一点；4.目前不觉得Fed会因为这份报告过度反应。",
+          "important": false
+        },
+        {
+          "actor": "Econstrat PB",
+          "actor_type": "KOL",
+          "text": "通胀偏离目标失业率达标，央行只能朝一个方向",
+          "details": "Econstrat PB：通胀率偏离目标，而失业率却符合目标。面对这种情况，央行官员实际上只能朝一个方向努力。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Atlanta Fed"
+      ],
+      "date": "2026-05-14",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-views-2026-05-14",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "GS推迟降息至2027，MS上调SPX目标至8300",
+      "summary": "GS认为全球通胀继续升温，美国核心PCE全年近3%，最后两次降息推迟至2026年12月与2027年3月，上调2Y/5Y美债收益率至3.40%/3.65%，KOSPI/TWSE目标升至9000/45000。MS将SPX 12个月目标由7800上调至8300(20.5x远期PE)，2026 EPS增速预测23%，超配工业/金融/可选消费/超大规模云。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS推迟Fed最后两次降息至2026/12与2027/3",
+          "details": "GS Macro认为全球通胀将继续升温，美国核心PCE全年料接近3%，将Fed最后两次降息预期推迟至2026年12月与2027年3月，并上调2Y和5Y美债收益率预测至3.40%与3.65%。受益于AI投资，韩国KOSPI和台湾TWSE目标分别升至9,000和45,000点。",
+          "important": true
+        },
+        {
+          "actor": "Morgan Stanley (Wilson)",
+          "actor_type": "Analyst",
+          "text": "MS将SPX 12个月目标上调至8300，2026 EPS+23%",
+          "details": "MS macro将SPX未来12个月目标价由7,800点上调至8,300点，对应20.5x远期市盈率，看好盈利强劲增长，预测2026年EPS增速达23%。Michael Wilson建议超配工业、金融、可选消费商品和超大规模云服务商，认为AI将推动经营杠杆并扩散盈利增长，近期市场调整已较充分定价风险。",
+          "important": false
+        },
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "MS：AI扩散速度决定劳动力替代，基准下失业率不大涨",
+          "details": "MS AI报告：AI扩散速度是决定劳动力替代风险的关键。基准情景下，AI采用速度为互联网时代的两倍，生产率年增速峰值提高2.0-4.5%，但失业率不会大幅上升。仅当扩散速度达互联网时代3-4倍时，失业率才可能上升约4%并引发长期通缩。报告认为这种速度极不现实，且忽略了任务创造、财富效应与政策反馈的缓冲作用。新任务创造和财富效应可显著降低转型成本，即使在快速扩散下，失业率升幅可缩减0.6-2.3%。报告认为AI转型更可能是渐进式积极供给冲击，有利于股票等风险资产。",
+          "important": false
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "DB：美1/3金融机构已用AI，岗位结构剧变",
+          "details": "DB AI：美国近三分之一金融机构已使用AI，仅次于信息业。AI代理正在重塑就业格局：BLS预测到2034年风力涡轮机服务技术员将增长50%，太阳能光伏安装员增长超40%，而文字处理员等岗位将下降超1/4。金融经理预计增长15%，但该预测在业界存争议。目前企业普遍采用AI\"增强\"而非\"替代\"员工，AI敏感岗位招聘已趋稳定，软件开发岗招聘甚至微升。",
+          "important": false
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "DB：印度黄金白银进口VAT由6%上调至15%",
+          "details": "DB：印度自5月13日起将黄金和白银进口增值税从6%上调至15%，逆转2024年降税举措。德意志银行认为此举对黄金需求的负面影响有限，因当前进口基数已处于低位(3月仅0.63M oz)，且未伴随资本利得税变动。2024年降税时进口激增主要受季节性放大的影响，而今夏季节性因素中性偏淡。报告同时指出，中国3月进口升至5.2M oz两年高位，支撑亚洲整体需求。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY"
+      ],
+      "image_indexes": [
+        3
+      ],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "MS",
+        "DB"
+      ],
+      "date": "2026-05-14",
+      "image_urls": [
+        "/uploads/2026-05-14/9c89439c5622.png"
+      ]
+    },
+    {
+      "id": "kol-market-views-2026-05-14",
+      "topic": "KOL市场观点",
+      "topic_tag": "macro-other",
+      "title": "Andy类比1998抢椅子，做空者停止才会见顶",
+      "summary": "Andy将当前类比1998年泡沫，基金都知道是泡沫但仍在抢椅子，应担心的是基金继续押注多头。@Dr_Gingerballs认为只有做空者停止做空时市场才会下跌，预计市场还将上涨更长时间。",
+      "bullets": [
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "Andy：类比1998泡沫，基金抢椅子继续押多头",
+          "details": "Andy：1998年也是一样的，各个fund和PM都知道是泡沫，就是一个抢椅子游戏，应该担心的是fund们继续全力押注多头。",
+          "important": true
+        },
+        {
+          "actor": "@Dr_Gingerballs",
+          "actor_type": "KOL",
+          "text": "做空者停止做空时市场才会下跌",
+          "details": "@Dr_Gingerballs：只有当做空者停止做空时，市场才会下跌。所以我猜市场还会上涨更长时间。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        1
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-14",
+      "image_urls": [
+        "/uploads/2026-05-14/7b5bd23374db.png",
+        "/uploads/2026-05-14/dbeccb90be0c.png"
+      ]
+    },
+    {
+      "id": "other-misc-2026-05-14",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "思科盘后涨19%；英国卫生大臣或挑战首相",
+      "summary": "思科尾盘一度涨19%，销售预测好于预期并计划裁员数千人聚焦AI。英国卫生大臣Wes Streeting准备辞职，并计划挑战现任首相Starmer的工党党魁地位，本周内或正式提出挑战。",
+      "bullets": [
+        {
+          "actor": "Cisco",
+          "actor_type": "Corporate",
+          "text": "思科盘后一度涨19%，销售指引超预期+裁员聚焦AI",
+          "details": "思科系统公司股价在尾盘交易中一度上涨19%，此前该公司公布了好于预期的销售预测，并宣布计划裁员数千人，以专注于快速增长的人工智能市场。",
+          "important": true
+        },
+        {
+          "actor": "Wes Streeting",
+          "actor_type": "Foreign-Gov",
+          "text": "英国卫生大臣或挑战首相Starmer工党党魁",
+          "details": "英国卫生大臣Wes Streeting正准备辞职，并计划挑战现任首相Keir Starmer的工党党魁地位，斯特里廷被视为工党内的\"右翼\"代表。他的盟友透露，他可能在本周内正式提出挑战。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "CSCO"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-05-14",
+      "image_urls": []
+    }
+  ]
+}
