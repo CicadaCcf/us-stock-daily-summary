@@ -1,0 +1,483 @@
+{
+  "topics": [
+    {
+      "id": "fed-speakers-mian-warsh",
+      "topic": "美联储",
+      "topic_tag": "fed",
+      "title": "Mian辞职 Warsh或入Board；Barr/Williams发声",
+      "summary": "Mian宣布辞职，Board席位可能由Warsh接任；他主张关注非货币因素和通胀数据偏差。Barr反对放宽流动性规则缩表，Williams认为中东不确定性下无需调整利率。",
+      "bullets": [
+        {
+          "actor": "Mian",
+          "actor_type": "Central-Bank",
+          "text": "Mian辞职，Board席位或由Warsh接替",
+          "details": "Mian辞职，Board席位换Warsh。Mian主张美联储应更好地考量非货币性因素及其对货币政策的影响，包括因移民减少导致的人口增长放缓带来的后果会抑制通胀；目前通胀数据的构建存在诸多偏差，重点强调投资组合管理费、软件中的构成与质量调整问题",
+          "important": true
+        },
+        {
+          "actor": "Barr",
+          "actor_type": "Central-Bank",
+          "text": "Barr：反对放宽流动性规则以缩表",
+          "details": "美联储正在调整B/S久期，以更好地匹配更广泛的国债市场；降低流动性要求只会加剧稳定性风险，放宽流动性规则以缩减B/S是不建议的",
+          "important": false
+        },
+        {
+          "actor": "Williams",
+          "actor_type": "Central-Bank",
+          "text": "Williams：中东不确定性下无需调整利率",
+          "details": "对近期通胀预期上升并不感到意外；长期通胀预期相当稳定；供应链压力引发担忧；鉴于中东战争带来的不确定性，他认为目前美联储没有必要考虑调整利率政策",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2,
+        3
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-15",
+      "image_urls": [
+        "/uploads/2026-05-15/69cf956f3b95.png",
+        "/uploads/2026-05-15/83ac2ac47c75.png"
+      ]
+    },
+    {
+      "id": "trump-china-summit",
+      "topic": "中美元首峰会",
+      "topic_tag": "policy",
+      "title": "特朗普高调宣传中美峰会成果；台湾、农产品、波音订单",
+      "summary": "特朗普称与习近平达成多项经济协议，包括中国采购200架波音飞机、大量美国农产品和美国石油；中国承诺不向伊朗提供军事装备。Rubio称中美就伊朗立场和台湾问题达成共识，Greer透露中国未来三年每年采购数百亿美元农产品。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普：中国将订购200架波音飞机、大量采购美农产品和石油",
+          "details": "中国不会向伊朗提供军事装备，并表示支持达成一项潜在的协议；中国预计将分阶段开放；中国预计将向波音公司订购200架飞机，中国预计将大量购买美国农产品，中国寻求购买美国石油，我们有机会创造一个更大合作与繁荣的未来",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Q1购入Nvidia/Oracle/MSFT/BA/COST等股票债券数千万美元",
+          "details": "Q1购买了多家美国大型公司的股票和债券，总额达数千万美元甚至更多。在Nvidia, Oracle, Microsoft, Boeing and Costco等公司分别购入了价值高达5m的股票",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "台湾问题不做承诺；对台军售'有可能是有可能否'",
+          "details": "没有就台湾问题做出任何承诺，将就对台军售做出决定，有可能是有可能否",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "赞习近平：做正事的人，从不开玩笑",
+          "details": "发帖抨击拜登，赞扬习近平；接触习近平主席后，感叹他是一位做正事的人，他从不会开玩笑，而是专心投入工作，就事论事，人们非常尊敬他。哪怕你要拍电影，去好莱坞专业公司，找选角都很难找到相似的",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "暗示峰会大豆和农产品采购后续公布",
+          "details": "宣传了他与中国领导人习近平为期两天的峰会达成的经济协议，暗示未来还将有更多关于大豆和农产品采购的消息公布",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "对华知识产权问题表示无奈",
+          "details": "对美国如何应对中国公司窃取美国知识产权的问题表示无奈：'我希望这个问题能得到解决。但他们已经这样做了50年了'",
+          "important": false
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "Rubio：中美就霍尔木兹不军事化达成一致",
+          "details": "特朗普和习近平已经就对伊朗的立场达成一致，中美双方一致认为霍尔木兹不应被'军事化'，中国反对在霍尔木兹海峡收费",
+          "important": false
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "Rubio：中国更愿台湾通过公投自愿合并",
+          "details": "关于台湾的政策保持不变，对台军售并非与中国谈判的主要焦点；我认为中国更倾向于让台湾自愿加入。在一个理想的世界里，他们希望台湾能通过某种投票或公投，达成合并。我觉得他们更愿意这样；我们认为通过武力或类似手段强迫这一点将是一个严重的错误",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "Bessent：将讨论成立非敏感领域'投资委员会'",
+          "details": "称将讨论成立'投资委员会'负责非敏感领域投资",
+          "important": false
+        },
+        {
+          "actor": "Greer",
+          "actor_type": "US-Executive",
+          "text": "Greer：贸易休战是否延长尚未决定；中国每年数百亿美元农产品采购",
+          "details": "尚未决定是否将去年10月开始的贸易休战协议（暂停征收三位数关税）延长至今年晚些时候到期之后；美国对半导体芯片的出口管制并非北京与中国官员讨论的主要议题；中国将执行项大豆协议，预计在未来三年内每年采购价值数百亿美元的农产品",
+          "important": false
+        },
+        {
+          "actor": "习近平/李强",
+          "actor_type": "Foreign-Gov",
+          "text": "习近平：中国开放大门只会越开越大",
+          "details": "习近平会见随同特朗普访华的美国企业家，表示中国开放的大门只会越开越大，欢迎美国企业加强合作；李强会见美国工商界代表，强调中美经贸合作重要性",
+          "important": false
+        },
+        {
+          "actor": "中国政经事实",
+          "actor_type": "KOL",
+          "text": "峰会无联合声明；春藕斋接待为特殊礼遇",
+          "details": "整个中美元首峰会看下来，不超会前预期，所有领域都应该是中规中矩，最重要的还是中美双边关系的定位变化；无联合声明。上一个开车队进中南海的美国人应该还是2019年的马斯克；选择春藕斋也是特殊礼遇，环境更加优雅，周边主要是第一代领导人毛刘的居住处，此前元首接待外宾主要以紫光阁、瀛台等为主，奥巴马14年在瀛台，特朗普17年在紫光阁",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "BA",
+        "NVDA",
+        "ORCL",
+        "MSFT",
+        "COST"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-05-15",
+      "image_urls": []
+    },
+    {
+      "id": "iran-hormuz-crisis",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美拒伊朗14点方案；霍尔木兹有限通行恢复",
+      "summary": "伊朗官方称美拒绝其14点书面方案；伊朗外长表示霍尔木兹对非交战国船只开放。海峡通行量自昨晚以来30艘船通过，含日本ENEOS的VLCC，但IRGC快艇活动激增至333艘。特朗普称对伊朗失去耐心，谈判陷僵局。",
+      "bullets": [
+        {
+          "actor": "伊朗官方",
+          "actor_type": "Foreign-Gov",
+          "text": "美拒绝伊朗14点方案，5项核心条件未获满足",
+          "details": "伊朗官方称美国已拒绝伊朗就结束战争提出的'14点'书面方案，并'重申其强硬立场'，尤其是在核问题上。据称伊朗的完整方案包含14项内容，但最高领袖指示谈判团队，如果其中5项条件（全面停战、解除经济制裁、解冻资产、支付战争赔偿、承认伊朗的Hormuz主权）得不到满足，就不要开始谈判",
+          "important": true
+        },
+        {
+          "actor": "Aragchi",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗外长：霍尔木兹对非交战国船只开放",
+          "details": "伊朗外长Aragchi表示霍尔木兹海峡对除交战国船只以外的所有船只开放，过境船只必须与我军协调。当冲突结束后，一切都将恢复正常，我们将与阿曼方面达成安全安排",
+          "important": false
+        },
+        {
+          "actor": "Aragchi",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗外长：美方前后矛盾是谈判主要障碍",
+          "details": "伊朗外长Aragchi表示，美国前后矛盾的信息是谈判的主要障碍，美国'无法通过军事行动实现其目标，但如果走外交途径，情况就会有所不同'；已收到美国方面的信息，称他们正在寻求继续进行对话。Aragchi证实已与俄罗斯就储存浓缩铀的提议进行会谈",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普：对伊朗失去耐心，可再次轰炸",
+          "details": "对伊朗不会再有耐心了，伊朗人必须达成协议；与伊朗就放弃核废料问题进行的谈判陷入僵局，伊朗领导人承认，只有美国和中国拥有提取埋藏核碎片的技术，伊朗的核'尘埃'可能会被转移到中国或美国，伊朗的浓缩铀可以埋起来，但我更希望得到它，另一种选择是再次轰炸这些设施并将其彻底摧毁，接受伊朗暂停核计划20年，但必须是一个'真实'的承诺；正在努力重新开放霍尔木兹海峡",
+          "important": false
+        },
+        {
+          "actor": "伊朗国家电视台",
+          "actor_type": "新闻",
+          "text": "30艘船通过霍尔木兹；Kpler数据11艘含2 VLCC",
+          "details": "伊朗国家电视台报道，自昨晚以来，伊朗已允许30艘船只通过霍尔木兹海峡，Kpler数据显示过去24小时约11艘，含两艘VLCC、五艘液化气船",
+          "important": false
+        },
+        {
+          "actor": "日本ENEOS",
+          "actor_type": "Corporate",
+          "text": "日本ENEOS VLCC通过海峡载1.9Mb原油",
+          "details": "日本ENEOS管理的巴拿马旗VLCC通过海峡，载1.2Mb科威特原油 + 0.7Mb阿联酋Das Blend，预计6/3到日本。日方明确表态未向伊朗支付通行费",
+          "important": false
+        },
+        {
+          "actor": "Windward",
+          "actor_type": "Corporate",
+          "text": "Kharg码头5/7以来首次确认装载；333艘IRGC快艇活动",
+          "details": "海事数据公司Windward周四表示，一艘巴拿马型油轮正在Kharg装载货物，这是自5/7以来，伊朗这个重要的石油码头首次确认装载货物。Windward数据显示，周四约有333艘与IRGC有关的快艇在霍尔木兹海峡活动，本周该海峡活动的快艇数量激增",
+          "important": false
+        },
+        {
+          "actor": "伊朗国内",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗总统接见男足，入境是否受阻未定",
+          "details": "伊朗给男足送行、总统接见队员，入境是否会有问题，还不确定",
+          "important": false
+        },
+        {
+          "actor": "沙特",
+          "actor_type": "Foreign-Gov",
+          "text": "沙特讨论中东国家与伊朗签互不侵犯条约",
+          "details": "沙特阿拉伯已讨论中东国家与伊朗之间签订互不侵犯条约的想法，无以色列",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "中国外交部含蓄批评美伊战争",
+          "details": "WSJ报道中国政府对美国与伊朗的战争进行了含蓄的批评。外交部在一份声明中表示：'这场原本就不应该发生的战争没有必要继续下去'",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-05-15",
+      "image_urls": []
+    },
+    {
+      "id": "boj-yields-rate-hike",
+      "topic": "日本央行",
+      "topic_tag": "rates",
+      "title": "日债收益率全线攀升，近2/3经济学家预期6月加息至1%",
+      "summary": "日本国债收益率全线攀升，市场预期BOJ将在通胀压力加剧下加息，近2/3经济学家预计6月将基准利率上调至1.0%。财相片山五月称无需编制额外预算，称收益率上升是全球趋势的一部分。",
+      "bullets": [
+        {
+          "actor": "市场",
+          "actor_type": "新闻",
+          "text": "日债收益率全线攀升，近2/3经济学家预期6月加息至1%",
+          "details": "日本yield全线攀升，市场预期BOJ将在通胀压力不断加剧的情况下加息，近2/3的经济学家认为，BOJ将在6月份将基准利率上调至1.0%",
+          "important": true
+        },
+        {
+          "actor": "片山五月",
+          "actor_type": "Foreign-Gov",
+          "text": "日财相：无需编制额外预算，收益率上升是全球趋势",
+          "details": "财务大臣片山五月重申，政府目前无需编制额外预算，并补充说，近期日本国债收益率上升是全球整体趋势的一部分",
+          "important": false
+        },
+        {
+          "actor": "Whitney Baker",
+          "actor_type": "KOL",
+          "text": "Whitney Baker：日本须出售外汇储备换日元消化长债",
+          "details": "日本需要做的非常明确。他们需要出售外汇储备换成日元，然后用这些日元来消化长期债务。这可以解决他们的货币和债券/供求问题。这最终也是他们会采取的行动",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-15",
+      "image_urls": []
+    },
+    {
+      "id": "uk-labour-leadership",
+      "topic": "英国工党",
+      "topic_tag": "policy",
+      "title": "Wes Streeting辞职参选党魁；Burnham回归挑战",
+      "summary": "工党卫生大臣Wes Streeting辞职参与党魁竞选；曼彻斯特市长Andy Burnham决定在Makerfield补选重返议会。Burnham属soft left，主张放松财政规则、增加公共开支；Streeting承诺财政纪律。Starmer净满意度跌至英国首相史上最低。",
+      "bullets": [
+        {
+          "actor": "工党",
+          "actor_type": "Foreign-Gov",
+          "text": "Burnham回归挑战Makerfield补选；Streeting辞职参选党魁",
+          "details": "Makerfield现任工党议员Josh Simons即将辞职，工党内部Andy Burnham（目前曼彻斯特市长）决定在Makerfield选区参加补选，挑战重返议会，他在工党内部威望和支持度很高，个人属于soft left，强调地方主义、民生、增加公共开支，对财政规则相对灵活（曾批评英国'太依赖债券市场'）。UK卫生大臣Wes Streeting辞职，参与工党领袖竞争",
+          "important": true
+        },
+        {
+          "actor": "Bloomberg Economics",
+          "actor_type": "Analyst",
+          "text": "Burnham vs Streeting政策对比：放松财政规则 vs 财政纪律",
+          "details": "Burnham (soft-left)：愿意放松财政规则，认为政府过于依赖债券市场；下调基本税率、提高高收入/财富/房产税；支持借债扩大公共住房；移民立场宽松；推动更紧密的欧盟一致，未排除重新加入单一市场；支持增加国防开支并豁免财政规则。Streeting：不太可能偏离当前规则，承诺财政纪律；不愿大幅加税但历史支持资本利得税与所得税对齐及遗产税改革；优先效率而非扩张；支持减少净移民；支持重新加入欧盟关税同盟但排除单一市场；通过节支（可能福利预算）增加国防开支",
+          "important": false
+        },
+        {
+          "actor": "Ipsos",
+          "actor_type": "Analyst",
+          "text": "Starmer净满意度约-75，英国首相史上最低",
+          "details": "Starmer的净满意度评级降至约-75，似乎是1980年以来所有英国首相图表中的最低点。该评级通过对工作不满意者占比减去满意者占比计算得出",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        4,
+        5
+      ],
+      "importance": 2,
+      "sources": [
+        "Bloomberg",
+        "Ipsos"
+      ],
+      "date": "2026-05-15",
+      "image_urls": [
+        "/uploads/2026-05-15/b982ec8f670d.png",
+        "/uploads/2026-05-15/27bb5defc716.png"
+      ]
+    },
+    {
+      "id": "sellside-views",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "GS：风险偏好达P99；BofA：降息推迟至27H2；UBS油市",
+      "summary": "GS指出RAI与股票动量同时处于1991以来P99，自2000年以来首次；BofA将首次降息预期推后至2027H2，并主张资产配置转向通胀繁荣/滞胀崩溃双情景；UBS观察霍尔木兹油气油轮通过反弹但伊朗原油装载仍极低。",
+      "bullets": [
+        {
+          "actor": "BofA Jared Woodard",
+          "actor_type": "Analyst",
+          "text": "BofA：首次降息预期推迟至2027H2，企业利润增26%",
+          "details": "将Fed首次降息预期推迟至2027年下半年，而美国企业利润同比增长26%，为2021年以来最快。劳动力市场展现韧性，就业结构改善，青年失业率（20-24岁）已连续六个月下降，处于两年低点。AI推动生产力提升可能反而刺激企业扩大招聘。信用卡数据显示4月支出同比增长4.8%，环比上升0.6%；工资增长在高低收入家庭中均加快。退税规模同比增加$43B，远超因油价上涨导致的$19B额外成本，全年税收相关刺激总额近$140B。资产配置应从'长期停滞'转向'通胀繁荣与滞胀崩溃'双情景准备，30年期美债收益率升至5%是关键催化剂",
+          "important": true
+        },
+        {
+          "actor": "GS Andrea Ferrario",
+          "actor_type": "Analyst",
+          "text": "GS：RAI与动量同处P99，2000年来首次",
+          "details": "风险偏好指标（RAI）与股票动量均攀升至历史极端高位，达到2021年以来最高，处于1991年以来P99。当前市场环境自2000年来首次同时出现两者如此高企。回溯自1962年以来8次类似事件（RAI > 0.9且美股动量z值 > 2.0），发现标普500远期回报平均为正但幅度有限，且上行和下行的极端回报概率均下降，小幅修正的频率增加",
+          "important": false
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "UBS：霍尔木兹油气油轮通过反弹至日均2.9艘但远低2月50艘",
+          "details": "伊朗据报允许部分中国船只以及一艘日本相关原油油轮通过海峡。核心边际变化是油气油轮通过霍尔木兹海峡的数量在周三反弹至6艘，5月至今日均2.9艘，已接近4月日均3.0艘，但仍远低于2月接近每日50艘的水平。供给侧压力仍未解除：前一日伊朗原油装载为零，5月至今日均仅约0.4Mb/d，明显低于4月1.5Mb/d和3月1.7Mb/d；海峡外的延布和富查伊拉装载有所增加，过去一周合计出口约6.3Mb/d，接近6.5Mb/d的预期水平。报告同时指出，近期GPS信号欺骗增加使航运数据分析更复杂，而曼德海峡油气流量仍处正常区间",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "BofA",
+        "UBS"
+      ],
+      "date": "2026-05-15",
+      "image_urls": []
+    },
+    {
+      "id": "kol-views",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "Herman/Weilingling/Andy峰会与对华关税解读",
+      "summary": "Herman称对华关税或全面休战延长、芬太尼关税完全取消、科技管制实质松绑；Weilingling认为习近平把峰会视为多年战略稳定框架开端，BA订单10年已售罄；Andy做空巨亏转观望。",
+      "bullets": [
+        {
+          "actor": "Herman",
+          "actor_type": "KOL",
+          "text": "Herman：对华关税或全面休战延长，科技管制实质松绑",
+          "details": "整个对华关税可能全面休战延长。芬太尼完全取消，24%惩罚关税继续延期，实质松绑科技管制：如暂停301调查、穿透性芯片管制。成熟制程芯片、设备全部开放，除了EUV几乎中国要的全给了",
+          "important": true
+        },
+        {
+          "actor": "Weilingling",
+          "actor_type": "KOL",
+          "text": "Weilingling：习近平视峰会为多年战略稳定框架开端",
+          "details": "特朗普来谈判是为了达成协议，而习近平来是为了阐述战略。北京将此次峰会视为迈向多年'战略稳定'框架的开端——习近平试图以此确保特朗普在其剩余任期乃至之后的行动更加可预测。BA未来十年的订单实际上已经'售罄'。所以，如果中国今天订购200架飞机，什么时候才能交付……漫长的交付周期会给北京更多取消或推迟订单的机会",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "Andy：做空股票损失惨重，转持观望",
+          "details": "做空股票损失惨重，现在对股票市场持观望态度",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "BA"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-05-15",
+      "image_urls": []
+    },
+    {
+      "id": "other-news",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "五角大楼经费危机；OpenAI拟诉苹果；Anthropic论中国AI威胁；CSCO裁员",
+      "summary": "五角大楼或夏季面临行动经费短缺；OpenAI与律所合作准备起诉苹果；Anthropic发表论文称中国AI公司可能反超；Anthropic融资由Dragoneer/Greenoaks/Sequoia/Altimeter领投；SpaceX招股书或下周发布；思科裁员5%转向AI；普京5/20访华；ETF资金流SOXL录得史上最大流入。",
+      "bullets": [
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "五角大楼夏季可能面临行动经费短缺",
+          "details": "WSJ报道五角大楼领导人表示，除非国会通过新的战时开支法案，否则他们今年夏天可能就会面临行动经费短缺的问题",
+          "important": true
+        },
+        {
+          "actor": "OpenAI",
+          "actor_type": "Corporate",
+          "text": "OpenAI与律所合作准备起诉苹果",
+          "details": "OpenAI与律所合作，准备对苹果公司采取法律行动",
+          "important": false
+        },
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic：中国AI公司可能追上甚至反超",
+          "details": "Anthropic发表论文阐述中国AI竞争威胁，中国AI公司有人才、数据、能源等优势，唯一短板是没有足够先进的国产算力和资本，认为中国可能追上甚至反超",
+          "important": false
+        },
+        {
+          "actor": "FT",
+          "actor_type": "新闻",
+          "text": "Anthropic融资由Dragoneer/Greenoaks/Sequoia/Altimeter领投",
+          "details": "FT报道投资者Dragoneer、Greenoaks、Sequoia Capital和Altimeter Capital将共同领投Anthropic的融资轮",
+          "important": false
+        },
+        {
+          "actor": "CNBC",
+          "actor_type": "新闻",
+          "text": "SpaceX招股书最早下周发布",
+          "details": "CNBC报道SpaceX IPO招股说明书最早可能下周发布",
+          "important": false
+        },
+        {
+          "actor": "思科",
+          "actor_type": "Corporate",
+          "text": "思科裁员近4000人(5%)，转向AI芯片/光学/安全",
+          "details": "CSCO宣布裁员近4k(5%)，以便将投资转向人工智能相关的芯片、光学和安全领域",
+          "important": false
+        },
+        {
+          "actor": "普京",
+          "actor_type": "Foreign-Gov",
+          "text": "普京预计5/20访华一天",
+          "details": "俄罗斯总统普京预计5/20访华一天",
+          "important": false
+        },
+        {
+          "actor": "ETF资金流",
+          "actor_type": "新闻",
+          "text": "SOXL录得史上最大单日流入",
+          "details": "ETF 1日资金流：DRAM +1767.63M、ARKK +1338.61M、IVV +1193.20M、ARKQ +600.95M、VOO +598.50M、XLV +520.78M、TQQQ +405.66M、IWM +395.65M。Direxion Daily Semiconductor Bull 3X ETF (SOXL)录得史上最大单日流入约+1500M（标注Biggest inflow in SOXL on record），SOXS流出-229M，TQQQ流入+161M",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "AAPL",
+        "CSCO",
+        "NVDA"
+      ],
+      "image_indexes": [
+        0,
+        1
+      ],
+      "importance": 2,
+      "sources": [
+        "WSJ",
+        "FT",
+        "CNBC",
+        "ZeroHedge"
+      ],
+      "date": "2026-05-15",
+      "image_urls": [
+        "/uploads/2026-05-15/ba83f5064ced.png",
+        "/uploads/2026-05-15/8beae7da5805.jpg"
+      ]
+    }
+  ]
+}
