@@ -1,0 +1,463 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "Trump倒计时施压伊朗 周二讨论军事打击 UAE核电站遭无人机袭击",
+      "summary": "美伊谈判进入关键期：Trump公开警告伊朗\"倒计时已至\"，AXIOS/CNN称Trump周二将与国安团队讨论对伊军事行动，但其本人仍倾向外交。Fars披露美方五项条件包括交出高浓铀。UAE巴拉卡核电站外围发电机遭无人机袭击起火，地区升级风险加剧；以色列进入最高战备。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "称伊朗倒计时已至 必须迅速行动否则一无所有",
+          "details": "Trump表示伊朗有意达成协议，不知道能否很快与伊朗达成协议；如不能达成，伊朗将面临非常糟糕的时期；伊朗的倒计时已经来临，必须迅速行动，否则\"将一无所有\"；他宣称\"时间至关重要\"。并称\"伊朗渴望签署协议。但他们真的达成了协议，然后却给你一份与协议内容毫无关联的文件。我会说，'你们疯了吗？'\"",
+          "important": true
+        },
+        {
+          "actor": "AXIOS",
+          "actor_type": "新闻",
+          "text": "Trump周二将与国安团队讨论对伊朗军事行动",
+          "details": "AXIOS报道Trump寻求达成协议结束战争，而伊朗拒绝做出任何可能使军事选项重回谈判桌的让步；预计Trump将于周二与国家安全团队举行会议，讨论对伊朗采取军事行动。",
+          "important": false
+        },
+        {
+          "actor": "CNN",
+          "actor_type": "新闻",
+          "text": "Trump与五角大楼推动定点打击 但其本人最倾向外交",
+          "details": "CNN报道Trump和五角大楼的官员正在推动定点打击，而其他人则主张通过外交途径解决问题；总统拥有所有可行的选择，但他最倾向的选择是外交手段。",
+          "important": false
+        },
+        {
+          "actor": "以色列国家媒体",
+          "actor_type": "新闻",
+          "text": "Trump可能周末决定是否对伊朗军事行动",
+          "details": "以色列国家媒体称Trump可能周末决定是否对伊朗实施军事行动，以色列对可能再次与伊朗爆发战争保持最高警戒状态；如战争再次爆发，伊朗很可能在最初几天内向以色列发射数十枚导弹作为回应。以色列广播管理局：鉴于与伊朗可能再次爆发战争，内塔尼亚胡今晚召开了一次有限的安全会议。",
+          "important": false
+        },
+        {
+          "actor": "Fars通讯社",
+          "actor_type": "新闻",
+          "text": "DC对伊提议列出五项条件 含交出高浓铀",
+          "details": "Fars通讯社报道，DC在对伊朗提议的回应中列出了五项关键条件，包括不向伊朗支付赔偿金，以及伊朗交出其高浓缩铀库存，伊朗仅保留一座核设施的运行，尚未同意释放25%的被冻结伊朗资产。",
+          "important": false
+        },
+        {
+          "actor": "伊朗外交部",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗已通过巴基斯坦提交14点谈判文本",
+          "details": "伊朗外交部发言人称伊朗现阶段的重点是结束战争；已经通过巴基斯坦提交14点谈判文本，在巴基斯坦的斡旋下，谈判进程仍在进行中；与包括阿联酋在内的该地区任何国家都没有敌意；伊朗正与阿曼及所有相关各方保持持续联系，讨论霍尔木兹海峡机制问题。",
+          "important": false
+        },
+        {
+          "actor": "Ghalibaf / Aragchi",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗官员强调抵抗与海峡管控立场",
+          "details": "Ghalibaf称如习近平所言百年大变局，伊朗人民70天的抵抗加速了这一变革，未来属于全球南方国家。Aragchi警告美国面临经济反噬，并重申对霍尔木兹海峡的管控立场。",
+          "important": false
+        },
+        {
+          "actor": "UAE",
+          "actor_type": "Foreign-Gov",
+          "text": "巴拉卡核电站外围发电机遭无人机袭击起火",
+          "details": "阿联酋巴拉卡核电站外围一台发电机发生火灾，据称火灾由无人机袭击引发，无人受伤，对辐射安全水平没有影响；UAE称这预示着危险的升级，这是恐怖主义行为，以民用设施和重要基础设施为目标，公然违反国际法。",
+          "important": false
+        },
+        {
+          "actor": "伊朗",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗将公布霍尔木兹海峡交通规划与服务费",
+          "details": "伊朗称将公布霍尔木兹海峡交通规划，包括指定航线和服务费，只有与德黑兰合作的商船和相关方才能从这项安排中受益。日度通行：5/15 17:30 - 5/16 17:30 共11艘，其中1艘出湾Tanker，2艘进湾Tanker。",
+          "important": false
+        },
+        {
+          "actor": "FT",
+          "actor_type": "新闻",
+          "text": "Trump 400亿海峡船舶保险计划实际业务为0",
+          "details": "FT报道总统推出的40B霍尔木兹海峡船舶保险计划在启动两个月后，实际业务量依然为0，原因是：该保险计划有一个关键的前置条件，船只必须在美国海军的护航下通过。",
+          "important": false
+        },
+        {
+          "actor": "Mike Waltz",
+          "actor_type": "US-Executive",
+          "text": "总统访华成果之一是北京同意与伊朗保持距离",
+          "details": "Mike Waltz称总统访华的一项重大成果是北京同意与伊朗保持距离。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "AXIOS",
+        "CNN",
+        "Fars",
+        "FT",
+        "以色列国家媒体"
+      ],
+      "date": "2026-05-18",
+      "image_urls": []
+    },
+    {
+      "id": "trump-xi-summit",
+      "topic": "中美元首会晤",
+      "topic_tag": "policy",
+      "title": "Trump-习会晤：台湾不承诺 波音订单750架 中方公布初步成果",
+      "summary": "Trump在与习近平会谈中称未就台湾问题做出任何承诺，并称中国承诺在200架之外再购买750架波音飞机及400-450台GE发动机。中国商务部就经贸初步成果答记者问，双方就关税、贸投理事会、农产品非关税壁垒、双向贸易、飞机采购等达成共识。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "未就台湾做出任何承诺 不鼓励台独 不想跋涉9500英里打仗",
+          "details": "Trump在与习近平的会谈中未就台湾问题做出\"任何承诺\"，不鼓励台湾\"独立\"，\"不想跋涉9500英里去打仗\"。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "中国除200架外再购买750架波音 含400-450台GE发动机",
+          "details": "除了200架波音飞机，中国承诺再购买多达750架波音飞机，他相信这是迄今为止最大的订单，还将涉及400-450台GE的发动机。这次是一次非常历史性的访问。",
+          "important": false
+        },
+        {
+          "actor": "中国商务部",
+          "actor_type": "Foreign-Gov",
+          "text": "中美经贸磋商初步成果：关税安排/贸投理事会/农产品/飞机",
+          "details": "中国商务部新闻发言人就中美经贸商初步成果答记者问，双方在韩国举行经贸磋商，就关税安排、成立贸易和投资理事会、解决农产品非关税壁垒、扩大双向贸易、飞机采购及发动机等达成共识。",
+          "important": false
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "总统宣布某些芯片可出售 是否接受取决于中国",
+          "details": "Rubio支持Vance；总统宣布某些芯片可以出售，是否接受取决于中国，但我认为我们必须始终确立我们的优势领域，即尖端技术。",
+          "important": false
+        },
+        {
+          "actor": "John Bourscheid",
+          "actor_type": "KOL",
+          "text": "KOL点评：中国拿好处 美国只换来不具约束力订单",
+          "details": "John Bourscheid：中国获得无尽的赞扬、贸易让步、购买美国农田的支持、5M学生签证、AI芯片、伊朗石油价格下跌；美国获得波音公司一份规模只有预期一半的（不具约束力的）订单，以及购买大豆的模糊承诺。",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "国内主流媒体撤稿H200新闻 京东下架H100等自营销售",
+          "details": "新浪、搜狐、腾讯新闻在内的主流媒体已经撤稿放开H200新闻。京东也已下架昨晚上线的H100、A100、H800自营销售。",
+          "important": false
+        },
+        {
+          "actor": "Kremlin",
+          "actor_type": "Foreign-Gov",
+          "text": "普京将于5/19-20访华",
+          "details": "普京将于5/19-20访问中国。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "BA",
+        "GE"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-05-18",
+      "image_urls": []
+    },
+    {
+      "id": "fed-warsh-transition",
+      "topic": "美联储主席更替",
+      "topic_tag": "fed",
+      "title": "Board任命Powell为临时主席 Warsh即将宣誓接任",
+      "summary": "美联储Board任命Powell为临时主席直至Warsh宣誓就任新主席。Erian、DB Tarman等讨论Warsh上台后面临的内部分歧、通胀超预期及伊朗冲击下的困境，普遍认为短期内全面hold、降息预期被高估。",
+      "bullets": [
+        {
+          "actor": "Fed Board",
+          "actor_type": "Central-Bank",
+          "text": "Board任命Powell为临时主席 直至Warsh就任",
+          "details": "美联储Board任命Powell为临时主席，直至Warsh宣誓就任新主席。",
+          "important": true
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "KOL",
+          "text": "不认同降息可能性高 Warsh面临严重分裂FOMC",
+          "details": "Erian并不认同那些认为cut可能性很高的观点。Warsh接手的是一个内部严重分裂的FOMC，任何新任主席都需要时间来确立自己对委员会的权威。仅仅关注cut是误解了Fed的处境以及其下一任领导人将面临的挑战的规模。Warsh最终的政绩将取决于他对中央银行改革的成效——运营现代化、恢复内部合规文化、改善沟通、建立更严格的资产负债表管理框架。",
+          "important": false
+        },
+        {
+          "actor": "DB Ozan Korman Tarman",
+          "actor_type": "Analyst",
+          "text": "Warsh处境艰难 倾向Fed全面hold",
+          "details": "Warsh上台后回面临很艰难的处境：一方面FOMC内部分歧AI通缩无法说服同事；第二通胀持续超预期且伊朗战争结束不取决于Fed；第三Besant本人近期也在淡化降息必要性，可能为Warsh提供一定的政治掩护空间。倾向于认为全面Fed保持hold。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-18",
+      "image_urls": []
+    },
+    {
+      "id": "trump-domestic-policy",
+      "topic": "Trump国内政策",
+      "topic_tag": "policy",
+      "title": "Trump推SAVE Act选民身份法 财政部俄油豁免到期",
+      "summary": "Trump试图将SAVE America Act附加到必过的住房法案及FISA 702延期案中，称为中期选举前第一优先。财政部允许俄罗斯海运石油制裁豁免周六到期，结束印度等国继续购买俄油的临时许可。国务院延长以色列-黎巴嫩停火45天。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "推SAVE America Act附加住房法案与FISA 702 列第一优先",
+          "details": "Trump推动一项新策略，试图将SAVE America Act（联邦选举中推行新的选民身份识别和公民身份证明要求）附加到两党必须通过的住房法案和《外国情报监视法案》702条授权延期案中，表示在即将到来的中期选举前，通过该法案是他的\"第一优先事项\"。",
+          "important": true
+        },
+        {
+          "actor": "美国财政部",
+          "actor_type": "US-Executive",
+          "text": "俄罗斯海运石油制裁豁免周六到期",
+          "details": "财政部允许对俄罗斯海运石油的制裁豁免于周六到期，结束了印度等国继续购买俄罗斯原油的临时许可。",
+          "important": false
+        },
+        {
+          "actor": "美国国务院",
+          "actor_type": "US-Executive",
+          "text": "以黎停火延长45天",
+          "details": "国务院宣布以色列和黎巴嫩的\"停火\"延长45天，以便进行更多谈判。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-18",
+      "image_urls": []
+    },
+    {
+      "id": "japan-supplementary-budget",
+      "topic": "日本财政",
+      "topic_tag": "rates",
+      "title": "日本补充预算应对中东油价 5/18发行2.5万亿日元31年期国债",
+      "summary": "日本发布补充预算应对中东能源价格上涨，5/18将发行2.5万亿日元、31年到期、票面2%的债券。",
+      "bullets": [
+        {
+          "actor": "日本政府",
+          "actor_type": "Foreign-Gov",
+          "text": "5/18发行2.5T日元 31年期 2%票面债券",
+          "details": "日本发布补充预算以应对中东能源价格上涨，将于5/18发行2.5T日元、31年到期、票面2%的债券。",
+          "important": true
+        },
+        {
+          "actor": "DB Ozan Korman Tarman",
+          "actor_type": "Analyst",
+          "text": "美债年初至今抛售主因来自英国与日本利空冲击",
+          "details": "GS GRT/DB观点：今年迄今为止美国国债的抛售主要反映了来自英国和日本的利空冲击；不愿完全排除国内因素的影响，因为增长乐观情绪和通胀上行风险的叠加削弱了市场对美联储降息可能性的信心。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-18",
+      "image_urls": []
+    },
+    {
+      "id": "uk-politics-starmer",
+      "topic": "英国政治",
+      "topic_tag": "macro-other",
+      "title": "Daily Mail爆料Starmer计划辞职 Burnham支持现行财政规则",
+      "summary": "Daily Mail爆料Starmer私下告诉朋友们计划辞职，并制定离开唐宁街10号的有序时间表，可能在6/18补选之前。Burnham表态支持英国现行财政规则。",
+      "bullets": [
+        {
+          "actor": "Daily Mail",
+          "actor_type": "新闻",
+          "text": "Starmer私下计划辞职 或在6/18补选前离开唐宁街",
+          "details": "Daily Mail爆料Starmer私下告诉朋友们，他计划辞职，并制定离开唐宁街10号的\"有序时间表\"，可能在6/18补选之前。",
+          "important": true
+        },
+        {
+          "actor": "Andy Burnham",
+          "actor_type": "Foreign-Gov",
+          "text": "支持现行财政规则与降低债务计划",
+          "details": "Andy Burnham表示，他支持英国现行的财政规则即对借贷和支出进行自我限制，以及\"降低债务的计划\"。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "Daily Mail"
+      ],
+      "date": "2026-05-18",
+      "image_urls": []
+    },
+    {
+      "id": "rates-curve-views",
+      "topic": "利率曲线观点",
+      "topic_tag": "rates",
+      "title": "10Y破4.5%叙事：熊平/熊陡之辩 市场开始计价U6U7加息",
+      "summary": "多家卖方与KOL讨论利率曲线：Emma称市场开始计价U6U7加息，Warsh年底至明年上半年可能被迫重启加息；Warren Pies看熊陡；DB Tarman认为10Y破4.5%是多重短期冲击叠加，仓位高度集中，伊朗协议或触发快速逆转。",
+      "bullets": [
+        {
+          "actor": "Emma",
+          "actor_type": "KOL",
+          "text": "市场开始计价U6U7加息 短端yields下行需地缘缓和/Fed鸽派/数据走弱",
+          "details": "Emma：过去数周市场以bear flattening为主，但本轮出现两个结构性变化：(1) front end bear steepening，2s10s steepened约5bps，市场开始计价U6U7段加息——Warsh上任初期难以立即行动，但若今年经济保持强劲，美联储可能落后于通胀曲线，被迫在年底至明年上半年重启加息；(2) 2s5s明显steepening，5s30s轻微flattening，加息定价已深入蔓延至5年段，convexity long逻辑。后市短期内yields下行需以下之一发生：地缘缓和或油价大跌（50%），Fed明确communicate加息场景（30%），数据温和走弱、selloff收敛类似去年8月初剧本（20%）。",
+          "important": true
+        },
+        {
+          "actor": "DB Ozan Korman Tarman",
+          "actor_type": "Analyst",
+          "text": "10Y破4.5%是多重短期冲击叠加 仓位高度集中易反转",
+          "details": "10Y破4.5%不是进入新体制，更多是多重短期冲击叠加的结果，包括伊朗战争制造\"战争通胀\"（warflation）叙事，本周PPI和CPI相继超预期，全球财政扩张加速、英国政治动荡以及对\"清单2.0\"的担忧共同叠加；若霍尔木兹海峡在7月4日乃至劳动节后仍实际关闭，则将从\"一粒乌龙球\"演变为\"输掉比赛\"，届时才构成真正的利率体制转换；但若局势在未来数周内缓和，中期仍具备回调基础。当前利率市场仓位结构高度集中，拥挤交易转换速度大幅加快——去年12月主流是\"buy欧洲和英国短端\"，现在整艘船完全倒向\"pay短端\"押注央行被迫加息；一旦触发逆转信号（例如Trump宣布伊朗协议），最初级的pod基金将率先触发止损，逐级传导，释放过程极为迅速。",
+          "important": false
+        },
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "熊平将转为熊陡 强增长+债务融资资本支出也是债市问题",
+          "details": "Warren Pies：通胀是债券市场的一个问题，他们很快就会意识到，强劲的经济增长和债务融资的资本支出热潮同样也是债券市场的问题。届时，熊平（短期涨幅最大）的趋势将转变为熊陡（长期涨幅最大）的趋势。",
+          "important": false
+        },
+        {
+          "actor": "Rishi Mishra",
+          "actor_type": "KOL",
+          "text": "2s5s熊陡需数据火热且Fed鸽派 否则熊平",
+          "details": "Rishi Mishra：2s5s要bear steepen（熊陡）的两个必要条件1)数据持续火热 2)Fed口风相对鸽派，否则大概率是熊平。",
+          "important": false
+        },
+        {
+          "actor": "GS GRT",
+          "actor_type": "Analyst",
+          "text": "暂时看涨债券但限制抛售风险 等深抛或能源回落催化",
+          "details": "GS GRT：考虑到能源价格可能需要更剧烈的飙升才能在短期内重新引发对增长的担忧，认为目前采取看涨但限制进一步抛售风险的策略是审慎之举。将寻找两种情况：一是出现更深层次的抛售，从而更持久地挑战风险资产趋势；二是出现可信的缓解措施和能源价格回落，以此作为增加长期国债配置的催化剂。供应侧波动性的回归以及市场乐观的增长基调都表明，通胀曲线存在更高的风险溢价；若海峡中断持续到6月以后，库存下降可能在夏季达到极限，届时可能需要更高的价格来刺激需求进一步萎缩。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "GS",
+        "DB"
+      ],
+      "date": "2026-05-18",
+      "image_urls": []
+    },
+    {
+      "id": "sell-side-equity-views",
+      "topic": "卖方股票观点",
+      "topic_tag": "earnings",
+      "title": "GS：SPX一月14新高但广度收窄 动能Z-score破3 AI非泡沫但杠杆ETF放大风险",
+      "summary": "GS US Weekly Kickstart指出SPX过去一个月14个新高伴随广度收窄、动能飙升，类似历史模式短期强但中期疲软；2026/2027 EPS年初至今上调8%，剔除AI基建与能源后2027 EPS基本持平。GS Shawn Tuteja认为AI非传统泡沫但杠杆ETF放空Gamma结构放大风险，下一炒作主题为液冷。GS Global Market Views担忧AI估值集中与外推谬误。",
+      "bullets": [
+        {
+          "actor": "GS US Weekly Kickstart",
+          "actor_type": "Analyst",
+          "text": "SPX一月14新高 广度收窄+动能飙升 中期股市疲软",
+          "details": "在过去一个月里，AI交易的强劲势头推动SPX创下14个新高，而与此同时，市场广度收窄，动能指数却大幅飙升；过去类似的强劲动能上涨行情通常预示着短期动能走强，但中期股市疲软。近期股市上涨势头很大程度上与近期盈利预期飙升有关——SPX 2026年和2027年的Bottom-up consensus EPS预期年初至今均上调了8%。剔除人工智能基础设施和能源公司后，SPX 2027年的每股收益预期年初至今基本持平。",
+          "important": true
+        },
+        {
+          "actor": "GS Shawn Tuteja",
+          "actor_type": "Analyst",
+          "text": "AI非传统泡沫但杠杆ETF做空Gamma放大下跌 下一主题液冷",
+          "details": "AI板块不构成传统意义上的泡沫，超大规模云服务商的资本开支承诺及半导体盈利具有坚实的基本面支撑，调整不会将股价拉回两年前水平。但风险来自结构性杠杆——GS风险偏好指标处于五年高点，PB中半导体敞口每天创新高；市场上已大量推出针对半导体的2倍、3倍杠杆ETF，这类产品本质上是\"做空Gamma\"结构——上涨时收盘前追买，下跌时追卖。一旦出现基本面负面催化（本应只跌3%的股票），去杠杆力量叠加完全可能将跌幅放大至10%。AI在设备、内存、光学后的下一个炒作主题将是液冷。",
+          "important": false
+        },
+        {
+          "actor": "GS Global Market Views",
+          "actor_type": "Analyst",
+          "text": "AI估值担忧 科技投资占GDP比重超90年代末峰值",
+          "details": "Q2 AI可持续性担忧消散，目前科技投资占GDP的比重已超过上世纪90年代末的峰值，但由于企业利润创历史新高，当时预示经济危机的宏观失衡尚未显现。AI狂热推高了相关公司的累计价值，但也加剧了市场对效益能否兑现、以及收益过度集中在Chip layer是否可持续的担忧。市场需警惕陷入\"聚合谬误\"或\"外推谬误\"，谨防估值过高。伊朗停火使市场下行尾部风险减少，风险溢价压缩，但更深层次下行尾部风险（中东敌对再起或霍尔木兹长期关闭）仍被市场低估。由于通胀高企且劳动力市场未走弱，全球央行宽松政策难度增加，长期利率下降空间也较有限。",
+          "important": false
+        },
+        {
+          "actor": "DB Ozan Korman Tarman",
+          "actor_type": "Analyst",
+          "text": "本轮牛市并非广受认同 由快钱与零售主导",
+          "details": "本次牛市并非一场广受认同的牛市，主要由快钱主导，零售投资者在这轮行情中的参与度和盈利远超机构专业投资者，后者普遍未能充分配置并持续感到挫败。中美峰会成果低于预期但是全年4次会面的第一次；普京下周三访华是否带来意外突破，以及俄乌和平谈判的可能进展；若和谈信号出现，该预期完全未被定价。",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "打破short IGV long semi是今年金矿 油价非21-23通胀罪魁",
+          "details": "Herman Jin：打破short IGV long semi是今年金矿，很多软件确实会被AI吃掉但并不是每一个，大家会意识到不能无脑空IGV。油价从来不是2021-2023通胀的\"罪魁祸首\"，而是催化剂；虽然这次石油危机更加严重，但没有当时这种通胀基础。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPX",
+        "IGV",
+        "SMH"
+      ],
+      "image_indexes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "importance": 3,
+      "sources": [
+        "GS",
+        "DB"
+      ],
+      "date": "2026-05-18",
+      "image_urls": [
+        "/uploads/2026-05-18/dfbd7bf385e0.png",
+        "/uploads/2026-05-18/5c456d2b196e.jpg",
+        "/uploads/2026-05-18/aa7410c37c53.jpg",
+        "/uploads/2026-05-18/b65d6dfd1670.png",
+        "/uploads/2026-05-18/da3d9776ff68.jpg",
+        "/uploads/2026-05-18/f039e77cfeef.png",
+        "/uploads/2026-05-18/847747205cd9.png",
+        "/uploads/2026-05-18/b894e6ffd201.jpg"
+      ]
+    },
+    {
+      "id": "other-misc",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "SpaceX 6/12上市 OpenAI推个人理财产品",
+      "summary": "WSJ报道SpaceX计划6/12在纳斯达克上市，代码SPCX。OpenAI周五发布新个人理财产品，ChatGPT Pro订阅用户可通过Plaid连接超过12000家银行、券商和信用卡机构。",
+      "bullets": [
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "SpaceX计划6/12纳斯达克上市 代码SPCX",
+          "details": "WSJ报道SpaceX计划6/12上市，纳斯达克挂牌，股票代码SPCX。",
+          "important": true
+        },
+        {
+          "actor": "OpenAI",
+          "actor_type": "Corporate",
+          "text": "发布个人理财产品 ChatGPT Pro可通过Plaid连接12000+机构",
+          "details": "OpenAI于周五发布了一款新的个人理财产品，允许ChatGPT Pro订阅用户通过Plaid连接他们的银行、证券账户和信用卡账户。用户可以连接到超过12000家机构并向ChatGPT询问有关支出、投资组合表现和未来规划的问题，后面计划和Intuit集成。一周前，Perplexity也推出了一款类似的金融研究产品。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPCX",
+        "INTU"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-05-18",
+      "image_urls": []
+    }
+  ]
+}
