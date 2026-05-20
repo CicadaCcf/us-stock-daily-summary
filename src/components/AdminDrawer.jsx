@@ -320,6 +320,11 @@ function IngestTab({ kind, date }) {
             {result.model || 'claude'}
             {result.usage && ` • ${result.usage.input_tokens}in / ${result.usage.output_tokens}out`}
             {result.usage?.cache_read_input_tokens ? ` • cache: ${result.usage.cache_read_input_tokens}` : ''}
+            {result._visionFallback && (
+              <span style={{ marginLeft: 8, color: 'var(--gold)' }}>
+                · 视觉转录失败，已直接送 Opus
+              </span>
+            )}
           </div>
           <pre
             style={{

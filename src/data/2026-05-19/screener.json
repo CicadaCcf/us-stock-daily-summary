@@ -1,0 +1,101 @@
+{
+  "generated_at": "2026-05-20T00:06:08+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-05-19",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12110,
+    "partial_pass": 1,
+    "with_carryover": 15,
+    "after_full_check": 6
+  },
+  "rows": [
+    {
+      "tk": "RAMP",
+      "nm": "LiveRamp Holdings, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": -0.2,
+      "w1": 31.4,
+      "market_cap_bn": 2.38,
+      "dollar_vol_bn": 0.17,
+      "w1_avg_dollar_vol_bn": 0.14,
+      "reason": "",
+      "main_business": "提供数据协作平台，帮助企业安全整合客户身份数据"
+    },
+    {
+      "tk": "SEDG",
+      "nm": "SolarEdge Technologies, Inc.",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -1.3,
+      "w1": 34.9,
+      "market_cap_bn": 3.32,
+      "dollar_vol_bn": 0.23,
+      "w1_avg_dollar_vol_bn": 0.39,
+      "reason": "",
+      "main_business": "研发销售光伏直流优化逆变器系统及监控平台"
+    },
+    {
+      "tk": "TE",
+      "nm": "T1 Energy Inc.",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": -1.7,
+      "w1": 17.6,
+      "market_cap_bn": 1.92,
+      "dollar_vol_bn": 0.46,
+      "w1_avg_dollar_vol_bn": 0.28,
+      "reason": "",
+      "main_business": "美国本土光伏太阳能电池及组件研发制造商"
+    },
+    {
+      "tk": "FCEL",
+      "nm": "FuelCell Energy Inc  NEW (DE)",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -2.1,
+      "w1": 1.6,
+      "market_cap_bn": 0.92,
+      "dollar_vol_bn": 0.14,
+      "w1_avg_dollar_vol_bn": 0.27,
+      "reason": "",
+      "main_business": "研发生产熔融碳酸盐燃料电池系统，提供清洁电力解决方案"
+    },
+    {
+      "tk": "ENPH",
+      "nm": "Enphase Energy, Inc.",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -5.9,
+      "w1": 24.8,
+      "market_cap_bn": 6.16,
+      "dollar_vol_bn": 0.4,
+      "w1_avg_dollar_vol_bn": 0.67,
+      "reason": "",
+      "main_business": "提供微型逆变器及智能光伏储能一体化解决方案"
+    },
+    {
+      "tk": "POET",
+      "nm": "POET Technologies Inc. Common Shares",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -8.0,
+      "w1": -4.8,
+      "market_cap_bn": 2.0,
+      "dollar_vol_bn": 1.0,
+      "w1_avg_dollar_vol_bn": 1.43,
+      "reason": "",
+      "main_business": "基于光子互连平台开发高速光引擎及光模块，服务AI与数据中心市场"
+    }
+  ]
+}

@@ -1,0 +1,511 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-may20",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "特朗普推迟打击伊朗 谈判艰难僵持",
+      "summary": "在沙特、卡塔尔、阿联酋领导人致电呼吁外交解决后，特朗普取消原定明日对伊朗的打击行动，但未设最后期限，要求伊朗不得拥核。伊朗希望达成长期多阶段停火、逐步开放霍尔木兹海峡、冻结但不拆除核计划、将富集铀转交俄罗斯。美方称伊朗只剩\"几天而非几周\"提出方案，双方时间紧迫。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普取消明日对伊朗打击 海湾盟国求2-3天外交时间",
+          "details": "在波斯湾盟国领导人呼吁给予更多时间寻求外交解决方案后，Trump取消了原定明日对伊朗的打击行动；他们认为将能够达成协议，且该协议将对美国以及中东各国乃至更广泛地区都具有高度可接受性。协议关键内容：伊朗不得拥有核武器；如果不能达成双方都能接受的协议，美国准备发动攻击；Trump没有设定最后期限，但称海湾国家询问是否可以推迟打击2-3d，德黑兰方面没有立即确认重启谈判的消息。",
+          "important": true
+        },
+        {
+          "actor": "Axios消息人士",
+          "actor_type": "新闻",
+          "text": "特朗普宣布前24小时分别致电沙特、卡塔尔、阿联酋领导人",
+          "details": "Axios消息人士透露，特朗普在宣布这一消息前的24小时内，分别与沙特阿拉伯、卡塔尔和阿联酋的领导人通了电话。阿拉伯领导人告诉他，由于伊朗的报复，'他们不希望自己的石油和能源设施被炸毁'。",
+          "important": false
+        },
+        {
+          "actor": "NYT",
+          "actor_type": "新闻",
+          "text": "NYT：五角大楼警告伊朗正在适应空袭",
+          "details": "NYT报道Trump之所以没有采取进一步的打击行动，部分原因是五角大楼官员警告说，伊朗正在适应空袭行动。",
+          "important": false
+        },
+        {
+          "actor": "伊朗谈判方",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗要求长期多阶段停火、逐步开放海峡、富铀转俄而非美",
+          "details": "伊朗希望达成一项长期的、多阶段的停火协议，要求逐步、安全地开放霍尔木兹海峡，同意长期冻结核计划，而非全面拆除核武器，无条件地将富集铀转移给俄罗斯而不是美国。",
+          "important": false
+        },
+        {
+          "actor": "路透社/巴基斯坦消息人士",
+          "actor_type": "新闻",
+          "text": "路透：美方有灵活性但要求仍过高 双方'不断改变目标'",
+          "details": "RTRS称伊朗谈判人士表示美国在持续的磋商中展现了灵活性，包括对伊朗核活动的限制问题，尽管草案有所修改，但美国的要求仍然过高。一位巴基斯坦消息人士向路透社透露，谈判进展艰难，双方'不断改变目标'，并补充说：'我们时间不多了。'",
+          "important": false
+        },
+        {
+          "actor": "半岛电视台",
+          "actor_type": "新闻",
+          "text": "半岛电视台引美方：伊朗只剩'几天而非几周'",
+          "details": "半岛电视台称美国消息人士，伊朗只有'几天时间，而不是几周时间'提出切实可行的方案，以打破与唐纳德·特朗普谈判的僵局。",
+          "important": false
+        },
+        {
+          "actor": "IRGC/TASNIM",
+          "actor_type": "Foreign-Gov",
+          "text": "IRGC媒体：伊朗不会结束以核为目标的贸易战",
+          "details": "IRGC媒体TASNIM表示伊朗在任何情况下都不会结束以核问题为目标的贸易战。",
+          "important": false
+        },
+        {
+          "actor": "阿卢·霍德里安",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗议员：移除富铀矿可能引来敌方核攻击风险",
+          "details": "伊朗议员阿卢·霍德里安：从伊朗移除富铀矿可能使伊朗面临敌方核攻击的风险。",
+          "important": false
+        },
+        {
+          "actor": "伊朗军方",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗格什姆岛发现美以无人机 伊斯法罕等防空启动",
+          "details": "伊朗在格什姆岛发现美以无人机；伊斯法罕防空系统启动，原因不明；霍尔木兹海峡附近格什姆岛的防空系统已启动，原因不明。",
+          "important": false
+        },
+        {
+          "actor": "FARS",
+          "actor_type": "新闻",
+          "text": "FARS：一艘伊朗船只突破美国封锁线",
+          "details": "FARS报道一艘伊朗船只突破美国封锁线。",
+          "important": false
+        },
+        {
+          "actor": "伊朗政府",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗推Hormuz Safe比特币保险 每船过境费最高2M",
+          "details": "伊朗晚间宣布推出一个名为Hormuz Safe的保险服务，需要比特币来结算支付。参保的公司，可以确保邮轮顺利通过海峡，而不用遭受伊朗方面的攻击。船只公司在用比特币支付后，还可获得加密可验证的保险单。目前，每艘船过境费最高为2M。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普抨击主流媒体歪曲伊朗冲突报道",
+          "details": "媒体对伊朗冲突的报道，特朗普指责主要媒体歪曲报道，歪曲美国军事实力。声称即使伊朗投降，一些媒体仍会将其描绘成伊朗的胜利，并抨击他所谓的'假新闻'媒体进行带有偏见的报道。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Axios",
+        "NYT",
+        "Reuters",
+        "Al Jazeera",
+        "FARS",
+        "TASNIM"
+      ],
+      "date": "2026-05-19",
+      "image_urls": []
+    },
+    {
+      "id": "us-admin-actions-may20",
+      "topic": "美国行政部门",
+      "topic_tag": "policy",
+      "title": "财政部俄油豁免/DOJ设1.8B补偿基金/SEC加密股票",
+      "summary": "财政部发布俄罗斯原油及成品油销售豁免令，有效期至6/17。DOJ宣布设立近1.8B美元基金，补偿声称遭前政府错误调查/起诉的特朗普支持者，作为与特朗普和解协议的一部分。SEC准备制定加密版本股票的交易计划。",
+      "bullets": [
+        {
+          "actor": "美国财政部",
+          "actor_type": "US-Executive",
+          "text": "财政部豁免油轮已装载俄油销售 有效期至6/17",
+          "details": "美国财政部发布了一项新的豁免令，允许出售已装载在油轮上的俄罗斯原油和石油产品，该豁免有效期至6/17。",
+          "important": true
+        },
+        {
+          "actor": "DOJ",
+          "actor_type": "US-Executive",
+          "text": "DOJ设1.8B基金补偿被前政府'错误调查'的特朗普支持者",
+          "details": "DOJ宣布设立一项近1.8B的基金，用于补偿那些声称自己曾被前几届政府错误调查或起诉的特朗普支持者，此项宣布是与特朗普总统达成和解协议的一部分。",
+          "important": false
+        },
+        {
+          "actor": "SEC",
+          "actor_type": "US-Executive",
+          "text": "SEC准备制定加密版本股票交易计划",
+          "details": "SEC已准备好制定交易加密货币版本股票的计划。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-19",
+      "image_urls": []
+    },
+    {
+      "id": "china-russia-ukraine-may20",
+      "topic": "中俄/普京访华",
+      "topic_tag": "geo",
+      "title": "习近平称普京或'后悔'入侵乌克兰 西伯利亚2号谈判",
+      "summary": "FT报道习近平向特朗普表示普京可能'后悔'发动对乌入侵。普京本次访华，俄罗斯期望中东冲突引发的能源动荡能使中国在'西伯利亚力量2号'管道价格合同上展现更大灵活性。",
+      "bullets": [
+        {
+          "actor": "FT",
+          "actor_type": "新闻",
+          "text": "FT：习近平告诉特朗普 普京可能会'后悔'入侵乌克兰",
+          "details": "FT报道，习近平告诉特朗普，俄罗斯总统普京可能会'后悔'发动入侵乌克兰。",
+          "important": true
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "俄方希望中东能源动荡推动西伯利亚2号价格谈判松动",
+          "details": "据称本次普京访华，俄罗斯希望中东冲突引发的能源市场动荡能够促使中国在'西伯利亚力量2号'天然气管道项目的价格合同谈判中展现出更大的灵活性。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "FT"
+      ],
+      "date": "2026-05-19",
+      "image_urls": []
+    },
+    {
+      "id": "fed-warsh-chair-may20",
+      "topic": "Fed主席交接",
+      "topic_tag": "fed",
+      "title": "Warsh本周五宣誓就任下任Fed主席",
+      "summary": "Nick透露Warsh将于周五宣誓就任下一任Fed主席，就职典礼在白宫举行、由Trump主持。同时DB与BofA观察显示Fed官员讲话仍偏鹰、市场已定价2027年3月前可能加息，新主席Warsh的缩表计划或通过监管改革渐进推进。",
+      "bullets": [
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "Warsh周五在白宫宣誓就任Fed chair 由特朗普主持",
+          "details": "Warsh将于周五宣誓就任下一任Fed chair。就职典礼将在白宫举行，由Trump主持。",
+          "important": true
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "DB：Fed官员基调持续偏鹰 通胀风险'压倒性'",
+          "details": "美联储官员近期讲话基调持续偏鹰，强调通胀风险仍然'压倒性'且'最紧迫'。纽约联储主席威廉姆斯称当前利率处于良好水平，暂无调整必要，但上调对中性利率的评估。多位官员指出4月CPI数据显示服务业通胀粘性突出，核心PCE达3.1%，叠加能源与地缘政治冲击，政策需在'一段时间内'按兵不动，甚至不排除进一步收紧。维持FFR长期维持在3.63%的预测，市场已定价2027年3月前存在加息可能。",
+          "important": false
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "Barclays：Fed料维持至2027年3月 关注Warsh缩表计划",
+          "details": "美联储预计至2027年3月前维持利率不变。伦敦客户调研显示市场对美债一致看空但信心不足。客户聚焦AI对短期通胀推升及Fed加息时机，DB认为近期加息可能性低，需等待放弃宽松倾向等政策顺序。市场关注新任主席Warsh的缩表计划，预计通过监管改革渐进式推进，历时数年。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-05-19",
+      "image_urls": []
+    },
+    {
+      "id": "ai-corp-news-may20",
+      "topic": "AI/科技公司动态",
+      "topic_tag": "ai",
+      "title": "Google×Blackstone建AI云/Meta裁员10%/Nvidia H200许可",
+      "summary": "GOOGL与Blackstone联合创建自研芯片的AI云公司，BX初始股权投资5B、2027年前投运500MW新产能。Meta确认全球裁员10%约8K人，7K员工调往AI工作流程项目。Nvidia CEO称已获批卖H200但买方尚未获批。陪审团驳回Musk对OpenAI转型营利的诉讼。",
+      "bullets": [
+        {
+          "actor": "Meta",
+          "actor_type": "Corporate",
+          "text": "Meta内部备忘录：全球裁员10%约8K 7K调往AI项目",
+          "details": "Meta公司今天在一份内部备忘录中详细说明了5/20的裁员计划，确认将裁减全球10%的员工，约8K，此次裁员将与围绕'人工智能原生设计原则'进行的组织架构重组同时进行，7K员工将被调往新的人工智能工作流程项目，部分管理岗位将被裁撤。",
+          "important": true
+        },
+        {
+          "actor": "Google/Blackstone",
+          "actor_type": "Corporate",
+          "text": "GOOGL与BX组AI云公司 BX初始投5B 2027年前投运500MW",
+          "details": "GOOGL和Blackstone集团将联合创建一家拥有自主研发芯片的AI云公司，黑石集团计划进行5B的初始股权投资，以在2027年前将500MW的新产能投入运营。",
+          "important": false
+        },
+        {
+          "actor": "Nvidia CEO",
+          "actor_type": "Corporate",
+          "text": "黄仁勋：H200卖方许可已批 买方未批 市场会逐步开放",
+          "details": "Nvidia CEO接受Bloomberg TV采访：收到了这边批准卖H200的许可，但那边还没有批准买…会谈没有立刻取得突破，'我的感觉是，随着时间推移，市场会开放'。",
+          "important": false
+        },
+        {
+          "actor": "陪审团",
+          "actor_type": "新闻",
+          "text": "陪审团驳回Musk对OpenAI转型营利的诉讼",
+          "details": "陪审团驳回了Musk关于OpenAI背离其公共利益使命、转型为营利性公司的说法，认为他起诉该公司的时间太晚了。",
+          "important": false
+        },
+        {
+          "actor": "渣打银行",
+          "actor_type": "Corporate",
+          "text": "渣打四年内裁公司职能岗位15%+ 扩大AI应用",
+          "details": "渣打银行计划在未来四年，将削减15%以上的公司职能岗位，扩大AI的实际应用，以简化流程，裁员将推动生产力提升从而提高每位员工的收入；截至去年年底，该银行后台运营部门共有52271名员工；渣打银行的目标是将其ROE提高3%，到2028年达到15%，到2030年达到18%。该行还预计到2028年将其成本收入比降低至57%。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GOOGL",
+        "META",
+        "NVDA",
+        "BX"
+      ],
+      "image_indexes": [
+        2
+      ],
+      "importance": 3,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-05-19",
+      "image_urls": [
+        "/uploads/2026-05-19/09c63e4dee45.png"
+      ]
+    },
+    {
+      "id": "bofa-fms-may20",
+      "topic": "BofA Global FMS",
+      "topic_tag": "macro-other",
+      "title": "BofA FMS：多头投降近完成 现金降至3.9%触发卖出信号",
+      "summary": "BofA 5月FMS显示股票配置创纪录上升、现金降至3.9%触发卖出信号；仅4%预期硬着陆，66%认为霍尔木兹将在数月内解除瓶颈。仅16%预期2026年Fed加息，62%认为30Y美债收益率将率先破6%、仅20%认为先破4%。73%认为'做多全球半导体'是头号拥挤交易，40%认为'二次通胀'为头号尾部风险。逆向建议：回补债券/美元/英国/消费股空头，削减大宗商品/股票/EM/科技多头。",
+      "bullets": [
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "FMS股票配置创纪录跃升 现金降至3.9%触发卖出信号",
+          "details": "多头投降几近完成，FMS股票配置创纪录上升，现金水平大幅削减至3.9%。FMS股票配置为Jan'22以来最高，债券净低配为Jun'22以来最严重。",
+          "important": true
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "仅4%预测硬着陆 66%预计霍尔木兹数月内解除瓶颈",
+          "details": "全球增长悲观情绪消融，仅4%预测'硬着陆'；预期两位数盈利增长的FMS投资者比例创纪录跃升；伊朗担忧缓和，66%预计霍尔木兹海峡瓶颈将在未来数月解除（44% Jun'26、22% Q3'26、10% May'26、6% Q4'26、5% 2027或更晚）。",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "仅16%预期Fed 2026年加息 62%看30Y破6%、仅20%看破4%",
+          "details": "多头脆弱性在于'落后于曲线'的Fed（仅16%预期2026年加息）推高长端收益率（62%的FMS投资者目标看向30Y率6%，仅20%目标看向4%）。Fed路径分布：1 cut 29%、No change 29%、2 cuts 18%、1 hike 11%、2 hikes 5%、>2 cuts 2%、>2 hikes 1%。Brent油价区间：$80-90 45%、$70-80 23%、$90-100 19%、>$100 7%、$60-70 2%、<$60 1%。",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "73%认为'做多全球半导体'最拥挤 40%选二次通胀为头号尾部风险",
+          "details": "73%认为'做多全球半导体'是头号拥挤交易（Long Mag7 14%、Long oil 6%、Long EM 2%、Long Gold 1%）；40%认为'通胀'是头号尾部风险（地缘冲突20%、债券收益率无序上升18%、AI泡沫11%、私人信贷6%、美国中期选举1%、贸易战1%）；最可能引发信用事件的是影子银行（42%）和AI超大规模企业（34%）。",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "逆向建议：回补债券/美元/英国/消费股空头 削多大宗/股票/EM/科技",
+          "details": "基于FMS持仓与历史水平对比，逆向交易者应回补债券、美元、英国资产及消费股的空头仓位，并削减大宗商品、股票、新兴市场资产及科技/半导体的多头仓位。2026年中期选举预期：DEM House/GOP Senate 41%、DEM sweep 32%、GOP sweep 5%、GOP House/DEM Senate 1%。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "importance": 3,
+      "sources": [
+        "BofA Global Research"
+      ],
+      "date": "2026-05-19",
+      "image_urls": [
+        "/uploads/2026-05-19/28ffa19c51e9.png",
+        "/uploads/2026-05-19/21d9478fcf1a.png",
+        "/uploads/2026-05-19/828329c79846.png",
+        "/uploads/2026-05-19/686a169bec4e.png"
+      ]
+    },
+    {
+      "id": "sellside-views-may20",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "GS/MS/DB/BofA/Barclays/Nomura综合",
+      "summary": "GS：动量极致拥挤、RAI达1991年以来99分位，过去15年'美国/科技/成长'主导被打破，HALO重资产公司首次享估值溢价。GS Oil：炼厂利用率上行受物理上限制约，2026Q4库存可能破临界。MS：KOSPI涨89.4%，目标8500/牛市10000。BofA Rates：将Fed首次cut推迟至2027下半年，看10Y破4.5%去4.78%。Barclays：30Y收益率破5%非暂时，目标5.63%。Nomura：高市早苗确认2026补充预算，USDJPY触159。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS：RAI升至99分位 动量极致 市场对回调高度敏感",
+          "details": "GS Global Strategy Views：尽管宏观环境有所恶化，但在IT和能源行业强劲盈利推动下，全球股市依然屡创新高；科技和能源的领先地位促使'动量'因子强劲增长，这种极高的收益集中度增加了市场因增长放缓或通胀恶化而出现回调的风险，情绪处于极端高位，高盛的风险偏好指标（RAI）上周升至1.1以上，处于1991年以来的第99个百分位，美股在债券收益率上升的同时继续上涨，导致ERP被压低，市场对增长或通胀的负面消息更加敏感。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS：过去15年'美国/科技/成长'主导被打破 HALO首获估值溢价",
+          "details": "过去15年由'美国胜过其他地区、科技胜过其他行业、成长胜过价值'的主导模式正在被打破：1）超低利率时代终结，高利率削弱了超长期成长股的价值；2）企业从偏好'股票回购'转向'加大资本投入'；3）过去一年新兴市场和亚洲整体表现领先，甚至超越了美股。随着轻资产公司面临技术迭代和淘汰风险，重资产低淘汰的HALO公司十多年来首次享有估值溢价，在成长与价值因子分化中带来新Alpha机遇。",
+          "important": false
+        },
+        {
+          "actor": "GS Oil",
+          "actor_type": "Analyst",
+          "text": "GS Oil：炼厂利用率上行受限 OECD柴油/汽油库存或2026Q3-Q4破临界",
+          "details": "炼油利润率每提高10美元，通常可拉动全球炼油厂利用率上升1.3%，目前要进一步提升开工率比历史上面临更多困难。一是美国炼油厂利用率已处于高位，在夏季驾车高峰期进一步增加产量面临物理极限；二是海外部分炼油厂面临原油供应限制或价格上限的制约。若无任何应对措施（最糟情景）：OECD的商业柴油和汽油库存将分别在2026年的8月和10月触及20天需求的临界安全线；若仅增加柴油产量并伴随部分需求萎缩：柴油库存虽可在2026年底前保持安全，但汽油产量会因受到挤压，导致汽油库存提早在12月跌破临界线。",
+          "important": false
+        },
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "MS：KOSPI涨89.4% 目标8500点/牛市10000点 半导体盈利预增551%",
+          "details": "韩国KOSPI指数2026年迄今已飙升89.4%，在亚洲市场中表现居前，主要受AI扩散、国防及能源等结构性超级周期驱动。报告将KOSPI中期目标价设为8500点，牛市目标10000点。2026年韩国GDP增长预期将更广泛反弹，财政支持加码，央行预计从四季度起加息三次至3.25%。半导体板块盈利预期增长551%，当前KOSPI 12个月前瞻市盈率仅6.8倍，估值仍具备吸引力；2026年散户资金强势回流，国内机构和养老基金积极参与，外资在整体KOSPI净卖出但半导体仍有买盘。韩国推进商业法典修订（强制库存股注销）、资本市场法升级、KOSDAQ振兴、主权财富基金设立、'反股价压制法案'等。配置建议：杠铃策略，超配半导体/电力设备/国防与高质量防御性（金融、消费必需品）。",
+          "important": false
+        },
+        {
+          "actor": "BofA Rates",
+          "actor_type": "Analyst",
+          "text": "BofA Rates：Fed首次cut推迟至2027下半年 10Y看4.78%",
+          "details": "将Fed首次cut预期推迟至2027年下半年，认为强劲的美国经济数据与通胀攀升使实际利率为负，金融条件宽松。市场对Fed加息定价远低于其他央行，存在纠正风险。英国政治动荡导致英镑风险溢价飙升，建议对冲长端英镑远期。尽管美国数据强劲，美元尚未走强，短期有补涨可能。美国通胀持续超预期，加息风险被低估，10年期美债收益率突破4.5%看向4.78%。市场主要通过更高实际利率调整，信用利差保持稳健。建议做空2年期美债，做多TIPS和CMBS。",
+          "important": false
+        },
+        {
+          "actor": "Barclays Rates",
+          "actor_type": "Analyst",
+          "text": "Barclays：30Y破5%非暂时 财政担忧推动看向5.63%",
+          "details": "美国30年期国债收益率突破5%并非暂时现象，财政担忧或推动其升至5.63%。美联储预计至2027年3月前维持利率不变。美国消费者仍具韧性，但能源通胀和收入放缓将致下半年消费增速放缓至1.0%。伦敦客户调研显示市场对美国债券一致看空，但信心不足，风险配置得分仅2-4/10。客户聚焦AI对短期通胀的推升及Fed加息时机。市场关注新主席Warsh缩表计划，预计通过监管改革渐进式推进。",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "Nomura：高市早苗确认2026补充预算 USDJPY触159 JGB熊陡",
+          "details": "日本首相高市早苗正式确认将编制2026财年补充预算，以补贴夏季能源开支。市场担忧赤字债券发行或增加国债供应，美元兑日元一度触及159，日本国债曲线延续熊陡。同时，利用外汇干预收益资助消费税削减的讨论再起，但野村认为现行框架下实施困难。庆应大学教授估算干预收益可达2-3T日元，足以覆盖两年削减成本。",
+          "important": false
+        },
+        {
+          "actor": "卖方综合",
+          "actor_type": "Analyst",
+          "text": "Rates分歧矩阵：方向久期/前端Fed/曲线/长端/通胀/Vol各家有别",
+          "details": "DB/BofA偏空，JPM/Barclays开始反向看多前端/中段；Citi短期谨慎、中期看多。前端Fed定价：BofA认为hike risk还没price够；JPM认为已经price太鹰；DB认为路径形态不合理。曲线：共识偏5s30s或10s30s陡峭，但理由不同。长端：Citi最强调buyer strike；DB强调term premium；Barclays强调财政风险。通胀：大多认为通胀风险仍未消失，但表达不同。Swap spread/funding：Citi看wider；JPM建议耐心等headline消退；BofA偏constructive front-end spreads。Vol：不建议简单卖vol，长端、右下角尾部更受重视。Treasury futures roll：WN/TY/UXY偏bearish roll；US相对更好；TU/FV各家有分歧。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        3
+      ],
+      "importance": 3,
+      "sources": [
+        "GS",
+        "MS",
+        "DB",
+        "BofA",
+        "Barclays",
+        "Nomura"
+      ],
+      "date": "2026-05-19",
+      "image_urls": [
+        "/uploads/2026-05-19/f1b21e572f0f.png",
+        "/uploads/2026-05-19/6d22ac590780.png"
+      ]
+    },
+    {
+      "id": "kol-views-may20",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "DCP/Lord Fed/Brandon Carl/Andy",
+      "summary": "DCP看多SR3M27合约。Lord Fed认为市场上涨结束、看好做空。Linda Raschke看到GC/SI不错的bear flag。Brandon Carl质疑H200云算力暴涨非真实需求驱动，H200指数今日跌18%。Andy类比若亚马逊1996上市P/E将达100，Gemini对Google EPS仅小幅影响。",
+      "bullets": [
+        {
+          "actor": "Lord Fed",
+          "actor_type": "KOL",
+          "text": "Lord Fed：市场上涨结束 反身性资金过多 看好做空",
+          "details": "认为市场上涨结束，且由于目前市场各种反身性资金过多，看好做空。",
+          "important": true
+        },
+        {
+          "actor": "DCP",
+          "actor_type": "KOL",
+          "text": "DCP：看多SR3M27 '等它们到了那里 你肯定不会想买的'",
+          "details": "看多SR3M27合约，'等它们到了那里，你肯定不会想买的'。",
+          "important": false
+        },
+        {
+          "actor": "Linda Raschke",
+          "actor_type": "KOL",
+          "text": "Linda Raschke：GC和SI有不错的bear flag",
+          "details": "nice bear flags on GC and SI.",
+          "important": false
+        },
+        {
+          "actor": "Brandon Carl",
+          "actor_type": "KOL",
+          "text": "Brandon Carl：H200云算力暴涨非真实需求 今日H200指数跌18%",
+          "details": "H200云算力定价异常暴涨不一定是真实需求驱动，而是云算力市场机制+潜在操纵的结果。正常价格顺序Spot < 3年预订 < 1年预订 < On-Demand，但算力价格是边际定价，很容易在收盘前大量经济推高spot。今日H200指数显示价格下跌18%。结合之前发布的来自AWS和GCP的图表，这表明它目前对NeoCloud的边际供应非常敏感。",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "Andy：所有不成熟公司都嵌入成熟公司 Gemini对GOOG EPS仅小幅贡献",
+          "details": "所有不成熟的公司都嵌入在成熟公司之中，Gemini隶属于全球第二大公司。如果亚马逊在1996年上市，其市盈率将为100。目前它只会让谷歌的每股收益上涨几个点。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-19",
+      "image_urls": [
+        "/uploads/2026-05-19/7610aea047fa.png"
+      ]
+    },
+    {
+      "id": "apollo-ai-credit-may20",
+      "topic": "AI信贷渗透",
+      "topic_tag": "ai",
+      "title": "Apollo：AI已渗透至各信贷市场 VC发行87%来自AI",
+      "summary": "Apollo数据显示AI正渗透至金融市场每个角落：YTD净发行中IG市场49%来自AI、VC市场87%来自AI、HY市场38%来自AI。",
+      "bullets": [
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "Apollo：YTD净发行中IG 49%/VC 87%/HY 38%来自AI",
+          "details": "AI is penetrating every corner of financial markets. YTD net issuance ($B) AI vs Non-AI by channel: IG 49% AI / 51% non-AI；VC 87% AI / 13% non-AI；HY 38% AI / 62% non-AI。",
+          "important": true
+        },
+        {
+          "actor": "BofA FMS",
+          "actor_type": "Analyst",
+          "text": "FMS：AI超大规模企业是第二大潜在信用事件源（34%）",
+          "details": "FMS调查显示最可能引发信用事件的是影子银行（42%）和AI超大规模企业（34%），与Apollo数据互相印证AI债务渗透深度。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 2,
+      "sources": [
+        "Apollo"
+      ],
+      "date": "2026-05-19",
+      "image_urls": [
+        "/uploads/2026-05-19/09c63e4dee45.png"
+      ]
+    }
+  ]
+}

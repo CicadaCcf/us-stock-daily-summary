@@ -424,11 +424,14 @@ async function transcribeImages(client, model, images) {
   }));
   userContent.push({
     type: 'text',
-    text: `请把以上 ${images.length} 张图片（按 idx=0,1,...,${images.length - 1} 顺序）逐张转写。`,
+    text: `请把以上 ${images.length} 张图片（按 idx=0,1,...,${images.length - 1} 顺序）逐张转写。务必返回每一张的转写，数组长度必须等于 ${images.length}。`,
   });
   const resp = await client.messages.create({
     model,
-    max_tokens: 16000,
+    // Bumped from 16000 to 32000 — N images at ~2-4K tokens each can blow
+    // the 16K ceiling, leading to truncated tool_use blocks and empty
+    // `transcriptions` arrays. 32K is well within Sonnet 4.5's 64K output cap.
+    max_tokens: 32000,
     system: [
       { type: 'text', text: SYS_TRANSCRIBE, cache_control: { type: 'ephemeral' } },
     ],
@@ -438,6 +441,9 @@ async function transcribeImages(client, model, images) {
   });
   const toolUse = resp.content.find((b) => b.type === 'tool_use');
   if (!toolUse) {
+    console.error('[ingestApi] transcribe: no tool_use block.',
+      'stop_reason=', resp.stop_reason,
+      'content types=', resp.content.map((b) => b.type).join(','));
     throw Object.assign(new Error('vision pre-pass returned no tool_use block'), { status: 502 });
   }
   let arr = toolUse.input?.transcriptions;
@@ -446,7 +452,21 @@ async function transcribeImages(client, model, images) {
     try { arr = JSON.parse(arr); } catch { /* fall through */ }
   }
   if (!Array.isArray(arr) || arr.length === 0) {
-    throw Object.assign(new Error('vision pre-pass returned no transcriptions array'), { status: 502 });
+    // Log everything we know so the user can see why Sonnet returned empty.
+    // Common causes: stop_reason=max_tokens (output truncated mid-tool),
+    // safety filter on screenshot text, model overload returning empty input.
+    console.error('[ingestApi] transcribe: empty/missing transcriptions array.',
+      'stop_reason=', resp.stop_reason,
+      'input keys=', Object.keys(toolUse.input || {}).join(','),
+      'usage=', JSON.stringify(resp.usage));
+    throw Object.assign(
+      new Error(`vision pre-pass returned no transcriptions array (stop_reason=${resp.stop_reason || 'unknown'})`),
+      { status: 502, stopReason: resp.stop_reason }
+    );
+  }
+  // Warn if fewer transcriptions than images — Sonnet skipped some.
+  if (arr.length < images.length) {
+    console.warn(`[ingestApi] transcribe: got ${arr.length} transcriptions for ${images.length} images — some skipped`);
   }
   return { transcriptions: arr, usage: resp.usage, model: resp.model };
 }
@@ -464,30 +484,50 @@ async function callClaude({ env, kind, text, images, imageUrls, date, modelOverr
   // Per user 2026-04-29: split image processing onto Sonnet so Opus only
   // does the classification. ~2× speedup, ~3× cost reduction, no quality
   // hit on news screenshots / charts / tables.
+  //
+  // SAFETY NET (added 2026-05-19): if Stage A fails for any reason, instead
+  // of bubbling up "vision pre-pass returned no transcriptions array" and
+  // blocking the user, fall back to single-stage — send images directly to
+  // Opus alongside the text. Slower + costlier than 2-stage, but always
+  // works. Logged so we can see how often we need the fallback.
   let imageTranscriptText = '';
   let visionUsage = null;
   let visionModelUsed = null;
+  let visionFellBack = false;
+  let visionFailReason = null;
   const imgList = Array.isArray(images) ? images.filter((b) => b) : [];
   if (imgList.length > 0) {
     const t0 = Date.now();
-    const res = await transcribeImages(client, visionModel, imgList);
-    visionUsage = res.usage;
-    visionModelUsed = res.model;
-    imageTranscriptText = (res.transcriptions || [])
-      .slice()
-      .sort((a, b) => (a.idx ?? 0) - (b.idx ?? 0))
-      .map((t) => `[图 ${t.idx}]\n${t.content}`)
-      .join('\n\n');
-    console.log(
-      `[ingestApi] vision pre-pass: ${imgList.length} image(s) via ${visionModelUsed}, ` +
-      `${Math.round((Date.now() - t0) / 1000)}s, ` +
-      `in=${visionUsage?.input_tokens || '?'} out=${visionUsage?.output_tokens || '?'}`
-    );
+    try {
+      const res = await transcribeImages(client, visionModel, imgList);
+      visionUsage = res.usage;
+      visionModelUsed = res.model;
+      imageTranscriptText = (res.transcriptions || [])
+        .slice()
+        .sort((a, b) => (a.idx ?? 0) - (b.idx ?? 0))
+        .map((t) => `[图 ${t.idx}]\n${t.content}`)
+        .join('\n\n');
+      console.log(
+        `[ingestApi] vision pre-pass: ${imgList.length} image(s) via ${visionModelUsed}, ` +
+        `${Math.round((Date.now() - t0) / 1000)}s, ` +
+        `in=${visionUsage?.input_tokens || '?'} out=${visionUsage?.output_tokens || '?'}`
+      );
+    } catch (e) {
+      visionFellBack = true;
+      visionFailReason = e?.message || String(e);
+      console.warn(
+        `[ingestApi] vision pre-pass FAILED (${visionFailReason}) — ` +
+        `falling back to single-stage: sending ${imgList.length} image(s) ` +
+        `directly to ${model}`
+      );
+    }
   }
 
-  // === Stage B: text-only classification (Opus) ===
-  // For events, append the already-covered macro topics so Claude can
-  // filter out duplicates. No-op if macro.json doesn't exist yet.
+  // === Stage B: classification (Opus) ===
+  // Normal 2-stage path: Stage B is text-only because images were already
+  // transcribed in Stage A.
+  // Fallback path (visionFellBack=true): images go directly to Opus
+  // alongside the text — same as single-stage flow on main branch.
   const dedupSuffix = isEvents ? buildMacroDedupContext(date) : '';
   let combinedText = String(text || '').trim();
   if (imageTranscriptText) {
@@ -496,10 +536,24 @@ async function callClaude({ env, kind, text, images, imageUrls, date, modelOverr
       ? combinedText + header + imageTranscriptText
       : '=== 用户上传的图片（已由视觉模型转写为文字，按 idx 编号）===\n' + imageTranscriptText;
   }
-  if (!combinedText) {
+  if (visionFellBack && !combinedText) {
+    // Fallback with no text: still need a text part so Opus knows what to do.
+    combinedText = `请从以下 ${imgList.length} 张图片中提取全部主题/事件，结合图中图表与文字。`;
+  }
+  if (!combinedText && imgList.length === 0) {
     throw Object.assign(new Error('no text or image content to classify'), { status: 400 });
   }
-  const userContent = [{ type: 'text', text: combinedText + dedupSuffix }];
+  const userContent = [];
+  // Prepend raw images on the fallback path so Opus can read them directly.
+  if (visionFellBack) {
+    for (const b64 of imgList) {
+      userContent.push({
+        type: 'image',
+        source: { type: 'base64', media_type: sniffImageMediaType(b64), data: b64 },
+      });
+    }
+  }
+  userContent.push({ type: 'text', text: combinedText + dedupSuffix });
   if (dedupSuffix) {
     console.log('[ingestApi] events dedup: appended macro context from', date);
   }
@@ -631,6 +685,11 @@ async function callClaude({ env, kind, text, images, imageUrls, date, modelOverr
     // so callers (and the AdminDrawer preview) can see the full cost.
     ...(visionUsage
       ? { vision: { usage: visionUsage, model: visionModelUsed } }
+      : {}),
+    // When Stage A failed and we fell back to single-stage, surface that
+    // so the UI can show a notice.
+    ...(visionFellBack
+      ? { _visionFallback: { reason: visionFailReason } }
       : {}),
   };
 }
