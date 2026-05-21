@@ -1,0 +1,393 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis-2026-05-20",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "Trump威胁再次打击伊朗，美伊谈判进展甚微",
+      "summary": "Trump放话2-3天内可能再次重创伊朗，同时声称美伊谈判正在推进；Vance表示谈判取得'很大进展'但选项B军事行动仍待命。WSJ调解人称谈判进展甚微，伊朗仍要求停战、经济援助、战争赔款及霍尔木兹监管角色。参议院推进限制总统动武权法案；海峡通航逐步恢复，印度、韩国油轮重启过境。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：可能不得不再次重创伊朗，2-3天内见分晓",
+          "details": "Trump：我们可能不得不再次重创伊朗，我还不确定，很快就会知道结果，ddl 2-3天，或许要等到下周初；伊朗正迫切寻求达成协议，我接到电话，证实与伊朗的谈判正在推进中，沙特阿拉伯、卡塔尔和阿联酋向我证实，与伊朗的谈判传来了一些好消息；每个人都告诉我这场战争不受欢迎，但我认为它非常受欢迎；获得核尘埃很重要；我们还没打算离开伊朗，我们会妥善处理这件事。总统召集其国家安全高级团队举行高级别会议，审查军事选项。",
+          "important": true
+        },
+        {
+          "actor": "Vance",
+          "actor_type": "US-Executive",
+          "text": "Vance：美伊谈判取得'很大进展'，但选项B军事行动备选",
+          "details": "Vance：Trump曾指示我们与伊朗进行积极的谈判，美伊谈判取得'很大进展'，美方并非'非常有信心'能迅速达成协议，停火协议并非总是完美无缺，但实现向达成协议迈出重要一步的目标。选项B是重启针对伊朗的军事行动，Trump不想在伊朗实施选项B，但如有必要，军事行动可能恢复。",
+          "important": false
+        },
+        {
+          "actor": "WSJ调解人",
+          "actor_type": "新闻",
+          "text": "WSJ：美伊谈判进展甚微，伊朗坚持四项要求",
+          "details": "WSJ报道调解人表示，美伊谈判进展甚微，伊朗仍要求停止敌对行动、获得经济援助、战争赔款，并在霍尔木兹海峡的监管中扮演重要角色，同时在核计划问题上仍与美国存在分歧。",
+          "important": false
+        },
+        {
+          "actor": "伊朗官方",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗副外长称准备应对任何军事侵略",
+          "details": "伊朗副外长称准备应对任何军事侵略，伊军方称将利用新工具和方式开辟新战线。伊朗仍然认为美国在防止战争重燃方面的保证不足。美国已告知巴基斯坦，不会在核要求和霍尔木兹海峡问题上做出让步。",
+          "important": false
+        },
+        {
+          "actor": "美国参议院",
+          "actor_type": "US-Congress",
+          "text": "参议院50-47推进限制总统对伊朗动武法案",
+          "details": "美国国会参议院推进一项法案，旨在限制总统特朗普的动武权力，要求他今后对伊朗采取任何军事行动必须获得国会批准，以50-47的表决结果程序性投票推进这项法案。",
+          "important": false
+        },
+        {
+          "actor": "北约",
+          "actor_type": "Foreign-Gov",
+          "text": "北约称若7月前海峡未开放将考虑部署军力",
+          "details": "如果霍尔木兹海峡在7月之前仍未开放，北约将考虑在霍尔木兹海峡部署军事力量。",
+          "important": false
+        },
+        {
+          "actor": "海峡通行追踪",
+          "actor_type": "新闻",
+          "text": "5/19-20日10艘油轮过霍尔木兹，中石化中化工VLCC运4M桶驶出",
+          "details": "【日度通行】5/19 17:30 - 5/20 18:00 共10艘，其中，5艘出弯Tanker，4艘进湾Tanker。今日4艘VLCC进出海峡，其中中石化、中化工旗下2艘VLCC载着4M桶原油驶出霍尔木兹海峡。BBG援引知情人士消息，印度正筹划派遣油轮穿越霍尔木兹海峡，从中东装载能源货物，将是自今年2月底伊朗冲突爆发以来，印度首次尝试恢复通过该关键航道的运输。韩国外长称油轮正经由霍尔木兹海峡通行，此事已与伊朗协商妥当。",
+          "important": false
+        },
+        {
+          "actor": "美军/伊朗",
+          "actor_type": "Foreign-Gov",
+          "text": "美在印度洋拦截伊朗关联油轮，伊朗无人机袭击未协调油轮",
+          "details": "美国在印度洋拦截了与伊朗有关联的油轮'天波号'。伊朗发布视频称一架无人机袭击了一艘据称未经伊朗当局事先协调就通过霍尔木兹海峡的油轮。",
+          "important": false
+        },
+        {
+          "actor": "能源部Wright",
+          "actor_type": "US-Executive",
+          "text": "Wright：Hormuz管道将在不久的将来再次通航",
+          "details": "能源部Wright：Hormuz管道将在不久的将来再次通航，美国将继续扩大从委内瑞拉的石油供应，而高企的汽油价格是我们所有人都必须承担的代价，而不是面临汽油短缺。",
+          "important": false
+        },
+        {
+          "actor": "习近平",
+          "actor_type": "Foreign-Gov",
+          "text": "习近平告诉普京中东恢复敌对行动'不合时宜'",
+          "details": "习近平告诉普京，在中东恢复敌对行动是'不合时宜的'。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "Bloomberg"
+      ],
+      "date": "2026-05-20",
+      "image_urls": [
+        "/uploads/2026-05-20/981f0ad7507b.jpg"
+      ]
+    },
+    {
+      "id": "fed-policy-perl-bessent-2026-05-20",
+      "topic": "美联储/财政",
+      "topic_tag": "fed",
+      "title": "Perl称转向稀缺储备困难，Bessent预期大幅通缩",
+      "summary": "Perl表示转向稀缺储备制度困难，美联储未来购债取决于市场状况。Bessent预计一两个强劲通胀数据后将见大幅通缩，美中将首先确定$30B非关键商品减免税。Trump表示将允许Warsh自由行动。",
+      "bullets": [
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "Bessent：一两个强劲通胀数据后将见大幅通缩",
+          "details": "Bessent：在一两个强劲的通胀数据之后……我认为我们将看到大幅通货紧缩。美国和中国将首先确定价值30B的非关键商品，根据贸易委员会议定书，这些商品可以享受减税或免税待遇。日本基本面强劲，汇率过度波动不可取。",
+          "important": true
+        },
+        {
+          "actor": "Perl",
+          "actor_type": "Central-Bank",
+          "text": "Perl：转向稀缺储备制度十分困难",
+          "details": "Perl：转向稀缺储备制度将十分困难，未来美联储债券的购买量将取决于市场状况，监管变化可能会降低储备水平。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump将允许Warsh自由行动",
+          "details": "Trump：他将允许Warsh自由行动。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-20",
+      "image_urls": []
+    },
+    {
+      "id": "us-congress-doj-weaponization-2026-05-20",
+      "topic": "美国国会/DOJ",
+      "topic_tag": "policy",
+      "title": "DOJ设1.8B反武器化基金，Trump干预初选搅动共和党",
+      "summary": "DOJ禁止IRS继续调查Trump纳税申报表，作为和解一部分设立$1.8B'反武器化'基金。Trump钦点候选人击败Massie，并背弃现任参议员Cornyn转支持Paxton，激怒党内。Thune公开反对该基金。Politico报道基金或资助闯堕胎诊所活动人士及J6被捕者。",
+      "bullets": [
+        {
+          "actor": "DOJ",
+          "actor_type": "US-Executive",
+          "text": "DOJ禁止IRS调查Trump税表，设1.8B反武器化基金",
+          "details": "禁止IRS继续对Trump总统的纳税申报表进行任何调查，IRS'永远禁止'追究在达成协议之前已经或可能对Trump提出的'任何及所有索赔'或损害赔偿要求，作为该诉讼和解协议的一部分，政府设立1.8B的反武器化基金，旨在为那些自称受到政府'武器化和法律战'迫害的目标人群提供经济补偿。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump钦点候选人击败Massie，背弃Cornyn转支持Paxton",
+          "details": "Trump钦点的候选人Ed Garrean在肯塔基州北部的一次国会初选中击败了Thomas Massie；Trump在德克萨斯州共和党参议员决选中，突然宣布支持Ken Paxton，直接背弃了现任共和党参议员John Cornyn，此举让多数党领袖约翰·图恩及多数共和党议员感到震惊与愤怒。",
+          "important": false
+        },
+        {
+          "actor": "Thune",
+          "actor_type": "US-Congress",
+          "text": "Thune公开表示不喜欢1.8B反武器化基金",
+          "details": "Thune公开表示不喜欢新设立的1.8B DOJ'反武器化'基金。",
+          "important": false
+        },
+        {
+          "actor": "Politico",
+          "actor_type": "新闻",
+          "text": "Politico：1.8B基金或资助闯堕胎诊所者及J6被捕人士",
+          "details": "Political报道司法部新设立的1.8B'反武器化'基金可能会将资金输送给闯入并阻止患者进入堕胎诊所的活动人士，或J6被逮捕人士。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Politico"
+      ],
+      "date": "2026-05-20",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-views-2026-05-20",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "JPM巴黎会议看多股票，DB称Fed政策偏宽松",
+      "summary": "JPM 2026巴黎全球市场会议传递'买入股票'信号，AI主导盈利增长；80%+投资者预计关税稳定10-20%，43%预测年末10Y在4-4.5%，黄金目标5300-5400。DB Rates称Fed实际利率连续15个月低于保守中性1.25%。Barclays日本：4月JGB投资恢复至6.3T日元。MS对中国地产保持审慎，2026销售预测上调3-4%。",
+      "bullets": [
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "JPM巴黎会议：买入股票，黄金目标5300-5400，Fed或加息",
+          "details": "2026年巴黎全球市场会议传递强烈信号：'买入股票'，AI是盈利增长主导力量。超八成投资者预计美关税稳定在10-20%区间；43%受访者预测年末10年期美债收益率在4.0-4.5%。会议认为市场可能低估伊朗冲突风险，并给出黄金目标5300-5400。通胀风险被低估，美联储更可能加息。",
+          "important": true
+        },
+        {
+          "actor": "DB Rates",
+          "actor_type": "Analyst",
+          "text": "DB：Fed实际利率15个月低于保守中性1.25%，政策偏宽松",
+          "details": "DB Rates：Fed政策实际利率已连续15个月低于保守中性利率1.25%，表明当前政策并非限制性，反而可能偏宽松。尽管通胀逼近3%且预期居高不下，名义中性利率需超4%，但市场定价大幅宽松，实际利率过低恐令通胀难以回归2%目标。",
+          "important": false
+        },
+        {
+          "actor": "Barclays Japan",
+          "actor_type": "Analyst",
+          "text": "Barclays：4月JGB投资恢复6.3T日元，高市指示编补充预算",
+          "details": "Barcly JP：4月日本国债（JGB）投资恢复至6.3T日元，基本持平2月。信托银行净买入跃升1-1.3T日元，重回上财年平均，养老金再平衡资金流入明显；保险机构九个月来首次净买入超长期债，净买额0.3T。海外投资者净买入放缓至1.8T（前值3.1T），超长期转为净卖出0.1T，但对中长期债需求仍存。都市银行和地方金融机构中期债买入增加，分别净买入0.6T和1T。高市早苗18日指示财务省研究编制补充预算，逆转此前暂不需要追加预算的立场。背后原因是汽油补贴账户仅剩98B日元，若补贴标准不变至9月底，需追加约1.1T日元开支。政府考虑发行赤字融资国债，市场警惕补充预算规模可能扩大。",
+          "important": false
+        },
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "MS中国地产：维持审慎，2026销售预测上调3-4%",
+          "details": "MS中国地产：中国房地产市场因3月以来二手房成交意外反弹而重新出现'拐点'讨论，但当前仍应保持审慎，等待5-8月更多高频指标确认。报告承认高能级城市二手房销售可能显示局部最差阶段已过，因此将2026年全年总住房销售量预测上调3-4%至同比基本持平，但仍预计2027年小个位数下滑。核心担忧在于宏观、收入、租金、库存和居民情绪改善有限，一手房与二手房走势分化，小总价旧房和二手房以价换量可能挤压新房需求，难以形成可持续的房价上行循环。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs (Stankard)",
+          "actor_type": "Analyst",
+          "text": "GS：CTA长$95B全球股票、$44B美股，下周小幅净买入",
+          "details": "Robbie Stankard - Goldman Sachs：CTAs vs. equities. 'We have CTAs long $95bn of global equities (64th %tile) and long $44bn of US equities (79th %tile). We estimate that CTAs are small buyers of US equities in every scenario over the next week.' 一周展望：Flat tape +$2.78bn，Up tape +$2.1bn，Down tape +$3bn；一月展望：Flat +$3.69bn，Up +$3.14bn，Down -$38.24bn。SPX关键水平：短期7095，中期6891，长期6511。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "JPM",
+        "DB",
+        "Barclays",
+        "Morgan Stanley",
+        "Goldman Sachs"
+      ],
+      "date": "2026-05-20",
+      "image_urls": [
+        "/uploads/2026-05-20/139363a27ec2.png"
+      ]
+    },
+    {
+      "id": "kol-views-2026-05-20",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "KOL：收益率曲线全线升，市场预期Fed加息50bps",
+      "summary": "Joseph指出市场预期Fed将进行约50bps短期加息，收益率曲线全线上升。Nick G称TLT距历史最低仅差几个百分点。Ed Bradford称30Y-ON利差结构不特别。ChinaFacts称中方在台湾、伊朗、俄乌均有沟通，军售与海峡通航最先见效。",
+      "bullets": [
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "Joseph：市场预期Fed加息50bps，曲线全线上升",
+          "details": "Joseph：由于市场预期Fed将进行约50bps的短期加息，收益率曲线全线上升。在伊朗战争爆发前，市场预期Fed将进行降息。Fed通常会忽略负面的供给冲击，但我们已经经历了太多次这样的冲击。",
+          "important": true
+        },
+        {
+          "actor": "Nick G",
+          "actor_type": "KOL",
+          "text": "Nick G：TLT距历史最低仅差几个百分点",
+          "details": "Nick G：TLT价格距离历史最低点仅差几个百分点，市场会再selloff推一把止损单，然后就会有一堆这里引发'世界末日'之类的推文。",
+          "important": false
+        },
+        {
+          "actor": "Ed Bradford",
+          "actor_type": "KOL",
+          "text": "Ed Bradford：30Y-ON利差结构在超长视角下不特别",
+          "details": "Ed Bradford：以超长期的视角来看，目前30Y-ON的利差结构并没有什么特别之处（*但是考虑到QE的大规模应用，目前利差已经不低了）。",
+          "important": false
+        },
+        {
+          "actor": "ChinaFacts",
+          "actor_type": "KOL",
+          "text": "ChinaFacts：中方军售与海峡通航最先见效",
+          "details": "中国政经事实ChinaFacts：台湾、伊朗、俄乌都有实质性的沟通，但就中方紧迫性而言，军售和海峡通航会最先见到成效的。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TLT"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-20",
+      "image_urls": []
+    },
+    {
+      "id": "china-russia-cuba-diplomacy-2026-05-20",
+      "topic": "中俄/古巴外交",
+      "topic_tag": "geo",
+      "title": "中俄推天然气管道，Trump称可与古巴达成协议",
+      "summary": "中俄双方计划签署文件启动对华天然气管道项目，中方强调能源、农业、科技合作潜力。Trump表示将帮助古巴并可能达成外交协议。",
+      "bullets": [
+        {
+          "actor": "中俄",
+          "actor_type": "Foreign-Gov",
+          "text": "中俄计划签署文件，启动对华天然气管道项目",
+          "details": "中俄双方计划签署文件，俄罗斯希望借此启动对华天然气管道项目，而中国则强调在能源、农业、科技等领域存在合作潜力。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：将帮助古巴，可能达成外交协议",
+          "details": "Trump：我们将帮助古巴，我认为可以与古巴达成外交协议。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-05-20",
+      "image_urls": []
+    },
+    {
+      "id": "retail-options-semi-concentration-2026-05-20",
+      "topic": "零售期权/盈利集中度",
+      "topic_tag": "ai",
+      "title": "零售期权半导体活动飙至2.8倍，前5股占S&P 500四分之一盈利",
+      "summary": "Citadel Securities数据显示本月零售期权交易者半导体合约日均达基线2.8倍，较2024年6月NVDA拆股纪录再高25%。BofA数据显示NTM盈利前5股（Nvidia/Google/Microsoft/Apple/Micron）占S&P 500约25%，集中度史上最高。",
+      "bullets": [
+        {
+          "actor": "Citadel Securities",
+          "actor_type": "Analyst",
+          "text": "零售期权半导体合约日均达2.8倍基线，破2024年6月纪录25%",
+          "details": "Retail options traders have traded roughly ~2.8x their average daily semiconductor volume this month, nearly ~25% above the prior record set in June 2024, during NVDA's stock split and run to surpass MSFT as the world's most valuable company. Source: Citadel Securities, GMI, as of May 17, 2026.",
+          "important": true
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "BofA：前5股占S&P 500 NTM盈利约25%，集中度史上最高",
+          "details": "Exhibit 11: The earnings outlook is more dependent on a few stocks than ever before (top 5 = ¼ of index earnings). Largest 5 companies by NTM earnings as a % of S&P 500 (as of 4/2026): Nvidia, Google, Microsoft, Apple, Micron. Source: BofA US Equity & Quant Strategy, FactSet.",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "GOOGL",
+        "AAPL",
+        "MU"
+      ],
+      "image_indexes": [
+        0,
+        3
+      ],
+      "importance": 2,
+      "sources": [
+        "Citadel Securities",
+        "BofA"
+      ],
+      "date": "2026-05-20",
+      "image_urls": [
+        "/uploads/2026-05-20/8b70c7f250b9.jpg",
+        "/uploads/2026-05-20/38a7b4950015.jpg"
+      ]
+    },
+    {
+      "id": "other-news-2026-05-20",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "CFTC查油期货异常，Google I/O All in AI，三星罢工",
+      "summary": "CFTC调查至少三家公司异常高的石油期货交易活动。Google I/O大会发布Gemini Omni和3.5 Flash新模型，搜索框25年最大改版，Spark智能体首秀，AI眼镜今秋上市。三星工会谈判破裂，明起罢工。",
+      "bullets": [
+        {
+          "actor": "Google",
+          "actor_type": "Corporate",
+          "text": "Google I/O All in AI：发布Gemini Omni和3.5 Flash，AI眼镜今秋上市",
+          "details": "谷歌I/O大会All in AI：发布新模型Gemini Omni和3.5 Flash，搜索框25年来最大改版，Spark智能体首秀，AI眼镜今秋上市。",
+          "important": true
+        },
+        {
+          "actor": "CFTC",
+          "actor_type": "US-Executive",
+          "text": "CFTC调查至少三家公司异常高石油期货交易活动",
+          "details": "CFTC调查至少三家公司异常高的石油期货交易活动。",
+          "important": false
+        },
+        {
+          "actor": "三星/工会",
+          "actor_type": "Corporate",
+          "text": "三星工会谈判破裂，明日起罢工",
+          "details": "三星工会谈判上午以失败结束，明天起开始罢工，三星电子称工会坚持要求为亏损部门支付不合理的加薪，工会寻求的奖金在更广泛的社会层面是不可接受的；韩国劳动部门表示，如果三星和其工会双方提出请求，他们愿意重启双方的谈判。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GOOGL"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-05-20",
+      "image_urls": []
+    }
+  ]
+}
