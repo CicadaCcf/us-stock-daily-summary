@@ -1,0 +1,438 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-2026-05-21",
+      "topic": "美伊谈判/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊新协议草案曝光 30天延长谈判",
+      "summary": "美国通过巴基斯坦向伊朗递交新协议草案，提出25B援助、解除石油制裁、允许伊朗3.67%铀浓缩，换取400kg高浓缩铀转移和石油出口开放；Trump告知内塔尼亚胡谈判处于最终阶段，将启动30天谈判期。但伊朗最高领导人下令高浓缩铀必须留在境内，成为主要症结；WSJ发文强烈反对延长谈判。",
+      "bullets": [
+        {
+          "actor": "美国/伊朗",
+          "actor_type": "新闻",
+          "text": "美方通过巴基斯坦递交新协议草案：25B援助换400kg高浓铀转移",
+          "details": "美国通过巴基斯坦向伊朗提交了一份新协议草案，据多位中东自媒体传言，美国已同意向伊朗政权提供25B援助，解除封锁，在谈判期30天间解除石油制裁，并允许伊朗政权将铀浓缩至3.67%的水平，以换取伊朗移走400kg高浓缩铀并开放石油出口",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump称美伊谈判处于最终阶段，内塔尼亚胡需听其安排",
+          "details": "Trump称美伊谈判处于'最终阶段'，我们是在和讲道理的人打交道，不急于结束与伊朗冲突，在伊朗问题上内塔尼亚胡'听我的'；并表示在签署协议之前，不会给予任何伊朗石油制裁豁免",
+          "important": false
+        },
+        {
+          "actor": "Trump/Axios",
+          "actor_type": "US-Executive",
+          "text": "Trump告知内塔尼亚胡：调解人备意向书启动30天谈判",
+          "details": "Trump告诉内塔尼亚胡，调解人正在准备一份意向书，以便美国和伊朗正式结束战争，并开始为期30天的关于伊朗核计划和重新开放霍尔木兹海峡的谈判（Axios)",
+          "important": false
+        },
+        {
+          "actor": "伊朗最高领导人",
+          "actor_type": "Foreign-Gov",
+          "text": "哈梅内伊下令近武器级铀必须留在伊朗境内",
+          "details": "RTRS援引2名消息人士称，伊朗最高领导人已下令，近武器级铀必须留在伊朗境内，两位伊朗资深消息人士称。最高领导人的这一指令反映出伊朗政界内部的共识。巴基斯坦消息人士称：高浓缩铀是美伊谈判的主要症结所在",
+          "important": false
+        },
+        {
+          "actor": "ISNA",
+          "actor_type": "新闻",
+          "text": "ISNA：美方信息缩小双方差距，谈判可能取得进展",
+          "details": "ISNA报道（温和/中间派媒体），美国的信息在一定程度上缩小了双方的差距，伊朗正在讨论框架和建立信任的步骤，'这表明德黑兰和华盛顿之间的谈判可能取得进展'",
+          "important": false
+        },
+        {
+          "actor": "伊朗外交部",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗已收到美方立场正在审查，将在强烈不信任下推进谈判",
+          "details": "伊朗外交部发言人表示伊朗已收到美国的立场，目前正在审查这些立场；伊朗称将在'强烈不信任美国'的情况下继续推进谈判，伊美据称5月朝觐季后举行新谈判",
+          "important": false
+        },
+        {
+          "actor": "Ghalibaf/IRGC",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗议长及IRGC警告：再遭袭战火将溢出中东",
+          "details": "Ghalibaf表示军方已充分利用停火协议恢复了自身实力，'敌人'的公开和隐蔽举动表明，他们正在寻求新一轮战争；IRGC警告称若再遭袭，战火将溢出中东",
+          "important": false
+        },
+        {
+          "actor": "以色列官员",
+          "actor_type": "Foreign-Gov",
+          "text": "以官员向13频道透露Trump助手施压内塔尼亚胡达成协议",
+          "details": "一名以色列高级官员向第13频道透露，Trump的助手们正在向他施压，要求他与伊朗达成协议，N12报道内塔尼亚胡则对此表示怀疑，并主张继续保持军事行动",
+          "important": false
+        },
+        {
+          "actor": "俄罗斯",
+          "actor_type": "Foreign-Gov",
+          "text": "俄罗斯表示准备协助德黑兰和华盛顿转移浓缩铀",
+          "details": "俄罗斯称准备协助德黑兰和华盛顿转移浓缩铀",
+          "important": false
+        },
+        {
+          "actor": "卡塔尔/沙特/巴基斯坦",
+          "actor_type": "Foreign-Gov",
+          "text": "海湾国家支持协议草案 沙特高度赞赏Trump外交努力",
+          "details": "卡塔尔和阿拉伯国家支持一项旨在防止战争重燃的协议草案；巴基斯坦内政部长正在访问伊朗以协助双方信息交流；沙特阿拉伯王国高度赞赏美国总统决定给予外交机会，以达成一项可接受的协议，结束战争，并将霍尔木兹海峡的海上航行安全和自由恢复到2月28日之前的状态",
+          "important": false
+        },
+        {
+          "actor": "PGSA",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗波斯湾海峡管理局公布霍尔木兹受控海域范围",
+          "details": "伊朗'波斯湾海峡管理局'(PGSA)公布霍尔木兹海峡受控海域范围，定义从Kuh-e Mubarak连接UAE Fujairah南部至Qeshm岛尖端连接Umm Al-Quwain。过境此区域需与PGSA协调并获得授权。同时伊朗正寻求与阿曼合作，并与'专门国际机构'协调建立机制确保霍尔木兹海峡可持续安全",
+          "important": false
+        },
+        {
+          "actor": "海峡通行数据",
+          "actor_type": "新闻",
+          "text": "5/20-5/21日度通行8艘 其中2艘进湾Tanker",
+          "details": "【日度通行】5/20 17:30 - 5/21 17:30 共8艘，其中2艘进湾Tanker。另据伊朗媒体21日报道，经外交斡旋，一艘遭美国扣押船只上的20名伊朗船员于当天返回伊朗",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ强烈反对再签意向书延长谈判30天",
+          "details": "WSJ发文强烈反对继续签署所谓的'意向书'将谈判再延长30天。这本质上是在为伊朗提供喘息之机，并会将危机拖向更接近美国大选的时间点",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "Axios",
+        "RTRS",
+        "ISNA",
+        "WSJ",
+        "PGSA"
+      ],
+      "date": "2026-05-21",
+      "image_urls": [
+        "/uploads/2026-05-21/2b00513572a9.png"
+      ]
+    },
+    {
+      "id": "fed-skinny-master-account-2026-05-21",
+      "topic": "Fed支付账户提案",
+      "topic_tag": "fed",
+      "title": "Fed发布简化版美联储账户提案 60天征求意见",
+      "summary": "美联储正式发布提案并再次征求公众意见，期限60天，为合法有资格的金融机构（fintech、支付创新公司、部分非银行机构含部分加密相关企业）提供仅限清算和结算的简化版美联储账户，暂排除非联邦保险机构至26/12再决定。",
+      "bullets": [
+        {
+          "actor": "Fed",
+          "actor_type": "Central-Bank",
+          "text": "Fed发布简化版主账户提案 限清算结算无信贷无利息",
+          "details": "正式发布提案并再次征求公众意见，期限60天，为合法有资格的金融机构（主要是fintech、支付创新公司、部分非银行机构，包括部分加密相关企业，但暂时排除非联邦保险且不受联邦审慎监管的机构直至26/12再决定，大多数Crypto公司属于这一类）。提供仅限清算和结算的简化版美联储账户，无日内信贷，无DW，无利息，支付服务不可透支（无法用FedACH做net清算），禁止作为对应行或被对应行为其他机构提供清算服务，不得参与超额准备金账户（EBA），每日收盘余额单个账户不得超过1B",
+          "important": true
+        },
+        {
+          "actor": "Nick",
+          "actor_type": "新闻",
+          "text": "Nick：Fed搁置降息议题，4月会议起更认真权衡加息",
+          "details": "Nick：Fed官员已搁置是否降息问题，4月会议开始更认真地权衡是否加息",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Federal Reserve",
+        "WSJ"
+      ],
+      "date": "2026-05-21",
+      "image_urls": []
+    },
+    {
+      "id": "fed-rmp-balance-sheet-2026-05-21",
+      "topic": "Fed RMP/缩表",
+      "topic_tag": "fed",
+      "title": "Barclays：回购宽松Fed应暂停RMPs",
+      "summary": "Barclays MM研究指出，Q1 GSIBs回购账簿扩张300-400B使银行中介能力增强，准备金需求曲线左移，Fed应考虑暂停RMPs甚至重启缩表。7-8月TGA回升至1T及短债净发行将抽走准备金。",
+      "bullets": [
+        {
+          "actor": "Barclays MM",
+          "actor_type": "Analyst",
+          "text": "Barclays：GSIBs回购扩张300-400B，Fed应暂停RMPs",
+          "details": "回购市场极度宽松，Fed应暂停RMPs。Q1 GSIBs的回购账簿扩张300-400B，使银行中介能力大幅增强，压低了货币市场利率，相当于使准备金需求曲线左移。Q1 GSIBs的总资产增加了1.3T，其中逆回购和证券持有分别增长293和385B，国债交易账户增加近100B。这反映监管放松SLR要求后，银行积极参与做市和中介活动，有效增加了回购市场和现金市场的容量",
+          "important": true
+        },
+        {
+          "actor": "Barclays/Perli",
+          "actor_type": "Analyst",
+          "text": "SOMA经理Perli暗示需求曲线左移或为重启缩表创造机会",
+          "details": "SOMA经理Perli暗示，如果准备金需求曲线明显左移（例如因流动性监管新规），FOMC可能有机会重启缩表。然而，这需要确切的证据表明银行对准备金的需求已经下降，且新规落地可能仍需时日。Fed更倾向于让有机的负债增长（如TGA上升）来逐步吸收准备金，而不是主动收缩。但若融资压力持续低迷，不排除未来采取更激进行动",
+          "important": false
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "真正压力点在7-8月：TGA冲1T且短债净发行500B",
+          "details": "6月中旬的税款缴纳和季末效应可能小幅扰动，但真正压力点或在7-8月。财政部TGA余额预计在7月下旬触及1T，同时净发行短期国债约275B（7月）和225B（8月），这会抽走准备金。然而，银行不断增长的资产负债表容量可能削弱这些压力",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 2,
+      "sources": [
+        "Barclays"
+      ],
+      "date": "2026-05-21",
+      "image_urls": [
+        "/uploads/2026-05-21/a5cd04b9fe5d.png"
+      ]
+    },
+    {
+      "id": "fomc-minutes-hawkish-2026-05-21",
+      "topic": "FOMC纪要解读",
+      "topic_tag": "fed",
+      "title": "FOMC Minutes比新闻发布会更鹰派",
+      "summary": "Erian与Omair Sharif等KOL指出FOMC纪要语气明显鹰派，多数与会者认为若通胀维持2%以上加息合理，许多人希望放弃宽松倾向。",
+      "bullets": [
+        {
+          "actor": "Erian",
+          "actor_type": "KOL",
+          "text": "Erian：纪要语气比新闻发布会更鹰派，更多成员开放加息",
+          "details": "Erian：Minutes语气比会后新闻发布会所暗示的更为鹰派。由于政策制定者对通胀的担忧日益加剧，越来越多的成员表示对加息持更加开放的态度",
+          "important": true
+        },
+        {
+          "actor": "Omair Sharif",
+          "actor_type": "KOL",
+          "text": "Sharif：多数认为通胀>2%则加息合适 许多人想放弃宽松倾向",
+          "details": "Omair Sharif：The 'majority' who felt that a hike would be appropriate if inflation remained > 2% & the 'many' who wanted to ditch the easing bias will get the most attention but note also that a 'vast majority' noted a > risk that it'd take longer to get back to 2% than previously thought.",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-21",
+      "image_urls": []
+    },
+    {
+      "id": "rates-views-2026-05-21",
+      "topic": "利率/债券观点",
+      "topic_tag": "rates",
+      "title": "GS与KOL：30Y突破5% 名义yield仍有70-79bps空间",
+      "summary": "GS Rates讨论30Y突破5%后回落条件，认为长端需冲突缓和或数据转鸽派；EconstratPB测算名义yield在4.80-4.92%才触及历史顶部。GS基准认为收益率随时间下行，2-5Y领涨。",
+      "bullets": [
+        {
+          "actor": "GS Rates",
+          "actor_type": "Analyst",
+          "text": "GS Rates：30Y破5%后短期做多债券仍需催化",
+          "details": "讨论30Y持续突破5%后，什么条件才能推动收益率回落。报告认为，本轮长端上行同时受到全球长端上行、市场重新定价Fed路径以及能源供给冲击影响；在通胀上行和增长下行拉扯下，美国数据仍有韧性，利率成为市场压力释放阀。yield回落有三条路径：冲突缓和并恢复油流、宏观数据转向更鸽派、或估值便宜到足以挑战风险资产。当前前端收益率相对GS基准偏高，长期远期利率也略便宜但尚未极端，因此短期做多债券仍需要催化。高盛基准仍认为美国收益率会随时间下行，主要依靠冲突解决、通胀担忧缓和和劳动力市场温和走软，回落应覆盖整条曲线但由2-5Y领涨",
+          "important": true
+        },
+        {
+          "actor": "EconstratPB",
+          "actor_type": "KOL",
+          "text": "实际yield接近1σ上限，名义yield仍有70-79bps上行空间",
+          "details": "EconstratPB：实际收益率接近上限：当前2.17%的实际收益率已深处1标准差（1-sigma）区间，说明调升实际利率的大部分定价工作已完成。名义收益率仍有空间：历史数据表明，名义收益率的2标准差（2-sigma）极端天花板在5.35%-5.44%之间。结论：结合当前指标，当前4.65%的名义收益率仍有70-79bps的上升跑道，可能在上探至约4.80%-4.92%之后，才会触及历史统计学上的极端顶部",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TLT"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs"
+      ],
+      "date": "2026-05-21",
+      "image_urls": []
+    },
+    {
+      "id": "boj-jp-bonds-2026-05-21",
+      "topic": "日银/日债",
+      "topic_tag": "fed",
+      "title": "GS JP：BOJ 6月评估维持现行减购计划",
+      "summary": "GS预计BOJ在6月中期评估维持现行国债购买削减计划，2027年Q1降至月购约2T并维持。准备金/GDP比率将从近70%降至2030年约35%。",
+      "bullets": [
+        {
+          "actor": "GS Japan",
+          "actor_type": "Analyst",
+          "text": "GS：BOJ将维持减购计划 2027Q1月购降至2T后稳住",
+          "details": "GS JP：BOJ将在6月中期评估中维持现行日本国债购买削减计划，预计到2027年一季度每月购买量降至约2T。此后，日银最可能维持每月2T购买量，而非继续削减。报告指出，尽管长期利率上升，但短期利率稳定，国债市场功能逐步改善，当前利率上升不构成例外情形。模拟显示，日银准备金余额与GDP比率将从目前的近70%在2030年降至约35%，届时可能逐步增加购债以维持充裕储备",
+          "important": true
+        },
+        {
+          "actor": "日本政府",
+          "actor_type": "Foreign-Gov",
+          "text": "日本拟增今年补充预算至3T 应对中东局势",
+          "details": "日本JNN调查，政府内部正在考虑一项提案，拟增加今年的补充预算规模，以应对中东局势可能长期持续的情况，预算额约为3T。其中约500B将从电力和天然气补贴储备基金中拨出，用于补贴工作，补贴期从7月开始",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs",
+        "JNN"
+      ],
+      "date": "2026-05-21",
+      "image_urls": [
+        "/uploads/2026-05-21/5f74f51ba081.png"
+      ]
+    },
+    {
+      "id": "gs-global-outlook-2026-05-21",
+      "topic": "GS全球展望",
+      "topic_tag": "macro-other",
+      "title": "GS：全球债券遭抛售 标普目标7600",
+      "summary": "GS指全球债券遭抛售长端创数十年高位，AI交易推动美股动量因子，但下半年全球经济放缓，美国GDP增速降至1.9%，中国Q2环比放缓4.0%。布油111美元、黄金4497美元、标普目标7600。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS：标普目标7600 布油111 黄金4497",
+          "details": "全球债券遭大幅抛售，长端收益率升至数十年高位，通胀粘性与地缘风险限制利率下行，但美债中期对冲价值改善。AI交易推动美股动量因子上涨，盈利驱动性区别于过往估值泡沫，若AI前景转弱或有回调风险。预计全球主要经济体下半年增长放缓：美国GDP增速降至1.9%，中国二季度环比放缓至4.0%，欧英亦承压。布油现报111美元/桶，黄金4497美元/盎司，标普500目标7600点",
+          "important": true
+        },
+        {
+          "actor": "Bloomberg/服务PMI",
+          "actor_type": "新闻",
+          "text": "5月服务业PMI：英53.9 德53.5 美51.7 法49.6",
+          "details": "Markit 5月服务业PMI商业活动经季调：德国53.5、法国49.6、英国53.9、美国51.7（图表）。法国制造业PMI跌至42.9",
+          "important": false
+        },
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "Warren Pies：2%回调即反向ETF成交飙至37% 属不错中期调整",
+          "details": "Warren Pies：2%的回调导致反向ETF交易量飙升至37%。通常情况下，回调后交易量会增长40%，修正后增长50%，而熊市过后则会增长60%。不错的行情中期调整",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY"
+      ],
+      "image_indexes": [
+        3,
+        4
+      ],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs"
+      ],
+      "date": "2026-05-21",
+      "image_urls": [
+        "/uploads/2026-05-21/c830c60b87df.png",
+        "/uploads/2026-05-21/8b75917e29a7.png"
+      ]
+    },
+    {
+      "id": "ai-ipo-corp-2026-05-21",
+      "topic": "AI/IPO公司动态",
+      "topic_tag": "ai",
+      "title": "OpenAI最快本周交IPO 估值逾1T",
+      "summary": "OpenAI最快本周提交IPO申请目标估值逾1T；Anthropic本季营收冲10.9B、新融资估值或超900B；SpaceX提交IPO，2028年部署轨道算力卫星；JPM Dimon称将多招AI专家少招传统银行家；三星罢工解决加薪6.2%。",
+      "bullets": [
+        {
+          "actor": "OpenAI",
+          "actor_type": "Corporate",
+          "text": "OpenAI最快本周提交IPO 9月完成 目标估值逾1T",
+          "details": "OpenAI最快本周提交IPO申请，9月完成IPO，目标估值逾1T",
+          "important": true
+        },
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic营收翻倍至10.9B 新融资估值或超900B",
+          "details": "Anthropic将迎首个盈利季度，本季营收翻倍冲上10.9B，Anthropic正在洽谈新一轮融资，估值预计将超过900B",
+          "important": false
+        },
+        {
+          "actor": "SpaceX",
+          "actor_type": "Corporate",
+          "text": "SpaceX提交IPO招股书 2028部署轨道算力卫星",
+          "details": "SpaceX提交IPO招股书：2028年部署轨道算力卫星，马斯克奖励与火星百万人口挂钩",
+          "important": false
+        },
+        {
+          "actor": "Jamie Dimon",
+          "actor_type": "Corporate",
+          "text": "JPM Dimon：将多招AI专家 减少传统银行家",
+          "details": "JPM CEO Jamie Dimon称随着AI技术的普及加速，这家华尔街巨头可能会聘用更多人工智能专家，减少传统银行家的数量",
+          "important": false
+        },
+        {
+          "actor": "三星",
+          "actor_type": "Corporate",
+          "text": "三星罢工危机解决 加薪6.2% 芯片部门10.5%奖金",
+          "details": "三星罢工危机暂解，加薪6.2%，芯片部门按业绩10.5%计提奖金，以税后股票发放",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "JPM"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-21",
+      "image_urls": []
+    },
+    {
+      "id": "other-2026-05-21",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "中俄联合声明/习近平拟访朝/古巴起诉",
+      "summary": "中俄发表关于进一步加强全面战略协作的联合声明；韩联社称习近平最早下周访朝鲜；美国对前古巴总统劳尔·卡斯特罗提起刑事诉讼，Trump称古巴局势不会升级；EIA原油库存继续大幅去化。",
+      "bullets": [
+        {
+          "actor": "中俄",
+          "actor_type": "Foreign-Gov",
+          "text": "中俄发表深化全面战略协作联合声明",
+          "details": "中华人民共和国和俄罗斯联邦关于进一步加强全面战略协作、深化睦邻友好合作的联合声明。俄罗斯总统普京访华期间两国元首会晤成果文件清单",
+          "important": true
+        },
+        {
+          "actor": "韩联社",
+          "actor_type": "新闻",
+          "text": "韩联社：习近平最早下周可能访问朝鲜",
+          "details": "韩联社报道，习近平最早可能于下周访问朝鲜",
+          "important": false
+        },
+        {
+          "actor": "美国法院/Trump",
+          "actor_type": "US-Executive",
+          "text": "美国对前古巴总统劳尔·卡斯特罗提起刑诉 Trump称局势不会升级",
+          "details": "美国宣布对前古巴总统劳尔卡斯特罗提起刑事诉讼；Trump称古巴局势不会升级",
+          "important": false
+        },
+        {
+          "actor": "EIA",
+          "actor_type": "新闻",
+          "text": "EIA原油库存近期持续大幅去化",
+          "details": "Change in Crude Stockpiles：Weekly change in commercial and SPR crude stockpiles (EIA)显示近几周商业及SPR原油库存合计大幅下降，最新周降幅近-17 Million barrels",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        5
+      ],
+      "importance": 1,
+      "sources": [
+        "韩联社",
+        "EIA"
+      ],
+      "date": "2026-05-21",
+      "image_urls": []
+    }
+  ]
+}
