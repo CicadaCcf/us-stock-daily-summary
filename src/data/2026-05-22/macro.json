@@ -1,0 +1,458 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-jun23",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊协议草案传将达成 海峡通行与浓缩铀仍是分歧",
+      "summary": "多家伊朗媒体（IRNA/ISNA/ILNA）及半岛电视台报道美伊在巴基斯坦斡旋下接近达成协议草案，包含全面停火、海峡航行自由、制裁逐步解除等条款，但浓缩铀及霍尔木兹海峡控制仍是关键分歧。Trump 称冲突将很快结束，美方将获伊浓缩铀，希望海峡保持开放免费。",
+      "bullets": [
+        {
+          "actor": "伊朗媒体IRNA/阿拉伯电视台",
+          "actor_type": "新闻",
+          "text": "美伊协议最终草案达成 数小时内宣布",
+          "details": "伊朗强硬派媒体IRNA援引阿拉伯电视台（属于沙特阿联酋）伊朗伊斯兰共和国通讯社称美伊协议最终草案已达成，预计将在未来几小时内宣布。条款包括：1）所有战线立即全面停火；2）各方共同承诺不将目标对准基础设施；3）波斯湾和霍尔木兹海峡的航行自由由联合监测机制予以保障；4）作为对伊朗遵守协议条款的交换，制裁将逐步解除；5）关于未决问题的谈判将在最多7天内启动。但报道指出仍有问题尚未解决，双方将在下周谈判，关于铀浓缩和更广泛核让步细节仍不清楚。",
+          "important": true
+        },
+        {
+          "actor": "伊朗媒体ISNA",
+          "actor_type": "新闻",
+          "text": "巴基斯坦调解美伊 铀浓缩与海峡控制仍是关键分歧",
+          "details": "伊朗中间派/温和派媒体ISNA报道，伊朗与美国之间正在通过巴基斯坦调解进行消息交换，信息交换旨在达成协议框架，伊朗的铀浓缩活动及其对霍尔木兹海峡的控制仍是关键分歧点，尚未达成协议，但差距已缩小。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "伊朗冲突将很快结束 美国将获伊浓缩铀",
+          "details": "Trump表示伊朗冲突将很快结束，美国将获得伊浓缩铀且很可能将摧毁伊朗的铀资源，重申伊朗不得拥有核武器，希望霍尔木兹海峡保持开放、自由、免收通行费的状态；我们拥有了一种全新的反无人机技术。",
+          "important": false
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "Rubio：美伊有积极迹象 但海峡收费将令协议不可行",
+          "details": "Rubio称有'一些积极的迹象'表明美国与伊朗之间有可能达成协议，我不想过于乐观，让我们看看未来几天会发生什么，海峡收费系统将使与美国的协议'不可行'。",
+          "important": false
+        },
+        {
+          "actor": "伊朗媒体ILNA/半岛电视台",
+          "actor_type": "新闻",
+          "text": "ILNA及半岛电视台称协议接近 文本起草中",
+          "details": "伊朗改革派媒体ILNA报道，美伊两国在巴基斯坦的斡旋下达成协议草案，预计将在未来几小时内宣布。卡塔尔半岛电视台报道伊朗方面正与巴基斯坦官员进行'密集调解'，已非常接近达成协议，目前正在起草协议文本，但也有source表示现在判断能否达成正式的最终协议还为时尚早。",
+          "important": false
+        },
+        {
+          "actor": "路透/伊朗",
+          "actor_type": "新闻",
+          "text": "伊朗否认达成协议 但承认分歧缩小",
+          "details": "RTRS报道伊朗表示并未与美国达成任何协议，但双方之间的分歧正在缩小。",
+          "important": false
+        },
+        {
+          "actor": "伊朗总统/Mojtaba",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗：谈判中不会退让 浓缩铀必须留在国内",
+          "details": "盘中传最高领袖Mojtaba称浓缩铀必须留在国内，后有相关媒体辟谣。伊朗总统表示德黑兰在谈判中'不会退让'，因为在核问题和安全问题上，伊朗与美国的紧张关系依然高涨。",
+          "important": false
+        },
+        {
+          "actor": "巴基斯坦外交部",
+          "actor_type": "Foreign-Gov",
+          "text": "巴方称中国支持调解伊朗战争努力",
+          "details": "巴基斯坦外交部发言人塔希尔·安德拉比表示，中国支持中国主导的旨在结束伊朗战争的调解努力。",
+          "important": false
+        },
+        {
+          "actor": "霍尔木兹海峡通行数据",
+          "actor_type": "新闻",
+          "text": "5/21-5/22 共4艘通行 其中2艘出湾Tanker",
+          "details": "海峡日度通行：5/21 17:30 - 5/22 17:30 共4艘，其中2艘出湾Tanker。伊朗方面称过去24小时31艘船只在IRGC的帮助下穿越了霍尔木兹海峡。",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "伊朗与阿曼讨论海峡永久过境收费 拟豁免中俄",
+          "details": "BBG报道伊朗和阿曼正在讨论建立霍尔木兹海峡永久性过境收费系统，伊朗提议对商船征收高额费用，并对俄罗斯和中国等盟友给予豁免。",
+          "important": false
+        },
+        {
+          "actor": "美国众议院",
+          "actor_type": "US-Congress",
+          "text": "众议院因共和党缺席取消对伊朗投票",
+          "details": "众议院领导人因共和党议员缺席取消对伊朗的投票。",
+          "important": false
+        },
+        {
+          "actor": "美国代理海军部长Hung Cao",
+          "actor_type": "US-Executive",
+          "text": "对台军售确认暂停 为保障对伊朗弹药供应",
+          "details": "美国对台军售确认暂停。美国代理海军部长高雄 Hung Cao 告诉参议员，对台湾的武器运输已经暂停，但目的是为了确保我们拥有对伊朗行动所需要的弹药。",
+          "important": false
+        },
+        {
+          "actor": "卡塔尔航空",
+          "actor_type": "Corporate",
+          "text": "卡塔尔航空因美以对伊战争今年不发奖金",
+          "details": "由于美以对伊朗的战争迫使卡塔尔航空公司取消了数万个航班，损失了数十亿美元的收入，卡塔尔航空公司（QCSC）今年将不会向近6万名员工发放奖金。",
+          "important": false
+        },
+        {
+          "actor": "BofA Sebastian Raedler",
+          "actor_type": "Analyst",
+          "text": "BofA：市场对海峡关闭风险定价过于乐观",
+          "details": "BofA Sebastian Raedler：全球金融市场对霍尔木兹海峡关闭引发的能源供应冲击表现出异常韧性，当前定价同时反映了三个矛盾命题：第一，金融风险溢价接近20年低点，这意味着市场预计增长将重新加速；第二，石油库存正快速消耗，若海峡不迅速重开，库存将降至极低水平，供需缺口只能通过需求破坏来调整；第三，预测市场显示海峡在6月底前重开概率仅30%，8月底前仅40%。若海峡长期关闭且库存耗尽，市场对需求破坏风险的定价则过于乐观。",
+          "important": false
+        },
+        {
+          "actor": "@AimenDean",
+          "actor_type": "KOL",
+          "text": "KOL：Trump急于结束冲突 或接受战略让步",
+          "details": "@AimenDean：Trump坚信战争在美国国内不受欢迎，优先'国内优先'（America First），急于结束冲突，即使接受几周前还会被视为'耻辱'的协议也在所不惜。从最初'伊朗必须无条件投降'，到现在可能演变成美国战略让步。",
+          "important": false
+        },
+        {
+          "actor": "trap zack",
+          "actor_type": "KOL",
+          "text": "KOL：伊朗谈判'新闻'多为反复炒作的旧消息",
+          "details": "trap zack：关于伊朗谈判进展'新闻'很多是陈旧的假消息，被反复炒冷饭，却依然能带动市场波动。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "IRNA",
+        "ISNA",
+        "ILNA",
+        "Al Jazeera",
+        "Reuters",
+        "Bloomberg"
+      ],
+      "date": "2026-05-22",
+      "image_urls": []
+    },
+    {
+      "id": "fed-warsh-policy-jun23",
+      "topic": "美联储",
+      "topic_tag": "fed",
+      "title": "Warsh今日宣誓 主张实时通胀指标与缩表",
+      "summary": "Warsh 上午 11 点宣誓就任，Nick 披露其政策框架：摒弃菲利普斯曲线、主张通胀源于政府过度支出、利用大数据建立实时通胀指标、呼吁缩表并重签财政部-美联储协议、减少点阵图发声。Goolsbee 警示严重通胀问题，Barkin 称通胀冲击持续性或挑战'look through'策略。",
+      "bullets": [
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "Nick：Warsh主张实时通胀指标 缩表 弱化点阵图",
+          "details": "Nick：Warsh摒弃了传统的菲利普斯曲线（即认为就业和薪资增长推动通胀的观点），坚信通胀源于政府的过度支出。他批评现有的通胀数据过于滞后，主张利用大数据建立'实时通胀衡量指标'；认为BS过大，呼吁重签'财政部-美联储协议'以恢复两者的独立性；他主张美联储应当减少对短期利率路径的公开预测（如修改或取消'点阵图'），减少频繁的发声，从而避免陷入政治争议。",
+          "important": true
+        },
+        {
+          "actor": "Warsh",
+          "actor_type": "Central-Bank",
+          "text": "Warsh宣誓仪式上午11点开始",
+          "details": "Warsh宣誓仪式上午11点开始。",
+          "important": false
+        },
+        {
+          "actor": "Goolsbee",
+          "actor_type": "Central-Bank",
+          "text": "Goolsbee：就业稳定 关注严重通胀问题",
+          "details": "Goolsbee：就业稳定关注通胀，目前有严重的通胀问题。",
+          "important": false
+        },
+        {
+          "actor": "Barkin",
+          "actor_type": "Central-Bank",
+          "text": "Barkin：通胀冲击持续性或挑战look through策略",
+          "details": "Barkin：通胀冲击的持续性可能挑战教科书式的'look through'应对策略，目前为止长期通胀预期稳定。",
+          "important": false
+        },
+        {
+          "actor": "GS William Marshall",
+          "actor_type": "Analyst",
+          "text": "GS：Fed资产负债表预计温和扩张 准备金稳定在11%",
+          "details": "GS William Marshall：美联储资产扩张主要由证券购买驱动，负债端结构变化反映准备金、财政部现金余额及流通货币的同步增长。自2008年中以来，美联储资产负债表增长了$5.8T，占GDP比重从6.4%升至约21%。证券持有量的增加是资产端扩张的全部来源；负债端约一半增长来自准备金余额，此外TGA和流通货币也有显著增长。预计美联储资产负债表将温和扩张，准备金占比逐步稳定在11%左右。",
+          "important": false
+        },
+        {
+          "actor": "BofA Aditya Bhave",
+          "actor_type": "Analyst",
+          "text": "BofA：核心PCE升至3.5%或将启动加息讨论",
+          "details": "BofA Aditya Bhave：部分官员已开始讨论加息的可能性。美联储在面对持续的通胀压力时，可能比市场预期更早转向收紧政策，若核心PCE通胀年率上升至3.5%且失业率降至4.0%或以下，加息将被提上日程。",
+          "important": false
+        },
+        {
+          "actor": "Ed Bradford",
+          "actor_type": "KOL",
+          "text": "Ed Bradford：3%中性利率锚定过头 Fed或一年内加息",
+          "details": "Ed Bradford：对3%中性利率的锚定有点过头了。5Y对于Fed过于昂贵，因为Fed接下来大概率是暂停降息，甚至可能在一年内加息，而不是继续大幅降息。",
+          "important": false
+        },
+        {
+          "actor": "@JeremyWS",
+          "actor_type": "KOL",
+          "text": "JeremyWS：SR3Z7低位空头或触发挤压",
+          "details": "@JeremyWS：SR3Z7合约上大量低位空头头寸的出现，为挤压行情埋下了隐患，最终yield可能更高，但是短期可能会反向。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-05-22",
+      "image_urls": []
+    },
+    {
+      "id": "trump-other-jun23",
+      "topic": "Trump其他表态",
+      "topic_tag": "policy",
+      "title": "Trump：增兵波兰 关注古巴 不确定参院控制权",
+      "summary": "Trump 称将向波兰增派 5000 名士兵，理由是民族主义者卡罗尔·纳沃茨基当选波兰总统；称古巴是失败国家拟采取行动；不确定是否会丧失参院控制权。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "美国将向波兰增派5000名士兵",
+          "details": "美国将向波兰增派5000名士兵，理由是民族主义者卡罗尔·纳沃茨基当选波兰总统。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：古巴是失败国家 或采取行动",
+          "details": "古巴是一个失败的国家，我们像开放古巴，有意随古巴提供人道主义援助，看来得对古巴采取行动了。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：不清楚是否会丧失参院控制权",
+          "details": "我不清楚是否会丧失对参院控制权。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-05-22",
+      "image_urls": []
+    },
+    {
+      "id": "china-regulation-jun23",
+      "topic": "中国证券监管",
+      "topic_tag": "policy",
+      "title": "八部门整治非法跨境券商 富途老虎长桥遭立案",
+      "summary": "证监会等八部门联合印发《综合整治非法跨境证券期货基金经营活动实施方案》，要求 2 年内全面取缔境外机构非法跨境经营，对富途、老虎、长桥等没收违法所得、立案调查并行政处罚。香港证监会同步增强反洗钱与开户标准。",
+      "bullets": [
+        {
+          "actor": "证监会等八部门",
+          "actor_type": "Foreign-Gov",
+          "text": "八部门2年整治非法跨境券商 富途老虎长桥被立案",
+          "details": "证监会等八部门近日联合印发《综合整治非法跨境证券期货基金经营活动实施方案》，要求经过2年集中整治，全面取缔境外证券期货基金经营机构（下称'境外机构'）非法跨境经营活动，同时对futu、老虎、长桥等证券境内非法经营证券业务没收违法所得、进行立案调查并作行政处罚。",
+          "important": true
+        },
+        {
+          "actor": "香港证监会",
+          "actor_type": "Foreign-Gov",
+          "text": "港证监会增强反伪造文件及反洗钱措施",
+          "details": "香港证监会：增强措施以应对伪造文件及洗钱风险并提高开户标准。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "FUTU",
+        "TIGR"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-05-22",
+      "image_urls": []
+    },
+    {
+      "id": "china-ai-stocks-jun23",
+      "topic": "中国AI概念股",
+      "topic_tag": "ai",
+      "title": "监管关注AI炒作 智普MiniMax或入恒指",
+      "summary": "彭博称中国监管机构密切关注 AI 乐观情绪推动的股市上涨，要求部分公司及 ETF 提供 AI 应用细节；上交所深交所要求多家公司澄清业务与 AI 是否实质相关。同时智普科技和 MiniMax 被视为恒生指数候选股，纳入或引发数十亿美元资金流入。",
+      "bullets": [
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "中国监管要求公司ETF披露AI应用细节",
+          "details": "BBG消息人士透露，中国监管机构正在密切关注近期受人工智能乐观情绪推动的股市上涨行情，并要求部分上市公司和交易所交易基金（ETF）提供更多关于其人工智能技术应用细节的信息。上海证券交易所和深圳证券交易所近期已要求多家上市公司澄清其核心业务是否与人工智能存在实质性关联。",
+          "important": true
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "智普MiniMax或入恒指 周五季度评估",
+          "details": "BBG报道中国最热门的人工智能概念股或将成为香港恒生指数的候选股，一旦纳入恒生指数，将开启联交所交易，有望引发数十亿美元的资金流入。智普科技和 MiniMax 被视为恒生科技股和恒生综合股的有力竞争者，恒生指数公司将于本周五进行季度评估。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-05-22",
+      "image_urls": []
+    },
+    {
+      "id": "china-national-team-jun23",
+      "topic": "中国国家队ETF",
+      "topic_tag": "macro-other",
+      "title": "国家队2026H1拟减持ETF约90%",
+      "summary": "彭博报道中国国家队计划在 2026 年上半年减持追踪国内股票的 ETF 约 90%，已售出约 170B 此类 ETF（2026 年到期），其中 4 月初以来已售出 30B。",
+      "bullets": [
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "国家队2026H1拟减持ETF约90% 4月以来已减30B",
+          "details": "BBG报道中国国家队计划在 2026 年上半年减持追踪国内股票的ETF约 90%。已售出约 170B 的此类 ETF（2026 年到期），其中自 4 月初以来已售出 30B。",
+          "important": true
+        },
+        {
+          "actor": "Bloomberg图表",
+          "actor_type": "新闻",
+          "text": "图表：八只国家队ETF持续净流出",
+          "details": "Bloomberg图表显示八只国家队ETF净流入数据，2026年4-5月持续出现大幅净流出，单日最高达约40B yuan流出。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-05-22",
+      "image_urls": [
+        "/uploads/2026-05-22/1f28384f19c3.png"
+      ]
+    },
+    {
+      "id": "em-turkey-india-jun23",
+      "topic": "新兴市场",
+      "topic_tag": "rates",
+      "title": "土耳其反对党被颠覆 股指暴跌6% 印度考虑加息",
+      "summary": "土耳其法院判决'颠覆'最大反对党，股指暴跌 6%，国有行抛售 6B 美债捍卫里拉；3 月份土耳其几乎清仓美国国债。印度考虑所有选项应对卢比暴跌，包括加息。",
+      "bullets": [
+        {
+          "actor": "土耳其",
+          "actor_type": "Foreign-Gov",
+          "text": "土法院颠覆最大反对党 股指暴跌6% 抛6B护里拉",
+          "details": "土耳其法院判决'颠覆'最大反对党，股指暴跌6%，国有行抛售6B捍卫里拉。土耳其在3月份几乎清仓美国国债，以力挺里拉。",
+          "important": true
+        },
+        {
+          "actor": "印度央行",
+          "actor_type": "Central-Bank",
+          "text": "印度考虑所有选项应对卢比暴跌 包括加息",
+          "details": "印度考虑所有选项来应对卢比暴跌，包括加息。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-22",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-buyside-positioning-jun23",
+      "topic": "买卖方持仓观点",
+      "topic_tag": "earnings",
+      "title": "Citadel：26年回购或破1T ETF流入852B CTA仓位极端",
+      "summary": "Citadel 预计 2026 年美股回购超 1T，静默期前日均回购需求 5B；散户追逐大市值科技与半导体；ETF 年内流入 852B，杠杆 ETF 规模升至 203B 形成合成负 Gamma；CTA 仓位在纳指/标普/罗素 2000 已到数月乃至数年高点。期权偏度触及一年最平，保护成本极低显示牛市后期亢奋。韩国/台湾股市资金流出加剧。",
+      "bullets": [
+        {
+          "actor": "Citadel",
+          "actor_type": "Analyst",
+          "text": "Citadel：26年回购破1T 静默期前日均5B最强支撑",
+          "details": "Citadel：2026 年美股回购规模预计将突破 1T。在 6/15进入'静默期'前，企业日均回购需求高达约 5B，是市场最强的结构性支撑；散户资金不再炒作Meme Stocks，而是极其集中地追逐大市值科技股和半导体；ETF 年内流入达 852B。每 1 美元流入SPX，就有近半数机械性地流向巨头或 AI 相关股票。同时，杠杆 ETF 资产规模激增至 203B，其带来的'合成负 Gamma（synthetic short gamma）'效应可能会在市场掉头时放大跌幅；CTA基金在纳指、标普、罗素 2000 的仓位已飙升至数月乃至数年高点。这意味着后续追涨的买盘有限，而一旦市场下跌，触发的抛压将远超买盘。",
+          "important": true
+        },
+        {
+          "actor": "Citadel",
+          "actor_type": "Analyst",
+          "text": "Citadel：期权偏度触及一年最平 牛市后期亢奋",
+          "details": "Citadel：市场近期出现'标的上涨、波动率同步上升'的异象。由于投资者疯狂追逐看涨期权，看跌/看涨期权偏度触及一年来最平水平。目前保护成本极低，呈现典型的牛市后期亢奋特征。",
+          "important": false
+        },
+        {
+          "actor": "JPM Rajiv Batra",
+          "actor_type": "Analyst",
+          "text": "JPM：韩股周净流出$12.8B 台湾$4.5B 创纪录赎回",
+          "details": "JPM Rajiv Batra：韩国股市延续历史性的资金外流，当周净流出$12.8B（前一周为$16B），连续两周出现创纪录的赎回。台湾股市净流出$4.5B，较前一周的$1.3B显著恶化，科技股敞口较高的市场承压明显。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "QQQ"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-05-22",
+      "image_urls": []
+    },
+    {
+      "id": "openai-valuation-jun23",
+      "topic": "OpenAI估值",
+      "topic_tag": "ai",
+      "title": "OpenAI若$60bn IPO将超沙特阿美记录 $1trn估值列全球14",
+      "summary": "Deutsche Bank 数据显示，60bn 美元 IPO 将超过沙特阿美（25.6B）创下记录的两倍以上；1 万亿美元估值将使 OpenAI 成为全球第 14 大公司，排在伯克希尔之后、礼来之前。",
+      "bullets": [
+        {
+          "actor": "Deutsche Bank Research",
+          "actor_type": "Analyst",
+          "text": "OpenAI $60bn IPO将超沙特阿美记录两倍",
+          "details": "Figure 1: A $60bn IPO would be more than double Saudi Aramco's record. OpenAI (TBC) 60 vs Saudi Aramco (2019) 25.6 (real adj. 32.6), Alibaba (2014) 21.8 (30.0), SoftBank Corp (2018) 21.3 (27.6), NTT Mobile (1998) 18.1 (36.1), AIA (2010) 17.8 (26.6), Visa (2008) 17.4 (26.3), Enel (1999) 16.4 (32.0), Meta (2012) 16 (22.7).",
+          "important": true
+        },
+        {
+          "actor": "Deutsche Bank Research",
+          "actor_type": "Analyst",
+          "text": "$1trn估值将使OpenAI成全球第14大公司",
+          "details": "Figure 2: A $1trn valuation would make OpenAI the world's 14th biggest company. 排序为 1.Nvidia, 2.Alphabet, 3.Apple, 4.Microsoft, 5.Amazon, 6.Broadcom, 7.TSMC, 8.Saudi Aramco, 9.Tesla, 10.Meta, 11.Samsung Electronics, 12.Walmart, 13.Berkshire Hathaway, 14.OpenAI (TBC), 15.Eli Lilly。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "GOOGL",
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "AVGO",
+        "TSM",
+        "TSLA",
+        "META"
+      ],
+      "image_indexes": [
+        1
+      ],
+      "importance": 2,
+      "sources": [
+        "Deutsche Bank Research"
+      ],
+      "date": "2026-05-22",
+      "image_urls": [
+        "/uploads/2026-05-22/903063c769f8.png"
+      ]
+    }
+  ]
+}
