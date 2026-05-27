@@ -426,7 +426,13 @@ async function transcribeImages(client, model, images) {
     type: 'text',
     text: `请把以上 ${images.length} 张图片（按 idx=0,1,...,${images.length - 1} 顺序）逐张转写。务必返回每一张的转写，数组长度必须等于 ${images.length}。`,
   });
-  const resp = await client.messages.create({
+  // Use streaming (.stream) instead of .create. The SDK refuses non-streaming
+  // requests when it estimates the operation may take >10 min, which kicks in
+  // around 10+ images at max_tokens=32K — i.e. exactly our heavy-load case.
+  // .finalMessage() awaits the assembled Message, so downstream tool_use
+  // extraction is unchanged. Per user 2026-05-26: 11 images was tripping
+  // "Streaming is required for operations that may take longer than 10 minutes".
+  const stream = client.messages.stream({
     model,
     // Bumped from 16000 to 32000 — N images at ~2-4K tokens each can blow
     // the 16K ceiling, leading to truncated tool_use blocks and empty
@@ -439,6 +445,7 @@ async function transcribeImages(client, model, images) {
     tool_choice: { type: 'tool', name: TRANSCRIBE_TOOL.name },
     messages: [{ role: 'user', content: userContent }],
   });
+  const resp = await stream.finalMessage();
   const toolUse = resp.content.find((b) => b.type === 'tool_use');
   if (!toolUse) {
     console.error('[ingestApi] transcribe: no tool_use block.',
@@ -558,9 +565,14 @@ async function callClaude({ env, kind, text, images, imageUrls, date, modelOverr
     console.log('[ingestApi] events dedup: appended macro context from', date);
   }
 
-  const response = await client.messages.create({
+  // Streaming + 32K output: same reasoning as transcribeImages — when the
+  // vision fallback fires and 11 images go straight to Opus, the SDK refuses
+  // non-streaming, AND the output JSON for 10+ topics easily exceeds 16K.
+  // Per user 2026-05-26: previous run hit max_tokens=16000 with truncated
+  // tool_use → empty `{}` rendered in UI.
+  const stream2 = client.messages.stream({
     model,
-    max_tokens: 16000,
+    max_tokens: 32000,
     // System prompt is stable across requests — mark for prefix cache.
     system: [
       { type: 'text', text: systemText, cache_control: { type: 'ephemeral' } },
@@ -569,6 +581,7 @@ async function callClaude({ env, kind, text, images, imageUrls, date, modelOverr
     tool_choice: { type: 'tool', name: tool.name },
     messages: [{ role: 'user', content: userContent }],
   });
+  const response = await stream2.finalMessage();
 
   // Extract the forced tool_use block.
   const toolUse = response.content.find((b) => b.type === 'tool_use');
