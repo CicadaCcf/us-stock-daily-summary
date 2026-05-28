@@ -1,0 +1,430 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis-2026-05-27",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊谈判逼近框架协议 霍尔木兹与核条款仍存分歧",
+      "summary": "Rubio称谈判框架稳固有望几日内达成，重点在霍尔木兹开放与定时核谈判；但美伊在HEU处置、资金解冻顺序、海峡通行权限上仍存明显差异。伊朗议员透露草案含60天黎巴嫩等地全面停火、解冻资产与解除海上封锁。伊朗已恢复互联网，25艘船24小时内获准通过海峡。",
+      "bullets": [
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "美伊谈判框架稳固 数日内或达成",
+          "details": "Rubio表示谈判框架稳固，可能几天内达成，重点在霍尔木兹开放与定时核谈判。",
+          "important": true
+        },
+        {
+          "actor": "美伊谈判",
+          "actor_type": "新闻",
+          "text": "核条款与资金解冻排序双方表述存差异",
+          "details": "美方强调伊朗原则同意处置高浓缩铀（HEU）库存作为条件；伊朗公开否认核问题纳入当前框架或称\"浓缩无退让\"。霍尔木兹开放标准及其与资产解冻先后顺序也存争议——美方推开放优先，伊朗反对必须先解冻后再开放，伊朗坚持在谅解备忘录发布后收回其一半被冻结资金。这些差异可能为谈判施压策略，美方通过媒体乐观表态，伊朗维持强硬避免国内示弱，整体框架共识较多但尚无立即敲定迹象。",
+          "important": false
+        },
+        {
+          "actor": "霍尔木兹海峡条款",
+          "actor_type": "新闻",
+          "text": "海峡通行权限：美要求无限制 伊要求保留批准权",
+          "details": "美方要求无限制全球通行、移除所有封锁；伊朗坚持保留路线批准权、监视权及可能的通行费，不接受完全放弃控制。伊朗强调霍尔木兹开放需在其权威下逐步进行，可能在协议后30天内。美媒称美国悄然恢复霍尔木兹海峡护航，美军否认。",
+          "important": false
+        },
+        {
+          "actor": "伊朗议员布鲁杰尔迪",
+          "actor_type": "Foreign-Gov",
+          "text": "草案含60天黎巴嫩等地全面停火 解冻资产解除封锁",
+          "details": "伊朗议员布鲁杰尔迪表示，伊朗和美国达成的协议草案规定，华盛顿将承诺在包括黎巴嫩在内的范围内实施为期60d的全面停火。该协议的其他要求还包括解冻伊朗大部分被冻结的资产以及解除海上封锁。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump嘲讽媒体报道伊朗冲突",
+          "details": "Trump嘲讽媒体对伊朗冲突的报道，称即便德黑兰\"彻底投降\"，媒体仍会宣称伊朗取得了对美国的\"辉煌胜利\"。",
+          "important": false
+        },
+        {
+          "actor": "伊朗外交部Baghaei",
+          "actor_type": "Foreign-Gov",
+          "text": "Baghaei：多议题共识但无立即协议 核非当前重点",
+          "details": "伊朗外交部发言人Baghaei表示多议题达成共识但无立即协议，因美方政策不稳定；核问题非当前重点，坚持浓缩无退让且拒绝某些排序要求，新协议与以往不同，\"将采用完全不同的程序\"。",
+          "important": false
+        },
+        {
+          "actor": "伊朗总统",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗总统：准备达成\"有尊严的\"框架协议",
+          "details": "伊朗总统：已准备好达成\"有尊严的\"框架协议，毫不动摇捍卫领土与国家主权。",
+          "important": false
+        },
+        {
+          "actor": "IRGC",
+          "actor_type": "Foreign-Gov",
+          "text": "IRGC称击落美军Reaper无人机 威胁报复但外交继续",
+          "details": "伊朗IRGC谴责美国\"违反停火协议\"，称击落美军Reaper无人机，并威胁报复但外交继续。半岛电视台援引IRGC一名官员的话说，战争爆发的可能性很低，但其部队已做好准备。",
+          "important": false
+        },
+        {
+          "actor": "Ben Gvir",
+          "actor_type": "Foreign-Gov",
+          "text": "以色列极右翼部长：不会允许特朗普与伊朗达成协议",
+          "details": "以色列极右翼部长Ben Gvir：以色列不会允许特朗普与伊朗达成协议。以色列继续/加强针对黎巴嫩真主党的攻击。",
+          "important": false
+        },
+        {
+          "actor": "航运",
+          "actor_type": "新闻",
+          "text": "25艘船24小时内获准通过海峡 ADNOC LNG已驶离",
+          "details": "25艘船只在过去24小时内获伊朗许可通过；一艘载有阿布扎比国家石油公司(ADNOC)LNG已驶离霍尔木兹海峡。",
+          "important": false
+        },
+        {
+          "actor": "伊朗国内",
+          "actor_type": "新闻",
+          "text": "伊朗互联网已全面恢复连接",
+          "details": "伊朗媒体称国内互联网已全面恢复连接。WSJ亦报道伊朗国内已全面恢复互联网连接。NetBlocks数据显示连接性从最低1%恢复至当前86%。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "半岛电视台",
+        "Bloomberg"
+      ],
+      "date": "2026-05-27",
+      "image_urls": [
+        "/uploads/2026-05-27/231c31edfa69.jpg"
+      ]
+    },
+    {
+      "id": "fed-logan-oil-2026-05-27",
+      "topic": "Fed/政策利率",
+      "topic_tag": "fed",
+      "title": "Logan警告若海峡不复 油气消费需更大下降；DB图示Fed利率低于规则",
+      "summary": "Dallas Fed的Logan指由于供应高度受限，若霍尔木兹航运不能尽快恢复战前水平，全球油气消费量需比目前下降更大幅度。DB图表显示Fed funds rate已低于Taylor Rule等政策规则建议，最后一轮保险性降息后差距进一步扩大。",
+      "bullets": [
+        {
+          "actor": "Logan (Dallas Fed)",
+          "actor_type": "Central-Bank",
+          "text": "Logan：若海峡不复 油气消费需更大幅下降",
+          "details": "由于供应高度受限，如果经由霍尔木兹海峡的航运不能很快恢复到战前水平，世界石油和天然气消费量可能需要比目前下降幅度更大。",
+          "important": true
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "DB：Fed funds已低于Taylor Rule等规则建议",
+          "details": "Figure 1显示Fed funds rate在最后一轮保险性降息后已低于政策规则处方（包括Fed自身r*估算），若用DB r*估算差距更大。Taylor Rule与Balanced Approach 2026年上行至约4.8%，而Fed funds维持在约3.6-3.7%。图中标注Sep-Dec 2024与Sep-Dec 2025两轮降息。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3
+      ],
+      "importance": 2,
+      "sources": [
+        "Deutsche Bank Research"
+      ],
+      "date": "2026-05-27",
+      "image_urls": [
+        "/uploads/2026-05-27/3fcc49727285.png"
+      ]
+    },
+    {
+      "id": "trade-nafta-tariff-2026-05-27",
+      "topic": "贸易/关税",
+      "topic_tag": "policy",
+      "title": "Greer：USMCA重谈仍维持对墨加关税",
+      "summary": "美贸易代表Greer表示尽管美国正启动北美自由贸易协定改革谈判，但特朗普政府仍打算维持对墨西哥和加拿大进口商品征收关税。",
+      "bullets": [
+        {
+          "actor": "Greer (USTR)",
+          "actor_type": "US-Executive",
+          "text": "USMCA谈判启动 但对墨加关税仍将保留",
+          "details": "尽管美国正启动北美自由贸易协定改革谈判，但特朗普政府仍打算维持对墨西哥和加拿大进口商品征收关税。",
+          "important": true
+        },
+        {
+          "actor": "中国出境管制",
+          "actor_type": "新闻",
+          "text": "BBG：中国限制阿里DeepSeek顶尖AI人才出境",
+          "details": "BBG报道中国正在限制阿里巴巴、DeepSeek等民营企业中，从事先进、战略性AI工作的顶尖专业人士出境。这些人在出国前，需要先获得相关部门批准。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "BABA"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-05-27",
+      "image_urls": []
+    },
+    {
+      "id": "ai-supply-chain-2026-05-27",
+      "topic": "AI产业链",
+      "topic_tag": "ai",
+      "title": "黄仁勋台湾每年投150亿；台积电3nm拟涨15%；字节资本开支冲100B",
+      "summary": "黄仁勋称台湾为AI革命\"震中\"，公司计划每年投入约150B；Rubin芯片7-8月完成最终封装但Rubin CPX前景不明朗。台积电拟2026H2将3nm涨价至多15%、2027年再涨5-10%。字节今年资本开支讨论高达70B，明年或冲约100B。IREN以1.6B从戴尔购Blackwell风冷系统。三星越南投1.5B建测试厂。",
+      "bullets": [
+        {
+          "actor": "台积电",
+          "actor_type": "Corporate",
+          "text": "台积电拟2026H2将3nm涨价至多15% 2027再涨5-10%",
+          "details": "由于人工智能加速器需求激增，台积电计划在2026年下半年将3nm工艺芯片的价格上调至多15%，并预计2027年可能还会再上调5%-10%。该报道援引了未具名的供应链消息人士。",
+          "important": true
+        },
+        {
+          "actor": "黄仁勋 (NVDA)",
+          "actor_type": "Corporate",
+          "text": "黄仁勋：每年在台湾投资约150B 台湾为AI革命震中",
+          "details": "NVDA CEO称该公司计划每年在台湾投资约150B，称台湾是人工智能革命的\"震中\"，并预测台湾将长期保持世界科技制造中心的地位。",
+          "important": false
+        },
+        {
+          "actor": "NVDA Rubin",
+          "actor_type": "新闻",
+          "text": "首批Rubin芯片7-8月完成封装；Rubin CPX前景不明",
+          "details": "据称英伟达首批Rubin芯片将于7月至8月完成最终封装，并开始交付给系统组装合作伙伴；NVIDIA推理GPU\"Rubin CPX\"的发布前景变得不明朗。尽管该公司最初宣布计划在今年下半年发布，但目前已确认尚未开始订购或开发相关的内存和基板，这引发了人们的疑虑。",
+          "important": false
+        },
+        {
+          "actor": "字节跳动",
+          "actor_type": "Corporate",
+          "text": "字节资本开支今年讨论达70B 明年或冲100B",
+          "details": "字节跳动计划大幅增加今明两年的资本支出，以引领中国人工智能市场并挑战美国顶尖企业在海外的地位。据彭博社消息人士透露，该公司正在讨论今年高达70B的支出，并可能在明年将资本支出提高至约100B。",
+          "important": false
+        },
+        {
+          "actor": "IREN",
+          "actor_type": "Corporate",
+          "text": "IREN以1.6B从戴尔购入Blackwell风冷系统",
+          "details": "IREN宣布已同意以约1.6B的价格从戴尔手中收购英伟达的Blackwell风冷系统，旨在提升其在线处理能力，以满足不断增长的人工智能需求。该交易将用于履行此前宣布的与戴尔签订的价值3.4B的五年期云人工智能服务合同。",
+          "important": false
+        },
+        {
+          "actor": "三星",
+          "actor_type": "Corporate",
+          "text": "三星越南投1.5B建半导体测试厂 工会通过奖金协议避免罢工",
+          "details": "三星电子的工会成员已批准上周与公司达成的临时奖金协议，避免了这家全球最大存储芯片制造商的罢工。三星计划在越南投资1.5B建设一座半导体测试工厂。此举将有助于缓解人工智能需求激增导致的全球内存芯片短缺问题。",
+          "important": false
+        },
+        {
+          "actor": "MiniMax",
+          "actor_type": "Corporate",
+          "text": "MiniMax加入稀疏注意力机制行列",
+          "details": "MiniMax也加入了稀疏注意力机制的行列。",
+          "important": false
+        },
+        {
+          "actor": "East Asia Econ",
+          "actor_type": "Analyst",
+          "text": "韩台电脑CPI同比飙升 韩约+14-15% 台约+7%",
+          "details": "Region CPI图表显示Korea与Taiwan电脑价格同比通胀，韩国2025-2026年飙升至约+14-15%，台湾约+7%，反映AI需求对内存与电脑硬件价格的拉动。Latest: Apr 2026。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "TSM",
+        "IREN",
+        "DELL",
+        "005930"
+      ],
+      "image_indexes": [
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-05-27",
+      "image_urls": [
+        "/uploads/2026-05-27/1f87ebd1c1ef.jpg"
+      ]
+    },
+    {
+      "id": "sellside-views-2026-05-27",
+      "topic": "卖方观点",
+      "topic_tag": "earnings",
+      "title": "GS上调SPX年底目标至8000；BofA与花旗解读PCE/降息；野村BofA上调日股",
+      "summary": "GS将SPX年底目标从7600上调至8000（+6.4%空间），AI基建受益者贡献今年EPS增长一半。BofA估核心PCE需加速至3.5%以上才触发加息；沃什主张AI去通胀繁荣下应前瞻降息。花旗称油价续跌或令降息预期重定价。BofA/野村均上调日股目标。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs Strategy",
+          "actor_type": "Analyst",
+          "text": "GS将SPX年底目标从7600上调至8000",
+          "details": "GS Strategy将SPX的年底目标价从7600点上调至8000点，这意味着较周二收盘价有6.4%的上涨空间。这些策略师预计，AI基础设施投资的受益者将贡献今年每股收益增长的一半左右。EPS预期已跑赢市场涨幅。",
+          "important": true
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "BofA：核心PCE需加速至3.5%以上才触发加息",
+          "details": "本周PCE通胀数据或测试美联储加息门槛，核心PCE需再加速至3.5%以上才可能触发加息，预计4月整体PCE环比上涨0.4%（同比3.8%），核心PCE环比上涨0.3%（同比3.3%）。",
+          "important": false
+        },
+        {
+          "actor": "沃什 (Warsh)",
+          "actor_type": "Analyst",
+          "text": "沃什：AI去通胀繁荣下应前瞻降息 类比格林斯潘90s",
+          "details": "沃什认为AI将带来去通胀的生产力繁荣，美联储应前瞻性地降息，类比格林斯潘1990年代对生产力的\"赌注\"，但格林斯潘当年并未降息，而是抵制加息；支持通过允许银行预抵押品到贴现窗口等方式降低准备金需求，预计减少$200-500B，但过程缓慢。他可能加速美联储持有的美国国债加权平均期限缩短，但市场影响有限，除非财政部意外增加长端发行；首次政策信号可能在6月新闻发布会，市场关注其基调。",
+          "important": false
+        },
+        {
+          "actor": "Citi Economics",
+          "actor_type": "Analyst",
+          "text": "花旗：前端收益率过度定价加息 油跌或令降息预期重定价",
+          "details": "受霍尔木兹海峡重开协议预期推动，美债收益率和油价已跌至近期区间低点，但前端收益率仍过度定价加息概率。若油价续跌，降息预期可能在未来数周内重新定价。花旗预计劳动力市场放缓与通胀回落将主导政策转向，市场定价的近一次加息难以成立。",
+          "important": false
+        },
+        {
+          "actor": "BofA Japan",
+          "actor_type": "Analyst",
+          "text": "BofA上调TOPIX目标至4200、日经至67000",
+          "details": "日本股票在AI与硬件时代中期吸引力增强，工业结构优势凸显。TOPIX盈利收益率达6%，远高于10年期国债收益率2.8%，银行与AI板块支撑盈利。尽管指引保守，但历史规律预示业绩将阶梯式上调。上调年末TOPIX目标至4200点，日经225至67000点。",
+          "important": false
+        },
+        {
+          "actor": "Nomura Strategy",
+          "actor_type": "Analyst",
+          "text": "野村上调TOPIX 2026年底目标4000→4200 日经60000→68000",
+          "details": "上调了日本东证指数和日经指数的年底目标价，理由是AI相关行业的盈利和增长强于预期。野村将东证指数2026年底目标价从4000点上调至4200点，日经指数目标价从60000点上调至68000点。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "EWJ"
+      ],
+      "image_indexes": [
+        4
+      ],
+      "importance": 3,
+      "sources": [
+        "GS",
+        "BofA",
+        "Citi",
+        "Nomura"
+      ],
+      "date": "2026-05-27",
+      "image_urls": [
+        "/uploads/2026-05-27/308d3ce303b0.png"
+      ]
+    },
+    {
+      "id": "kol-views-2026-05-27",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "KOL：SPACEX IPO规则争议；MU collar；俄南方战线告急",
+      "summary": "Andy引期权市场年底前触8250概率56%、2030年触10000概率88%。多名KOL批SPACEX IPO修改NDX纳入规则伤散户。Alpha_Ex推MU 2028 collar结构。JayinKyiv评俄南方战线评估自开战以来最黑暗。Ed Bradford称30年期回升至5%。Brandon Carl论GPU现货价回落与内存涨价为泡沫末段标志。",
+      "bullets": [
+        {
+          "actor": "blockchainchick",
+          "actor_type": "KOL",
+          "text": "SPACEX IPO修改NDX纳入规则 自由流通门槛取消",
+          "details": "SpaceX的IPO是现代市场史上最明目张胆的散户宰割事件。NDX已专门针对此次上市修改了指数规则。10%的最低自由流通股比例要求已取消。纳入指数前的3至12个月的\"成熟期\"已缩短至15个交易日。",
+          "important": true
+        },
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "短空：SPACEX将是史上最大最贵IPO 规则被改",
+          "details": "SPACEX将是我见过的规模最大、最昂贵的IPO。零售投资者、养老基金等将被迫通过ETF纳入其投资组合来购买该股票，而这只有通过彻底改变多项规则才能实现，从而为定价过高的IPO创造退出流动性。非常遗憾地看到这类规则的改变会损害所有投资者的利益。",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "Andy：年底触8250概率56% 2030触10000概率88%",
+          "details": "期权市场显示，年底前触及8250点的概率为56%，到2030年触及10000点的概率为88%。",
+          "important": false
+        },
+        {
+          "actor": "Alpha_Ex_LLC",
+          "actor_type": "KOL",
+          "text": "推荐MU 2028 Collar：买跌10%以下put 卖涨75%call",
+          "details": "推荐MU的Collar组合做风险管理，买入2028年12月到期、行权价低于现价10%的看跌期权（Put），同时卖出行权价高于现价75%的看涨期权（Call）来融资，几乎零成本甚至略有收入，实现\"保护下跌+限制上涨\"。",
+          "important": false
+        },
+        {
+          "actor": "JayinKyiv",
+          "actor_type": "KOL",
+          "text": "俄南方战线评估开战以来最黑暗 几乎收复2025初进展",
+          "details": "俄南方战线已陷入\"开战以来最黑暗评估\"。乌军无人机大规模打击克里米亚及扎波罗热补给线，几乎完全收复俄军2025年初在该方向的所有进展，补给道路频遭袭击，ZNPP核电站员工也成目标。警告若防线再破，南方后勤将全面崩溃，认为普京狂轰基辅正是前线绝望下的报复。",
+          "important": false
+        },
+        {
+          "actor": "Ed Bradford",
+          "actor_type": "KOL",
+          "text": "Ed Bradford：30年期国债价格回升至5%",
+          "details": "由于伊朗核协议提振了美国国债价格，前端美国国债供应和期货展期（月度合约转为空头合约）将主导交易流量。30年期国债价格回升至5%。",
+          "important": false
+        },
+        {
+          "actor": "Brandon Carl",
+          "actor_type": "KOL",
+          "text": "Brandon Carl：GPU现货价回落 内存涨价为泡沫末段",
+          "details": "GPU spot prices continuing down from their spike。泡沫破裂的最后阶段，投入价格总是会大幅上涨。1999年的光学设备，2007年的建筑业，2008年能源运输，今日内存价格，它改变了这些经济学家观点，是导致论文爆发的关键因素。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MU",
+        "SPX"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-27",
+      "image_urls": []
+    },
+    {
+      "id": "other-misc-2026-05-27",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "ETF数量首超美股上市公司；黄金CTA趋势阈值",
+      "summary": "Apollo图示美ETF数量已超越美股上市公司数量，2024年左右交叉，至2025年7月双双约4700/4000家。Gold CTA动量阈值显示2026年5月Short/Medium趋势已跌至0附近或转负，Long趋势仍正但下行。",
+      "bullets": [
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "Apollo：美ETF数量已超过上市公司数量",
+          "details": "More ETFs than publicly listed companies. 美ETF数量从2000年近0增长至2025年7月约4700只，同期美股上市公司数量从约6500家降至约4000家，两者在2024年前后交叉。",
+          "important": true
+        },
+        {
+          "actor": "Gold CTA",
+          "actor_type": "新闻",
+          "text": "黄金CTA Short/Medium趋势阈值已转负",
+          "details": "Gold CTA Momentum Thresholds: Long Trend Threshold从Feb 2026峰值约37降至May 2026约15-16；Medium Trend Threshold从约23-24降至约0附近；Short Trend Threshold从约12-13一度跌至约-10至-11，May 2026回升至约-4至-5。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GLD"
+      ],
+      "image_indexes": [
+        2,
+        5
+      ],
+      "importance": 1,
+      "sources": [
+        "Apollo"
+      ],
+      "date": "2026-05-27",
+      "image_urls": [
+        "/uploads/2026-05-27/7b002c619bab.png",
+        "/uploads/2026-05-27/c1093500730c.jpg"
+      ]
+    }
+  ]
+}
