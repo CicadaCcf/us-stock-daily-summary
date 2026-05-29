@@ -48,8 +48,16 @@ PUBLIC_DIR = ROOT / 'public'
 # original bubble map. New each trading day. Folder is created on first run.
 ARCHIVE_DIR = PUBLIC_DIR / 'archive' / 'finviz'
 
-# Default Finviz URL — user can override with --url
-DEFAULT_URL = 'https://finviz.com/bubbles.ashx'
+# Default Finviz URL — user can override with --url.
+# Per user 2026-05-26: lock filters into the URL so the daily screenshot is
+# stable and doesn't drift with whatever the logged-in session last looked at.
+#   x=sector, y=lastChange, size=marketCap, color=sector  (axes)
+#   idx=any                                               (no index filter)
+#   cap=midover                                           ("+Mid (over $2bn)" =
+#                                                          Mid + Large + Mega)
+DEFAULT_URL = ('https://finviz.com/bubbles'
+               '?x=sector&y=lastChange&size=marketCap&color=sector'
+               '&idx=any&cap=midover')
 # Default CDP endpoint matches the Chrome launch arg above
 DEFAULT_CDP = 'http://localhost:9222'
 # Output path relative to project root (latest, always overwritten)

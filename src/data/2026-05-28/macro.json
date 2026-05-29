@@ -1,0 +1,455 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊谈判拉锯：草案曝光遭白宫否认，军事摩擦持续",
+      "summary": "伊朗国媒曝光美伊停火框架草案（恢复海峡航运、解冻200亿、启动核谈判），白宫否认称为彻底捏造，强调伊朗须放弃高浓缩铀。Trump强硬表态伊朗在虚弱中谈判，美方制裁伊朗新设霍尔木兹海峡管理局。军事层面伊朗向美商船发射4架无人机被击落，美军反击班达尔阿巴斯地面控制站，科威特遭袭。",
+      "tickers": [
+        "USO",
+        "XLE",
+        "BNO"
+      ],
+      "image_indexes": [
+        5,
+        6
+      ],
+      "importance": 3,
+      "sources": [
+        "Reuters",
+        "CNN",
+        "NYT",
+        "BBC",
+        "Axios",
+        "Tasnim",
+        "Fars",
+        "AlArabiya"
+      ],
+      "date": "2026-05-28",
+      "bullets": [
+        {
+          "actor": "伊朗国家电视台",
+          "actor_type": "新闻",
+          "text": "曝光美伊停火框架草案：1月内恢复海峡航运+解冻200亿",
+          "details": "伊朗国家电视台曝光伊美\"停火框架\"草案：伊朗1mo内将霍尔木兹海峡航运恢复战前水平（可能由阿曼协助管理），美方解除海军封锁并撤出附近部队，可能解冻20B资金，并启动核谈判。",
+          "important": true
+        },
+        {
+          "actor": "White House",
+          "actor_type": "US-Executive",
+          "text": "白宫否认草案为\"完全捏造\"，要求伊朗放弃高浓铀",
+          "details": "白宫否认伊媒曝光草案，称此为\"complete fabrication\"，核条款核心要求伊朗放弃高浓缩铀库存作为任何制裁缓解前提；双方对霍尔木兹通行条款（国际水域 vs 伊朗/阿曼管理）表述完全对立，核实显示伊朗媒体为单方面宣称，美方未确认任何草案。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：伊朗\"在虚弱中谈判\"，海峡必须国际公海",
+          "details": "Trump称伊朗官员\"以为他们能比我坚持得更久\"，并不关心即将到来的美国中期选举；\"他们很想达成协议，目前做的还不够，我们还不满意…或者能让我们满意，或者我们继续打…海峡必须对所有人开放，伊朗想控制，没人应该控制，那是国际公海\"；在内阁会议上驳斥，强调伊朗\"negotiating on fumes/虚弱中谈判\"。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：伊朗放弃高浓铀也不解除制裁；亚伯拉罕协议挂钩",
+          "details": "伊朗即使放弃高浓缩铀也不会被解除制裁。如果阿联酋、沙特阿拉伯和卡塔尔不签署《亚伯拉罕协议》，他不知道是否会与伊朗达成协议。",
+          "important": false
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "Rubio：给伊朗谈判\"一切成功的机会\"",
+          "details": "Rubio称给伊朗谈判\"一切成功的机会\"。",
+          "important": false
+        },
+        {
+          "actor": "Lindsey Graham",
+          "actor_type": "US-Congress",
+          "text": "Graham：伊朗处于和平协议边缘，但核与海峡仍是分歧",
+          "details": "Lindsey Graham称伊朗因虚弱正处于和平协议边缘，但核计划限制与霍尔木兹控制仍是主要分歧点。",
+          "important": false
+        },
+        {
+          "actor": "美国财政部",
+          "actor_type": "US-Executive",
+          "text": "美财政部制裁伊朗新设\"霍尔木兹海峡管理局\"",
+          "details": "美国财政部宣布制裁伊朗\"霍尔木兹海峡管理局\"（新设收费机构）。",
+          "important": false
+        },
+        {
+          "actor": "Axios",
+          "actor_type": "新闻",
+          "text": "伊朗向美商船发射4架无人机，美军反击班达尔阿巴斯",
+          "details": "Axios确认，伊朗向霍尔木兹附近一艘美国商船发射4架单程无人机，美军击落全部并随后打击伊朗无人机发射单元及班达尔阿巴斯地面控制站（美国军方称打击为自卫行为）。AlArabiya与AJArabic确认无人员伤亡。",
+          "important": false
+        },
+        {
+          "actor": "Tasnim通讯社",
+          "actor_type": "新闻",
+          "text": "Tasnim：伊朗迫使美国油轮停船掉头，反驳美方说法",
+          "details": "Tasnim通讯社称，伊朗迫使一艘试图穿越霍尔木兹的美国油轮停船并掉头；美方打击\"违反停火\"，威胁将回应。另称美军仅向班达尔阿巴斯附近荒地开火，无损坏或伤亡；伊朗成功迫使美国油轮停船（与美方无人机袭击说法冲突）。",
+          "important": false
+        },
+        {
+          "actor": "科威特军方",
+          "actor_type": "Foreign-Gov",
+          "text": "科威特遭袭，IRGC称打击美军基地报复空袭",
+          "details": "科威特遭到袭击，科威特军方表示，他们正在拦截敌方导弹和无人机袭击，并告知居民寻找掩护。IRGC表示，他们袭击了一处美军基地，以回应美军的空袭，并将对任何未来的袭击进行报复。",
+          "important": false
+        },
+        {
+          "actor": "伊朗最高国安委",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗要求\"全部且无条件\"归还所有被冻结资产",
+          "details": "伊朗最高国家安全委员会副秘书长表示，伊朗正在寻求美国解冻其所有被冻结的资产。他补充说，伊朗被冻结的资产必须\"全部且无条件\"归还给伊朗。",
+          "important": false
+        },
+        {
+          "actor": "Ben-Gvir / 内塔尼亚胡",
+          "actor_type": "Foreign-Gov",
+          "text": "以色列：浮现的美伊协议对以\"极坏\"，要求完全拆核",
+          "details": "以色列极右翼部长Itamar Ben-Gvir称，正在浮现的美伊协议对以色列极坏，敦促内塔尼亚胡向特朗普施压，禁止任何允许伊朗保留核计划或导弹能力的协议；内塔尼亚胡此前坚持任何协议必须完全拆除伊朗核设施并移除所有浓缩铀。",
+          "important": false
+        },
+        {
+          "actor": "Fars",
+          "actor_type": "新闻",
+          "text": "Fars：Trump可能单方面宣布敲定协议以施压伊朗",
+          "details": "Fars称特朗普可能单方面宣布最终敲定协议，以向伊朗施压。",
+          "important": false
+        },
+        {
+          "actor": "主流媒体",
+          "actor_type": "新闻",
+          "text": "美伊通过卡塔尔/巴基斯坦中间人谈判，核心条款分歧明显",
+          "details": "Reuters、CNN、NYT、BBC等主流媒体报道，美伊谈判仍在通过卡塔尔/巴基斯坦等中间人进行，但核条款、霍尔木兹通行条款、资金解冻分歧明显。",
+          "important": false
+        },
+        {
+          "actor": "传言",
+          "actor_type": "Unknown",
+          "text": "传IRGC海军副司令Ali Azmaei可能遭定点暗杀，无官方确认",
+          "details": "传言IRGC海军副司令Ali Azmaei可能被针对暗杀的猜测，但无官方确认。",
+          "important": false
+        }
+      ],
+      "image_urls": [
+        "/uploads/2026-05-28/bbd220864aec.png",
+        "/uploads/2026-05-28/f5f1d47e594f.png"
+      ]
+    },
+    {
+      "id": "fed-officials-hawkish-hold",
+      "topic": "美联储",
+      "topic_tag": "fed",
+      "title": "Fed官员鹰派Hold：核心PCE 3.3%，AI基建成新长期风险",
+      "summary": "Cook指出核心PCE升至3.3%，AI基建狂潮（超1.5T数据中心规划）实质性推高芯片/建工/水电价格，UR稳于4.3%但下行风险升；Jefferson称通胀上行风险主导，就业稳定但风险略向下倾斜。卖方对4月PCE预测中位数核心0.28% m/m / 3.3% y/y。",
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [
+        "WSJ",
+        "Nick Timiraos"
+      ],
+      "date": "2026-05-28",
+      "bullets": [
+        {
+          "actor": "Cook",
+          "actor_type": "Central-Bank",
+          "text": "Cook：AI基建1.5T推高物价，失业潮或先于就业增长",
+          "details": "Core PCE升至3.3%，当前受关税与能源短期冲击；新长期风险点在于AI基建狂潮（超1.5T数据中心规划）正实质性推高芯片、建筑工人薪资及水电价格；UR稳于4.3%，但下行风险升高，明确警告AI重组可能引发阵痛，即\"失业潮可能先于就业增长到来\"。Hawkish Hold；通胀粘性触发加息，劳动力急剧恶化触发降息。",
+          "important": true
+        },
+        {
+          "actor": "Jefferson",
+          "actor_type": "Central-Bank",
+          "text": "Jefferson：通胀上行风险主导，就业\"双低\"僵持",
+          "details": "通胀前期因关税停滞，近期受能源冲击显著走高，尽管预计年内会随冲击消退而回落，但通胀上行风险主导；就业市场整体稳定，处于\"雇佣和解雇率双低\"的僵持状态，就业风险略微向下行倾斜。后续完全取决于 incoming data 和风险平衡。",
+          "important": false
+        },
+        {
+          "actor": "卖方共识",
+          "actor_type": "Analyst",
+          "text": "4月PCE卖方中位数：核心0.28% m/m / 3.3% y/y",
+          "details": "WSJ/Nick Timiraos汇总4月PCE预测：中位数Headline 0.44% m/m、3.8% y/y，Core 0.28% m/m、3.3% y/y；前月3月Headline 0.66% m/m、3.5% y/y，Core 0.29% m/m、3.2% y/y。涵盖BofA、Barclays、BNP、Citi、GS、JPM、Nomura、UBS、TD等共16家。",
+          "important": false
+        }
+      ],
+      "image_urls": [
+        "/uploads/2026-05-28/87bc759d3d4a.png"
+      ]
+    },
+    {
+      "id": "sellside-views",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "卖方：JPM散户份额降至四年低，MS看AI capex主导增长",
+      "summary": "JPM Flow&Liquidity指出2026Q1美国散户股票交易份额降至17%四年低，外资买美股放缓，比特币/黄金ETF流出显示退出'贬值交易'。MS预计AI capex主导2026-27经济增长，非住宅固投增长7%/8%，AI每年贡献GDP 0.4-0.5%。",
+      "tickers": [
+        "IGV",
+        "SPY"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "JPM",
+        "Morgan Stanley"
+      ],
+      "date": "2026-05-28",
+      "bullets": [
+        {
+          "actor": "JPM Flow&Liquidity",
+          "actor_type": "Analyst",
+          "text": "JPM：散户份额降至17%四年低，资金退出'贬值交易'",
+          "details": "2026年一季度美国散户股票交易份额降至17%的四年低点，但期权数据预示Q2反弹。外国投资者对美股净买入大幅放缓，而对全球债券需求保持强劲。韩国和台湾经常账户盈余激增，部分对冲海湾地区资金减少。同时，比特币与黄金ETF资金外流，显示投资者正退出'贬值交易'，或因伊朗协议预期。",
+          "important": false
+        },
+        {
+          "actor": "Morgan Stanley AI",
+          "actor_type": "Analyst",
+          "text": "MS：AI capex主导增长，2026/27非住宅固投+7%/+8%",
+          "details": "AI相关资本支出将持续主导经济增长，预计2026及2027年美国非住宅固定投资分别增长7.0%和8.0%。AI投资及生产力提升每年为GDP贡献0.4-0.5%。当前AI对劳动力市场影响温和，失业率仅微升约10BPS，高暴露行业生产力已加速提升。约25%的SPX已获得AI量化效益，多数CIO预计2026年底前部署AI生产项目。",
+          "important": true
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": "ai-capex-supercycle",
+      "topic": "AI基建超级周期",
+      "topic_tag": "ai",
+      "title": "Burry & A16Z：AI IPO募资比肩2000，应用层独立机遇",
+      "summary": "Burry指经通胀调整后SpaceX/Anthropic/OpenAI IPO募资将持平或超过2000年300家TMT IPO；A16Z称AI基础设施层本身告诉我们应用层是独立巨大机遇。",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "image_indexes": [
+        1
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-28",
+      "bullets": [
+        {
+          "actor": "Burry",
+          "actor_type": "KOL",
+          "text": "Burry：SpaceX+Anthropic+OpenAI IPO募资将比肩2000年",
+          "details": "经通货膨胀调整后，SpaceX、Anthropic 和 OpenAI 的 IPO 筹集的资金将与 2000 年 300 家互联网和 TMT 公司 IPO 筹集的资金持平或更多。",
+          "important": true
+        },
+        {
+          "actor": "A16Z",
+          "actor_type": "KOL",
+          "text": "A16Z：基础设施层暗示应用层是独立巨大机遇",
+          "details": "在云计算超级周期中，半导体引领潮流，软件紧随其后（你不需要高通或 ARM 来告诉你价值正在向上迁移）。在AI领域，基础设施层本身就告诉我们，应用层是一个独立的、巨大的机遇。",
+          "important": false
+        },
+        {
+          "actor": "trueup.io",
+          "actor_type": "新闻",
+          "text": "科技裁员图：3月3.85万人，年初至今波动大",
+          "details": "Tech Employees Impacted by Layoffs (As of April 16, 2026)：MAY 24,687；JUN 8,136；JUL 46,591（Intel、TCS、MSFT等）；AUG 6,010（Oracle）；SEP 19,333（Yahoo/Verizon、Salesforce）；OCT 21,504（Amazon）；NOV 28,826（Verizon、HP、Qualcomm）；DEC 2,769；JAN 2026 27,223（Amazon、ASML）；FEB 24,631；MAR 38,452（Oracle）；APR 3,527。",
+          "important": false
+        }
+      ],
+      "image_urls": [
+        "/uploads/2026-05-28/4068c5e31896.jpg"
+      ]
+    },
+    {
+      "id": "kol-oil-market",
+      "topic": "KOL观点-油市与市场",
+      "topic_tag": "oil",
+      "title": "KOL：Hormuz回归只是吸筹，中国库存决定油市平衡",
+      "summary": "Rory Johnston称Hormuz退出只是另一种股票吸引行为，需新空tanker重启停产生产；@tleilax___指日韩石油供应恢复，全球平衡完全取决于中国内陆库存，进口低于疫情封锁峰值，去库后进口需求将反弹。Erian观察债市股市对油价下跌反应温和。",
+      "tickers": [
+        "USO",
+        "XLE"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-05-28",
+      "bullets": [
+        {
+          "actor": "@tleilax___",
+          "actor_type": "KOL",
+          "text": "@tleilax：中国进口低于疫情峰值，去库后油市平衡将破",
+          "details": "随着日本和韩国石油供应恢复正常，全球石油平衡现在完全取决于中国的内陆库存，这使得中国能够减少进口和炼油厂开工率。这种做法完全不可持续，库存最终会下降。目前中国的进口量甚至低于新冠疫情封锁高峰期，一旦库存去化，进口需求将快速反弹，油市平衡将被打破。",
+          "important": true
+        },
+        {
+          "actor": "Rory Johnston",
+          "actor_type": "KOL",
+          "text": "Rory Johnston：Hormuz退出只是吸筹，需新空tanker重启生产",
+          "details": "现阶段 Hormuz 的退出仅仅是另一种股票吸引行为，人们还没有注意到，需要新的空tanker来重启停产的生产。",
+          "important": false
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "KOL",
+          "text": "Erian：债股对油价下跌反应温和，等待美经济数据",
+          "details": "今天债券市场和股票市场的反应都比之前油价下跌时要温和得多。这正值美国明天将公布一系列重要经济数据之际，这些数据将揭示经济增长和通胀状况。",
+          "important": false
+        },
+        {
+          "actor": "Short Bear",
+          "actor_type": "KOL",
+          "text": "Short Bear：抛AI买其他的反转情况已到来",
+          "details": "之前大家都在抛售所有东西去买人工智能产品，现在我们需要的情况正好相反。",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "Herman Jin：空IGV逆转是金矿，关注AI受益软件",
+          "details": "可以看看软件，特别是AI受益的那几个,无脑空igv逆转是个金矿。",
+          "important": false
+        },
+        {
+          "actor": "Erine",
+          "actor_type": "KOL",
+          "text": "Erine：美债务三大驱动—减税、衰退救助、伊阿战争",
+          "details": "自国会预算办公室2001年预测以来，对债务水平影响最大的三个因素是：1. 2001年、2003年和2017年的一系列减税措施（包括2010年、2012年和2025年的延期）2. 三次经济衰退 + 经济救助（包括 ARRA、CARES 和 ARP）3. 伊拉克和阿富汗。",
+          "important": false
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": "korea-mideast-scenarios",
+      "topic": "韩国/中东情景分析",
+      "topic_tag": "oil",
+      "title": "中东情景图：Brent基准93美元，僵持情形Q4或达108",
+      "summary": "中东情景假设：基准情形2026e Brent USD 93/2027e 80；早期降级 85/71；长期僵持 108/95。全球增长基准2.9%/3.1%，僵持情形-0.4pp/-0.2pp。韩国GDP基准1.0%→2.6%→2.1%，中东僵持影响-0.5pp/-0.3pp。",
+      "tickers": [
+        "BNO"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "IMF PortWatch",
+        "Bloomberg"
+      ],
+      "date": "2026-05-28",
+      "bullets": [
+        {
+          "actor": "韩国央行研究部",
+          "actor_type": "Analyst",
+          "text": "Brent基准2026e 93美元，僵持情形108美元",
+          "details": "Strait of Hormuz Transit Assumptions (2025=100)：Jan'26约120、May'26近0-20；情景：Prolonged stalemate 30-40%、Baseline 60%、Early de-escalation 26Q4 80%。Brent Crude基准USD 93 (2026e)/80 (2027e)；Early de-escalation 85/71；Prolonged stalemate 108/95。",
+          "important": true
+        },
+        {
+          "actor": "韩国央行研究部",
+          "actor_type": "Analyst",
+          "text": "全球增长基准2.9%/3.1%，僵持-0.4pp/-0.2pp",
+          "details": "Global Growth：Baseline 2.9% (2026e)/3.1% (2027e)；Early de-escalation +0.1pp/+0.1pp；Prolonged stalemate -0.4pp/-0.2pp。半导体+中东若同向演化，韩国经济通过金融条件、信心、企业盈利传导影响将超过单一情景算术和；联合悲观情景下金融-实体反馈环将放大放缓。",
+          "important": false
+        },
+        {
+          "actor": "韩国央行研究部",
+          "actor_type": "Analyst",
+          "text": "韩国GDP情景：基准1.0%→2.6%→2.1%",
+          "details": "GDP Growth：Baseline 1.0(2025)/2.6(2026e)/2.1(2027e)；半导体optimistic +0.5/+0.3，pessimistic -0.3/-0.2；中东early de-escalation +0.1/+0.1，prolonged stalemate -0.5/-0.3。CPI Inflation：Baseline 2.1/2.7/2.3；中东僵持+0.3/+0.5，早期降级-0.2/-0.3。",
+          "important": false
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": "equity-valuation-charts",
+      "topic": "美股估值与技术指标",
+      "topic_tag": "macro-other",
+      "title": "Fidelity估值图：CAPE显示mini bubble，NDX偏离200DMA抬升",
+      "summary": "Fidelity估值面板显示S&P 500与Shiller CAPE当前接近\"mini bubble\"水平，capex boom推动公允价值上行；NDX相对200DMA偏离2020-24持续抬升至0.2-0.4区间；FINRA保证金YoY上行。10年美债与Brent 7月期货5月触顶后回落。",
+      "tickers": [
+        "SPY",
+        "QQQ"
+      ],
+      "image_indexes": [
+        2,
+        3,
+        4,
+        6
+      ],
+      "importance": 1,
+      "sources": [
+        "FMRCo",
+        "Factset",
+        "Bloomberg",
+        "FINRA"
+      ],
+      "date": "2026-05-28",
+      "bullets": [
+        {
+          "actor": "Fidelity",
+          "actor_type": "Analyst",
+          "text": "估值面板：S&P公允价值显示capex boom、mini bubble",
+          "details": "Equity Valuation 月度数据 (FMRCo/Factset/Bloomberg, as of 5/24/2026)：S&P 500与公允价值(margins/credit/EPS)对比1962-2027，标注\"tech bubble\"、\"GFC\"、\"mini bubble\"、\"capex boom\"、\"boom\"；右侧公允价值标记7209、6878；底部数值31.7/28.0；下面板Shiller CAPE与含10y公允价值显示历史inflation、stagflation、1987、tech bubble、GFC对比。",
+          "important": true
+        },
+        {
+          "actor": "技术图表",
+          "actor_type": "Analyst",
+          "text": "NDX相对200DMA偏离扩大至0.2-0.4",
+          "details": "Spread NDX vs 200DMA时序1985-2024：2000-2004峰值约0.60后回落至-0.40~-0.60；2020-2024近期处于0.20-0.40高位区间。",
+          "important": false
+        },
+        {
+          "actor": "FINRA",
+          "actor_type": "Analyst",
+          "text": "FINRA Margin YoY 2024-25趋势上行",
+          "details": "Finra Margin Change yoy两条序列（margin yoy 与 margin finra yoy）2010-2025Q1，2020-21峰值近1.00-1.20，2020低点约-0.40，2024-25近期双线上行。",
+          "important": false
+        },
+        {
+          "actor": "市场",
+          "actor_type": "新闻",
+          "text": "10Y美债与Brent 7月期货5月触顶后回落",
+          "details": "US 10yr Treasury从约4.0升至5月中旬约4.7峰值后回落至5月21日约4.55；Brent oil Jul 26 future从75-80升至5月中旬110-115峰值后回落至95-100。时序覆盖2月27日至5月21日。",
+          "important": false
+        }
+      ],
+      "image_urls": [
+        "/uploads/2026-05-28/70a031518724.jpg",
+        "/uploads/2026-05-28/2cf86c713109.jpg",
+        "/uploads/2026-05-28/471f3734e737.png",
+        "/uploads/2026-05-28/f5f1d47e594f.png"
+      ]
+    },
+    {
+      "id": "other-misc",
+      "topic": "其他",
+      "topic_tag": "policy",
+      "title": "香港金管局收紧内地投资者开户监管",
+      "summary": "香港金管局新增三项针对内地投资者赴港开设投资账户的监管措施，开户核查倒查至2023年1月。",
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-05-28",
+      "bullets": [
+        {
+          "actor": "香港金管局",
+          "actor_type": "Foreign-Gov",
+          "text": "HKMA新增三项内地投资者赴港开户监管，倒查至23年1月",
+          "details": "香港金管局今天回应称，就内地投资者赴港开设的投资账户，新增三项监管措施，开户核查倒查至 2023 年 1 月。措施包括1. 倒查并关闭 23 年起的假资料开户 2. 关闭 0 余额的沉睡投资账户 3. 新开户需承诺资金不来源于内地。",
+          "important": true
+        },
+        {
+          "actor": "海湾国家",
+          "actor_type": "Foreign-Gov",
+          "text": "草案提及阿曼可能协助管理霍尔木兹航运",
+          "details": "美伊草案提及阿曼可能协助管理霍尔木兹航运。",
+          "important": false
+        }
+      ],
+      "image_urls": []
+    }
+  ]
+}
