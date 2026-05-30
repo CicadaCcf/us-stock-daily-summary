@@ -1,0 +1,462 @@
+{
+  "topics": [
+    {
+      "id": "fed-speak-inflation-risk",
+      "topic": "美联储官员表态",
+      "topic_tag": "fed",
+      "title": "Fed官员警示长期通胀脱锚风险",
+      "summary": "Kashkari、Musalem等Fed官员强调通胀存在脱锚风险，实际政策利率已低于长期R*。外围Furman和Sharif认为暂时不必加息，但需关注风险情景。",
+      "bullets": [
+        {
+          "actor": "Kashkari",
+          "actor_type": "Central-Bank",
+          "text": "Kashkari警告长期通胀脱锚风险",
+          "details": "Kashkari：无论在最好还是最坏的情况下，都存在长期通货膨胀的风险，通胀存在脱锚风险；现在断定利率需要提高还为时过早，但他同时认为，央行应该保留所有选项。",
+          "important": true
+        },
+        {
+          "actor": "Musalem",
+          "actor_type": "Central-Bank",
+          "text": "Musalem称实际政策利率已低于长期R*",
+          "details": "Musalem：随着通货膨胀上升，Fed的实际政策利率目前低于FOMC设定的长期R*。",
+          "important": false
+        },
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "核心商品价格MoM+0.3%，YoY+2.8%创疫情后最大涨幅",
+          "details": "Nick：核心商品价格mom上涨0.3%（AR为3.7%），yoy上涨2.8%，如果不是2021-22年疫情后的价格飙升，这将是几十年来最大的涨幅；4月份剔除住房外的核心服务业增速温和，仅上涨0.12%。",
+          "important": false
+        },
+        {
+          "actor": "Jason Furman",
+          "actor_type": "Analyst",
+          "text": "Furman谨慎乐观，不主张现在加息但需关注通胀风险情景",
+          "details": "Jason Furman：我仍然谨慎乐观地认为，很多情况都是暂时的。我不会现在就加息。但鉴于失业率稳定，且通胀率已连续五年高于目标水平，美联储不应关注中值情景，而应关注风险情景。而风险情景就是通胀持续高企。",
+          "important": false
+        },
+        {
+          "actor": "Omair Sharif",
+          "actor_type": "Analyst",
+          "text": "Sharif：调整后PCE约2.25%，对Warsh是利好",
+          "details": "Omair Sharif：考虑到下个月市场走势将更加强劲，且能源价格飙升的滞后效应可能在未来几个月显现，因此不能过于乐观。对新任主席Warsh来说，一个利好消息是：经调整后PCE可能约为2.25%，1个月SAAR约为2.33%。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-29",
+      "image_urls": []
+    },
+    {
+      "id": "us-iran-hormuz-crisis",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊达成临时MoU：停火延长60天+海峡重开",
+      "summary": "美伊谈判代表达成临时MoU框架：停火延长60天、霍尔木兹海峡重开、启动60天核谈判期。Trump尚未批准，资金解冻未纳入核心条款，伊朗强硬派与改革派立场分化，协议框架下仍有有限交火。",
+      "bullets": [
+        {
+          "actor": "美伊谈判代表",
+          "actor_type": "Foreign-Gov",
+          "text": "美伊达成临时MoU：停火延长60天+海峡重开+60天核谈判期",
+          "details": "美伊谈判代表达成暂时协议/MoU：停火延长60d、霍尔木兹海峡重开（美国解除海军封锁、伊朗30d内清除水雷并恢复无限制通航、无收费）、启动伊朗核计划60d谈判期（讨论高度浓缩铀库存处置及不寻求核武器）。特朗普尚未批准，总统向调解人转达了他希望花几天时间考虑一下，伊朗领导人亦未公开确认。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：军事上击败伊朗，倾向达成协议但不签现金协议",
+          "details": "Trump：我们在军事上击败了伊朗，DC倾向于与伊朗达成协议，并且所有选项仍然可用；已告知顾问，他不会签署任何美国直接向伊朗提供现金的协议。",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "Bessent：Trump提三个条件，制裁解除将非常缓慢",
+          "details": "Bessent：谈判团队'持续往返沟通'，Trump'不会接受坏协议'，总统对伊朗核协议提出了三个条件，但他拒绝透露，对制裁解除/资金解冻'进展会非常缓慢'；警告'耐心有限，若无和平协议则动能选项（kinetic）重启'；一旦能源供应恢复正常，油价应该会跌至冲突前水平以下，同时重申美国正在重回通缩趋势；伊朗经济和货币正处于自由落体状态。伊朗的波斯湾海峡管理局（PGSA）是个笑话，我们已警告任何企业或国家实体不要支付或将其隐藏为援助款。",
+          "important": false
+        },
+        {
+          "actor": "Vance",
+          "actor_type": "US-Executive",
+          "text": "Vance：美伊'非常接近'协议，伊朗已同意不发展核计划",
+          "details": "Vance：美伊'非常接近'协议、取得'大量进展'，伊朗迄今'以善意谈判'；伊朗实际上已经同意不发展或拥有核计划。",
+          "important": false
+        },
+        {
+          "actor": "美伊谈判",
+          "actor_type": "Foreign-Gov",
+          "text": "浓缩铀处置范围有分歧，美方坚持处置全部浓缩铀",
+          "details": "双方同意在后续谈判中落实伊朗浓缩铀的去向，美方坚持要求处置伊朗现存的所有浓缩铀，而非仅限于高浓缩铀。",
+          "important": false
+        },
+        {
+          "actor": "美伊谈判",
+          "actor_type": "Foreign-Gov",
+          "text": "资金解冻12-24B未纳入MoU，遵循no dust no dollars原则",
+          "details": "资金解冻（伊朗此前索要12-24B）未纳入本次MoU核心条款，美方倾向于核承诺后缓慢推进，伊朗无法'预支'制裁解除，必须根据谈判进展和协议执行表现逐步获得缓解。人道主义援助可能通过卡塔尔或阿曼的受限托管资金进行，遵循no dust, no dollars的原则。",
+          "important": false
+        },
+        {
+          "actor": "CNN消息人士",
+          "actor_type": "新闻",
+          "text": "Trump寻求建议确保协议比奥巴马2015年版更强",
+          "details": "据CNN消息人士透露，特朗普一直在寻求建议，以确保该协议足够有力。他一直致力于确保该协议能够被宣传为比奥巴马时期于2015年达成的核协议更有力，而特朗普在其第一任期内退出了该协议。",
+          "important": false
+        },
+        {
+          "actor": "阿拉伯电视台消息人士",
+          "actor_type": "新闻",
+          "text": "伊朗希望向中国转移浓缩铀",
+          "details": "阿拉伯电视台消息人士报道，伊朗希望向中国转移浓缩铀，并承诺不会将其交给美国。消息人士指出，与伊朗核计划相关的许多问题已经得到解决，伊朗也同意接受国际社会对核设施的监督。",
+          "important": false
+        },
+        {
+          "actor": "伊朗议会国家安全委员会",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗议会：无意向第三国转移浓缩铀",
+          "details": "伊朗议会国家安全委员会表示，伊朗无意向第三国转移浓缩铀。",
+          "important": false
+        },
+        {
+          "actor": "IRGC/伊朗强硬派",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗强硬派重申以色列被消灭前无和平",
+          "details": "伊朗未官方回应协议，但强硬派（IRGC相关）重申'和平不可能直到以色列被消灭'；伊朗总统称我们不寻求核武器。",
+          "important": false
+        },
+        {
+          "actor": "美伊军方",
+          "actor_type": "Foreign-Gov",
+          "text": "协议框架下仍有限交火，IRGC袭击四艘绕道船只",
+          "details": "协议框架下仍有有限交火：美国对伊朗无人机及霍尔木兹附近控制站实施防御性打击，伊朗回应导弹/无人机攻击。ILNA报道，IRGC海军对四艘试图绕过霍尔木兹海峡的船只发动导弹袭击，这些船只未经革命卫队协调，其中包括美国船只。",
+          "important": false
+        },
+        {
+          "actor": "美国官员",
+          "actor_type": "新闻",
+          "text": "纽时：核材料处置前伊朗不获任何经济援助",
+          "details": "美国官员向《纽约时报》明确表示，在核材料处置问题解决之前，伊朗不会获得任何经济援助。",
+          "important": false
+        },
+        {
+          "actor": "WSJ社论",
+          "actor_type": "新闻",
+          "text": "WSJ：分阶段结构是协议最大漏洞",
+          "details": "WSJ报道社论认为，分阶段的结构是该协议的最大漏洞。一旦美国在核谈判开始前就取消了封锁，后续将极难迫使伊朗做出实质性让步。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "CNN",
+        "NYT",
+        "WSJ",
+        "ILNA",
+        "阿拉伯电视台"
+      ],
+      "date": "2026-05-29",
+      "image_urls": []
+    },
+    {
+      "id": "gs-barclays-middle-east-impact",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "GS/Barclays/MS评估中东冲击与利率定价",
+      "summary": "高盛模型显示中东供应中断对全球GDP仅拖累0.4-0.5%，土耳其印度受冲击最大。Barclays认为利率高于战前反映通胀持久性重新定价，建议做空5s30s曲线陡峭化。MS中国一季报加权基本符合预期。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS：中东供应中断仅拖累全球GDP 0.4-0.5%",
+          "details": "GS Global Eco：中东供应中断对全球经济的直接拖累可控。因伊朗战争，霍尔木兹海峡运输量下降逾90%，原油价格最高上涨50%，化工品价格飙升逾60%。高盛通过模型分析认为，即使中东非石油出口永久中断，在考虑替代和再分配等调整机制后，直接拉低全球GDP仅0.4%-0.5%。能源价格上涨将推升全球总体通胀1%，核心通胀0.3%。土耳其和印度受冲击最大，分别面临2.2%和1.1%的GDP损失，而美国影响微乎其微。当前价格回撤与减产集中于低附加值行业，显示冲击整体温和。",
+          "important": true
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "Barclays：1y1y CPI互换升至2.66%，建议做空5s30s",
+          "details": "Barclay：美国利率仍远高于战前水平，反映市场对通胀持久性的重新定价。1y1y CPI互换升至2.66%，剔除能源后仍达2.85%。经济韧性推高中性利率预期，10年期美债收益率升至4.45%。报告建议做空5s30s曲线陡峭化，并启动6m1y payer spread以利用过高的加息概率。",
+          "important": false
+        },
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "MS：MSCI中国2026Q1加权基本符合预期(-3.0%)",
+          "details": "MS CN：MSCI中国指数2026年一季度盈利按公司家数净未达预期(-8.7%)，但以加权计基本符合预期(-3.0%)，优于上季。能源、金融、工业和医疗保健盈利坚挺，消费板块承压。半导体板块年内股价飙升39%，领涨市场，上游资源和资本品表现亦佳。收入整体仍疲弱。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-29",
+      "image_urls": []
+    },
+    {
+      "id": "spacex-ipo-anthropic-ai-financing",
+      "topic": "AI/SpaceX融资",
+      "topic_tag": "ai",
+      "title": "SpaceX目标估值1.8T+Anthropic完成H轮65B",
+      "summary": "SpaceX目标估值1.8T略低于此前2T+报道，S-1披露解禁时间表。Anthropic完成65B H轮融资，估值965B；阿波罗黑石为36B债务融资引入投资者购买谷歌TPU芯片，博通担保。Dell公布9.7B军方合同。",
+      "bullets": [
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic完成H轮65B融资，估值965B",
+          "details": "Anthropic公司刚刚完成H轮融资，筹集资金65B，公司估值达到965B。",
+          "important": true
+        },
+        {
+          "actor": "SpaceX",
+          "actor_type": "Corporate",
+          "text": "SpaceX目标估值至少1.8T，低于此前2T+报道",
+          "details": "SpaceX目前的目标估值至少为1.8T，低于此前报道的2T以上的目标。这一目标在与顾问和投资者磋商后最终确定。S-1披露解禁时间表：IPO定价时纳斯达克与罗素指数合格，首次季报后第二个交易日解禁20%，达到约30%股价表现门槛解禁10%，第70/90/105/120/135日各解禁7%，第二次季报后第二个交易日解禁28%，第180日S&P指数合格再解禁7%累计100%，第366日剩余股份解禁。可早释股份预计占总经济股50%以上。",
+          "important": false
+        },
+        {
+          "actor": "Apollo/Blackstone/Anthropic",
+          "actor_type": "Corporate",
+          "text": "阿波罗黑石为Anthropic 36B债务融资引入投资者购买谷歌TPU",
+          "details": "阿波罗和黑石集团正努力为一项约36B的债务融资交易引入更多投资者，以帮助Anthropic PBC公司构建其人工智能基础设施。BBG称这笔债务将用于购买谷歌定制的名为TPU的芯片，Anthropic公司随后将租赁这些芯片。帮助谷歌开发这些芯片的博通将为该交易的大部分款项提供担保。",
+          "important": false
+        },
+        {
+          "actor": "Dell",
+          "actor_type": "Corporate",
+          "text": "Dell公布9.7B美军AI服务器合同",
+          "details": "Dell公布了面向数据中心的人工智能服务器业务的强劲增长，并透露了与美国军方签订的一份价值9.7B的新合同的细节。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "AI代币成本飙升，仅18%编码代币转化为产品",
+          "details": "WSJ的一篇文章指出，人工智能计算代币成本飙升，促使大型企业限制人工智能的使用，并寻求更便宜的工具。文章还提到，只有18%的人工智能编码代币支出最终转化为实际产品，这表明人工智能模型仍需改进。",
+          "important": false
+        },
+        {
+          "actor": "南华早报",
+          "actor_type": "新闻",
+          "text": "中国科技公司竞相将AI模型应用于机器人",
+          "details": "南华早报称中国科技公司正竞相将AI模型应用于机器人，将生成式人工智能的竞争战场从数字聊天机器人转移到物理自主系统。",
+          "important": false
+        },
+        {
+          "actor": "@MarkRitchie_II",
+          "actor_type": "KOL",
+          "text": "SpaceX IPO让人想起2012 Facebook IPO但规模更大",
+          "details": "@MarkRitchie_II：过去一周里，有好几个人问我关于SPACEX IPO的问题，其中大多数人要么不活跃于市场，要么了解甚少。这让我想起了2012年Facebook的IPO，只不过这次的规模要大得多。",
+          "important": false
+        },
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "short bear：SpaceX将是规模最大最贵IPO，规则修改坑投资者",
+          "details": "short bear：SPACEX将是我见过的规模最大、最昂贵的IPO。零售投资者、养老基金等将被迫通过ETF纳入其投资组合来购买该股票，而这只有通过彻底改变多项规则才能实现，从而为定价过高的IPO创造退出流动性。非常遗憾地看到这类规则的改变会损害所有投资者的利益。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "DELL",
+        "GOOGL",
+        "AVGO"
+      ],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "Bloomberg Intelligence",
+        "WSJ",
+        "南华早报"
+      ],
+      "date": "2026-05-29",
+      "image_urls": [
+        "/uploads/2026-05-29/1a0a00dae9cd.png"
+      ]
+    },
+    {
+      "id": "taiwan-deterrence",
+      "topic": "台海军事",
+      "topic_tag": "geo",
+      "title": "美印太司令部寻求增强台海威慑能力",
+      "summary": "美国印太司令部司令向国会报告中称美军正悄然寻求增强台海威慑能力，包括研发新型反舰炸弹和先进水雷。",
+      "bullets": [
+        {
+          "actor": "美国印太司令部",
+          "actor_type": "US-Executive",
+          "text": "美军研发新型反舰炸弹与先进水雷以威慑中国",
+          "details": "美国印太司令部司令在提交给国会的一份报告中称，美国军方正悄然寻求增强其在台湾问题上威慑或对抗中国的能力，包括研发新型反舰炸弹和先进水雷。",
+          "important": true
+        },
+        {
+          "actor": "银瀚投资",
+          "actor_type": "Analyst",
+          "text": "汇金证金一季度大幅减持ETF与个股",
+          "details": "银瀚投资：按最新的上市公司一季报披露数据，不止是汇金大幅减持了ETF宽基指数，证金更是大幅减仓了很多个股。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-05-29",
+      "image_urls": []
+    },
+    {
+      "id": "kol-buyside-views",
+      "topic": "买方/KOL观点",
+      "topic_tag": "macro-other",
+      "title": "Burry滚动看跌+多位KOL警示估值与债务结构",
+      "summary": "Burry滚动SOXX/QQQ看跌，认为市场处于blowoff top，看空CRWD结构性风险。Bob继续看空经济，Andy警示债务驱动繁荣的代际转嫁。多位KOL评论石油库存临界点、芯片软件vs银行交易、SpaceX IPO等。",
+      "bullets": [
+        {
+          "actor": "Michael Burry",
+          "actor_type": "KOL",
+          "text": "Burry滚动SOXX/QQQ Puts，认为市场处于blowoff top",
+          "details": "Burry：近期滚动了SOXX和QQQ的Puts，增加了风险资本。他认为市场正在见证一个blowoff top，历史性的高估值终将回归引力；软件中生产力工具订阅软件溢价过度了，持有ADBE，认为LLM无法取代人类创意；网安板块被AI模型刺激营收，但行业存在结构性隐患，曾考虑做空CRWD，其引以为傲的单代理（Single-agent）云平台是极致的OLOL模式，蕴含巨大的单一故障点风险（参考2024年7月的全球死机事件），股权激励discipline全行业最差（占营收22.8%），近五年每年带来4.5%的股份稀释。",
+          "important": true
+        },
+        {
+          "actor": "Bob",
+          "actor_type": "KOL",
+          "text": "Bob：继续看空经济，实际工资负增长+储蓄率负区间",
+          "details": "Bob：继续看空经济，实际工资增长已转为负值，储蓄率继续负区间下降，即使经济增长出现奇迹，我们也必须大幅削减储蓄来为人工智能提供资金。",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "Andy：46年国债年化8.6% vs 名义GDP 5.5%，繁荣建立在债务上",
+          "details": "Andy：过去46年，美国国债年化增长8.6%，同期名义GDP年化增长仅5.5%。政府支出占GDP约18%，但赤字支出使GDP额外增长约60bps/年。债务增长显著提升了经济增长速度，否则经济会更弱，受益最多的是老年人：通过复利效应积累财富、工资和福利，形成明显的年龄财富差距，当前繁荣建立在债务基础上，最终成本将由年轻人承担，两党是'uniparty'，共同保护老年选民和资助政党的企业。",
+          "important": false
+        },
+        {
+          "actor": "@RKelanic",
+          "actor_type": "KOL",
+          "text": "@RKelanic：全球油气储量若低于7B桶能源系统将崩溃",
+          "details": "@RKelanic：全球石油库存并不需要降至零才会造成巨大的价格动荡。如果系统油气储量低于7B桶，循环就会停止，能源系统就会崩溃。石油产量从2月份的8B减少到今天的7.6B，如果霍尔木兹原油库存持续关闭到9月份，那么原油库存将达到6.8B。",
+          "important": false
+        },
+        {
+          "actor": "@tleilax___",
+          "actor_type": "KOL",
+          "text": "Kharg岛漏油，拉斯·拉凡基本封存",
+          "details": "@tleilax___：Kharg岛屿周围到处可见漏油导致的油膜。看不到任何装载货物的船只；拉斯·拉凡的活动没有任何变化，该工厂目前仍处于'基本封存'状态。",
+          "important": false
+        },
+        {
+          "actor": "@Areskapitalon",
+          "actor_type": "KOL",
+          "text": "@Areskapitalon：做多芯片/软件，做空金融/银行",
+          "details": "@Areskapitalon：明白人不会随便做空芯片股这个自我强化循环。现在来看比较靠谱的策略仍然是做多芯片/软件，做空金融/银行。逻辑：做多这个国债体系的'拯救者'（AI科技股），做空这个国债体系的受害者（银行/金融）。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "ADBE",
+        "CRWD",
+        "SOXX",
+        "QQQ"
+      ],
+      "image_indexes": [
+        6
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-05-29",
+      "image_urls": [
+        "/uploads/2026-05-29/cdcf7e906ae8.png"
+      ]
+    },
+    {
+      "id": "market-microstructure",
+      "topic": "市场微观结构",
+      "topic_tag": "macro-other",
+      "title": "三星SK海力士触持仓上限+SPX连周涨创纪录",
+      "summary": "三星海力士股价飙升迫使基金抛售触及10%单股上限。标普500连周上涨次数料追平1985年以来纪录。SpotGamma显示MU等单股call成交飙升。对冲基金国债空头与回购融资创新高。",
+      "bullets": [
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "三星与SK海力士股价飙升迫使基金触发10%持仓上限抛售",
+          "details": "BBG报道三星电子和SK海力士的股价飙升给一些基金带来了意想不到的麻烦，这些基金的持仓规模过大，被迫抛售。受10%单只股票持仓上限限制的基金也越来越多地触及这一限制。",
+          "important": true
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "标普500连周上涨次数料追平1985年以来最长纪录",
+          "details": "彭博：美国股市周连涨时间料创造平1985年以来最长纪录，标普500指数连周上涨次数接近1985年的水平。",
+          "important": false
+        },
+        {
+          "actor": "SpotGamma",
+          "actor_type": "Analyst",
+          "text": "MU单日call成交657K为20日均值1.7倍",
+          "details": "SpotGamma单股call blowout数据：MU日call成交657K（20日均388K，1.7×），INTC 274K（0.6×），SNDK 69K（0.9×），NVDA 1.8M（0.9×），SPY 1.2M（0.8×），SPX 612K（0.7×）。市场整体IV Rank与Skew Rank数据见Cross-Sectional Median图。",
+          "important": false
+        },
+        {
+          "actor": "Dallas Fed",
+          "actor_type": "Central-Bank",
+          "text": "对冲基金国债空头与回购融资规模图表",
+          "details": "Dallas Fed图表：对冲基金毛多头国债、净回购融资与短期期货头寸自2015年至2026年走势，名义规模数十亿美元。",
+          "important": false
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "DB：10年期收益率上行但MOVE指数受控",
+          "details": "Deutsche Bank Figure 1：An Orderly Rise，10年期收益率已上升但利率波动率MOVE指数仍受控。",
+          "important": false
+        },
+        {
+          "actor": "KOSPI/加密交易量",
+          "actor_type": "新闻",
+          "text": "韩国KOSPI与5大加密交易所成交量比率图",
+          "details": "KOSPI交易量（KRW Trillion）与5大加密交易所交易量对比，加密/股票比率在2024-11/12达到约325峰值，2026年再次出现。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MU",
+        "INTC",
+        "NVDA",
+        "SNDK",
+        "SPY"
+      ],
+      "image_indexes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "importance": 2,
+      "sources": [
+        "Bloomberg",
+        "SpotGamma",
+        "Dallas Fed",
+        "Deutsche Bank"
+      ],
+      "date": "2026-05-29",
+      "image_urls": [
+        "/uploads/2026-05-29/681df1906af0.png",
+        "/uploads/2026-05-29/e115d6c5e7c3.png",
+        "/uploads/2026-05-29/0b2683b11126.png",
+        "/uploads/2026-05-29/4815b72573c4.png",
+        "/uploads/2026-05-29/81b9e2178afe.jpg",
+        "/uploads/2026-05-29/e0d2e1cf92b2.png"
+      ]
+    }
+  ]
+}
