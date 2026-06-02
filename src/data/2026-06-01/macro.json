@@ -1,0 +1,592 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis-2026-05-30",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "Trump宣称伊朗已让步 伊朗否认 海峡军事冲突持续",
+      "summary": "Trump宣布伊朗承诺永不发展核武并立即开放霍尔木兹海峡，封锁解除；但伊朗官方否认达成最终协议，仅承认进入\"消息交换\"阶段，且坚拒交出HEU。Hegseth称封锁仍有效，美军在阿曼湾击毁一艘驶向伊朗的货船，伊朗声称击落MQ-1，黎巴嫩战线同步升级。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "宣称伊朗永不发展核武、立即开放霍尔木兹海峡",
+          "details": "Trump【重要】称伊朗永不发展核武器、立即开放霍尔木兹海峡（无通行费、无水雷、无限制），封锁现已解除，它们可以开始\"返航\"的进程；美国将与伊朗共同移除并销毁伊朗高浓缩铀库存；在另行通知前，任何资金均不得进行交换；强调\"否则以不同方式结束\"，但未宣布最终决定。",
+          "important": true
+        },
+        {
+          "actor": "伊朗外交部/Tasnim",
+          "actor_type": "Foreign-Gov",
+          "text": "否认达成最终协议 称Trump所述是\"编造胜利\"",
+          "details": "【重要】伊朗官方（外交部及Tasnim）否认达成\"最终协议\"或包含具体核条款，仅承认\"消息交换\"，伊朗没同意立刻开放海峡，前提是释放被冻结资产；伊朗没同意交出浓缩铀，那是下一步谈判内容；Trump号称的协议内容是\"真实与谎言的融合体\"，是想宣布\"编造的胜利\"。伊朗外交部发言人Esmail Baghaei表示海峡处于伊朗\"特殊措施\"管控下将继续维持，无最终协议。",
+          "important": false
+        },
+        {
+          "actor": "AXIOS",
+          "actor_type": "新闻",
+          "text": "Trump收紧框架条款 退回伊朗审议 待3天回复",
+          "details": "【重要】AXIOS报道Trump明确想要达成协议并认为很快就能签署，但必须加强核心条款。目前草案包含伊朗承诺不发展核武器；设置60天谈判窗口，优先讨论如何处置伊朗现有浓缩铀库存+限制进一步浓缩，以及对应美国制裁缓解措施。Trump要求更明确细节：美国如何接收并处置浓缩铀材料、具体时间表，调整霍尔木兹海峡重开的相关文字表述，此要求已启动新一轮草案交换，预计伊朗方回复需约3天。修改后的条款已退回伊朗审议，目前尚不清楚协议文本具体做了哪些修改。",
+          "important": false
+        },
+        {
+          "actor": "伊朗国家电视台",
+          "actor_type": "Foreign-Gov",
+          "text": "公布\"伊斯兰堡协议\"非官方草案 60天解冻12B资产",
+          "details": "伊朗称伊朗和美国已经达成政治谅解，协议文本已进入最后阶段，但尚未最终敲定。伊朗国家电视台5/30公布所谓\"伊斯兰堡协议\"非官方草案，称草案给予伊朗霍尔木兹交通独家权威、美国承诺60天内解冻12B美元资产。",
+          "important": false
+        },
+        {
+          "actor": "Hegseth",
+          "actor_type": "US-Executive",
+          "text": "封锁依然有效",
+          "details": "Hegseth：封锁依然有效。",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "美国没收伊朗1B加密货币 设核武+海峡双目标",
+          "details": "Bessent称美国刚刚没收了伊朗价值1B的加密货币；恢复霍尔木兹海峡的免费航行将是伊朗承诺的首要标志，我们不会接受任何不能确保阻止伊朗获得核武器的协议，打通霍尔木兹海峡和夺取伊朗核武库是我们的目标之一。",
+          "important": false
+        },
+        {
+          "actor": "Galibaf / Ebrahim Azizi",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗议会拒转移HEU 不接受浓缩暂停",
+          "details": "Galibaf称在国家权利得到保障之前任何协议都不会被接受，除非协议能保障公民权利否则不会同意。伊朗议会国家安全委员会主席Ebrahim Azizi等议员5/29称：坚决拒绝转移HEU库存、不接受暂停浓缩或核让步；伊朗\"已获胜\"，将永久管理霍尔木兹，要求美方先明确冻结资产解冻细节。",
+          "important": false
+        },
+        {
+          "actor": "US CENTCOM",
+          "actor_type": "US-Executive",
+          "text": "美军在阿曼湾用地狱火导弹击毁驶向伊朗货船",
+          "details": "US CENTCOM 5/29向航海/航空人员发布通知，宣布将在霍尔木兹北部穆桑达姆半岛附近开展军事行动，理由是伊朗\"危险且非法的采矿活动\"，美军已\"高度戒备\"。美军中央司令部30日证实，美军一架飞机29日在阿曼湾发射导弹击中一艘悬挂冈比亚国旗、试图驶往伊朗港口的货船，使其丧失航行动力——美军监测到该货船穿越国际水域驶向阿曼湾沿岸伊朗港口，多次警告其违反美国\"封锁令\"，船员拒绝听从后一架美军飞机向其机舱发射\"地狱火\"导弹。美伊两国再次发生冲突，美国袭击了所称防空雷达和无人机基地，伊朗则表示将对科威特进行报复，随后科威特遭到袭击。",
+          "important": false
+        },
+        {
+          "actor": "伊朗革命卫队",
+          "actor_type": "Foreign-Gov",
+          "text": "声称在领海上空击落美国MQ-1无人机",
+          "details": "伊朗声称其伊斯兰革命卫队在其领海上空击落了一架美国MQ-1无人机。",
+          "important": false
+        },
+        {
+          "actor": "内塔尼亚胡",
+          "actor_type": "Foreign-Gov",
+          "text": "下令以军深入黎巴嫩 真主党以色列继续交火",
+          "details": "内塔尼亚胡周日表示，尽管六周前已宣布停火，但仍下令军队进一步深入黎巴嫩，打击伊朗支持的真主党武装组织；真主党和以色列继续相互大规模交火。",
+          "important": false
+        },
+        {
+          "actor": "伊朗",
+          "actor_type": "Foreign-Gov",
+          "text": "坚持海峡主权管理 新海事收费视为合法税收",
+          "details": "伊朗坚持主权管理/特殊措施，可针对\"敌对\"船只；草案版本称伊朗负责路线安全与通行管理；根据国际法，它有权对过境霍尔木兹海峡的船只征收与环境相关的费用，并辩称新的海事收费是合法的征税，而不是过境费。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "AXIOS",
+        "Tasnim",
+        "CENTCOM"
+      ],
+      "date": "2026-06-01",
+      "image_urls": [
+        "/uploads/2026-06-01/23cb18998c5a.jpg"
+      ]
+    },
+    {
+      "id": "fed-policy-communication-2026-05-30",
+      "topic": "美联储/政策",
+      "topic_tag": "fed",
+      "title": "Powell警告政治化 Warsh拟取消前瞻指引",
+      "summary": "Powell警告政治化Fed削弱公众信任。Warsh表态将取消前瞻性指引，并称当前政策环境优于2月。Fed Res研究回顾1960-70年代沟通史。",
+      "bullets": [
+        {
+          "actor": "Warsh",
+          "actor_type": "Central-Bank",
+          "text": "拟取消前瞻性指引 称当前政策环境优于2月",
+          "details": "Warsh将取消前瞻性指引，Fed理事发表讲话，语无伦次；在经历了通胀和利率上升的一段时间后，现在进入Fed的政策环境要比2月份进入好得多，当时利率和通胀看起来即将下降。",
+          "important": true
+        },
+        {
+          "actor": "Powell",
+          "actor_type": "Central-Bank",
+          "text": "政治化的Fed将削弱公众信任",
+          "details": "Powell：政治化的美联储会削弱公众信任，Fed和更广泛的民主制度都正面临考验。",
+          "important": false
+        },
+        {
+          "actor": "Fed Research",
+          "actor_type": "Central-Bank",
+          "text": "1960-70s贴现率公告已具现代沟通特征",
+          "details": "Fed Res：1960-70年代贴现率新闻稿已具备现代货币政策沟通特征。尽管当时奉行\"从不解释\"原则，但超过半数公告包含经济理由，如1965年以\"抑制通胀压力\"为由加息，1968年12月加息后国债收益率飙升40bps，市场明确解读为紧缩信号。这些早期公告通过实时发布、明确目标，成为货币政策立场的关键传递渠道。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-01",
+      "image_urls": []
+    },
+    {
+      "id": "trump-stock-fine-2026-05-30",
+      "topic": "Trump合规",
+      "topic_tag": "policy",
+      "title": "Trump因未按期披露股票交易第3次被罚$200",
+      "summary": "Trump因未在规定45日披露期内报告价值数千万美元的股票交易再次被罚款200美元，年内已是第3次因同样原因被罚。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "年内第3次因延迟披露股票交易被罚$200",
+          "details": "Trump因未在规定的45d报告期限内披露价值数千万美元的股票交易而被罚款$200，这是Trump今年第3次因同样原因被罚。",
+          "important": true
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "披露涉及金额达数千万美元",
+          "details": "被披露延迟的股票交易总价值数千万美元，但合规罚款金额仅200美元，反映披露制度与处罚力度的悬殊。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-06-01",
+      "image_urls": []
+    },
+    {
+      "id": "china-outbound-investment-reg-2026-05-30",
+      "topic": "中国对外投资监管",
+      "topic_tag": "policy",
+      "title": "国务院公布对外投资规定 罚则按投资额千分位",
+      "summary": "国务院发布对外投资规定，确立投资者自主、自担风险原则，同时设定核准备案、信息报告、跨境资金登记等手续要求；未按规定履行手续或提交虚假材料将按投资额1‰-10‰罚款，对直接责任人处2-5万元罚款。",
+      "bullets": [
+        {
+          "actor": "国务院",
+          "actor_type": "Foreign-Gov",
+          "text": "公布对外投资规定 违规按投资额1‰-10‰罚款",
+          "details": "国务院公布国务院关于对外投资的规定。投资者未按规定履行境外投资核准备案手续，或者以提交虚假材料、隐瞒真实信息等方式申请有关核准备案的，由核准备案机关责令改正，没收违法所得，处投资额1‰以上5‰以下的罚款；拒不改正的，责令其停止该投资活动，限期处分股份、资产，处投资额5‰以上10‰以下的罚款；对直接负责的主管人员和其他直接责任人员处2万元以上5万元以下的罚款。",
+          "important": true
+        },
+        {
+          "actor": "国务院",
+          "actor_type": "Foreign-Gov",
+          "text": "确立市场化原则 投资者自主决策自担风险",
+          "details": "国家支持投资者按照市场化原则开展对外投资活动，积极参与国际合作竞争。投资者依法享有对外投资自主权，自主决策、自担风险、自负盈亏。投资者开展对外投资活动依法需要履行核准备案、信息报告、跨境资金登记等手续的，应当依照国家有关规定办理，如实提交有关材料，并配合有关主管部门的监督检查。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-01",
+      "image_urls": []
+    },
+    {
+      "id": "oil-supply-shock-iea-jpm-2026-05-30",
+      "topic": "原油供应冲击",
+      "topic_tag": "oil",
+      "title": "IEA: 战后全球供应日降12.8M JPM:需求冲击5.6M b/d",
+      "summary": "IEA披露战争以来全球石油供应平均日降12.8M b/d，欧佩克+4月降11.9M b/d。JPM大宗组指出伊朗冲突已进入第90+日，全球面临史上最大供应冲击，需求损失从3月2.8M升至5月5.6M b/d，但油价在SPR释放和需求结构性收缩下仅维持~$100，部分需求或永久性下移。",
+      "bullets": [
+        {
+          "actor": "JPM Natasha Kaneva",
+          "actor_type": "Analyst",
+          "text": "需求损失5月达5.6M b/d 部分或永久结构性下移",
+          "details": "JPM Commodity Natasha Kaneva：伊朗冲突已进入第90d以上，全球油市正承受有史以来最大规模的供应冲击。需求损失持续扩大：3月录得2.8M b/d，4月上升至4.3M b/d，5月已达5.6M b/d。尽管如此，油价在前所未有规模的战略储备释放、美国出口提速和需求收缩的三重缓冲下，维持在100美元附近的相对温和水平。本次石油供应冲击的历史体量与宏观代价的相对有限之间的巨大落差，本身即已说明当代全球经济体系对石油及油价波动的依赖程度已显著降低。当前观察到的大规模需求下滑中，有相当部分并非周期性损失，而是以替代为机制的结构性转移——即便伊朗冲突最终解决、供应全面恢复，全球石油需求的长期基准线，也可能已经因这次冲击而永久性地向下移位。",
+          "important": true
+        },
+        {
+          "actor": "IEA",
+          "actor_type": "Foreign-Gov",
+          "text": "战争以来全球供应日均降12.8M b/d",
+          "details": "IEA：自战争以来，全球石油供应平均下降约12.8 Mb/d；欧佩克+4月份下降11.9 Mb/d；海湾国家4月份下降10.5 Mb/d；石油出口下降14 Mb/d。",
+          "important": false
+        },
+        {
+          "actor": "EIA/HFI Research",
+          "actor_type": "Analyst",
+          "text": "成品油库存(汽油+馏分油+航煤)季节性曲线",
+          "details": "图表显示美国成品油（汽油+馏分油+航煤）库存的5年均值与2022-2026年逐周对比，库存范围345-445千桶级别，从Week1至Week21呈下降，之后波动并在Week51急升。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "USO",
+        "BNO",
+        "XLE"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "IEA",
+        "JPM"
+      ],
+      "date": "2026-06-01",
+      "image_urls": []
+    },
+    {
+      "id": "spacex-ipo-passive-2026-05-30",
+      "topic": "SpaceX IPO",
+      "topic_tag": "policy",
+      "title": "指数放宽规则 30T被动资金被迫买入SpaceX",
+      "summary": "S&P/Nasdaq/FTSE Russell为SpaceX IPO大幅放宽规则，取消盈利要求并将上市稳定期从90d缩短至Nasdaq 15d、Russell 5d，超过30T被动资金被迫吸纳。WSJ称章程禁止集体诉讼仅允许个人仲裁，可能重振美IPO市场。丹麦养老基金AkademikerPension将SpaceX列入黑名单，称1T以上估值不合理。",
+      "bullets": [
+        {
+          "actor": "Hedgeye",
+          "actor_type": "Analyst",
+          "text": "指数放宽规则 30T被动资金被迫买入",
+          "details": "Hedgeye：指数提供商（S&P、Nasdaq、FTSE Russell）为SpaceX IPO大幅放宽规则，取消传统盈利要求，并将\"上市稳定交易期\"从90d缩短至Nasdaq 15d、FTSE Russell仅5d，导致超过30T的被动资金（401k、退休金等）在IPO定价时被迫买入SpaceX股票。Bloomberg Intelligence估算，SPX需在6个月内吸纳SpaceX流通股的19%，Russell 1000及Nasdaq 100基金需吸纳24%，相当于打破了以往保护被动投资者、防止高估值未验证公司强行入指数的所有规则。",
+          "important": true
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "章程禁止集体诉讼仅允许个人仲裁 或重振IPO市场",
+          "details": "WSJ社评称相比于其庞大的规模，更具颠覆性的是其公司章程规定——将禁止证券集体诉讼，仅允许个人仲裁，SpaceX的做法可能会引发其他德州公司（以及新上市企业）纷纷效仿，采用个人仲裁条款以规避诉讼风险，从而重振美国IPO市场。",
+          "important": false
+        },
+        {
+          "actor": "AkademikerPension",
+          "actor_type": "Corporate",
+          "text": "丹麦养老基金将SpaceX列入黑名单",
+          "details": "丹麦学术退休基金（AkademikerPension）宣布将SpaceX列入黑名单，拒绝参与其即将进行的IPO，该基金认为其合理价值绝不应该超过1T，批评SpaceX拥有\"美国公开资本市场有史以来对管理层最有利、最极端的治理结构\"。",
+          "important": false
+        },
+        {
+          "actor": "ThemesETFs",
+          "actor_type": "Analyst",
+          "text": "图表: SpaceX经24年私有期 目标1.75T估值",
+          "details": "图表显示主要公司IPO等待时长：SpaceX经过24年私有期后目标1.75T估值，气泡大小为市值；对比Amazon 2.86T、Apple 4.57T、Alphabet 4.65T、Microsoft 3.06T、Nvidia 5.23T、Meta 1.55T、Aramco 1.60T等。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3
+      ],
+      "importance": 2,
+      "sources": [
+        "WSJ",
+        "Hedgeye",
+        "Bloomberg Intelligence"
+      ],
+      "date": "2026-06-01",
+      "image_urls": [
+        "/uploads/2026-06-01/522421717418.jpg"
+      ]
+    },
+    {
+      "id": "gs-equity-supply-buyback-2026-05-30",
+      "topic": "GS股权供需",
+      "topic_tag": "earnings",
+      "title": "GS上调2026 IPO预测至$225B 回购达1.3T",
+      "summary": "GS Weekly Kickstart将2026年IPO预测从$160B上调至$225B，企业总股权供应$675B（占市值1.0% vs 历史均值1.5%）。2026年禁售期解锁后2027年还将有~$500B潜在供应。回购方面，今年公告回购累计达创纪录$860B，全年预测$1.3T，但回购增速降至4%、回购收益率1.9%为2021以来最低。",
+      "bullets": [
+        {
+          "actor": "GS Weekly Kickstart",
+          "actor_type": "Analyst",
+          "text": "2026 IPO预测上调至$225B 总股权供应$675B",
+          "details": "GS将2026年IPO规模的预测从160B上调至225B。预计包括后续发行和其他发行在内，企业股权总供应量将达到675B。然而，这一发行规模仅占美国股票市场总市值的1.0%，而自1995年以来的平均水平为1.5%。",
+          "important": true
+        },
+        {
+          "actor": "GS Weekly Kickstart",
+          "actor_type": "Analyst",
+          "text": "禁售期解锁2027年将有~$500B潜在股权供应",
+          "details": "随着投资者禁售期的结束，IPO发行将带来额外的潜在股权供应。历史数据显示，初始流通股比例低于10%的大型IPO，在12个月后平均流通股比例会增长至46%。根据这一历史规律，预计2026年禁售期结束后，将有近500B的潜在股权供应，2027年企业股权供需平衡将面临更大挑战。",
+          "important": false
+        },
+        {
+          "actor": "GS Weekly Kickstart",
+          "actor_type": "Analyst",
+          "text": "回购全年预测$1.3T 公告总额已达$860B",
+          "details": "随着capex热潮的兴起，股票回购增速放缓，2026年Q1同比增长仅为4%。由于市场价值持续上涨，SPX的股票回购收益率已降至1.9%，接近2021年以来最低水平。金融业占SPX回购总额的27%，Q1回购规模增长18%。英伟达宣布80B回购授权，今年迄今宣布的回购总额已达创纪录的860B。预测今年企业股票回购总额将达到1.3T。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "NVDA"
+      ],
+      "image_indexes": [
+        6,
+        7,
+        8
+      ],
+      "importance": 2,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-06-01",
+      "image_urls": [
+        "/uploads/2026-06-01/b887b8dc4ccc.png",
+        "/uploads/2026-06-01/8db8c5068cf9.png",
+        "/uploads/2026-06-01/f9d0f0ab842e.png"
+      ]
+    },
+    {
+      "id": "gs-rates-tech-2026-05-30",
+      "topic": "GS利率与科技",
+      "topic_tag": "rates",
+      "title": "GS:长端利率回落期限溢价收窄 科技反弹靠盈利支撑",
+      "summary": "GS GRT指出长端收益率因海峡冲突乐观情绪从月中高点回落，主要由期限溢价收窄推动，利率波动率接近冲突以来低点，是双向对冲良机。GS Tech Pete Callaha认为本轮反弹涨幅集中、有盈利修正支撑、估值倍数稳定；半导体回调是配置机会而非趋势逆转；互联网板块补涨条件成熟。",
+      "bullets": [
+        {
+          "actor": "GS GRT",
+          "actor_type": "Analyst",
+          "text": "长端利率回落 期限溢价收窄 双向对冲良机",
+          "details": "GS GRT：由于市场对海峡冲突可能得到解决以及资金流动恢复持乐观态度，长期国债收益率从月中高点持续回落，主要表现为国债期限溢价的收窄，政策预期因素影响较小。本月收益率曲线稳步趋于平缓，美联储鹰派言论也强化了这一趋势。美国利率波动率在近期飙升后有所回落，长期利率隐含波动率接近冲突以来低点，整体波动率处于合理估值范围底部。利率市场正在鹰派美联储、乐观增长定价以及冲突解决希望之间寻找平衡，当前是考虑双向对冲的良好契机。",
+          "important": true
+        },
+        {
+          "actor": "GS Tech Pete Callaha",
+          "actor_type": "Analyst",
+          "text": "反弹结构集中 有盈利修正支撑 估值稳定",
+          "details": "本轮反弹呈现三个显著特征：涨幅结构极为集中，速度之快创下逾25年中第二的年初涨幅记录，有扎实的盈利修正支撑，估值倍数基本保持稳定，并非单纯情绪驱动。",
+          "important": false
+        },
+        {
+          "actor": "GS Tech Pete Callaha",
+          "actor_type": "Analyst",
+          "text": "半导体短期或回调 中期看盈利修正节奏",
+          "details": "semi短期内的动量效应和仓位压力也可能带来间歇性回调。但在中期维度，核心观察指标仍是盈利修正的节奏：只要半导体板块的盈利预期持续上调并压住估值倍数的扩张，阶段性的动量回撤和仓位压力反而是配置机会，而非趋势逆转的信号。",
+          "important": false
+        },
+        {
+          "actor": "GS Tech Pete Callaha",
+          "actor_type": "Analyst",
+          "text": "互联网补涨条件成熟 仓位干净AI产品落地",
+          "details": "互联网板块今年明显落后于软件板块，拖累来自多方：资金来源分散带来的抛压、持续扩张的投入周期，以及消费者需求能见度偏低。但近期边际变化正在改善——AI驱动的产品创新在大型互联网平台上逐步落地，板块整体仓位也已相对干净。互联网板块的补涨条件正在成熟。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SMH",
+        "XLK"
+      ],
+      "image_indexes": [
+        5
+      ],
+      "importance": 2,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-06-01",
+      "image_urls": [
+        "/uploads/2026-06-01/8fdf01e5e4f8.jpg"
+      ]
+    },
+    {
+      "id": "ai-infra-jpm-hyperscaler-2026-05-30",
+      "topic": "AI基础设施",
+      "topic_tag": "ai",
+      "title": "JPM:2027 Datacenter产能60%尚未开工 超大规模商发债激增",
+      "summary": "JPM基于卫星图像分析显示，计划2027年完工的Datacenter容量中超过60%尚未开工建设，另有7%被推迟。同时超大规模云厂商债券发行量2026年迄今飙升，Schroders Credit Lens追踪Apple/Amazon/Alphabet/Meta/Microsoft/Nvidia/Oracle年度发债走势。",
+      "bullets": [
+        {
+          "actor": "JPM AI",
+          "actor_type": "Analyst",
+          "text": "2027 Datacenter容量60%尚未开工 7%被推迟",
+          "details": "JPM AI：基于卫星图像的最新分析显示，计划于2027年完工的Datacenter容量中，超过60%尚未开工建设，另有7%的建设被推迟。",
+          "important": true
+        },
+        {
+          "actor": "Schroders",
+          "actor_type": "Analyst",
+          "text": "Hyperscaler债券发行量2026 YTD飙升",
+          "details": "Schroders Credit Lens (May 2026)：Hyperscaler年度发债飙升，2026年截至5月11日数据，含Apple/Amazon/Alphabet/Meta/Microsoft/Nvidia/Oracle。其中$16.8B Alphabet和$25B Meta发行在4月后；总量含美元、非美元公司债及浮息证券。",
+          "important": false
+        },
+        {
+          "actor": "MSB",
+          "actor_type": "Corporate",
+          "text": "德州$18.7B数据中心因融资问题停工",
+          "details": "MSB公司在德克萨斯州萨尔弗里克泉投资18.7B兴建的数据中心项目已停工，原因是开发商未能获得资金，并导致建筑公司、工程师和测量员承担了超过2M的早期场地施工费用。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "GOOGL",
+        "META",
+        "AMZN",
+        "ORCL"
+      ],
+      "image_indexes": [
+        4
+      ],
+      "importance": 2,
+      "sources": [
+        "JPM",
+        "Schroders"
+      ],
+      "date": "2026-06-01",
+      "image_urls": [
+        "/uploads/2026-06-01/0a841c183bd9.jpg"
+      ]
+    },
+    {
+      "id": "nvda-corporate-2026-05-30",
+      "topic": "英伟达动态",
+      "topic_tag": "ai",
+      "title": "英伟达发布首款AI Agent笔记本 扩大Unitree合作",
+      "summary": "英伟达发布首款专为AI\"代理\"设计的个人笔记本电脑，搭载全新设计的标志性AI芯片；同时宣布扩大与中国机器人公司Unitree的合作。",
+      "bullets": [
+        {
+          "actor": "NVIDIA",
+          "actor_type": "Corporate",
+          "text": "发布首款专为AI Agent设计的笔记本电脑",
+          "details": "英伟达发布了首款专为运行人工智能\"代理\"而设计的个人笔记本电脑，该电脑搭载了公司全新设计的标志性人工智能芯片。",
+          "important": true
+        },
+        {
+          "actor": "NVIDIA",
+          "actor_type": "Corporate",
+          "text": "扩大与中国机器人公司Unitree合作",
+          "details": "英伟达宣布扩大与中国机器人公司Unitree的合作。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-06-01",
+      "image_urls": []
+    },
+    {
+      "id": "kol-views-2026-05-30",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "Joseph警告泡沫式上涨 多人押注海峡持续关闭",
+      "summary": "Joseph将当前持续上涨与互联网泡沫类比，建议买入30Y国债（5%收益率）。trap_zack/tleilax_认为Trump将持续与伊朗\"谈判\"至2028.11、伊朗实际控制海峡。JH止损Brent、改买BNO Dec26 call。Dr_Gingerballs指美债短端集中令加息失效。Mark Ritchie II看好NQ lockout rally。Stockcoach空DELL。",
+      "bullets": [
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "类比互联网泡沫 建议买入5%收益率的30Y国债",
+          "details": "Joseph：过去一周股市持续稳步上涨，大量看涨期权涌入市场，这种情形让人联想到互联网泡沫时期，虽然可能持续数月，但回调最终会突然降临。尽管上周末有达成停火备忘录的迹象，但总统最终并未签署任何协议。霍尔木兹海峡依然关闭，全球石油库存正在持续消耗，如果库存触及低位，可能导致油价失控飙升。建议买入30Y、5%收益率的30年期国债：回顾互联网泡沫时期，直接做空股市风险极高，而买入债券则安全得多。如果股市泡沫破裂引发经济衰退并促使Fed降息，持有长期国债不仅能赚5%利息，还能因降息获得巨大资本增值。",
+          "important": true
+        },
+        {
+          "actor": "trap_zack",
+          "actor_type": "KOL",
+          "text": "Trump将与伊朗持续\"谈判\"至2028年11月",
+          "details": "trap_zack：他们会解除封锁，开放霍尔木兹海峡，并向伊朗输送资金，然后特朗普会继续就核问题进行\"谈判\"，直到2028年11月。",
+          "important": false
+        },
+        {
+          "actor": "@tleilax___",
+          "actor_type": "KOL",
+          "text": "Trump发言证实伊朗赢了 现控制霍尔木兹",
+          "details": "@tleilax___：Trump发言基本证实伊朗基本上赢了，现在控制了霍尔木兹海峡。",
+          "important": false
+        },
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "止损Brent放弃近端 买BNO Dec26 call",
+          "details": "JH：止损brent，放弃近端期货品种，买入BNO Dec26 call，仍极度看多原油长期（伊朗/Hormuz供应冲击的最终结局）。",
+          "important": false
+        },
+        {
+          "actor": "Dr_Gingerballs",
+          "actor_type": "KOL",
+          "text": "美债短端集中令加息变相宽松 加息已失效",
+          "details": "Dr_Gingerballs：美国债务太短、太集中在前端，加息等于给市场发\"无风险高息红包\"，不但不会打破市场，反而在刺激流动性——除非Fed逼大家把账面亏损真正realization，否则加息已经失效了。",
+          "important": false
+        },
+        {
+          "actor": "Mark Ritchie II",
+          "actor_type": "KOL",
+          "text": "NQ史诗级lockout rally 情绪克制无distribution",
+          "details": "Mark Ritchie II：NQ史诗级lockout rally，市场情绪非常克制且仍具建设性，未出现过度乐观；几乎无distribution，没有出现重成交量下跌日（NYSE/Nasdaq收跌>1%）；虽breadth terrible，但与过去几年一致；NYSE A/D线有望在突破时确认，NYSE综合指数也在良好整固。",
+          "important": false
+        },
+        {
+          "actor": "Stockcoach",
+          "actor_type": "KOL",
+          "text": "做空DELL 联邦协议利润率低不该涨这么多",
+          "details": "Stockcoach：short DELL，与联邦政府达成的协议甚至都不是针对服务器，而是针对软件整合，而软件整合历来都是利润率极低的行业。无论特朗普是否在任，这支股票都不应该上涨这么多。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TLT",
+        "BNO",
+        "DELL",
+        "QQQ"
+      ],
+      "image_indexes": [
+        2,
+        5
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-01",
+      "image_urls": [
+        "/uploads/2026-06-01/ef1399baf8da.png",
+        "/uploads/2026-06-01/8fdf01e5e4f8.jpg"
+      ]
+    },
+    {
+      "id": "other-misc-2026-05-30",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "UBS韩元/全球生育率/Yardeni盈利顶图表",
+      "summary": "UBS指韩国科技出口虽创经常账户盈余但外资再平衡卖出+居民海外投资使韩元未受益。全球生育率图表显示2025年东亚仅0.45-0.98、南欧0.59-0.74，远低于替代水平。Yardeni表格显示半导体股价通常领先前瞻盈利下行数月。",
+      "bullets": [
+        {
+          "actor": "UBS KR",
+          "actor_type": "Analyst",
+          "text": "韩国科技出口创盈余 但韩元未受益",
+          "details": "UBS KR：韩国科技出口带来创纪录经常账户盈余，但股市重估后的外资再平衡卖出和居民海外投资外流，使韩元未能受益。",
+          "important": true
+        },
+        {
+          "actor": "WPP2024",
+          "actor_type": "Analyst",
+          "text": "全球生育率: 东亚2025仅0.45-0.98 远低替代",
+          "details": "图表显示2000 vs 2025各地区Bo/Bn（观察出生数/所需出生数）：世界1.59→1.46；东亚0.45→0.98仍低；南欧0.59→0.74；东欧0.60；西欧0.74→0.97；北欧0.78→1.03；北美0.83→1.06；澳新0.94→1.06；中亚1.36→1.63；西亚1.44→1.86；东南亚1.25→1.29。多数发达地区已低于替代水平。",
+          "important": false
+        },
+        {
+          "actor": "FactSet/Yardeni",
+          "actor_type": "Analyst",
+          "text": "半导体股价峰值通常领先前瞻EPS下行数月",
+          "details": "TABLE 1 显示Micron/Intel/Nvidia/S&P 500 IT历史股价峰值至12个月前瞻EPS开始下行期间的回报：Micron Jun2000→Jan2001 -48%；Nvidia Dec2001→Jul2002 -83.4%；Nvidia Sep2018→Jan2019 -48.8%；Nvidia Nov2021→Aug2022 -53.8%；Intel Aug2000→Jan2001 -50.6%；S&P 500 IT Mar2000→Nov2000 -41.6%。股价通常先于盈利见顶。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 1,
+      "sources": [
+        "UBS",
+        "FactSet"
+      ],
+      "date": "2026-06-01",
+      "image_urls": [
+        "/uploads/2026-06-01/85346a0ccd15.png"
+      ]
+    }
+  ]
+}
