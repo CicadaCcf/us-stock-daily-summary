@@ -1,0 +1,436 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-jun02",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "Trump称伊朗协议下周可达成 伊朗暂停谈判 黎以临时停火",
+      "summary": "Trump表态伊朗协议谈判快速推进、可能下周达成并重新开放霍尔木兹海峡；同时电话促成以色列与真主党停火，叫停以色列对贝鲁特袭击计划。但伊朗国家媒体称因以色列在黎巴嫩行动违反停火前提，已暂停与美间接谈判。IRGC圣城军威胁完全封锁霍尔木兹海峡。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump称伊朗协议或下周达成、重开霍尔木兹",
+          "details": "Trump称与伊朗谈判\"以快速步伐推进\"，对谈判是否结束\"我真的不在乎\"，认为已\"开始变得非常无聊\"，关于谅解备忘录还需要\"再拿几点\"，认为伊朗协议可能会在下周内达成并重新开放霍尔木兹海峡。",
+          "important": true
+        },
+        {
+          "actor": "伊朗国家媒体Tasnim",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗暂停与美间接谈判及消息交换",
+          "details": "伊朗国家媒体Tasnim报道称，由于以色列在黎巴嫩的行动违反停火前提条件，伊朗暂停与美国的间接谈判及通过中介的消息交换。Fars引用消息人士称：我们的最终文本仍在德黑兰讨论中，德黑兰迄今尚未向美国发出任何回应，该消息人士称，伊朗审慎审查该提案，是因为美国长期以来一直不遵守规定且存在长期不信任。",
+          "important": false
+        },
+        {
+          "actor": "IRGC圣城军",
+          "actor_type": "Foreign-Gov",
+          "text": "圣城军负责人威胁完全封锁霍尔木兹海峡",
+          "details": "多家媒体报道IRGC圣城军负责人威胁完全封锁霍尔木兹海峡并可能扩展至曼德海峡，作为对以色列黎巴嫩进攻的回应。",
+          "important": false
+        },
+        {
+          "actor": "伊朗外长Araghchi",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗外长称停火适用于黎巴嫩全战线",
+          "details": "伊朗外长Araghchi称，伊美停火适用于所有战线包括黎巴嫩，任何一方违反即视为全面违反，美以需承担后果；伊朗外交部发言人Esmail Baqaei称，黎巴嫩停火保证是德黑兰与美达成协议的前提。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump电话怒骂Bibi 叫停贝鲁特袭击",
+          "details": "据AXIOS报道，周一Trump脏话猛烈抨击了以色列在黎巴嫩的军事升级行动。Trump称bibi疯了并指责其忘恩负义\"没有我，你早就进监狱了\"，并叫停了以色列黎巴嫩贝鲁特的袭击计划。Trump同时通过电话促成以色列与真主党同意停止相互攻击，内塔尼亚胡已下令暂停黎巴嫩攻击。",
+          "important": false
+        },
+        {
+          "actor": "内塔尼亚胡(Bibi)",
+          "actor_type": "Foreign-Gov",
+          "text": "Bibi证实与Trump通话 但保留打击贝鲁特选项",
+          "details": "当地时间6月1日晚间，bibi通过社交媒体发文，证实其当天晚间与美国总统特朗普通电话。如果黎巴嫩真主党继续袭击以色列城市和民众，以方将对位于黎巴嫩首都贝鲁特的相关目标实施打击。他表示，\"我们的立场不变。与此同时，以色列国防军将继续按计划在黎巴嫩南部开展行动。\"一位以色列官员表示，以军将对黎巴嫩贝鲁特\"达希耶\"地区发动空袭的决定是与美国协调后做出的。",
+          "important": false
+        },
+        {
+          "actor": "以色列军方",
+          "actor_type": "Foreign-Gov",
+          "text": "以军拦截两枚从黎巴嫩飞来的弹丸",
+          "details": "以色列在黎巴嫩持续军事行动，但特朗普宣布双方已同意停止攻击，以色列军方表示，已拦截了两枚从黎巴嫩飞入以色列北部的弹丸，且无人员伤亡报告。",
+          "important": false
+        },
+        {
+          "actor": "霍尔木兹海峡通行数据",
+          "actor_type": "新闻",
+          "text": "日度通行6/1-6/2共9艘 含2艘进湾Tanker",
+          "details": "【日度通行】6/1 17:30 - 6/2 17:30 共9艘，其中2艘进湾Tanker。",
+          "important": false
+        },
+        {
+          "actor": "福克斯新闻",
+          "actor_type": "新闻",
+          "text": "伊朗总统佩泽什基安据报递交辞呈",
+          "details": "据福克斯新闻报道，伊朗总统马苏德·佩泽什基安在民众要求下递交了辞呈。",
+          "important": false
+        },
+        {
+          "actor": "分析观点",
+          "actor_type": "Analyst",
+          "text": "伊朗暂停谈判与Trump乐观表述存在冲突",
+          "details": "伊朗宣布暂停谈判与特朗普称谈判快速推进的表述存在冲突；伊朗此举似为针对以色列黎巴嫩行动的施压杠杆，美方则通过乐观表态推动协议并促地区降温，实际后通道可能仍在运作，需观察后续中介消息。",
+          "important": false
+        },
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "KOL批Trump对伊朗屈服 显软弱",
+          "details": "JH：特朗普在伊朗问题上完全屈服于伊朗压力，阻止以色列打击贝鲁特，还通过直接渠道向真主党求和，显示出极度软弱。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 3,
+      "sources": [
+        "AXIOS",
+        "Tasnim",
+        "Fars",
+        "福克斯新闻"
+      ],
+      "date": "2026-06-02",
+      "image_urls": [
+        "/uploads/2026-06-02/d3c2e8ecf233.jpg"
+      ]
+    },
+    {
+      "id": "us-tariff-commerce-jun02",
+      "topic": "美国关税政策",
+      "topic_tag": "policy",
+      "title": "商务部调整钢铝铜关税 对巴西加征25%惩罚性关税",
+      "summary": "美国商务部进一步调整对进口铝、钢和铜的关税政策，将\"美国成分\"门槛降至85%，农业设备等纳入15%低税率。同时认定巴西在数字贸易到非法砍伐等多个问题上做法不公平，提出对巴西许多进口商品征收25%新惩罚性关税。",
+      "bullets": [
+        {
+          "actor": "美国商务部",
+          "actor_type": "US-Executive",
+          "text": "对巴西许多进口商品征收25%新惩罚性关税",
+          "details": "在认定其在数字贸易到非法砍伐等多个问题上的做法不公平后，提出了对巴西许多进口商品征收25%的新惩罚性关税。",
+          "important": true
+        },
+        {
+          "actor": "美国商务部",
+          "actor_type": "US-Executive",
+          "text": "钢铝铜关税\"美国成分\"门槛降至85%",
+          "details": "美国将进一步调整对进口铝、钢和铜的关税政策，\"美国成分\"门槛降至85%，农业设备等纳入15%低税率。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-02",
+      "image_urls": []
+    },
+    {
+      "id": "ai-capex-corporate-jun02",
+      "topic": "AI资本支出与公司动态",
+      "topic_tag": "ai",
+      "title": "Alphabet 80B股票融资投AI Anthropic递S-1 HPE业绩创纪录",
+      "summary": "Alphabet宣布80B股票出售用于AI基建（伯克希尔提供10B、30B承销、40B市场项目），Anthropic向SEC递交S-1草案。HPE二季度AI数据中心业绩创纪录，盘后涨36%。腾讯接近推出微信嵌入式AI代理，字节豆包将上线付费内容。",
+      "bullets": [
+        {
+          "actor": "Alphabet",
+          "actor_type": "Corporate",
+          "text": "Alphabet宣布80B股票出售 资助AI基建",
+          "details": "Alphabet宣布了一笔价值80B的股票出售，用于资助AI基础设施。伯克希尔哈撒韦提供10B，截止于周五收盘价前5%折扣，30B的承销发行，以及从第三季度开始通过市场项目提供40B；30B（融资的37.5%）将用于员工股权奖励税义务。",
+          "important": true
+        },
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic向SEC递交S-1草案",
+          "details": "Anthropic刚刚向SEC提交了S-1草案。",
+          "important": false
+        },
+        {
+          "actor": "HPE",
+          "actor_type": "Corporate",
+          "text": "HPE创纪录Q2 盘后涨36% 长期目标提前两年",
+          "details": "HPE周一公布了创纪录的第二季度业绩，促使其将长期财务目标提前两年，因AI数据中心的扩展推动需求，其股价在长时间交易中上涨了36%。",
+          "important": false
+        },
+        {
+          "actor": "腾讯",
+          "actor_type": "Corporate",
+          "text": "腾讯接近推出微信嵌入式AI代理",
+          "details": "腾讯股价上涨，FT报道其正接近推出微信嵌入式AI代理。该公司正在测试该代理的原型，该代理可以帮助用户完成应用内的任务，并计划在最早本月开始公开发布前所需的合规流程。",
+          "important": false
+        },
+        {
+          "actor": "字节跳动豆包",
+          "actor_type": "Corporate",
+          "text": "豆包本月下旬上线付费 月费68/200/500",
+          "details": "多家媒体确认，字节跳动旗下的豆包，将在本月下旬，正式上线付费内容，标准版月费价格68、加强版200、专业版500。",
+          "important": false
+        },
+        {
+          "actor": "SK集团崔泰源",
+          "actor_type": "Corporate",
+          "text": "SK海力士5年内晶圆产能翻番",
+          "details": "SK集团会长崔泰源6月2日称，SK海力士计划五年内将晶圆产能翻番，他表示，存储芯片产能瓶颈问题可能会持续到2030年。",
+          "important": false
+        },
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "大摩估VR200 NVL72机架成本7.8M 翻倍于GB300",
+          "details": "大摩估算单个VR200 NVL72机架成本约7.8M美元，较GB300的~4.0M美元上涨95%。其中GPU 396万(+57%)、Memory 200万(+435%)、NVLink Switch chip 14.4万(+122%)、PCB 11.7万(+233%)、MLCC 4320(+182%)为主要涨幅项。",
+          "important": false
+        },
+        {
+          "actor": "Aelia",
+          "actor_type": "KOL",
+          "text": "Aelia看多AI泡沫 ARM一周翻倍",
+          "details": "Aelia：NVDA老登们的卖盘被市场克服了，趋势转多；ARM一星期几乎翻倍，伟大无需多言；这tm才是大泡沫，我喜欢。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GOOGL",
+        "BRK.B",
+        "HPE",
+        "NVDA",
+        "ARM"
+      ],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "FT",
+        "Morgan Stanley"
+      ],
+      "date": "2026-06-02",
+      "image_urls": [
+        "/uploads/2026-06-02/e1e56458b2c3.png"
+      ]
+    },
+    {
+      "id": "sellside-views-jun02",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "GS/JPM/BofA/Barclays：油价、欧股、HF杠杆、国防与韩出口",
+      "summary": "GS看成品油利润差3月创历史新高、上调STOXX 600目标至660、警示HF净杠杆从70%急升至80%+；JPM认为霍尔木兹6月重开概率极低、布伦特或飙130-150，并指美国16天发射6k枚弹药耗1.9B；BofA看好HPE/AVGO/CIEN财报；巴克莱5月韩国出口同比+53.2%创纪录。",
+      "bullets": [
+        {
+          "actor": "JPM Oil",
+          "actor_type": "Analyst",
+          "text": "JPM：霍尔木兹6月重开概率极低 油价或冲130-150",
+          "details": "JPM Oil：霍尔木兹海峡在6月重新开放的可能性极低，当前布伦特原油95美元/桶的价格面临显著上行风险，若封锁持续，油价或飙升至130-150美元/桶。报告偏好MSCI沙特指数，下调MSCI阿联酋至中性；并推荐CEEMEA Top 10组合，在石油/石化股（如Aramco、Yansab、Sasol）与重启受益股（如AngloGold、FirstRand）之间平衡配置。GCC地区预计将启动超100B管道投资，以降低对海峡的依赖。",
+          "important": true
+        },
+        {
+          "actor": "GS Oil",
+          "actor_type": "Analyst",
+          "text": "GS：全球柴油利润差3月底创历史新高",
+          "details": "GS Oil：成品油利润差（即成品油价格减去原油价格）在三月底创历史新高，由于霍尔木兹海峡冲击使成品油市场收紧程度超过原油市场。全球柴油利润差3月冲破80美元/桶创历史新高。",
+          "important": false
+        },
+        {
+          "actor": "GS Strategy",
+          "actor_type": "Analyst",
+          "text": "GS上调STOXX 600 12个月目标至660",
+          "details": "GS Strategy：上调STOXX 600指数12个月目标至660点，预计带来5%价格回报。报告看好银行、科技、可再生能源及HALO（重资产低淘汰）等结构性主题，推荐超配银行（股东回报约7.3%）。但高利率和持续通胀制约估值，2026年EPS增长预期为10%，低于市场共识。",
+          "important": false
+        },
+        {
+          "actor": "GS HF",
+          "actor_type": "Analyst",
+          "text": "GS：HF净杠杆两月内从70%急升至80%+ 科技敞口创纪录",
+          "details": "GS HF：高盛持仓报告显示，全球HF net leverage两月内从70%下方急升至80%以上，科技股敞口增853bps创纪录。科技/AI主题杠杆ETF资产翻倍，散户涌入半导体股。期权仓位升至五年高位，但固收资金仍偏防御。市场风险偏好快速集中，潜在脆弱性需关注。",
+          "important": false
+        },
+        {
+          "actor": "BofA Trade Catalyst",
+          "actor_type": "Analyst",
+          "text": "BofA：5月非农预期95k 看好HPE/AVGO/CIEN财报",
+          "details": "BofA Trade Catalyst：在美伊协议等待期间，AI资本支出和就业数据为本周交易焦点。预计美国5月非农就业新增95k，高于市场共识的85k，失业率料维持4.3%。分析师看好HPE、博通和Ciena财报，认为AI需求持续驱动服务器和光网络升级。报告建议对冲高泡沫风险的半导体板块，通过SOXX看跌期权比例防范利率动荡外溢。",
+          "important": false
+        },
+        {
+          "actor": "JPM AM",
+          "actor_type": "Analyst",
+          "text": "JPM：美军16天发射6k枚弹药耗1.9B 国防补库需求",
+          "details": "JPM AM：伊朗冲突消耗大量精确弹药，美国前16天发射约6k枚，含400多枚\"爱国者\"导弹，成本达1.9B。补库需求推动国防投资，但板块年初至今仅涨1.2%，因2025年已涨40.4%。未来战场转向无人机、AI武器等新技术，2025年国防科技风投达50B，私募与公开市场均需布局。",
+          "important": false
+        },
+        {
+          "actor": "Barclays KR",
+          "actor_type": "Analyst",
+          "text": "巴克莱：韩国5月出口+53.2%创历史新高",
+          "details": "Barclays KR：韩国5月出口同比飙升53.2%至87.7B，创历史新高，受益于半导体和固态硬盘（SSD）的强劲需求，反映美国AI投资红利。贸易顺差扩至26.95B，超预期。但非科技消费品出口疲软，能源贸易逆差扩大。巴克莱预计2026年全年出口增45-47%。",
+          "important": false
+        },
+        {
+          "actor": "PIMCO",
+          "actor_type": "Analyst",
+          "text": "PIMCO：AI借贷对长债收益率影响被夸大",
+          "details": "PIMCO：AI相关借贷的繁荣可能会随着时间推移对债券市场产生更大影响，但认为其导致长期国债收益率近期上升的说法似乎被夸大了。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "HPE",
+        "AVGO",
+        "CIEN",
+        "SOXX"
+      ],
+      "image_indexes": [
+        1,
+        5
+      ],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "JPM",
+        "BofA",
+        "Barclays",
+        "PIMCO"
+      ],
+      "date": "2026-06-02",
+      "image_urls": [
+        "/uploads/2026-06-02/225a4e82e6dc.png",
+        "/uploads/2026-06-02/3cdf380c835f.png"
+      ]
+    },
+    {
+      "id": "kol-views-jun02",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "KOL：ISM价格压力、AI多重逆风、IPO海啸叙事质疑",
+      "summary": "Joseph指ISM受访者评论凸显价格压力与供应链挑战；Brandon Cral列出AI 7重逆风（资本密集度极高、输入成本上升、Scaling Laws、ROI不及预期、内存估值泡沫）；Linda Raschke称MU为exhaustion gap；Peter Berezin质疑IPO海啸叙事。",
+      "bullets": [
+        {
+          "actor": "Brandon Cral",
+          "actor_type": "KOL",
+          "text": "Brandon列AI 7重逆风 警示内存估值泡沫",
+          "details": "Brandon Cral：目前看到AI面临多重逆风，1）高额前期投入本应换来长期高利润，但现在资本密集度极高，算力承诺远超营收，需要极强的长期增长来覆盖杠杆；2）输入成本（大宗商品、芯片、电力）上升+利率更高+竞争更激烈+Scaling Laws已成问题；3）算力支出预测充满不确定性（营收不确定+算法不确定）；4）技术有价值，但ROI更贵、周期更长，不如预期；5）未来格局变化更可能是\"不同用例不同模型\"，低端市场高度竞争；6）如agentic软件工程属于Σ₂ᴾ复杂度问题，仅靠next-token prediction不够，需多目标优化+Transformer以外的方法；7）内存估值泡沫，期权市场、半导体杠杆产品，韩国市场等杠杆风险。",
+          "important": true
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "Joseph：ISM受访者评论凸显价格与供应链压力",
+          "details": "Joseph：ISM中受访者的评论因提及价格压力和供应链挑战而引人注目。（受访者评论涵盖伊朗冲突推升油价/供应链成本、柴油价格冲击利润、DRAM波动、芯片/关键矿产供应受限等。）",
+          "important": false
+        },
+        {
+          "actor": "Linda Raschke",
+          "actor_type": "KOL",
+          "text": "Linda：MU exhaustion gap MNDY涨15%",
+          "details": "Linda Raschke：MU an \"exhaustion gap\"；MNDY up 15%.....is that like the morning after pill for the bears.",
+          "important": false
+        },
+        {
+          "actor": "Peter Berezin",
+          "actor_type": "KOL",
+          "text": "Berezin：如GOOGL都不能拖累股市 IPO海啸叙事牵强",
+          "details": "Peter Berezin：如果GOOGL这还不能拖累股市，那么\"即将到来的IPO海啸\"叙事将显得相当牵强。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MU",
+        "MNDY",
+        "GOOGL"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-06-02",
+      "image_urls": []
+    },
+    {
+      "id": "china-property-jun02",
+      "topic": "中国地产与消费",
+      "topic_tag": "macro-other",
+      "title": "中国一线城市住房销售回暖 中资买家涌入香港地产",
+      "summary": "北京二手房5月销售16K套同比+12%创近五年单月最高；BBG报道中国买家Q1香港地产投资创纪录但面临资金外流监管收紧。通用磨坊将中国哈根达斯门店独家授权给柠季牵头的投资者集团。",
+      "bullets": [
+        {
+          "actor": "上证报",
+          "actor_type": "新闻",
+          "text": "北京二手房5月销16K套 同比+12% 近五年最高",
+          "details": "上证报报道中国一线城市的住房销售近几个月来有所回升，北京二手房销售较去年同期增长12%，五月份达到16K套，为过去五年来当月最高。",
+          "important": true
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "Q1中国买家投资香港地产人数创纪录",
+          "details": "BBG报道中国买家在第一季度投资香港房地产的人数创历史新高，如今面临内地富人现金流失监管的更严苛限制。",
+          "important": false
+        },
+        {
+          "actor": "通用磨坊",
+          "actor_type": "Corporate",
+          "text": "通用磨坊将中国哈根达斯门店授权给柠季",
+          "details": "美国通用磨坊公司正式发布公告，宣布已与投资者集团达成最终协议，将其在中国内地的哈根达斯门店业务，独家授权给由柠季牵头的投资者集团。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GIS"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "上证报",
+        "Bloomberg"
+      ],
+      "date": "2026-06-02",
+      "image_urls": []
+    },
+    {
+      "id": "misc-other-jun02",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "Citron创始人Left证券欺诈被判有罪 等",
+      "summary": "Citron创始人Andrew Left因证券欺诈被判有罪。",
+      "bullets": [
+        {
+          "actor": "Andrew Left",
+          "actor_type": "Corporate",
+          "text": "Citron创始人Andrew Left证券欺诈罪成",
+          "details": "Citron创始人Andrew Left因证券欺诈被判有罪。",
+          "important": true
+        },
+        {
+          "actor": "图表(美股盈利预测)",
+          "actor_type": "新闻",
+          "text": "S&P 500 TTM盈利增长预测前置以匹配AI建设",
+          "details": "Fourteen Research图表：S&P 500年度TTM盈利同比增长，1995-2025历史均值8.9%、中位数8.0%；预测2025-2029分别为11%、12%、15%、22%、13%等，EPS预期前置以匹配AI建设周期。",
+          "important": false
+        },
+        {
+          "actor": "图表(US Vol Panic Index)",
+          "actor_type": "新闻",
+          "text": "美国波动恐慌指数图",
+          "details": "US vol panic index从2024年9月至2026年7月走势图，区间约1.5-9.5。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3,
+        4
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-06-02",
+      "image_urls": [
+        "/uploads/2026-06-02/9f69deeb71a6.jpg",
+        "/uploads/2026-06-02/37ce0f221a70.png"
+      ]
+    }
+  ]
+}
