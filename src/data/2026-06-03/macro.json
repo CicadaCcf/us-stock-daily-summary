@@ -1,0 +1,491 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊战事升级：伊朗多线打击美军及海湾盟友，Rubio称战争已结束但海峡危机持续",
+      "summary": "Rubio在参院称伊朗战争已结束，正与伊朗就核问题对话，但强调不容忍伊朗封锁霍尔木兹海峡，制裁解除以核承诺为前提。同时伊朗对巴林、科威特、伊拉克同时发动攻击，IRGC声称打击美第五舰队总部，科威特机场遭无人机命中受损。海峡问题上伊朗要求控制权与赔偿，美军对伊朗油轮发射地狱火导弹，阿联酋加紧建绕过海峡的成品油管道。",
+      "bullets": [
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "Rubio称伊朗战争已结束，正与伊朗对话",
+          "details": "Rubio在参院表示：伊朗战争已经结束；伊朗或许已同意就其核计划中此前拒绝讨论的某些方面进行谈判，我们目前也正在与伊朗进行对话；伊朗政权四分五裂，我们需要几天时间才能得到他们的回应；Mojtaba在某种程度上越来越多地参与谈判；与伊朗达成糟糕的协议比没有协议更糟糕。",
+          "important": true
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "Rubio：不容伊朗封锁海峡，中俄亦不支持",
+          "details": "我们不能生活在一个伊朗有权关闭海峡并收取通行费的世界里。如果其他国家的船只无法通过，那么伊朗的船只也无法通过。没有哪个国家支持继续关闭霍尔木兹海峡，包括中国和俄罗斯；如果伊朗同意停止袭击船只，我们将结束围困。",
+          "important": false
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "Rubio：制裁解除以伊朗核承诺为前提",
+          "details": "伊朗不会仅仅因为重新开放霍尔木兹海峡就获得制裁豁免，我们对伊朗实施制裁是因为它在进行高浓度铀浓缩活动，任何放松对伊朗制裁的举措都将以伊朗做出真正的核承诺为前提。",
+          "important": false
+        },
+        {
+          "actor": "伊朗政府",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗：真正停火前不谈核，要求海峡控制权与赔偿",
+          "details": "伊朗称在真正停火前不会讨论核问题，并要求对霍尔木兹海峡拥有控制权及赔偿。",
+          "important": true
+        },
+        {
+          "actor": "IRGC",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗同时打击巴林、科威特、伊拉克",
+          "details": "伊朗同时对巴林、科威特和伊拉克发动攻击，巴林响起防空警报；IRGC声称已用导弹和无人机打击美国海军第五舰队总部及地区空军基地，作为对美方打击卡什姆岛IRGC通信设施的报复，IRGC称'肇事逃逸'的时代已经结束，并警告任何进一步干扰霍尔木兹海峡将面临'地震般、毁灭性、决定性'回应。",
+          "important": true
+        },
+        {
+          "actor": "科威特民航",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗无人机命中科威特机场T1客机楼",
+          "details": "科威特民航表示伊朗无人机和导弹瞄准科威特机场 T1 客机大楼，科威特机场设施受伤及严重破坏，多人受伤。",
+          "important": false
+        },
+        {
+          "actor": "CENTCOM",
+          "actor_type": "US-Executive",
+          "text": "CENTCOM确认拦截伊朗导弹无人机，反击QESHM控制站",
+          "details": "美国中央司令部（CENTCOM）确认美军及盟军拦截多枚伊朗弹道导弹和无人机，无美方伤亡，美国军方称第二波伊朗无人机攻击科威特美军部队失败，确认已摧毁三架威胁民用船只的伊朗无人机；美军在拦截后对QESHM伊朗军事地面控制站实施自卫打击。",
+          "important": false
+        },
+        {
+          "actor": "IRGC海军",
+          "actor_type": "Foreign-Gov",
+          "text": "IRGC称美国曾打击伊朗油轮，已对Panaya船报复",
+          "details": "伊朗革命卫队声称此前美国已打击霍尔木兹海峡附近一艘伊朗油轮，IRGC海军舰艇已针对名为Panaya的船只实施报复行动。据中央司令部称，一架美国飞机向油轮机舱发射了一枚地狱火导弹，使该船失去动力，无法抵达伊朗港口。",
+          "important": false
+        },
+        {
+          "actor": "伊朗媒体",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗开放霍尔木兹海峡船舶通行许可申请",
+          "details": "伊朗媒体2日报道称，霍尔木兹海峡船舶通行许可申请系统已全面开放，全球船东和船长可在全天24小时任何时段提交通行申请。据报道，船方可通过管理机构设立的电子系统提交霍尔木兹海峡通航申请。审核通过后，船舶将获得通行许可。",
+          "important": false
+        },
+        {
+          "actor": "ADNOC/阿联酋",
+          "actor_type": "Foreign-Gov",
+          "text": "阿联酋加紧建绕过海峡的成品油管道",
+          "details": "阿联酋正在建设其首条多燃料管道，以确保即使霍尔木兹海峡无法通行，汽油、柴油和航空煤油的出口也能继续进行。阿布扎比国家石油公司计划建设一条绕过霍尔木兹海峡的成品油管。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-06-03",
+      "image_urls": []
+    },
+    {
+      "id": "fed-advisors-hammack",
+      "topic": "美联储",
+      "topic_tag": "fed",
+      "title": "Warsh任命两位保守派顾问；Hammack称加息或'很快'合适",
+      "summary": "Warsh任命Paul Winfree（传统基金会）和Daniel Heil（胡佛研究所）为临时美联储顾问，Winfree曾主张取消Fed充分就业职能、缩表甚至废除Fed；Hammack表态偏鹰，称若近期通胀趋势持续加息可能很快合适。",
+      "bullets": [
+        {
+          "actor": "Hammack",
+          "actor_type": "Central-Bank",
+          "text": "Hammack：若通胀趋势持续，加息可能'很快'合适",
+          "details": "如果近期趋势持续下去，加息可能'很快'就合适了。'如果我们要等到确凿证据表明高通胀已经根深蒂固于经济之中，那可能需要进行更大幅度的政策调整，而这会带来更大的成本。'",
+          "important": true
+        },
+        {
+          "actor": "Warsh",
+          "actor_type": "Central-Bank",
+          "text": "Warsh任命Winfree、Heil为临时美联储顾问",
+          "details": "Warsh任命两位保守党政策资深人士为临时美联储顾问：Paul Winfree（传统基金会）和Daniel Heil（胡佛研究所），作为专家加强政策分析与规划。Paul Winfree曾提出一些激进建议，如取消美联储的'充分就业'职能（使其仅专注于稳定物价）、缩减资产负债表，甚至探讨过废除美联储的'自由银行'概念，但近期表示自己支持Fed改革，但不支持'彻底毁掉Fed'。Daniel Heil研究主要集中在削减联邦医疗开支和社保改革上。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-03",
+      "image_urls": []
+    },
+    {
+      "id": "trump-actions-ustr-301",
+      "topic": "白宫与USTR",
+      "topic_tag": "policy",
+      "title": "Trump任命Pulte代理DNI、签AI行政令；USTR对16司法管辖区拟征10%关税",
+      "summary": "Trump任命Pulte为代理国家情报总监（无需参议院确认），签署推动先进AI创新与安全的行政命令。Rubio表态美对台政策不变、14B军售仍在评估。USTR发布301强迫劳动调查，提议对包括欧盟在内16司法管辖区征10%关税、其他被调查国12.5%。",
+      "bullets": [
+        {
+          "actor": "USTR",
+          "actor_type": "US-Executive",
+          "text": "USTR 301调查：拟对16司法辖区征10%关税",
+          "details": "USTR发布了关于强迫劳动的第301条调查，并提议对16个司法管辖区（包括EU）征收10%的关税，对其他被调查国家征收12.5%的关税。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump任命Pulte代理DNI、签AI行政令",
+          "details": "Trump任命Pulte为代理国家情报总监（被任命为'代理'职务，这是一项临时任命，不需要通过参议院的确认程序）；签署推动先进人工智能创新与安全的行政命令。",
+          "important": false
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "Rubio：对台政策不变，14B军售仍在评估",
+          "details": "美国对台湾的政策保持不变，我们的目标是维持台湾目前的局势，对台14B的武器销售仍在评估中。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-03",
+      "image_urls": []
+    },
+    {
+      "id": "jolts-labor-data",
+      "topic": "就业数据/JOLTS",
+      "topic_tag": "macro-other",
+      "title": "4月JOLTS职位空缺激增引争议，Nick与多位KOL解读分化",
+      "summary": "4月JOLTS职位空缺数量激增，3个月均值自去年秋以来首次上升，失业/空缺比升破1为2025年1月以来最高。Danny称职位空缺相对劳动力已回到疫情前峰值；Peter Berezin质疑新增集中在专业商业服务、Indeed/LinkUp未见反弹、仅8% CEO反映招聘难（vs 2022年60%+）。",
+      "bullets": [
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "Nick：4月JOLTS激增，3M均值自去秋首次回升",
+          "details": "虽然这只是波动较大的一系列数据中的一个月，但4月份职位空缺数量激增，推动3个月移动平均值自去年秋季以来首次上升；失业人员与职位空缺的比例上升至1以上，达到2025年1月以来的最高水平。",
+          "important": true
+        },
+        {
+          "actor": "Danny",
+          "actor_type": "KOL",
+          "text": "Danny：职位空缺/劳动力回到疫情前峰值",
+          "details": "相对于劳动力而言，职位空缺数量已经恢复到疫情前的最高水平。",
+          "important": false
+        },
+        {
+          "actor": "Peter Berezin",
+          "actor_type": "KOL",
+          "text": "Berezin质疑JOLTS：新增集中专业商业服务",
+          "details": "JOLTS职位空缺数量大幅增加。令人怀疑的是，大部分新增职位都集中在一个类别：专业和商业服务。Indeed 和 LinkUp 系列的数据均未显示职位空缺出现任何反弹。与此同时，最新的 CEO 信心调查显示，只有 8%的高管在寻找合格员工方面遇到困难，而 2022 年这一比例超过 60%。劳动力市场并未走弱，但也没有太多证据表明它正在走强。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-03",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-views",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "卖方观点：GS Eco/KR、JPM Quant/Rates",
+      "summary": "GS Eco：SPX Q1实际营收+6.3%，AI超大规模厂商capex上调至超750B（+83% YoY），但消费2026H2料仅+1.3%。GS KR：Kospi 12个月目标12000，基于8x保守P/E。JPM JP Quant警示AI动量β破1将相变崩盘。JPM Rates：10Y 4.35-4.40%遇阻，4.56%缺口未补前战术看涨。",
+      "bullets": [
+        {
+          "actor": "GS Economics",
+          "actor_type": "Analyst",
+          "text": "GS Eco：AI capex上调至>750B (+83% YoY)，消费转弱",
+          "details": "SPX一季度实际营收增6.3%，经济韧性犹存。但受低储蓄率及高油价冲击，预计2026下半年实际消费支出仅增1.3%。AI投资成亮点，超大规模云厂商资本开支预期上调至逾750B，同比增83%。尽管投入成本上升挤压利润率，但工资增速3.6%仍温和，暂无薪资通胀螺旋风险。",
+          "important": true
+        },
+        {
+          "actor": "GS Korea",
+          "actor_type": "Analyst",
+          "text": "GS KR：Kospi 12M目标12000，8x P/E",
+          "details": "Our refreshed Kospi 12,000 12m index target is driven by earnings growth and a still conservative 8x P/E multiple.",
+          "important": false
+        },
+        {
+          "actor": "JPM JP Quant Strategy",
+          "actor_type": "Analyst",
+          "text": "JPM Quant：AI动量β破1将触发相变崩盘",
+          "details": "当前AI半导体驱动的动量策略已从追踪收益率转向追逐盈利水平，虽短期有效但蕴含内生风险。数学模型显示，当动量投资者主导度β突破1时，市场将发生相变，基本面锚失效，导致波动率指数级爆炸。需警惕P/E扩张过快、高波动下动量仍有效等拥挤信号，防范内生性崩盘风险。",
+          "important": false
+        },
+        {
+          "actor": "JPM Rates",
+          "actor_type": "Analyst",
+          "text": "JPM Rates：10Y在4.35-4.40%遇阻，4.56%缺口前看涨",
+          "details": "10Y反弹或在4.35%-4.40%区间遇阻，该区域叠加多重技术阻力。尽管从4.685%高点的回落趋势未改，但4月JOLTS职位空缺率升至4.6%创去年11月来新高，推动曲线当日扁平化2bp。只要4.56%牛市缺口未被回补，战术性看涨基调维持，预计中期将在阻力位与缺口间震荡整理。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-03",
+      "image_urls": []
+    },
+    {
+      "id": "buyside-views",
+      "topic": "买方观点",
+      "topic_tag": "macro-other",
+      "title": "Minervini类比90年代末，Burry做空NV论：AI热依赖少数客户、期限错配",
+      "summary": "Minervini称当前牛市最像1995-99五年连涨，2000触发器（通胀+技术背离）已出现但未到位，中期年下半年SPX历来+4.7%。Burry多角度看空AI：NV收入高度依赖少数核心客户、应收账款份额上升收入下滑（疑塞货）；台积电182B不可撤销采购承诺；Tokenmaxxing催生虚假繁荣；数万亿AI建设靠百慕大影子银行（PE+寿险）20-30Y长期资金对接2-6Y芯片寿命，严重期限错配。",
+      "bullets": [
+        {
+          "actor": "Michael Burry",
+          "actor_type": "KOL",
+          "text": "Burry：NV依赖少数客户+182B采购承诺+期限错配",
+          "details": "英伟达的业绩繁荣高度依赖极少数核心客户，且第一大客户已出现应收账款份额上升、收入份额下滑的背离，暗示行业存在提前'塞货'粉碎市场预期的嫌疑。为了生产非通用定制芯片，NV在台积电资助并背负了高达182B的不可撤销采购承诺，一旦集中订单减少，将面临远超当年思科历史危机的巨额资产减值风险。当前的AI狂热本质上是由Tokenmaxxing制造的阶段性虚假繁荣，企业疯狂消耗算力只是为了抓取员工交互轨迹来训练自有垂直模型，随着测试期结束，外部代币开支正迎来剧烈的自我压缩。数万亿AI大建正依赖百慕大离岸影子银行（底层是PER和人寿保险公司）进行高杠杆杠杆资金融通，导致金融底层存在用'20-30Y长期养老金承诺'去对接'经济寿命实际仅2-6Y的英伟达芯片'的严重期限错配。",
+          "important": true
+        },
+        {
+          "actor": "Mark Minervini",
+          "actor_type": "KOL",
+          "text": "Minervini：当前牛市最像1995-99，中期年下半年SPX历来+4.7%",
+          "details": "指数上一次取得如此成就，还要追溯到1995年至1999年的五年连涨。这轮上涨行情持续的时间越长，就越像上世纪90年代末的牛市。这两轮牛市都是由革命性技术推动的，这些技术引发了资本支出和生产力的提升；2000 年熊市的两个触发因素——通货膨胀上升和技术背离——目前仍然存在，但尚未达到足以打破牛市的水平，在3月份的抛售潮和4月至5月的反弹中出现背离。中东局势可能提前加剧了年中通常出现的疲软态势。历史经验表明，市场可能进一步走弱，尤其是在第三季度末期，受选举焦虑的影响。随着选举结果的不确定性降低，市场往往会在年底迎来一波上涨行情。平均而言，标普500指数在中期选举年的下半年上涨了4.7%，这也是我们制定SPX目标价的最终依据。鉴于科技板块历史上处于超买状态，科技股主导的均值回归回调可能与中期走势相符，然而中期年份往往以高位收尾。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "TSM"
+      ],
+      "image_indexes": [
+        3,
+        7
+      ],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-06-03",
+      "image_urls": [
+        "/uploads/2026-06-03/17fc3629c8d5.jpg",
+        "/uploads/2026-06-03/697965646955.png"
+      ]
+    },
+    {
+      "id": "kol-views",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "KOL：GOOGL股权融资信号、IPO供给回归、Lord Fed反对做空",
+      "summary": "Andy指出GOOGL过去21年几乎0股权融资，此次发股不发债暗示不看好股价或视AI资产为短期费用，可能预示更多hyperscaler跟进。Credit_Junk警示巨大capex后市场迎巨大IPO，过去20年股权供应持续萎缩的结构利好正反转。Mark Ritchie II说情绪解读没见泡沫但人人喊顶。Lord Fed反复回测：当前环境技术超买非可交易做空信号，最可能意外是进一步暴涨。",
+      "bullets": [
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "Andy：GOOGL发股不发债，hyperscaler融资模式转变信号",
+          "details": "GOOGL这个融资是AI capex热潮下各大公司开始用股权融资的开端，GOOGL过去21年几乎0股权融资，一直靠自由现金流覆盖所有capex + 大规模回购股票。但现在AI capex需求远超现金流，必须外部融资，债务有税盾优势、当前利率环境也合理，且Google杠杆极低，本该优先发债，这里发股不发债，说明他们不看好当前股价，或者认为这些AI资产不是长期资产，而是短期费用（很快贬值，不适合用长期债务匹配）；Google过去通过RSU员工股权激励其实已间接'发行'股份（延迟稀释），现在转为公开股权融资，信号意义重大——可能预示更多 hyperscaler（谷歌、微软、亚马逊等）将跟进，用股权而非债务支撑AI资本开支。",
+          "important": true
+        },
+        {
+          "actor": "@Credit_Junk",
+          "actor_type": "KOL",
+          "text": "Credit_Junk：巨大capex后迎巨大IPO，股权供给结构反转",
+          "details": "继巨大capex之后，现在市场开始巨大IPO，于此同时股价创下历史新高，过去 20 年里，股市的主要结构性利好因素之一是股权供应的持续减少，主要通过股票回购、有限的首次公开募股 (IPO) 和二级市场发行来实现。",
+          "important": false
+        },
+        {
+          "actor": "Mark Ritchie II",
+          "actor_type": "KOL",
+          "text": "Ritchie II：情绪未见泡沫，但人人喊顶",
+          "details": "我们没有在传统的市场情绪解读中看到泡沫，但大家仍然都在喊着'见顶'、'回调'或'崩盘'。",
+          "important": false
+        },
+        {
+          "actor": "Lord Fed",
+          "actor_type": "KOL",
+          "text": "Lord Fed：超买非可交易做空信号，最大意外是继续暴涨",
+          "details": "尽管市场已经历了大涨，但作者明确表示不会转向看空。经过反复的历史回测表明，在当前市场环境下，技术指标的'超买/拉升过度'绝不是一个可交易的做空信号。作者认为接下来最可能出现的意外是市场进一步暴涨，从而引发大批踏空资金或空头被迫进场接盘。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+      ],
+      "image_indexes": [
+        2,
+        5
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-03",
+      "image_urls": [
+        "/uploads/2026-06-03/b466a4da2c62.jpg",
+        "/uploads/2026-06-03/d8c068c5ffe2.jpg"
+      ]
+    },
+    {
+      "id": "corp-news-ai",
+      "topic": "公司/AI新闻",
+      "topic_tag": "ai",
+      "title": "Kalshi推BTC永续、OpenAI推白领插件、ORCL裁员30k、IBM称AI需6-8T capex",
+      "summary": "Kalshi获CFTC批准成美国首个BTC永续期货场所，挑战传统交易所。OpenAI将推面向企业财务/PE/市场策略/咨询/法律岗的新插件。ORCL计划6/15前裁员3万人（约全球18%）。IBM CEO Krishna称AI不是泡沫，行业需6-8T数据中心+芯片capex，7年回收需每年新增1-2T收入，他自己也不信。",
+      "bullets": [
+        {
+          "actor": "IBM Krishna",
+          "actor_type": "Corporate",
+          "text": "IBM CEO：AI需6-8T capex，7年回本需年增1-2T收入",
+          "details": "IBM首席执行官Arvind Krishna表示，AI'不是泡沫'，并估计行业需要6-8T的总capex用于数据中心和芯片建设。要在7年内回收这些收入，公司需要每年新增1-2T的收入，Krishna说他不相信。",
+          "important": true
+        },
+        {
+          "actor": "Kalshi",
+          "actor_type": "Corporate",
+          "text": "Kalshi获CFTC批准推BTC永续期货",
+          "details": "Kalshi现在正挑战传统交易所。在CFTC批准后，Kalshi成为美国首个提供比特币永续期货——无到期日杠杆合约的场所。",
+          "important": false
+        },
+        {
+          "actor": "OpenAI",
+          "actor_type": "Corporate",
+          "text": "OpenAI推白领岗位插件（财务/PE/法律）",
+          "details": "OPENAI将推出针对企业财务、私募股权、市场策略、战略咨询和法律等岗位的新插件。",
+          "important": false
+        },
+        {
+          "actor": "Oracle",
+          "actor_type": "Corporate",
+          "text": "ORCL拟6/15前裁员30k（全球18%）",
+          "details": "ORCL计划在6/15前裁员30k，约占全球员工的18%。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "IBM",
+        "ORCL",
+        "COIN"
+      ],
+      "image_indexes": [
+        6
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-03",
+      "image_urls": [
+        "/uploads/2026-06-03/3a2ab8033f7b.png"
+      ]
+    },
+    {
+      "id": "japan-fx-jpy",
+      "topic": "日本/日元",
+      "topic_tag": "rates",
+      "title": "高市早苗称外汇政策对支持经济至关重要",
+      "summary": "日本高市早苗称外汇政策对支持经济至关重要。CME非商业持仓显示日元净多头近期处于历史高位区间。",
+      "bullets": [
+        {
+          "actor": "高市早苗",
+          "actor_type": "Foreign-Gov",
+          "text": "高市早苗：外汇政策对支持经济至关重要",
+          "details": "日本高士早苗称外汇政策对支持经济至关重要。",
+          "important": true
+        },
+        {
+          "actor": "CME持仓",
+          "actor_type": "新闻",
+          "text": "CME日元非商业净多头持仓维持高位",
+          "details": "CME非商业多头-空头持仓差值（日元兑美元）显示日元升值方向头寸维持，对应美元/日元汇率在140-150区间波动。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-06-03",
+      "image_urls": [
+        "/uploads/2026-06-03/4e7712aa36a6.png"
+      ]
+    },
+    {
+      "id": "copper-supply-cuts",
+      "topic": "铜供给",
+      "topic_tag": "macro-other",
+      "title": "Freeport、Ivanhoe下调铜产量指引，YTD全球削减454kt",
+      "summary": "Morgan Stanley跟踪显示Freeport（Grasberg）和Ivanhoe（Kamoa-Kakula）均下调产量指引，分别减136kt和90kt。公司层面YTD累计削减267kt，叠加智利Cochilco下调313kt，总削减454kt。",
+      "bullets": [
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "全球铜YTD削减454kt，Freeport/Ivanhoe领跌",
+          "details": "Freeport-McMoRan指引从1533降至1397kt（-136），Ivanhoe Mines从380-420降至290-330kt（-90），Anglo American -60，Codelco El Teniente -54，Lundin -11.5；First Quantum +35上调，BHP FY26 +50；公司层面YTD合计削减267kt。Cochilco（智利）从5613降至5300（-313），隐含其他智利-188；总削减454kt。",
+          "important": true
+        },
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "Rio/Teck/Antofagasta/Glencore等指引未变",
+          "details": "Rio Tinto 800-870、Teck Resources 455-530、Antofagasta 650-700、Hudbay 110-138、Glencore 810-870、Vale 350-380、MMG 490-530、Southern Copper 911 — 指引均维持不变。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "FCX",
+        "RIO",
+        "BHP",
+        "TECK",
+        "SCCO"
+      ],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [
+        "Morgan Stanley"
+      ],
+      "date": "2026-06-03",
+      "image_urls": [
+        "/uploads/2026-06-03/4c9b9f18da4f.png"
+      ]
+    },
+    {
+      "id": "tech-perf-flows",
+      "topic": "科技股表现与资金流",
+      "topic_tag": "macro-other",
+      "title": "科技股一年表现分化；GS交易台ADTV周度1.6x、5月底现尖峰",
+      "summary": "科技股12M表现分化巨大：Palantir +153%、Zoom +142%、Arm/Datadog +130%+、Robinhood -74%、Rivian -67%、Coupang -65%。GS交易台5/26-5/29周ADTV为2026 YTD的1.6x、2023 YTD的3.1x，5月底出现明显尖峰。",
+      "bullets": [
+        {
+          "actor": "市场数据",
+          "actor_type": "新闻",
+          "text": "科技股12M：PLTR +153%、Robinhood -74%，分化巨大",
+          "details": "12个月表现：Palantir +153%、Zoom +142%、Arm Holdings +132%、Datadog +128%、MongoDB +103%、Cloudflare +90%、CoreWeave +87%、Okta +64%、CrowdStrike +64%；Robinhood -74%、Rivian -67%、Coupang -65%、Lyft -65%、Coinbase -55%、Roblox -40%、Facebook -31%、Alibaba -30%。中位数-9%、平均+14%、正收益占比43%。",
+          "important": true
+        },
+        {
+          "actor": "GS Corporate Desk",
+          "actor_type": "Analyst",
+          "text": "GS交易台5月底ADTV尖峰：周度1.6x YTD",
+          "details": "GS Corporate Desk Trading Flow：Week of 5/26-5/29 ADTV $notional为2026 YTD 1.6x、vs 2025 YTD 1.9x、vs 2024 YTD 2.0x、vs 2023 YTD 3.1x；MTD 1.2x YTD；QTD/YTD 1.0x。5月底出现明显ADTV尖峰。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "PLTR",
+        "ZM",
+        "ARM",
+        "DDOG",
+        "HOOD",
+        "RIVN"
+      ],
+      "image_indexes": [
+        4
+      ],
+      "importance": 1,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-06-03",
+      "image_urls": [
+        "/uploads/2026-06-03/5fb2d1dfac9f.jpg"
+      ]
+    }
+  ]
+}
