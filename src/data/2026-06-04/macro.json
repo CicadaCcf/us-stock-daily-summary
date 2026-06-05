@@ -1,0 +1,421 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis-jun5",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊谈判+霍尔木兹+黎巴嫩战线僵局",
+      "summary": "特朗普称伊朗已同意放弃核武器、周末或签协议，淡化霍尔木兹水雷威胁，称劳动节前可解封；但伊朗坚持将黎巴嫩与MOU挂钩并据称已退出停火框架。美伊就60天停火延长和海峡重开推进MOU但核细节存分歧。军事面伊朗向科威特/巴林发射导弹无人机，美军CENTCOM报复打击Qeshm岛。众议院首次通过战争权力决议215-208。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "称伊朗已同意弃核，周末或签协议",
+          "details": "Trump称伊朗已同意放弃核武器，伊朗离签署文件很近了，谈判进行得非常顺利，如果可能会在周末发生。他\"愿意并可能\"会见伊朗新最高领袖Mojtaba Khamenei，并透露此前因黎巴嫩政策与内塔尼亚胡通话中动火。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "淡化海峡水雷威胁，劳动节前可解封",
+          "details": "Trump淡化伊朗在霍尔木兹海峡残余水雷威胁，称美军已清除大部分，若伊朗同意停火框架水道可快速重开；可以在劳动节（9/7）前解除对伊朗的封锁。要求立即开放海峡、无通行费并清除水雷。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "伊朗停火定义不同；除非美军被击毙否则不全面开战",
+          "details": "Trump称在伊朗那个地方所谓的停火就是指交火情况变得更加温和，和其他地区停火截然不同；告诉助手除非美军被击毙否则他不会对伊朗全面开战；希望将黎巴嫩讨论与伊朗讨论分开。",
+          "important": false
+        },
+        {
+          "actor": "伊朗谈判团队",
+          "actor_type": "Foreign-Gov",
+          "text": "伊方坚持黎巴嫩挂钩，Fars称已退出停火框架",
+          "details": "伊朗相关媒体称伊朗谈判团队坚持任何协议不得忽视黎巴嫩，将黎巴嫩与美伊MOU挂钩，第一阶段因核问题拒绝和黎巴嫩红线而停滞，Fars称伊朗已根据新战略退出停火框架。",
+          "important": false
+        },
+        {
+          "actor": "美国媒体",
+          "actor_type": "新闻",
+          "text": "美伊推进60天停火延长MOU但核细节存分歧",
+          "details": "美国相关媒体称美伊正就60天停火延长及霍尔木兹海峡重开推进MOU，但核细节（浓缩铀处置、暂停期限）仍存分歧。",
+          "important": false
+        },
+        {
+          "actor": "Araghchi",
+          "actor_type": "Foreign-Gov",
+          "text": "伊外长警告袭击贝鲁特将致全面战争重启",
+          "details": "伊朗外长Araghchi在Al Mayadeen电视台采访警告任何对贝鲁特的以色列袭击都将导致全面战争重启，强调停火涵盖所有战线包括黎巴嫩，伊朗军队已准备好回应。",
+          "important": false
+        },
+        {
+          "actor": "内塔尼亚胡",
+          "actor_type": "Foreign-Gov",
+          "text": "以色列准备恢复全面升级",
+          "details": "内塔尼亚胡称以色列准备恢复全面升级。",
+          "important": false
+        },
+        {
+          "actor": "以色列驻美大使",
+          "actor_type": "Foreign-Gov",
+          "text": "美以黎三方达协议排除伊朗，拆除真主党结构",
+          "details": "以色列驻美大使称美以黎三方达成协议将伊朗排除在外，停火条件是拆除真主党结构，我们决定消灭真主党，黎巴嫩军队特种部队将逐步部署至黎巴嫩以南，真主党分子将被允许向北推进。",
+          "important": false
+        },
+        {
+          "actor": "美以黎三方",
+          "actor_type": "Foreign-Gov",
+          "text": "三方联合声明：6/22华盛顿新一轮谈判",
+          "details": "美国、以色列和黎巴嫩发表联合声明，以色列和黎巴嫩同意实施全面停火协议，但前提是真主党必须停止袭击行为，并从黎巴嫩礼塔尼河以南地区撤出武装，双方同意在6/22于华盛顿举行新一轮谈判，以达成一项全面协议。",
+          "important": false
+        },
+        {
+          "actor": "IAEA Grossi",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗400-440kg 60%浓缩铀无法核查",
+          "details": "IAEA总干事Grossi指出伊朗约400-440kg 60%浓缩铀库存仍存，但因战争损坏设施无法核查，扩散风险升高。",
+          "important": false
+        },
+        {
+          "actor": "伊朗军方",
+          "actor_type": "Foreign-Gov",
+          "text": "向科威特发射13导弹+17无人机，击中机场",
+          "details": "伊朗昨日向科威特发射13枚弹道导弹+17架无人机，击中科威特国际机场客运航站楼（致1死63伤），并声称针对美国Ali Al-Salem空军基地和Camp Arifjan基地；同时宣称打击巴林美国第五舰队总部；声称袭击了位于阿曼湾的一艘美国驱逐舰指挥中心，并警告将对美军进一步报复。科威特随后驱逐2名伊朗外交官。",
+          "important": false
+        },
+        {
+          "actor": "美国CENTCOM",
+          "actor_type": "US-Executive",
+          "text": "多数来袭被拦截，报复打击Qeshm岛阵地",
+          "details": "美国CENTCOM称多数来袭被拦截，但承认损害发生，随后对伊朗Qeshm岛附近阵地实施报复打击。以色列军方称南黎巴嫩战斗仍在继续，警告黎巴嫩居民不要向南迁移。",
+          "important": false
+        },
+        {
+          "actor": "美国众议院",
+          "actor_type": "US-Congress",
+          "text": "首次通过战争权力决议215-208要求停止对伊军事",
+          "details": "美国众议院首次通过战争权力决议（215-208），要求停止对伊朗军事行动，4名共和党人加入民主党，下一步还需要参议院表决，此前参院多次通过类似法案。",
+          "important": false
+        },
+        {
+          "actor": "KPC",
+          "actor_type": "Corporate",
+          "text": "霍尔木兹重开后6-8wk恢复70%产量",
+          "details": "科威特石油公司KPC高管在S&P Global会议（6月3日）表示，霍尔木兹重开后6-8wk可恢复70%石油产量，剩余30%约需额外1mo。",
+          "important": false
+        },
+        {
+          "actor": "Joe Kent",
+          "actor_type": "KOL",
+          "text": "建议美国撤离剥夺伊朗目标，制裁缓解换让步",
+          "details": "Joe Kent称伊朗认为他们通过控制SOH和利用黎巴嫩的真主党取得了胜利，这两者都没有持久的军事解决方案，而伊朗控制这两个因素我们无法在谈判桌上取胜；最好的做法是撤离剥夺伊朗对美国的目标及其在海湾和黎巴嫩侵略的正当性。对伊朗可以利用制裁缓解作为诱饵，最终在SOH重启后争取让步。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "Al Mayadeen",
+        "Fars",
+        "S&P Global",
+        "Goldman Sachs"
+      ],
+      "date": "2026-06-04",
+      "image_urls": [
+        "/uploads/2026-06-04/542e760b7448.jpg",
+        "/uploads/2026-06-04/7fa0117364d1.jpg"
+      ]
+    },
+    {
+      "id": "fed-speakers-jun5",
+      "topic": "美联储官员",
+      "topic_tag": "fed",
+      "title": "Williams鸽派+Logan暗示或需加息",
+      "summary": "Williams称当前利率位置恰当，距中性不远，不担心二轮通胀效应，预计在海峡重开基准情景下headline通胀将见顶；Logan担心今年晚些时候可能需要加息以恢复价格稳定。",
+      "bullets": [
+        {
+          "actor": "Logan",
+          "actor_type": "Central-Bank",
+          "text": "今年晚些时候可能需要加息恢复价格稳定",
+          "details": "Logan：我越来越担心，今年晚些时候可能需要提高利率，才能彻底恢复价格稳定。",
+          "important": true
+        },
+        {
+          "actor": "Williams",
+          "actor_type": "Central-Bank",
+          "text": "当前利率\"exactly in the right place\"",
+          "details": "Williams称当前利率\"exactly in the right place\"，既不需要现在加息也不需要降息，距离中性利率并不遥远，同时认为forward guidance眼下帮助不大，未来方向并不明显；债券市场一直非常依赖数据来判断政策走向。",
+          "important": false
+        },
+        {
+          "actor": "Williams",
+          "actor_type": "Central-Bank",
+          "text": "经济受两股相反力量影响：中东能源vs AI投资",
+          "details": "Williams：美国经济当前同时受到两股相反力量影响：中东冲突带来的更高能源价格压制家庭支出，而AI与数据中心投资浪潮则继续支撑经济增长与资本开支。",
+          "important": false
+        },
+        {
+          "actor": "Williams",
+          "actor_type": "Central-Bank",
+          "text": "海峡重开基准情景下headline通胀未来见顶",
+          "details": "Williams预计在霍尔木兹海峡未来几个月重新开放的基准情景下headline inflation会在未来几个月见顶，但全年余下时间仍维持高位；如果海峡关闭持续到劳动节，能源相关通胀压力和传导时间会更长。他认为当前更高通胀主要集中在能源、进口商品关税以及芯片/半导体价格三类商品上，住房和其他服务通胀已经明显回落，因此目前还不担心显著的二轮效应或更持久嵌入式通胀。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        4
+      ],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-06-04",
+      "image_urls": [
+        "/uploads/2026-06-04/ccea476b9ec9.png"
+      ]
+    },
+    {
+      "id": "trump-doj-blanche-jun5",
+      "topic": "Trump行政人事",
+      "topic_tag": "policy",
+      "title": "Trump提名Blanche为常任司法部长",
+      "summary": "特朗普计划提名Todd Blanche为美国司法部常任司法部长，其为特朗普前私人律师、现任代理司法部长。Nick指出ISM服务业调查主导主题为成本上升，由燃料能源、关税及AI需求驱动。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "提名前私人律师Blanche为常任司法部长",
+          "details": "特朗普计划提名Todd Blanche（其前私人律师、现任代理司法部长）为美国司法部常任司法部长。",
+          "important": true
+        },
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "ISM服务业调查主导主题为成本上升",
+          "details": "Nick：在本月ISM对服务行业采购经理调查中包含的10条回答中，主导主题是成本上升，主要由燃料和能源价格、关税以及与人工智能相关的需求推动。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "ISM"
+      ],
+      "date": "2026-06-04",
+      "image_urls": []
+    },
+    {
+      "id": "ai-macro-jun5",
+      "topic": "AI宏观",
+      "topic_tag": "ai",
+      "title": "GOOGL扩股权融资+OpenAI代币成本问题",
+      "summary": "GOOGL将股权融资规模从80B提升至84.75B。Sam Altman称OpenAI顶级内部用户每月销毁100B代币，六年前为100K，成本投诉成第二大问题。Bernie Sanders拟提案赋予公众持有最大AI公司50%所有权。GitHub Copilot大幅调整定价/额度引发开发者不满。",
+      "bullets": [
+        {
+          "actor": "Sam Altman",
+          "actor_type": "Corporate",
+          "text": "OpenAI顶级内部用户月销毁100B代币",
+          "details": "Business Insider报道，Sam Altman表示OpenAI的顶级内部用户每月销毁100B代币，六年前这个数字是100K。外部客户用得更多。成本投诉现在是他从客户那里听到的第二大问题，AI预算管理近期已成为一些公司面临的\"重大难题\"，而这种情况在今年早些时候尚属\"前所未见\"；公司将继续推进商业模式并探索其他方式以更少支出创造更多价值。",
+          "important": true
+        },
+        {
+          "actor": "Alphabet",
+          "actor_type": "Corporate",
+          "text": "股权融资规模从80B提升至84.75B",
+          "details": "GOOGL将股权融资规模从80B提升至84.75B。",
+          "important": false
+        },
+        {
+          "actor": "Bernie Sanders",
+          "actor_type": "US-Congress",
+          "text": "拟提案公众持有最大AI公司50%所有权",
+          "details": "Bernie Sanders鼓吹很快将提出一项法案，赋予公众在美国最大人工智能公司50%的所有权。",
+          "important": false
+        },
+        {
+          "actor": "GitHub Copilot",
+          "actor_type": "Corporate",
+          "text": "Copilot调整定价/额度引发开发者不满",
+          "details": "GitHub Copilot最近大幅调整定价/额度机制：从以前\"几乎无限使用\"（尤其是GPT-4o mini等便宜模型）改为严格token限额+额外预算模式，非常多开发者对定价收紧表达不满发泄。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GOOGL",
+        "MSFT"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Business Insider"
+      ],
+      "date": "2026-06-04",
+      "image_urls": []
+    },
+    {
+      "id": "buyside-views-jun5",
+      "topic": "买方观点",
+      "topic_tag": "macro-other",
+      "title": "Wellington警示市场低估通胀持续性",
+      "summary": "Wellington认为市场低估通胀持续性，即使海峡重开油价均值仍料高于100美元/桶，极端情况下可能重演1970年代滞胀。",
+      "bullets": [
+        {
+          "actor": "Wellington",
+          "actor_type": "Analyst",
+          "text": "市场低估通胀持续性，或重演70年代滞胀",
+          "details": "Wellington：市场低估了通胀的持续性。尽管美伊冲突存在不确定性，但市场仍定价冲突快速解决。然而即使霍尔木兹海峡重新开放，今年油价均值仍料高于100美元/桶。货币与财政政策进一步宽松，实际利率转负，政策可信度持续流失。风险偏向通胀持续上升，极端情况下或重演1970年代滞胀情景。",
+          "important": true
+        },
+        {
+          "actor": "Aelia Capitolina",
+          "actor_type": "KOL",
+          "text": "\"暂时避险但未到牛市终点\"，小仓位试水",
+          "details": "Aelia Capitolina：\"暂时避险但未到牛市终点\"，偏好小仓位先试水，价格确认后再追加火力。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-04",
+      "image_urls": []
+    },
+    {
+      "id": "kol-views-jun5",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "AI半导体主导多头+高频劳动力回暖+通胀难回落",
+      "summary": "Ed Bradford称AI半导体主导投机资金流。Johnny Matthews称高频数据改善，企业盈利支撑就业，但通胀难回落、金融条件实际不紧。Econstrat PB和Bob评论4月Factory Orders激增主要为波音订单。",
+      "bullets": [
+        {
+          "actor": "Johnny Matthews",
+          "actor_type": "KOL",
+          "text": "高频劳动力回暖，Q1 SPX盈利+27%支撑就业",
+          "details": "Johnny Matthews：高频数据改善，初请失业金人数、续请失业金人数及ADP就业数据均显示自去年夏天以来劳动力需求正在企稳回升，非农就业数据有望连续达成新增100K人以上的表现；企业盈利支撑就业，Q1 SPX企业盈利同比增长高达27%，在很大程度上得益于AI基础设施建设带来的庞大投资和利润级联效应，在企业盈利如此强劲的背景下企业没有任何理由去削减员工人数。",
+          "important": true
+        },
+        {
+          "actor": "Johnny Matthews",
+          "actor_type": "KOL",
+          "text": "通胀难回落，金融条件实际不紧",
+          "details": "Johnny Matthews：过去5年通胀一直高于美联储2%的目标，且目前看不到可信的回落路径，疫情、俄乌冲突、关税及中东局势等去全球化因素带来了持续的供应链冲击，且在充分就业状态下政府依然维持着高达6%的通胀性财政赤字。尽管Fed维持高利率，但当前金融条件实际上并不紧缩。",
+          "important": false
+        },
+        {
+          "actor": "Ed Bradford",
+          "actor_type": "KOL",
+          "text": "AI半导体主导投机流，比特币白银低迷",
+          "details": "Ed Bradford：Looks like AI semis dominating spec flows as former favorites, bitcoin and silver languish.",
+          "important": false
+        },
+        {
+          "actor": "Econstrat PB",
+          "actor_type": "KOL",
+          "text": "4月Factory Orders nominal +11.7% y/y但real仅+2.5%",
+          "details": "Econstrat PB：4月Factory Orders nominal +11.7% y/y，real只有+2.5% y/y，更关键的是这个指标波动极大（volatile），所以他建议3个月移动平均（3mma）平滑后看趋势，其实趋势比较平淡。",
+          "important": false
+        },
+        {
+          "actor": "Bob",
+          "actor_type": "KOL",
+          "text": "4月制造业新订单激增主因波音单月强势",
+          "details": "Bob：4月制造业新订单激增主要与波音强劲的当月相关。看起来这类激增不一定能迅速转化为产量增长（比如2025年春季），因为它们往往会增加积压订单。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "BA"
+      ],
+      "image_indexes": [
+        2
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-04",
+      "image_urls": [
+        "/uploads/2026-06-04/fdc4008b964e.png"
+      ]
+    },
+    {
+      "id": "sellside-views-jun5",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "JPM/UBS/Citi/Bernstein/Tiger多角观点",
+      "summary": "JPM预计2026年净股票供应仅约200B，受科技股回购加速驱动；韩台股市受期货+零售推动；稳定币法案窗口收窄。UBS褐皮书显示美国轻微温和增长但不确定升温。Citi重平衡美股篮子超配半导体。Bernstein称中国承担不成比例石油冲击，库存覆盖时长约200d。Tiger称SpaceX首波被动买盘仅5-8B级别。",
+      "bullets": [
+        {
+          "actor": "Bernstein",
+          "actor_type": "Analyst",
+          "text": "中国承担不成比例石油冲击，库存覆盖约200d",
+          "details": "Bernstein：中国承担了此次石油冲击中不成比例的份额。亚洲进口量下降约7M b/d，其中中国就占了约6M b/d，同比降幅约40%。中国应对供应中断的能力源于其库存缓冲。尽管进口量大幅下降，炼油开工率仍保持相对稳定，意味着当前调整是通过消耗库存实现。4月已出现库存下降的初步迹象，这一趋势可能在未来几个月延续。中国商业库存与SPR库存合计约1.5B b，有能力长期维持这种调整，库存覆盖时长或可达约200d。",
+          "important": true
+        },
+        {
+          "actor": "JPM Flow&Liquidity",
+          "actor_type": "Analyst",
+          "text": "2026净股票供应仅约200B，回购达533B创纪录",
+          "details": "JPM Flow&Liquidity：尽管Alphabet计划通过股权发行筹集80B以及即将进行的三大IPO可能增加股票供应，但鉴于4月和5月股票回购总额达到创纪录的533B，预计2026年净股票供应量仅约为200B，较去年的零供应略有恶化，但整体影响有限。美国科技股的回购加速是主要驱动力，得益于该行业现金流增长轨迹优于资本支出增长。",
+          "important": false
+        },
+        {
+          "actor": "JPM Flow&Liquidity",
+          "actor_type": "Analyst",
+          "text": "韩股期货净多头自10月增6倍，台股离岸+境内推动",
+          "details": "JPM：韩国股市自2025年初以来受到对冲基金等基于期货的投资者持续买入推动，其净多头头寸自去年10月以来增加了六倍。零售投资者也是重要买家，尽管近期在杠杆ETF上获利了结，但再平衡流动仍使整体资金流入保持正值。中国台湾股市同样受到离岸和境内机构及零售投资者的共同推动，其中离岸投资者买入力度更强。",
+          "important": false
+        },
+        {
+          "actor": "JPM Flow&Liquidity",
+          "actor_type": "Analyst",
+          "text": "稳定币法案今年通过窗口收窄",
+          "details": "JPM：随着中期选举临近，立法日历收紧，加上银行业与加密行业在稳定币收益率问题上的分歧，该法案今年通过的窗口变窄。稳定币收益率的处理是核心争议点，旨在防止其成为不受监管的储蓄替代品。若限制被动收益，可能促使加密生态现金流向代币化国债或货币市场基金。",
+          "important": false
+        },
+        {
+          "actor": "UBS Eco",
+          "actor_type": "Analyst",
+          "text": "褐皮书：轻微温和增长，通胀中等至强劲回升",
+          "details": "UBS Eco：美联储褐皮书显示美国经济呈轻微至温和增长，但不确定性显著升温。通胀以中等至强劲速度回升，主要受中东冲突推高能源成本影响。消费者支出分化加剧，高收入群体韧性足，中低收入者承压。劳动力市场停滞，多数地区就业无变化，企业招聘谨慎。",
+          "important": false
+        },
+        {
+          "actor": "Citi Strategy",
+          "actor_type": "Analyst",
+          "text": "重平衡美股篮子超配半导体，低配消费",
+          "details": "Citi Strategy：重新平衡美股策略篮子聚焦ROE改善与盈利上调标的，替代高波动价格动量策略。半导体板块持续超配，贡献显著超额收益；消费板块低配。宏观上警惕利率上升与信用利差扩大风险。",
+          "important": false
+        },
+        {
+          "actor": "Tiger Mengyulan",
+          "actor_type": "Analyst",
+          "text": "SpaceX首波被动买盘仅5-8B级，建议不抢首日",
+          "details": "Tiger Mengyulan：SpaceX上市后的第一波被动买盘大概率是5-8B USD级别，不是50B+；真正的大额被动资金来自后续S&P 500纳入和free float上调，被动资金在前几周要认购IPO的10%左右规模，更大的资金规模要等进入sp500指数。对于解禁的压力来看，如果纳入sp500之后会小很多——20%的解禁资金会被被动资金接盘。结合机构的相对冷漠和被动资金的规模，感觉第一天不应该抢滩进入。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GOOGL"
+      ],
+      "image_indexes": [
+        3
+      ],
+      "importance": 2,
+      "sources": [
+        "JPM",
+        "UBS",
+        "Citi",
+        "Bernstein"
+      ],
+      "date": "2026-06-04",
+      "image_urls": [
+        "/uploads/2026-06-04/ca32d9b3f4c0.jpg"
+      ]
+    }
+  ]
+}
