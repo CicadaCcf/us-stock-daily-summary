@@ -1,0 +1,425 @@
+{
+  "topics": [
+    {
+      "id": "fed-speakers-2026-03-04",
+      "topic": "美联储官员表态",
+      "topic_tag": "fed",
+      "title": "Schmid与Daly谈通胀与利率耐心",
+      "summary": "Schmid强调通胀是经济最大风险，核心问题是Fed对利率的耐心。Daly则指出通胀焦点在能源食品价格，否认AI已提升生产力，认为当前货币政策合宜但经济不确定性高，无法预测利率走向。",
+      "bullets": [
+        {
+          "actor": "Schmid",
+          "actor_type": "Central-Bank",
+          "text": "通胀是经济最大风险，关键是Fed对利率多有耐心",
+          "details": "Schmid：通胀是经济最大的风险，目前最大的问题是Fed对利率问题保持多大的耐心。",
+          "important": true
+        },
+        {
+          "actor": "Daly",
+          "actor_type": "Central-Bank",
+          "text": "Daly：通胀焦点在能源食品，AI未见提升生产力证据",
+          "details": "Daly：通胀焦点在能源和食品价格上，没有证据表明AI提高了生产力；目前的货币政策形势良好，但经济形势存在太多不确定性，因此无法预测利率走向。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-05",
+      "image_urls": []
+    },
+    {
+      "id": "us-iran-hormuz-crisis-2026-03-04",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "Trump称霍尔木兹协议接近完成，美伊谈判多方博弈",
+      "summary": "Trump表示霍尔木兹协议已基本谈成，伊朗须先签字才能重开海峡，60天停火框架与核谈判正在推进，巴基斯坦居中斡旋；同时威胁无论是否达成协议都可夺取伊朗富铀。伊朗内部出现分裂迹象，但仍坚持革命路线，与阿曼联合管理海峡，并通过巴基斯坦同意将部分铀矿转移至第三国。以色列12频道称谈判无进展，美方要求本周末前答复，下周瑞士签字。摩根士丹利测算海峡长时间中断需油价升至130美元/桶以上的需求破坏区间。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：霍尔木兹协议基本谈完，伊朗须先签字才重开海峡",
+          "details": "Trump称霍尔木兹协议已基本谈判完成，伊朗必须先签署才能重开海峡；60天停火框架正在讨论，核谈判随后展开，达成的协议将确保伊朗保持无核状态，巴基斯坦在幕后促成。不急于达成协议，不会接受'坏协议'；伊朗领导层在多名高官遇袭后出现内部分裂迹象。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：无论是否达成协议，美国都可夺取伊朗富铀",
+          "details": "Trump：无论是否达成协议，美国都可以夺取伊朗的富铀。",
+          "important": false
+        },
+        {
+          "actor": "伊朗外长Araghchi",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗外长：伊朗与阿曼依国际法共同管理霍尔木兹海峡",
+          "details": "伊朗外长Araghchi称伊朗与阿曼将依国际法共同管理霍尔木兹海峡。",
+          "important": false
+        },
+        {
+          "actor": "伊朗革命卫队",
+          "actor_type": "Foreign-Gov",
+          "text": "革命卫队：以色列不撤出黎巴嫩则各战线无停火",
+          "details": "伊朗革命卫队重申无以色列从黎巴嫩撤军则无任何和平，这是各战线停火的前提条件。",
+          "important": false
+        },
+        {
+          "actor": "伊朗政府",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗同意将部分铀矿转移至双方同意的第三国",
+          "details": "伊朗通知巴基斯坦，它同意将其部分铀矿转移给双方同意的第三国。",
+          "important": false
+        },
+        {
+          "actor": "谈判消息",
+          "actor_type": "新闻",
+          "text": "谈判讨论100B+冻结资金条件性解冻，约20B挂钩铀浓缩监督",
+          "details": "谈判中讨论伊朗100B美元以上冻结资金的条件性解冻，例如约20B美元与铀浓缩限制及监督挂钩，以阻止代理人资助。",
+          "important": false
+        },
+        {
+          "actor": "以色列12频道",
+          "actor_type": "新闻",
+          "text": "以12频道：美伊谈判无进展，要求周末前答复、下周瑞士签字",
+          "details": "以色列12频道报道：美伊谈判目前无进展，美方通过巴基斯坦向伊朗传达信息，要求本周末前给出答复，下周在瑞士举行签字仪式。",
+          "important": false
+        },
+        {
+          "actor": "Middle East Forum",
+          "actor_type": "Analyst",
+          "text": "分析：德黑兰视谈判为胜利，坚持最大主义需求",
+          "details": "Middle East Forum分析文章称德黑兰将与特朗普的谈判视为胜利而非妥协，坚持最大主义需求（包括美军撤出、全面制裁解除、赔偿），革命路线无缓和迹象。",
+          "important": false
+        },
+        {
+          "actor": "伊朗政权",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗内部叙事：2月28日冲突视为战略胜利，谈判不做实质妥协",
+          "details": "伊朗政权内部叙事：2月28日冲突后被视为战略胜利，最高层坚持革命意识形态，在谈判中不做实质妥协。",
+          "important": false
+        },
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "MS：海峡长时间中断需油价升至130+美元/桶需求破坏区间",
+          "details": "摩根士丹利图表显示，霍尔木兹海峡运输长时间中断需要油价升至需求破坏区间，历史上高于130美元/桶。当前油价已包含基于该风险的溢价。基于2007年以来Brent油价（按2026年美元）的分布显示，峰值约在88美元附近，需求破坏区间标注在148-172区间。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "Israel Channel 12",
+        "Middle East Forum",
+        "Morgan Stanley"
+      ],
+      "date": "2026-06-05",
+      "image_urls": [
+        "/uploads/2026-06-05/d411b6c45ccd.png"
+      ]
+    },
+    {
+      "id": "trump-coal-investment-2026-03-04",
+      "topic": "Trump煤炭产业投资",
+      "topic_tag": "policy",
+      "title": "Trump动用国防生产法向煤炭业投资700M",
+      "summary": "Trump宣布向煤炭行业投资7亿美元，使用国防生产法提供资金，保护14座燃煤电厂和42座煤矿，新建2座燃煤电厂，并在加州奥克兰建设大型煤炭出口码头。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：投资700M保护煤炭产业，新建2座燃煤电厂",
+          "details": "宣布向煤炭行业投资700M，使用国防生产法提供资金，保护14座燃煤电厂和42座煤矿；新建2座燃煤电厂，建设加州奥克兰一个大型煤炭出口码头。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：因强烈反对，不再提名Pulte出任常任情报局长",
+          "details": "在遭到强烈反对后，他不会提名Pulte担任美国常任情报局长。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-06-05",
+      "image_urls": []
+    },
+    {
+      "id": "us-cuba-policy-2026-03-04",
+      "topic": "美国对古巴政策",
+      "topic_tag": "geo",
+      "title": "Trump称处理完伊朗后再处理古巴",
+      "summary": "Trump表示在解决伊朗问题后将处理古巴问题；Rubio称将打击为古巴提供资金支持的网络。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：解决完伊朗问题后再处理古巴",
+          "details": "我们会在解决完伊朗问题后再处理古巴问题。",
+          "important": true
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "Rubio：将打击为古巴提供资金支持的网络",
+          "details": "Rubio：我们将打击为古巴提供资金支持的网络。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-06-05",
+      "image_urls": []
+    },
+    {
+      "id": "spacex-ipo-2026-03-04",
+      "topic": "SpaceX IPO",
+      "topic_tag": "ai",
+      "title": "SpaceX以1.75T估值IPO，融资75B创纪录",
+      "summary": "SpaceX以每股135美元完成IPO，筹资75B美元，估值1.75T美元，创史上最大IPO纪录。高盛预测其AI业务收入将从3.2B增至2030年322B，晨星估值仅780B不到高盛一半；富达将认购门槛从500K降至2K，预留30%份额给散户。市场对马斯克将xAI并入SpaceX以拉高估值的做法存在争议。",
+      "bullets": [
+        {
+          "actor": "SpaceX",
+          "actor_type": "Corporate",
+          "text": "SpaceX 135美元/股完成IPO，估值1.75T创史上最大",
+          "details": "SpaceX 今天以每股$135的价格完成了 IPO，筹集资金 75B，公司估值达 1.75T，创下史上最大规模 IPO 纪录。主承销商高盛预测，到 2030 年SpaceX 人工智能业务的收入将从3.2B增长至 322B，而晨星公司则认为，SpaceX 的估值仅为780B，不到高盛预测的一半；富达将认购门槛从 500K降至 2K，SpaceX 则预留了30%的份额给散户投资者。",
+          "important": true
+        },
+        {
+          "actor": "Jim Cramer",
+          "actor_type": "KOL",
+          "text": "Cramer：警惕'过门资金'，恐导致开盘价剧烈波动",
+          "details": "Jim Cramer：Elon希望把30%的IPO份额分配给散户，但他最担心的是'over the transom'资金（即非正式渠道、散户主动涌入的巨额市场订单），这些'过门资金'会远超机构配售规模，彻底打乱IPO开盘机制，结果往往是开盘价被严重推高，形成剧烈波动，类似CBRS。",
+          "important": false
+        },
+        {
+          "actor": "勃勃OC",
+          "actor_type": "KOL",
+          "text": "勃勃OC：质疑xAI并入SpaceX是为拉高估值的道德问题",
+          "details": "勃勃OC强烈质疑马斯克SpaceX IPO的'道德问题'和估值逻辑。马斯克将xAI与SpaceX合并，是为了用AI'2030年3000亿收入'的高预期大幅拉高SpaceX估值。推特蓝V广告分红机制其实是为了增加蓝V数量，把订阅费算进xAI上市前6个月收入，作为未来AI收入基数。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GS"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Goldman Sachs",
+        "Morningstar"
+      ],
+      "date": "2026-06-05",
+      "image_urls": []
+    },
+    {
+      "id": "us-gov-ai-stakes-2026-03-04",
+      "topic": "AI产业政策",
+      "topic_tag": "ai",
+      "title": "美政府探讨持有领先AI公司股份，DOE推创世纪计划",
+      "summary": "Benzinga报道美政府正与多家大型AI公司就自愿转让股份事宜进行初步讨论；DOE副部长Darío Gil主导'创世纪计划'，推动政府、企业、学术、科研机构在可控核聚变与容错量子计算领域合作。孙正义称本轮AI行情可能比2000年互联网泡沫大50倍。",
+      "bullets": [
+        {
+          "actor": "Benzinga",
+          "actor_type": "新闻",
+          "text": "美政府探讨持有领先AI公司股份",
+          "details": "Bezinga报道政府正在探讨美国政府是否应该持有领先的人工智能公司的股份。美国高级官员已与多家大型人工智能公司就可能自愿向政府转让股份一事进行了初步讨论。",
+          "important": true
+        },
+        {
+          "actor": "Darío Gil (DOE)",
+          "actor_type": "US-Executive",
+          "text": "DOE副部长主导'创世纪计划'，聚焦核聚变与容错量子计算",
+          "details": "美国能源部（DOE）副部长达里奥·吉尔（Darío Gil）正全力主导一项名为'创世纪计划'的科研攻关项目，旨在促进政府、企业、学术界以及科研机构之间的信息共享与研发合作，对可控核聚变以及未来几年内实现容错量子计算最感到兴奋。",
+          "important": false
+        },
+        {
+          "actor": "孙正义",
+          "actor_type": "Corporate",
+          "text": "孙正义：本轮AI行情可能比2000年互联网泡沫大50倍",
+          "details": "孙正义表示，他觉得这波 AI 行情不只是 10 倍，可能比 2000 年互联网泡沫大 50 倍。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Benzinga"
+      ],
+      "date": "2026-06-05",
+      "image_urls": []
+    },
+    {
+      "id": "xi-north-korea-visit-2026-03-04",
+      "topic": "中朝外交",
+      "topic_tag": "geo",
+      "title": "习近平6月8-9日将访朝",
+      "summary": "应金正恩邀请，中国国家主席习近平将于6月8-9日前往朝鲜进行国事访问。",
+      "bullets": [
+        {
+          "actor": "中国政府",
+          "actor_type": "Foreign-Gov",
+          "text": "习近平6月8-9日应邀对朝鲜进行国事访问",
+          "details": "应金正恩邀请，中国国家主席习近平，将于6/8-6/9前往朝鲜，进行国事访问。",
+          "important": true
+        },
+        {
+          "actor": "金正恩",
+          "actor_type": "Foreign-Gov",
+          "text": "金正恩向习近平发出访朝邀请",
+          "details": "应金正恩邀请，中国国家主席习近平将访问朝鲜。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-06-05",
+      "image_urls": []
+    },
+    {
+      "id": "sp-index-rules-2026-03-04",
+      "topic": "标普指数规则",
+      "topic_tag": "policy",
+      "title": "S&P维持指数准入标准，不为超大市值公司开例外",
+      "summary": "标普决定不修改S&P 500、MidCap 400和SmallCap 600的成分股准入标准，包括财务可行性、上市时间和最低流通股比例，认为为超大市值公司单独开设例外条款会破坏指数编制规则的一致性和公平性。",
+      "bullets": [
+        {
+          "actor": "S&P指数委员会",
+          "actor_type": "Corporate",
+          "text": "S&P：不为超大市值公司开例外，维持现有准入标准",
+          "details": "S&P决定不修改 S&P 500、S&P MidCap 400 和 S&P SmallCap 600 的成分股准入标准，包括财务可行性要求、上市时间要求以及最低流通股比例要求；标普表示，即使一家公司拥有极高的市值，也不应仅因规模庞大而获得规则豁免。委员会认为，为超大市值公司单独开设例外条款，会破坏指数编制规则的一致性和公平性，因此不会为其提供特殊待遇。",
+          "important": true
+        },
+        {
+          "actor": "S&P指数委员会",
+          "actor_type": "Corporate",
+          "text": "标普强调指数编制规则的一致性和公平性",
+          "details": "委员会认为为超大市值公司单独开设例外条款会破坏规则一致性。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "S&P"
+      ],
+      "date": "2026-06-05",
+      "image_urls": []
+    },
+    {
+      "id": "sell-side-views-2026-03-04",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "DB谈通胀曲线分化、Nomura看BOJ加息、BNP看存储见顶提前",
+      "summary": "DB Eco指出油价反弹与美经济超预期推升前端CPI，1Y CPI升近10bp但中期远期降超10bp，美元CPI与欧元HICP利差有望修复。Nomura维持BOJ 6月加息至1.00%预测，市场已提前定价令美元/日元突破160，需植田释放更鹰派信号。BNP的Karl Ackerman将DRAM/NAND ASP见顶时间从2027年中提前至2026年中，因长江存储等扩产及智能手机出货量年降14%。德银megatrends图表显示当前megatrends对市场总体为负面影响。",
+      "bullets": [
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "Nomura：BOJ 6月加息至1.00%几成定局，市场隐含概率近90%",
+          "details": "Nomura：BOJ 6月加息至1.00%几成定局，但美元/日元仍突破160，因市场已提前定价。若欲提振日元，行长植田和男需释放更鹰派信号，如暗示加速紧缩。需警惕高市早苗任命委员的反对票引发对央行独立性的质疑。野村维持日央行6月加息预测，植田讲话强调物价上行风险大于经济下行风险，市场隐含的6月加息概率升至近90%。若中东局势无重大恶化，日央行大概率加息。日央行可能在近期结束JGB购债缩减，以稳定长期利率和市场功能。",
+          "important": true
+        },
+        {
+          "actor": "DB Eco",
+          "actor_type": "Analyst",
+          "text": "DB：通胀曲线分化，1Y CPI升近10bp、中期远期降超10bp",
+          "details": "DB Eco：受油价反弹及美国经济数据超预期（惊喜指标创2023年以来新高）驱动，前端CPI上涨带动名义收益率上升。然而通胀曲线出现分化，1年期CPI升近10bp，而中期远期利率降超10bp，导致美元CPI与欧元HICP利差收紧，预计后续利差有修复空间。",
+          "important": false
+        },
+        {
+          "actor": "BNP Karl Ackerman",
+          "actor_type": "Analyst",
+          "text": "BNP：DRAM/NAND ASP见顶时间提前至2026年中",
+          "details": "BNP Karl Ackerman：受AI需求推动而飙升的DRAM和NAND闪存ASP将在2026年年中达到峰值，远早于他最初预测的2027年年中，之后将从明年年初开始出现季度环比下降。主要由于中国存储器制造商（如长江存储和长江存储）积极扩张产能，以及其他行业因价格飙升而减少存储器消费所致，其中包括今年全球智能手机出货量下降14%。未来一到两年内供应过剩和利润率下降的担忧日益加剧，并已开始对该行业造成提前压力。",
+          "important": false
+        },
+        {
+          "actor": "Janus Henderson",
+          "actor_type": "Analyst",
+          "text": "Janus Henderson：黄金与实际收益率关系未破，新兴央行购金年均1000吨",
+          "details": "Janus Henderson：黄金与实际美债收益率的关系并未破裂，只是从更高基线运行。自2022年以来，新兴市场央行年均购金约1000吨，是此前十年的2倍，推高了黄金的长期底部。短期看，金价仍随实际收益率反向波动，但不再由利率单方面决定。",
+          "important": false
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "德银megatrends图：当前megatrends总体负面影响重现",
+          "details": "德银图表显示megatrends对经济与市场影响：经历婴儿潮、石油危机、主权债务、去监管、科技繁荣、金融危机、宽松货币时代后，当前进入'megatrends回归'阶段——多重外生冲击与利率正常化使megatrends再次显著，5期移动均线在2020年后下行至-0.5至-1.0区间后略有回升。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MU",
+        "WDC"
+      ],
+      "image_indexes": [
+        1
+      ],
+      "importance": 2,
+      "sources": [
+        "DB",
+        "Nomura",
+        "BNP",
+        "Janus Henderson",
+        "Deutsche Bank"
+      ],
+      "date": "2026-06-05",
+      "image_urls": [
+        "/uploads/2026-06-05/0aa1c2ddc176.png"
+      ]
+    },
+    {
+      "id": "kol-views-2026-03-04",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "KOL：Berezin谈LLM token、Niles看回调、Aelia看bear trap",
+      "summary": "Peter Berezin指出LLM 80%的经济价值来自20%的token，存在大量可疑使用情况。Dan Niles认为当前为5%典型回调而非见顶，看好CPU、NVDA与模拟半导体。Aelia Capitolina认为本轮是纯粹权益市场去杠杆，10Y几乎没动，调侃可能先跌至SPX 7350再挤空反弹至8000，并多次操作QQQ put。",
+      "bullets": [
+        {
+          "actor": "Dan Niles",
+          "actor_type": "KOL",
+          "text": "Niles：典型5%回调而非见顶，看好CPU、NVDA与模拟半导体",
+          "details": "Dan Niles：卖压可能持续几天以消化过热，但仅是正常回调（典型5%拉回），而非见顶；回调看好的CPU和NVDA，模拟半导体。",
+          "important": true
+        },
+        {
+          "actor": "Peter Berezin",
+          "actor_type": "KOL",
+          "text": "Berezin：LLM 80%经济价值来自20%的token",
+          "details": "Peter Berezin：LLM 80%的经济价值来自20%的token。存在大量可疑的token使用情况，可以通过大幅削减这些情况来避免对生产力造成太大负面影响。",
+          "important": false
+        },
+        {
+          "actor": "Aelia Capitolina",
+          "actor_type": "KOL",
+          "text": "Aelia：纯权益去杠杆，看bear trap先跌SPX 7350再挤空至8000",
+          "details": "Aelia Capitolina认为本轮是'纯粹权益市场单方面去杠杆'，十年期美债收益率几乎没动；预计指数/大盘权重和beta会回调，但强势alpha个股会有差异化行情，相关度不会太高；调侃可能出现'bear trap'先跌到SPX 7350，再暴力挤空反弹到8000。最近两周已多次操作QQQ put，几乎每次反弹到成本价/保本就出掉，继续尝试。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "QQQ"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-05",
+      "image_urls": []
+    }
+  ]
+}
