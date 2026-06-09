@@ -1,0 +1,559 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-jun7",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊冲突升级：霍尔木兹封锁、谈判卡壳、双方互袭",
+      "summary": "伊朗宣布完全封锁曼德海峡和霍尔木兹海峡，并警告将打击海湾盟友能源基础设施。美伊谈判因伊朗要求120亿美元现金先行解冻而卡壳，阿拉伯电视台称冻结资金问题彻底卡死。以色列空袭马赫沙赫尔石化综合体，IRGC袭击美军基地与油轮，Trump敦促内塔尼亚胡停止打击推进和谈。",
+      "bullets": [
+        {
+          "actor": "伊朗",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗宣布完全封锁曼德海峡和霍尔木兹海峡",
+          "details": "伊朗表示目前已完全封锁曼德海峡，并完全关闭霍尔木兹海峡，下一步将对美国盟友海湾国家的石油、天然气和能源基础设施进行打击，以回应以色列今天对伊朗石化联合体的袭击。",
+          "important": true
+        },
+        {
+          "actor": "IDF/IRGC",
+          "actor_type": "Foreign-Gov",
+          "text": "以军空袭马赫沙赫尔石化综合体，IRGC称对以空军基地导弹袭击为'警告'",
+          "details": "IDF确认其空军打击了伊朗西南部马赫沙赫尔石化综合体多个目标，目前无人员伤亡，IRGC称对以色列拉马特·大卫空军基地的弹道导弹袭击为'单纯警告'，已暂停当晚行动，但若以色列继续在黎巴嫩等地行动，将扩大报复范围并针对'所有美以目标'。",
+          "important": true
+        },
+        {
+          "actor": "以色列/伊朗",
+          "actor_type": "Foreign-Gov",
+          "text": "以军袭贝鲁特真主党总部，伊朗向以发射30枚导弹",
+          "details": "以色列军方袭击了位于贝鲁特南部郊区的真主党总部。伊朗向以色列发射30枚导弹，以色列北部（海法附近）出现抛射物落下并引发警报。",
+          "important": true
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ：美伊谈判卡在伊朗要现金，签初步协议先拿120亿",
+          "details": "WSJ报道美伊谈判卡住了，卡点之一是伊朗要现金，签初步协议时先拿到12B，之后60d谈判期里再给24B。这笔钱不是美国掏，是伊朗自己被美国制裁冻结的资产，总量大约100B，这个事件对Trump是个雷，因为他曾批评过奥巴马2016伊核协议很多年，称这是他见过历史上最愚蠢的交易，给了伊朗1.7B现金。",
+          "important": false
+        },
+        {
+          "actor": "阿拉伯电视台/伊朗媒体",
+          "actor_type": "新闻",
+          "text": "阿拉伯台称伊同意运出浓缩铀但冻结资金彻底卡死",
+          "details": "阿拉伯电视台表示伊朗同意运出浓缩铀，但冻结资金问题彻底卡死。伊朗媒体称，由于美国袭击伊朗炮艇以及以色列在黎巴嫩南部的军事行动，美伊会谈已经破裂。",
+          "important": false
+        },
+        {
+          "actor": "伊朗",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗已通知巴基斯坦接受将部分铀库存转移至第三国",
+          "details": "伊朗已通知巴基斯坦，伊方接受将其部分铀库存转移至一个经其同意的第三国。",
+          "important": false
+        },
+        {
+          "actor": "Axios",
+          "actor_type": "新闻",
+          "text": "Axios：Witkoff和Kushner赴橡树岭与技术专家磋商",
+          "details": "Axios报道，Witkoff和Kushner周四前往田纳西州橡树岭国家实验室，和一组技术专家进行磋商。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump敦促内塔尼亚胡停止打击，强调对以最初袭击不满",
+          "details": "Trump敦促以色列总理内塔尼亚胡停止进一步打击，以推进和平协议；呼吁通过谈判解决伊朗炮火，'我曾说过协议将在周一、周二或周三签署'，而现在事情发生了，称对以色列最初的袭击感到不满，以色列早前的袭击与我们无关，以色列总理内塔尼亚胡'别无选择'，只能接受美伊协议，谈判的关键决定是由他本人而非内塔尼亚胡做出的。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：若无协议将持续削弱伊朗军队直至安全夺铀",
+          "details": "如果我们不能达成协议，我们将继续削弱伊朗军队，直到我们的军队能够安全地夺取铀为止；他不会在任何协议中预先解冻伊朗资产或解除任何制裁；并没有要求黎巴嫩加入与伊朗的短期协议。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：美国应对伊朗局势'巨大成功'，伊朗绝不可能获核武",
+          "details": "美国在应对伊朗局势上取得了'巨大成功'，并表示这场中东冲突很快会以'某种方式'得到彻底解决，在目前的军事和外交施压下，伊朗绝没有能力、也不可能获得核武器。",
+          "important": false
+        },
+        {
+          "actor": "Galibaf",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗议长Galibaf：美以资产成'合法打击目标'",
+          "details": "Galibaf表示他们不遵守停火协议，也不相信对话；美国对伊朗实施海上封锁以及华盛顿对以色列的支持，使得美以两国在该地区的资产成为'合法打击目标'。他表示，伊朗武装部队拥有充分的行动自由。",
+          "important": false
+        },
+        {
+          "actor": "CENTCOM/IRGC",
+          "actor_type": "US-Executive",
+          "text": "CENTCOM击落多架伊朗无人机；IRGC称袭巴林美军基地，CENTCOM否认",
+          "details": "CENTCOM称击落多架伊朗单向无人机，这些无人机当时正威胁霍尔木兹海峡航运安全。IRGC表示，在美国对Sirik and Qeshm islands发起打击后（海岸监控雷达设施被袭），用空射导弹袭击了该地区的美国基地，巴林的美国海军第五舰队总部升起滚滚浓烟，已对四艘试图未经其许可穿越霍尔木兹海峡的油轮开火；美国CENTCOM否认基地被命中。",
+          "important": false
+        },
+        {
+          "actor": "伊朗媒体",
+          "actor_type": "新闻",
+          "text": "伊朗Khqrq石油出口终端发生爆炸，官方称受控弹药引爆",
+          "details": "伊朗媒体称，Khqrq（伊朗主要石油出口终端）发生爆炸，官方定性为受控弹药引爆。",
+          "important": false
+        },
+        {
+          "actor": "Fars通讯社",
+          "actor_type": "新闻",
+          "text": "Fars：伊朗威胁'完全彻底关闭'霍尔木兹海峡",
+          "details": "Fars通讯社表示伊朗威胁美国将'完全彻底地关闭霍尔木兹海峡'，并警告称，美国现在将'对石油和天然气出口造成的后果负全部责任'。",
+          "important": false
+        },
+        {
+          "actor": "海峡通行数据",
+          "actor_type": "新闻",
+          "text": "霍尔木兹6/6-6/7日度通行仅10艘",
+          "details": "【日度通行】6/6 17:30 - 6/7 17:30 共10艘，其中1艘出湾Tanker，2艘进湾Tanker。",
+          "important": false
+        },
+        {
+          "actor": "ABC",
+          "actor_type": "新闻",
+          "text": "ABC：Bessent消息人士称美计划用伊朗资源重建海湾盟友",
+          "details": "ABC记者报道一位熟悉Bessent想法的消息人士称，美国计划利用伊朗的资源重建海湾盟友。",
+          "important": false
+        },
+        {
+          "actor": "Gregory Brew",
+          "actor_type": "Analyst",
+          "text": "橡树岭实验室磋商是积极进展，下阶段或很快开始",
+          "details": "田纳西州的橡树岭国家实验室是一个总体上积极的进展。美国正在认真考虑核协议中更技术性的问题。这表明下一阶段预计很快就会开始——尽管初步协议仍遥遥无期。",
+          "important": false
+        },
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "JH：伊朗石油经济资金链崩溃比市场想象慢，洗钱周期3-6月",
+          "details": "封锁下的伊朗石油经济资金链崩溃机制会比市场想象的慢。伊朗石油出口是一套结构性洗钱与物流掩护体系：原油出霍尔木兹海峡或入印度洋即关闭AIS、涂改船号，经EOPL或阿联酋海域船对船转运（STS）洗入暗黑船队；篡改提单伪装成马来西亚混调油或阿曼原油，流入中国山东地炼。中国进口数据显示马来西亚原油激增，完全绕开SWIFT和美元，通过迪拜、香港、土耳其壳公司及伊朗Amin Exchange影子银行，以人民币或迪拉姆结算，用哈瓦拉多层洗钱或实物易货（中国炼油产品、机械、消费品乃至军用部件）抵账。现金周期极长：装船到收款60-90天，洗回德黑兰/IRGC再需60-90天，导致可用资金滞后3-6个月。",
+          "important": false
+        },
+        {
+          "actor": "图表",
+          "actor_type": "新闻",
+          "text": "SEB：2026年5月伊朗产量~3.2 Mbpd，出口骤降至~0.4 Mbpd",
+          "details": "Iran Oil Exports and Production图：2012美制裁、2016 JCPOA、2018美退出、2022俄乌、2023六月战争、2026伊朗战争。截至2026年5月，伊朗原油产量约3.2 mbpd，出口约0.4 mbpd，出口因战争大幅下滑。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "Axios",
+        "ABC",
+        "Fars",
+        "阿拉伯电视台",
+        "SEB"
+      ],
+      "date": "2026-06-08",
+      "image_urls": [
+        "/uploads/2026-06-08/0d2b2651711c.png"
+      ]
+    },
+    {
+      "id": "fed-rate-path-jun7",
+      "topic": "美联储与利率路径",
+      "topic_tag": "fed",
+      "title": "强非农后联储官员与卖方调整降息路径",
+      "summary": "Hammack称维持利率可行但若趋势延续可能很快需要行动；Hassett认为供给侧就业说明可降息空间存在。卖方分歧：GS将首次降息推迟至2027年并上调10Y预测至4.4%，MS指中性利率上升50bp暗示当前政策中性，UBS预计2028年前无降息，BNP预计Fed将取消2025年三次保险降息。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS将Fed首次降息推迟至2027年，加息概率上调至20%",
+          "details": "GS US Daily：将Fed首次cut时点推迟至2027年，因劳动力市场强劲，预计2026年失业率仅升至4.4%。受关税及高油价影响，全年核心PCE通胀料维持在3%以上。加息概率上调至20%，终端利率维持3-3.25%不变，预测路径较市场定价更鸽派。",
+          "important": true
+        },
+        {
+          "actor": "Hammack",
+          "actor_type": "Central-Bank",
+          "text": "Hammack：当前利率可维持，但若趋势延续可能需很快行动",
+          "details": "维持目前的利率水平是可以的，但是'如果近期的趋势继续下去，可能很快就需要采取行动了'。",
+          "important": false
+        },
+        {
+          "actor": "Hassett",
+          "actor_type": "US-Executive",
+          "text": "Hassett：供给侧就业数据，美联储有降息空间",
+          "details": "这是一个供给侧就业数据，这意味着经济增长和低通胀可以兼得。因此，这表明美联储不应该加息，完全不应该加息。美联储在密切关注这些数据的同时，还有降息的空间。",
+          "important": false
+        },
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "Nick：Warsh面临白宫要削减+华尔街考虑加息的两难",
+          "details": "Warsh的困境是白宫表示他仍然可以削减开支，而华尔街和他的部分同行则在考虑hike，cut的障碍并非仅仅源于特朗普时期霍尔木兹海峡协议的负面影响。劳动力市场趋于稳定，人工智能也开始创造自身的需求。",
+          "important": false
+        },
+        {
+          "actor": "GS GRT",
+          "actor_type": "Analyst",
+          "text": "GS上调2026年底10Y预测从4.1%至4.4%，2Y从3.4%至3.8%",
+          "details": "GS GRT：受强劲就业数据影响，高盛将2026年底10Y预测从4.1%上调至4.4%，2Y从3.4%上调至3.8%。尽管短期定价偏向加息，但仍预Fed更可能长期暂停而非进一步加息，将Fed最后两次降息的预测时间从之前的2026年12月和2027年3月，推迟至2027年6月和12月。",
+          "important": false
+        },
+        {
+          "actor": "MS",
+          "actor_type": "Analyst",
+          "text": "MS：中性实际利率过去一年升50bp至134bp，当前政策或中性",
+          "details": "MS US Eco Weekly：受AI资本支出强劲驱动，美国中性实际利率在过去一年上升50bp至134bp，暗示当前货币政策或呈中性而非限制性。尽管存在模型误差风险，但中性利率上行及通胀粘性可能阻碍美联储在2027年的降息进程。同时，二季度GDP增长追踪值上调至2.7%，金融状况自中东停火后显著放松。",
+          "important": false
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "UBS：预计Fed 6月按兵不动，点阵图显示2028年前无降息",
+          "details": "UBS US Eco Weekly：预计Fed6月按兵不动，点阵图显示2028年前无降息。5月非农就业增172K，强化鹰派叙事。预计5月CPI同比升至4.23%见顶。新任主席Warsh首秀引关注，贸易关税退款缓慢且新调查启动。",
+          "important": false
+        },
+        {
+          "actor": "BNP",
+          "actor_type": "Analyst",
+          "text": "BNP：预计Fed将取消2025年3次'保险'降息计划",
+          "details": "预计Fed将在12月开始的连续几次会议上，取消2025年3次'保险'cut计划。",
+          "important": false
+        },
+        {
+          "actor": "EconstratPB",
+          "actor_type": "KOL",
+          "text": "EconstratPB：Warsh已公开称要取消前瞻指引并应降息",
+          "details": "现在市场反应函数就像一个黑洞，因为Warsh已经公开表示要取消前瞻性指引，并且公开表示应该降息，市场迫切需要明确的信息。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "GS",
+        "MS",
+        "UBS",
+        "BNP"
+      ],
+      "date": "2026-06-08",
+      "image_urls": []
+    },
+    {
+      "id": "nfp-labor-jun7",
+      "topic": "5月非农与劳动力市场",
+      "topic_tag": "macro-other",
+      "title": "5月非农强劲但底层结构性疲软",
+      "summary": "5月非农就业增172K大超预期，建筑（非住宅）和医疗/地方政府招聘突出，但房地产、住宅、金融保险疲软。家庭调查显示全职减少79k、兼职增加266k，世界杯招聘说法被指夸大。",
+      "bullets": [
+        {
+          "actor": "BlackRock Rieder",
+          "actor_type": "Analyst",
+          "text": "Rieder：非农强但房地产/金融保险疲软，AI带动效率压制就业",
+          "details": "5月就业报告强劲稳健（非农就业大幅超预期），建筑业（非住宅）和医疗/地方政府招聘突出；但房地产、住宅、金融和保险领域出现明显疲软，主要因AI驱动的生产力提升和效率优化开始显现。整体经济仍具韧性，但底层有结构性调整压力。",
+          "important": true
+        },
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "Pies：除政府/医疗/教育外其他行业就业增长停滞",
+          "details": "就业报告尚可但并非繁荣，过去一年，除政府/医疗/教育部门外，其他行业的就业增长停滞不前。",
+          "important": false
+        },
+        {
+          "actor": "Peter Berezin",
+          "actor_type": "KOL",
+          "text": "Berezin：家庭调查全职-79k、兼职+266k",
+          "details": "家庭调查显示，全职就业人数减少了 79k人，而兼职就业人数增加了 266k人，这与暂时的招聘激增相符。",
+          "important": false
+        },
+        {
+          "actor": "Omair Shariff",
+          "actor_type": "Analyst",
+          "text": "Shariff：世界杯招聘说法被夸大，餐饮酒店薪资增速反低于去年",
+          "details": "世界杯招聘的说法似乎有些夸大其词，尤其是在餐饮酒店行业。餐饮酒店行业的非固定年薪增长率为 2.04%，低于去年 5 月的 2.10%，与 2022 年至 2025 年的平均水平持平。四周的季节性因素对此起到了很大的推动作用。此外，世界杯在《褐皮书》中几乎没有提及。美国酒店及住宿协会（AHLA）的报告指出酒店业存在疲软迹象。",
+          "important": false
+        },
+        {
+          "actor": "Aelia Capitolina",
+          "actor_type": "KOL",
+          "text": "Aelia：非农前几月上修'比较痛'，劳动力数据显现压力",
+          "details": "周五去杠杆规模太大，周一可能有反弹（甚至回到周五盘中某位置），但大概率形成lower high；若确认lower high会加仓空头；非农数据（尤其是前几个月上修）'比较痛'，劳动力数据已显现压力。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-08",
+      "image_urls": []
+    },
+    {
+      "id": "ai-investment-jun7",
+      "topic": "AI产业与投资",
+      "topic_tag": "ai",
+      "title": "Trump拟让政府入股大型AI公司；SK海力士产能翻倍；SpaceX-GOOGL云协议",
+      "summary": "Trump团队研究让美国公众或政府入股主要AI公司并计划邀请大型AI开发商高管赴白宫。SK海力士计划2030-31年DRAM晶圆产能扩至现有两倍，进入月产100万片周期。SpaceX与GOOGL签订云协议，获约11万块NVIDIA GPU算力，2026/10-2029/6每月支付9.2亿美元。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：研究让公众/政府入股主要AI公司，将邀大型AI高管赴白宫",
+          "details": "证实了其团队正在研究让美国公众或政府入股主要 AI 公司的概念，并透露计划在随后一周邀请'所有大型'AI 开放商的高管前往白宫进行讨论。",
+          "important": true
+        },
+        {
+          "actor": "SK海力士",
+          "actor_type": "Corporate",
+          "text": "SK海力士：2030-31年DRAM晶圆产能翻倍至月产100万片",
+          "details": "SK海力士已经向核心合作厂商披露中长期产能规划，计划在2030至2031年将DRAM晶圆产能扩充至现有产能的两倍，SK海力士正式迈入月产100万片DRAM晶圆的扩产周期。",
+          "important": false
+        },
+        {
+          "actor": "SpaceX/GOOGL",
+          "actor_type": "Corporate",
+          "text": "SpaceX与GOOGL达成云协议，获约11万NVIDIA GPU算力",
+          "details": "SpaceX与GOOGL达成了一项云服务协议，以获取计算能力，包括约110K块NVIDIA GPU、CPU、内存及相关组件。SpaceX同意从26/10-2029/6期间，每月向谷歌支付920M，计算能力将在2026年9月前逐步提升。若截至2026年9月30日未能提供全部访问权限，谷歌将对月度费用进行相应的按比例扣减。该协议可在26/12/31日后提前终止，只需提前90d通知。",
+          "important": false
+        },
+        {
+          "actor": "Bob",
+          "actor_type": "KOL",
+          "text": "Bob：分析师预计SPX未来9个月盈利增长20%，AI尚未推动生产力数据",
+          "details": "分析师目前预计SPX未来9个月的盈利增长率将达到20%。可以说，此时此刻，说市场对短期增长的预期非常高都算是保守的说法了。AI尚未推动经济数据层面的生产力提升。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GOOGL",
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-08",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-positioning-jun7",
+      "topic": "卖方观点",
+      "topic_tag": "earnings",
+      "title": "GS：过热指标处95年来86分位但远低于2000/2021峰值",
+      "summary": "GS Weekly Kickstart指出市场过热指标处1995年以来86%分位，但远低于2000互联网泡沫和2021峰值水平；缺乏见顶的基本面催化剂；盈利上调由AI和动量因子引领，但窄度远不及互联网泡沫；AAII空头略多于多头。",
+      "bullets": [
+        {
+          "actor": "GS Weekly Kickstart",
+          "actor_type": "Analyst",
+          "text": "GS：过热九项指标处1995来86%，远低于2000/2021峰值",
+          "details": "指标偏高但未走向极端：虽然目前衡量市场过热的九项指标总体高于历史平均水平（处于1995年以来的第86%），但仍远低于2000年互联网泡沫和2021年市场峰值时的水平。",
+          "important": true
+        },
+        {
+          "actor": "GS Weekly Kickstart",
+          "actor_type": "Analyst",
+          "text": "GS：缺乏见顶的基本面催化剂",
+          "details": "缺乏见顶的基本面催化剂：历史上标志着牛市终结的动态因素（如经济增长恶化、股票极度过量发行、美联储政策剧烈收紧）在目前均不成立。",
+          "important": false
+        },
+        {
+          "actor": "GS Weekly Kickstart",
+          "actor_type": "Analyst",
+          "text": "GS：盈利上调主推力，AI/动量因子引领的窄度远不及网络泡沫",
+          "details": "盈利预期上调是主推力，近期由AI和动量因子引领的上涨行情虽然由于范围较窄引发了投资者担忧，但其狭窄程度远不及互联网泡沫时期。",
+          "important": false
+        },
+        {
+          "actor": "GS Weekly Kickstart",
+          "actor_type": "Analyst",
+          "text": "GS：AAII空头略多于多头，情绪指标降至4月初最低+0.2",
+          "details": "AAII调查显示目前空头人数略多于多头，高盛自身的美股情绪指标也降至4月初以来的最低点（+0.2）。不过，耶鲁股票市场信心指数显示投资者仍有较强的'逢低买入'意愿。",
+          "important": false
+        },
+        {
+          "actor": "GS图表",
+          "actor_type": "Analyst",
+          "text": "GS：高EV/sales股占市值显著，看涨期权定位3月以来大幅转多",
+          "details": "GS图表显示：EV/sales>10x股占美股市值约25%、>20x约5%（2000年和2021年峰值更高）；不盈利股交易占比当前约8%（2021峰值~13%）；CBOE Put/Call比率(滚动1月)接近0.4，类2000年3月与2021年2月水平；IBKR/HOOD/SCHW保证金余额升至~250B，占客户资产1.8%；3月以来60个ETF与个股指数的Call/Put比率与Call skew定位百分位大幅转多。",
+          "important": false
+        },
+        {
+          "actor": "GS Prime Book",
+          "actor_type": "Analyst",
+          "text": "GS Prime：5月美国半导体净交易流由+10%骤降至-2%~-3%",
+          "details": "Prime book US net trading flow: 半导体及相关设备公司净交易流2026年2-3月升至~10%（标注'Buyi...'），4月降至~5%，5月骤降至约-2%至-3%。Data as of May 16.",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2,
+        5,
+        6,
+        7
+      ],
+      "importance": 2,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-06-08",
+      "image_urls": [
+        "/uploads/2026-06-08/d62333e7fa96.jpg",
+        "/uploads/2026-06-08/713370430d79.jpg",
+        "/uploads/2026-06-08/f7015adfb49a.jpg",
+        "/uploads/2026-06-08/79a528455825.png"
+      ]
+    },
+    {
+      "id": "kol-tape-vol-jun7",
+      "topic": "KOL与市场结构",
+      "topic_tag": "macro-other",
+      "title": "杠杆ETF需卖380亿delta；NDX周五-4.77%低VIX历史模式",
+      "summary": "Andy指当前价格下杠杆ETF需卖出380亿美元delta跑赢收盘，高度集中于半导体和NDX。Friday Cascade Playbook统计1990年以来19次低VIX下NDX周五≤-3%案例，平均周一+0.2%、周三-0.6%、周末-0.4%。Bracco对比1999/11 NDX见顶模式。SpaceX在Hyperliquid IPO前跌25%。",
+      "bullets": [
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "Andy：杠杆ETF需卖出380亿delta跑赢收盘，集中于半导体与NDX",
+          "details": "按当前价格计算，每天进行再平衡的杠杆 ETF 需要卖出 38B的 delta 值才能跑赢收盘价。这些 delta 值高度集中于半导体和NDX。利好的战争消息不再能提振股市了。",
+          "important": true
+        },
+        {
+          "actor": "Friday Cascade Playbook",
+          "actor_type": "KOL",
+          "text": "低VIX下NDX周五≤-3%历史：周一平均+0.2%、周三-0.6%、周末-0.4%",
+          "details": "Friday Cascade Playbook：今日(VIX FriO=15.87)位于LOW VIX bucket。1990年以来19次低VIX(<22)NDX cascade周五案例。Low bucket平均：Mon +0.2%, Wed -0.6%, FriEoW -0.4%（58%/53%/53%绿）；Elev: -0.8%/+1.0%/-0.0%；High: +1.1%/+3.9%/+3.8%；Panic: +0.6%/-0.8%/-0.1%。Today 2026-06-05: NDX -4.77%, VIX FriO 15.9, FriC 21.5。",
+          "important": false
+        },
+        {
+          "actor": "Bracco",
+          "actor_type": "KOL",
+          "text": "Bracco：SOXX触50SMA上方10倍ATR后两日跌12%，类1999/11 NDX",
+          "details": "1999/11 NDX连续 10 周呈垂直上涨趋势，一度达到 50SMA上方近 10 倍 ATR，之后首次收于 20EMA下方，此前该指数在两个交易日内大幅回调 12%，$SOXX 在周三触及 50SMA 上方 10 倍以上的 ATR 倍数后，两天内下跌了 12%……周五首次收于 20EMA 下方，另外值得注意的是，许多99年的领涨股此后并没有再次创下新高，尽管该指数之后又缓慢上涨了30%。",
+          "important": false
+        },
+        {
+          "actor": "@UmarAshraf / short bear",
+          "actor_type": "KOL",
+          "text": "SpaceX在Hyperliquid IPO前股价从205跌至160（-25%）",
+          "details": "@UmarAshraf：强烈预感 SpaceX 的 IPO 将会是目前市场的顶峰。short bear：SpaceX 在 hyperliquid 上进行 IPO 前，股价已较开盘价下跌 25%。205美元至160美元，这反映了市场对 IPO 价格的看法。",
+          "important": false
+        },
+        {
+          "actor": "图表 Compass",
+          "actor_type": "KOL",
+          "text": "Compass：QQQ处贵波动率上行潜力，SPY处便宜波动率上行潜力",
+          "details": "Compass Guided View：3天历史。QQQ位于左上'Expensive Volatility Upside Potential'象限（高IV Rank+低风险RV百分位），SPY位于左下'Cheap Volatility Upside Potential'象限。",
+          "important": false
+        },
+        {
+          "actor": "BlackRock Rieder",
+          "actor_type": "Analyst",
+          "text": "Rieder：地缘对市场直接影响有限，关注石油远期曲线非战争本身",
+          "details": "伊朗冲突/地缘风险对市场直接影响有限，只要油价保持在合理区间，市场整体可承受（类似乌克兰局势）。波动率已回落，可利用波动率工具对冲左侧尾部风险；重点关注石油远期曲线，而非战争本身。数据目前稳健，Fed可能暂停或小幅收紧（对冲通胀风险）。在新主席Warsh领导下，需更注重前瞻性和数据依赖；利率工具对经济特定领域影响有限，建议多给时间观察，目前通胀仍高于目标，不宜急于大幅行动。",
+          "important": false
+        },
+        {
+          "actor": "BlackRock Rieder",
+          "actor_type": "Analyst",
+          "text": "Rieder：AI过去3年贡献约28%经济增长，转向生产力革命",
+          "details": "AI是经济增长的重要引擎（过去3年贡献约28%的经济增长），正从'收入驱动'转向生产力/成本削减革命（建筑、软件、服务业、机器人自动化等领域）。会取代部分劳动力，带来效率提升，但也制造局部就业压力；长期看对经济和股市仍是重大利好。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "QQQ",
+        "SPY",
+        "SOXX"
+      ],
+      "image_indexes": [
+        0,
+        1
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-08",
+      "image_urls": [
+        "/uploads/2026-06-08/9e73fdf0033c.jpg",
+        "/uploads/2026-06-08/8bf2608736a5.jpg"
+      ]
+    },
+    {
+      "id": "other-news-jun7",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "META拟股票发行；BX私募信贷基金限赎；WaPo披露白宫宴会厅捐款者",
+      "summary": "META考虑股票发行。黑石将BCRED 790亿美元基金赎回上限设至5%（此前Q2赎回申请已达10%）。WaPo报道白宫宴会厅项目捐款者中超半数六个月内获得新或扩大联邦合同，总值超500亿美元。SpaceX券商被告知不接受中国和香港投资者订单。中国吴清表示要遏制公募基金赌赛道顽疾。气候/农业风险与厄尔尼诺。",
+      "bullets": [
+        {
+          "actor": "WaPo",
+          "actor_type": "新闻",
+          "text": "WaPo：白宫宴会厅捐款者半数6月内获联邦合同超500亿",
+          "details": "WaPo报道在公开披露的特朗普总统白宫宴会厅项目捐款者中，超过半数的人在短短六个月内获得了新的或扩大的联邦合同，总价值超过50B。",
+          "important": true
+        },
+        {
+          "actor": "BX",
+          "actor_type": "Corporate",
+          "text": "黑石BCRED 790亿基金设5%赎回上限（Q2申请已达10%）",
+          "details": "黑石集团刚刚将其规模达 79B的旗舰私募信贷基金 BCRED 的赎回上限设定为 5%，此前该基金第二季度的赎回申请已达到 10%。",
+          "important": false
+        },
+        {
+          "actor": "META",
+          "actor_type": "Corporate",
+          "text": "META正考虑进行股票发行",
+          "details": "META正考虑进行股票发行事宜。",
+          "important": false
+        },
+        {
+          "actor": "BBG",
+          "actor_type": "新闻",
+          "text": "BBG：SpaceX券商被告知不接受中国和香港投资者订单",
+          "details": "BBG援引消息人士透露，负责给马斯克 SpaceX 火箭公司，开打新的券商们，已被告知不要接受来自中国和中国香港的投资者订单，理由是涉及美国国际武器条款。",
+          "important": false
+        },
+        {
+          "actor": "吴清",
+          "actor_type": "Foreign-Gov",
+          "text": "吴清：公募基金要坚决遏制赌赛道、风格漂移、高位发行",
+          "details": "吴清称公募基金要坚决遏制赌押赛道、风格漂移、高位发行等顽疾。",
+          "important": false
+        },
+        {
+          "actor": "伊朗男足",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗男足6/5拿到入境美国签证",
+          "details": "伊朗男足，6/5拿到入境美国的签证。",
+          "important": false
+        },
+        {
+          "actor": "@tleilax___",
+          "actor_type": "KOL",
+          "text": "厄尔尼诺7-9月高温叠加化肥短缺，威胁全球谷物/油籽",
+          "details": "7月/8月/9月，全球大部分地区将迎来最高气温（厄尔尼诺），而这段时间正是全球谷物、全球一半油籽以及亚洲糖和稻米的主要生长季。这意味着作物蒸散量增加，承受更大的压力。印度和东南亚也可能迎来几十年来最弱的东风降雨。这种情况正值化肥短缺之际。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "META",
+        "BX"
+      ],
+      "image_indexes": [
+        4
+      ],
+      "importance": 2,
+      "sources": [
+        "WaPo",
+        "BBG"
+      ],
+      "date": "2026-06-08",
+      "image_urls": [
+        "/uploads/2026-06-08/30a2b243b284.jpg"
+      ]
+    }
+  ]
+}
