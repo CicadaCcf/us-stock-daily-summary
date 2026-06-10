@@ -1,0 +1,444 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-jun08",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "Trump称以伊寻求立即停火，谈判与军事博弈并行",
+      "summary": "Trump与Vance释放美伊接近停火信号，但伊朗官方否认协议临近；美伊通过巴基斯坦调解持续交换信息，目标6月底达成协议。同时伊朗、IRGC、胡塞武装强硬表态，欧盟新制裁，伊朗领空重开。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "称以伊寻求立即停火，封锁持续至协议达成",
+          "details": "Trump称以色列和伊朗寻求立即停火，封锁将持续到最终协议达成为止。",
+          "important": true
+        },
+        {
+          "actor": "Vance",
+          "actor_type": "US-Executive",
+          "text": "Vance称伊朗正走向谈判桌，军事选项未排除",
+          "details": "Vance称伊朗正走向谈判桌，提出实质内容，美方将严格验证合规，若达成协议将是美国人民的重大胜利；强调不能假设任何一方善意行事，军事选项并不被排除。",
+          "important": false
+        },
+        {
+          "actor": "伊朗UN大使",
+          "actor_type": "Foreign-Gov",
+          "text": "美伊经巴基斯坦调解，目标6月底达成协议",
+          "details": "美伊通过巴基斯坦调解持续交换信息，伊朗UN大使称谈判仍在进行，目标是6月底达成协议，目前无最终文本；伊朗官方重申'有兴趣与美方对话'，但拒绝特朗普'协议非常接近'的说法，伊朗强调继续对话但未确认任何'接近签署'，认为以色列暂停更大规模攻击并非因即将达成的停火。",
+          "important": false
+        },
+        {
+          "actor": "Galibaf",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗议长称对对方毫无信任",
+          "details": "Galibaf称已经破坏了纸面上的停火协议及其在实际行动中的屡次违背，只要你们缺乏建立信任的真心意愿，伊朗的回应就一定是这样的；目标是结束战争并实现稳定安全，但伊朗对对方毫无信任。",
+          "important": false
+        },
+        {
+          "actor": "IRGC卡阿尼",
+          "actor_type": "Foreign-Gov",
+          "text": "IRGC承诺建立霍尔木兹至曼德堡新抵抗带",
+          "details": "IRGC卡阿尼承诺建立新的抵抗安全带，覆盖从霍尔木兹海峡到曼德堡，从波斯湾到红海。",
+          "important": false
+        },
+        {
+          "actor": "美国官员(CNN)",
+          "actor_type": "US-Executive",
+          "text": "美军未拦截伊朗夜间发射的导弹",
+          "details": "CNN援引一位美国官员的话说：美军没有拦截任何伊朗夜间发射的导弹。",
+          "important": false
+        },
+        {
+          "actor": "内塔尼亚胡",
+          "actor_type": "Foreign-Gov",
+          "text": "以色列暂保持克制，若再遭袭将强力回应",
+          "details": "内塔尼亚胡表示，以色列目前对伊朗保持克制，如果伊朗再次攻击以色列，我们将'以强力'回应。",
+          "important": false
+        },
+        {
+          "actor": "沙特",
+          "actor_type": "Foreign-Gov",
+          "text": "沙特称苏丹王子空军基地非袭击目标",
+          "details": "沙特方面称苏丹王子空军基地并非袭击目标。",
+          "important": false
+        },
+        {
+          "actor": "胡塞武装",
+          "actor_type": "Foreign-Gov",
+          "text": "胡塞证实与伊朗联合袭以，全面禁以红海航行",
+          "details": "胡塞武装（伊朗支持的恐怖组织）证实了今晚对以色列的导弹袭击，并称此次袭击是与伊朗联合进行的，同时宣布'全面彻底禁止以色列在红海进行海上航行'。",
+          "important": false
+        },
+        {
+          "actor": "欧盟",
+          "actor_type": "Foreign-Gov",
+          "text": "欧盟对伊朗新制裁，要求美支持霍尔木兹扫雷",
+          "details": "欧盟对伊朗实施新制裁，同时欧洲盟友要求特朗普支持霍尔木兹海峡扫雷任务。",
+          "important": false
+        },
+        {
+          "actor": "伊朗政府",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗重新开放领空，航班恢复正常",
+          "details": "伊朗重新开放领空，所有航班恢复，运营恢复正常。",
+          "important": false
+        },
+        {
+          "actor": "Axios",
+          "actor_type": "新闻",
+          "text": "Axios:以伊冲突几乎把Trump拖回战",
+          "details": "AXIOS报道以色列和伊朗如何差点把Trump拖回战，Trump对内塔尼亚胡说：'你最好小心，否则很快就会孤军奋战'。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "AXIOS",
+        "CNN"
+      ],
+      "date": "2026-06-09",
+      "image_urls": []
+    },
+    {
+      "id": "boj-june-hike-jun08",
+      "topic": "日本央行",
+      "topic_tag": "fed",
+      "title": "BOJ媒体放风6月加息至1%并停止QT",
+      "summary": "日本央行通过日本媒体放风，6月加息至1%，并停止减少JGB购买规模（停止QT）。CFTC数据显示对冲基金日元净空头自2024年7月以来最高。",
+      "bullets": [
+        {
+          "actor": "日本央行",
+          "actor_type": "Central-Bank",
+          "text": "BOJ放风6月加息至1%并停止QT",
+          "details": "BOJ通过日本媒体放风，6月加息至1%，并停止减少JGB购买规模（停止QT）。",
+          "important": true
+        },
+        {
+          "actor": "CFTC",
+          "actor_type": "新闻",
+          "text": "对冲基金日元净空头创2024年7月以来最高",
+          "details": "CFTC CME日元杠杆基金净头寸显示，投机者增加日元看空押注，对冲基金日元净空头规模为2024年7月以来最高，4月达约-100至-110K合约。数据截至6月2日当周，6月5日公布。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        5
+      ],
+      "importance": 2,
+      "sources": [
+        "Bloomberg",
+        "CFTC"
+      ],
+      "date": "2026-06-09",
+      "image_urls": [
+        "/uploads/2026-06-09/086bb18e3ff3.jpg"
+      ]
+    },
+    {
+      "id": "ai-sector-jun08",
+      "topic": "AI行业动态",
+      "topic_tag": "ai",
+      "title": "OpenAI秘密递IPO、中国295B投AI、GOOG下单TPU",
+      "summary": "OpenAI秘密提交IPO草案，Anthropic将发布Mythos公开版，中国拟投入295B支持全国性AI建设，GOOG向Intel下单超3M TPU，Databricks商讨融资估值或超165B。AI裁员占比快速上升至40%。",
+      "bullets": [
+        {
+          "actor": "OpenAI",
+          "actor_type": "Corporate",
+          "text": "OpenAI秘密提交IPO草案文件",
+          "details": "OpenAI周一表示，已秘密提交了IPO草案文件。",
+          "important": true
+        },
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic明日发布Mythos公开版",
+          "details": "Anthropic计划于明天发布Mythos的公开版本。",
+          "important": false
+        },
+        {
+          "actor": "中国政府",
+          "actor_type": "Foreign-Gov",
+          "text": "中国拟投入295B支持全国性AI建设",
+          "details": "中国准备投入295B资金支持全国性人工智能建设。",
+          "important": false
+        },
+        {
+          "actor": "Google",
+          "actor_type": "Corporate",
+          "text": "GOOG向Intel下单，2028年生产超3M个TPU",
+          "details": "$GOOG最近向英特尔下了订单，计划在2028年生产超过3M个TPU。",
+          "important": false
+        },
+        {
+          "actor": "黄仁勋",
+          "actor_type": "Corporate",
+          "text": "黄仁勋:AI建设刚开始，并称要买入QCOM",
+          "details": "黄仁勋今天和SK海力士会长第三次会面后，对大家说此次股价普遍回调，你们应该感到高兴，因为AI建设才刚刚开始，且未来发展会非常光明；黄仁勋表示要买入高通$QCOM股票。",
+          "important": false
+        },
+        {
+          "actor": "Databricks",
+          "actor_type": "Corporate",
+          "text": "Databricks商讨融资估值或超165B",
+          "details": "The Information报道，Databricks正在商讨一轮融资，这可能会使其估值超过165B。",
+          "important": false
+        },
+        {
+          "actor": "SPCX",
+          "actor_type": "Corporate",
+          "text": "SPCX IPO获2X超额认购",
+          "details": "SPCX获得2X超额认购。",
+          "important": false
+        },
+        {
+          "actor": "Challenger数据",
+          "actor_type": "新闻",
+          "text": "AI导致裁员占比升至40%",
+          "details": "因AI导致的裁员公告呈现上升趋势，按原因划分的已宣布裁员占比中AI从2025年初个位数升至2026年5月40%。来源：Challenger, Gray & Christmas、Haver、瑞银。",
+          "important": false
+        },
+        {
+          "actor": "TickerTrends",
+          "actor_type": "新闻",
+          "text": "AI流量:Claude后段急升，ChatGPT回落",
+          "details": "TickerTrends数据显示AI产品Web流量：gemini.google.com从2024年7月约10M稳步增至2026年3月约95M；chatgpt.com从约50M峰值95M后回落至约85M；claude.ai在2025年末前长期约10M，后段急升至约80M。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GOOG",
+        "QCOM",
+        "INTC"
+      ],
+      "image_indexes": [
+        2,
+        4
+      ],
+      "importance": 3,
+      "sources": [
+        "The Information"
+      ],
+      "date": "2026-06-09",
+      "image_urls": [
+        "/uploads/2026-06-09/fc3739491c86.png",
+        "/uploads/2026-06-09/9b4e4a9068b8.jpg"
+      ]
+    },
+    {
+      "id": "mstr-btc-jun08",
+      "topic": "MSTR比特币",
+      "topic_tag": "macro-other",
+      "title": "MSTR增发募资181M购入1550枚BTC",
+      "summary": "MSTR上周通过增发股票募资181M，花费100M购入1550枚比特币，目前持有规模占比特币总量4%。",
+      "bullets": [
+        {
+          "actor": "MSTR",
+          "actor_type": "Corporate",
+          "text": "MSTR增发募181M购1550枚BTC",
+          "details": "MSTR发布公告表示，上周通过向市场发行更多股票来获得资金，购买比特币。这期间它们家抛售股票获得181M，后向市场花费100M，购入了1550枚比特币，目前它们家持有规模占比特币总量的4%。",
+          "important": true
+        },
+        {
+          "actor": "MSTR",
+          "actor_type": "Corporate",
+          "text": "MSTR持仓占BTC总量4%",
+          "details": "MSTR目前持有比特币规模占比特币总量4%。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MSTR"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-06-09",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-views-jun08",
+      "topic": "卖方观点",
+      "topic_tag": "earnings",
+      "title": "GS/MS:5月核心CPI低于共识，降息推迟至2027",
+      "summary": "GS预测5月核心CPI环比0.17%低于共识0.3%，整体CPI因油价飙升升0.45%；GS SUSTAIN看好可靠性主题；GS上调10Y美债至4.4%，降息推迟至2027；MS称6月5日下跌是健康重置，AI致存储芯片涨6倍。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs Eco",
+          "actor_type": "Analyst",
+          "text": "GS:5月核心CPI环比0.17%，整体0.45%",
+          "details": "GS Eco预测5月美国核心CPI环比增0.17%，低于市场共识0.3%，同比增速降至2.79%。受伊朗战争引发油价飙升影响，整体CPI环比预计增0.45%，能源价格大涨4.2%。住房通胀持续放缓，OER与租金均增0.22%。核心PCE因金融服务组件滞后效应预计环比增0.27%。",
+          "important": true
+        },
+        {
+          "actor": "WSJ调查",
+          "actor_type": "新闻",
+          "text": "5月CPI共识:整体环比0.52%，核心0.22%",
+          "details": "WSJ调查显示15家机构对5月CPI的预测中位数为整体环比0.52%/同比4.2%，核心环比0.22%/同比2.8%，对比4月整体0.64%/3.8%、核心0.38%/2.7%。GS和UBS预测核心环比最低0.17%，Jefferies最高0.3%。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs SUSTAIN",
+          "actor_type": "Analyst",
+          "text": "GS:看好'可靠性'主题，需400B额外投资",
+          "details": "GS SUSTAIN发布'可靠性'主题研报，指出地缘政治及AI电力需求推动企业加速构建冗余。分析显示，上市公司库存增10%或固定资产增1%均需400B额外投资。重申看好电力基础设施、HVAC、关键材料等板块，认为赋能冗余建设的企业将获现金流受益，预计2026-28年相关股票现金投资回报率（CROCI）将上升。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS:降息推迟至2027，10Y美债升至4.4%",
+          "details": "GS Global Weekly Kickstart上调美债收益率预测：因强劲就业数据，高盛将美联储降息推迟至2027年，预计年底10年期美债收益率升至4.4%。上周全球股市跌超2%，美股领跌。尽管2026年美股IPO供应创纪录，但需求仍强于供应，因发行量仅占市值1.0%且回购支撑强劲。",
+          "important": false
+        },
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "MS:6月5日下跌是健康重置，AI致存储涨6倍",
+          "details": "MS：6月5日美股下跌属健康重置，但流动性收紧需警惕。AI需求致存储芯片价格涨超6倍，上游受益，OEM承压。美中性利率(r)升至134bp，制约联储2027年宽松。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "MS",
+        "WSJ"
+      ],
+      "date": "2026-06-09",
+      "image_urls": [
+        "/uploads/2026-06-09/7c7598b5c012.png"
+      ]
+    },
+    {
+      "id": "kol-views-jun08",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "Erian:Trump变相干预Fed；多位KOL警示FOMC前波动",
+      "summary": "Erian分析Trump表面不干预Fed实际施压；@tleilax___曝ADNOC经U.A.E-Oman-Iran-Malaysia暗运原油；EconstratPB认为6月6日下跌是板块轮动非泡沫崩塌；@CFlanders7警告技术面严重受损；Master Wu称FOMC前波动加大。",
+      "bullets": [
+        {
+          "actor": "EconstratPB",
+          "actor_type": "KOL",
+          "text": "6月6日下跌是板块轮动而非泡沫崩塌",
+          "details": "EconstratPB：6月6日美股大跌并非宏观恐慌，而是一场显著的板块轮动和科技股定价修正，今年SPX其余的493支股票整体表现跑赢了七大巨头约900bps，验证了资金正在从小范围的科技巨头向大盘其他板块转移。虽然当前周期（2024–2026）与互联网泡沫时期（1999–2002）都表现出罕见的'低板块相关性'，但本质不同：当年所有板块都在与大盘分化；而现在主要是医疗（XLV）和金融（XLF）两个板块推动低相关性，科技股（XLK）与大盘绑定依然紧密。互联网泡沫是一次性垂直崩塌；而当前是多次浅幅下探后回升的典型资金轮动。",
+          "important": true
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "KOL",
+          "text": "Erian:Warsh下周料无动作，Trump变相施压Fed",
+          "details": "Erian：下周Warsh预计不会做什么，Trump表面不干预但实际发挥影响——'当一个国家表现良好时，不应因立即加息而受到惩罚。他们实际上应该受到激励'。",
+          "important": false
+        },
+        {
+          "actor": "@tleilax___",
+          "actor_type": "KOL",
+          "text": "ADNOC经U.A.E→Oman→Iran→Malaysia暗运原油",
+          "details": "@tleilax___：阿布扎比国家石油公司（ADNOC）正向亚洲买家出售大量来自波斯湾的原油，其中有来自U.A.E→Oman→Iran→Malaysia S2S 'dark transit'，阿曼海域的船对船船运活动在上升。",
+          "important": false
+        },
+        {
+          "actor": "@CFlanders7",
+          "actor_type": "KOL",
+          "text": "技术面严重受损，盲目做多风险大",
+          "details": "@CFlanders7：当前市场经历剧烈波动（类似周五大抛售），技术面已严重受损，需密切观察后续是快速修复还是需要更长时间筑底，盲目做多风险很大，类似2018年初volatility apocalypse、2025年10月10日大抛售后的后续表现。",
+          "important": false
+        },
+        {
+          "actor": "Master Wu",
+          "actor_type": "KOL",
+          "text": "Master Wu:FOMC前震荡，股跌yield跌成Warsh福音",
+          "details": "Master Wu：FOMC会议前的震荡行情：（1）一些催化剂将使市场同时呈现波动和暴跌的局面——SPCX的IPO、周三的CPI数据，更不用说战争和石油市场了（2）趋势已经改变，市场正在寻找触发多空双方的最佳时机。（3）最终股市下跌yield下跌成为Warsh的福音。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-09",
+      "image_urls": []
+    },
+    {
+      "id": "positioning-flow-jun08",
+      "topic": "持仓与资金流",
+      "topic_tag": "macro-other",
+      "title": "Prime Book:半导体仓位升至14%，软件降至5%",
+      "summary": "Prime Book数据显示美国净敞口中半导体&半导体设备从2021年3%升至2026年中14%，软件从16%降至5%。单股期权数据显示6月5日看涨/看跌均显著放量。",
+      "bullets": [
+        {
+          "actor": "Prime Book/Soberlook",
+          "actor_type": "新闻",
+          "text": "半导体仓位升至14%，软件降至5%",
+          "details": "Prime Book占美国总净敞口（MV）：软件从2021年约16%降至2026年中约5%；半导体&半导体设备从2021年约3%升至2026年中约14%，2025-2026明显加速。来源：The Daily Shot @Soberlook 08-Jun-26。",
+          "important": true
+        },
+        {
+          "actor": "SpotGamma/Cboe",
+          "actor_type": "新闻",
+          "text": "6月5日单股期权看涨看跌均放量",
+          "details": "Cboe单股客户开/平仓数据(6月5日 vs 6月4日)：Calls BTO 990K→1144K(+155K)、BTC 393K→601K(+208K)、STO 575K→650K(+75K)、STC 808K→1040K(+232K)；Puts BTO 310K→559K(+249K)、BTC 293K→453K(+160K)、STO 304K→567K(+263K)、STC 337K→587K(+250K)。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        6
+      ],
+      "importance": 1,
+      "sources": [
+        "The Daily Shot",
+        "SpotGamma"
+      ],
+      "date": "2026-06-09",
+      "image_urls": [
+        "/uploads/2026-06-09/076a0f128eae.jpg",
+        "/uploads/2026-06-09/9d577ee5d1ba.png"
+      ]
+    },
+    {
+      "id": "china-property-jun08",
+      "topic": "中国地产",
+      "topic_tag": "macro-other",
+      "title": "30城商品房成交较去年+10.9%，较五年均-44.6%",
+      "summary": "Wind周度数据显示截至6月7日，30大中城市商品房成交面积155万平方米，较去年同期+10.9%，但较近五年均值仍低44.6%。一线+34%表现最强，三线-1.5%最弱。",
+      "bullets": [
+        {
+          "actor": "Wind",
+          "actor_type": "新闻",
+          "text": "30城商品房成交155万㎡，同比+10.9%",
+          "details": "Wind周度数据(2026-06-07):30大中城市商品房成交面积最新155万平方米，较去年+10.9%，较近三年-27.0%，较近五年-44.6%。",
+          "important": true
+        },
+        {
+          "actor": "Wind",
+          "actor_type": "新闻",
+          "text": "一线+34%/二线+2.7%/三线-1.5%",
+          "details": "Wind周度数据:一线城市最新55.1万平方米，较去年+34.0%/近三年+5.8%/近五年-8.1%；二线67.1万平方米，较去年+2.7%/近三年-42.1%/近五年-57.6%；三线33.1万平方米，较去年-1.5%/近三年-26.0%/近五年-46.9%。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3
+      ],
+      "importance": 1,
+      "sources": [
+        "Wind"
+      ],
+      "date": "2026-06-09",
+      "image_urls": [
+        "/uploads/2026-06-09/ba9f7660256f.jpg"
+      ]
+    }
+  ]
+}

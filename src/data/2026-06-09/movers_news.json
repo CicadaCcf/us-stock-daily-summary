@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-06-10T00:08:51+00:00",
+  "date": "2026-06-09",
+  "since": "2026-06-07T20:00:00+00:00",
+  "by_ticker": {
+    "NUVL": [
+      {
+        "headline": "Nasdaq 100 Tumbles Over 3%, Marvell Crashes 12%: Stock Market Today",
+        "url": "https://www.benzinga.com/markets/equities/26/06/53097400/nasdaq-100-craters-marvell-sinks-ai-rally-at-risk-markets-tuesday?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "source": "Benzinga",
+        "published_at": "2026-06-09T17:26:33Z",
+        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/09/Wall-Street-sign--market-down.jpeg",
+        "description": "U.S. stocks declined sharply on Tuesday as investors rotated out of high-flying chip and AI stocks. The Nasdaq 100 fell 3.3%, the S&P 500 dropped 1.6%, and the Russell 2000 fell 1.3%. Oil prices collapsed 6% following a halt in Israel-Iran strikes. Markets are now pricing in a potential Fed rate hike by October rather than cuts, pressuring richly valued tech stocks. Semiconductor and optical companies led losses, while defensive and financial sectors provided some cushion."
+      },
+      {
+        "headline": "GSK Makes Its Biggest Bet In More Than A Decade, Paying $10.6 Billion For Cancer Drug Developer Nuvalent",
+        "url": "https://www.benzinga.com/m-a/26/06/53080772/gsk-makes-its-biggest-bet-in-more-than-a-decade-paying-10-6-billion-for-cancer-drug-developer-nuvalent?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "source": "Benzinga",
+        "published_at": "2026-06-09T10:52:07Z",
+        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/09/Toronto--Ontario--Canada---February-14--.jpeg",
+        "description": "GSK agreed to acquire Nuvalent for $10.6 billion in cash, marking its largest acquisition in over a decade. The deal provides GSK with three lung cancer assets including lead drug candidates zidesamtinib and neladalkib for non-small cell lung cancer treatment. The acquisition is expected to contribute to revenue growth and be accretive to sales and core operating profit beginning in 2027."
+      }
+    ],
+    "ALHC": [],
+    "PAYO": [],
+    "GLXY": [],
+    "TNGX": [],
+    "CBRS": [
+      {
+        "headline": "Prediction: June 12 Will be a Huge Day for the Stock Market",
+        "url": "https://www.fool.com/investing/2026/06/09/prediction-june-12-will-be-a-huge-day-for-the-stoc/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-06-09T08:08:00Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F873256%2Fgettyimages-468679176.jpg&w=1200&op=resize",
+        "description": "SpaceX is set to launch a major IPO on June 12, 2026, with 30% of shares allocated to retail investors. The company operates in AI, rocket launches, and satellite internet (Starlink). Goldman Sachs forecasts SpaceX's AI business could generate $322 billion in revenue by 2030, with total revenue reaching $474 billion. The IPO is expected to create market momentum that could benefit broader AI and technology stocks."
+      },
+      {
+        "headline": "Account Minimums Are Being Lowered to Participate in the SpaceX IPO. Is This a Win or a Trap for Retail Investors?",
+        "url": "https://www.fool.com/investing/2026/06/08/account-minimums-are-being-lowered-to-participate/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-06-08T21:30:00Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F873177%2Fgettyimages-2240607183-1200x857-eb97591.jpg&w=1200&op=resize",
+        "description": "Fidelity has lowered the minimum account balance requirement for SpaceX IPO participation to $2,000, down from traditional six-figure minimums. While this appears to democratize IPO access for retail investors, the article raises concerns that this expansion may primarily benefit pre-IPO shareholders seeking exit liquidity and could expose less experienced investors to FOMO-driven losses, similar to patterns seen in previous tech IPOs."
+      }
+    ]
+  }
+}

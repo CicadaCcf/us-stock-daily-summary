@@ -1,0 +1,101 @@
+{
+  "generated_at": "2026-06-10T00:08:32+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-06-09",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12248,
+    "partial_pass": 5,
+    "with_carryover": 12,
+    "after_full_check": 6
+  },
+  "rows": [
+    {
+      "tk": "NUVL",
+      "nm": "Nuvalent, Inc. Class A Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 39.3,
+      "w1": 34.9,
+      "market_cap_bn": 9.74,
+      "dollar_vol_bn": 6.37,
+      "w1_avg_dollar_vol_bn": 1.35,
+      "reason": "",
+      "main_business": "研发针对癌症激酶靶点的精准小分子靶向药物"
+    },
+    {
+      "tk": "ALHC",
+      "nm": "Alignment Healthcare, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 25.1,
+      "w1": 40.8,
+      "market_cap_bn": 3.97,
+      "dollar_vol_bn": 0.31,
+      "w1_avg_dollar_vol_bn": 0.14,
+      "reason": "",
+      "main_business": "通过Medicare Advantage计划为老年人提供消费级医疗健康服务平台"
+    },
+    {
+      "tk": "PAYO",
+      "nm": "Payoneer Global Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 24.3,
+      "w1": 19.4,
+      "market_cap_bn": 2.14,
+      "dollar_vol_bn": 0.33,
+      "w1_avg_dollar_vol_bn": 0.08,
+      "reason": "",
+      "main_business": "为中小企业提供跨境支付与全球收付款金融科技服务"
+    },
+    {
+      "tk": "GLXY",
+      "nm": "Galaxy Digital Inc. Class A Common Stock",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": 7.1,
+      "w1": 12.5,
+      "market_cap_bn": 6.26,
+      "dollar_vol_bn": 0.56,
+      "w1_avg_dollar_vol_bn": 0.38,
+      "reason": "",
+      "main_business": "提供数字资产交易、托管及资管服务，运营AI数据中心基础设施"
+    },
+    {
+      "tk": "TNGX",
+      "nm": "Tango Therapeutics, Inc.",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": 2.0,
+      "w1": 46.8,
+      "market_cap_bn": 4.57,
+      "dollar_vol_bn": 0.23,
+      "w1_avg_dollar_vol_bn": 0.21,
+      "reason": "",
+      "main_business": "专注发现新型药物靶点，开发精准肿瘤治疗药物"
+    },
+    {
+      "tk": "CBRS",
+      "nm": "Cerebras Systems Inc. Class A Common Stock",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": -4.6,
+      "w1": -4.1,
+      "market_cap_bn": 49.81,
+      "dollar_vol_bn": 1.29,
+      "w1_avg_dollar_vol_bn": 1.19,
+      "reason": "",
+      "main_business": "研发全球最大AI芯片及超级计算系统，提供AI训练与推理基础设施"
+    }
+  ]
+}
