@@ -1,0 +1,476 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis-jun08",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊危机：阿帕奇被击落、第三轮空袭与核谈判进入最后阶段",
+      "summary": "Trump公开称伊朗击落一架阿帕奇直升机并誓言回应，但私下对WSJ淡化称\"没什么大不了\"，并暗示更倾向签署协议而非继续轰炸。美军已进行第三轮对伊朗南部精准打击并宣布作战结束。核谈判聚焦铀浓缩期限、库存处置、设施拆除与核查四大议题，伊朗拒绝美方最新提案但通过阿曼提交反提案，英国Sky News称草案已送美方初步接受。",
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "NYT",
+        "Sky News",
+        "Al Mayadeen",
+        "KAN",
+        "Anadolu"
+      ],
+      "date": "2026-06-10",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump称谈判进入最后阶段，2-3天内可能签署协议",
+          "details": "Trump表示谈判进入\"最后阶段\"，可能2-3天内签署协议，强调\"无重大障碍\"；并称\"我们将得到一份签署的文件，这份文件实际上比实施爆炸袭击更有力\"。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump公开称伊朗击落阿帕奇直升机，必须回应",
+          "details": "Trump：\"我刚刚从我们伟大的军方得到消息，昨晚伊朗人击落了我们一架在霍尔木兹海峡巡逻的、高度先进的阿帕奇直升机，出于必要，我们必须回应伊朗对我们阿帕奇直升机的袭击。\"",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump私下对WSJ淡化阿帕奇事件，倾向不再轰炸",
+          "details": "与WSJ的通话中淡化了阿帕奇直升机被击落事件，称这\"没什么大不了的\"，并强调\"飞行员没事\"。Trump：\"如果我们去轰炸，这很容易做到，如果我们再轰炸两到三周，他们就什么都不剩了。但海峡几个月内都无法畅通。如果我们进行轰炸，很多人会丧命。谁想这么做？我不想。\"",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ：Trump最初不愿报复，国防部长与参联会主席劝说后批准",
+          "details": "WSJ报道Trump最初不愿采取报复行动，但在国防部长皮特·赫格塞斯和参谋长联席会议主席丹·凯恩将军在白宫简报会上建议对伊朗采取回应后，特朗普批准了对伊朗的军事行动。",
+          "important": false
+        },
+        {
+          "actor": "美军",
+          "actor_type": "US-Executive",
+          "text": "美军对伊朗南部第三轮精准打击后宣布行动结束",
+          "details": "美军对伊朗南部发动第三轮打击，定性为对称性自卫还击，使用精准制导武器对霍尔木兹海峡附近的伊朗防空系统、地面控制站和监视雷达网站进行了三轮打击，包括Qeshm岛、Sirik港、Abbas港，南部海岸线大范围受袭，美军已宣布结束针对伊朗的作战行动。",
+          "important": false
+        },
+        {
+          "actor": "伊朗军方",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗\"纳斯尔行动\"向以色列三军事基地发射导弹",
+          "details": "伊朗\"纳斯尔行动\"向以色列内瓦蒂姆、拉马特大卫及特尔诺夫等军事基地发射导弹。阿帕奇事件方面伊朗否认故意攻击，部分报道称\"碰撞\"。",
+          "important": false
+        },
+        {
+          "actor": "伊朗消息人士",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗拒绝美方最新核提案，经阿曼提交反提案",
+          "details": "伊朗已拒绝美方最新核提案，但通过阿曼提交反提案，伊朗消息人士称美国对谅解备忘录草案作出不可接受修改，若不释放冻结资金及取消制裁则无法达成协议。",
+          "important": false
+        },
+        {
+          "actor": "NYT",
+          "actor_type": "新闻",
+          "text": "NYT：核谈判聚焦四核心问题，呈现模糊协议轮廓",
+          "details": "美伊核谈判聚焦四核心问题：铀浓缩暂停期限、浓缩铀库存处置、核设施拆除及核查；NYT称谈判已远超霍尔木兹海峡重开，呈现\"模糊协议轮廓\"，前提是IRGC及伊朗强硬派不阻挠，美方认为伊朗可接受15年浓缩暂停，美方最初要求至少20年；双方在库存削减及核查上仍有显著差距。",
+          "important": false
+        },
+        {
+          "actor": "分析师",
+          "actor_type": "Analyst",
+          "text": "核条款分歧：美15-20年vs伊5年；24B冻结资金成信任测试",
+          "details": "核条款分歧：美方持续推动15-20年浓缩暂停+库存销毁/运出，伊朗此前提出5年暂停；资金解冻（约24B）被伊朗视为\"信任测试\"，双方表述一致但优先级不同，谈判仍在推进但军事升级构成新变量。",
+          "important": false
+        },
+        {
+          "actor": "Bagheri Kani (via Al Mayadeen)",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗：美国意图消除伊朗文明，绝不接受依赖",
+          "details": "Al Mayadeen援引Bagheri Kani：美国目标是消除伊朗文明、能力和自信，\"永远不会得逞\"；伊朗绝不接受依赖。",
+          "important": false
+        },
+        {
+          "actor": "KAN（以色列）",
+          "actor_type": "新闻",
+          "text": "KAN：3B美元经私人波音737从阿布扎比转至德黑兰",
+          "details": "以色列KAN新闻援引一家与伊朗有关联的新闻网络报道称，3B美金通过一架私人波音737飞机从阿布扎比转移到德黑兰。",
+          "important": false
+        },
+        {
+          "actor": "巴基斯坦政府消息人士",
+          "actor_type": "Foreign-Gov",
+          "text": "巴方：因复杂局势，美伊数日内达成协议\"不太可能\"",
+          "details": "巴基斯坦政府消息人士告诉阿纳多卢通讯社，由于当前\"复杂局势\"，美伊两国在未来几天内达成结束战争的协议\"不太可能\"。",
+          "important": false
+        },
+        {
+          "actor": "Sky News",
+          "actor_type": "新闻",
+          "text": "Sky News：协议草案已送美方审阅并初步接受",
+          "details": "英国Sky News报道协议草案已送交美方审阅，美方确认初步接受该草案。",
+          "important": false
+        },
+        {
+          "actor": "Aragchi",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗外长谴责美军打击，警告\"想安全就离开地区\"",
+          "details": "伊朗外长Aragchi谴责美军对伊朗领土的打击，警告\"若想安全就离开我们地区\"。",
+          "important": false
+        },
+        {
+          "actor": "内塔尼亚胡 / 扎米尔",
+          "actor_type": "Foreign-Gov",
+          "text": "以色列：可能独自对抗伊朗；当前协议\"几乎都是糟糕协议\"",
+          "details": "以色列媒体报道总理内塔尼亚胡警告说，尽管可能面临军事资源损失和国际孤立，以色列或许不得不在没有美国支持的情况下与伊朗对抗；以色列总参谋长扎米尔也警告说，目前达成的外交协议似乎并不理想，他表示，就目前的条款而言，\"几乎所有协议都是糟糕的协议\"。",
+          "important": false
+        },
+        {
+          "actor": "伊朗",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗提议海峡重开后实施永久过境费",
+          "details": "伊朗提议海峡重开后实施永久过境费/服务收费制度，与阿曼协调，作为制裁缓解及资金解冻条件。",
+          "important": false
+        },
+        {
+          "actor": "伊朗国家葬礼委员会",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗筹备哈梅内伊葬礼，国内进入重大过渡",
+          "details": "国家葬礼委员会召开会议，协调已故最高领袖哈梅内伊葬礼后勤安排，标志国内重大过渡阶段。",
+          "important": false
+        },
+        {
+          "actor": "@SpecialSitsNews",
+          "actor_type": "KOL",
+          "text": "KOL讽刺：Trump过去100+天37次称接近达成伊朗协议",
+          "details": "@SpecialSitsNews: Trump has said we are close to a deal with Iran 37 times the last 100+ days.",
+          "important": false
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": "china-ai-2t-jun08",
+      "topic": "中国AI基建",
+      "topic_tag": "ai",
+      "title": "中国拟斥2T推动全国AI建设，国企主导",
+      "summary": "中国准备投入2T用于全国AI建设，由国企主导。分析指出国企改革风向已变，承担新使命，\"大炼科技\"提速。",
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-10",
+      "bullets": [
+        {
+          "actor": "中国政府",
+          "actor_type": "Foreign-Gov",
+          "text": "中国拟2T投入全国AI建设，国企主导",
+          "details": "中国准备斥资2T，用于全国AI建设，由国企主导该项计划。",
+          "important": true
+        },
+        {
+          "actor": "分析评论",
+          "actor_type": "Analyst",
+          "text": "国企改革风向已变，\"大炼科技\"提速",
+          "details": "上周周报刚分析预判，国企改革风向已变，承担新的使命，大炼科技将开始提速。",
+          "important": false
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": "ai-capex-credit-jun08",
+      "topic": "AI资本支出与就业",
+      "topic_tag": "ai",
+      "title": "Apollo/Blackstone 35B私募信贷支持Anthropic；DB监测AI采用率",
+      "summary": "Apollo与Blackstone完成35B私募信贷交易，为Anthropic收购谷歌定制AI芯片融资。DB AI Monitor显示美国AI采用率升至20%以上但多数行业仍低于50%，年轻本科毕业生失业率上升、高AI采用行业工资增速放缓。KOL Andy和Anna Wong分别就AI融资规模和未来监管风险给出警示。",
+      "tickers": [
+        "GOOGL",
+        "AMZN"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "DB"
+      ],
+      "date": "2026-06-10",
+      "bullets": [
+        {
+          "actor": "Apollo / Blackstone",
+          "actor_type": "Corporate",
+          "text": "Apollo/Blackstone完成35B私募信贷，为Anthropic购谷歌芯片融资",
+          "details": "Apollo and Blackstone团完成了一笔35B的私募信贷交易，用于为Anthropic公司收购谷歌定制的AI芯片。",
+          "important": true
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "DB AI Monitor：美国AI采用率超20%，年轻毕业生失业上升",
+          "details": "DB AI monitor：截至2026年6月，美国AI采用率虽升至20%以上，但多数行业仍低于50%。企业主要用AI增强而非替代员工，整体就业未受大幅冲击。然而，年轻本科毕业生失业率攀升，高AI采用行业工资增长减速明显，显示劳动力市场正经历结构性调整。",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "Andy：AI融资规模远超95-2000 IPO狂潮，仍不够支付资本支出",
+          "details": "Andy: 1995-2000年六年间共有2555家公司完成IPO，筹集了约250B。假设到2026年全球市场隐含市值将达到1.4T，那么届时将有三家公司筹集到与此大致相同的资金，而其估值将是这六年总市值的两倍多。同时像GOOGL这样的公司今年筹集的资金将达到这六年期间的1/3。值得注意的是，所有这些发行所得甚至不足以支付今年的资本支出，而且还将持续供应未来几年。",
+          "important": false
+        },
+        {
+          "actor": "Anna Wong",
+          "actor_type": "KOL",
+          "text": "Anna Wong：AI崩盘催化剂将是两党监管共识，2028年加剧",
+          "details": "Anna Wong：如果让市场力量自由发挥，AI的上涨和繁荣至少会持续几年。导致AI崩溃的催化剂将是两党在监管人工智能方面达成政治共识，而这种监管方式闻起来像是收入分成，或者带有国有化的意味。到2028年，民主党和共和党都将竞相提出更严格的AI监管提案。AI对就业的影响最相关类比不是电力等通用技术，而是以中国为首的全球化浪潮——AI迫使企业根据比较优势进行专业化分工，并从根本上重组生产流程。",
+          "important": false
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": "us-equity-positioning-jun08",
+      "topic": "美股仓位与技术面",
+      "topic_tag": "macro-other",
+      "title": "GS CTA、JPM技术、看跌期权创纪录与科技板块极端跑赢",
+      "summary": "GS CTA模型显示趋势信号仍强、未现抛售信号，但若市场转弱预计未来一月卖出约60B全球股票。JPM技术面建议SPX在7035-7121支撑做多。SPY/QQQ看跌期权成交创纪录、科技板块50日相对回报达+6σ极端值、科技内部分化逼近2000年科网泡沫高点。Credit_Junk建议做空近期反弹。",
+      "tickers": [
+        "SPY",
+        "QQQ",
+        "GOOGL",
+        "AMZN",
+        "MSFT",
+        "META"
+      ],
+      "image_indexes": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "JPM",
+        "BofA",
+        "Turning Point Market Research"
+      ],
+      "date": "2026-06-10",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS CTA：暂无抛售信号，但市场转弱或卖出60B全球股票",
+          "details": "GS Equity CTA：周五市场波动后许多关注CTA预估的目光可能会惊讶发现预估中并未出现抛售信号。趋势信号此前极为强劲，即便市场出现下跌，也未观测到新的负面趋势信号。周五波动率的变化才是今日资金流预测的主要驱动因素，未来一周净基准资金流预测可忽略不计。资金流预测显示小幅下跌仍可能引发一定规模的CTA供给，因为\"小幅下跌\"情景模型设定价格下跌1个标准差，而多数短期动量信号目前距阈值也仅约1个标准差。若市场趋势转弱，预估系统性趋势跟踪策略群体将在未来一个月内抛售约60B的全球权益资产。",
+          "important": true
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "JPM技术：SPX 7035-7121支撑做多；半导体警惕跌破11800",
+          "details": "JPM Equity Technical：标普500指数从7347-7840阻力位回落，但未现熊市反转信号，建议逢7035-7121支撑区做多。费城半导体指数若跌破11800-12100支撑需警惕动量转负。大型科技股中，Google和Amazon建议逢低买入，MSFT和META关注关键支撑位。",
+          "important": false
+        },
+        {
+          "actor": "macrocharts",
+          "actor_type": "Analyst",
+          "text": "SPY/QQQ看跌期权成交创纪录（SPY 40.17M）",
+          "details": "图表显示SPY和QQQ看跌期权成交量于2026年6月初创纪录，SPY单日PUT成交量录得40.17M。",
+          "important": false
+        },
+        {
+          "actor": "Turning Point Market Research",
+          "actor_type": "Analyst",
+          "text": "历史信号：3日内ATH后单日跌2.5%+，8周后中位+5.4%",
+          "details": "S&P 500在创历史新高3日内录得至少2.5%单日跌幅的11次历史信号，1周后中位+0.1%、均值+0.2%，8周后中位+5.4%、均值+3.9%、73%正回报；最新信号日期2026-06-05。",
+          "important": false
+        },
+        {
+          "actor": "分析师",
+          "actor_type": "Analyst",
+          "text": "科技板块50日相对回报达+29.3%（+6σ）极端值",
+          "details": "S&P 500科技板块对S&P 500的50日相对回报于2026-06-02达到+29.3%，约+6个标准差，远超3σ阈值(+13.6)。前期+3σ事件分别为2023-03-17、2025-06-17及2026-05-06。",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "BofA：科技板块内部分化逼近2000年科网泡沫高点",
+          "details": "BofA图：科技板块内Top-Bottom分位差升至约120ppt，接近2000年2月科网泡沫峰值的140ppt水平，显示分化极端。",
+          "important": false
+        },
+        {
+          "actor": "@Credit_Junk",
+          "actor_type": "KOL",
+          "text": "Credit_Junk：做空本轮反弹（股权供应高+仓位拥挤）",
+          "details": "@Credit_Junk：做空这波股市上涨，原因包括美国（IPO）和二级市场（谷歌）的股权供应量很高、拥挤的仓位、市场表现与盈利所暗示的不符。",
+          "important": false
+        }
+      ],
+      "image_urls": [
+        "/uploads/2026-06-10/caf65907f110.png",
+        "/uploads/2026-06-10/ea2c6cad2a36.jpg",
+        "/uploads/2026-06-10/79701c7e1839.png",
+        "/uploads/2026-06-10/5973dff47d3e.png"
+      ]
+    },
+    {
+      "id": "us-cpi-preview-jun08",
+      "topic": "美国CPI预览",
+      "topic_tag": "rates",
+      "title": "5月CPI预览：核心M/M中位0.23%，同比2.8%",
+      "summary": "MNI汇总分析师对5月美国CPI预期：Headline NSA Y/Y中位4.25%、Core NSA Y/Y中位2.8%、Core SA M/M中位0.23%、Core PCE M/M中位0.32%；Bloomberg共识Core Y/Y 2.9%、Core M/M 0.3%。",
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [
+        "MNI",
+        "Bloomberg"
+      ],
+      "date": "2026-06-10",
+      "bullets": [
+        {
+          "actor": "MNI 汇总",
+          "actor_type": "Analyst",
+          "text": "分析师中位：Core M/M 0.23%、Core Y/Y 2.8%、Core PCE 0.32%",
+          "details": "MNI Overview Of Unrounded Core CPI Analyst Estimates：5月预期中位 Headline NSA Index 335.143、Headline NSA Y/Y 4.25%、Core NSA Y/Y 2.8%、Headline SA M/M 0.51%、Core SA M/M 0.23%、Core PCE SA M/M 0.32%；4月实际分别为333.020/3.81/2.75/0.64/0.38/0.24。",
+          "important": true
+        },
+        {
+          "actor": "卖方机构",
+          "actor_type": "Analyst",
+          "text": "Core M/M预测分布：GS/UBS/Nomura 0.17-0.18最低，JPM/BNP/WF/HSBC 0.27-0.30最高",
+          "details": "Core SA M/M预测：Goldman Sachs 0.17、UBS 0.17、Nomura 0.18、BofA 0.20、Citi 0.22、Deutsche Bank 0.22、Morgan Stanley 0.22、TD 0.23、HSBC 0.26、NatWest 0.26、JP Morgan 0.27、Barclays 0.28、BNP 0.29、Wells Fargo 0.30。Bloomberg共识Core Y/Y 2.9%、Core M/M 0.3%。",
+          "important": false
+        }
+      ],
+      "image_urls": [
+        "/uploads/2026-06-10/98be8bee8347.png"
+      ]
+    },
+    {
+      "id": "fed-dot-plot-jun08",
+      "topic": "美联储沟通",
+      "topic_tag": "fed",
+      "title": "DB：Fed或停止公布点阵图与SEP中位数",
+      "summary": "DB预计Fed可能停止发布点阵图及SEP中的中位数利率预测，仅保留集中趋势区间。历史显示中位数与集中趋势中点平均差距仅10bp，集中趋势区间约50bp，此举或淡化中位数锚定效应，未来预测离散度可能增加。",
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "DB"
+      ],
+      "date": "2026-06-10",
+      "bullets": [
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "DB：Fed或停发点阵图与SEP中位数，仅保留集中趋势",
+          "details": "DB：Fed可能停止发布点阵图及SEP中的中位数利率预测，仅保留集中趋势。历史数据显示中位数与集中趋势中点平均差距仅10bp，集中趋势区间约50bp。此举或旨在淡化中位数锚定效应，未来预测离散度可能增加。",
+          "important": true
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS：世界杯料推升6月核心CPI 0.03%、核心PCE 0.04%",
+          "details": "GS预计世界杯将在6月份推高核心CPI通胀0.03%，推高包含餐饮服务在内的核心PCE通胀0.04%（与核心CPI不同）。",
+          "important": false
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": "gs-world-cup-jun08",
+      "topic": "世界杯宏观影响",
+      "topic_tag": "macro-other",
+      "title": "GS：世界杯6月就业+40k，Q2/Q3 GDP小幅提升",
+      "summary": "GS估算世界杯将使6月美国非农就业+40k、7月+10k、8月-15k；6月零售增长+0.3%、7月+0.1%；Q2/Q3年化GDP分别+0.1%/+0.05%，Q4小幅下滑。",
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-06-10",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS：世界杯6月就业+40k、零售+0.3%、Q2 GDP+0.1%",
+          "details": "GS考虑到本届世界杯规模及已产生的部分影响，预计6月份就业人数将增加40k，7月份将增加10K，8月份世界杯结束后将减少15k，之后随着临时岗位结束逐步回落。预计6月份零售额增长将提升0.3%，7月份将提升0.1%，但该数据并未区分本地居民和外国游客的消费。预计Q2和Q3年化GDP增长率将分别温和提升0.1%和0.05%，随后在第四季度出现小幅下滑。",
+          "important": true
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS：世界杯6月核心CPI +0.03%、核心PCE +0.04%",
+          "details": "预计世界杯将在6月份推高核心CPI通胀0.03%，推高包含餐饮服务在内的核心PCE通胀0.04%（与核心CPI不同）。",
+          "important": false
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": "boj-cpi-jun08",
+      "topic": "日本央行/通胀",
+      "topic_tag": "fed",
+      "title": "Barclays/JPM：日本进口价格向CPI传导显著，BoJ落后风险升",
+      "summary": "Barclays JP指出日本5月企业商品价格指数同比+6.3%、进口价格同比飙升25.5%，预计BoJ核心CPI于2027年春季升至2.5%。若布伦特持续高于100美元或美元兑日元站稳160上方，日本央行落后于通胀曲线的风险将急剧增加。",
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Barclays"
+      ],
+      "date": "2026-06-10",
+      "bullets": [
+        {
+          "actor": "Barclays JP",
+          "actor_type": "Analyst",
+          "text": "5月日本进口价格+25.5%；BoJ核心CPI料27春升至2.5%",
+          "details": "Barclay JP：日本进口价格向CPI传导效应显著增强。5月企业商品价格指数同比涨6.3%，进口价格同比飙升25.5%。预计BoJ核心CPI将于2027年春季升至2.5%。若布伦特原油持续高于100美元或美元兑日元站稳160上方，日本央行落后于通胀曲线的风险将急剧增加。",
+          "important": true
+        },
+        {
+          "actor": "Barclays JP",
+          "actor_type": "Analyst",
+          "text": "关键阈值：布油>100美元或美元日元>160",
+          "details": "Barclays指出布伦特原油持续高于100美元或美元兑日元站稳160上方将是BoJ落后曲线风险急剧上升的关键阈值。",
+          "important": false
+        }
+      ],
+      "image_urls": []
+    },
+    {
+      "id": "ups-layoffs-jun08",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "UPS 2026再裁员至多30k",
+      "summary": "UPS宣布继2025年裁减34k运营岗位和14k管理岗位后，2026年还将裁员多达30k。公司去年关闭93座办公楼并计划再关24座，因亚马逊自建配送网络。",
+      "tickers": [
+        "UPS",
+        "AMZN"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-06-10",
+      "bullets": [
+        {
+          "actor": "UPS",
+          "actor_type": "Corporate",
+          "text": "UPS：2026再裁员多达30k，亚马逊自建网络冲击",
+          "details": "UPS宣布，继2025年裁减34k个运营岗位和14k个管理岗位后，2026年还将裁员多达30k人。该公司去年关闭了93座办公楼，并计划再关闭至少24座，原因在于亚马逊自建配送网络。",
+          "important": true
+        },
+        {
+          "actor": "UPS",
+          "actor_type": "Corporate",
+          "text": "UPS累计裁员规模：48k(2025)+30k(2026)",
+          "details": "UPS 2025年裁减34k运营岗位和14k管理岗位，合计约48k；2026年再裁多达30k，累计两年裁员逼近80k。",
+          "important": false
+        }
+      ],
+      "image_urls": []
+    }
+  ]
+}
