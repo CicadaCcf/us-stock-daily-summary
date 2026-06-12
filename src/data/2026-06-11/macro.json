@@ -1,0 +1,334 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊冲突升级：Trump威胁明晚再炸 海峡或全面封锁",
+      "summary": "Trump宣布对伊朗发动新一轮'自卫'打击并威胁如未签协议明晚（12号）将大规模轰炸；伊朗宣布完全关闭霍尔木兹海峡并着手布雷，向巴林、科威特、约旦发动导弹无人机袭击。AXIOS披露5月29日以来双方就铀稀释、海峡通行费、资产解冻等核心条款的谈判细节。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "威胁明晚大规模轰炸 称伊朗'把我们当傻子耍'",
+          "details": "Trump在战情室会见国家安全高级官员讨论可能对伊朗发动新打击，正在考虑'大规模但规模有限'的军事行动以迫使伊朗改变谈判立场；称伊朗在谈判中'playing us for suckers'，'something had to give'；声称应伊朗领导人请求轰炸将停止，但如明天没有签署协议，明晚（12号）将把他们'炸个稀巴烂'，称这是'世界历史上被违反得最严重的停火协议'；声称'伊朗高级官员'打电话要求他停止轰炸。",
+          "important": true
+        },
+        {
+          "actor": "AXIOS",
+          "actor_type": "新闻",
+          "text": "披露美方提两修改请求：60天稀释高浓铀+不收海峡通行费",
+          "details": "AXIOS报道：5月29日战情室会议后Trump向伊朗提出两项修改请求以结束战争并开放霍尔木兹海峡的谅解备忘录草案——要求伊朗60天内稀释高浓缩铀、承诺不对通过海峡的船只征收通行费；作为交换Trump愿同意在IAEA监督下于伊朗境内进行稀释。伊朗其后要求提前解冻部分被冻结资产，Trump坚持先履行承诺；上周六Aragchi告诉地区调解人已将伊方回应提交最高领袖Mojtaba批准，希望周日前送达白宫，一天后以色列袭击贝鲁特、伊朗向以色列发射导弹、以色列对德黑兰报复空袭。过去两天美伊官员在多哈与卡塔尔调解人举行平行会谈并将继续斡旋。",
+          "important": false
+        },
+        {
+          "actor": "CENTCOM",
+          "actor_type": "US-Executive",
+          "text": "美军对伊朗南部多目标'自卫'打击 击毁油轮",
+          "details": "美国中央司令部宣布对伊朗多个目标发动额外'自卫'打击，所有被攻击目标位于伊朗南部，包括防空系统、雷达和无人机指挥控制单元；空袭导致Bandar Abbas、Minab、Jask、Qeshm、Sirik等地发生爆炸和空中防御活动。美国战机在阿曼湾击毁一艘试图运输伊朗石油的油轮；印度商船'贾尔维尔'号据称遭袭。Tasnim报道美国袭击了位于阿萨卢耶南帕尔斯天然气田的一家石化厂。传'IRGC指挥官Mohammad Akbarzadeh被美军空袭击毙'及'IRGC指挥控制中心遭巨大爆炸'，但主流媒体未确认。",
+          "important": false
+        },
+        {
+          "actor": "Khatam al-Anbiya（伊朗）",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗宣布完全关闭霍尔木兹海峡 着手大规模布雷",
+          "details": "伊朗Khatam al-Anbiya总部通过国家电视台宣布因美国'持续侵略'和对南部霍尔木兹甘省攻击，完全关闭霍尔木兹海峡，任何船只移动都将被针对，并明确拒绝美国关于船舶继续通行的说法。在美国再次袭击伊朗南部海岸后，伊朗正着手在霍尔木兹海峡进行大规模布雷。伊朗向Bahrain、Kuwait、Jordan发动导弹和无人机袭击，伊朗军方使用无人机袭击了位于巴林的美国海军第五舰队。",
+          "important": false
+        },
+        {
+          "actor": "Pezeshkian",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗否认主动联系Trump 称美方威胁是'绝望表现'",
+          "details": "伊朗否认特朗普关于伊朗官员曾与他接触的说法，称其为虚假信息，并试图掩盖其在与伊朗冲突中退缩的企图。伊朗总统Masoud Pezeshkian称美国威胁打击伊朗国家基础设施是'绝望的表现'。以色列安全官员表示以色列目前没有参与美国对伊朗的袭击。",
+          "important": false
+        },
+        {
+          "actor": "Hegseth",
+          "actor_type": "US-Executive",
+          "text": "战争部长：打击是为协议设定条件 非重启战争",
+          "details": "Hegseth表示'我们不必重启谈判，战争部已准备好制定条款以确保我们获得特朗普所期望的那种协议'；今晚对伊朗的打击将是清晰而有力的，如果它们发生在明天晚上将会非常强烈和清晰；强调打击'不是重启战争，而是为协议设定条件'。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "宣布过去一个月超100M桶石油通过海峡进入市场",
+          "details": "Trump：上个月指示美国军队执行一项秘密任务，以保障油轮和其他商船顺利通过霍尔木兹海峡。今天宣布这项努力已使超过100M桶石油通过霍尔木兹海峡进入公开市场。",
+          "important": false
+        },
+        {
+          "actor": "美国国务院",
+          "actor_type": "US-Executive",
+          "text": "制裁伊朗/白俄/中国13个实体 指其代伊采购武器",
+          "details": "美国国务院制裁13个位于伊朗、白俄罗斯和中国的个人和实体，指其试图代表伊朗寻找并采购武器。",
+          "important": false
+        },
+        {
+          "actor": "美国高级官员",
+          "actor_type": "US-Executive",
+          "text": "周二袭击意在恢复筹码 不排除达成协议",
+          "details": "一位美国高级官员告诉Axios，周二晚上的袭击旨在恢复一些筹码，但要经过权衡以免造成人员伤亡，也不会排除达成协议的可能性。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        2
+      ],
+      "importance": 3,
+      "sources": [
+        "AXIOS",
+        "Tasnim",
+        "WSJ"
+      ],
+      "date": "2026-06-11",
+      "image_urls": [
+        "/uploads/2026-06-11/246ec26ab7ea.png",
+        "/uploads/2026-06-11/00a36689be54.png"
+      ]
+    },
+    {
+      "id": "boj-ueda-hospital",
+      "topic": "日本央行",
+      "topic_tag": "fed",
+      "title": "BOJ植田入院缺席议息 MS仍维持6月加息至1.0%预期",
+      "summary": "日本央行行长植田和男入院将缺席下周货币政策会议，由副行长代为主持。Morgan Stanley JP维持BOJ 6月加息预期，预计利率从0.75%上调至1.0%，并计划于2027年4月停止缩减日债购买。",
+      "bullets": [
+        {
+          "actor": "MS JP",
+          "actor_type": "Analyst",
+          "text": "维持BOJ 6月加息至1.0%预期 副行长主持或偏鹰",
+          "details": "Morgan Stanley JP维持BOJ 6月加息预期。尽管行长植田和男因住院缺席6月货币政策会议，由副行长代为主持，但机构认为这不影响政策决定。预计利率将从0.75%上调至1.0%，并计划于2027年4月停止缩减日债购买。副行长主持发布会或带来略偏鹰派的市场沟通。",
+          "important": true
+        },
+        {
+          "actor": "BOJ",
+          "actor_type": "Central-Bank",
+          "text": "植田已入院 缺席下周货币政策会议",
+          "details": "BOJ植田已入院治疗，将缺席下周的货币政策会议。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Morgan Stanley"
+      ],
+      "date": "2026-06-11",
+      "image_urls": []
+    },
+    {
+      "id": "gs-ai-capex-views",
+      "topic": "GS AI Capex观点",
+      "topic_tag": "ai",
+      "title": "高盛：2027 Hyperscaler Capex或达0.95-1.25T 大幅超共识",
+      "summary": "高盛认为市场对2027年hyperscaler Capex共识($920B/+22%)过于保守，更可能达950B–1.25T（占GDP增量2-3%），极端情景下可达1.4T(+89% YoY)。AI基础设施股短期仍有上涨空间，但估值扩张+仓位拥挤将推高波动率。Hyperscalers预计将100%经营性现金流用于Capex，到2030年token消耗增长24倍。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "2027 Hyperscaler Capex或达$950B-$1.25T 远超共识",
+          "details": "GS US Equity Views：市场对2027年超大规模云厂商Capex共识预期过于保守。共识：2026年$757B(+84% YoY)、2027年$920B(+22% YoY)；高盛观点：2027年更可能达$950B–$1.25T（对应增量投资占GDP 2–3%）；极端情景下可达$1.4T(+89% YoY)。AI基础设施相关股票短期仍有上涨空间，但估值扩张+仓位拥挤将导致波动率显著上升。投资者对'盈利能否持续'在hyperscalers上相对保守，但在半导体上较为激进。hyperscaler股权发行凸显市场对ROI和收入上修的关注。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "Hyperscaler预计100%经营现金流投向Capex",
+          "details": "Exhibit 5：Hyperscalers expected to allocate 100% of cash flows from operations to capex。Hyperscalers Capex/CFO比率从2015年约30%升至2025年约70%，2026年共识预期达98%。S&P 500 Telecom及TMT历史峰值分别约80%/95%（2000年左右）。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "预计2030年token消耗增长24倍 GenAI投资占GDP 1.5%",
+          "details": "Exhibit 9：GS equity analysts forecast a 24x increase in token consumption by 2030，2030年tokens processed per month达约1200亿（企业Agent与消费者Agent各约600亿）。Exhibit 10：US Generative AI增量投资占GDP 1.5%，对比历史：US Telecom 1990s 1.4%、US ICT Hardware 1990s 1.6%、US Auto Infrastructure 1910s 2.1%、US Electric Motor 1920s 2.2%、US Railroads 1880s 3.4%、UK Railroads 1860s 4.5%。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "AI基础设施中位股PE升至28-29x 光网/半导体溢价最高",
+          "details": "Exhibit 14：GS AI Data Center篮子(GSTMTDAT)中位股Forward P/E从2024年21-25x区间跃升至2026年6月约28-29x。Exhibit 15 YTD：Memory回报318%/EPS204%；Optical networking回报105%/EPS+55%；Semiconductors回报65%/EPS+50%；Electrical grid 60%/10%；Hyperscalers 10%/20%。Exhibit 18估值表：Optical networking 2y fwd EV/EBITDA 22x（较5y中位数溢价105%）、Electrical grid 17x(+62%)、Power ex-Utilities 17x(+44%)、Semis 23x(+27%)、Liquid cooling 13x(+13%)、Memory 5x(+12%)、Utilities 11x(-2%)、Hyperscalers 11x(-19%)。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "AMZN",
+        "GOOGL",
+        "META",
+        "MSFT",
+        "ORCL",
+        "MU",
+        "NVDA"
+      ],
+      "image_indexes": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "importance": 3,
+      "sources": [
+        "Goldman Sachs"
+      ],
+      "date": "2026-06-11",
+      "image_urls": [
+        "/uploads/2026-06-11/4e80e8570613.png",
+        "/uploads/2026-06-11/e431d4a27df2.png",
+        "/uploads/2026-06-11/7751d11f4b9d.png",
+        "/uploads/2026-06-11/733a3384e389.png",
+        "/uploads/2026-06-11/4d9a9f415fd8.png"
+      ]
+    },
+    {
+      "id": "gs-spx-fed-views",
+      "topic": "高盛策略与美联储沟通",
+      "topic_tag": "rates",
+      "title": "GS维持SPX年底8000点 Warsh或减少Fed前瞻指引推高波动",
+      "summary": "高盛美股策略维持SPX年底目标8000点（全年+8%），预计2026年EPS增长24%，AI基建股YTD大涨34%贡献半数盈利增长，1T回购抵消供给压力。GS Markets Daily指出新任主席Warsh主张减少Fed沟通可能推高利率波动，FOMC隐性分歧比正式反对票更易引发波动。",
+      "bullets": [
+        {
+          "actor": "GS US Strategy",
+          "actor_type": "Analyst",
+          "text": "维持SPX年底8000点 AI基建股YTD+34%贡献半数盈利增长",
+          "details": "GS US Strategy维持SPX年底目标8000点，预计全年上涨8%。报告指出尽管市场波动加剧，但盈利增长仍是核心驱动力，预计2026年SPX EPS增长24%。AI基础设施股票年初至今大涨34%，贡献了半数盈利增长。虽然股票发行增加，但1T回购将抵消供给压力。建议关注盈利强劲股及低相关性资产以规避波动。",
+          "important": true
+        },
+        {
+          "actor": "GS Markets Daily",
+          "actor_type": "Analyst",
+          "text": "Warsh主张减少Fed沟通 或推高利率波动",
+          "details": "GS Markets Daily：美联储沟通透明度的提升曾显著降低利率波动及10Y期限溢价约5bp。但新任主席Warsh主张减少沟通频率及前瞻性指导，可能导致市场初期波动性上升。研究显示FOMC内部的'隐性分歧'比正式反对票更易引发利率波动。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY"
+      ],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs"
+      ],
+      "date": "2026-06-11",
+      "image_urls": [
+        "/uploads/2026-06-11/9c76e3c7cbd3.png"
+      ]
+    },
+    {
+      "id": "kol-views-jun11",
+      "topic": "KOL/买方观点",
+      "topic_tag": "macro-other",
+      "title": "KOL观点：SPR警戒/AI融资链断裂风险/CPI趋稳",
+      "summary": "Citadel Macro认为前沿AI将与日常AI分化，价值通过补充人类劳动而非自主代理实现；short bear警示美战略石油储备347M桶仅剩6周缓冲；Aelia Capitolina警告AI融资链条断裂风险；Peter Berezin指出汽油回落40美分将使6月CPI平稳但停火易升级；@DerivativesDon、@Ariston_Macro、@bboczeng各有黄金/股指/SPACEX抽签短期观点。",
+      "bullets": [
+        {
+          "actor": "Citadel Macro",
+          "actor_type": "Analyst",
+          "text": "前沿AI将与日常AI分化 token价格反映稀缺资源",
+          "details": "Citadel Macro：前沿AI模型因算力、电力、散热、内存和推理预算等物理瓶颈而成本高昂且难以规模化，token价格已开始真实反映底层稀缺资源；近期Silicon Data LLM Token Expenditure Index的下降正是市场从昂贵前沿模型转向更便宜高效替代模型的体现。未来推理密集型前沿AI将被少数公司垄断或逐步放弃，大量日常使用将转向更简单性价比更高的模型，形成'前沿AI'与'日常AI'的明显分化。长期看AI价值实现路径将更务实和成本敏感，主要通过作为人类劳动的补充工具（如编程助手、客服代理）而非完全自主代理来创造生产力，部署规模将受制于成本与产能约束，资产价格也会随之周期性调整。",
+          "important": true
+        },
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "SPR目前347M桶 仅剩6周缓冲期",
+          "details": "short bear：美国战略石油储备低于300M桶会引发恐慌，而且无法实现。目前有347M桶石油，每周大约开采8M桶，市场实际上还剩约6周的安全缓冲期。预计在此期间各方将施加最大压力并展开猛烈攻势以达成交易。这架直升机很可能是在护送过去几周一直压制着油价的秘密石油运输舰队，击落事件只不过是时间紧迫重新开战的借口。如果伊朗全力反击，海湾国家到欧洲都将有动力加入到结束这场冲突的行列。",
+          "important": false
+        },
+        {
+          "actor": "Aelia Capitolina",
+          "actor_type": "KOL",
+          "text": "警告AI牛市融资链条面临断裂风险",
+          "details": "Aelia Capitolina：AI牛市融资链条面临断裂风险——科技巨头可能停止股票回购、转向股权融资或发债。如果资本不愿意继续'被占便宜'，资金可能撤离AI链条，导致整个融资生态窒息，AI彻底变成庞氏泡沫。",
+          "important": false
+        },
+        {
+          "actor": "Peter Berezin",
+          "actor_type": "KOL",
+          "text": "汽油回落40美分使6月CPI趋稳 但停火易升级",
+          "details": "Peter Berezin：汽油价格已从高点回落约40美分，这应该会使6月份的CPI数据趋于平稳。坏消息是所谓的'停火'实际上只是'减少冲突'，很容易演变成'冲突升级'。",
+          "important": false
+        },
+        {
+          "actor": "@DerivativesDon",
+          "actor_type": "KOL",
+          "text": "GC 4k以下缺口将引发快速波动 3.4k为100wk支撑",
+          "details": "@DerivativesDon：GC 4k以下的缺口将促使价格快速波动。3.4k处的拥堵将形成100wk的稳固支撑位。",
+          "important": false
+        },
+        {
+          "actor": "@Ariston_Macro",
+          "actor_type": "KOL",
+          "text": "黄金重返货币与利率定价框架 AI Capex带通胀属性",
+          "details": "@Ariston_Macro：黄金已重返货币与利率的定价框架，AI数据中心的Capex本身带有通胀属性，市场也开始计入加息、更高名义利率和更高实际利率。",
+          "important": false
+        },
+        {
+          "actor": "@bboczeng",
+          "actor_type": "KOL",
+          "text": "今明SPY或小幅反弹 但还有5%下跌空间至700",
+          "details": "@bboczeng：今明两天可能有小幅反弹（SPACEX抽签资金回流），但SPY还没调整到700附近支撑，还有约5%空间。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "GLD"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-11",
+      "image_urls": []
+    },
+    {
+      "id": "other-news-jun11",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "其他：OpenAI拟降价/软银6B质押遭拒/币安SpaceX打新",
+      "summary": "WSJ报道OpenAI考虑大幅降价应对Anthropic用户争夺战；软银试图以13% OpenAI股份作抵押借款6B继续供资OpenAI被银行拒绝；币安上线SpaceX打新，方程式新闻创始人Vida在162.46裸空SpaceX加密交易所盘前合约。",
+      "bullets": [
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "OpenAI考虑大幅降价 与Anthropic争夺用户",
+          "details": "WSJ报道，OpenAI正考虑大幅降价，预计将与Anthropic展开用户争夺战。",
+          "important": true
+        },
+        {
+          "actor": "软银",
+          "actor_type": "Corporate",
+          "text": "软银以13% OpenAI股份质押借6B遭银行拒绝",
+          "details": "软银试图以其持有的13% OpenAI股份作抵押借款6B以继续为OpenAI提供资金，被银行拒绝。",
+          "important": false
+        },
+        {
+          "actor": "币安/Vida",
+          "actor_type": "Corporate",
+          "text": "币安上线SpaceX打新 Vida在162.46裸空",
+          "details": "加密货币交易所币安上线SpaceX打新；方程式新闻创始人Vida今早宣布裸空了点SpaceX在加密货币交易所上的盘前合约，做空价格为162.46。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3
+      ],
+      "importance": 1,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-06-11",
+      "image_urls": [
+        "/uploads/2026-06-11/4e26448a5032.png"
+      ]
+    }
+  ]
+}
