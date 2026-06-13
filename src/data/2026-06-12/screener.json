@@ -1,0 +1,101 @@
+{
+  "generated_at": "2026-06-13T01:35:25+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-06-12",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12263,
+    "partial_pass": 5,
+    "with_carryover": 12,
+    "after_full_check": 6
+  },
+  "rows": [
+    {
+      "tk": "ROKU",
+      "nm": "Roku, Inc. Class A Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 20.1,
+      "w1": 17.5,
+      "market_cap_bn": 21.22,
+      "dollar_vol_bn": 2.16,
+      "w1_avg_dollar_vol_bn": 0.71,
+      "reason": "",
+      "main_business": "提供流媒体播放设备及操作系统，连接用户与电视内容平台"
+    },
+    {
+      "tk": "TNGX",
+      "nm": "Tango Therapeutics, Inc.",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 3.8,
+      "w1": 53.0,
+      "market_cap_bn": 4.48,
+      "dollar_vol_bn": 0.31,
+      "w1_avg_dollar_vol_bn": 0.34,
+      "reason": "",
+      "main_business": "专注发现新型药物靶点，开发精准肿瘤治疗药物"
+    },
+    {
+      "tk": "FRMI",
+      "nm": "Fermi Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": 2.7,
+      "w1": 23.5,
+      "market_cap_bn": 4.55,
+      "dollar_vol_bn": 0.15,
+      "w1_avg_dollar_vol_bn": 0.16,
+      "reason": "",
+      "main_business": "建设私有电力园区，为AI客户提供大规模独立发电与高性能计算设施"
+    },
+    {
+      "tk": "CASY",
+      "nm": "Casey's General Stores Inc",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -2.3,
+      "w1": 17.5,
+      "market_cap_bn": 33.08,
+      "dollar_vol_bn": 0.44,
+      "w1_avg_dollar_vol_bn": 0.85,
+      "reason": "",
+      "main_business": "美国中西部连锁便利店，提供加油、食品杂货及现制餐食服务"
+    },
+    {
+      "tk": "LUNR",
+      "nm": "Intuitive Machines, Inc. Class A Common Stock",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": -13.1,
+      "w1": -9.3,
+      "market_cap_bn": 4.27,
+      "dollar_vol_bn": 0.59,
+      "w1_avg_dollar_vol_bn": 0.43,
+      "reason": "",
+      "main_business": "设计建造月球着陆器及深空探测航天器与服务"
+    },
+    {
+      "tk": "FLY",
+      "nm": "Firefly Aerospace Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": -19.1,
+      "w1": -11.7,
+      "market_cap_bn": 5.23,
+      "dollar_vol_bn": 0.47,
+      "w1_avg_dollar_vol_bn": 0.28,
+      "reason": "",
+      "main_business": "研发火箭发射载具与航天器系统的太空国防科技公司"
+    }
+  ]
+}
