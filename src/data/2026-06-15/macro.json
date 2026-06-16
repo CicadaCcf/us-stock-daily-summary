@@ -1,0 +1,355 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-deal-2026",
+      "topic": "美伊/霍尔木兹协议",
+      "topic_tag": "geo",
+      "title": "Trump宣布美伊协议获批，霍尔木兹解封在即",
+      "summary": "Trump声称伊朗最高领袖已批准协议，取消原定打击，协议最早本周末由副总统Vance在欧洲代签。核心框架包括60+d停火、霍尔木兹海峡30d内恢复通行、伊朗分阶段恢复石油出口及制裁缓解、核问题谈判。但伊方Tasnim及外交部否认最终批准，以色列Netanyahu感惊讶，市场谨慎等待Tasnim确认。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "宣布取消对伊打击，称协议获最高领袖批准本周末签",
+          "details": "Trump宣布取消原定对伊朗打击，称伊朗所有人都批准了协议，伊朗最高领袖已批准、即将签署，一旦协议签署海上封锁将解除；拒绝设定最后期限，称德黑兰理性且有信心达成协议；最早本周末在欧洲签署，副总统Vance率团代他出席。讨论已获美国、以色列、沙特、阿联酋、卡塔尔、土耳其、巴基斯坦、巴林、科威特、约旦、埃及等所有相关方批准，拟签MOU作为谈判基础。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "协议核心框架：60+d停火+海峡复航+核条款",
+          "details": "核心框架包括延长停火60+d、恢复霍尔木兹海峡国际航运、启动核问题谈判；核条款最终协议将包括移除浓缩核材料、拆除铀浓缩基础设施、限制导弹生产、停止支持地区代理组织。拟议草案要点（多方来源一致）：60+d停火期内重启霍尔木兹海峡通行（30d内目标）、伊朗恢复石油出口并分阶段制裁relief（待审）、全面停火。Kharg岛行动因协议搁置；海军封锁维持至交易最终完成。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump前后矛盾表态：先称将猛烈打击占领Kharg岛",
+          "details": "Trump此前曾称今晚美国将对伊朗（其海军、空军、雷达、防空系统以及所有其他防御和大部分进攻能力都已不复存在）进行猛烈打击，在不久将来占领哈尔克岛和其他石油基础设施，并完全控制其石油和天然气市场，就像对委内瑞拉所做的那样。还称'你知道我真正喜欢的是什么吗？我喜欢通货膨胀'；'事实上，伊朗最高领袖已批，只是你不知道而已'。据消息人士透露，总统感到沮丧，认为德黑兰和媒体对美国对伊朗的打击力度不够重视。",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "Bessent：伊朗将输掉零和博弈，盟友损失将由伊朗账户赔偿",
+          "details": "Bessent称伊朗政权必将输掉它所玩的零和博弈。伊朗对我们在海湾地区的盟友造成的任何损失，都将用从伊朗账户中提取的资金来赔偿。向波斯湾海峡管理局缴纳的任何通行费都将从其账户中提取资金进行抵消。",
+          "important": false
+        },
+        {
+          "actor": "Tasnim/伊朗外交部",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗官方否认最终批准，文本仍在审查中",
+          "details": "Tasnim报道协议草案尚未获伊朗当局最终批准。据知情人士透露，在军事和外交压力失败后，美国放弃了推动伊朗修改其14点应对措施的努力。伊朗拒绝了最新提出的修改意见，目前相关文本仍在伊朗相关机构的审查之中。伊朗外交部称'相关报道和主张纯属猜测，尚未达成任何最终结论'。Fars则报道鉴于美国已接受伊朗提出的文本，该协议获最高决策机构批准的可能性相对较高。",
+          "important": false
+        },
+        {
+          "actor": "Axios/Barak Ravid",
+          "actor_type": "新闻",
+          "text": "Axios：伊朗已告知多国'原则同意，待Khamenei批准'",
+          "details": "Axios（Barak Ravid）报道：Trump取消打击，称协议接近；Netanyahu惊讶；伊朗官员已告知多国'原则同意，待Khamenei批准'；核/导弹/代理条款为最终协议底线。",
+          "important": false
+        },
+        {
+          "actor": "Netanyahu/以色列",
+          "actor_type": "Foreign-Gov",
+          "text": "Netanyahu未提前获知Trump声明，N12官员称困惑",
+          "details": "以色列/Netanyahu未提前获知Trump声明，感惊讶；办公室称感谢Trump承诺最终协议将包含移除浓缩核材料、拆除铀浓缩设施、导弹生产限制、停止支持恐怖代理组织（以色列非MOU当事方）。N12报道一位以色列官员表示，他们不知道有任何协议，并对Trump声称伊朗领导层批准了一项协议的说法感到困惑。",
+          "important": false
+        },
+        {
+          "actor": "卡塔尔",
+          "actor_type": "Foreign-Gov",
+          "text": "卡塔尔代表团从德黑兰返回，递交伊朗批准的最终草案",
+          "details": "卡塔尔代表团从德黑兰返回后，将伊朗批准的最终草案递交给调解人。卡塔尔埃米尔谢赫·塔米姆·本·哈马德·阿勒萨尼和Trump周四通电话，回顾了美伊磋商的结果，这些磋商在谈判渠道内提出的谅解方面取得了进展。阿拉伯电视台称伊朗外长将于周六抵达巴基斯坦。",
+          "important": false
+        },
+        {
+          "actor": "IRGC",
+          "actor_type": "Foreign-Gov",
+          "text": "IRGC称连夜导弹无人机袭击美军5基地，威胁能源基础设施",
+          "details": "伊朗伊斯兰革命卫队宣布连夜发动两波大规模弹道导弹和无人机袭击，摧毁了五个美军基地内的数十个军事目标。IRGC威胁称一旦发生大规模袭击，中东能源基础设施将受到威胁，发出信号：石油基础设施可能成为更广泛冲突的目标。伊朗警告若美国攻击或试图占领哈尔克岛（伊朗重要石油出口枢纽），将予以'毁灭性的、痛苦的'回应。伊朗正在哈尔格岛部署防空系统。",
+          "important": false
+        },
+        {
+          "actor": "CNN/美方",
+          "actor_type": "新闻",
+          "text": "CNN：夺取Kharg岛为'最终方案'但风险极高已搁置",
+          "details": "CNN报道Trump高级官员已将夺取哈尔格岛或摧毁其能源基础设施作为对伊朗的潜在'最终方案'，该计划被认为风险极高，此前已被搁置。目前华盛顿主要采取空袭策略，避免直接打击该岛的关键能源设施。以色列官员表示美国已要求以色列暂时不要对伊朗进行独立打击，华盛顿更倾向于在谈判同时自行处理任何紧急军事反应。",
+          "important": false
+        },
+        {
+          "actor": "伊朗国际新闻网",
+          "actor_type": "新闻",
+          "text": "伊朗新打击目标：星链地面站和SpaceX股东相关公司",
+          "details": "伊朗国际新闻网报道：星链在以色列、卡塔尔、约旦、阿联酋和阿曼的地面站，以及SpaceX股东旗下的两家公司'Al-Fazabi'和'Exchange'的基础设施，均成为伊朗的新打击目标。",
+          "important": false
+        },
+        {
+          "actor": "Gregg Carlstrom",
+          "actor_type": "KOL",
+          "text": "评论：美国信誉恶化，总统宣布协议后所有人都等Tasnim确认",
+          "details": "Gregg Carlstrom：美国的信誉已经恶化到如此地步：总统宣布一项外交协议后，几乎所有人都会说'让我们等待塔斯尼姆通讯社的确认'。",
+          "important": false
+        },
+        {
+          "actor": "@ghaderi62",
+          "actor_type": "KOL",
+          "text": "KOL：伊朗签约需协议全文被接受+资金转移先决条件",
+          "details": "@ghaderi62：Trump已接受Iran的最终文本。关键在于，只有在以下两个条件满足的情况下，伊朗高层官员才会签署该协议：第一，协议全文被接受；第二，包括资金最终转移在内的先决条件得到满足。",
+          "important": false
+        },
+        {
+          "actor": "@gilicohen10",
+          "actor_type": "KOL",
+          "text": "本周以色列空袭伊朗时，一地区国家封锁其领空",
+          "details": "@gilicohen10：本周以色列空袭伊朗期间，一个地区国家阻止以色列使用其领空。以色列原本期望获得与以往冲突中相同的合作，但一位消息人士告诉我，此次突然的封锁传递了一个'明确的外交信号'，表明地区局势正在发生变化。",
+          "important": false
+        },
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "KOL：伊朗有动机拖延签约，市场已price-in协议",
+          "details": "short bear：这里达成的协议是伊朗交给美国的。鉴于如果美国决定试图制定新条款，市场反弹/好转会抵消伊朗可能拥有的许多筹码，因此伊朗有动机在协议签署前一直拒绝履行该协议，不做出任何决定就成了最接近达成共识的方式。即使美伊之间有军事打击和紧张升级，股市、风险资产并没有出现恐慌式下跌，而是缓慢向上磨（grinding higher）。这说明市场可能早就对'最终会达成协议'有预期，Trump或美方多次宣布'协议快成了'，每次到截止日前做0DTE期权博弈方向的人都赚到了，这种'协议新闻流'已经形成了一种可重复的交易模式。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Axios",
+        "CNN",
+        "Tasnim",
+        "Fars",
+        "N12",
+        "阿拉伯电视台",
+        "伊朗国际"
+      ],
+      "date": "2026-06-15",
+      "image_urls": []
+    },
+    {
+      "id": "oil-forecasts-gs-ubs-2026",
+      "topic": "卖方油价预测",
+      "topic_tag": "oil",
+      "title": "GS/UBS/EIA油价预测：短期紧张但远期下修",
+      "summary": "GS维持2026Q4 Brent $90不变，下调2027均价至$80；UBS因海峡中断上调2026 Brent至$93、2027至$80，称夏季可能突破$120，若中断延至7月后或升$150+。EIA认为海峡危机峰值已过，12月Brent$88/WTI$81。GS民调显示机构对油价为史上最看空。",
+      "bullets": [
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "UBS上调2026 Brent至$93，夏季或破$120",
+          "details": "UBS因霍尔木兹海峡供应中断持续，将2026年布伦特原油均价预测上调$7/桶至$93/桶，2027年上调$5至$80/桶。预计库存将在夏季接近临界水平，推动价格短期突破$120/桶。若中断延长至7月后，油价可能升至$150/桶以上，中国库存吸收部分短缺，但美国库存下降迅猛，市场紧张局势加剧。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS维持2026Q4 Brent $90，下调2027至$80",
+          "details": "GS维持2026Q4 Brent预测不变$90/桶。下调2027年全年Brent均价$5至$80/桶。实际市场赤字小于此前预期：Q2全球油市赤字仅5-6 mb/d。中东liquids产量虽损失14-15 mb/d，但被全球需求破坏约5 mb/d（主要在中国、中东及石化原料）、战前已存在3 mb/d过剩、非中东地区产量上调抵消。情景分析：若7月底恢复+需求破坏更持久+供给更强，看$70；不利情景海湾出口10月底才恢复正常，Brent~$110；霍尔木兹海峡2027年全年基本中断，27年看$140。",
+          "important": false
+        },
+        {
+          "actor": "EIA",
+          "actor_type": "US-Executive",
+          "text": "EIA：海峡危机峰值已过，12月Brent$88/WTI$81",
+          "details": "EIA认为霍尔木兹危机的油价峰值已经过去，需求破坏和供应抵消将导致未来价格走低，12月Brent$88、WTI$81。图表显示Brent从Apr 2026 $120峰值回落至年末$70左右，WTI从$97回落至$76。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs民调",
+          "actor_type": "Analyst",
+          "text": "GS民调：机构对油价为调查史上最看空",
+          "details": "Goldman's poll suggests institutional investors are the most bearish on oil in the survey's history。Marquee QuickPoll调查（6月1-3日，839名受访者）显示2026年极度看空情绪，负面占比达-60%范围，看多极小。",
+          "important": false
+        },
+        {
+          "actor": "@tleilax___",
+          "actor_type": "KOL",
+          "text": "KOL：海湾+伊朗净顺差较月初增2.5M b/d，美国净顺差战前水平",
+          "details": "@tleilax___：与月初相比，阿曼、阿联酋、伊拉克、伊朗及其走私伙伴的净顺差增加了2.5M b/d。海湾国家的出口增长被伊朗出口下降所抵消。但美国净出口持续放缓。基本上，如果扣除SPR释放的影响，美国的净顺差将恢复到战前水平。一些molecules正在进入市场（主要在印度，很快也将进入中国），但缺口仍然创历史新高。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "USO",
+        "XLE"
+      ],
+      "image_indexes": [
+        1,
+        2,
+        4
+      ],
+      "importance": 3,
+      "sources": [
+        "Goldman Sachs",
+        "UBS",
+        "EIA"
+      ],
+      "date": "2026-06-15",
+      "image_urls": [
+        "/uploads/2026-06-15/3cf0cc48b8ed.png",
+        "/uploads/2026-06-15/af5bfeeb6556.png",
+        "/uploads/2026-06-15/4d33b0da13cb.jpg"
+      ]
+    },
+    {
+      "id": "pboc-rates-2026",
+      "topic": "中国央行",
+      "topic_tag": "rates",
+      "title": "中国央行：避免市场利率过度下行",
+      "summary": "中国央行要求避免市场利率过度下行，不认可此前DR001贴地板运行的状态。",
+      "bullets": [
+        {
+          "actor": "中国央行",
+          "actor_type": "Central-Bank",
+          "text": "央行要求避免市场利率过度下行",
+          "details": "中国央行要求避免市场利率过度下行；央行并不认可之前DR001贴着地板运行的状态。",
+          "important": true
+        },
+        {
+          "actor": "市场",
+          "actor_type": "Analyst",
+          "text": "解读：DR001贴地板状态被否，资金面或边际收敛",
+          "details": "市场解读为央行不希望资金利率持续过低，对DR001贴零下限运行的状态明确表态不认可，资金面或迎来边际收敛。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-15",
+      "image_urls": []
+    },
+    {
+      "id": "spacex-ipo-2026",
+      "topic": "SpaceX IPO",
+      "topic_tag": "macro-other",
+      "title": "SpaceX IPO零售订单超$70B",
+      "summary": "SpaceX的IPO目前仅零售订单就已超过$70B，仅4-5%股份公开流通，为剩余非上市股份创造市场隐含估值，可用作抵押品。",
+      "bullets": [
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "SpaceX IPO零售订单已超$70B",
+          "details": "SpaceX的IPO目前仅零售订单就已超过70B。",
+          "important": true
+        },
+        {
+          "actor": "KOL",
+          "actor_type": "KOL",
+          "text": "KOL：仅4-5%股份公开流通为非上市股份创造隐含估值",
+          "details": "SPCX只有约4%-5%的股份（即IPO发行股份）会在公开市场交易。然后，这小部分上市流通股可以为剩余的非上市股份创造市场隐含估值，使其可以用作抵押品和净值参考点。炒作和类似Twitter收购案的融资方式一样，公司高层的大多数人都接到电话，询问他们是否想要获得资金分配。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-06-15",
+      "image_urls": []
+    },
+    {
+      "id": "kol-market-views-2026",
+      "topic": "KOL市场观点",
+      "topic_tag": "macro-other",
+      "title": "KOL市场观点：黄金、韩国、反向ETF、AI Token",
+      "summary": "Ripster称市场等Taco；Off_The_Tape对黄金高股票beta相关性存疑；Warren Pies指反向ETF占投机交易量42%为历史回调止跌区；Pentosh1认为韩国和MU是局部高点；图0显示韩国ETF Put OI飙升。AI层面用户Token单位溢价下降但总需求未见顶。",
+      "bullets": [
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "反向ETF占投机交易量42%，历史回调止跌位",
+          "details": "Warren Pies：截至今日，反向ETF交易量已占投机总交易量的42%。如果没有更广泛的负面催化剂，历史上回调通常会止步于此。S&P 500 vs Speculative Short ETF Volume图表显示SPEC SHORT ETF POSITIONS AT 42%为历史多数回调止跌位。",
+          "important": true
+        },
+        {
+          "actor": "Ripster",
+          "actor_type": "KOL",
+          "text": "Ripster：市场在坏消息前稳定，等Taco",
+          "details": "Ripster：市场在坏消息发布前保持稳定，因为在大量波动中承担风险可能是在等待Taco。",
+          "important": false
+        },
+        {
+          "actor": "@Off_The_Tape",
+          "actor_type": "KOL",
+          "text": "对黄金走势持怀疑：与股票beta相关性高",
+          "details": "@Off_The_Tape：我们一直在强调黄金的走势出于各种原因（仓位、资金流动），但由于其与股票贝塔系数的高度相关性，我们一直持怀疑态度，希望看到这种相关性脱离，以便在此进行真正的押注。此外，金价回调/跌破200日均线也可能吸引了一些需要降低风险的弱势持仓者。",
+          "important": false
+        },
+        {
+          "actor": "@Pentosh1",
+          "actor_type": "KOL",
+          "text": "Pentosh1：韩国和MU都是局部高点",
+          "details": "@Pentosh1：目前看韩国和MU都是局部高点，追涨杀跌转向逢低买入的决定是正确的。我会尽快卖出更多仓位，但这算是一个好的开始。Bloomberg数据显示iShares MSCI South Korea ETF Put OI于2026年3月飙升至0.65M+，远超Call OI 0.4M，价格升至220附近。",
+          "important": false
+        },
+        {
+          "actor": "宏观边际",
+          "actor_type": "KOL",
+          "text": "AI Token单位溢价下降但总需求远未见顶",
+          "details": "用户愿意为Token付费的边际意愿(单价)在降低，更准确说是单位溢价，不代表总需求。总需求远远没有见顶，反而往往单位溢价下降，总需求将伴随门槛降低、渗透率提升，迎来更快增长。所以即使是价格战，也应是抢市占率的良性价格战，而不是需求见顶的内卷式价格战。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "EWY",
+        "MU",
+        "GLD"
+      ],
+      "image_indexes": [
+        0,
+        3
+      ],
+      "importance": 2,
+      "sources": [
+        "Bloomberg",
+        "3Fourteen Research"
+      ],
+      "date": "2026-06-15",
+      "image_urls": [
+        "/uploads/2026-06-15/7083bb7b5339.png",
+        "/uploads/2026-06-15/e358aa10b88a.jpg"
+      ]
+    },
+    {
+      "id": "gs-corporate-equity-demand-2026",
+      "topic": "GS美股供需",
+      "topic_tag": "earnings",
+      "title": "GS：2026年公司股票需求超供给",
+      "summary": "GS预测2026年公司股票需求（gross buybacks）将超过供给（issuance + 锁定到期）。净需求历史在-3%至+3%间波动，2020-2025维持+2%-+2.5%。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS预测2026公司股票需求超供给",
+          "details": "GS Exhibit 3：Corporate equity demand should exceed corporate equity supply this year。Annual US equity issuance and corporate demand as % of Russell 3000 market cap。Gross buybacks占1-5%，issuance与锁定到期合计为负。净需求2020-2025约+2%至+2.5%，2026 GS forecast继续看正。",
+          "important": true
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "回购仍是美股最大边际买家",
+          "details": "GS分析显示gross buybacks为最大的需求来源，issuance和lockup expiry为供给端拖累，net demand多年维持正区间，支持美股结构性买盘。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY"
+      ],
+      "image_indexes": [
+        5
+      ],
+      "importance": 1,
+      "sources": [
+        "Goldman Sachs"
+      ],
+      "date": "2026-06-15",
+      "image_urls": [
+        "/uploads/2026-06-15/bb5bbb85f855.jpg"
+      ]
+    }
+  ]
+}

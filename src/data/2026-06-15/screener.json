@@ -1,0 +1,101 @@
+{
+  "generated_at": "2026-06-16T00:09:41+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-06-15",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12333,
+    "partial_pass": 11,
+    "with_carryover": 17,
+    "after_full_check": 6
+  },
+  "rows": [
+    {
+      "tk": "SPCX",
+      "nm": "Space Exploration Technologies Corp. Class A Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 19.6,
+      "w1": null,
+      "market_cap_bn": 2519.99,
+      "dollar_vol_bn": 49.25,
+      "w1_avg_dollar_vol_bn": 66.64,
+      "reason": "",
+      "main_business": "研发制造可重复使用火箭，提供商业及政府航天发射服务"
+    },
+    {
+      "tk": "WDC",
+      "nm": "Western Digital Corp.",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 16.1,
+      "w1": 24.0,
+      "market_cap_bn": 225.26,
+      "dollar_vol_bn": 6.22,
+      "w1_avg_dollar_vol_bn": 3.96,
+      "reason": "",
+      "main_business": "设计制造硬盘驱动器，主要服务于数据中心存储市场"
+    },
+    {
+      "tk": "TNGX",
+      "nm": "Tango Therapeutics, Inc.",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": 6.3,
+      "w1": 6.4,
+      "market_cap_bn": 4.76,
+      "dollar_vol_bn": 0.11,
+      "w1_avg_dollar_vol_bn": 0.22,
+      "reason": "",
+      "main_business": "专注发现新型药物靶点，开发精准肿瘤治疗药物"
+    },
+    {
+      "tk": "FLY",
+      "nm": "Firefly Aerospace Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": 4.7,
+      "w1": -7.8,
+      "market_cap_bn": 5.48,
+      "dollar_vol_bn": 0.26,
+      "w1_avg_dollar_vol_bn": 0.3,
+      "reason": "",
+      "main_business": "研发火箭发射载具与航天器系统的太空国防科技公司"
+    },
+    {
+      "tk": "ROKU",
+      "nm": "Roku, Inc. Class A Common Stock",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": -1.9,
+      "w1": 14.0,
+      "market_cap_bn": 20.81,
+      "dollar_vol_bn": 3.9,
+      "w1_avg_dollar_vol_bn": 1.41,
+      "reason": "",
+      "main_business": "提供流媒体播放设备及操作系统，连接用户与电视内容平台"
+    },
+    {
+      "tk": "LUNR",
+      "nm": "Intuitive Machines, Inc. Class A Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -3.2,
+      "w1": -13.4,
+      "market_cap_bn": 4.13,
+      "dollar_vol_bn": 0.38,
+      "w1_avg_dollar_vol_bn": 0.45,
+      "reason": "",
+      "main_business": "设计建造月球着陆器及深空探测航天器与服务"
+    }
+  ]
+}
