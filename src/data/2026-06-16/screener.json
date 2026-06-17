@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-06-17T00:08:28+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-06-16",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12361,
+    "partial_pass": 4,
+    "with_carryover": 10,
+    "after_full_check": 4
+  },
+  "rows": [
+    {
+      "tk": "SPCX",
+      "nm": "Space Exploration Technologies Corp. Class A Common Stock",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": 4.8,
+      "w1": null,
+      "market_cap_bn": 2641.73,
+      "dollar_vol_bn": 64.99,
+      "w1_avg_dollar_vol_bn": 66.12,
+      "reason": "",
+      "main_business": "研发制造可重复使用火箭，提供商业及政府航天发射服务"
+    },
+    {
+      "tk": "WDC",
+      "nm": "Western Digital Corp.",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": 4.2,
+      "w1": 31.6,
+      "market_cap_bn": 234.76,
+      "dollar_vol_bn": 10.8,
+      "w1_avg_dollar_vol_bn": 5.37,
+      "reason": "",
+      "main_business": "设计制造硬盘驱动器，主要服务于数据中心存储市场"
+    },
+    {
+      "tk": "ROKU",
+      "nm": "Roku, Inc. Class A Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -2.1,
+      "w1": 14.1,
+      "market_cap_bn": 20.37,
+      "dollar_vol_bn": 2.1,
+      "w1_avg_dollar_vol_bn": 1.73,
+      "reason": "",
+      "main_business": "提供流媒体播放设备及操作系统，连接用户与电视内容平台"
+    },
+    {
+      "tk": "TNGX",
+      "nm": "Tango Therapeutics, Inc.",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -2.2,
+      "w1": 1.9,
+      "market_cap_bn": 4.65,
+      "dollar_vol_bn": 0.1,
+      "w1_avg_dollar_vol_bn": 0.2,
+      "reason": "",
+      "main_business": "专注发现新型药物靶点，开发精准肿瘤治疗药物"
+    }
+  ]
+}

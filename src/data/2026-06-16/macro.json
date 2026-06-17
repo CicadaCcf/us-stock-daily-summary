@@ -1,0 +1,503 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-deal-jun17",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊框架协议：海峡重开、核问题留待60天谈判",
+      "summary": "Trump宣布与伊朗达成MOU框架协议，已电子签署，正式签署仪式定6/20日内瓦举行。核心包括重开霍尔木兹海峡、停火60天、美海军解封伊朗港口，核议题及资金解冻推迟至后续60天谈判。美伊对资金解冻、制裁relief表述存明显分歧，多家媒体与情报部门质疑协议可持续性，以色列保留对真主党行动权。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "宣布美伊deal达成，霍尔木兹永久免费开放，伊朗承诺永不拥核",
+          "details": "Trump称deal已完成，霍尔木兹海峡将永久免收费开放；称伊朗同意永不拥有核武器（包括不采购或尝试购买）。接受NYT采访时表示，若60天内核问题谈不拢，将重启军事行动或成为中东守护者。强调伊朗已同意永远不拥有核武器，美国向伊朗支付300m的说法是假新闻。称伊朗协议公平、好交易；从心理上希望获得伊朗的浓缩铀；文本将在周五后不久公布。",
+          "important": true
+        },
+        {
+          "actor": "Vance",
+          "actor_type": "US-Executive",
+          "text": "副总统：协议基于两步核查，资金/制裁relief与履约挂钩",
+          "details": "Vance称协议从根本上建立在两步核查程序之上，两大核心支柱是重开霍尔木兹海峡及确保伊朗永不发展核武器，将分两阶段核实伊朗履约。强调协议中没有任何条款规定向伊朗提供24B，也没有任何制裁relief，他们只有履行协议义务后才能获得这些好处；伊朗试图通过谈论获得被冻结资金来兜售幻觉。被问及伊朗称将获得300B重建基金时表示，只要履行义务，这些是可以接触到的。",
+          "important": false
+        },
+        {
+          "actor": "伊朗外交部",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗副外长：解冻数十亿美元是进入60天谈判前提",
+          "details": "美伊达成初步框架协议（MOU/伊斯兰堡谅解备忘录），Trump、Vance与伊朗Ghalibaf已电子签署，正式签署仪式定6/20在日内瓦举行。伊朗副外长加里巴巴迪称释放数十亿冻结资金是进入60天谈判的前提条件（还包括终止所有制裁及相关联合国/IAEA决议）；美方明确表示\"pay for performance\"，资金不会在伊朗履约前释放。伊朗外长巴盖伊称美国将承诺允许伊朗动用其被冻结资金但不会直接提供资金；德黑兰将与阿曼等国协调确保霍尔木兹海峡安全通行。",
+          "important": false
+        },
+        {
+          "actor": "FT",
+          "actor_type": "新闻",
+          "text": "FT：美方讨论300B重建基金，由私企出资、与履约挂钩",
+          "details": "FT援引一名美国高级官员表示，华盛顿已讨论制裁豁免及\"一个300B的重建基金\"的可能性，相关激励与伊朗遵守谅解备忘录的\"履约表现\"直接挂钩，该基金将由有意进入伊朗市场的私营企业出资；制裁relief并不与特定行为直接挂钩，而是与他们总体上的适当行为相关联，更关注核计划；伊朗协议包括在达成最终协议后讨论减少军事力量。TASNIM报道称美军必须在最终协议达成后30天内撤离伊朗附近地区。",
+          "important": false
+        },
+        {
+          "actor": "Netanyahu",
+          "actor_type": "Foreign-Gov",
+          "text": "以色列：撤军非协议条件，保留对真主党自卫还击权",
+          "details": "以色列在黎巴嫩问题上表示撤军不是协议条件，这是停火协议，不是单向停火；如果伊朗无法控制真主党并攻击以色列，以色列有权自卫回应。内塔尼亚胡称将在占领的各个\"安全区\"中停留直到必要为止；并没有说本次行动目标之一是推翻伊朗政权；强调毕生使命是反对伊朗核计划，无论有没有协议，伊朗都不会拥有核武器，可以和美国人拉长绳子但绝不能撕断。以色列继续在黎巴嫩针对真主党的行动未因协议停止。",
+          "important": false
+        },
+        {
+          "actor": "伊朗官方媒体",
+          "actor_type": "Foreign-Gov",
+          "text": "海峡口径分歧：60天后或收服务费；克什姆岛南三起爆炸",
+          "details": "伊朗口径下将是60天海峡免费通行，60天后收取服务费。霍尔木兹海峡的克什姆岛南部发生了三起爆炸，伊朗官方媒体称爆炸可能与交通管理有关。",
+          "important": false
+        },
+        {
+          "actor": "WSJ社论",
+          "actor_type": "新闻",
+          "text": "WSJ社论：协议本质是战略性撤退，给伊朗喘息空间",
+          "details": "WSJ社论批评Trump与伊朗达成的停火协议本质上是一次战略性撤退，远未达到战争目标，反而过早给了伊朗喘息空间和经济relief。",
+          "important": false
+        },
+        {
+          "actor": "FT/Axios",
+          "actor_type": "新闻",
+          "text": "FT：油轮船东数周内不会复航海峡；CIA对伊朗让步存疑",
+          "details": "FT报道全球最大油轮运营商负责人警告称，船东们在确信美伊协议\"实质性\"之前，数周内不会恢复通过霍尔木兹海峡的航行。AXIOS报道，中央情报局局长曾告诉Trump，美国情报部门对伊朗是否愿意在任何最终协议中做出美国所寻求的核让步仍持怀疑态度。",
+          "important": false
+        },
+        {
+          "actor": "Axios综合",
+          "actor_type": "新闻",
+          "text": "Axios列出协议8大未解疑问：海峡费用、资金、生效时间等",
+          "details": "Axios文章列出8个核心疑问：1)海峡是否完全开放、伊朗是否设置限制或收费（美国称30天恢复正常航运，伊朗可能60天后收安全/环保费）；2)资金与制裁relief（美坚持pay for performance，伊朗称已获数十亿）；3)以色列是否真正遵守黎巴嫩停火（以色列不满认为协议束缚行动自由）；4)协议生效时间（Trump称立即生效，细节显示周五正式签署）；5)未来60天核谈判能否成功（推迟最难议题）；6)MOU文本是否公开（预计24-48小时或周五后公布）；7)核谈失败美国是否会重启武力（保留所有选项，未明确撤军时间表）；8)双方叙事冲突（信息高度不对称）。",
+          "important": false
+        },
+        {
+          "actor": "@Eyalo365",
+          "actor_type": "KOL",
+          "text": "KOL：IRGC对条款满意，Vahidi指示\"先拿钱\"",
+          "details": "@Eyalo365称IRGC对条款内容感到满意，Ahmad Vahidi的明确指示是\"先拿钱\"。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "Axios",
+        "WSJ",
+        "FT",
+        "NYT",
+        "TASNIM"
+      ],
+      "date": "2026-06-16",
+      "image_urls": [
+        "/uploads/2026-06-16/b3f943cb143d.png"
+      ]
+    },
+    {
+      "id": "iran-war-cross-asset-perf-jun17",
+      "topic": "伊朗战以来跨资产表现",
+      "topic_tag": "macro-other",
+      "title": "DB：伊朗战以来费城半导体+65%领涨，黄金白银重挫",
+      "summary": "Deutsche Bank汇总自伊朗战争以来美元计价总回报：费城半导体指数+65%居首，WTI油+27%、KOSPI+24%、Brent+20%、纳指+14%；黄金-20%、白银-27%。10年期收益率普遍上行，英国+60bps、美国+54bps领先。",
+      "bullets": [
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "费城半导体+65%领涨，黄金-20%/白银-27%垫底",
+          "details": "Figure 1: USD Total Return Performance since Iran war began (up to Friday's close)。费城半导体指数+65%、WTI油+27%、KOSPI+24%、Brent+20%、NASDAQ+14%、Nikkei+10%、FTSE-MIB+9%、SPX+8%、MSCI EM Equities+7%、Copper+7%、Magnificent 7+6%；负端Hang Seng-6%、Gold-20%、Silver-27%。数据来源Bloomberg Finance LP, Deutsche Bank。",
+          "important": true
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "10年期收益率普涨：英国+60bps、美国+54bps居首",
+          "details": "Figure 2: Change in 10yr yields (bps) since Iran war began：UK +60、US +54、France +53、Japan +51、Italy +45、Greece +41、Netherlands +40、Spain +36、Germany +35、Canada +27、Australia +16。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2,
+        3
+      ],
+      "importance": 2,
+      "sources": [
+        "Deutsche Bank",
+        "Bloomberg"
+      ],
+      "date": "2026-06-16",
+      "image_urls": [
+        "/uploads/2026-06-16/66831d61dd50.png",
+        "/uploads/2026-06-16/d876473c81eb.png"
+      ]
+    },
+    {
+      "id": "bofa-fms-jun26",
+      "topic": "BofA基金经理调查",
+      "topic_tag": "macro-other",
+      "title": "BofA FMS：情绪小幅回落，40%预期Fed加息至少一次",
+      "summary": "BofA 6月全球基金经理调查显示投资者仍整体看多但比5月回落；现金水平从3.9%升至4.1%（仍历史低位）；股票净超配从50%降至38%。40%预期未来12个月Fed至少加息一次（5月仅16%），55%预期Warsh首次FOMC按兵不动并偏鹰。最大尾部风险\"第二波通胀\"占34%，半导体被80%视为最拥挤交易。Brent年底价位预期集中$80-90（41%）。",
+      "bullets": [
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "40%预期Fed未来12月加息至少一次，较5月16%大幅跳升",
+          "details": "Chart 8：40% expect the Fed to hike rates at least once in the next year。Jun-26分布：No change 28%、1 hike 26%、1 cut 15%、2 cuts 13%、2 hikes 12%、More than 2 hikes 2%、More than 2 cuts 1%。预期降息的比例大幅下降。",
+          "important": true
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "现金水平升至4.1%，股票净超配从50%降至38%",
+          "details": "Chart 2/3/4：投资者整体仍看多但比5月略有回落；现金水平从极低3.9%升至4.1%（仍处历史低位）；股票配置从5月高点回落，但仍维持净超配（净超配38%，此前50%）。情绪综合指标6月较5月Tax cuts高点回落。",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "55%预期Warsh首次FOMC按兵不动并偏鹰",
+          "details": "Chart 9：55% of FMS investors expect Warsh to hold with a hawkish tilt at first FOMC（6/17）；33%预期按兵不动+鸽派表述。",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "经济展望：47%软着陆、40%无着陆、5%硬着陆",
+          "details": "Chart 5/6：Net %预期经济更强回落；47% say soft landing, 40% say no landing, 5% say hard landing。Chart 7：短端利率预期上行追赶通胀预期。",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "Brent年底预期：41%落$80-90，10%预期>$100",
+          "details": "Chart 10：FMS investors expect Brent oil to trade at $86/bbl by end '26。Jun-26分布：$80-90 41%、$70-80 22%、$90-100 17%、>$100 10%、$60-70 3%、<$60 1%。",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "最大尾部风险\"第二波通胀\"34%；半导体80%最拥挤",
+          "details": "最大尾部风险仍是\"第二波通胀\"（34%）；全球半导体被80%的受访者认为是当前最拥挤的交易。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        5,
+        6,
+        7
+      ],
+      "importance": 2,
+      "sources": [
+        "BofA Global Fund Manager Survey"
+      ],
+      "date": "2026-06-16",
+      "image_urls": [
+        "/uploads/2026-06-16/bbd061bde299.png",
+        "/uploads/2026-06-16/7b2644af9667.png"
+      ]
+    },
+    {
+      "id": "ai-enterprise-arr-coatue-jun26",
+      "topic": "AI企业ARR",
+      "topic_tag": "ai",
+      "title": "Coatue：AI Labs季度净新增ARR将超越公共软件与超大规模云",
+      "summary": "Coatue预测Q2 2026 AI Labs季度净新增ARR将达45B，超越Hyperscalers的38B及Public Software的19B，成为企业技术新领导者。Q4 2025到Q1 2026 AI Labs ARR从7B暴增至34B。",
+      "bullets": [
+        {
+          "actor": "Coatue",
+          "actor_type": "Analyst",
+          "text": "Q2 2026E AI Labs净新增ARR 45B超Hyperscalers 38B",
+          "details": "Quarterly net new ARR：Q4 2025 Public Software 39B / Hyperscalers 32B / AI Labs 7B；Q1 2026 51B / 28B / 34B；Q2 2026E 19B / 38B / 45B。Coatue opinion and analysis as of June 2026。AI Labs figures为Coatue基于公开数据估算。称AI Labs为\"A new leader in enterprise technology?\"",
+          "important": true
+        },
+        {
+          "actor": "FT",
+          "actor_type": "新闻",
+          "text": "FT：OpenAI 2025年净亏损暴增8倍至研发/营销支出超34B",
+          "details": "FT报道OpenAI的净亏损在2025年花费超过34B用于研发、市场营销及其他成本后激增了8倍。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MSFT",
+        "GOOGL",
+        "AMZN",
+        "META"
+      ],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [
+        "Coatue",
+        "FT"
+      ],
+      "date": "2026-06-16",
+      "image_urls": [
+        "/uploads/2026-06-16/4c284c39d349.png"
+      ]
+    },
+    {
+      "id": "fed-warsh-fomc-jun17",
+      "topic": "Fed/Warsh首次FOMC",
+      "topic_tag": "fed",
+      "title": "市场押注Warsh首次FOMC偏鹰按兵不动",
+      "summary": "Kevin Warsh 6/17首次FOMC会议在即，55% FMS投资者预期他将按兵不动并发出鹰派信息。多位KOL预计他实际语气或不如市场预期鹰派，可能引发偏鸽派的修正。",
+      "bullets": [
+        {
+          "actor": "Eran",
+          "actor_type": "KOL",
+          "text": "Eran：Warsh首次FOMC语气会比平时少一些鹰派",
+          "details": "Eran称Warsh首次FOMC，我觉得语气会比平时少一些鹰派。",
+          "important": true
+        },
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "Pies：Warsh需在批评Fed同时主张宽松，集中在边缘议题",
+          "details": "Warren Pies称Warsh不得不费尽心思，他必须表现出对Fed的深刻批评，同时主张削减或放宽政策，这意味着他的批评必须集中在边缘——资产负债表、点阵图等——但他必须让人信服这些调整实际上能解决问题（比如通胀）。自伊朗战争爆发以来，12月27日 SOFR隐含利率出现了100bps的调整——从75bps的cut降至25bps的hike，猜测至少会看到一半的relief。",
+          "important": false
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "Joseph：油价暴跌给Fed掩护，可look through能源通胀",
+          "details": "Joseph称油价暴跌应能为Fed提供足够的掩护，look through能源驱动的通胀。",
+          "important": false
+        },
+        {
+          "actor": "@DualityResearch",
+          "actor_type": "KOL",
+          "text": "DualityResearch：债市过鹰定价将回摆，利好风险资产",
+          "details": "@DualityResearch称债市过鹰的定价将会回摆，预计沃什将对这一观点作出反驳，这将缓解一些鹰派市场的定价。这反过来应当为风险资产带来顺风。",
+          "important": false
+        },
+        {
+          "actor": "@Areskapitalon",
+          "actor_type": "KOL",
+          "text": "Areskapitalon：FOMC将形成通胀化债效果，美元贬值",
+          "details": "@Areskapitalon称周三FOMC大概率不会导致\"信用回归\"，而是会形成通胀化债的效果，可能压低美元指数和实际利率，美元重新进入贬值轨道，股市可能出现一波爆冲。但长期代价是通胀将更难控制。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-16",
+      "image_urls": []
+    },
+    {
+      "id": "china-rate-reform-jun17",
+      "topic": "中国货币政策/陆家嘴论坛",
+      "topic_tag": "rates",
+      "title": "传陆家嘴论坛或推1.3%隔夜政策利率",
+      "summary": "市场传言陆家嘴论坛将推出约1.3%的隔夜政策利率，定价区间1.3%-1.35%，可能取代7天OMO；但有观点认为单独下调政策利率与潘功胜利率体系改革思路相悖，概率不大。",
+      "bullets": [
+        {
+          "actor": "市场传言",
+          "actor_type": "Unknown",
+          "text": "传陆家嘴论坛推1.3%隔夜政策利率，或替代7天OMO",
+          "details": "传言陆家嘴论坛推出约1.3%的隔夜政策利率，业界普遍认可的定价区间为1.3%-1.35%，并讨论其可能取代7天OMO的作用。",
+          "important": true
+        },
+        {
+          "actor": "市场分析",
+          "actor_type": "Analyst",
+          "text": "分析：单独下调政策利率与潘功胜改革思路相悖",
+          "details": "自从潘功胜搞利率体系改革以来，就没有先调市场基准利率，再调政策利率的案例。这会和强化政策利率地位的要求相悖。所以这次也不会单独下调。当然一种情况是，本周潘在陆家嘴论坛上宣布下调政策利率，下周LPR就顺理成章下调。个人认为这种情况不大可能。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-06-16",
+      "image_urls": []
+    },
+    {
+      "id": "rba-bullock-jun17",
+      "topic": "RBA",
+      "topic_tag": "fed",
+      "title": "RBA行长Bullock偏鹰：通胀仍高，不排除再紧缩",
+      "summary": "澳洲联储行长Bullock MPM讲话偏鹰派，不排除必要时进一步紧缩，认为通胀依然过高，欢迎中东和平协议但认为解决可能需要很长时间。",
+      "bullets": [
+        {
+          "actor": "Bullock",
+          "actor_type": "Central-Bank",
+          "text": "RBA Bullock偏鹰，不排除进一步紧缩",
+          "details": "RBA行长Bullock MPM发言偏鹰派，不排除必要时进一步紧缩，通胀依然过高，中东和平协议的报道令人欢迎，但解决可能需要很长时间。",
+          "important": true
+        },
+        {
+          "actor": "宏观边际",
+          "actor_type": "Analyst",
+          "text": "MS：CPI对FX存阈值效应，3%与2%为分界线",
+          "details": "MS Andrew Watrous研究：CPI对外汇市场的影响具有显著的\"阈值效应\"，以3%和2%为关键分界线。当headline CPI ≥3%时，CPI意外数据会显著推动前端利率变动；而在2%-3%区间内，只有股市反应显著。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "Morgan Stanley"
+      ],
+      "date": "2026-06-16",
+      "image_urls": []
+    },
+    {
+      "id": "sell-side-views-jun17",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "卖方：GS下调油价、JPM追踪资金流入半导体、MS警示杠杆",
+      "summary": "GS将2026Q4 Brent从$90下调至$80、2027均价$80→$75，假设波斯湾出口7月底恢复战前水平。JPM Flow显示上周ETF/期货受美伊乐观情绪推动净买股票与利率资产，半导体ETF流入超$4B。MS警示AXW期货+140bp、交易商股权回购敞口创$223B新高，杠杆集中科技股，维持SFRZ6M7曲线平坦化-10bp目标。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS下调2026Q4 Brent预测$90→$80，假设7月底波斯湾复产",
+          "details": "GS Oil假设波斯湾出口将在7月底恢复到战前水平（此前预期为8月底）。将2026年第四季度布伦特原油预测下调$90→$80，并将2027年平均预测下调$80→$75。",
+          "important": true
+        },
+        {
+          "actor": "JPMorgan",
+          "actor_type": "Analyst",
+          "text": "JPM Flow：半导体ETF上周流入超$4B",
+          "details": "JPM Flow报告：上周受伊朗协议达成的乐观情绪影响，ETF和期货市场均出现对股票和利率资产的净买入。科技股特别是半导体和太空主题。半导体ETF吸引了超过$4B资金流入，同时内存（DRAM）和太空（NASA、ARKX）相关ETF也表现出强劲需求。",
+          "important": false
+        },
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "MS：AXW期货+140bp、交易商股权回购敞口创$223B新高",
+          "details": "MS Rates警示美股杠杆风险：AXW期货飙升至+140bp，交易商股权回购敞口创$223B新高，显示边际买家高度依赖杠杆且集中于科技股。若融资成本抑制杠杆，可能引发去杠杆回调。策略上维持SFRZ6M7曲线平坦化交易，目标-10bp，因股市疲软将削弱美联储加息预期。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SMH",
+        "SOXX"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs",
+        "JPMorgan",
+        "Morgan Stanley"
+      ],
+      "date": "2026-06-16",
+      "image_urls": []
+    },
+    {
+      "id": "kol-market-views-jun17",
+      "topic": "KOL市场观点",
+      "topic_tag": "macro-other",
+      "title": "KOL：杠杆ETF撑盘、回购ZIRP化、SPX 8000",
+      "summary": "多位KOL评论当前市场结构与方向：Andy称杠杆ETF强力买盘支撑、短期做空风险高；trap_zack警告债务融资回购是ZIRP遗风；Lord Fed维持SPX 8000夏季目标；@tleilax___观察到中国炼厂购入海湾原油。",
+      "bullets": [
+        {
+          "actor": "Lord Fed",
+          "actor_type": "KOL",
+          "text": "Lord Fed：牛市仍存活，夏季SPX 8000目标不变",
+          "details": "Lord Fed称牛市并不\"感觉像牛市\"，反而像一连串\"几乎见顶\"的过程，SpaceX IPO后牛市依然存活，夏季目标仍是SPX 8000。",
+          "important": true
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "Andy：杠杆ETF强力买盘支撑，短期做空风险高",
+          "details": "Andy称目前股市上涨有杠杆ETF的强力买盘支撑，短期做空风险很高。",
+          "important": false
+        },
+        {
+          "actor": "trap_zack",
+          "actor_type": "KOL",
+          "text": "trap_zack：债务融资回购是典型ZIRP行为",
+          "details": "trap_zack称债务融资的回购感觉非常典型的零利率投资计划（ZIRP）时代行为。当我们已经转向资本密集型体制时，不应该这样掏空市场。",
+          "important": false
+        },
+        {
+          "actor": "@tleilax___",
+          "actor_type": "KOL",
+          "text": "tleilax：中国炼厂今日采购海湾原油，实体溢价信号",
+          "details": "@tleilax___称中国炼油厂今天购买了海湾原油。通常这是他们觉得实体保费有吸引力的信号。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-06-16",
+      "image_urls": []
+    },
+    {
+      "id": "misc-corp-news-jun17",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "SPR 42年最低、NVDA发20B债、高通洽购Tenstorrent",
+      "summary": "美国SPR降至340.3mb为1983年8月以来最低；NVDA拟发行至少20B高等级债；高通洽购AI芯片初创Tenstorrent 8-10B；Anthropic与白宫安全谈判未达成；Musk称SpaceX 2030年收入或达1T；小红书拟最早本月底港交所递表。",
+      "bullets": [
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "美国SPR降至340.3mb，42年来最低",
+          "details": "美国SPR刚刚跌至自1983年8月以来的最低水平——340.3mb，这是42年来的最低点。",
+          "important": true
+        },
+        {
+          "actor": "NVDA",
+          "actor_type": "Corporate",
+          "text": "NVDA计划发行至少20B高等级债券",
+          "details": "NVDA计划通过发行高等级债券筹集至少20B。",
+          "important": false
+        },
+        {
+          "actor": "Qualcomm",
+          "actor_type": "Corporate",
+          "text": "Information：高通洽谈8-10B收购Tenstorrent",
+          "details": "Information周一援引知情人士的话，高通正洽谈以8-10B收购人工智能芯片初创公司Tenstorrent。",
+          "important": false
+        },
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic与白宫安全谈判周一未达成协议",
+          "details": "Anthropic与特朗普政府官员之间的谈判周一继续进行，但未能达成解决安全问题的协议。",
+          "important": false
+        },
+        {
+          "actor": "Musk",
+          "actor_type": "Corporate",
+          "text": "Musk：SpaceX 2030年收入可能达1T",
+          "details": "Musk称SPCX在2030年可能达到1T收入。",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "BBG：小红书最早本月底向港交所递表上市申请",
+          "details": "BBG引消息人士，小红书正准备最早于本月底向香港证交所提交上市申请。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "QCOM"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "The Information",
+        "Bloomberg"
+      ],
+      "date": "2026-06-16",
+      "image_urls": []
+    }
+  ]
+}
