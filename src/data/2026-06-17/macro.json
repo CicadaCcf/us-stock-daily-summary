@@ -1,0 +1,415 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-deal-jun25",
+      "topic": "美伊核谈判/谅解备忘录",
+      "topic_tag": "geo",
+      "title": "美伊谅解备忘录细节浮现：解除制裁+300B重建基金",
+      "summary": "Trump 同意伊朗立即在公开市场卖油并取消相关金融与运输制裁，但强调当前仅为谅解备忘录，不满意即恢复轰炸。BBG/Al Arabiya 披露 14 点条款，新增 30 天撤军、60 天内制定至少 3000 亿美元伊朗重建综合计划、解除所有联合国/IAEA/美国一二级制裁、解冻被冻结资产等。以色列要求阅览备忘录文本被拒。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "同意伊朗立即公开卖油、取消相关制裁、关系正常化",
+          "details": "Trump：同意伊朗立刻开始在公开市场上卖油，美国取消所有相关的金融和运输制裁；和伊朗关系正常化；该文本并非最终版本，而只是一份谅解备忘录，如果我不喜欢这样，我们就恢复炸弹；美国没有资金投资伊朗。",
+          "important": true
+        },
+        {
+          "actor": "BBG/Al Arabiya",
+          "actor_type": "新闻",
+          "text": "披露14点条款：30天撤军+300B重建基金+全面解除制裁+解冻资产",
+          "details": "BBG和Al Arabiya各自披露一版相同的14点，在共识性条款之上新增：1）最终协议签署后30d内从周边地区撤军；2）承诺与地区伙伴共同制定双方认可的伊朗重建和经济发展综合计划，并确保至少提供300B，实施机制将在60天内制定完成；3）最终协议终止目前对伊朗实施的所有类型制裁，包括联合国安理会和IAEA理事会决议，以及所有美国单方面一级和二级制裁；4）伊朗被冻结或限制的资金和资产将被解冻并完全释放。",
+          "important": false
+        },
+        {
+          "actor": "分析评论",
+          "actor_type": "Analyst",
+          "text": "重建资金/解除制裁/解冻均挂钩deal阶段且按绩效付费，与伊朗要求有出入",
+          "details": "语言看起来仍是模糊化处理，重建资金+解除制裁+资金解冻都不是memo阶段，都是挂钩deal阶段且\"按绩效付费\"结构，这种进度和伊朗要求给钱提前的进度依然有出入，预计memo将模糊处理。",
+          "important": false
+        },
+        {
+          "actor": "Reuters",
+          "actor_type": "新闻",
+          "text": "300B为私人投资工具，资本来自海湾/亚洲/美/非/拉企业，无政府资金",
+          "details": "RTRS报道300B基金将是一个私人投资工具，资本承诺来自海湾、亚洲、美国、非洲和拉丁美洲的企业和金融主体。据报道没有涉及任何政府资金，目标不是\"支付伊朗战争费用\"，而是建立一个经济框架，让各方在维护未来协议中都有利益。",
+          "important": false
+        },
+        {
+          "actor": "Vance",
+          "actor_type": "US-Executive",
+          "text": "目标停核计划而非政权更迭；激励与履约挂钩；备忘录文本未公布因调解人要求",
+          "details": "Vance：Trump目标是停止伊朗核计划，而非必然政权更迭；反对\"无休止冲突直到每颗炸弹用完或每个伊朗人死亡\"；若伊朗人民uprising那是他们的事；激励措施与伊朗履约挂钩。尚未公布谅解备忘录文本因为调解人——巴基斯坦人和卡塔尔人——要求按正确的顺序发布，阿拉伯和穆斯林世界存在敏感问题。Vance同时表示目前通胀率为3.5%，太高了，正在努力将其降回2.5%。",
+          "important": false
+        },
+        {
+          "actor": "Lindsey Graham",
+          "actor_type": "US-Congress",
+          "text": "协议\"前景光明\"，相信Trump不签坏协议；核部分需国会批准",
+          "details": "Graham：协议\"前景光明\"，相信Trump不会签坏协议；伊朗若放弃核武器将是中东巨变；可将伊朗\"装进盒子\"；沙特与以色列欠Trump，应推动和平与合作；核部分需国会批准。",
+          "important": false
+        },
+        {
+          "actor": "伊朗国家电视台",
+          "actor_type": "Foreign-Gov",
+          "text": "联合军事指挥部警告：若以色列不停黎巴嫩袭击伊朗将回应",
+          "details": "伊朗国家电视台援引联合军事指挥部的话警告称，如果以色列不停止对黎巴嫩的袭击，伊朗将予以回应。",
+          "important": false
+        },
+        {
+          "actor": "以色列财政部长",
+          "actor_type": "Foreign-Gov",
+          "text": "必须推翻伊朗政权，将以自己方式继续",
+          "details": "以色列财政部长称我们必须推翻这个政权，因为我们绝不能允许这样一个意图毁灭我们并拥有这种能力的极端政权存在。我们将继续以我们自己的方式做这件事。",
+          "important": false
+        },
+        {
+          "actor": "以色列政府",
+          "actor_type": "Foreign-Gov",
+          "text": "请求阅览美伊谅解备忘录文本被拒",
+          "details": "以色列希望美国提供\"美伊谅解备忘录\"的文本，已被拒绝。@GuyAz 确认以色列曾正式请求访问伊朗谅解备忘录但被拒，在如此关键的国家安全问题上，亲密盟友之间出现了非凡且极为罕见的发展。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "BBG",
+        "Al Arabiya",
+        "RTRS"
+      ],
+      "date": "2026-06-17",
+      "image_urls": []
+    },
+    {
+      "id": "hormuz-strait-jun25",
+      "topic": "霍尔木兹海峡",
+      "topic_tag": "oil",
+      "title": "霍尔木兹海峡重开预期：美海军付费护航+90艘油轮待发",
+      "summary": "Trump政府研究为商业油轮提供付费美国海军护航（VIP pass），并探讨国防生产法扩大船舶保险，约500艘船仍滞留波斯湾。Fox报道超90艘油轮准备双向穿越，AIS显示至少23艘VLCC驶向阿联酋。多艘伊朗油轮已驶离港口越过封锁线，美军未拦阻。卡塔尔计划海峡重开后4周内恢复50%LNG产量。",
+      "bullets": [
+        {
+          "actor": "Trump政府",
+          "actor_type": "US-Executive",
+          "text": "研究为商业油轮提供付费美海军护航\"VIP pass\"，500艘船仍滞留",
+          "details": "Trump政府正研究为商业油轮提供付费美国海军护航（\"VIP pass\"概念），以重振霍尔木兹海峡信心；同时探讨国防生产法扩大船舶保险；约500艘船只仍滞留波斯湾。",
+          "important": true
+        },
+        {
+          "actor": "Fox News",
+          "actor_type": "新闻",
+          "text": "超90艘油轮待发；至少23艘VLCC驶向科尔法坎/富查伊拉",
+          "details": "Fox News报道超90艘油轮已准备双向穿越霍尔木兹，一旦开放即可行动；根据AIS信息，目前至少有23架VLCC正驶向阿联酋的科尔法坎或富查伊拉港口，加入至少30艘已停泊在那里的船列。",
+          "important": false
+        },
+        {
+          "actor": "市场观察",
+          "actor_type": "新闻",
+          "text": "多艘伊朗油轮越过\"封锁线\"，美军未拦阻",
+          "details": "多艘伊朗油轮驶离港口、越过\"封锁线\"，美军没有进行拦阻。@gbrew24援引pler报道目前有四艘满载伊朗油轮正驶出阿曼海，三艘已越过封锁线，第四艘即将越过，所有油轮均开启AIS应答器并广播。",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "卡塔尔计划海峡重开后4周内恢复50% LNG产量",
+          "details": "BBG报道卡塔尔计划在SoH（霍尔木兹海峡）重新开放后仅四周内恢复50%的LNG产量。",
+          "important": false
+        },
+        {
+          "actor": "@GavinSBaker",
+          "actor_type": "KOL",
+          "text": "能源专家对海峡判断严重错误：中国储备多/美出口快/阿曼绕行",
+          "details": "@GavinSBaker：大多数能源专家对霍尔木兹海峡的判断严重错误。提出疑问并猜测根本原因：中国石油储备比预期更多；美国出口增加速度更快、规模更大；更多船只实际通过阿曼路线绕行/穿越海峡。",
+          "important": false
+        },
+        {
+          "actor": "@TheOneLanceB",
+          "actor_type": "KOL",
+          "text": "$USO价格行为领先基本面，已反映伊朗协议后油市重新平衡",
+          "details": "@TheOneLanceB：$USO非常经典的表现出价格行为永远胜过基本面——市场总是比基本面分析领先一步，尤其在重大事件（本次疑似伊朗相关协议导致的油市重新平衡预期）发生时，价格会快速反映未来，而非当前数据。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "USO"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Fox News",
+        "BBG",
+        "AIS"
+      ],
+      "date": "2026-06-17",
+      "image_urls": []
+    },
+    {
+      "id": "china-lujiazui-jun25",
+      "topic": "中国陆家嘴论坛",
+      "topic_tag": "policy",
+      "title": "潘功胜/吴清陆家嘴论坛：完善短端利率+严打炒作",
+      "summary": "潘功胜宣布完善短端利率调控机制，操作利率调整为7天逆回购±25bps，区间由70bps收窄至50bps，并将创设境外央行回购工具及研究设立特定情景非银流动性支持宏观审慎工具。吴清表态严打科技主题投机，欢迎AI开发者及港股公司回境内上市。",
+      "bullets": [
+        {
+          "actor": "潘功胜",
+          "actor_type": "Central-Bank",
+          "text": "操作利率调为7天逆回购±25bps，区间70收窄至50bps",
+          "details": "潘功胜陆家嘴论坛讲话：完善短端利率调控机制，临时隔夜正/逆回购工具的基础上，并将操作利率调整为7天期逆回购操作利率±25bps，区间由70bps收窄为50bps。适时增加隔夜逆回购操作品种，更好地匹配银行体系短期的流动性需求。创设境外央行回购工具；研究设立特定情景非银流动性支持宏观审慎工具。",
+          "important": true
+        },
+        {
+          "actor": "吴清",
+          "actor_type": "Foreign-Gov",
+          "text": "严打推高股价的科技主题投机；欢迎AI及港股公司境内上市",
+          "details": "吴清陆家嘴论坛讲话：将严厉打击旨在推高股价的科技主题投机行为；将欢迎更多人工智能开发者以及在港上市的公司在国内上市，以提振境内资本市场。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-17",
+      "image_urls": []
+    },
+    {
+      "id": "us-inflation-pce-jun25",
+      "topic": "美国通胀/PCE预测",
+      "topic_tag": "fed",
+      "title": "5月核心PCE预测中值0.35% m/m / 3.4% y/y，通胀偏热",
+      "summary": "WSJ整理13家卖方对5月PCE预测，中位数Headline 0.48% m/m / 4.1% y/y，Core 0.35% m/m / 3.4% y/y，较4月（0.24%/3.3%）显著走高。Inflation Insights图表显示无论怎么切片，YTD核心通胀都明显高于2024年同期。Vance承认3.5%通胀\"太高\"。",
+      "bullets": [
+        {
+          "actor": "WSJ/Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "5月PCE卖方预测中值Headline 0.48%/4.1%, Core 0.35%/3.4%",
+          "details": "WSJ整理13家卖方5月PCE预测：BofA/Barclays/BNP/Nomura/UBS等多家 Headline 0.48% m/m, 4.1% y/y, Core 0.35% m/m, 3.4% y/y；Goldman最低 Core 0.31%；Employ America最高 Core 0.40%；JPM Core 0.30%；中位数 Headline 0.48%/4.1%, Core 0.35%/3.4%。前值4月 Headline 0.40%/3.8%, Core 0.24%/3.3%。",
+          "important": true
+        },
+        {
+          "actor": "Inflation Insights",
+          "actor_type": "Analyst",
+          "text": "无论怎么切片，YTD核心通胀均高于2024同期",
+          "details": "Core Inflation Hotter YTD vs 2025 No Matter How You Slice It：Core PCE SAAR Dec24-May25 3.11 vs Dec25-May26 4.15；Mkt-Based Core PCE 2.93 vs 3.94；Mkt-Based Core PCE Less Hsng 2.67 vs 3.88；剔除住房和信息处理设备后 1.85 vs 2.54。",
+          "important": false
+        },
+        {
+          "actor": "Danny",
+          "actor_type": "KOL",
+          "text": "剔除估算价格/住房滞后/AI三项后通胀仍明显偏热",
+          "details": "Danny：人们常用三种借口解释核心PCE偏高：Imputed prices（估算价格，如股市相关服务）；住房滞后效应；AI相关stuff（信息处理设备）；但即使把这三项全部剔除后，仍能看到通胀明显偏热。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        2
+      ],
+      "importance": 2,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-06-17",
+      "image_urls": [
+        "/uploads/2026-06-17/fd53fce17360.png",
+        "/uploads/2026-06-17/7559f6405714.jpg"
+      ]
+    },
+    {
+      "id": "fomc-warsh-jun25",
+      "topic": "FOMC/沃什",
+      "topic_tag": "fed",
+      "title": "Warsh首次FOMC发布会前瞻：BofA预期偏鹰，2026年无降息",
+      "summary": "BofA预计FOMC移除声明中宽松偏向，SEP上调2026年PCE至3.4%、失业率4.3%、中位数点阵图显示2026年无降息，建议做空2Y美债（目标4.25%）并做平曲线。Niles引用Warsh去年11月WSJ专栏作为蓝图，强调AI是通胀抑制力量、通胀源于政府花钱过多。",
+      "bullets": [
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "FOMC移除宽松偏向，2026年点阵无降息；做空2Y美债目标4.25%",
+          "details": "BofA Fed预计移除声明中的宽松偏向，SEP上调2026年PCE通胀至3.4%，失业率降至4.3%，中位数点阵图显示2026年无降息。尽管新任主席沃什可能倾向鸽派，但数据强劲令市场解读偏鹰。建议做空2年期美债（目标收益率4.25%）及做平收益率曲线。",
+          "important": true
+        },
+        {
+          "actor": "@DanielTNiles",
+          "actor_type": "KOL",
+          "text": "Warsh明天首次FOMC发布会；WSJ 11月16日专栏为蓝图",
+          "details": "@DanielTNiles：Warsh将于明天召开他的首次FOMC新闻发布会。他在WSJ 11月16日发表的专栏文章很可能是一个不错的蓝图——\"AI将成为重要的通胀抑制力量......通胀是因为政府花得太多、印得太多才导致的\"。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-06-17",
+      "image_urls": []
+    },
+    {
+      "id": "spacex-ipo-jun25",
+      "topic": "SpaceX IPO/期权",
+      "topic_tag": "macro-other",
+      "title": "SpaceX期权首日成交破纪录1.8M份；收购Cursor 60B",
+      "summary": "SpaceX期权周二开盘成交量约1.8M份，远超Facebook 2012年首日纪录的365k，看涨/看跌比1.3:1。SpaceX以60B全股收购Cursor，距IPO仅四天市值超2T。Fed lord指出SpaceX自IPO上涨60%但情绪仍怀疑，市场仍有大量dry powder。Branson Carl警告流通股低、6月已交易30万份看涨期权约3000万股，可能被squeeze。",
+      "bullets": [
+        {
+          "actor": "Reuters",
+          "actor_type": "新闻",
+          "text": "SpaceX期权首日成交1.8M份，破FB 2012年365k纪录",
+          "details": "RTRS报道SpaceX期权交易周二开盘，成交量创历史新高，当天SpaceX期权合约成交量约为1.8M份，轻松超越了Facebook在2012年期权首日创下的约365k的成交量纪录。SpaceX看涨期权与看跌期权的成交量比为1.3:1。",
+          "important": true
+        },
+        {
+          "actor": "SpaceX",
+          "actor_type": "Corporate",
+          "text": "60B全股收购Cursor，距IPO仅4天市值超2T",
+          "details": "SpaceX于周二签署协议，以60B全股收购Cursor，距其纳斯达克首次公开募股超过2T美元仅四天。",
+          "important": false
+        },
+        {
+          "actor": "Fed lord",
+          "actor_type": "KOL",
+          "text": "SpaceX自IPO涨60%但情绪仍怀疑，市场dry powder充足",
+          "details": "Fed lord：SpaceX自IPO上涨了60%，但主流情绪似乎仍是怀疑。如果说有什么的话，我觉得这说明市场上还有大量dry powder存在。",
+          "important": false
+        },
+        {
+          "actor": "Branson Carl",
+          "actor_type": "KOL",
+          "text": "流通股低可能被squeeze，6月已交易30万份看涨约3000万股",
+          "details": "Branson Carl：SpaceX的公开流通股相对于市值极低，可能会被squeeze，仅6月就已交易300K份看涨期权，约30M股，发行了555M股。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "RTRS"
+      ],
+      "date": "2026-06-17",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-em-jp-jun25",
+      "topic": "卖方观点",
+      "topic_tag": "earnings",
+      "title": "MS上调EM 2026目标至2000；Nomura警告日本IPO分流",
+      "summary": "MS将2026年底EM指数目标从1575上调至2000，核心驱动为韩台AI科技股，海峡重开油价下跌利好智利/南非但跑输科技股，维持台积电/三星/SK海力士超配。Nomura指出日本个人投资者YTD净流入超1.6T日元，但大型IPO（如SpaceX）可能引发分流，散户偏好向AI/半导体及价值股集中，商社股热度下降。",
+      "bullets": [
+        {
+          "actor": "MS",
+          "actor_type": "Analyst",
+          "text": "EM 2026目标上调至2000，超配台积电/三星/SK海力士",
+          "details": "MS上调新兴市场目标：将2026年底EM指数目标从1575上调至2000，核心驱动力为科技股（尤其是韩国和台湾AI相关股票）。霍尔木兹海峡重开致油价下跌，利好智利、南非等进口国，但预计跑输科技股。维持对台积电、三星、SK海力士等科技龙头的超配评级。",
+          "important": true
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "日股散户YTD净流入超1.6T日元；大型IPO引分流，商社热度降",
+          "details": "Nomura：尽管日本股市处于牛市，个人投资者仍呈净买入态势，年初至今净流入超1.6T日元。但大型IPO（如SpaceX）可能引发资金分流，导致高散户持股比例股票在公告后60天内表现恶化。调查显示，散户偏好向AI/半导体及价值股集中，商社股热度下降。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TSM"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-17",
+      "image_urls": []
+    },
+    {
+      "id": "other-corp-jun25",
+      "topic": "其他公司动态",
+      "topic_tag": "macro-other",
+      "title": "MSFT终止甲骨文3B云协议；Robinhood裁员10%",
+      "summary": "MSFT被曝因甲骨文缺乏安全认证（添加认证工程量过大）而终止30亿美元云基础设施谈判。Robinhood宣布裁减约10%全职员工并关闭部分招聘，目标精简管理层提高运营效率。另附GLM-5.2模型性价比图表。",
+      "bullets": [
+        {
+          "actor": "Microsoft",
+          "actor_type": "Corporate",
+          "text": "终止与甲骨文3B云基础设施谈判，因缺安全认证",
+          "details": "MSFT被曝终止与甲骨文3B云基础设施谈判，因甲骨文缺乏相关安全认证，但要添加该认证会导致工程量较大，所以被迫取消。",
+          "important": true
+        },
+        {
+          "actor": "Robinhood",
+          "actor_type": "Corporate",
+          "text": "裁减约10%全职员工，关闭部分岗位招聘",
+          "details": "Robinhood刚刚宣布，将裁减约10%的全职员工，同时关闭部分岗位招聘，本次目标是精简管理层数量，提高运营产出效率。",
+          "important": false
+        },
+        {
+          "actor": "GLM-5.2",
+          "actor_type": "Corporate",
+          "text": "GLM-5.2：80% Opus 4.0性能、1%成本",
+          "details": "GLM-5.2 / smart, cheap, and open：定价$1.25/M output tokens（open weights），AVG SCORE约61，性价比10.0 pt/1$；对比Claude Opus 4.0约$20-25 score 68（2.75 pt/1$），GPT-5-1 约$30 score 68（2.25 pt/1$），Gemini 1.5 Pro约$10 score 60（3.97 pt/1$）。GLM-5.2 80% Opus 4.0性能，1%的成本。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MSFT",
+        "ORCL",
+        "HOOD"
+      ],
+      "image_indexes": [
+        3
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-06-17",
+      "image_urls": [
+        "/uploads/2026-06-17/683230861dbb.jpg"
+      ]
+    },
+    {
+      "id": "compass-iv-jun25",
+      "topic": "波动率/期权定位",
+      "topic_tag": "macro-other",
+      "title": "Compass图：大盘科技股位于\"贵波动率+下行风险\"象限",
+      "summary": "Compass图表显示QQQ/MSFT/ORCL/AVGO/AAPL/AMZN/GOOGL/NVDA/TSLA等一众大盘科技股聚集在\"Expensive Volatility, Downside Potential\"象限；AMD位居高IV高风险区；GLD/SLV/MP/JPM位于左侧（低IV）。",
+      "bullets": [
+        {
+          "actor": "Compass",
+          "actor_type": "Analyst",
+          "text": "QQQ/MSFT/NVDA/TSLA等位于\"贵波动率+下行风险\"象限",
+          "details": "Compass Guided View图：纵轴为Market Risk Rank、横轴为IV Rank。右上象限\"Expensive Volatility, Downside Potential\"包含CAT、HD、QQQ、MSFT、ORCL、DE、DAL、MCD、COST、WMT、AVGO、IWER、AAPL、AMZN、GOOGL、NVDA、TSLA；AMD位居最高IV区；INTC偏上；GLD、SLV、MP、JPM位于左侧低IV；COIN、RDDT、SPY居中；MSTR、TGT为其他标记。",
+          "important": true
+        },
+        {
+          "actor": "市场观察",
+          "actor_type": "Analyst",
+          "text": "防御消费股与AI龙头同处一象限暗示对冲成本高",
+          "details": "图中防御消费股（COST/WMT/MCD/HD）与AI龙头（NVDA/AVGO/MSFT/GOOGL）同处\"贵波动率+下行风险\"象限，暗示当前买保护成本高且赔率不佳。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "QQQ",
+        "NVDA",
+        "TSLA",
+        "MSFT",
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "AVGO"
+      ],
+      "image_indexes": [
+        1
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-06-17",
+      "image_urls": [
+        "/uploads/2026-06-17/5daf5828def2.png"
+      ]
+    }
+  ]
+}

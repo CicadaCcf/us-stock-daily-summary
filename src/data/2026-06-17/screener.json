@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-06-18T00:10:40+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-06-17",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12299,
+    "partial_pass": 8,
+    "with_carryover": 11,
+    "after_full_check": 4
+  },
+  "rows": [
+    {
+      "tk": "QURE",
+      "nm": "uniQure N.V.",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 78.4,
+      "w1": 79.6,
+      "market_cap_bn": 3.04,
+      "dollar_vol_bn": 0.95,
+      "w1_avg_dollar_vol_bn": 0.21,
+      "reason": "",
+      "main_business": "专注基因疗法研发，治疗血友病、亨廷顿病及心血管等遗传性疾病"
+    },
+    {
+      "tk": "RXT",
+      "nm": "Rackspace Technology, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 21.3,
+      "w1": 42.5,
+      "market_cap_bn": 1.88,
+      "dollar_vol_bn": 0.49,
+      "w1_avg_dollar_vol_bn": 0.26,
+      "reason": "",
+      "main_business": "提供端到端混合多云技术服务与云环境运维"
+    },
+    {
+      "tk": "WDC",
+      "nm": "Western Digital Corp.",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 4.6,
+      "w1": 45.3,
+      "market_cap_bn": 245.46,
+      "dollar_vol_bn": 9.66,
+      "w1_avg_dollar_vol_bn": 6.72,
+      "reason": "",
+      "main_business": "设计制造硬盘驱动器，主要服务于数据中心存储市场"
+    },
+    {
+      "tk": "SPCX",
+      "nm": "Space Exploration Technologies Corp. Class A Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -4.9,
+      "w1": null,
+      "market_cap_bn": 2511.09,
+      "dollar_vol_bn": 38.68,
+      "w1_avg_dollar_vol_bn": 59.26,
+      "reason": "",
+      "main_business": "研发制造可重复使用火箭，提供商业及政府航天发射服务"
+    }
+  ]
+}
