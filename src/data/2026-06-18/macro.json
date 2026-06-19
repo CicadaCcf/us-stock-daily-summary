@@ -1,0 +1,379 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-mou-jun18",
+      "topic": "美伊谅解备忘录/霍尔木兹",
+      "topic_tag": "geo",
+      "title": "Trump签署美伊MOU 海峡60天开放 以色列强烈不满",
+      "summary": "Trump在法国晚宴签署美伊谅解备忘录，周五瑞士正式签字仪式取消但仍举行Vance-Galibaf关键会议。MOU规定伊朗60天内开放霍尔木兹海峡并解除封锁，未要求伊朗放弃核计划或处理弹道导弹，被Axios称为远低于'全面投降'预期的'温和协议'，引发以色列及共和党部分参议员强烈不满。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump在法国晚宴签署美伊MOU 周五瑞士签字仪式取消",
+          "details": "Trump在法国晚宴时签署了'美伊谅解备忘录'，Fox News称之为'重大外交突破'。周五原定在瑞士举行的正式签字仪式已被取消，但会举行关键会议，美方由副总统Vance率团，伊方由议长Galibaf率团，Trump表示将就弹道导弹、恐怖主义代理人问题进行讨论。",
+          "important": true
+        },
+        {
+          "actor": "Axios",
+          "actor_type": "新闻",
+          "text": "Axios：MOU远低于全面投降预期 未触核计划与导弹",
+          "details": "Axios报道Trump接受了远低于最初'全面投降'预期的MOU，未要求伊朗完全放弃核计划或处理弹道导弹问题；MOU被描述为'温和协议'，引发以色列强烈不满。",
+          "important": false
+        },
+        {
+          "actor": "MOU条款",
+          "actor_type": "新闻",
+          "text": "伊朗同意60天内开放霍尔木兹海峡 解除封锁",
+          "details": "MOU规定伊朗立即开放霍尔木兹海峡并解除封锁60天，允许船舶自由通行（未来可能收取通行费）。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：不想看到经济灾难 储备约4周耗尽",
+          "details": "Trump在签字仪式上称不想看到经济灾难。'每次我们谈到和平的可能性，股市就像火箭一样冲上去......股市比任何人都聪明'；'此外我们的储备大约会在4周内耗尽，你知道，世界各地都有储备，我们真的会耗尽储备，而且总有一天你们将无法获得储备'。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：过程不易 感谢内塔尼亚胡但批评其过于激动",
+          "details": "Trump称'过程并不容易'，同时感谢内塔尼亚胡在战争中的合作，但批评其'有时过于激动'和在黎巴嫩的行动判断失误；强调若谈判失败将恢复打击。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：金钱投资上不给好处 解冻资产以维护美元投资信誉",
+          "details": "Trump：在涉及金钱、投资方面，我们不会给予他们任何好处，总得有人去帮助他们一把，但不知道谁有这么多钱；解冻很简单，我们从他们那里拿走了很多钱，看来地把它们还回去了，不还就没人投资美元了；其他国家都有导弹，伊朗没有不公平。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：必须先通过《拯救美国法》才签字 否则什么都不签",
+          "details": "Trump称必须先通过《拯救美国法》、进行'选举改革'，否则他什么都不签，如果通过，共和党在中期选举稳赢。",
+          "important": false
+        },
+        {
+          "actor": "共和党参议员",
+          "actor_type": "US-Congress",
+          "text": "共和党参议员：MOU为几十年来最大外交失败",
+          "details": "美伊'谅解备忘录'在共和党内部引发争议，已有共和党参议员称之为'几十年来最大的外交失败'。",
+          "important": false
+        },
+        {
+          "actor": "伊朗外交部 巴盖伊",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗外交部：伊朗击败两个核大国 我们是真正超级大国",
+          "details": "外交部发言人伊斯梅尔·巴盖伊：宣称'伊朗击败了两个核大国及其支持者，我们是真正的超级大国'；'敌人伤害了我们，但受伤的狮子仍是狮子'。强调伊朗在谈判中占据优势。",
+          "important": false
+        },
+        {
+          "actor": "伊朗议长 加利巴夫",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗议长：霍尔木兹海峡不会恢复战前状态 通行将收费",
+          "details": "伊朗议长加利巴夫：我们通过谈判获得的成果远远超过了我们通过军事行动所寻求的成果；表示霍尔木兹海峡'不会恢复到战前状态'，伊朗对霍尔木兹海峡拥有主权权利，因此我们提供服务自然会收取费用，但伊朗将遵守国际法。我对美国的悲观和不信任比任何人都强烈，即使达成最终协议并获得联合国安理会决议批准，它仍然不可信。我们的保障是伊朗的实力。",
+          "important": false
+        },
+        {
+          "actor": "内塔尼亚胡/以色列",
+          "actor_type": "Foreign-Gov",
+          "text": "以色列视MOU为战略灾难 拒受黎巴嫩条款约束",
+          "details": "内塔尼亚胡及以色列：对MOU反应强烈，视其为战略和政治灾难。内塔尼亚胡最初保持沉默，后公开表达不满；以色列官员称不认为自己受MOU中黎巴嫩条款约束，要求真主党解除武装后才撤军。",
+          "important": false
+        },
+        {
+          "actor": "@gbrew24",
+          "actor_type": "KOL",
+          "text": "波斯湾产油国为海峡重新开放做准备",
+          "details": "@gbrew24：波斯湾所有石油生产国都在为海峡的开放做准备。过去一周，伊拉克、科威特、阿联酋和沙特阿拉伯纷纷采取行动，表明他们预计海峡即将重新开放。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Fox News",
+        "Axios"
+      ],
+      "date": "2026-06-18",
+      "image_urls": []
+    },
+    {
+      "id": "fomc-warsh-debut-jun18",
+      "topic": "FOMC/Warsh首秀",
+      "topic_tag": "fed",
+      "title": "Warsh首秀：精简声明 取消前瞻指引 鹰派点阵图",
+      "summary": "Warsh首次FOMC会议大幅精简声明，取消前瞻性指引，以'委员会将实现价格稳定。句号'收尾，兑现其对美联储过度沟通的批评。点阵图偏鹰，但Warsh未提供SEP预测。Nick称'不告诉市场决策过程'，市场分歧大；多家卖方认为加息门槛仍高，今年大概率维持不变。",
+      "bullets": [
+        {
+          "actor": "Warsh (美联储主席)",
+          "actor_type": "Central-Bank",
+          "text": "FOMC声明精简 取消前瞻指引 以'交付价格稳定。句号'收尾",
+          "details": "Warsh兑现了他一直以来对美联储过度沟通的批评。本次FOMC会议声明被大幅精简，取消了传统的前瞻性指引，并以一句极具分量的'委员会将实现价格稳定。句号（the committee will deliver price stability. period）'作为结尾，其震撼效果堪比鲍威尔当年在杰克逊霍尔的简短鹰派发言。（Joseph评论）",
+          "important": true
+        },
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "Nick：Warsh同时不告诉市场下一步和决策过程",
+          "details": "Nick：不告诉市场你的下一步计划和完全不告诉市场你的决策过程之间是有区别的。Warsh的第一次会议上，就同时做到了这两点。",
+          "important": false
+        },
+        {
+          "actor": "Warsh",
+          "actor_type": "Central-Bank",
+          "text": "Warsh：2%通胀目标不在讨论范围 但将重审评估方式",
+          "details": "美联储仍肩负着将通胀率维持在2%左右的使命，但它将'重新审视通胀的评估方式'。Warsh认为2%的目标不在讨论范围之内：'我认为没有理由……在讨论范围之外重新审视这个目标。' Truflation通胀率为~1.57% yoy，5月份官方公布的总体CPI为4.2%，剔除沃什刚才提到的石油冲击，CPI涨幅在1.6%-2.9%之间。（short bear引述）",
+          "important": false
+        },
+        {
+          "actor": "Warsh",
+          "actor_type": "Central-Bank",
+          "text": "Warsh：AI是结构性通缩 油价跌为供应冲击不反应",
+          "details": "'我们并不惧怕生产力强劲增长，反而乐见其成'，Warsh向CNBC重申生产力是利率下降的原因之一。人工智能作为一种积极的供给冲击，具有结构性通缩作用，即使新闻标题不太好，也依然存在降息空间；还预先将当前的油价下跌定性为供应冲击，他不会对此做出反应：石油'不会产生直接后果'，美联储只关心次级影响。",
+          "important": false
+        },
+        {
+          "actor": "Warsh",
+          "actor_type": "Central-Bank",
+          "text": "Warsh：本次会议存在rigorous debate 分歧大于点阵图",
+          "details": "沃什记者会一开始就说there was 'rigorous debate' at this week's policy meeting，其实透露了很多信息，至少这次议息会议内部的分歧，比点阵图看上去要大。Warsh委任的四个task forces，其中就有评估美联储资产负债表的，这就是在为潜在的缩表做准备，如果接近年底开始缩表，就几乎没有必要加息了。（华创郭忠良）",
+          "important": false
+        },
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "short bear：今天FOMC不算鹰派 Warsh被选来尝试降息",
+          "details": "short bear：我不认为今天的FOMC是鹰派的，Warsh被选中尝试降息并采取鸽派立场。鉴于目前的收益率水平，一开始就采取完全鸽派的立场，并可能通过打破市场预期而加剧通胀，并非最佳策略。",
+          "important": false
+        },
+        {
+          "actor": "@ripster47",
+          "actor_type": "KOL",
+          "text": "ripster47：Warsh偏鹰 利率风险从降息转向加息",
+          "details": "@ripster47：Warsh目前不支持快速降息，更倾向于维持较高政策利率，减少前瞻性指引、更鹰派的政策预测以及美联储运作方式的结构性改革。这些举措共同提升了美联储每次行动的不确定性溢价，并将利率风险从下一次降息转向可能的加息。关注收益率曲线的前端，重视更高的不确定性，让即将公布的数据——而非降息预期——来驱动投资逻辑。",
+          "important": false
+        },
+        {
+          "actor": "trap_zack",
+          "actor_type": "KOL",
+          "text": "trap_zack：FOMC会议将变成赌场 每次都须重新定价",
+          "details": "trap_zack：没有前瞻性指引，加上一份措辞强硬的鹰派声明/散点图，意味着市场现在必须将每次会议都视为真实事件进行定价。不确定性增加，数据公布前后的市场波动性也会更大。如果他们走这条路，FOMC会议将会变成赌场。",
+          "important": false
+        },
+        {
+          "actor": "Ed Bradford",
+          "actor_type": "KOL",
+          "text": "Ed Bradford：Warsh或须更鹰派以证明对Trump独立性",
+          "details": "Ed Bradford：有传言称，沃什可能需要在新闻发布会上发表更鹰派的言论，以证明自己与特朗普保持独立性。这或许可以解释为什么尽管签署了谅解备忘录，U6仍然感到压力。",
+          "important": false
+        },
+        {
+          "actor": "纳兰容客",
+          "actor_type": "KOL",
+          "text": "纳兰容客：点阵图是鹰派抗争 市场短期反应",
+          "details": "纳兰容客：联储中的鹰派怎么办？如何表态？今天的点阵图就是抗争。最大程度喊加息，但长期利率预测不变。喊话的意味更浓一些。so市场对于点阵图的反应，是短期的。",
+          "important": false
+        },
+        {
+          "actor": "宏观边际",
+          "actor_type": "KOL",
+          "text": "宏观边际：今年票委鸽派占优 4:8反对加息",
+          "details": "宏观边际：支持加息：不动/降息的人数比，是9:9平票，但如果只看今年有投票权的话，票比就变成了4:8，意味着支持不加息的人数远多于支持加息的人数，而且话语权更高的理事、主席、副主席都分布在不加息/降息的鸽派阵营。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3,
+        4
+      ],
+      "importance": 3,
+      "sources": [
+        "CNBC",
+        "Bloomberg",
+        "Deutsche Bank"
+      ],
+      "date": "2026-06-18",
+      "image_urls": [
+        "/uploads/2026-06-18/f13deeecbb37.jpg",
+        "/uploads/2026-06-18/c8cafd379091.png"
+      ]
+    },
+    {
+      "id": "sellside-fomc-rates-jun18",
+      "topic": "卖方观点",
+      "topic_tag": "rates",
+      "title": "GS/JPM/Nomura：基准维持不变 但鹰派推升实际收益率",
+      "summary": "GS US Daily认为FOMC增加今年晚些加息风险但基准仍预期维持，海峡重开后通胀上行风险将消除。JPM Feroli指Warsh框架不清。JPM Rates建议10s/30s flatteners，看高短端收益率。Nomura预计实际加息或延至2027年。GS Oil Tracker预计波斯湾出口7月底恢复战前。JPM Flow指半导体集中度风险升高。",
+      "bullets": [
+        {
+          "actor": "GS US Daily",
+          "actor_type": "Analyst",
+          "text": "GS：FOMC增加今年加息风险 但基准仍预期维持不变",
+          "details": "GS US Daily：FOMC增加了今年晚些时候加息的风险，但我们的基本预期仍然是FOMC今年将维持政策利率不变。如果即将公布的通胀数据令人担忧且就业增长保持稳健，多数委员可能会支持加息。但我们认为大多数委员仍倾向于维持政策利率不变，且他们目前对伊朗达成协议和霍尔木兹海峡重新开放的消息持谨慎态度。一旦贸易恢复，今天的预测可能就会过时，因为贸易恢复应该能够很快消除通胀上行风险的最主要来源。",
+          "important": true
+        },
+        {
+          "actor": "GS US Daily",
+          "actor_type": "Analyst",
+          "text": "GS：Warsh对加息立场不明 但重视金融市场价格信号",
+          "details": "从新闻发布会上看，Warsh对加息的可能性持何种立场并不明确。他对当前货币政策的紧缩性持中立态度，指出该政策可能抑制了房地产市场活动，但对金融市场的影响则难以断言。不过他反复强调美联储致力于价格稳定，如果即将公布的通胀报告令人担忧，他或许会倾向于加息。他还表示'金融市场价格可能是指导央行决策的最重要信息来源'，这可能意味着如果市场预期今年晚些时候FFR上升，那么加息的理由就更加充分了。",
+          "important": false
+        },
+        {
+          "actor": "GS Oil Tracker",
+          "actor_type": "Analyst",
+          "text": "GS Oil：波斯湾出口7月底恢复战前 10月原油产量恢复",
+          "details": "GS Oil Tracker：我们现在假设波斯湾的出口将在7月底恢复到战前水平，波斯湾的原油产量将在10月份恢复，我们认为中东供应前景的风险是双向的，但总体而言偏向下行。",
+          "important": false
+        },
+        {
+          "actor": "JPM Feroli",
+          "actor_type": "Analyst",
+          "text": "JPM Feroli：Warsh回避框架 委员会政策思路不清晰",
+          "details": "JPM Feroli：Warsh不仅回避给出前瞻性指引，也回避提供美联储应对经济过热或物价上涨的框架。新闻发布会结束时，我仍然不清楚委员会目前的政策思路。",
+          "important": false
+        },
+        {
+          "actor": "JPM Rates",
+          "actor_type": "Analyst",
+          "text": "JPM Rates：维持10s/30s flatteners 短期收益率或走高",
+          "details": "JPM Rates：尽管能源价格提供了转向鸽派的机会，但鹰派言论应该会继续推高实际收益率，压低盈亏平衡点，与今天的走势一致。认为短期内收益率可能走高，尤其是如果那些预测今年加息的FOMC成员在未来几周内进一步阐述他们的预测，recommend maintaining 10s/30s flatteners.",
+          "important": false
+        },
+        {
+          "actor": "JPM Flow & Liquidity",
+          "actor_type": "Analyst",
+          "text": "JPM Flow：半导体市值/收入份额超6倍 VaR冲击风险升",
+          "details": "JPM Flow & Liquidity：对于自行设定风险限额的基金而言，股票集中度过高可能会产生约束作用，投资者对半导体股票的敞口增加，正在增加半导体'风险价值冲击'（VaR）更加频繁发生的风险。全球股票指数中半导体股票的市值份额与收入份额之比已超过6倍，是SPX中'm7'（用博通代替特斯拉）股票的市值与收入份额之比的两倍多。",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "Nomura：实际加息或延至2027年 美元/日元跌至160.5",
+          "details": "Nomura：美联储预计转向鹰派但今年难加息，日银鸽派致日元跌向160.5。报告指出美联储虽将维持鹰派预期以契合市场定价，但受中东和平协议及油价影响，实际加息或延至2027年。日本央行会议基调偏鸽，未释放加快加息信号，引发落后于曲线担忧，美元/日元跌至160.5。预计日本股市走弱，债市受日元疲软压制。",
+          "important": false
+        },
+        {
+          "actor": "JPM技术分析",
+          "actor_type": "Analyst",
+          "text": "JPM：2s/5s曲线触及2025-26区间低端 支撑在6bp",
+          "details": "Figure 10: 2s/5s曲线扁平化至2025-2026交易区间低端，远低于12-13bp中位技术拐点。附近支撑在6bp，然后是关键的0bp区间低位。我们认为曲线将在初夏期间守住该支撑。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        5
+      ],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs",
+        "J.P. Morgan",
+        "Nomura"
+      ],
+      "date": "2026-06-18",
+      "image_urls": [
+        "/uploads/2026-06-18/7632620360c4.png"
+      ]
+    },
+    {
+      "id": "kol-market-top-jun18",
+      "topic": "KOL市场观点",
+      "topic_tag": "macro-other",
+      "title": "Joseph：风险资产历史大顶特征齐备 抽血效应将至",
+      "summary": "Joseph认为市场已集齐历史大顶经典特征：公众狂热、期权杠杆、超高估值。SpaceX、Anthropic员工套现以及谷歌、超微电脑增发将带来巨额股票供给，叠加联储'更高更久'紧缩，风险资产或面临持续下跌。Peter Berezin提IT支出占GDP长期不升的杰文斯悖论。",
+      "bullets": [
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "Joseph：市场集齐历史大顶特征 公众狂热+期权杠杆+超高估值",
+          "details": "Joseph认为当前的风险资产发出强烈警告。他认为市场已经集齐了历史大顶的经典特征：公众的广泛狂热参与、极度的期权杠杆炒作，以及不可思议的超高估值。",
+          "important": true
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "Joseph：SpaceX/Anthropic套现+科技巨头增发 巨大抽血效应",
+          "details": "Joseph：市场即将迎来巨大的抽血效应。不仅SpaceX、Anthropic将释放大量内部员工的套现筹码，谷歌、超微电脑（Super Micro）等科技巨头也在趁高估值进行巨额股票增发。当这种庞大的新增股票供给，与美联储'更高更久'甚至即将加息的紧缩政策相撞时，风险资产极大概率将面临一次有意义且持续的下跌。",
+          "important": false
+        },
+        {
+          "actor": "Peter Berezin",
+          "actor_type": "KOL",
+          "text": "Berezin：杰文斯悖论 价格降速超销量增速致IT支出占GDP不升",
+          "details": "Peter Berezin：许多投资者对杰文斯悖论习以为常。但直到最近，即使摩尔定律依然有效，IT硬件支出占GDP的比重也一直持平甚至下降。为什么？因为价格下降的速度通常比销量增长的速度更快。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GOOGL",
+        "SMCI",
+        "AVGO"
+      ],
+      "image_indexes": [
+        1,
+        2
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-18",
+      "image_urls": [
+        "/uploads/2026-06-18/8b5d4a60f562.jpg",
+        "/uploads/2026-06-18/2b8b32e68643.png"
+      ]
+    },
+    {
+      "id": "other-misc-jun18",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "苹果联手英特尔造芯 微软Copilot转用量付费拟用DeepSeek",
+      "summary": "苹果同意与英特尔合作在美国设计制造芯片。微软因成本原因拟将Copilot改为基于使用量的付费模式，并用开源AI模型DeepSeek取代OpenAI。此外Cushing库存接近1800万桶运营下限。",
+      "bullets": [
+        {
+          "actor": "苹果/英特尔",
+          "actor_type": "Corporate",
+          "text": "苹果同意与英特尔合作 在美国设计和制造芯片",
+          "details": "苹果公司已同意与英特尔合作，在美国设计和制造芯片。（来自Trump签字仪式相关披露）",
+          "important": true
+        },
+        {
+          "actor": "微软",
+          "actor_type": "Corporate",
+          "text": "微软Copilot拟改用量付费 用DeepSeek取代OpenAI",
+          "details": "由于成本原因，微软计划将Copilot的定价模式改为基于使用量的付费模式，并使用开源AI模型DeepSeek取代OpenAI。",
+          "important": false
+        },
+        {
+          "actor": "EIA数据",
+          "actor_type": "新闻",
+          "text": "Cushing原油库存接近1800万桶运营最低位",
+          "details": "EIA Weekly Cushing OK Crude Stocks (ex-SPR)：库存从2017年高点约69mmbbls持续下行，2026年当前水平约20-22mmbbls，接近运营最低线（18mmbbls）。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "AAPL",
+        "INTC",
+        "MSFT"
+      ],
+      "image_indexes": [
+        0
+      ],
+      "importance": 1,
+      "sources": [
+        "EIA"
+      ],
+      "date": "2026-06-18",
+      "image_urls": [
+        "/uploads/2026-06-18/c2da880700bc.jpg"
+      ]
+    }
+  ]
+}

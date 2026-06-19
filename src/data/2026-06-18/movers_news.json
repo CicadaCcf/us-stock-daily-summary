@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-06-19T01:31:18+00:00",
+  "date": "2026-06-18",
+  "since": "2026-06-16T20:00:00+00:00",
+  "by_ticker": {
+    "BFLY": [],
+    "FCEL": [],
+    "WOLF": [],
+    "QS": [
+      {
+        "headline": "Why Did QuantumScape Stock Soar Today?",
+        "url": "https://www.fool.com/investing/2026/06/18/why-did-quantumscape-stock-soar-today/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-06-18T15:23:17Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F875216%2Fquantumscape-image-the-motley-fool.png&w=1200&op=resize",
+        "description": "QuantumScape stock surged 16.45% after Honda's R&D division announced a partnership to advance the company's solid-state battery technology for electric vehicles and other applications. The partnership represents a major vote of confidence from a global automaker and highlights the potential market for solid-state battery technology across multiple product categories."
+      }
+    ],
+    "BE": [],
+    "WDC": [
+      {
+        "headline": "This Asian Country Is 1% The Size Of The US — And It Just Delivered 11x The S&P 500's Returns",
+        "url": "https://www.benzinga.com/markets/tech/26/06/53247325/south-korea-etf-ewy-112-percent-ai-memory-boom-2026?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+        "source": "Benzinga",
+        "published_at": "2026-06-17T12:52:43Z",
+        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/17/South-Korean-stock-market.jpeg",
+        "description": "South Korea's iShares MSCI South Korea ETF (EWY) has surged 112% year-to-date, delivering 11 times the return of the S&P 500. The rally is driven by SK Hynix and Samsung's dominance in high-bandwidth memory (HBM) manufacturing for AI accelerators, with both companies commanding nearly 46% of the ETF. Despite doubling in value, both stocks trade at low valuations with massive growth pipelines ahead."
+      }
+    ],
+    "QURE": [],
+    "RXT": [
+      {
+        "headline": "Why Rackspace Rallied Today",
+        "url": "https://www.fool.com/investing/2026/06/16/why-rackspace-rallied-today/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-06-16T20:14:39Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F874904%2Fgettyimages-1336250787.jpg&w=1200&op=resize",
+        "description": "Rackspace stock surged up to 21% after announcing a partnership expansion with AMD to deploy 30 MW of compute capacity for enterprise customers in regulated industries through 2028. The company also announced a 15% workforce reduction to save $75-85 million annually and refocus on AI opportunities. Despite the rally, Rackspace remains well below its $21 IPO price from 2020."
+      }
+    ]
+  }
+}
