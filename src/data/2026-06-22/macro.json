@@ -1,0 +1,516 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis-jun21",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊瑞士会谈启动60天路线图 海峡免费通行",
+      "summary": "瑞士美伊会谈取得建设性进展，双方在卡塔尔、巴基斯坦调解下同意启动60天路线图，设立核计划/制裁/争端解决等工作组，并就霍尔木兹通行与黎巴嫩去冲突化建立直接沟通机制。Trump、Vance在签署MOU后表态积极，伊朗内部Khamenei之子持保留立场，黎巴嫩战线仍是协议关键变量。",
+      "bullets": [
+        {
+          "actor": "美伊+卡塔尔/巴基斯坦",
+          "actor_type": "Foreign-Gov",
+          "text": "瑞士会谈启动60天路线图 设三大工作组",
+          "details": "瑞士美伊会谈取得建设性/令人鼓舞进展，美伊及调解方（卡塔尔、巴基斯坦）同意启动60d路线图，旨在达成最终协议；设立高级别委员会监督调解进程，并成立核计划、制裁和争端解决等工作组。技术谈判本周继续在瑞士进行；黎巴嫩去冲突化机制（de-confliction cell）成立，作为各方与黎巴嫩当局联络渠道，确保停火遵守并防止以色列-真主党敌对升级；霍尔木兹海峡直接沟通渠道设立，用于防止事件和误解，确保船舶安全通行。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "签MOU后强调经济利好 重申核报复立场",
+          "details": "Trump签署MOU后强调经济利好（油价下跌、股市新高），称以色列近期打击\"可以做得更好\"；重申任何国家向伊朗出售核武器将遭核打击。美国\"致力于和平\"，并呼吁该地区所有各方允许谈判\"顺利进行\"，期待所有战线全面停火，包括黎巴嫩、真主党和以色列。停火期间的60d内，霍尔木兹海峡将不收取通行费；60d期限过后，除非美国征收通行费，否则也不会收取通行费。",
+          "important": false
+        },
+        {
+          "actor": "JD Vance",
+          "actor_type": "US-Executive",
+          "text": "Vance称取得重大进展 公开批评以色列恐慌反应",
+          "details": "Vance称会谈已取得\"重大进展\"，美方伸出\"橄榄枝\"推动关系转变；强调核问题和黎巴嫩停火是重点。对伊朗核进展和黎巴嫩停火持乐观态度，谈判将持续\"几天\"，他将停留\"一两天\"，第一轮目标是\"建立实际的架构和谈判机制\"。本周末出行尚未最终确定，可能因伊朗代表团出席与否而变化。美国以色列是不同国家有不同需求；不信任任何人包括以色列人；公开批评以色列反应为\"奇怪的恐慌\"，呼吁以色列批评者\"醒醒闻闻现实\"；称Trump是目前全世界唯一一位同情以色列的国家元首。",
+          "important": false
+        },
+        {
+          "actor": "美方谈判方案",
+          "actor_type": "US-Executive",
+          "text": "美方望首轮以伊朗邀IAEA核查换冻结资金解冻",
+          "details": "美国希望首轮会谈以伊朗邀请联合国核查人员访问其核设施而告终，这些设施曾遭美以轰炸，上一次此类访问发生在6月份即上次战争爆发之前；作为交换美国愿意让伊朗动用部分被冻结的资金——首先是卡塔尔的一个6B账户，伊朗方面可以利用这些资金购买人道主义物资。Jerusalem Post同步报道美卡塔尔计划解冻伊朗数十亿美元资金用于人道主义物资采购，作为协议一部分。",
+          "important": false
+        },
+        {
+          "actor": "美伊代表团",
+          "actor_type": "Foreign-Gov",
+          "text": "双方代表赴瑞士Buergenstock进行技术级会谈",
+          "details": "美伊双方谈判代表于6月20日陆续前往瑞士（卢塞恩附近Buergenstock/Obbürgen度假村），计划21日（周日）举行技术级会谈，讨论中期协议（MoU）细节，包括核问题执行、霍尔木兹海峡通行及相关实施。伊朗代表团包括外长Abbas Araghchi、议长Mohammad Bagher Ghalibaf等；美方副总统JD Vance赴瑞士，Jared Kushner、Steve Witkoff已在当地，卡塔尔和巴基斯坦调解人参与。原定周五会谈因黎巴嫩冲突升级被伊朗推迟，目前转为21日技术会谈。期间伊朗一度因\"抗议Trump威胁\"离场，美伊分别通过卡塔尔、巴基斯坦中间人继续谈。",
+          "important": false
+        },
+        {
+          "actor": "伊朗（Tasnim/外交部）",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗警告以色列违反MOU第1条 可能废除全部谈判",
+          "details": "伊朗方面（Tasnim等）称因以色列在黎巴嫩南部持续行动违反MOU第一条款，暂停代表团赴瑞士行程，并警告可能废除全部后续谈判、重启全面霍尔木兹封锁及导弹报复。外交部发言人Esmaeil Baghaei称：若美方未尽快履行承诺（尤其是停止以色列在黎巴嫩行动），整个谅解备忘录将陷入麻烦；最终协议谈判需先落实关键承诺，否则备忘录整体受威胁。",
+          "important": false
+        },
+        {
+          "actor": "Araghchi/Baghaei",
+          "actor_type": "Foreign-Gov",
+          "text": "伊外长称取得重大进展 石油出口豁免+资产释放",
+          "details": "伊朗外长阿拉格奇称巴基斯坦和卡塔尔调解取得重大进展，推动结束黎巴嫩战争；石油和石化出口豁免、封锁解除、部分冻结资产释放，并启动伊朗重建与发展计划；外长发言人Esmail Baghaei称会谈就石油销售许可发放和冻结资产释放取得良好进展；就霍尔木兹海峡安全通行达成机制安排；战争及各战线（包括黎巴嫩）军事行动必须结束。",
+          "important": false
+        },
+        {
+          "actor": "Mojtaba Khamenei",
+          "actor_type": "Foreign-Gov",
+          "text": "哈梅内伊之子反对签MOU 仅基于总统个人保证授权",
+          "details": "Mojtaba Khamenei称他反对与美国签署MOU，强调\"原则上持有不同观点\"，仅基于佩泽什基安的总统和最高国家安全委员会主席身份及其个人保证后授权签署MOU。已授权与美国进行直接对话，但并不意味着会有deal（支持但政治隔离的态度）。",
+          "important": false
+        },
+        {
+          "actor": "Pezeshkian/Ghalibaf",
+          "actor_type": "Foreign-Gov",
+          "text": "佩泽什基安称MOU为国家自豪文件 不会屈服",
+          "details": "佩泽什基安称MOU是\"国家自豪文件\"，伊朗\"未以尊严和独立换取任何威胁或压力\"；强调谈判不等于投降，如果美方寻求过多让步，他们不会屈服；Ghalibaf称若美国不履行承诺，则无协议。",
+          "important": false
+        },
+        {
+          "actor": "以色列/真主党",
+          "actor_type": "Foreign-Gov",
+          "text": "黎南空袭致16死 以与真主党约定周五下午4点停火",
+          "details": "以色列20日在黎巴嫩南部（Nabatiyeh地区及周边村庄）发动空袭，至少造成16人死亡（包括儿童）；真主党发射50余枚弹药，以色列打击数十个目标。过去48小时以色列在黎巴嫩有5名士兵阵亡。以色列和真主党已同意于当地时间周五下午4点停火。以色列方面（据Haaretz）：本周将与黎巴嫩举行会谈，讨论将部分地区移交给黎巴嫩军队控制；以军可能从黎巴嫩\"黄线\"部分撤出。",
+          "important": false
+        },
+        {
+          "actor": "伊朗军方/最高安全委员会",
+          "actor_type": "Foreign-Gov",
+          "text": "伊军方宣布关闭海峡 安委会确认60天免通行费",
+          "details": "伊朗军方（Khatam al-Anbiya中央总部）宣布关闭霍尔木兹海峡，作为对美以违约的回应；告知真主党除非以色列公开承诺黎巴嫩全面停火否则不会重新开放。伊朗最高国家安全委员会：根据谅解备忘录，通过霍尔木兹海峡的船舶在60d内无需缴纳任何费用。巴基斯坦驻阿拉比亚外交部长：中国支持船只无偿通过霍尔木兹海峡。",
+          "important": false
+        },
+        {
+          "actor": "美中央司令部",
+          "actor_type": "US-Executive",
+          "text": "CENTCOM：20日55艘商船安全通过 运17Mb石油",
+          "details": "美中央司令部发言人Capt. Tim Hawkins称：伊朗不控制霍尔木兹海峡，20日有55艘商船安全通过，运载超过17Mb石油，美军正监测确保正常。通行统计：6/20 17:30-6/21 17:30共21艘其中5艘出湾Tanker、3艘进湾Tanker；6/19-20共19艘（3出1进Tanker）；6/18-19共22艘（1出6进Tanker）。科威特、伊拉克等多个国家开始提高石油产量。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "Jerusalem Post",
+        "Haaretz",
+        "Tasnim"
+      ],
+      "date": "2026-06-22",
+      "image_urls": []
+    },
+    {
+      "id": "china-stimulus-jun21",
+      "topic": "中国刺激",
+      "topic_tag": "policy",
+      "title": "发改委6月底下达全年设备更新+以旧换新资金",
+      "summary": "发改委加码消费与设备更新支持，《求是》撰文要求强化供需适配；日本财政司警告外汇投机。",
+      "bullets": [
+        {
+          "actor": "发改委",
+          "actor_type": "Foreign-Gov",
+          "text": "6月底前下达￥200B设备更新+￥62.5B以旧换新",
+          "details": "发改委宣布6月底前将下达今年全部￥200B设备更新项目清单和第三批￥62.5B消费品以旧换新资金。",
+          "important": true
+        },
+        {
+          "actor": "《求是》",
+          "actor_type": "Foreign-Gov",
+          "text": "求是撰文：更大力度提振消费 强化供需适配",
+          "details": "求是发表文章以更大力度提振消费，需统筹惠民生与促消费，强化供需适配，完善政策体系。",
+          "important": false
+        },
+        {
+          "actor": "日本财务省",
+          "actor_type": "Foreign-Gov",
+          "text": "日财政司称已准备好对投机性汇率波动果断行动",
+          "details": "日本财政司表示，已准备好对投机性外汇波动采取果断行动。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-22",
+      "image_urls": []
+    },
+    {
+      "id": "uk-starmer-resign-jun21",
+      "topic": "英国政局",
+      "topic_tag": "macro-other",
+      "title": "媒体：Starmer将宣布辞去首相职务",
+      "summary": "多家媒体报道Keir Starmer将正式宣布辞职。",
+      "bullets": [
+        {
+          "actor": "英国媒体",
+          "actor_type": "新闻",
+          "text": "Starmer将于今日宣布辞职 周一公布时间表",
+          "details": "多家媒体报道称，Keir Starmer将在今天与妻子和家人商议后，正式宣布辞去首相职务，于周一公布辞职时间表。",
+          "important": true
+        },
+        {
+          "actor": "市场含义",
+          "actor_type": "Analyst",
+          "text": "英镑及英债面临政治不确定性",
+          "details": "首相辞职将引发执政党内部新一轮领导权竞争，英镑、Gilts面临政治不确定性溢价。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-22",
+      "image_urls": []
+    },
+    {
+      "id": "fed-sellside-views-jun21",
+      "topic": "美联储路径(卖方)",
+      "topic_tag": "fed",
+      "title": "卖方Fed路径分化 BofA/DB看加息 GS/MS/JPM按兵不动",
+      "summary": "Warsh主导下Fed沟通'政权更迭'，声明精简至130字、摒弃前瞻指引；卖方对2026路径严重分化：BofA看+75bp、DB+50bp，GS/JPM/MS/UBS按兵不动，Citi预计-75bp宽松。",
+      "bullets": [
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "DB：Fed沟通政权更迭 2026预计加息50bp",
+          "details": "美联储开启沟通\"政权更迭\"，声明大幅精简至130字并摒弃前瞻指引。沃什展现鹰派立场，SEP上调今明两年核心PCE预测至3.3%和2.5%，点阵图暗示加息风险。设立五大工作组审查政策框架。DB预测2026年加息50bps：9月和12月各加息25bp，年底联邦基金利率达4.1%；核心PCE通胀预期上调至2026年底3.2%；2027年持稳，2028年上半年降息50bp回归中性；存在7月提前加息的上行风险。",
+          "important": true
+        },
+        {
+          "actor": "MS",
+          "actor_type": "Analyst",
+          "text": "MS：6月鹰派但年底前不动 上调2Q GDP至3.0%",
+          "details": "尽管6月FOMC会议呈鹰派且SEP暗示加息50bp，但MS认为通胀预期偏高。预计核心PCE走势温和，Fed年底前将维持利率不变。上调2Q26美国GDP追踪预估至3.0%，受益于强劲零售销售。",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "Nomura：2027年底前利率维持3.625% Warsh释鸽派",
+          "details": "美联储6月按兵不动，预计2027年底前利率维持3.625%不变。尽管点阵图偏鹰，暗示2026年或有加息，但主席Warsh释放鸽派信号。预计5月核心PCE同比升至3.457%，服务业通胀顽固。美伊停战致油价下跌，短期利好通胀。Q2 GDP预测上调至2.6%，经济展现韧性，年底失业率或降至4.1%。",
+          "important": false
+        },
+        {
+          "actor": "卖方汇总",
+          "actor_type": "Analyst",
+          "text": "汇总：BofA+75bp/DB+50bp/Citi-75bp 路径严重分化",
+          "details": "BofA：+75bp(9/10/12月)、终点4.25-4.50%、2027按兵不动，逻辑鹰派叙事+鹰派反应函数；DB：+50bp(9/12月)、终点4.10%、2027按兵不动，粘性通胀；GS：按兵不动、终点3.50%、2027按兵不动，投票委员多数仍倾向维持；JPM：按兵不动、终点3.50%，加息门槛高；MS：按兵不动、终点3.50%，SEP通胀预测过于乐观；UBS：按兵不动、终点3.50%、2027 3月-25bp，工资成本不支持加息；Citi：-75bp(10/12/1月)、终点2.75%，通胀异常值+就业走弱。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        6
+      ],
+      "importance": 3,
+      "sources": [
+        "BofA",
+        "DB",
+        "GS",
+        "JPM",
+        "MS",
+        "UBS",
+        "Citi",
+        "Nomura"
+      ],
+      "date": "2026-06-22",
+      "image_urls": [
+        "/uploads/2026-06-22/49aff2220fdb.png"
+      ]
+    },
+    {
+      "id": "sellside-macro-jun21",
+      "topic": "卖方观点(其他)",
+      "topic_tag": "macro-other",
+      "title": "GS下调金价目标 MS上调韩国GDP UBS示警股债负相关",
+      "summary": "GS将2026年底金价目标从5,400下调至4,900美元/盎司，仍看好美债曲线中部；MS上调韩国2026 GDP至2.8%、KOSPI目标9,000；MS Warmup维持SPX 12月8,300目标；UBS指10Y与SPX 2月滚动相关性-0.69创1996以来新低。",
+      "bullets": [
+        {
+          "actor": "GS Gold",
+          "actor_type": "Analyst",
+          "text": "GS将2026年底金价目标从$5,400下调至$4,900",
+          "details": "因Fed年内不降息且政策鹰派，GS将2026年底黄金目标价从5,400美元/盎司下调至4,900美元/盎司。短期风险偏向下行，极端情况可能触及4,440美元/盎司；但中期受央行购金（预计50吨/月）及地缘政治驱动，结构性观点仍看多。",
+          "important": true
+        },
+        {
+          "actor": "GS GRT",
+          "actor_type": "Analyst",
+          "text": "GS GRT：看好美债5Y 推荐2s10s GBP陡峭化",
+          "details": "美伊协议缓解通胀担忧，但美联储鹰派信号致前端利率重定价。GS GRT看好美债曲线中部（5年期）表现，推荐2s10s英镑陡峭化交易以对冲财政风险。欧洲波动率下降利好短端南欧国债，日本关注财政政策对2-5年期的利空影响。",
+          "important": false
+        },
+        {
+          "actor": "MS KR",
+          "actor_type": "Analyst",
+          "text": "MS上调韩国2026 GDP至2.8% KOSPI目标9,000",
+          "details": "上调韩国2026年GDP增速预测至2.8%，认为经济正从K型复苏转向全面反弹。受科技出口强劲及消费复苏推动，预计韩国央行将于7月启动加息，年内共加息4次，终端利率看至3.50%。同时，因家庭资产向股市转移产生财富效应，将KOSPI目标价上调至9,000点。",
+          "important": false
+        },
+        {
+          "actor": "MS Weekly Warmup",
+          "actor_type": "Analyst",
+          "text": "MS：Warsh重建Fed信誉 SPX 12个月目标8,300",
+          "details": "Kevin Warsh出任美联储主席有助于重建央行信誉，SPX/黄金比率自其提名以来上涨40%。尽管短期流动性收紧构成股市逆风，但盈利增长仍是牛市核心驱动力。维持美股基准情境下未来12个月目标8,300点，长期看空油价。",
+          "important": false
+        },
+        {
+          "actor": "UBS Global Macro",
+          "actor_type": "Analyst",
+          "text": "UBS：10Y-SPX 2月相关性-0.69 创1996以来新低",
+          "details": "10Y与SPX的2个月滚动相关性降至-0.69，创1996年以来新低。深度负相关通常出现在通胀高于3.1%时期，债券避险功能失效。市场可能从\"卖债波买股波\"转向\"买债波卖股波\"策略，需警惕去杠杆风险。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GLD",
+        "EWY"
+      ],
+      "image_indexes": [
+        7
+      ],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "MS",
+        "UBS"
+      ],
+      "date": "2026-06-22",
+      "image_urls": [
+        "/uploads/2026-06-22/d68da814dac0.png"
+      ]
+    },
+    {
+      "id": "kol-views-jun21",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "KOL：SOXL规模膨胀+SOX类2000 NQ AI临近临界点",
+      "summary": "多位KOL警示半导体投机和AI叙事临界状态：SOXL AUM达$33B、隐含$100B多头敞口；Brandon类比SOX vs 2000 NQ；short bear警告AI代币支出下降；Ed Bradford指Fed加息时关税油价通胀冲击或已消退。",
+      "bullets": [
+        {
+          "actor": "@Alpha_Ex_LLC",
+          "actor_type": "KOL",
+          "text": "SOXL AUM达$33B 日内再平衡需$10B 类GME/SLV",
+          "details": "SOXL AUM已达到$33B，意味着它目前账面上实际持有约$100B多头敞口，如果底层指数$SOXX当天上涨/下跌5%，SOXL就需要在同一天买入/卖出约$10B，每日再平衡行为本身就构成了一个重要的市场力量，类似21年GME和26年SLV。",
+          "important": true
+        },
+        {
+          "actor": "Brandon Cral",
+          "actor_type": "KOL",
+          "text": "Brandon：SOX类比00年NQ 货币政策力度不够",
+          "details": "用现在SOX对比00年NQ，就整体价格上涨、上涨速度以及缺乏健康的市场而言，必要条件已经具备，鉴于当前的投机程度和需求带来的通胀效应，货币政策力度还不够。政府的干预主义倾向，可能会使泡沫持续的时间超过其自然周期。",
+          "important": false
+        },
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "short bear：AI接近危险临界点 代币支出在下降",
+          "details": "油价和市场真正担心的，不是伊朗单纯关闭霍尔木兹海峡，即使本周末有消息称海峡关闭，无论是否通过谈判达成协议，签署的谅解备忘录以及美国采取侵略行动的风险降低，都不足以推动油价突破本周中创下的低位高点；资产价格的顶部再次不是由交易决定的，而是由激进情绪的峰值动能决定的，How much worse can it get? > How bad is it? AI似乎正接近一个危险的临界点，并不意味着一切都结束了，但我们正处于历史的极端状态，无论是在扩展方面还是在资金流动方面，而代币支出却在下降。",
+          "important": false
+        },
+        {
+          "actor": "Ed Bradford",
+          "actor_type": "KOL",
+          "text": "Ed：Fed加息时关税油价通胀冲击或已消退",
+          "details": "Fed加息时，关税和原油价格上涨带来的通胀冲击很可能已经消退。这一点值得关注。",
+          "important": false
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "Joseph：4月外资涌入美股 美元是全球赌场入场券",
+          "details": "4月份，外国投资者纷纷涌入美国股市。美元的一个被低估的支撑点是，它是进入全球最大赌场的入场券。",
+          "important": false
+        },
+        {
+          "actor": "Peter Berezin",
+          "actor_type": "KOL",
+          "text": "Berezin：若LLM收益递减 前沿实验室6个月优势缩水",
+          "details": "许多关于人工智能的流行投资者论述都预设了LLM开发不会出现收益递减的情况。如果收益递减，那么领先前沿模型6个月的经济优势会随着时间的推移而缩小，这对前沿实验室来说将是一个巨大的问题。使用LLM的用户之间不会进行互动，因此即使率先拥有庞大的用户群，也不太可能像社交媒体那样形成自然垄断。",
+          "important": false
+        },
+        {
+          "actor": "@gbrew24",
+          "actor_type": "KOL",
+          "text": "海峡航运回升 昨日20+艘含13艘油轮",
+          "details": "霍尔木兹海峡的航运量有所回升——昨天有20多艘船只通过，其中包括13艘油轮——但如果人们对协议能否维持下去没有信心，以及在清除水雷和恢复安全方面没有采取切实措施，航运量将缓慢恢复。",
+          "important": false
+        },
+        {
+          "actor": "@WinMonroe",
+          "actor_type": "KOL",
+          "text": "WinMonroe：规则vs自由裁量权之争 鹰派偏规则",
+          "details": "货币政策领域最持久、最经典的争论之一就是规则与自由裁量权之争。传统上，鹰派和保守派倾向于采用规则导向的货币政策，而非自由裁量权。",
+          "important": false
+        },
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "Pies：取消前瞻指引不会削弱Fed影响力",
+          "details": "无论好坏Fed仍然是金融世界的中心。这就是我们现有的体系。取消前瞻性指引并不会削弱美联储对资本市场的影响力；取消前瞻性指引的主要好处在于能够更快地响应不断变化的情况和数据。",
+          "important": false
+        },
+        {
+          "actor": "Aelia Capitolina",
+          "actor_type": "KOL",
+          "text": "Aelia：罗马三世纪危机式 科技股权分红或最可靠",
+          "details": "下一个时代可能面临类似\"罗马三世纪危机\"的局面，黄金可能买不到东西，最可靠的可能是科技巨头的股权分红。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SOXL",
+        "SOXX",
+        "SMH"
+      ],
+      "image_indexes": [
+        0,
+        2
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-22",
+      "image_urls": [
+        "/uploads/2026-06-22/10d3d3ed71f9.jpg",
+        "/uploads/2026-06-22/29c0a6f22f8d.png"
+      ]
+    },
+    {
+      "id": "ai-sector-macro-jun21",
+      "topic": "AI行业宏观",
+      "topic_tag": "ai",
+      "title": "AI Token消耗中国超美 Lutnick指控ASML设备流入中国",
+      "summary": "FT援引数据预计中国AI模型Token消耗已超美国；Vercel CEO称GLM-5.2编码能力震撼；Lutnick指控ASML有高端芯片设备流入中国；Thiel支持初创计划建海上漂浮数据中心；Ramp数据显示AI支出远低于工程师薪资。",
+      "bullets": [
+        {
+          "actor": "Lutnick/美商务部",
+          "actor_type": "US-Executive",
+          "text": "Lutnick指控ASML高端芯片设备已流入中国",
+          "details": "Lutnick及美国商务部官员指责世界上最大的光刻机公司ASML，已有部分生产高端芯片的机器或设备，流入了中国。",
+          "important": true
+        },
+        {
+          "actor": "FT",
+          "actor_type": "新闻",
+          "text": "FT：中国AI模型Token消耗量已超美国模型",
+          "details": "FT援引数据预计，中国AI模型的Token消耗量已超过美国模型。",
+          "important": false
+        },
+        {
+          "actor": "Vercel CEO",
+          "actor_type": "Corporate",
+          "text": "Vercel CEO：GLM-5.2编码能力震撼 改变一切",
+          "details": "Vercel CEO称被GLM-5.2的出色编码能力所折服，甚至有些震惊。这改变了一切。",
+          "important": false
+        },
+        {
+          "actor": "Thiel系初创",
+          "actor_type": "Corporate",
+          "text": "Thiel支持初创：海洋漂浮数据中心 降冷却成本",
+          "details": "一家由彼得·蒂尔支持的初创公司宣布计划在海洋中建造漂浮式数据中心。其优势在于更便宜的冷却成本和避免当地阻力。",
+          "important": false
+        },
+        {
+          "actor": "Ramp AI Index",
+          "actor_type": "新闻",
+          "text": "Ramp：Top1%企业AI月支$745/人 远低工程师$15.98K",
+          "details": "Ramp AI Index数据：软件工程师月薪中位数$15.98K；每员工AI月支出中位数：Top 1%企业$745，Top 10%企业$610.61，中位企业$11.38。几乎没有公司在AI上的支出超过人力。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "ASML",
+        "NVDA"
+      ],
+      "image_indexes": [
+        3
+      ],
+      "importance": 2,
+      "sources": [
+        "FT",
+        "Ramp"
+      ],
+      "date": "2026-06-22",
+      "image_urls": [
+        "/uploads/2026-06-22/8be16752c62c.jpg"
+      ]
+    },
+    {
+      "id": "us-market-structure-jun21",
+      "topic": "美股市场结构",
+      "topic_tag": "macro-other",
+      "title": "Apollo：年内市值增长仅集中AI+能源 SpaceX解锁时间表",
+      "summary": "Apollo数据显示2026年内美股市值增长高度集中于AI与能源板块，其余板块净下跌；Gavekal数据示企业派息持续高增；SpaceX解锁时间表显示Musk 46.1%股份将于Day 366一次性可售；Bowman FOMC后赴BoA私人晚宴；Kalshi年化营收超$2B；Musk预言AI将逼政府直接发现金。",
+      "bullets": [
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "市值年内增长仅AI+能源 其余板块累计-$4T",
+          "details": "Apollo图示自2026年1月1日以来S&P市值变化：AI板块贡献峰值约+$8T，能源小幅正贡献，其余板块（S&P ex AI/能源）4月低点跌幅约-$4T，S&P 500整体峰值$6-7T后回落至$5-6T。市值增长高度集中AI+能源，其他板块下跌。",
+          "important": true
+        },
+        {
+          "actor": "Bowman",
+          "actor_type": "Central-Bank",
+          "text": "Bowman FOMC后赴BoA客户私人晚宴",
+          "details": "Bowman周三晚间在纽约出席了美国银行为客户举办的仅限受邀人士参加的私人晚宴，此前数小时就是FOMC。",
+          "important": false
+        },
+        {
+          "actor": "Leverage Shares",
+          "actor_type": "Analyst",
+          "text": "SpaceX解锁：Day 366 Musk 46.1%一次性可售",
+          "details": "SpaceX股份解锁时间表（SEC 6月17日2026文件）：IPO 4.9%（2026年7月）→分阶段Early-Release Window逐步升至40%（12月8日）→正常解锁延续至50.8%（6月）→Day 366（6月12日）Musk锁定期结束，46.1%一次性可售，自由流通跳至96.9%→99.5%（7月）→100%（8-9月）。",
+          "important": false
+        },
+        {
+          "actor": "Gavekal Research",
+          "actor_type": "Analyst",
+          "text": "Gavekal：美企派息强劲 净股东回报$1.55T",
+          "details": "美国国内非金融企业（含REITs）年化数据：净派息从1995年约$0.2T升至2023年峰值$2.7T，当前$1.43T；净股东回报$1.55T；净股权发行多数年份为负、当前$124B。",
+          "important": false
+        },
+        {
+          "actor": "Kalshi",
+          "actor_type": "Corporate",
+          "text": "Kalshi年化营收run-rate已超$2B",
+          "details": "Kalshi当前年化营收（run-rate）已超过2B。",
+          "important": false
+        },
+        {
+          "actor": "Musk",
+          "actor_type": "Corporate",
+          "text": "Musk：通缩成最大威胁 AI将逼政府直接发现金",
+          "details": "Musk称随着通货紧缩成为最大威胁，AI将迫使各国政府直接向民众发放现金。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "QQQ"
+      ],
+      "image_indexes": [
+        1,
+        4,
+        5
+      ],
+      "importance": 2,
+      "sources": [
+        "Apollo",
+        "Gavekal"
+      ],
+      "date": "2026-06-22",
+      "image_urls": [
+        "/uploads/2026-06-22/743c8c6396e2.png",
+        "/uploads/2026-06-22/008c880dfec7.png",
+        "/uploads/2026-06-22/f518327fe827.jpg"
+      ]
+    }
+  ]
+}
