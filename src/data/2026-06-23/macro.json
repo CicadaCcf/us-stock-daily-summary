@@ -1,0 +1,475 @@
+{
+  "topics": [
+    {
+      "id": "fed-policy-outlook-2025-06-24",
+      "topic": "美联储/利率",
+      "topic_tag": "fed",
+      "title": "Goolsbee关注通胀粘性，KOL热议Fed指引收缩",
+      "summary": "Fed的Goolsbee聚焦关税与中东影响减弱后通胀是否回落，服务业通胀是其担忧点。多位KOL和卖方指出Fed公开指引减少将推升美债期限溢价与前端波动率，呼应DB与MS的交易主张。",
+      "bullets": [
+        {
+          "actor": "Goolsbee",
+          "actor_type": "Central-Bank",
+          "text": "Goolsbee：劳动力稳定，关注通胀是否回落",
+          "details": "Fed的Goolsbee（non-voter）：随着劳动力市场稳定，他正专注于弄清楚过高通胀是否会持续保持这种状态，还是随着高关税影响减弱以及中东冲突是否得到解决而回落。他指出对服务业通胀的担忧，而服务业历来通胀较为稳定。",
+          "important": true
+        },
+        {
+          "actor": "Ed Bradford",
+          "actor_type": "KOL",
+          "text": "Fed减少讲话→政策波动与期限溢价上行",
+          "details": "Ed Bradford：Fed减少了公开讲话，指导力度也减弱，我们应该预期政策波动性会更大，美国国债期限溢价也会结构性地走高。如果你保持开放的心态，这将是债券交易的好时机。",
+          "important": false
+        },
+        {
+          "actor": "Fed Lord",
+          "actor_type": "KOL",
+          "text": "Fed Lord：Fed政策让市场回报左尾变厚",
+          "details": "Fed Lord：Fed的政策让市场回报分布的left tail变厚了。",
+          "important": false
+        },
+        {
+          "actor": "Tavi Costa",
+          "actor_type": "KOL",
+          "text": "TaviCosta：Powell从鹰派到最鸽，再回鹰派",
+          "details": "@TaviCosta：Powell最初曾被视为市场导向的鹰派，随后美联储成为历史上最鸽派的中央银行之一，直到经济开始崩溃，大家都是鹰派。",
+          "important": false
+        },
+        {
+          "actor": "MS Matthew Hornbach",
+          "actor_type": "Analyst",
+          "text": "MS：前端波动率才是区分Fed主席的关键",
+          "details": "MS Matthew Hornbach：收益率水平并不能清晰地区分四位美联储主席（格林斯潘、伯南克、耶伦、鲍威尔）的执政时期，因为收益率水平更多反映的是经济周期。真正定义利率机制的是前端波动率以及收益率曲线的形状。前端波动率在格林斯潘时期最高，随后在危机期间下降，在耶伦时期几乎静止，并在鲍威尔时期重新回升。若回归格林斯潘式少指引模式，美债前端波动率将显著回升，预计从当前压缩水平反弹。建议做多曲线形状及前端波动率，维持SFRZ6M7曲线flattener及2年期SOFR互换价差多头，警惕平静曲线交易策略风险。",
+          "important": false
+        },
+        {
+          "actor": "DB FICC",
+          "actor_type": "Analyst",
+          "text": "DB：定价已对齐3.5-4%中性利率，做空10Y",
+          "details": "DB FICC：随着Fed政策转向，市场对美国前端利率定价已与该行3.5%-4.0%的均衡利率预期达成一致。当前核心观点转向期限溢价上升，认为当前宏观环境类似1990年代，受科技资本支出及德国财政刺激驱动，且全球债券自由浮动量显示供需结构支持溢价上行。建议做空10年Y美债以捕捉这一基本面驱动，尽管夏季季节性因素可能导致重定价过程缓慢。",
+          "important": false
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "Analyst",
+          "text": "Erian：收益率与油价脱钩，关注供给端",
+          "details": "Erian：我对yield（今天较高）如何继续与油价（较低）脱钩很感兴趣。造成这种情况的可能原因包括：市场预期美联储将采取更鹰派的立场、对通胀的担忧，以及——我认为在现阶段影响最大的因素——市场关注大规模且不断增长的企业和政府债券发行前景。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ Greenspan专栏：政策盲点埋下08危机",
+          "details": "WSJ发表Greenspan专栏，成功提升了美联储在公众生活中的重要性，展现了市场洞察力、经济理论和政治平衡能力，在任期间，他经常介入非美联储的辩论，通常站在总统一方，但是对金融风险的忽视（尤其是住房泡沫）、Greenspan put和反监管立场，为2008年金融危机埋下了隐患，格林斯潘对'人性不变'的深刻理解，是他决策的核心，而并非经济数据，但也导致了政策上的盲点。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        4,
+        5
+      ],
+      "importance": 2,
+      "sources": [
+        "WSJ",
+        "MS",
+        "DB"
+      ],
+      "date": "2026-06-23",
+      "image_urls": [
+        "/uploads/2026-06-23/452e9f5c545f.jpg",
+        "/uploads/2026-06-23/ec05c4c90e91.jpg"
+      ]
+    },
+    {
+      "id": "us-iran-hormuz-crisis-2025-06-24",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "Trump警告伊朗，瑞士谈判推进资金释放与核查",
+      "summary": "Trump重申必要时将动用武力，Vance称伊朗已同意核检查员回国。伊朗议长Ghalibaf披露卡塔尔-瑞士两步走释放两笔各60亿美元资金，并称美方违反不威胁条款导致谈判一度中断；阿曼外长重申霍尔木兹海峡通行安全。",
+      "bullets": [
+        {
+          "actor": "Ghalibaf",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗议长：两笔各6B资金释放已在卡塔尔启动",
+          "details": "Ghalibaf称，根据第11条款，两笔各6B资金的释放步骤已在卡塔尔之行中启动，最终签名在瑞士之行完成。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：若伊朗不履约，将做必须做的事",
+          "details": "Trump：核武器比经济衰退更严重，'我没说会引发萧条，我说可能引发萧条'。如果伊朗不履行协议或不表现，我会做我必须做的事。",
+          "important": false
+        },
+        {
+          "actor": "Vance",
+          "actor_type": "US-Executive",
+          "text": "Vance：伊朗已同意邀请核检查员回国",
+          "details": "Vance：昨天是很好的会谈日，伊朗已同意邀请核检查员回国。",
+          "important": false
+        },
+        {
+          "actor": "Ghalibaf",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗：因Trump威胁中断谈判，仅通过调解人沟通",
+          "details": "Ghalibaf称，谈判中因特朗普对伊朗总统和谈判团队发出威胁，美方违反'不得威胁或施压'条款，伊朗代表团中断谈判并离场。美方通过调解人求恢复，但伊朗拒绝直接与美方对话，仅与卡塔尔、巴基斯坦调解人沟通，最终由调解人发布声明；强调外交与军事并非对立，谈判是斗争的延续；伊朗从未想与美方同框合影；霍尔木兹海峡由伊朗管理，将设立中心和热线电话处理30d过渡期问题。",
+          "important": false
+        },
+        {
+          "actor": "阿曼外长",
+          "actor_type": "Foreign-Gov",
+          "text": "阿曼外长：伊朗承诺海峡安全无通行费",
+          "details": "阿曼外交部长：伊朗谈判代表重申遵守国际法，确保霍尔木兹海峡安全、无通行费通过。",
+          "important": false
+        },
+        {
+          "actor": "Ghalibaf",
+          "actor_type": "Foreign-Gov",
+          "text": "Ghalibaf即将访问中国",
+          "details": "Ghalibaf即将访问中国。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "Trump召集军工承包商加快导弹生产",
+          "details": "WSJ报道特朗普周三召集五角大楼高级官员和顶级军事承包商前往白宫，讨论在对美国导弹供应问题的担忧下加快弹药生产。",
+          "important": false
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "Analyst",
+          "text": "Erian：瑞士会谈富有成效，成则油价继续跌",
+          "details": "Erian：周末在瑞士举行的美伊会谈富有成效，反映出双方都渴望达成协议。如果成功（目前仍是未知数），这将导致油价进一步下跌。",
+          "important": false
+        },
+        {
+          "actor": "Aelia Capitolina",
+          "actor_type": "KOL",
+          "text": "Aelia：水面下消极，做多原油小仓试探",
+          "details": "Aelia Capitolina：伊朗在瑞士谈判后明显软化对抗调子，以色列坚持'西方文明保卫者/前线军团'定位，一步不退，特朗普被夹在两条平行叙事中间，空间很小。认为水面下实际很消极，做多原油可小仓位试探。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-06-23",
+      "image_urls": []
+    },
+    {
+      "id": "asia-policy-2025-06-24",
+      "topic": "亚洲政策",
+      "topic_tag": "policy",
+      "title": "韩在野党推未实现收益征税，日财相急谈美财政部",
+      "summary": "韩国在野党与工会联合主张将股票、房地产未实现收益纳入综合所得税；韩国金融监管拟遏制三星/海力士杠杆ETF风险；日本财相据悉与美国财政部紧急线上磋商。",
+      "bullets": [
+        {
+          "actor": "韩国在野党",
+          "actor_type": "Foreign-Gov",
+          "text": "韩在野党+工会：未实现收益应纳入综合征税",
+          "details": "韩国在野党（民主党、祖国革新党等）和工会组织（民主劳总、韩国劳总等）于23日上午在国会举行座谈会，主题为'资产所得征税空白与向综合所得税转型摸索'，他们集体主张：股票、房地产等投资的'未实现收益（미실현 이익）'也应视为收入，进行综合征税，打破目前仅对'实现收益'征税的制度。",
+          "important": true
+        },
+        {
+          "actor": "日本财务大臣",
+          "actor_type": "Foreign-Gov",
+          "text": "日财相据悉与美财政部官员紧急线上会议",
+          "details": "日本财务大臣据悉与美财政部官员举行了紧急线上会议。",
+          "important": false
+        },
+        {
+          "actor": "韩国金融监管",
+          "actor_type": "Foreign-Gov",
+          "text": "韩监管或限制三星/海力士杠杆ETF",
+          "details": "韩国金融监管机构正考虑采取措施，以遏制追踪三星电子和SK海力士的杠杆型个股交易所交易基金(ETF)所带来的风险。",
+          "important": false
+        },
+        {
+          "actor": "Citi JP",
+          "actor_type": "Analyst",
+          "text": "花旗上调日经225目标至90000点",
+          "details": "Citi JP上调日经225目标至90,000点：花旗研究认为日本科技引领的牛市持续，虽6月初受美债利率影响回调，但随宏观缓和重拾涨势。鉴于科技股EPS快速上修及全球数据中心投资激增，判断当前涨幅非泡沫。维持TOPIX目标4,500点，将日经225目标上调至90,000点，看好科技板块相对超额收益。",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "野村：BOJ 2026/12 & 2027/6加息至1.5%",
+          "details": "Nomura BOJ：维持日本央行在2026年12月及2027年6月加息的主基线预测，预计政策利率最终升至1.5%。报告指出，尽管中东局势缓解，但供应链恢复仍需时间，核心CPI通胀预计于2027年一季度见顶。财政方面，焦点转向高市早苗政府的增长战略及消费税削减方案，拟将食品税率降至1%并发放现金补贴，但资金来源及反对党态度仍存不确定性。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-23",
+      "image_urls": []
+    },
+    {
+      "id": "ai-bubble-debate-2025-06-24",
+      "topic": "AI泡沫/科技集中度",
+      "topic_tag": "ai",
+      "title": "Apollo警示NQ/SPX隐波创多年新高，AI权重47%",
+      "summary": "Apollo数据显示NQ对SPX隐波飙至多年新高，反映AI股避险需求超大盘；AI相关股已占SP500约47%。GS对比1990年代认为资本支出已可匹敌但宏观失衡信号尚未出现，Niles警示hyperscalers承压，bboczeng看多存储2026-2027涨价周期。",
+      "bullets": [
+        {
+          "actor": "Apollo Slok",
+          "actor_type": "Analyst",
+          "text": "Apollo：NQ/SPX隐波飙至多年新高",
+          "details": "Apollo Slok：NQ对于SPX的IV已飙升至多年来的最高水平。这一飙升反映出投资者对人工智能股票的避险需求远高于对整体市场的避险需求。",
+          "important": true
+        },
+        {
+          "actor": "@CheddarFlow",
+          "actor_type": "KOL",
+          "text": "AI相关股已占SP500约47%",
+          "details": "@CheddarFlow：AI-related stocks now reflect ~47% of the S&P 500.",
+          "important": false
+        },
+        {
+          "actor": "GS Dominic Wilson",
+          "actor_type": "Analyst",
+          "text": "GS：宏观失衡未现，但资本支出已匹敌1990s",
+          "details": "GS Dominic Wilson：1990年代热潮终结时发出的宏观失衡信号尚未出现；但市场定价已经走得更远，事先计入了大量来自人工智能的潜在价值。标志1990年代潜在泡沫问题的四个变量中，只有资本支出热潮既不像1990年代科技热潮那样广泛，也不像那样持久。但其规模现在已能与之匹敌。其他宏观动态尚未沿着1990年代的路径发展。利润率保持在高位；企业部门的金融收支总体上仍然相当稳定；经常账户赤字已缩小。",
+          "important": false
+        },
+        {
+          "actor": "Dan Niles",
+          "actor_type": "Analyst",
+          "text": "Niles：AI出现短期减速带，hyperscalers承压",
+          "details": "Dan Niles：AI行情出现'短期减速带'（near-term speed bump），hyperscalers（花钱的那一方）面临压力，市场正在越来越挑剔：钱应该流向拿到AI钱的公司（半导体、硬件、设备商）。",
+          "important": false
+        },
+        {
+          "actor": "孙正义",
+          "actor_type": "Corporate",
+          "text": "孙正义：太空数据中心价值不大，AI看地球算力",
+          "details": "Softbank创始人孙正义表示，埃隆·马斯克倡导的太空数据中心建设价值不大，并预测人工智能竞赛将由地球上的计算资源决定。",
+          "important": false
+        },
+        {
+          "actor": "Nadella",
+          "actor_type": "Corporate",
+          "text": "Nadella：AI下阶段依赖更低成本模型",
+          "details": "微软首席执行官萨蒂亚·纳德拉警告说，不应让新AI时代的经济利益仅落到少数几家公司的手中。在接受彭博社采访时，他批评了当前AI竞赛的轨迹，并预测行业的下一阶段将更多地依赖成本更低的模型。",
+          "important": false
+        },
+        {
+          "actor": "Qualcomm",
+          "actor_type": "Corporate",
+          "text": "高通拟4B收购AI基础设施软件公司Modular",
+          "details": "Qualcomm正积极洽谈收购Modular，该人工智能基础设施软件公司估值约为4B。",
+          "important": false
+        },
+        {
+          "actor": "OpenAI",
+          "actor_type": "Corporate",
+          "text": "OpenAI将向广告商推介ChatGPT广告与Codex",
+          "details": "OpenAI将在全球顶级广告盛会上首次亮相，本周向市场营销人员和代理机构推介其新兴的ChatGPT广告业务和Codex编程工具，作为其上市前打造数十亿美元新业务的努力之一。",
+          "important": false
+        },
+        {
+          "actor": "bboczeng",
+          "actor_type": "KOL",
+          "text": "存储预计26年涨50%、27年再涨45%",
+          "details": "bboczeng：2026年Q3/Q4存储价格继续涨50%，2027年再涨45%，直到2028年扩产才可能回落。认为如果预测成立，市场可能在2027年中提前反应，但整体对半导体和内存仍偏多。",
+          "important": false
+        },
+        {
+          "actor": "华创 郭忠良",
+          "actor_type": "Analyst",
+          "text": "华创：SOX/MAG7估值溢价已达40%",
+          "details": "华创 郭忠良：SOX和MAG7的总回报之比升至2019年的高位, 同时SOX相对于MAG7的估值溢价干到40%, 这个押注已经有点儿本末倒置了。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "QCOM",
+        "MSFT",
+        "NVDA"
+      ],
+      "image_indexes": [
+        1,
+        3
+      ],
+      "importance": 3,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-06-23",
+      "image_urls": [
+        "/uploads/2026-06-23/f8d9bce88ff1.jpg",
+        "/uploads/2026-06-23/7a400d1ee351.jpg"
+      ]
+    },
+    {
+      "id": "gs-inflation-forecast-2025-06-24",
+      "topic": "GS通胀路径",
+      "topic_tag": "macro-other",
+      "title": "GS：AI将推升26年底CPCE 0.4pp，27年回落至2.2%",
+      "summary": "GS Abecasis指出CPCE今年再加速，源自能源传导、AI相关价格压力及金融服务通胀；预计6月HCPI/HPCE分别-0.13%/0.07%；AI相关压力到2026/12将使CPCE YoY升约0.4pp，2026/12 CPCE预计3.2%，2027/12降至2.2%。",
+      "bullets": [
+        {
+          "actor": "GS Manuel Abecasis",
+          "actor_type": "Analyst",
+          "text": "GS：26/12 CPCE 3.2%，27/12降至2.2%",
+          "details": "GS Manuel Abecasis：CPCE今年已重新加速，部分反映了能源价格传导、因衡量问题放大的与AI相关的价格压力以及由股价上升驱动的金融服务通胀等多重因素的综合作用。汽油价格走低将转化为6月的总体通胀读数走软，对6月初步的HCPI和HPCE估计分别为-0.13%和0.07%。与AI相关的价格压力将在2026年12月使YoY CPCE提高约0.4%。预测到2026年12月CPCE YoY为3.2%，随后随着人工智能和能源影响减弱，到2027年12月将放缓至2.2%。",
+          "important": true
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS情景假设：基准油价Q4/26降至$80",
+          "details": "GS情景图注：Baseline assumes oil prices average $88 in June and $86 in July before declining to $80 by 2026Q4. Downside scenario assumes oil prices average $88 in June and $84 in July before declining to $70 by 2026Q4. Upside scenario assumes oil prices average $88 in June and peak at $130 in 2026 before declining to $105 on average in 2027.",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        6
+      ],
+      "importance": 2,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-06-23",
+      "image_urls": [
+        "/uploads/2026-06-23/6e22e47f722d.png"
+      ]
+    },
+    {
+      "id": "flows-rebalancing-2025-06-24",
+      "topic": "资金流/再平衡",
+      "topic_tag": "rates",
+      "title": "JPM：季末被动抛售股票165B，Barclays债基流入强",
+      "summary": "JPM估机构投资者季末将被动抛售高达165B美股、等额买入债券，为至少4年最高。Barclays显示中期企业债需求飙至近6月98分位，年初至今债基流入311B。Apollo零售PC基金赎回率Q2跳升至17%。",
+      "bullets": [
+        {
+          "actor": "JPM Flow",
+          "actor_type": "Analyst",
+          "text": "JPM：季末被动卖股买债规模达165B",
+          "details": "JPM Flow：估算机构投资者到本季度末将被动抛售高达165B的股票，并购买等额的债券，这将是至少4年来的最高水平。",
+          "important": true
+        },
+        {
+          "actor": "Barclays Flow",
+          "actor_type": "Analyst",
+          "text": "Barclays：债基年初至今流入311B",
+          "details": "Barclay Flow：美国债市中期需求强劲。截至6月18日当周，债券基金流入15B，其中中期企业债需求飙升至近六个月第98百分位。大型银行增持10B美债并减持MBS，货币市场基金回流40B。年初至今债基总流入达311B，远超去年同期。",
+          "important": false
+        },
+        {
+          "actor": "Apollo",
+          "actor_type": "Corporate",
+          "text": "Apollo零售PC基金Q2赎回率飙至17%",
+          "details": "Apollo旗舰零售私募信贷基金的投资者赎回请求在第二季度飙升至该工具价值的17%，凸显了对回报下降和债务市场压力加剧的担忧。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "APO"
+      ],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "JPM",
+        "Barclays"
+      ],
+      "date": "2026-06-23",
+      "image_urls": [
+        "/uploads/2026-06-23/5ac3d59704f6.jpg"
+      ]
+    },
+    {
+      "id": "gold-positioning-2025-06-24",
+      "topic": "黄金",
+      "topic_tag": "macro-other",
+      "title": "DB下调黄金目标至$4300，投机净多创高位",
+      "summary": "DB下调金价目标至$4,300（较前预测下调超20%）；CFTC数据显示大型投机者黄金净多占未平仓约40%，接近历史高位。",
+      "bullets": [
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "DB下调金价目标至$4,300（下调超20%）",
+          "details": "DB Gold：下调目标至$4,300（较此前预测下调超过20%）。",
+          "important": true
+        },
+        {
+          "actor": "CFTC数据",
+          "actor_type": "新闻",
+          "text": "黄金大型投机者净多占比逼近40%",
+          "details": "Large Speculators Net Position as % of Open Interest - Gold：净多占未平仓百分比近期升至约40%，处历史高位区。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GLD"
+      ],
+      "image_indexes": [
+        2
+      ],
+      "importance": 1,
+      "sources": [
+        "DB"
+      ],
+      "date": "2026-06-23",
+      "image_urls": [
+        "/uploads/2026-06-23/ad8ec241b620.png"
+      ]
+    },
+    {
+      "id": "kol-trading-views-2025-06-24",
+      "topic": "KOL/技术面",
+      "topic_tag": "macro-other",
+      "title": "MSTR融资稀释、RUT空头机会、SPX gamma支撑",
+      "summary": "TheShortBear拆解MSTR以低于NAV发股稀释BTC敞口的结构；LindaRaschke看小盘股做空机会；SpotGamma显示7459支撑被市商10k短put守住；Bogachan质疑SpaceX投资级评级与交付差距。",
+      "bullets": [
+        {
+          "actor": "@TheShortBear",
+          "actor_type": "KOL",
+          "text": "MSTR需BTC年复合15%涨5年才能弥补稀释",
+          "details": "@TheShortBear：MSTR/Strategy表面上'美元储备 + BTC持有量都在增加'，但资金来源主要是低于NAV的普通股发行（dilution），通过发行股票以70~75美分的价格卖掉了一部分BTC exposure（稀释）。还要每年额外支付10%分红（相当于持续流出）。要让剩下的BTC exposure价值增长到足够弥补上面两项损失，BTC本身就必须以每年约15%左右的速度复合上涨5年。",
+          "important": true
+        },
+        {
+          "actor": "@LindaRaschke",
+          "actor_type": "KOL",
+          "text": "Raschke：RUT明日或现做空机会",
+          "details": "@LindaRaschke：明天RUT可能出现做空机会，大盘股（尤其是部分龙头）已经在被聪明钱悄悄出货，而小盘股却还在相对强势或最后跟涨，小盘股通常是市场上涨的滞后指标，大盘涨完它才跟，且这里的反弹技术贝利。",
+          "important": false
+        },
+        {
+          "actor": "SpotGamma",
+          "actor_type": "Analyst",
+          "text": "SpotGamma：7459支撑被10k短put守住",
+          "details": "Spotgamma：Despite the selloff, our SpotGamma Implied 1-Day Move Low at 7,459 held well throughout the session. It is also notable that market makers appeared to hold roughly 10k short puts at 7,460, and hedging flow seemed to engage around that level multiple times during the day.",
+          "important": false
+        },
+        {
+          "actor": "@Bogachan_1971",
+          "actor_type": "KOL",
+          "text": "SpaceX亏5B却获投资级，故事驱动炒作",
+          "details": "@Bogachan_1971：SpaceX虽然在Nasdaq相关业务上亏损5B，但其债券却获得了三大评级机构的投资级评级，Musk比任何人都更懂当前市场的游戏规则，只需要不断抛出宏大愿景和故事，实际交付远低于承诺，华尔街会自动接力炒作。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MSTR",
+        "IWM"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-06-23",
+      "image_urls": []
+    }
+  ]
+}
