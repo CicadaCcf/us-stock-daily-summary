@@ -1,0 +1,411 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-jun24",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊MOU重塑霍尔木兹格局，伊朗否认核查承诺",
+      "summary": "Trump 宣称伊朗已同意最高级别核查并接受美国托管账户安排，伊朗当即否认；美伊与阿曼正就霍尔木兹海峡共管框架谈判，但海峡中心航道仍存约80枚地雷，船舶绕行替代航道。参议院通过限制总统对伊军事行动的非约束性决议；伊朗IRGC相关银行遭网络攻击。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普称伊朗已同意最高级别核查及第三方托管账户",
+          "details": "Trump：伊朗已完全同意在未来很长一段时间内接受最高级别的核查；财政部释放的资金和制裁款项将存入由美国控制的第三方托管账户，仅用于购买美国食品和医疗产品；正在努力达成公平协议，可在一周内完成伊朗任务，可随意飞越德黑兰，让伊朗没有导弹能力、没有留下任何核能力，他们已同意。",
+          "important": true
+        },
+        {
+          "actor": "伊朗政府",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗否认\"最高级别核查\"承诺，坚持冻结资金自由使用",
+          "details": "伊朗方面否认特朗普关于\"最高级别核查\"的承诺；坚持冻结资金可自由使用，不接受仅限购买美国食品和医疗产品的限制。",
+          "important": false
+        },
+        {
+          "actor": "伊朗与阿曼",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗与阿曼谈判共同管理霍尔木兹海峡航行框架",
+          "details": "伊朗和阿曼表示，双方正在就共同管理霍尔木兹海峡航行的框架进行谈判，包括海上服务和相关费用；两国重申对领海的主权，并承诺保持这条重要航道的安全和畅通。",
+          "important": false
+        },
+        {
+          "actor": "航运信息",
+          "actor_type": "新闻",
+          "text": "海峡中心航道有约80枚地雷，船舶绕行替代航道",
+          "details": "Hormuz海峡中心航道存在约80枚地雷，正常通航需清理；船舶正通过阿曼南部或伊朗北部替代航道驶出；韩国HMM确认两艘船（含一艘VLCC）正驶出霍尔木兹海峡。",
+          "important": false
+        },
+        {
+          "actor": "美国参议院",
+          "actor_type": "US-Congress",
+          "text": "参议院50-48通过限制总统对伊军事行动决议",
+          "details": "参议院以50票对48票通过限制总统对伊朗进行军事行动的能力，决议虽非约束性，但代表了国会对战争权力分配的看法。",
+          "important": false
+        },
+        {
+          "actor": "网络攻击事件",
+          "actor_type": "新闻",
+          "text": "IRGC关联多家银行遭网络攻击，金融服务中断",
+          "details": "网络攻击导致与IRGC相关的多家银行服务中断，影响国内ATM、手机应用等金融服务。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-06-24",
+      "image_urls": [
+        "/uploads/2026-06-24/29b742e50893.png"
+      ]
+    },
+    {
+      "id": "bessent-policy-jun24",
+      "topic": "Bessent政策表态",
+      "topic_tag": "policy",
+      "title": "Bessent谈Warsh、银行放松管制与供应链",
+      "summary": "财长Bessent力挺Warsh将优化增长路径、回归通胀目标，强调放松银行管制的作用，并呼吁审查供应链以避免美国受制于海外咽喉要道。",
+      "bullets": [
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "Bessent称Warsh将优化增长路径，通胀回归目标",
+          "details": "Bessent：Warsh将优化增长路径，实现价格稳定，通胀将回归目标水平。",
+          "important": true
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "强调放松管制在美国银行体系中的作用",
+          "details": "Bessent强调了放松管制在美国银行体系中的作用。",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "呼吁审查供应链，避免受制于海外咽喉要道",
+          "details": "Bessent呼吁检查供应链，以评估哪些地区容易受到冲击，并在国内建立足够的能力，以确保美国人民永远不会受制于国外的咽喉要道。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普命令司法部调查汽油价格下跌速度",
+          "details": "Trump已命令司法部调查汽油价格，他表示汽油价格下跌速度不够快。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-24",
+      "image_urls": []
+    },
+    {
+      "id": "fed-warsh-reaction-function-jun24",
+      "topic": "美联储Warsh沟通体制",
+      "topic_tag": "fed",
+      "title": "Warsh新沟通体制引发市场对反应函数的争论",
+      "summary": "Warsh首秀听起来鹰派但实际政策指引极少（UBS模型显示仅5%政策相关，远低于Powell时期27%）。Dudley批评其多次拒绝说明反应函数，市场和Fed陷入互相猜测；Citadel则认为新体制更灵活，对长端利率有利；BofA预判9月、12月各加息25bp，7月加息概率升至超1/3。",
+      "bullets": [
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "UBS模型：Warsh首秀仅5%内容具政策相关性",
+          "details": "美联储最新新闻发布会虽听起来鹰派，但实质政策指引极少。模型显示仅5%内容具政策相关性，远低于Powell时期平均的27%。鹰派言论占比升至83%，但绝对水平与2025年7月相当，低于2022-2024年高点。",
+          "important": true
+        },
+        {
+          "actor": "Bill Dudley",
+          "actor_type": "Analyst",
+          "text": "Dudley批评Warsh拒绝说明反应函数，市场Fed互相猜测",
+          "details": "Bill Dudley：正常情况下取消前瞻指引和精简声明是对的，但Warsh在首次新闻发布会上多次拒绝说明美联储的政策反应函数，这有点过火。如果美联储不说明自己的反应函数，市场就不知道美联储会如何反应，结果就是市场在猜美联储、美联储又在看市场，形成恶性循环，没有清晰的政策锚。\"提供反应函数信息\"≠前瞻性指引，建议把FOMC参与者的经济预测（增长、通胀、就业）与他们的利率预测明确挂钩，让市场能看出分歧到底来自经济展望还是反应函数不同。",
+          "important": false
+        },
+        {
+          "actor": "Citadel",
+          "actor_type": "Analyst",
+          "text": "Citadel：新体制反应更灵活，对长端利率有利",
+          "details": "Citadel：Fed旧体制重视利率路径的可预测性，新体制更愿意在反应函数要求时快速行动，也愿意在风险分布改善后解除保险。一个主动应对未来风险的美联储，政策利率可以更灵活，但宏观结果波动性更低。可信度不是预先承诺平滑的季度路径，而是让市场相信你会在问题根深蒂固之前行动，做得好Fed最终需要做的反而更少。",
+          "important": false
+        },
+        {
+          "actor": "Citadel",
+          "actor_type": "Analyst",
+          "text": "Citadel：油价下跌不会机械移除加息预期",
+          "details": "Citadel：油价下跌不会机械地移除加息预期——这误解了体制切换。近期偏差首先不是关于单一通胀输入，而是委员会选择优先考虑哪一边的使命。Warsh明确表示通胀而非劳动力市场是当前主导关切，这使得每次会议都灵活的——他特别指出下次会议仅六周后。市场需要习惯一个不等加息或降息完全定价就行动的Fed。更高可信度的代价可能是前端定价更少的舒适感；一个高度可信的美联储应该对长端利率有利，愿意更激进调整政策利率的央行应降低通胀持续性、脱锚或更大宏观事故的概率。",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "BofA：7月加息概率升至超1/3，9月、12月各加25bp",
+          "details": "BofA Fed：美伊签署临时协议但全面达成协议前景谨慎，中东地缘格局重塑。美联储新主席Warsh首秀鹰派超预期，SEP点图显示半数委员预期今年加息，7月加息概率升至超1/3。德银维持今年9月、12月各加息25bp预判。Warsh推行\"极简\"沟通并设五大工作组，或取消点图并重构资产负债表框架，市场波动性恐加剧。",
+          "important": false
+        },
+        {
+          "actor": "Mike Konczal",
+          "actor_type": "KOL",
+          "text": "Konczal：Warsh做法或违反伍德福德货币理论",
+          "details": "Mike Konczal：Warsh想通过大幅减少沟通让市场\"自己看数据\"来定价，但这可能违反了伍德福德等人的货币政策理论（如果央行严格盯住私人部门对通胀的预期来制定政策，会导致理性预期均衡不存在），容易造成市场预期的不确定性和政策效果的不稳定。",
+          "important": false
+        },
+        {
+          "actor": "Anna Wong",
+          "actor_type": "Analyst",
+          "text": "Anna Wong：今年市场定价或Fed政策必有一错",
+          "details": "Anna Wong：现在经济学家对于通胀问题非常反常，如果通胀数据再次显示黏性或持续性，有人却可能反过来强调\"其实是暂时的\"，或者在通胀真的暂时回落时却故意渲染\"黏性\"来攻击不同观点；今年美联储加息的市场定价要么错误，要么美联储即将犯下政策错误。",
+          "important": false
+        },
+        {
+          "actor": "Lisa Abramowicz",
+          "actor_type": "KOL",
+          "text": "Lisa：2Y与油价分化，市场仍视通胀为威胁",
+          "details": "Lisa Abramowicz发帖讨论2Y和油价分化，回复中大部分人认为市场现在只看美联储政策，此外依然认为通胀是威胁，即使油价在跌。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-06-24",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-macro-jun24",
+      "topic": "卖方宏观观点",
+      "topic_tag": "earnings",
+      "title": "GS称DM价格压力过峰，MS下调油价，BofA上调日股",
+      "summary": "GS指DM价格压力过峰，6月制造业投入价格PMI大跌4.5pt至72.9，并预计内存涨价回落带动软件配件通胀放缓，但商品涨价今年对核心PCE仍贡献约40bp。MS下调2026Q3布油至$90、Q4维持$80，超配美股、看空美元。BofA上调TOPIX 2026目标至4400点、日经225至76000点，潜在高点80000。",
+      "bullets": [
+        {
+          "actor": "GS ECO",
+          "actor_type": "Analyst",
+          "text": "GS：DM价格压力过峰，制造业投入价格PMI骤降",
+          "details": "GS ECO：发达经济体价格压力已过峰值。6月DM各项价格PMI分项均下降，制造业投入价格PMI大跌4.5pt至72.9。5月DM综合PMI升至51.1，美制造业PMI升至55.7，英服务业PMI降至48.7陷入收缩。前瞻指标向好，订单库存比升至1.10，显示经济活动稳步扩张，通胀冲击缓解。",
+          "important": true
+        },
+        {
+          "actor": "GS ECO",
+          "actor_type": "Analyst",
+          "text": "GS：内存价格停滞将令软件配件通胀放缓",
+          "details": "GS：2025年第四季度和2026年第一季度内存价格大幅上涨，但此后停滞不前；因此预计未来几个月计算机软件和配件的通胀将放缓。",
+          "important": false
+        },
+        {
+          "actor": "GS ECO",
+          "actor_type": "Analyst",
+          "text": "GS：商品涨价今年对核心PCE贡献约40bp，2027年消退",
+          "details": "GS估计较高的商品价格今年将对核心PCE通胀带来约40bp的提振，预计在2027年消退；不利情景下虚线峰值约0.7个百分点。",
+          "important": false
+        },
+        {
+          "actor": "MS Macro",
+          "actor_type": "Analyst",
+          "text": "MS：下调2026Q3布油至$90，超配美股看空美元",
+          "details": "MS Macro发布美伊局势更新报告，指出美伊签署谅解备忘录（MOU）重新开放霍尔木兹海峡，虽存在执行风险但显著降低地缘政治溢价。预计伊朗石油产量9月恢复50%、12月恢复80%。据此将2026年三季度布伦特原油价格预测下调10美元至90美元/桶，四季度维持80美元/桶。资产策略上，维持超配股票（尤其美股）、低配核心固收，并认为市场过度定价美联储鹰派风险，看好美元走弱及新兴市场货币表现。",
+          "important": false
+        },
+        {
+          "actor": "BofA JP",
+          "actor_type": "Analyst",
+          "text": "BofA上调TOPIX目标至4400，日经225至76000",
+          "details": "BofA JP上调日本股市目标：将2026年底TOPIX目标上调至4,400点，日经225上调至76,000点，潜在高点看至80,000点。驱动因素为AI需求超预期及制造业周期复苏带动ROE通过杠杆扩张提升。但指出选股集中度达历史高位，7-9月需警惕回调风险，建议规避高估值AI股，配置非AI板块对冲。",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "Nomura：SPX 1%日波动可触发$21B波动率控制基金卖出",
+          "details": "Nomura：本周出现的类似剧烈股市波动的持续，可能会使波动率控制基金成为重度卖出者。估计SPX两周每日1%变化有$21B的卖出流，1.5%则有$41B。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2,
+        3
+      ],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-06-24",
+      "image_urls": [
+        "/uploads/2026-06-24/e75b9e095b20.jpg",
+        "/uploads/2026-06-24/bbb084a82715.png"
+      ]
+    },
+    {
+      "id": "asia-semi-ai-jun24",
+      "topic": "亚洲半导体/AI",
+      "topic_tag": "ai",
+      "title": "SK海力士拟赴美IPO募45.45万亿韩元，台积电涨价5-10%",
+      "summary": "SK海力士计划赴美上市筹资45.45T韩元（$29.4B），三星与SK海力士与韩政府讨论第二芯片集群提前十多年建设。台积电对所有N7及以下工艺涨价5-10%。三星因劳工协议拟回购约90T韩元股份。韩首席政策顾问再提通过税收共享AI红利。",
+      "bullets": [
+        {
+          "actor": "SK海力士",
+          "actor_type": "Corporate",
+          "text": "SK海力士计划赴美IPO，募资45.45T韩元（$29.4B）",
+          "details": "SK海力士正计划在美国上市，创历史性地筹集45.45T韩元（$29.4B），正值人工智能供应链沿线的公司争相扩充容量以满足内存芯片需求。",
+          "important": true
+        },
+        {
+          "actor": "韩国政府",
+          "actor_type": "Foreign-Gov",
+          "text": "韩政府与三星、SK海力士商讨第二芯片集群提前建设",
+          "details": "韩国政府正与三星电子和SK海力士讨论重大的新半导体生产设施投资。受人工智能需求推动，政府可能会将第二个芯片集群的建设计划提前十多年。",
+          "important": false
+        },
+        {
+          "actor": "台积电",
+          "actor_type": "Corporate",
+          "text": "台积电对N7及以下前沿工艺涨价5-10%",
+          "details": "台积电将对所有前沿7nm及以下芯片制造工艺（N7/5/4/3/2等）价格上调5%-10%。",
+          "important": false
+        },
+        {
+          "actor": "三星",
+          "actor_type": "Corporate",
+          "text": "三星拟回购约90T韩元股份用于支付特别绩效奖金",
+          "details": "三星由于之前与劳工团体达成协议同意以股份支付特别经营绩效奖金，因此准备回购约90T韩元股份。",
+          "important": false
+        },
+        {
+          "actor": "韩国首席政策顾问",
+          "actor_type": "Foreign-Gov",
+          "text": "韩首席政策顾问再提通过税收共享AI红利",
+          "details": "韩国总统的首席政策顾问今日再次谈到有必要通过多余的税收收入来共享人工智能带来的成果。",
+          "important": false
+        },
+        {
+          "actor": "SoftBank",
+          "actor_type": "Corporate",
+          "text": "软银计划投资日本最大电力公司保障AI能源",
+          "details": "SoftBank计划投资日本最大的电力公司，以保障AI的能源需求。",
+          "important": false
+        },
+        {
+          "actor": "中国监管",
+          "actor_type": "Foreign-Gov",
+          "text": "监管要求暂停管理人跨境TRS规模新增",
+          "details": "大陆多位私募业人士向记者透露，昨晚陆续收到合作券商的通知，监管要求暂停管理人跨境TRS（总收益互换）规模新增。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TSM"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-24",
+      "image_urls": []
+    },
+    {
+      "id": "ai-corp-news-jun24",
+      "topic": "AI企业动态",
+      "topic_tag": "ai",
+      "title": "Meta暂停AI培训项目，Cerebras亏损收窄，扎克伯格搞预测市场",
+      "summary": "Meta发现敏感公司数据被广泛访问后暂停内部AI培训项目；扎克伯格内部指示小团队开发类Polymarket/Kalshi预测市场应用。Cerebras首份上市公司财报亏损收窄、收入近翻倍但OPM年底前仍为负。Citadel点评AI竞争格局：中间层最难。",
+      "bullets": [
+        {
+          "actor": "Meta",
+          "actor_type": "Corporate",
+          "text": "Meta发现敏感数据被广泛访问后暂停内部AI培训",
+          "details": "$META在发现敏感公司数据被广泛访问后，暂停了内部人工智能培训项目。",
+          "important": true
+        },
+        {
+          "actor": "扎克伯格",
+          "actor_type": "Corporate",
+          "text": "扎克伯格内部指示开发类Polymarket预测市场应用",
+          "details": "Meta老板扎克伯格被曝，已在内部指示一支小型团队，开发类似Polymarket和Kalshi的预测市场应用。",
+          "important": false
+        },
+        {
+          "actor": "Cerebras",
+          "actor_type": "Corporate",
+          "text": "Cerebras上市首份财报：亏损收窄、收入近翻倍",
+          "details": "Cerebras Systems作为上市公司首次公布财报时缩小了亏损，收入几乎翻倍，但预计其营业利润率将在年底前保持负值并承受压力。",
+          "important": false
+        },
+        {
+          "actor": "Citadel",
+          "actor_type": "Analyst",
+          "text": "Citadel：AI竞争中间层最难，前沿玩家自我强化",
+          "details": "Citadel：问题不在于AI使用是否继续增长（几乎肯定增长），而在于谁能负担留在前沿、谁被迫优化远离前沿。拥有数据、分销、资产负债表、工程深度和组织能力的企业，上升的token使用是自我强化的，难的位置可能是中间层——大到面临企业部署的成本和复杂性，但小到无法将前沿推理成本摊销到真正规模化的收入池中。",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "腾讯IT cost从3000U调整到800U，企业反思层启动",
+          "details": "Herman Jin：企业IT cost层的反思是必然的，腾讯（虽然暂无代表性）从3000U调整到800U。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "META"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-24",
+      "image_urls": []
+    },
+    {
+      "id": "kol-tech-correction-jun24",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "KOL警示半导体后期、看科技股对冲科技股",
+      "summary": "多位KOL警示科技/半导体处于牛市后期：@cissan_9984超长期持仓后首次清仓半导体、电线和内存股转空；@TheOneLanceB认为半导体处于牛市后期需盘整；Andy称韩国dead cat bounce；Peter Berezin类比互联网泡沫初期，建议用其他股票对冲科技股。",
+      "bullets": [
+        {
+          "actor": "@cissan_9984",
+          "actor_type": "KOL",
+          "text": "@cissan_9984清仓半导体、电线、内存股并转空",
+          "details": "@cissan_9984：Sold all my semiconductor, electric wire, and memory stocks over yesterday and today, went short. It'd been just holding forever, so this is my first trade in super long time。",
+          "important": true
+        },
+        {
+          "actor": "@TheOneLanceB",
+          "actor_type": "KOL",
+          "text": "@TheOneLanceB：半导体处于牛市后期需盘整",
+          "details": "@TheOneLanceB：对于许多市场板块，比如半导体，我怀疑我们正处于牛市的后期或最后阶段（目前如此！），需要进行盘整，后期阶段波动剧烈，且存在获利了结缺口，使持股更难。",
+          "important": false
+        },
+        {
+          "actor": "Peter Berezin",
+          "actor_type": "Analyst",
+          "text": "Berezin：类比互联网泡沫初期，用其他股票对冲科技股",
+          "details": "Peter Berezin：在互联网泡沫破裂初期，科技股崩盘，而市场其余部分上涨。我们现在可能正进入类似的阶段。具有讽刺意味的是，这也意味着股票的良好对冲可能是......其他股票。",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "Andy：韩国dead cat bounce",
+          "details": "Andy：韩国dead cat bounce。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        4,
+        5
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-24",
+      "image_urls": [
+        "/uploads/2026-06-24/2ff09754efbc.jpg",
+        "/uploads/2026-06-24/b0313039a194.jpg",
+        "/uploads/2026-06-24/12e5a4b43b59.jpg"
+      ]
+    }
+  ]
+}
