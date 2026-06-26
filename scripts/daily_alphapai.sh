@@ -90,12 +90,31 @@ else
 fi
 
 # 4. Run the push.
+# Exit code semantics (the python script uses --skeleton-no-marker):
+#   0 = full content pushed → mark day done
+#   2 = skeleton-only (alphapai 全球版 not yet published, but Notion framework
+#       was created) → DON'T mark, so a later run today can still attempt to
+#       fetch real content if launchd re-fires (or user manually re-runs)
+#   1/other = real failure → don't mark
 log "running alphapai_to_notion.py"
-if /usr/bin/python3 server/alphapai_to_notion.py; then
-  mkdir -p "$(dirname "$MARKER")"
-  touch "$MARKER"
-  log "=== done (marker written) ==="
-else
-  log "ERROR: alphapai_to_notion.py failed; not writing marker"
-  exit 1
-fi
+set +e
+/usr/bin/python3 server/alphapai_to_notion.py --skeleton-no-marker
+RC=$?
+set -e
+
+case "$RC" in
+  0)
+    mkdir -p "$(dirname "$MARKER")"
+    touch "$MARKER"
+    log "=== done (full content pushed, marker written) ==="
+    ;;
+  2)
+    log "=== done (skeleton-only — Notion framework created, NO marker so we retry later) ==="
+    # exit 0 so launchd doesn't treat this as a hard failure
+    exit 0
+    ;;
+  *)
+    log "ERROR: alphapai_to_notion.py failed (rc=$RC); not writing marker"
+    exit "$RC"
+    ;;
+esac

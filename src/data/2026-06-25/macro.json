@@ -1,0 +1,453 @@
+{
+  "topics": [
+    {
+      "id": "iran-hormuz-crisis-2026-06-23",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊核谈判推进，伊朗资产解冻附条件",
+      "summary": "Trump称伊朗已同意最高级别长期核查验，否则不再谈判；协议含60天技术谈判期、稀释高浓铀、临时石油销售制裁豁免至8/1，初步解冻120亿美元资产分两批6B（或增至500亿）置于美控托管账户用于美农产品采购。伊朗外交部否认导弹/IAEA冲突站点检查，IRGC海军声明Hormuz安全通行须与伊朗协调；Netanyahu称无需美方许可即可打击伊朗。",
+      "bullets": [
+        {
+          "actor": "美伊谈判",
+          "actor_type": "新闻",
+          "text": "协议含稀释高浓铀、60天谈判期、解冻120亿美元",
+          "details": "协议包括伊朗承诺稀释高浓缩铀库存、60天技术谈判期、临时制裁relief（石油石化销售至8/1）；初始解冻12B美元资产，分两批各6B（可能后续增至50B），美方要求用于美国农产品（玉米、小麦、大豆等）人道采购，置于美控托管账户；伊朗强调\"伊朗唯一决定资产用途\"，可用于非制裁商品，无义务购买美货；美国称伊朗同意\"最高级别核查验长期有效\"，伊朗否认具体IAEA访问冲突目标站点计划。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "称伊朗已同意最高级别长期核查验",
+          "details": "Trump：伊朗已完全同意最高级别核查验长期有效，若不同意则无进一步谈判；封锁不太可能重启；资金仅用于美农产品采购；\"只要伊朗尊重我们，就不会有麻烦\"。",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "伊朗大部分资金将用于购买美国商品",
+          "details": "Bessent：伊朗大部分资金将用于购买美国商品，美国将监督伊朗资金分配。",
+          "important": false
+        },
+        {
+          "actor": "伊朗外交部",
+          "actor_type": "Foreign-Gov",
+          "text": "防御能力/导弹非谈判话题，无IAEA冲突站点检查计划",
+          "details": "伊朗外交部发言人：防御能力/导弹非谈判话题，无IAEA冲突站点检查计划。",
+          "important": false
+        },
+        {
+          "actor": "IRGC海军",
+          "actor_type": "Foreign-Gov",
+          "text": "Hormuz通行须与伊朗当局协调",
+          "details": "IRGC海军称Hormuz安全通行\"仅可能在与伊朗当局协调下\"进行，仅允许伊朗宣布路线，偏离者\"非常危险且禁止，将被处理\"。",
+          "important": false
+        },
+        {
+          "actor": "Netanyahu",
+          "actor_type": "Foreign-Gov",
+          "text": "无需美方许可即可打击伊朗",
+          "details": "Netanyahu称无需美方许可即可打击伊朗，仅通知Trump。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "XOM",
+        "CVX",
+        "USO"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-06-25",
+      "image_urls": []
+    },
+    {
+      "id": "bessent-economic-statecraft-2026-06-23",
+      "topic": "Bessent经济战略",
+      "topic_tag": "policy",
+      "title": "Bessent阐述21世纪美国经济战略五大原则",
+      "summary": "Bessent发表《American Economic Statecraft in the 21st Century》，提出五大核心原则：本土关键产能、互惠开放、新一代经济规则、金融领导（美元地位）、国家实力联系家庭繁荣。预计今年非通胀型增长加速至3%，类比90年代末生产率加速；赞赏Warsh取消前瞻指引；强调美元主导地位、降息时美元也可以走强。",
+      "bullets": [
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "预计今年3%非通胀型增长，类比90年代末生产率加速",
+          "details": "Bessent：预计今年非通胀型增长加速，认为今年可以实现3%增长，目前和90年代末的生产率加速类似；我们确实需要对伊朗冲突对价格或通胀的影响保持开放的心态，认为人工智能热潮可以提升生产率并实现通胀缓解，让我们回到2%目标。有信心Warsh会采取最佳路径，既满足通胀要求也满足增长使命，他谈通胀时态度很强硬。",
+          "important": true
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "提出美国经济战略五大核心原则",
+          "details": "Bessent《American Economic Statecraft in the 21st Century》：过去错误假设包括市场准入可无条件扩展、更紧密一体化=利益趋同、供应链危机中正常运转、其他国家公平对待美企。五大原则：1）经济安全始于国家产能，本土建设/投资/规模化关键产业（半导体、AI、量子计算、先进制造、造船、关键矿产、制药），供应链韧性≠100%本土化而是减少危险集中+建立足够本土产能避免外国choke point；2）开放必须以互惠为基础；3）美国制定下一代经济规则，支持增强美元/提高效率/扩大通达性/维护金融体系完整性的创新；4）金融领导是核心工具，美元地位反映市场深度/制度可信度/法治/经济规模；5）将国家实力与家庭繁荣联系起来。",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "赞赏Warsh取消前瞻指引，美元主导地位至关重要",
+          "details": "Bessent：赞赏Warsh取消前瞻指引做法，Trump公开私下都对Warsh有信心；美元主导地位至关重要，我们喜欢做的事情就是美元变强，cut时美元也可以走强。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-25",
+      "image_urls": []
+    },
+    {
+      "id": "trump-domestic-policy-2026-06-23",
+      "topic": "Trump国内施政",
+      "topic_tag": "policy",
+      "title": "Trump点名大型石油公司价格欺诈，立法施压",
+      "summary": "Trump公开点名ExxonMobil、Chevron、Shell、BP等大型石油公司价格欺诈，指原油大跌而加油站价格未同步下降；拒绝签署任何其他法案，除非SAVE America Act通过。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "点名XOM/CVX/Shell/BP价格欺诈",
+          "details": "Trump公开点名ExxonMobil、Chevron、Shell、BP等大型石油公司价格欺诈，尽管原油价格大幅下跌，但加油站价格未同步下降。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "拒签其他法案除非SAVE America Act通过",
+          "details": "Trump：拒绝签署任何其他法案，除非SAVE America Act通过。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "XOM",
+        "CVX",
+        "SHEL",
+        "BP"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-25",
+      "image_urls": []
+    },
+    {
+      "id": "warsh-fed-regime-2026-06-23",
+      "topic": "Warsh联储新框架",
+      "topic_tag": "fed",
+      "title": "Warsh鹰派信号引发debasement交易解仓",
+      "summary": "Warsh被提名领导Fed后，黄金、比特币、DXY、2s10s等debasement交易出现明显逆转——金价从~5500美元回落至~4000美元、DXY从97反弹至101、BTC从120K回落至85K、2s10s从70bp收窄至20bp。Mark Sobel认为市场对其\"鹰派\"标签判断为时尚早。",
+      "bullets": [
+        {
+          "actor": "市场",
+          "actor_type": "新闻",
+          "text": "Warsh提名后黄金/BTC/曲线debasement交易解仓",
+          "details": "Regime Change（Bloomberg）：Warsh被提名领导Fed后debasement交易解仓。黄金从~5500美元峰值回落至~4000美元；DXY从~97反弹至~101；BTC从~120K回落至~85K；2s10s曲线从~70bp陡峭高点收窄至~20bp。",
+          "important": true
+        },
+        {
+          "actor": "Mark Sobel",
+          "actor_type": "Analyst",
+          "text": "市场对Warsh鹰派标签判断为时尚早",
+          "details": "Mark Sobel：Warsh释放了偏鹰信号，但通过启动多个工作组和对通胀/生产率框架的开放讨论，显示他更倾向于谨慎评估而非立即立场鲜明，目前市场对他的\"鹰派\"标签判断还为时过早。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GLD",
+        "UUP",
+        "TLT"
+      ],
+      "image_indexes": [
+        4
+      ],
+      "importance": 3,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-06-25",
+      "image_urls": [
+        "/uploads/2026-06-25/ff28e9bb3c97.png"
+      ]
+    },
+    {
+      "id": "may-pce-forecasts-2026-06-23",
+      "topic": "5月PCE预测",
+      "topic_tag": "rates",
+      "title": "卖方一致预期5月PCE显著反弹",
+      "summary": "WSJ汇总15家机构对5月PCE预测，中位数Headline m/m 0.48%/y/y 4.1%，Core m/m 0.35%/y/y 3.4%，较4月Headline 0.40%/3.8%、Core 0.24%/3.3%明显反弹。Employ America头部最高（Headline 0.52%、Core 0.40%），Moody's最低（0.44%/0.32%）。",
+      "bullets": [
+        {
+          "actor": "WSJ/Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "5月PCE中位数Headline 0.48%/Core 0.35%，显著反弹",
+          "details": "WSJ汇总15家机构5月PCE预测中位数：Headline m/m 0.48%/y/y 4.1%，Core m/m 0.35%/y/y 3.4%。4月实际值：Headline m/m 0.40%/y/y 3.8%，Core m/m 0.24%/y/y 3.3%。",
+          "important": true
+        },
+        {
+          "actor": "各卖方",
+          "actor_type": "Analyst",
+          "text": "BofA/Barclays/BNP/UBS/Nomura均在中位数附近",
+          "details": "BofA：Headline 0.48%/4.1%, Core 0.35%/3.4%；Barclays：0.49%/4.1%, 0.36%/3.4%；BNP：0.48%/4.1%, 0.35%/3.4%；Citi：Core 0.37%/3.4%；Employ America：0.52%/4.1%, 0.40%/3.45%（最高）；Goldman：0.45%/4.0%, 0.31%/3.4%；Inflation Insights：0.48%/4.1%, 0.34%/3.4%；JPM：0.45%, 0.31%/3.4%；Moody's：0.44%/4.0%, 0.32%/3.4%（最低）；Nomura：0.48%/4.1%, 0.35%/3.4%；Pantheon：Core 0.38%/3.4%；SGH：0.47%/4.1%, 0.34%/3.4%；TD：0.49%/4.1%, 0.36%/3.4%；UBS：0.48%/4.1%, 0.35%/3.4%；Underlying Inflation：0.51%/4.1%, 0.38%/3.4%。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TLT",
+        "TIP"
+      ],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-06-25",
+      "image_urls": [
+        "/uploads/2026-06-25/cb8d775cf700.png"
+      ]
+    },
+    {
+      "id": "bull-market-valuation-2026-06-23",
+      "topic": "牛市估值",
+      "topic_tag": "macro-other",
+      "title": "牛市估值接近2000年峰值，NDR图表与买方警示",
+      "summary": "Minervini称此为首次有意义回调，类比90年代末估值——总市值/GDP接近2000年峰值。NDR数据显示当前牛市~900交易日/+105%，已超历史全部牛市均值（558天/81.2%）；股票市值/GDI达235.95，高出趋势线83.71%属顶部分位，历史上该水位后11年S&P平均-3.04%。",
+      "bullets": [
+        {
+          "actor": "NDR",
+          "actor_type": "Analyst",
+          "text": "市值/GDI达235.95，高出趋势83.7%属顶部分位",
+          "details": "NDR：S&P 500 vs. 股票市值/GDI（1925-12-31至2026-05-31）。S&P 500=7580.06；股票市值/GDI=235.95（趋势线=128.44），高出趋势线83.71%属顶部分位。历史回测：高于30.30百分位时，1/3/5/7/9/11年S&P平均回报-3.99/-9.24/-7.42/-4.84/-3.04（含1年0.90%）；低于-31.28时分别+16.40/+43.69/+73.85/+121.32/+180.39/+243.29。",
+          "important": true
+        },
+        {
+          "actor": "NDR牛市图谱",
+          "actor_type": "Analyst",
+          "text": "当前牛市~900日/+105%，已超全部牛市均值",
+          "details": "NDR牛市历史：长期牛市内周期性牛均值98.3%涨幅/745天；长期熊市内周期性牛均值61.7%/344天；全部牛市均值81.2%/558天。当前牛市~900交易日/+105%涨幅，已超过全部牛市均值，仅次于2015、1953、1946、2007、1998等。",
+          "important": false
+        },
+        {
+          "actor": "@markminervini",
+          "actor_type": "KOL",
+          "text": "第一次真正有意义回调，估值类比2000年",
+          "details": "@markminervini：技术上看这是一个第一次真正有意义的回调；此前有五次牛市持续时间更长、八次牛市收益率更高。与上世纪90年代末期相似之处在于估值——大多数指标显示股票价格似乎过高，股票总市值/GDP已达历史新高，非常接近2000年峰值。复苏迹象之前投资者应保持谨慎。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "QQQ"
+      ],
+      "image_indexes": [
+        1,
+        2
+      ],
+      "importance": 3,
+      "sources": [
+        "NDR"
+      ],
+      "date": "2026-06-25",
+      "image_urls": [
+        "/uploads/2026-06-25/68fb5cff4525.jpg",
+        "/uploads/2026-06-25/446cbb90ff78.jpg"
+      ]
+    },
+    {
+      "id": "sellside-views-2026-06-23",
+      "topic": "卖方观点",
+      "topic_tag": "earnings",
+      "title": "JPM上调SPX目标至7800，MS看多日股，HSBC/UBS示警AI信用",
+      "summary": "JPM将SPX年底目标上调至7800、2026 EPS预估$350（+29%），推荐哑铃配置；MS将2027年6月TOPIX目标上调至4300；DB认为2s10s实际曲线本周倒挂后有陡峭潜力；HSBC建议30Y-5Y平坦化交易目标66bp→30bp；HSBC Equity警示AI数据中心75%私营供应商财务脆弱；UBS Credit预计Q4信用利差走阔；JPM Cembalest认为美国资产优势压倒风险。",
+      "bullets": [
+        {
+          "actor": "JPM Global Equity",
+          "actor_type": "Analyst",
+          "text": "SPX年底目标上调至7800，2026 EPS $350(+29%)",
+          "details": "JPM Global Equity：上调SPX年底目标至7,800点。受AI资本支出激增（同比+77%）及盈利预期上调驱动，2026年EPS预估升至$350（+29%）。策略上推荐\"哑铃型\"配置：超配高质量AI上游、国防及银行，利用低波动率对冲风险；警惕低质量投机股因交易拥挤引发的逆转风险。",
+          "important": true
+        },
+        {
+          "actor": "MS JP",
+          "actor_type": "Analyst",
+          "text": "TOPIX 2027/6目标上调至4300",
+          "details": "MS JP：维持日本股市看涨评级，将2027年6月TOPIX目标价上调至4,300点。高市早苗政府长期执政预期及企业治理改革深化是核心驱动。建议超配上游B2B板块（机械、电气精密），关注AI基础设施及国家韧性主题。新加入森永乳业至焦点名单，剔除三井不动产。风险：中东地缘政治及AI估值波动。",
+          "important": false
+        },
+        {
+          "actor": "DB Rates",
+          "actor_type": "Analyst",
+          "text": "2s10s实际曲线本周倒挂后有陡峭潜力",
+          "details": "DB Rates：随着Fed预期重定价，前端美元利率回归中性。鉴于宏观因素支持实际利率期限溢价上升，且2年期美元CPI预期略高于2.3%，认为美元2s10s实际收益率曲线在本周倒挂后有陡峭化潜力。通胀定价回升或名义曲线走陡均利好该利差，主要风险为油价进一步下跌。",
+          "important": false
+        },
+        {
+          "actor": "HSBC Rates",
+          "actor_type": "Analyst",
+          "text": "建议30Y-5Y平坦化交易，66bp→30bp",
+          "details": "HSBC Rates：Warsh鹰派FOMC立场抵消油价下跌影响，前端利率面临进一步上行压力。中东缓和压缩长端风险溢价，导致曲线扭曲式平坦化，且趋势将延续。建议执行30Y-5Y美债平坦化交易，目标利差从66bp收窄至30bp，主要风险为劳动力市场走弱引发鸽派转向。",
+          "important": false
+        },
+        {
+          "actor": "HSBC Equity",
+          "actor_type": "Analyst",
+          "text": "AI数据中心75%私营供应商财务脆弱",
+          "details": "HSBC Equity：AI数据中心供应链中占比约75%的私营供应商存在隐性财务脆弱性。自2019年以来，中型私营公司EBITDA下降42%，净利润骤降312%，与上市公司表现形成鲜明对比。信贷收紧背景下，供应商融资难度加大，可能导致招聘延迟、交付滑坡等\"软性中断\"，给按时交付带来巨大执行风险。",
+          "important": false
+        },
+        {
+          "actor": "UBS Credit",
+          "actor_type": "Analyst",
+          "text": "Q4信用利差走阔，做空AI冲击低质信贷",
+          "details": "UBS Credit 2026下半年美国信用展望：市场处于后周期阶段，AI导致信用分化加剧。衰退概率降至19%，但低评级及私人信贷基本面恶化。预计Q4信用利差走阔，IG、HY、LL超额回报均为负（-0.4%至-0.8%）。建议做多高质量混合债及HY交通，做空受AI冲击的低质信贷。",
+          "important": false
+        },
+        {
+          "actor": "JPM Michael Cembalest",
+          "actor_type": "Analyst",
+          "text": "美国资产优势压倒风险，Sell America已失效",
+          "details": "JPM Michael Cembalest：尽管存在高债务、赤字、制裁和政策不确定性，美元储备地位稳固（六大指标稳定）、持续吸引外资、企业盈利能力（ROA/ROE）领先全球、AI驱动生产率增长领先G10、\"Sell America\"交易已失效、能源高度自给。优势压倒风险，支撑美国资产中长期强势。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "QQQ",
+        "EWJ",
+        "HYG",
+        "LQD"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-06-25",
+      "image_urls": []
+    },
+    {
+      "id": "kol-views-2026-06-23",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "KOL观点：油价/劳动力/AI资本/BTC/Mag7",
+      "summary": "Erian观察Yield终于回应油价下跌、WTI跌破70；Bob认为短端利率与宏观脱节；Anna Wong警示劳动力市场掉以自满；Fed Lord论AI资本开支不对称保护机制；BurggrabenH预计中国国企油价跌破70后将复购；Short Bear看BTC跌至48-52K；Aelia Capitolina持Mag7/QQQ put看空Mag7；Linda Raschke看金；Brian LeBlanc观察PNC低收入消费数据高歌猛进。",
+      "bullets": [
+        {
+          "actor": "Fed Lord",
+          "actor_type": "KOL",
+          "text": "AI资本开支为大盘形成不对称保护",
+          "details": "Fed Lord：市场目前对AI资本开支形成了不对称的保护——花钱多→供应链/硬件公司（瓶颈）受益拉指数；花钱少→大科技公司（hyperscalers）受益拉指数。除非出现明确信号证明\"AI需求或回报不及预期\"，否则该机制会继续让大盘在AI相关波动中保持韧性。",
+          "important": true
+        },
+        {
+          "actor": "Anna Wong",
+          "actor_type": "Analyst",
+          "text": "Fed不能对劳动力市场掉以自满",
+          "details": "Anna Wong：美联储不能对劳动力市场掉以自满。企业通过不招聘应对投入成本广泛上升，几乎所有行业都在谈论。下周数据可能非常火热，近期强劲来自休闲和酒店业（世界杯和天气），世界杯结束后州和地方政府成为焦点，科技公司通常年初或年底裁员，今年中途裁员不寻常。计算和存储成本不断上升（包括超大规模企业下游采用AI的企业），如何为这些融资。",
+          "important": false
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "KOL",
+          "text": "Yield终于响应油价下跌，WTI盘中跌破70",
+          "details": "Erian：Yield终于对油价下跌做出了回应，正如常见情况，鉴于连续多天的油价下跌，为什么现在而不是以前，很难解释。怀疑今天两个显著水平起了作用：不仅油价回落至二月底水平，WTI也在盘中跌破70美元。",
+          "important": false
+        },
+        {
+          "actor": "Bob",
+          "actor_type": "KOL",
+          "text": "短端利率市场与宏观现实脱节",
+          "details": "Bob：经济中最大的通胀担忧正在迅速消退，而短期利率继续将大幅加息预期计入价格，这表明短期利率市场再次与宏观现实脱节。",
+          "important": false
+        },
+        {
+          "actor": "Brian LeBlanc",
+          "actor_type": "Analyst",
+          "text": "PNC追踪显示2026低收入消费高歌猛进",
+          "details": "Brian LeBlanc：At PNC we track the debit & credit spending trends of a fixed cohort of ~4 million households. Long story short: lower-income spending/balance sheet trends have been on a tear in 2026.",
+          "important": false
+        },
+        {
+          "actor": "@BurggrabenH",
+          "actor_type": "KOL",
+          "text": "霍尔木兹现货涌入，曲线转contango；中国国企或在<70复购",
+          "details": "@BurggrabenH：霍尔木兹海峡释放的现货正在涌入一个本已供应充足的市场，加上中国仍缺席，导致近端backwardation大幅收窄甚至转为contango。判断中国国企会在油价跌破70美元后重新开始采购（前提是运费成本可控）。",
+          "important": false
+        },
+        {
+          "actor": "Short Bear",
+          "actor_type": "KOL",
+          "text": "BTC资金费率转负OI抬升，目标48-52K但当心轧空",
+          "details": "Short Bear：BTC资金费率从连续几周正值突然暴跌到负值，同时OI大幅上升，MSTR最近7天跌幅是BTC的2倍。比特币大概率继续下跌，目标区间48-52K，但今天这些空头是恐慌性进场（eager shorts），这种仓位很容易被short squeeze。",
+          "important": false
+        },
+        {
+          "actor": "Aelia Capitolina",
+          "actor_type": "KOL",
+          "text": "Mag7下跌可能才刚开始，持Mag7/QQQ put",
+          "details": "Aelia Capitolina：明确表示\"mag7的下跌这个阶段可能才刚刚开始\"。目前持有Mag7 put和QQQ put，计划在反弹时继续做空。",
+          "important": false
+        },
+        {
+          "actor": "@LindaRaschke",
+          "actor_type": "KOL",
+          "text": "金周线不利V底，4077为120分钟EMA",
+          "details": "@LindaRaschke：Gold weeklies: 最近一波下行幅度大于前一波，使GC形成V底的可能性降低。4077为120分钟EMA，可能为目前操作位。",
+          "important": false
+        },
+        {
+          "actor": "@SpecialSitsNews",
+          "actor_type": "KOL",
+          "text": "亚洲meme交易6个月内必崩",
+          "details": "@SpecialSitsNews：Every trade that memes in Asia ultimately collapses within 6 months：1) Crypto, 2) DATS, 3) Silver, 4) Memory. Let's see.",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "QQQ",
+        "MSTR",
+        "BITO",
+        "GLD",
+        "USO"
+      ],
+      "image_indexes": [
+        3
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-25",
+      "image_urls": [
+        "/uploads/2026-06-25/01f48b57750e.png"
+      ]
+    },
+    {
+      "id": "other-misc-2026-06-23",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "英国ISA现金利息征税22%",
+      "summary": "英国宣布股票和股份个人储蓄账户（ISA）中现金的利息将按22%税率征税。",
+      "bullets": [
+        {
+          "actor": "英国政府",
+          "actor_type": "Foreign-Gov",
+          "text": "ISA现金利息按22%征税",
+          "details": "英国宣布，股票和股份个人储蓄账户（ISA）中现金的利息将按22%的税率征税。",
+          "important": true
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "（占位）暂无更多其他类条目",
+          "details": "本卡作为兜底，目前仅含英国ISA一条独立信息。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-06-25",
+      "image_urls": []
+    }
+  ]
+}

@@ -110,9 +110,70 @@ def fmt_date_label(iso: str) -> str:
 
 # ---------- alphapai scrape ----------
 
+# alphapai 的首页会冒出各种 Element-UI 风格的 modal：
+#   - 直播提醒（class="live-meeting-modal"）
+#   - PPT 引导（class="ppt-guide-dialog__slide-grid" / "el-dialog__wrapper"）
+#   - 偶尔的活动公告
+# 这些 modal 的 mask 会拦截下面卡片的 click，让 Playwright 一直在
+# "subtree intercepts pointer events" → "retrying click action" 里转圈，
+# 最终 10s 超时，整个 job 挂掉。
+#
+# 策略：点击目标卡片之前先按 ESC + 主动找 .el-dialog__close /
+# .close / [aria-label="Close"] 按一遍。modal 关掉后再点。
+# 重试 5 次，每次 300ms，无论如何都不抛错（关 modal 失败也不该挡住主流程
+# 的正常报错）。Per user 2026-06-18: "以后每天打开alphapai获取全球重点
+# 事件之后记得自动关掉，不然会在浏览器里越堆越多"。
+MODAL_CLOSE_SELECTORS = [
+    ".el-dialog__close",
+    ".live-meeting-modal__close",
+    ".modal-close",
+    "[aria-label='Close']",
+    "[aria-label='关闭']",
+]
+
+
+async def dismiss_blocking_modals(page, attempts: int = 5) -> int:
+    """Try to close any blocking modal/dialog on the page. Returns the number
+    of close actions taken (best-effort, never raises)."""
+    closed = 0
+    for _ in range(attempts):
+        any_visible = False
+        # ESC first — handles many Element-UI dialogs without us needing to
+        # find the specific close button.
+        try:
+            await page.keyboard.press("Escape")
+            await asyncio.sleep(0.2)
+        except Exception:
+            pass
+        # Then try each known close-button selector.
+        for sel in MODAL_CLOSE_SELECTORS:
+            try:
+                els = await page.locator(sel).all()
+            except Exception:
+                continue
+            for el in els:
+                try:
+                    if await el.is_visible():
+                        any_visible = True
+                        await el.click(timeout=1000)
+                        closed += 1
+                        await asyncio.sleep(0.2)
+                except Exception:
+                    pass
+        if not any_visible:
+            break
+    return closed
+
+
 async def fetch_global_report() -> dict:
     """Returns the parsed JSON body of GET /report/detail/v2 for the global
-    edition (clicked from the 蓝宝书 homepage card)."""
+    edition (clicked from the 蓝宝书 homepage card).
+
+    On exit: closes EVERY page we may have spawned in the connected Chrome
+    (the homepage tab plus any detail tab the click action opened). Without
+    this, daily runs leave alphapai tabs piling up across the user's Chrome
+    session.
+    """
     from playwright.async_api import async_playwright
 
     captured: dict = {}
@@ -120,6 +181,11 @@ async def fetch_global_report() -> dict:
     async with async_playwright() as p:
         browser = await p.chromium.connect_over_cdp("http://localhost:9222")
         ctx = browser.contexts[0]
+
+        # Snapshot the page set BEFORE we open anything, so the cleanup step
+        # only closes pages we (or alphapai's click handler) opened during
+        # this run — never a user's pre-existing tab.
+        preexisting = set(ctx.pages)
 
         async def on_response(resp):
             if "report/detail/v2" in resp.url and "isUs=true" in resp.url:
@@ -135,14 +201,33 @@ async def fetch_global_report() -> dict:
         try:
             await page.goto(ALPHAPAI_HOMEPAGE, wait_until="networkidle", timeout=30000)
             await asyncio.sleep(2)
+            # Dismiss any modal that's covering the homepage before we click.
+            closed = await dismiss_blocking_modals(page)
+            if closed:
+                print(f"  dismissed {closed} blocking modal(s) before card click")
             await page.click(GLOBAL_CARD_SELECTOR, timeout=10000)
             for _ in range(30):
                 if "body" in captured:
                     break
                 await asyncio.sleep(0.5)
         finally:
-            await page.close()
-            await browser.close()
+            # Close every page WE spawned (homepage tab + the detail tab the
+            # card click may have opened). Pages the user had open before our
+            # run are untouched.
+            new_pages = [pg for pg in ctx.pages if pg not in preexisting]
+            for pg in new_pages:
+                try:
+                    if not pg.is_closed():
+                        await pg.close()
+                except Exception:
+                    pass
+            print(f"  closed {len(new_pages)} alphapai tab(s) after scrape")
+            # We're connected over CDP — don't actually shut down the user's
+            # Chrome, just disconnect.
+            try:
+                await browser.close()
+            except Exception:
+                pass
 
     if "body" not in captured:
         raise RuntimeError(f"failed to capture detail/v2 (err={captured.get('err')})")
@@ -343,34 +428,52 @@ def append_blocks(parent_id: str, blocks: list[dict], token: str) -> None:
 # ---------- main ----------
 
 async def main_async(args):
-    api = await fetch_global_report()
-    publish_date, events = extract_global_events(api)
-    ny_date = ny_date_from_report(api)
+    # Per user 2026-06-18: when alphapai 全球版 hasn't been published yet
+    # (early-morning run, or alphapai outage), still create the empty Notion
+    # framework for today (日期 toggle + 宏观日览 + 全球重点事件 sub-toggles)
+    # so the user can manually fill macro content without first having to
+    # build the toggle tree by hand.
+    api = None
+    events: list[dict] = []
+    fetch_err: str | None = None
+    try:
+        api = await fetch_global_report()
+        _publish_date, events = extract_global_events(api)
+        if not events:
+            fetch_err = "zero events parsed (alphapai returned no '全球重点事件梳理' section)"
+    except Exception as e:
+        fetch_err = f"{type(e).__name__}: {e}"
+        print(f"  [warn] alphapai fetch failed: {fetch_err}")
 
-    print(f"  alphapai publish date: {publish_date}")
+    # NY date: prefer the alphapai report's own updateTime when available
+    # (handles off-schedule runs correctly); else fall back to "today NY".
+    ny_date = ny_date_from_report(api) if api else ny_trading_date_iso()
+
     print(f"  NY trading date:       {ny_date}")
     print(f"  parsed events:         {len(events)}")
-    if not events:
-        raise RuntimeError("zero events parsed")
 
-    # archive raw response
-    ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
-    archive_path = ARCHIVE_DIR / f"{ny_date}.json"
-    archive_path.write_text(json.dumps(api, ensure_ascii=False, indent=2))
-    print(f"  archived raw -> {archive_path.relative_to(REPO)}")
+    # archive raw response when we did fetch one
+    if api is not None:
+        ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
+        archive_path = ARCHIVE_DIR / f"{ny_date}.json"
+        archive_path.write_text(json.dumps(api, ensure_ascii=False, indent=2))
+        print(f"  archived raw -> {archive_path.relative_to(REPO)}")
 
-    # render blocks
     blocks: list[dict] = []
     for evt in events:
         blocks.extend(event_to_blocks(evt))
-    print(f"  rendered {len(blocks)} Notion blocks")
+    if events:
+        print(f"  rendered {len(blocks)} Notion blocks")
 
     if args.dry_run:
-        print("\n=== DRY RUN — first 6 blocks preview ===")
-        for b in blocks[:6]:
-            t = b["type"]
-            txt = "".join(r.get("text", {}).get("content", "") for r in b[t]["rich_text"])
-            print(f"  [{t}] {txt[:90]!r}")
+        if events:
+            print("\n=== DRY RUN — first 6 blocks preview ===")
+            for b in blocks[:6]:
+                t = b["type"]
+                txt = "".join(r.get("text", {}).get("content", "") for r in b[t]["rich_text"])
+                print(f"  [{t}] {txt[:90]!r}")
+        else:
+            print(f"  [dry-run] would create skeleton only (no events). reason: {fetch_err}")
         return
 
     env = load_env()
@@ -379,15 +482,38 @@ async def main_async(args):
         raise RuntimeError("NOTION_TOKEN missing from .env.local")
 
     page_id = args.page_id or NOTION_PAGE_ID
+    # find_or_create_date_toggle creates the date toggle with BOTH the 宏观
+    # 日览 and 全球重点事件 sub-toggles when missing — i.e. the empty
+    # framework the user wants for early-morning skeleton fallback. Calling
+    # it always (whether or not we have events) means the user gets the same
+    # tree regardless of alphapai availability.
     date_toggle = find_or_create_date_toggle(page_id, ny_date, token)
     print(f"  date toggle id:    {date_toggle}")
-
     sub_id = find_or_create_subtoggle(date_toggle, "全球重点事件", token)
     print(f"  全球重点事件 id:    {sub_id}")
+    # Always ensure 宏观日览 exists too — historically find_or_create_date_toggle
+    # creates it on FIRST run, but if the date toggle existed already (e.g. user
+    # pre-created it without 宏观日览), this is a safe idempotent top-up.
+    macro_sub = find_or_create_subtoggle(date_toggle, "宏观日览", token)
+    print(f"  宏观日览 id:       {macro_sub}")
 
+    if not events:
+        # Skeleton mode: framework's there, nothing else to write. Exit 0 so
+        # launchd treats it as success — the day's marker WILL be touched and
+        # tomorrow morning's run won't re-attempt. If you want the wrapper to
+        # NOT mark the day done in this case (so a later retry can fill the
+        # 全球重点事件 section once alphapai catches up), pass --skeleton-no-marker
+        # in the wrapper and have the wrapper skip touching the marker on
+        # exit code 2.
+        print(f"  [skeleton] alphapai content unavailable ({fetch_err}) — "
+              f"created empty framework only; user can fill manually")
+        if args.skeleton_no_marker:
+            sys.exit(2)  # signal to wrapper: skeleton-only, do not mark day done
+        return
+
+    # Full content path: clear + re-append events under 全球重点事件.
     cleared = clear_block_children(sub_id, token)
     print(f"  cleared {cleared} existing block(s)")
-
     append_blocks(sub_id, blocks, token)
     print(f"  appended {len(blocks)} new block(s)")
     print("  done.")
@@ -399,6 +525,11 @@ def main():
                         help="parse + render but don't touch Notion")
     parser.add_argument("--page-id", default=None,
                         help=f"override Notion page id (default: {NOTION_PAGE_ID})")
+    parser.add_argument("--skeleton-no-marker", action="store_true",
+                        help="exit 2 (instead of 0) when skeleton-only — signals the "
+                             "wrapper to NOT touch the per-day marker, so a later run "
+                             "can still attempt to fetch alphapai content once it "
+                             "publishes")
     args = parser.parse_args()
     asyncio.run(main_async(args))
 
