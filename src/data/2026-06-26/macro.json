@@ -1,0 +1,365 @@
+{
+  "topics": [
+    {
+      "id": "fed-speakers-jun27",
+      "topic": "美联储官员表态",
+      "topic_tag": "fed",
+      "title": "Goolsbee 与 Williams：通胀仍偏高但路径可控",
+      "summary": "Goolsbee 认为核心通胀仍过高且趋势不对，物价已连续五年多高于 2% 目标。Williams 称通胀\"无疑处于高位\"，受关税、伊朗能源冲击和 AI 投资热推动，预计年底降至 3.5%，2028 年回到 2%，当前利率位置有利。",
+      "bullets": [
+        {
+          "actor": "Williams",
+          "actor_type": "Central-Bank",
+          "text": "通胀无疑高位，预计年底 3.5%、2028 回 2%",
+          "details": "Williams 表示通货膨胀\"无疑处于高位\"，原因是关税、伊朗战争带来的能源冲击以及 AI 领域的投资热潮；预计到年底通胀率将降至 3.5%，然后继续\"稳步\"下降至 2%，并在 2028 年达到目标。贸易关税影响逐渐消退将有助于在未来几个季度缓解通胀，同时住房通胀也将持续放缓。若中东冲突尽快解决，能源和商品价格也应趋于稳定。利率处于有利位置，能够使通胀率回升至央行目标。",
+          "important": true
+        },
+        {
+          "actor": "Goolsbee",
+          "actor_type": "Central-Bank",
+          "text": "核心通胀仍过高且趋势不对",
+          "details": "Goolsbee 从最新通胀报告中看到了令人鼓舞的迹象，但总体而言物价压力仍然过高，物价已连续五年多高于美联储 2% 目标水平；核心通胀\"仍然过高，而且趋势不对\"。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-26",
+      "image_urls": []
+    },
+    {
+      "id": "us-iran-hormuz-jun27",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "Trump、Rubio 强硬表态；伊朗袭击货船、海湾油运重启",
+      "summary": "Trump 称伊朗绝不能拥核、美国处绝对强势，并称将用伊朗资金购买美国农产品运往德黑兰。Rubio 表示霍尔木兹通行费不可接受。伊朗无人机袭击新加坡籍货船 Ever Lovely；沙特阿美拉斯塔努拉码头近四个月停运后恢复装油，卡塔尔能源发布 7-8 月原油装载招标。",
+      "bullets": [
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "霍尔木兹通行费不可接受，否则世界将陷混乱",
+          "details": "Rubio 称美国希望与伊朗达成结束战争的协议，但\"无论付出什么代价\"都不会这样做；霍尔木兹海峡的通行费是不可接受的，如果伊朗为跨越海峡收费，世界上所有靠近水道的国家都将跟随，\"到时候我们就会出现混乱\"。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "伊朗绝不能拥核，谈判处绝对强势",
+          "details": "Trump 称伊朗若拥有核武器，将导致以色列和中东\"消失\"、危及世界；美国\"绝不允许\"。称\"必须对伊朗采取行动\"，已造成\"非常严厉打击\"，现谈判处于绝对强势。报道称\"伊朗今天更好\"是假新闻；强调已完全摧毁伊朗军队、领导层、空军、海军。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "将用伊朗资金购买美国小麦/大豆/玉米运往德黑兰",
+          "details": "Trump 称美国将很快用伊朗资金购买大量美国小麦、大豆、玉米，运往德黑兰。",
+          "important": false
+        },
+        {
+          "actor": "伊朗",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗指美、以及参战地区国家对海峡不安全负责",
+          "details": "伊朗称美国、以色列及参与攻击伊朗的地区国家对霍尔木兹海峡不安全负有责任；美在海湾军事存在是地区不安全和分裂根源。",
+          "important": false
+        },
+        {
+          "actor": "伊朗军方",
+          "actor_type": "Foreign-Gov",
+          "text": "无人机袭击阿曼海岸附近新加坡籍货船 Ever Lovely",
+          "details": "伊朗袭击了阿曼海岸附近的一艘货船（无人机袭击新加坡籍货船 Ever Lovely）。船只受损，但无人伤亡。此次事件导致联合国暂停了滞留在波斯湾的船员的撤离行动。",
+          "important": false
+        },
+        {
+          "actor": "沙特阿美",
+          "actor_type": "Corporate",
+          "text": "拉斯塔努拉码头停运近四个月后恢复装油",
+          "details": "沙特阿美于周五在其位于海湾的拉斯塔努拉码头恢复原油装载，此前近四个月的停运；全球最大的石油出口国加入了在行业回归正常期的推动下，急于运输货物。",
+          "important": false
+        },
+        {
+          "actor": "卡塔尔能源",
+          "actor_type": "Corporate",
+          "text": "发布 7-8 月原油装载招标，美伊冲突后首次",
+          "details": "卡塔尔能源公司已发布 7 月至 8 月原油装载招标，这很可能是自美伊冲突爆发以来的首次。",
+          "important": false
+        },
+        {
+          "actor": "内塔尼亚胡",
+          "actor_type": "Foreign-Gov",
+          "text": "以军将无限期驻留黎、叙、加沙",
+          "details": "以色列总理内塔尼亚胡称以色列将在黎巴嫩南部安全区无限期保留；警告伊朗不要对黎巴嫩行动进行报复；以色列部队将在黎巴嫩、叙利亚和加沙无限期驻留。",
+          "important": false
+        },
+        {
+          "actor": "美国/以色列/黎巴嫩",
+          "actor_type": "Foreign-Gov",
+          "text": "以黎代表团今日恢复会谈，美方协助",
+          "details": "以色列与黎巴嫩代表团谈判持续，美国继续协助；双方今日恢复会谈，拟达成协议。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-06-26",
+      "image_urls": []
+    },
+    {
+      "id": "samsung-sk-hynix-investment-jun27",
+      "topic": "韩国半导体投资",
+      "topic_tag": "ai",
+      "title": "三星与 SK 海力士拟宣布数千亿美元新投资",
+      "summary": "韩媒报道三星电子和 SK 海力士将于周一宣布数千亿美元新投资。三星计划未来十年投资 1000 万亿韩元（6460 亿美元），涵盖 AI 数据中心、电池、显示屏，并有 300 万亿韩元用于在韩国西南部建芯片厂。",
+      "bullets": [
+        {
+          "actor": "三星电子",
+          "actor_type": "Corporate",
+          "text": "三星拟十年投资 6460 亿美元，含 AI 数据中心与芯片厂",
+          "details": "三星计划在未来十年内公布一项价值 1000 万亿韩元（6460 亿美元）的投资方案。投资将包括 AI 数据中心、电池和显示屏的投资，以及潜在的 300 万亿韩元资金，在韩国西南部建设芯片工厂。",
+          "important": true
+        },
+        {
+          "actor": "SK 海力士",
+          "actor_type": "Corporate",
+          "text": "SK 海力士同步宣布数千亿美元新投资",
+          "details": "韩国媒体报道，三星电子和 SK 海力士准备于周一宣布价值数千亿美元的新投资。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "韩国媒体"
+      ],
+      "date": "2026-06-26",
+      "image_urls": []
+    },
+    {
+      "id": "tech-corporate-news-jun27",
+      "topic": "科技公司动态",
+      "topic_tag": "ai",
+      "title": "OpenAI/微软/SpaceX 多则消息",
+      "summary": "Information 报道 OpenAI 承认 GPT 5.6 有限预览版美政府可决定谁可访问；NYT 报道 OpenAI 倾向将 IPO 推至 2027 年，市场无法接受 1T 估值。微软因存储芯片成本上调 Xbox 售价。SpaceX 计划推出面向美国消费者的 Starlink 移动服务。",
+      "bullets": [
+        {
+          "actor": "OpenAI",
+          "actor_type": "Corporate",
+          "text": "GPT 5.6 有限预览版美政府可决定访问权限",
+          "details": "Information 报道 ChatGPT 母公司 OpenAI 承认，即将发布的 GPT 5.6 有限预览版，美国政府能决定谁可访问。",
+          "important": true
+        },
+        {
+          "actor": "OpenAI",
+          "actor_type": "Corporate",
+          "text": "IPO 或推迟至 2027，市场不接受 1T 估值",
+          "details": "NYT 报道 OpenAI 目前\"倾向于\"将其 IPO 推迟到 2027 年，原因是当前市场无法接受 1T 估值的上市募资。",
+          "important": false
+        },
+        {
+          "actor": "微软",
+          "actor_type": "Corporate",
+          "text": "Xbox 涨价：512GB+100 美元，1TB+150 美元",
+          "details": "微软宣布因存储和芯片成本上涨，将上调旗下 Xbox 游戏主机售价。其中 512GB 机型上涨 100 美元，1TB 机型上涨 150 美元。此外，2TB 机型正式停售。",
+          "important": false
+        },
+        {
+          "actor": "SpaceX",
+          "actor_type": "Corporate",
+          "text": "拟推出面向美国消费者的 Starlink 移动服务",
+          "details": "SpaceX 已向投资者透露，计划推出面向美国消费者的 Starlink 移动服务。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MSFT"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "The Information",
+        "NYT"
+      ],
+      "date": "2026-06-26",
+      "image_urls": []
+    },
+    {
+      "id": "kol-views-jun27",
+      "topic": "KOL 观点",
+      "topic_tag": "macro-other",
+      "title": "KOL：通胀粘性、杠杆水平、内存超级周期",
+      "summary": "Furman 担忧通胀粘性、对降息谨慎；Erian 认为今年大概率不加息；Omair Sharif 指市场核心 PCE 3.34%；Danny 测算四月以来杠杆 ETF 加杠杆 1400 亿；bboczeng 看 SNDK 4000、MU 2000；Minervini 警告自满情绪。",
+      "bullets": [
+        {
+          "actor": "Furman",
+          "actor_type": "KOL",
+          "text": "PCE 强化通胀粘性担忧，对降息持谨慎",
+          "details": "Furman 称最新 PCE 数据强化了通胀粘性的担忧，通胀问题不只是暂时性的关税或地缘因素导致的，而是有更广泛的基础；核心服务通胀（剔除住房）显示即使在不受关税和地缘政治冲击直接影响的领域，通胀也在上升。他目前更担心通胀而非就业，对美联储降息持谨慎态度。",
+          "important": true
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "KOL",
+          "text": "今年最可能不降息，5 月/6 月或为通胀峰值",
+          "details": "Erian 称尽管经济活动数据依然强劲，月度数据应有助于缓和加息预期；如果今年五月 PCE 通胀数据或六月成为本周期的高峰（尤其整体而言），他也不会感到惊讶。尽管油价大幅下跌，市场仍预计美联储今年将加息一次半；多位美联储观察者上调了加息预期，至少有一位投资者选择加息三次。Erian 自己鉴于通胀前景、供应端变化以及 Fed 从过度依赖数据向更前瞻性的转变可能性，仍认为今年最可能的结果是不会加息。",
+          "important": false
+        },
+        {
+          "actor": "Omair Sharif",
+          "actor_type": "KOL",
+          "text": "市场核心 PCE 3.34%，5 月 3 月 SAAR 服务达 4%",
+          "details": "Omair Sharif：剔除组合管理等填补价格、以及强软件价格的影响后，市场基础核心 PCE（剔除信息处理设备）仍达 3.34%，几乎与核心 3.4% 相同。市场基础核心服务的 3m SAAR 在 5 月达 4%，去年 5 月为 2.7%。",
+          "important": false
+        },
+        {
+          "actor": "trap_zack",
+          "actor_type": "KOL",
+          "text": "PCE 上涨主因组合管理费，非过热",
+          "details": "trap_zack：7 月加息的猜测可能在 PCE 数据发布后结束。查看数据，服务和超级核心打印非常强劲，但上涨的主要推动力是投资组合管理费，因此对经济过热问题不构成担忧。",
+          "important": false
+        },
+        {
+          "actor": "Danny",
+          "actor_type": "KOL",
+          "text": "四月以来杠杆 ETF +1400 亿，整体低于 2000/2021 峰",
+          "details": "Danny 计算自四月以来增加了 1400 亿杠杆 ETF 杠杆。加上 margin debt，整体看此前分别在 2000 年和 2021 年达到峰值，现在低于 2007 年和零利率时代水平。这导致市场每日剧烈波动。",
+          "important": false
+        },
+        {
+          "actor": "bboczeng",
+          "actor_type": "KOL",
+          "text": "内存超级周期：SNDK 4000、MU 2000 目标价",
+          "details": "bboczeng 对内存股长期非常乐观，提到类似 SNDK 4000、MU 2000 这样的目标价，详细分析了 HBM、DRAM、NAND/SSD 能摆脱传统周期性，起码进入超级周期。",
+          "important": false
+        },
+        {
+          "actor": "@markminervini",
+          "actor_type": "KOL",
+          "text": "\"这次不一样\"声浪渐高，自满情绪抬头",
+          "details": "Minervini：\"这次不一样\"的声音越来越大了。还没达到巅峰的欣喜，但\"Kool Aid\"确实已被倾倒。一份强劲报告只会强化人们相信每一次下跌都是可以买的——这往往就是自满开始的原因，就在风险管理被抛诸脑后时。他业余交易员朋友昨天告诉他，他的 $SNDK 涨了超过 500%，当被问到什么时候卖时大家都沉默了。",
+          "important": false
+        },
+        {
+          "actor": "@mredmond88",
+          "actor_type": "KOL",
+          "text": "沃什与格林斯潘风格相似但实质不同",
+          "details": "mredmond88：沟通风格可能相似，但实质上截然不同——沃什本质是一位哲学经济学家，而格林斯潘是一个真正的数据迷。",
+          "important": false
+        },
+        {
+          "actor": "Peter Berezin",
+          "actor_type": "KOL",
+          "text": "存储支出预测假设行为不因涨价变化，质疑",
+          "details": "Peter Berezin：所有这些关于存储支出的预测似乎都假设行为不会因价格上涨而发生太大变化。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SNDK",
+        "MU"
+      ],
+      "image_indexes": [
+        2
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-26",
+      "image_urls": [
+        "/uploads/2026-06-26/6f8fff99ce8d.jpg"
+      ]
+    },
+    {
+      "id": "sell-side-views-jun27",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "GS/DB/Nomura/JPM：AI 就业、伊朗、就业与韩股",
+      "summary": "GS 预计 AI 过渡置换约 9% 劳动力（1500 万），上调下半年 GDP 至 2%、衰退概率降至 15%。DB 客户调查 75% 看淡伊朗冲击，49% 预期 Fed 持稳。Nomura 预计 6 月非农 +7 万。JPM 上调 KOSPI 目标至 12500。",
+      "bullets": [
+        {
+          "actor": "GS Eco",
+          "actor_type": "Analyst",
+          "text": "上调下半年 GDP 至 2%、衰退概率降至 15%",
+          "details": "GS Eco 预计 AI 过渡期内约 9% 劳动力（1500 万）面临置换，但属暂时性摩擦失业，长期将创造新岗。目前 AI 对美失业率净影响仅升 0.1pp。投资者仍聚焦 AI 基础设施，因应用层盈利证据尚不明朗。上调美下半年 GDP 增速至 2%，衰退概率降至 15%。",
+          "important": true
+        },
+        {
+          "actor": "DB Client Survey",
+          "actor_type": "Analyst",
+          "text": "75% 看淡伊朗影响，49% 预期 Fed 年内持稳",
+          "details": "DB 全球市场调查：75% 受访者认为伊朗冲突对市场影响将减弱，仅 12% 视其为重大负面驱动。货币政策方面，49% 预期美联储持稳，7% 预期降息，44% 预期加息；显著低于市场隐含的 1.5 次加息定价。德银官方仍维持年内 9 月及 12 月各加息一次的预测。",
+          "important": false
+        },
+        {
+          "actor": "Nomura Eco",
+          "actor_type": "Analyst",
+          "text": "预计 6 月非农 +7 万，失业率稳于 4.3%",
+          "details": "Nomura 预计美国 6 月非农就业增 70K，较 5 月显著放缓，主因临时招聘因素消退。失业率料稳于 4.3%，年底或降至 4.1%。平均时薪环比增速放缓至 0.2%，工资压力渐缓。稳健劳动力市场使美联储聚焦通胀风险，预计政策维持不变，警惕潜在加息风险。",
+          "important": false
+        },
+        {
+          "actor": "JPM KR",
+          "actor_type": "Analyst",
+          "text": "上调 KOSPI 12 月基准目标至 12500",
+          "details": "JPM KR 上调 KOSPI 指数 12 个月基准目标至 12,500 点。尽管年初至今外资流出 95B（主要因任务限制被迫卖出内存股），且杠杆 ETF 导致波动性加剧，但 AI 硬件盈利强劲及国家财富增长提供支撑。建议逢低加仓，重点关注银行、生物制药及财富效应相关板块。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs",
+        "Deutsche Bank",
+        "Nomura",
+        "JPMorgan"
+      ],
+      "date": "2026-06-26",
+      "image_urls": [
+        "/uploads/2026-06-26/671e051dd2e3.png"
+      ]
+    },
+    {
+      "id": "spy-qqq-iv-jun27",
+      "topic": "SPY/QQQ 隐含波动率",
+      "topic_tag": "macro-other",
+      "title": "QQQ-SPY IV 价差达 +11.4 点，处历史 100 百分位",
+      "summary": "SpotGamma 数据显示 QQQ ATM IV 27.9% 与 SPY 16.4% 价差扩至 +11.4 点，处历史 100 百分位（均值 +5.0），反映科技板块波动定价显著高于大盘。",
+      "bullets": [
+        {
+          "actor": "SpotGamma",
+          "actor_type": "Analyst",
+          "text": "QQQ-SPY IV 差 +11.4 点，100 百分位",
+          "details": "SpotGamma 数据：QQQ ATM IV 27.9%，SPY ATM IV 16.4%，价差 +11.4 点，处历史 100 百分位，均值 +5.0；图中标注关税抛售点为 2025 年初。",
+          "important": true
+        },
+        {
+          "actor": "SpotGamma",
+          "actor_type": "Analyst",
+          "text": "科技波动定价相对大盘极端拉伸",
+          "details": "下方面板显示 QQQ-SPY 价差长期走势，自 2023 年以来持续高于 5.0 均值线，近期突破至历史极值。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "QQQ"
+      ],
+      "image_indexes": [
+        0
+      ],
+      "importance": 1,
+      "sources": [
+        "SpotGamma"
+      ],
+      "date": "2026-06-26",
+      "image_urls": [
+        "/uploads/2026-06-26/7aca875ad5d3.png"
+      ]
+    }
+  ]
+}
