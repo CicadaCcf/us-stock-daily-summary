@@ -1,0 +1,126 @@
+{
+  "themes": [
+    {
+      "id": "ai-infoflow-gpt56-routing",
+      "theme": "AI",
+      "title": "AI信息流总结：GPT-5.6发布与模型路由趋势",
+      "date_range": "",
+      "summary": "OpenAI 发布 GPT-5.6 系列（Sol/Terra/Luna），定价显著下探；同时业界（Coinbase、Perplexity、SemiAnalysis、Databricks 等）共识聚焦于 routing/caching/专用模型替代 frontier model，企业 AI 支出结构正在重塑。",
+      "tickers": [
+        "GOOGL"
+      ],
+      "date": "2026-06-29",
+      "groups": [
+        {
+          "label": "AI lab",
+          "entries": [
+            {
+              "source": "Sam Altman",
+              "source_type": "OpenAI",
+              "important": true,
+              "points": [
+                "OpenAI 正式发布 GPT-5.6 系列预览",
+                "Sol 是旗舰模型，能力对标Mythos, 但定价和上代SOTA GPT-5.5一致，为Mythos的1/2",
+                "Terra 主打日常高效工作，能力对标GPT-5.5，价格仅为其1/2",
+                "Luna 主打低成本高吞吐",
+                "因为国家安全审查目前模型仅对少数 trusted partners 开放，OpenAI 明确表示不希望这种政府 access process 成为长期默认机制",
+                "*强化了企业端 routing / cost optimization 的趋势，但目前媒体和 KOL 尚未形成\"OpenAI 价格战\"叙事"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "KOL",
+          "entries": [
+            {
+              "source": "Brian Armstrong",
+              "source_type": "Coinbase CEO",
+              "important": true,
+              "points": [
+                "通过 routing、caching、把任务迁移到更便宜模型，AI token 使用量继续增长，但AI spending下降一半。说明 open/specialized model 对 frontier model API 有真实替代压力"
+              ]
+            },
+            {
+              "source": "Aravind Srinivas",
+              "source_type": "Perplexity CEO",
+              "important": false,
+              "points": [
+                "Coinbase 通过 defaults、routing、caching、open-weight models 降低 AI spend 的做法会成为常态"
+              ]
+            },
+            {
+              "source": "SemiAnalysis",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "token 使用需求仍乐观，但不能用 frontier model 标价线性外推收入，因为 blended cost 会被 caching、input/output ratio、模型 routing、推理优化显著压低",
+                "GPU spot 价格下降不能证明 AI 需求弱，contract price 更能代表生产需求。"
+              ]
+            },
+            {
+              "source": "Kevin",
+              "source_type": "Gitlab CEO",
+              "important": false,
+              "points": [
+                "OpenClaude + GLM-5.2 的体验已接近 Claude Code + Opus 4.8"
+              ]
+            },
+            {
+              "source": "Rihard Jarc",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "model routing 利好 hyperscalers，因为它们可以用现有基础设施服务更多 token，并成为默认模型编排和 routing 层"
+              ]
+            },
+            {
+              "source": "Jaya Gupta",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "Claude 被指给VC建议时对开源 AI 投资有负面偏见，反映闭源模型可能存在平台 lock-in 和利益冲突"
+              ]
+            },
+            {
+              "source": "Ethan Mollick",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "如果 Gemini 3.5 Pro 没有被出口控制，市场可能解读为监管方认为其不在最前沿水平，从而对 Google 形成负面信号"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Podcast",
+          "entries": [
+            {
+              "source": "Latent space: Matei Zaharia / Reynold Xin",
+              "source_type": "Databricks",
+              "important": true,
+              "points": [
+                "模型本身不是唯一护城河，企业 AI 的关键是数据位置、治理、agent infrastructure 和 routing。Databricks 不继续重押通用 frontier model，而是用外部模型、专用模型和系统层把模型变得有用；专用 document vision model 可比 frontier model 便宜约 100x 且效果更好"
+              ]
+            },
+            {
+              "source": "No prior: Noam Brown",
+              "source_type": "OpenAI",
+              "important": false,
+              "points": [
+                "强调高端 frontier model 的能力边界来自 test-time compute 和复杂推理任务, 承认\"性能/成本\"会成为关键评估维度"
+              ]
+            },
+            {
+              "source": "Latent space: Mark Chen",
+              "source_type": "OpenAI",
+              "important": false,
+              "points": [
+                "OpenAI 仍相信 pre-training 和 scaling law；同时 eval/test 变得更重要，真实产品使用会反向帮助发现模型失败点。OpenAI 仍坚持 frontier scaling 路线"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

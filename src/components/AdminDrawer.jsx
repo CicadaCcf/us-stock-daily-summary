@@ -21,6 +21,7 @@
 import { useState, useEffect, useRef } from 'react';
 
 const TABS = [
+  { id: 'themes',   label: 'Theme'    },
   { id: 'events',   label: 'Events'   },
   { id: 'macro',    label: 'Macro'    },
   { id: 'publish',  label: 'Publish'  },
@@ -29,7 +30,8 @@ const TABS = [
 
 const MODEL_OPTIONS = [
   { value: '', label: 'Default (.env.local)' },
-  { value: 'claude-opus-4-7',    label: 'Opus 4.7 · 最强 (slow ~60-180s)' },
+  { value: 'claude-opus-4-8',    label: 'Opus 4.8 · 最强 (slow ~60-180s)' },
+  { value: 'claude-opus-4-7',    label: 'Opus 4.7' },
   { value: 'claude-sonnet-4-6',  label: 'Sonnet 4.6 · 快 (~20-40s)' },
   { value: 'claude-haiku-4-5-20251001', label: 'Haiku 4.5 · 最快便宜' },
   { value: 'claude-opus-4-5',    label: 'Opus 4.5 (旧)' },
@@ -218,6 +220,8 @@ function IngestTab({ kind, date }) {
         }}
         placeholder={kind === 'macro'
           ? '例：<Macro发言 4/21>\nUS Fed Warsh: ...\nTrump: ...\nGS: ...'
+          : kind === 'themes'
+          ? '例：<AI信息流总结 6/22-6/29>\n• AI lab\n  ◦ Sam Altman\n    ▪ OpenAI 发布 GPT-5.6 ...\n• KOL\n  ◦ Brian Armstrong (Coinbase CEO)\n    ▪ ...'
           : '例：Anthropic 获 800B 估值要约；AMZN 向 Anthropic 追加 5B 投资 ...'}
       />
 
@@ -315,7 +319,7 @@ function IngestTab({ kind, date }) {
       {result && (
         <div style={{ marginTop: 8 }}>
           <div style={{ fontSize: 11, color: 'var(--text-dim)', marginBottom: 4 }}>
-            {(result.data?.topics?.length ?? result.data?.events?.length ?? '?')} items
+            {(result.data?.topics?.length ?? result.data?.events?.length ?? result.data?.themes?.length ?? '?')} items
             {' • '}
             {result.model || 'claude'}
             {result.usage && ` • ${result.usage.input_tokens}in / ${result.usage.output_tokens}out`}
@@ -631,7 +635,7 @@ function PublishTab({ currentDate, availableDates }) {
 
 export default function AdminDrawer({ currentDate, availableDates }) {
   const [open, setOpen] = useState(false);
-  const [tab, setTab] = useState('events');
+  const [tab, setTab] = useState('themes');
 
   return (
     <>
@@ -692,6 +696,7 @@ export default function AdminDrawer({ currentDate, availableDates }) {
           </div>
 
           <div style={{ padding: 14, overflowY: 'auto', flex: 1 }}>
+            {tab === 'themes' && <IngestTab kind="themes" date={currentDate} />}
             {tab === 'events' && <IngestTab kind="events" date={currentDate} />}
             {tab === 'macro' && <IngestTab kind="macro" date={currentDate} />}
             {tab === 'publish' && <PublishTab currentDate={currentDate} availableDates={availableDates} />}

@@ -1,0 +1,497 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-jun28",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美军再袭伊朗 双方仍维持停火谈判 海峡通航部分恢复",
+      "summary": "美国对伊朗Sirik岛附近导弹/无人机储存、雷达和布雷设施发动第三轮打击，理由是伊朗违反停火；伊朗革命卫队（IRGC）反击美军在巴林、科威特基地并击落部分无人机。双方同意暂停动能活动并将于本周在多哈会谈，议题包括霍尔木兹海峡安全通航和建立美伊军事热线。海峡阿曼航线已恢复双向通行，但船只须申请伊朗批准的航线。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "美军再次空袭伊朗导弹/无人机储存与沿海雷达，警告再犯将终结伊斯兰共和国",
+          "details": "Trump称美国飞机刚刚打击伊朗导弹和无人机储存地点以及沿海雷达设施，原因是伊朗再次违反停火协议；伊朗可能永远学不会，若再发生美国可能不再理性，将完成军事已成功启动的工作，到那时伊斯兰共和国将不复存在。",
+          "important": true
+        },
+        {
+          "actor": "美伊谈判",
+          "actor_type": "Foreign-Gov",
+          "text": "美伊同意停止动能活动 本周多哈会谈聚焦海峡通航与军事热线",
+          "details": "美伊同意停止军事打击并恢复对话，将于本周在多哈举行会谈，重点讨论霍尔木兹海峡安全通航问题，同时考虑建立美伊直接军事热线以防止未来事件，技术性磋商将继续推进备忘录所有领域，双方同意暂时停止所有\"动能活动\"（kinetic activity），船只可自由通行。伊朗坚持船只须使用其指定的航线，否则将面临警告。",
+          "important": false
+        },
+        {
+          "actor": "美军",
+          "actor_type": "US-Executive",
+          "text": "美军对Sirik岛附近多目标实施第三轮回应打击",
+          "details": "美国对伊朗Sirik岛附近目标发动打击，对伊朗导弹/无人机储存设施、沿海雷达、监视基础设施、通信系统、防空站点及布雷能力等多目标实施打击，回应伊朗无人机袭击油轮。这是近期第三轮类似回应。",
+          "important": false
+        },
+        {
+          "actor": "IRGC",
+          "actor_type": "Foreign-Gov",
+          "text": "IRGC称击退Sirik岛袭击 并对巴林/科威特美军基地导弹+无人机反击",
+          "details": "IRGC称海军和空军成功击退美军对Sirik岛的袭击，捍卫领土主权；袭击\"不会不被回应\"，任何进一步\"愚蠢行为\"将遭遇伊朗选择的时间和地点的\"迅速果断\"回应，美国对Sirik岛的随机射击无法解决伊朗对霍尔木兹海峡的控制问题。6月28日凌晨前后，IRGC海军与航天部队联合发动导弹+无人机行动，targeting科威特Ali Al Salem空军基地、巴林美国第五舰队总部（Salman港）及Sheikh Isa空军基地等美军设施，巴林确认遭袭并有爆炸/烟雾；科威特称部分拦截。",
+          "important": false
+        },
+        {
+          "actor": "美巴联军",
+          "actor_type": "US-Executive",
+          "text": "美巴军队在巴林上空击落9架伊朗无人机",
+          "details": "美国和巴林军队击落了9架伊朗向巴林境内的美军发射的无人机。",
+          "important": false
+        },
+        {
+          "actor": "Vance",
+          "actor_type": "US-Executive",
+          "text": "Vance：伊朗已签停火 美方遵守 暴力将以暴力回应",
+          "details": "JD Vance称伊朗已签署停火协议，美方已遵守；若对MOU执行有分歧，可通过电话沟通，但暴力将遭遇暴力回应。",
+          "important": false
+        },
+        {
+          "actor": "Ebrahim Azizi",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗高级议员斥美在谈判期间再袭 称将致美国退缩",
+          "details": "伊朗议员Ebrahim Azizi（高级议员）：美国在谈判期间再次袭击伊朗。失败的美国总统再次证明其对谈判和停火原则毫无承诺。这一鲁莽违约将一如既往导致美国退缩和后悔。",
+          "important": false
+        },
+        {
+          "actor": "IRGC",
+          "actor_type": "Foreign-Gov",
+          "text": "IRGC：船只须走伊朗指定航线 未经许可通过霍尔木兹\"不被容忍\"",
+          "details": "伊朗坚持船只须使用其指定的航线，否则将面临警告。IRGC称船只须使用其指定的航线，否则将面临警告，任何未经伊朗许可通过霍尔木兹海峡的船只\"将不被容忍\"，需支付航行/服务费；伊朗负责根据现有协议安排通航。多国船只正申请伊朗批准的\"唯一合法走廊\"通行，可见船队排队等待许可；违规者将遭更强力处理；美国鼓励船只走未批准路线违反停火。",
+          "important": false
+        },
+        {
+          "actor": "UKMTO/JMIC",
+          "actor_type": "Foreign-Gov",
+          "text": "霍尔木兹阿曼航线恢复双向通行 油轮可进港",
+          "details": "UKMTO（英国海事贸易行动组织）通过JMIC（联合海事信息中心）发布的一份海上安全advisory note，称霍尔木兹海峡的阿曼航线目前已恢复双向通行（此前，该航线仅允许油轮出港，不允许进港），现在该航线也允许油轮进港。",
+          "important": false
+        },
+        {
+          "actor": "长荣海运",
+          "actor_type": "Corporate",
+          "text": "长荣海运证实其船只在阿曼附近遭不明物撞击 仍继续航行",
+          "details": "长荣海运证实其船只在阿曼附近海域遭不明物体撞击，目前已继续航行。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：伊朗将成美国新市场 将买大量小麦/大豆/玉米",
+          "details": "Trump称伊朗将成为美国新市场，并将从伊朗购买大量小麦、大豆和玉米。",
+          "important": false
+        },
+        {
+          "actor": "美/以/黎三边",
+          "actor_type": "US-Executive",
+          "text": "特朗普斡旋的美-以-黎三边框架协议全文公布",
+          "details": "特朗普政府斡旋的三边框架协议（美-以-黎）全文公布，核心包括黎巴嫩解除非国家武装力量武装、以色列逐步撤军、美国支持黎重建等。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "DB：海峡通航复苏脆弱 流量仍低于战前 88%投资者认为影响减弱",
+          "details": "DB：霍尔木兹海峡航运复苏脆弱。尽管海峡重开，但近期无人机袭击致联合国暂停护航，显示IRGC仍具破坏能力。此前16周关闭引发化肥、半导体等多层供应链冲击。目前通航流量仍低于战前水平，且受制于伊朗批准路线，市场处于外交与执法灰色地带。88%投资者认为冲突对市场影响将减弱，但完全正常化仍存疑。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-06-29",
+      "image_urls": []
+    },
+    {
+      "id": "fed-rate-path-jun28",
+      "topic": "美联储路径",
+      "topic_tag": "fed",
+      "title": "Kashkari初步计划2026加息1次 Warsh主张\"缩小美联储\"",
+      "summary": "美联储官员Kashkari初步计划2026年加息1次；Williams讲话被解读为通胀问题已过去、短期无须加息。Nick Timiraos报道Warsh主张通过\"缩小美联储\"来强化主席权威，回归市场关注真实经济数据。KOL认为7月加息概率定价过高。",
+      "bullets": [
+        {
+          "actor": "Kashkari",
+          "actor_type": "Central-Bank",
+          "text": "Kashkari初步计划2026年加息1次",
+          "details": "美联储Kashkari初步计划在2026年hike 1次。",
+          "important": true
+        },
+        {
+          "actor": "Williams",
+          "actor_type": "Central-Bank",
+          "text": "Bob解读：Williams讲话暗示通胀问题已过去 短期无须加息",
+          "details": "Bob：Waiiliams讲话表明Fed希望通胀问题已经过去，并且短期内没有加息的必要。",
+          "important": false
+        },
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "Nick：Warsh主张\"缩小美联储\"强化主席权威 是Greenspan式信念经济学",
+          "details": "Nick：Warsh希望通过\"缩小美联储\"来强化主席权威——让市场重新关注真实经济数据，而不是美联储的每一句话和资产负债表规模。这既是政策转向，也是对美联储过去15年\"过度干预\"的反思。文章认为，这种Greenspan式的\"信念经济学\"（conviction economics）存在风险（需在数据不完全支持时下注），但Warsh认为这是必要的\"赌注\"。",
+          "important": false
+        },
+        {
+          "actor": "Ed Bradford",
+          "actor_type": "KOL",
+          "text": "Ed Bradford：7月加息概率定价偏高",
+          "details": "Ed Bradford：July hike odds seem too high。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-29",
+      "image_urls": []
+    },
+    {
+      "id": "gs-q2-earnings-preview-jun28",
+      "topic": "Q2财报前瞻",
+      "topic_tag": "earnings",
+      "title": "高盛Q2财报前瞻：EPS同比+22% AI基建贡献近60%盈利增长",
+      "summary": "高盛US Weekly Kickstart预计S&P500 Q2 EPS同比增22%，2021年以来最高。AI基础设施股贡献近60%盈利增长，英伟达与美光合计占比超40%。中值股EPS增长9%，能源板块EPS+110%居首；高盛维持年底8000点目标，APX远期PE 20倍。",
+      "bullets": [
+        {
+          "actor": "GS US Weekly Kickstart",
+          "actor_type": "Analyst",
+          "text": "GS预计Q2 EPS同比+22% AI基建股贡献近60%增长 维持年底8000目标",
+          "details": "GS US Weekly Kickstart Q2 ER前瞻，预计EPS yoy增22%，创2021年以来最高预期。AI基础设施股贡献近60%盈利增长，英伟达与美光合计占比超40%。能源涨价利好能源板块但压制消费者利润，中值股利润率预计持平。APX远期PE维持20倍，高盛维持年底8000点目标。",
+          "important": true
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "板块盈利：能源EPS+110% 信息技术+59% 医保-11%",
+          "details": "Q2 2026 bottom-up consensus (y/y): Energy EPS +110% / Sales +22% / Margin 13% (+568bp) / median +88%；Info Tech +59% / +33% / 31% (+498bp) / +24%；Materials +39% / +13% / +13% (+247bp)；Comm Services +12%；Real Estate +12%；Utilities +11%；Industrials +9%；Financials +4%；Consumer Disc +3%；Staples +2%；Health Care -11% (margin -107bp)。S&P 500整体+22%，中值股+9%，ex Fin/Util +21%。",
+          "important": false
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "EPS修正广度Info Tech 70%居首 多数板块为正",
+          "details": "Consensus FY2 EPS revision breadth during the past month：Info Tech 70%, Energy 33%, Comm Services 30%, Financials 27%, Materials 27%, S&P 500 25%, Industrials 22%, Staples 20%, Real Estate 14%, Utilities 14%, Health Care 3%, Consumer Disc -1%。S&P 500价格与共识forward 12m EPS自2025年初以来同步上行约30%。",
+          "important": false
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "看好2027年Hyperscaler capex 修正集中在今年底明年初",
+          "details": "Hyperscaler quarterly y/y capex growth：2026 Q2 +92%，2026 Q3 +85%（共识估计），后续季度回落至10-45%。GS认为2027年hyperscaler capex共识有上行空间，2027年修正将集中在今年底和明年初（2025/2026历史模式显示当年末/次年初修正可达50-75pp）。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "MU"
+      ],
+      "image_indexes": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs"
+      ],
+      "date": "2026-06-29",
+      "image_urls": [
+        "/uploads/2026-06-29/5801144bcfb7.png",
+        "/uploads/2026-06-29/3147474323d9.png",
+        "/uploads/2026-06-29/965fd992cb5d.png",
+        "/uploads/2026-06-29/a8aef87c8426.png"
+      ]
+    },
+    {
+      "id": "sellside-rates-credit-jun28",
+      "topic": "卖方利率/信用",
+      "topic_tag": "rates",
+      "title": "卖方观点：GS看BEA将下修core PCE Barclays上调IG/HY供给至历史新高",
+      "summary": "GS指BEA将于2026/9/30实施三项方法论调整将显著下修core PCE但不影响CPI；GS GRT建议1y1y/2y1y做多更具不对称性。MS Rates警示融资成本飙升预示去杠杆风险；MS Eco维持Fed 2026不加息预判。Barclays上调2026 IG供给至$1.9T、HY供给至$370-390B均创纪录，AI/M&A为主要驱动。",
+      "bullets": [
+        {
+          "actor": "GS US Daily",
+          "actor_type": "Analyst",
+          "text": "GS：BEA三项调整将下修core PCE 软件/资管下修最多 12月yoy降0.1-0.2%",
+          "details": "BEA宣布将于2026年9月30日实施三项重大方法论调整（预计追溯效力），GS认为净值上将显著降低测得core PCE但不影响CPI：①计算机软件及配件下调，改用包含数据处理服务/电子游戏软件PPI及软件CPI的综合价格指数，预计5月core PCE yoy下降0.05-0.1%，12月下降0.1-0.2%；②投资组合管理服务下调，改用名义支出与基于工资调查的实际价值差额间接衡量，5月-0.1-0.15%，12月-0.1-0.2%；③法律服务微幅上调，改用详细法律服务PPI替代CPI，5月+0.04%，12月升幅更小但降低波动。",
+          "important": true
+        },
+        {
+          "actor": "GS GRT",
+          "actor_type": "Analyst",
+          "text": "GS GRT：油价回落降低通胀风险 偏好1y1y/2y1y做多",
+          "details": "GS GRT：油价回落显著降低通胀风险，使美债重新具备风险资产对冲价值。尽管能源价格持续下跌，但美国前端利率的鹰派重新定价已被证明具有韧性，鉴于数据强劲可能导致加息风险前置，在略远离最前端的曲线位置（如1y1y或2y1y）建立多头头寸具有更有利的不对称性，若就业和通胀数据温和，2026年底定价可能巩固在\"按兵不动\"基线附近。欧洲利率波动率预计下降，偿付能力II审查利好长期欧债信用；英国期限溢价压缩空间有限，偏好英镑曲线陡峭化；加拿大前端仍有下行空间，加息溢价缩窄至12bp。",
+          "important": false
+        },
+        {
+          "actor": "GS TOM Macro",
+          "actor_type": "Analyst",
+          "text": "GS TOM：美衰退风险降至15% 黄金目标下调至$4,900 中国Q2 GDP下调3.5%",
+          "details": "GS TOM in Macro：AI加剧金融波动但未显著冲击就业；美伊协议促油流恢复，美衰退风险降至15%，上调欧印GDP预测；英新首相或增借贷但利好英欧融合；美联储鹰派致黄金目标下调至$4,900/oz；中国Q2 GDP下调至3.5%，Q3上调至5.0%。",
+          "important": false
+        },
+        {
+          "actor": "MS Rates",
+          "actor_type": "Analyst",
+          "text": "MS Rates：融资成本飙升预示去杠杆 AXW期货达+200bp 标普面临回调",
+          "details": "MS Rates：股票融资成本飙升预示去杠杆风险上升，建议维持SOFR Z6M7曲线平坦化交易。AXW期货达+200bp，接近历史高位，标普500面临回调压力。尽管FOMC鹰派，但金融条件已实质性收紧，通胀预期降温，市场过度定价加息风险。Implied 3-month S&P 500 financing cost 2025年峰值约170，2026年再度回升至100附近。",
+          "important": false
+        },
+        {
+          "actor": "MS Eco",
+          "actor_type": "Analyst",
+          "text": "MS Eco：维持Fed 2026不加息 预计夏季非农月增仅50-60k Q2 GDP下调至2.5%",
+          "details": "MS Eco：维持Fed 2026年不加息预判，鉴于核心PCE通胀预期降至3.0%及油价回落，抵消了部分FOMC成员的鹰派倾向。预计夏季非农月增仅50-60k，若失业率跌破4.0%或核心通胀月率超0.3%，政策立场可能转向。二季度GDP追踪值下调至2.5%，反映消费疲软。",
+          "important": false
+        },
+        {
+          "actor": "Barclays Credit",
+          "actor_type": "Analyst",
+          "text": "Barclays上调2026 IG供给至$1.9T/净$970B均创纪录 AI/M&A驱动",
+          "details": "Barclays上调2026年美国IG级债券供应预测至1.9T，净发行预计达970B，均创历史新高。驱动因素主要为AI生态系统巨额融资需求及并购活跃。科技及AI相关发行人占年初至今IG发行量18%，超大规模云服务商债券利差承压，落后指数约50bp。BBB级占比降至35%创2009年新低，发行质量提升。年初至今发行较2025年增加约1/3，接近2020年水平（+32%），2026预测较2025 +93% gross/+32% net。",
+          "important": false
+        },
+        {
+          "actor": "Barclays Credit",
+          "actor_type": "Analyst",
+          "text": "Barclays上调2026 HY供给至$370-390B 受再融资需求驱动",
+          "details": "Barclays上调2026年美国高收益债供应预测至370-390b，较此前预测增加约6%。驱动因素主要为累积的再融资需求，预计下半年\"债券置换债券\"及\"债券置换贷款\"发行将加速。尽管上半年M&A发行超预期，但受鹰派美联储及通胀影响，预计下半年LBO活动仍将subdued。AI基础设施融资需求推动GCP/资本支出发行预测上调至40-55b。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        2
+      ],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "Barclays"
+      ],
+      "date": "2026-06-29",
+      "image_urls": [
+        "/uploads/2026-06-29/f8bfc79aeefb.jpg",
+        "/uploads/2026-06-29/522a5228814a.png"
+      ]
+    },
+    {
+      "id": "ai-memory-capex-jun28",
+      "topic": "AI/存储资本开支",
+      "topic_tag": "ai",
+      "title": "Nomura：全球DC capex 2030将达$6.13T 内存收入将达$2.63T",
+      "summary": "Nomura预计全球数据中心capex从2024年$668B飙升至2030年$6.13T，AIDC capex占55%。全球内存收入从$181B升至$2.63T。Exponential View指生成式AI Q季度收入首次超基础设施折旧成本，年化达约$175B。bboczeng认为存储板块上涨\"才刚刚开始爆炸\"。",
+      "bullets": [
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "Nomura：全球DC capex 2030将达$6.13T 内存收入升至$2.63T",
+          "details": "Nomura Global Memory：全球数据中心(DC)资本支出预计从2024年的$668B飙升至2030年的$6.13T，预计AIDC资本支出将从2024年的$206B增长到2030年的$3.38T，到本十年末将占数据中心总资本支出的55%；预计全球内存总收入将从2024年的$181B攀升至2030年的$2.63T。",
+          "important": true
+        },
+        {
+          "actor": "Exponential View",
+          "actor_type": "Analyst",
+          "text": "Azeem Azhar：生成式AI季度收入首超基础设施折旧 年化$175B 同比+200%",
+          "details": "Exponential View（Azeem Azhar）：生成式AI（除中国外）季度收入首次超过基础设施折旧成本，年化营收已达约$175B，同比增长约200%（远超互联网早期增速），但要真正收回万亿美元级资本开支，仍取决于价格持续下降能否有效刺激需求（token使用量），当前价值正逐步向应用层转移。",
+          "important": false
+        },
+        {
+          "actor": "bboczeng",
+          "actor_type": "KOL",
+          "text": "bboczeng：存储板块上涨\"才刚开始爆炸\"",
+          "details": "bboczeng：2026年Q1（除中国外）全球AI销售额达到$25B，超过了数据中心和芯片的季度折旧成本约$21B，对存储/内存板块非常看好，认为当前存储板块的上涨\"还不够多，从曲线来看，才是刚刚开始爆炸\"。",
+          "important": false
+        },
+        {
+          "actor": "Peter Berezin",
+          "actor_type": "Analyst",
+          "text": "Peter Berezin：中国最终会像对待太阳能板一样对待记忆技术",
+          "details": "Peter Berezin：中国最终会像对待太阳能电池板一样对待记忆技术。",
+          "important": false
+        },
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "Warren Pies：开源模型在OpenRouter上抢占前沿模型份额 引发小型AI恐慌",
+          "details": "Warren Pies：开源软件正在抢占OpenRouter平台上前沿模型的市场份额，这引发了一场小型人工智能恐慌，要注意OpenRouter并非代表性样本，且OpenRouter上的前沿代币价格今年大幅上涨。",
+          "important": false
+        },
+        {
+          "actor": "Dan Niles",
+          "actor_type": "KOL",
+          "text": "Dan Niles：短期\"减速带\"担忧 长期2026收官乐观 S&P EPS增超25%",
+          "details": "Dan Niles：短期\"Speedbump\"（减速带）担忧仍存（针对7月底开始的科技巨头财报季）：①Token最小化（降低使用成本）；②低成本开源LLM模型竞争加剧；③半导体成本上升影响Q3指引。长期仍偏乐观（2026年收官有望不错）：①标普EPS增长超25%；②Agentic AI需要10-100倍更多Token；③伊朗战争逐步结束；④Kevin Warsh可能抑制加息预期。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MU",
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Nomura"
+      ],
+      "date": "2026-06-29",
+      "image_urls": []
+    },
+    {
+      "id": "kol-positioning-rotation-jun28",
+      "topic": "KOL仓位/轮动",
+      "topic_tag": "macro-other",
+      "title": "KOL观点：非AI板块被忽视 SOXX技术面转弱 BE指数调整",
+      "summary": "Citrini看好非AI板块（小盘+生命科学）；@pequityresearch指资金从NVDA/超大规模流向半设备/内存再流向防御板块；@TheShortBear警示SOXX头肩顶+突破失败；@SpecialSitsNews指BE被踢出Russell 2000将引发被动卖盘。",
+      "bullets": [
+        {
+          "actor": "Citrini Research",
+          "actor_type": "Analyst",
+          "text": "Citrini：AI\"注意力税\"导致非AI板块被忽视 看好小盘+生命科学",
+          "details": "Citrini Research：AI已经严重挤占了市场注意力（Attention Tax），导致大量非AI板块被严重忽视，出现了被低估的机会，看好小盘主体和Life Sciences Cycle。",
+          "important": true
+        },
+        {
+          "actor": "@pequityresearch",
+          "actor_type": "KOL",
+          "text": "资金从NVDA/超大规模流向半设备/内存 再流向防御板块 非理性轮动",
+          "details": "@pequityresearch：资金正从NVDA和超大规模数据中心（hyperscalers）被挤出，流入半导体设备和内存股，但当设备和内存板块开始回调时，资金并未回流科技股，反而流向医疗等防御板块，这种非理性轮动若持续，将导致市场进一步恶化。",
+          "important": false
+        },
+        {
+          "actor": "@TheShortBear",
+          "actor_type": "KOL",
+          "text": "SOXX头肩顶+突破失败 理想回调20-35%",
+          "details": "@TheShortBear：$SOXX出现头肩顶形态+突破失败，技术面转弱，大主题见顶时经常会出现长时间的横盘震荡，表面看起来像突破，实际上是聪明资金在出货，AI主题可能延续到本年代末，但短期需要一次回调来消化过高的杠杆和情绪，理想的回调形态半导体/AI板块回调20-35%，资金轮动非AI和能源。",
+          "important": false
+        },
+        {
+          "actor": "@SpecialSitsNews",
+          "actor_type": "KOL",
+          "text": "BE被踢出Russell 2000 被动卖盘远超Russell 1000买盘",
+          "details": "@SpecialSitsNews：BE 6月26日左右被踢出Russell 2000，同时大概率被纳入Russell 1000，$BE在Russell 2000里权重很高（接近2%）。所有跟踪Russell 2000的被动基金（指数基金、ETF）必须在再平衡日一次性全部卖出持仓，但是它在Russell 1000里的权重只有0.15%，买入量远小于小盘基金的卖出量。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "SOXX",
+        "BE"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-06-29",
+      "image_urls": []
+    },
+    {
+      "id": "oil-market-views-jun28",
+      "topic": "原油市场",
+      "topic_tag": "oil",
+      "title": "KOL油市观点：7-8月或现库存耗尽利空消息 WTI 67-75区间震荡",
+      "summary": "@TradetheMatrix预警7月底-8月或现出口禁令、Cushing供应下降、管道压力、炼厂停工等库存耗尽相关消息。@MatiasScalbi认为油市在提前交易紧张缓解，需关注库存上升+Contango作为需求崩塌信号，WTI未来1月或在67-75区间。WTI曲线显示近月较12月反弹明显，前端价格上行。",
+      "bullets": [
+        {
+          "actor": "@TradetheMatrix",
+          "actor_type": "KOL",
+          "text": "7月底-8月将现库存耗尽负面消息 整体risk-off但利多油价",
+          "details": "@TradetheMatrix：7月底到8月，市场新闻会大量出现因库存耗尽导致的负面油市消息，这些消息整体偏risk-off（利空市场情绪，但可能利多油价），具体列出的可能事件包括：出口禁令（export bans）、Cushing（美国主要原油交割地）供应减少、管道压力（pipelines losing pressure，因输油量太低）、炼厂因重质原油短缺而停工（refineries shut-ins due to lack of heavy crude）。",
+          "important": true
+        },
+        {
+          "actor": "@MatiasScalbi",
+          "actor_type": "KOL",
+          "text": "油市提前交易紧张缓解 WTI 67-75区间震荡 关注Contango+超季节性库存",
+          "details": "@MatiasScalbi：石油市场在提前交易\"紧张缓解\"。只有当需求真正崩掉（而非供应恢复），他才会转为明显看空，期货曲线结构最重要，如果库存上升的同时，远月价格开始高于近月（出现Contango），并且库存增加超过季节性正常水平→这才是真正的游戏改变（可能是需求真的在崩），未来几周到1个月WTI原油大概率在67-75区间震荡整理。",
+          "important": false
+        },
+        {
+          "actor": "WTI期货曲线",
+          "actor_type": "新闻",
+          "text": "WTI曲线6/26较12/29前端大幅上行 远月仍贴水",
+          "details": "CLA WTI Future曲线比较：12/29/2025曲线起点约$57-58并先升至$62-63再回落至$60附近；6/22/2026曲线起点约$70、降至$55；6/26/2026曲线起点约$75、降至$54。差异柱状图显示2031年前6/26较12/29为负（前端反弹大），2031年后转正。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-06-29",
+      "image_urls": [
+        "/uploads/2026-06-29/dd281336a53f.png"
+      ]
+    },
+    {
+      "id": "other-news-jun28",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "其他：苹果游说采购CXMT 大众或裁员10万 GPT 5.6限量预览 Gundlach唱空SPCX",
+      "summary": "FT报道苹果游说政府希望购买中国长鑫存储(CXMT)内存芯片；OpenAI推出GPT 5.6限量预览版受政府限制；大众或全球裁员10万并关4家德国工厂；Coinbase转开源模式销毁更多代币；Trump提名Lance Schroyer任ICE局长；Gundlach指SPCX是BBB级评级套利产品被重新定价向B级靠拢。",
+      "bullets": [
+        {
+          "actor": "FT/Apple",
+          "actor_type": "新闻",
+          "text": "FT：苹果游说美政府希望可从中国长鑫存储CXMT购买内存芯片",
+          "details": "FT报道苹果公司正在游说美国政府，希望获准可以从中国的长鑫存储CXMT购买内存芯片。",
+          "important": true
+        },
+        {
+          "actor": "OpenAI",
+          "actor_type": "Corporate",
+          "text": "ChatGPT发布GPT 5.6限量预览版 受政府限制仅少量伙伴可用",
+          "details": "ChatGPT此次发布的GPT 5.6限量预览版，受美国政府所限制，只有一小部分受信赖的合作伙伴才能使用该模型，本次推出的三款模型分别命名Sol、Terra和Luna。",
+          "important": false
+        },
+        {
+          "actor": "大众汽车",
+          "actor_type": "Corporate",
+          "text": "大众考虑全球裁员多达10万人 并关闭4家德国工厂",
+          "details": "大众汽车正考虑在全球范围内裁员多达100K人，并关闭四家德国工厂。面临风险的工厂包括汉诺威、茨维考、埃姆登以及奥迪位于内卡苏尔姆的工厂。",
+          "important": false
+        },
+        {
+          "actor": "Coinbase",
+          "actor_type": "Corporate",
+          "text": "Coinbase转向低成本开源模式 销毁更多代币减少代币支出",
+          "details": "Coinbase通过转向成本更低的开源模式，销毁更多代币，但减少代币支出。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump提名Lance Schroyer为下任ICE局长",
+          "details": "Trump提名Lance Schroyer（前俄克拉荷马州警官、美国海军陆战队成员）为下一任ICE（移民与海关执法局）局长。",
+          "important": false
+        },
+        {
+          "actor": "Gundlach",
+          "actor_type": "Analyst",
+          "text": "Gundlach：SPCX靠评级套利骗保险公司需求 正被重定价向B级靠拢",
+          "details": "Gundlach：SPCX这只BBB债券靠着\"评级套利\"骗取了保险公司的需求，发行时拿到了本不该有的好利差。但市场越来越不买账，它正在被重新定价为更接近B级的水平。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "AAPL",
+        "VWAGY",
+        "COIN"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "FT"
+      ],
+      "date": "2026-06-29",
+      "image_urls": []
+    }
+  ]
+}

@@ -38,6 +38,7 @@ const screenerMap   = import.meta.glob('./*/screener.json',    { eager: true, im
 const breadthMap    = import.meta.glob('./*/breadth.json',     { eager: true, import: 'default' });
 const eventsMap     = import.meta.glob('./*/events.json',      { eager: true, import: 'default' });
 const macroMap      = import.meta.glob('./*/macro.json',       { eager: true, import: 'default' });
+const themesMap     = import.meta.glob('./*/themes.json',      { eager: true, import: 'default' });
 const moversNewsMap = import.meta.glob('./*/movers_news.json', { eager: true, import: 'default' });
 
 // market.json is the canonical per-day marker — it's written by the daily
@@ -56,6 +57,7 @@ const screener   = pickFor(screenerMap,   LATEST_DATE, 'screener.json');
 const breadth    = pickFor(breadthMap,    LATEST_DATE, 'breadth.json');
 const events     = pickFor(eventsMap,     LATEST_DATE, 'events.json');
 const macro      = pickFor(macroMap,      LATEST_DATE, 'macro.json');
+const themes     = pickFor(themesMap,     LATEST_DATE, 'themes.json');
 const moversNews = pickFor(moversNewsMap, LATEST_DATE, 'movers_news.json');
 
 // --- Shape normalizers ---------------------------------------------------
@@ -123,7 +125,12 @@ export const TRADING_DATES_1Y = Array.isArray(market.trading_dates_1y)
   ? market.trading_dates_1y
   : [];
 export const SECTOR_MAX_ABS = typeof snapshot.sectorMaxAbs === 'number' ? snapshot.sectorMaxAbs : 2.5;
-export const THEMES = toArray(snapshot.themes);
+// Theme Tracking — text-ingested briefings written to themes.json by the
+// admin Theme tab (see vite-plugins/ingestApi.js). Falls back to any legacy
+// hardcoded snapshot.themes only if no themes.json exists for the date.
+export const THEMES = toArray(themes.themes).length > 0
+  ? toArray(themes.themes)
+  : toArray(snapshot.themes);
 export const MARKET_GENERATED_AT = market.generated_at || null;
 
 // Header display — computed from CURRENT_DATE (trading day) + market.generated_at.

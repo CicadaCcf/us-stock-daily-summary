@@ -463,15 +463,16 @@ function SectorPerformance() {
   );
 }
 
-// --- Theme card: collapsed shows name + dots only, expand → ETFs + stocks
+// --- Theme card: a text-ingested "info-flow" briefing about one subject.
+// Collapsed shows tag + title + summary; expand → groups (AI lab / KOL /
+// Podcast) → per-source bullet points. Mirrors the Macro card shape.
 function ThemeCard({ theme }) {
   const [open, setOpen] = useState(false);
-  const etfCount   = Array.isArray(theme.etfs)   ? theme.etfs.length   : 0;
-  const stockCount = Array.isArray(theme.stocks) ? theme.stocks.length : 0;
-  const totalCount = etfCount + stockCount;
-  const hasMore    = totalCount > 0;
+  const groups = Array.isArray(theme.groups) ? theme.groups : [];
+  const tickers = Array.isArray(theme.tickers) ? theme.tickers : [];
+  const hasMore = groups.some((g) => Array.isArray(g.entries) && g.entries.length > 0);
   return (
-    <div className={`theme-card${open ? ' open' : ''}`}>
+    <div className="event-item theme-card">
       <button
         type="button"
         className="theme-card-head"
@@ -479,44 +480,50 @@ function ThemeCard({ theme }) {
         disabled={!hasMore}
         aria-expanded={open}
       >
-        <div className="tc-head">
-          <span className="tc-name">{theme.name}</span>
-          <div className="heat-dots">
-            {Array.from({ length: 5 }).map((_, i) => (
-              <div className={`heat-dot ${i < theme.dots ? 'on' : 'off'}`} key={i} />
-            ))}
-          </div>
+        <div className="tc-titlerow">
+          <span className="event-tag">{theme.theme || 'Theme'}</span>
+          {theme.date_range && <span className="tc-range">{theme.date_range}</span>}
+          {hasMore && <span className="tc-chev">{open ? '▾' : '▸'}</span>}
         </div>
-        {hasMore && (
-          <div className="tc-summary">
-            {etfCount > 0 && <span>{etfCount} ETF</span>}
-            {stockCount > 0 && <span>{stockCount} 股</span>}
-            <span className="tc-chev">{open ? '▾' : '▸'}</span>
-          </div>
-        )}
+        {theme.title && <h4>{theme.title}</h4>}
+        {theme.summary && <p className="macro-summary">{theme.summary}</p>}
       </button>
+
+      {tickers.length > 0 && (
+        <div className="event-tickers macro-tickers">
+          关注:{' '}
+          {tickers.map((tk) => (
+            <span key={tk}>{tk}</span>
+          ))}
+        </div>
+      )}
       {open && (
         <div className="theme-card-body">
-          {etfCount > 0 && (
-            <div className="tc-etf">
-              {theme.etfs.map((e, i) => (
-                <span key={e.sym}>
-                  {e.sym} <span className={e.dir}>{e.chg}</span>
-                  {i < theme.etfs.length - 1 && ' \u00A0|\u00A0 '}
-                </span>
-              ))}
-            </div>
-          )}
-          {stockCount > 0 && (
-            <div className="tc-stocks">
-              {theme.stocks.map((s) => (
-                <div className="tc-stock" key={s.tk}>
-                  <span className="tk">{s.tk}</span>
-                  <span className={s.dir}>{s.chg}</span>
-                </div>
-              ))}
-            </div>
-          )}
+          {groups.map((g, gi) => {
+            const entries = Array.isArray(g.entries) ? g.entries : [];
+            if (entries.length === 0) return null;
+            return (
+              <div className="tt-group" key={g.label || gi}>
+                <div className="tt-group-label">{g.label}</div>
+                {entries.map((e, ei) => (
+                  <div className={`tt-entry${e.important ? ' important' : ''}`} key={ei}>
+                    <div className="tt-source">
+                      {e.important && <span className="imp-flag">{'⚑'}</span>}
+                      <span className="tt-source-name">{e.source}</span>
+                      {e.source_type && <span className="tt-source-type">{e.source_type}</span>}
+                    </div>
+                    {Array.isArray(e.points) && e.points.length > 0 && (
+                      <ul className="tt-points">
+                        {e.points.map((p, pi) => (
+                          <li key={pi}>{p}</li>
+                        ))}
+                      </ul>
+                    )}
+                  </div>
+                ))}
+              </div>
+            );
+          })}
         </div>
       )}
     </div>
@@ -1127,11 +1134,17 @@ function AppBody() {
       {/* ========== SECTION 6: THEME TRACKING ========== */}
       <div className="section">
         <div className="section-title">主题追踪 Theme Tracking</div>
-        <div className="theme-grid">
-          {THEMES.map(t => (
-            <ThemeCard theme={t} key={t.name} />
-          ))}
-        </div>
+        {THEMES.length === 0 ? (
+          <div className="macro-empty">
+            暂无主题追踪 — 到 <code style={{ color: 'var(--gold)' }}>/admin</code> 添加
+          </div>
+        ) : (
+          <div className="theme-list">
+            {THEMES.map((t, i) => (
+              <ThemeCard theme={t} key={t.id || t.title || i} />
+            ))}
+          </div>
+        )}
       </div>
 
       {/* ========== SECTION 6.5: MACRO BRIEF — moved here (before Recap) ========== */}

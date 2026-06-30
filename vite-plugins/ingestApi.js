@@ -144,6 +144,74 @@ const MACRO_TOOL = {
   },
 };
 
+// Theme tracking — a hierarchical "info-flow" briefing about ONE subject
+// (AI / TSLA / robotics / ...). The input is an outline:
+//   subject → categories (AI lab / KOL / Podcast) → sources (people) → points.
+// We preserve that three-level shape verbatim; the UI renders it as one
+// expandable briefing card per subject.
+const THEME_TOOL = {
+  name: 'submit_themes',
+  description: 'Submit theme-tracking briefings extracted from a hierarchical info-flow summary.',
+  input_schema: {
+    type: 'object',
+    properties: {
+      themes: {
+        type: 'array',
+        items: {
+          type: 'object',
+          properties: {
+            id: { type: 'string', description: 'Stable kebab-case slug, e.g. "ai-infoflow-0622".' },
+            theme: { type: 'string', description: 'Short subject tag, 2-8 chars, e.g. "AI" / "TSLA" / "机器人". This is the chip label.' },
+            title: { type: 'string', description: 'Full briefing title, e.g. "AI信息流总结 6/22-6/29". Strip any surrounding <>. If the input has no explicit title, synthesize a short one from the subject + date range.' },
+            date_range: { type: 'string', description: 'Date range the briefing covers, e.g. "6/22-6/29". Empty string if the input has none.' },
+            summary: { type: 'string', description: '1-2 sentence Chinese overview of the most important takeaways across the whole theme.' },
+            groups: {
+              type: 'array',
+              description: 'Top-level categories in the input (e.g. AI lab / KOL / Podcast). Preserve the labels and order exactly as in the input.',
+              items: {
+                type: 'object',
+                properties: {
+                  label: { type: 'string', description: 'Category label verbatim, e.g. "AI lab" / "KOL" / "Podcast".' },
+                  entries: {
+                    type: 'array',
+                    items: {
+                      type: 'object',
+                      properties: {
+                        source: { type: 'string', description: 'Primary label — the person / account / venue, e.g. "Sam Altman" / "Brian Armstrong" / "Latent space: Matei Zaharia / Reynold Xin". Keep the name as written.' },
+                        source_type: { type: 'string', description: 'Affiliation or role if present, e.g. "OpenAI" / "Coinbase CEO" / "Databricks". Empty string if unknown. Move parenthetical roles here (e.g. "(Coinbase CEO)" → source_type "Coinbase CEO").' },
+                        points: { type: 'array', items: { type: 'string' }, description: 'Each ▪ sub-bullet under this source, verbatim. Do NOT summarize, merge, paraphrase, or drop any point — this is the ground-truth cache. Keep every number, name, and qualifier.' },
+                        important: { type: 'boolean', description: 'True for the single most significant entry in this group (UI highlights it). At most one per group.' },
+                      },
+                      required: ['source', 'source_type', 'points', 'important'],
+                    },
+                  },
+                },
+                required: ['label', 'entries'],
+              },
+            },
+            tickers: { type: 'array', items: { type: 'string' }, description: 'Relevant US stock tickers mentioned (e.g. ["NVDA","GOOGL"]). Empty array if none.' },
+            date: { type: 'string', description: 'YYYY-MM-DD, the ingest date (server overrides).' },
+          },
+          required: ['id', 'theme', 'title', 'date_range', 'summary', 'groups', 'tickers', 'date'],
+        },
+      },
+    },
+    required: ['themes'],
+  },
+};
+
+// kind → (tool, system prompt, top-level array key). Keeps the three ingest
+// flavors selectable from one place.
+function toolFor(kind) {
+  return kind === 'events' ? EVENT_TOOL : kind === 'themes' ? THEME_TOOL : MACRO_TOOL;
+}
+function systemFor(kind) {
+  return kind === 'events' ? SYS_EVENTS : kind === 'themes' ? SYS_THEME : SYS_MACRO;
+}
+function arrayKeyFor(kind) {
+  return kind === 'events' ? 'events' : kind === 'themes' ? 'themes' : 'topics';
+}
+
 // --- Stable system prompts (cached) --------------------------------------
 // Kept constant byte-for-byte so Claude's prompt cache can reuse the prefix.
 
@@ -217,6 +285,36 @@ bullets：每条一句话、带明确 actor。把"最市场驱动"的那条标 i
 actor_type 枚举: US-Executive / US-Congress / Central-Bank / Foreign-Gov / Corporate / Analyst / Unknown。
 id 用英文 kebab-case，便于 diff。
 date 用 ingest 日期 (YYYY-MM-DD)。
+
+不要输出解释性文字，直接调用工具。`;
+
+const SYS_THEME = `你是一个"主题信息流"结构化器。输入是一份围绕**单一主题**（如 AI / TSLA / 机器人 / 某公司）的中文信息流摘要，通常是多层缩进的提纲：
+主题 → 分类（如 AI lab / KOL / Podcast）→ 信息源（人名/账号/播客嘉宾）→ 若干要点（▪ 小圆点）。
+你的任务：**忠实保留这个三层结构**，然后调用 submit_themes 工具返回。
+
+**结构映射（严格对应输入的缩进层级）**：
+- 顶层 = theme。**按主题（subject）拆分**：一份输入若覆盖多个相互独立的主题（如 AI / TSLA / 机器人），就拆成多个 theme，每个主题一张卡。
+  - 若整段输入只围绕一个主题（如 <AI信息流总结 6/22-6/29>），则只产出 1 个 theme。
+  - 判断标准是「主题/标的是否不同」，而不是分类（AI lab / KOL / Podcast 只是同一主题下的 groups，绝不因此拆成多个 theme）。
+  - theme = 主题短标签（2-8 字，如 "AI" / "TSLA"）
+  - title = 完整标题（去掉外层 <>），date_range = 时间范围（如 "6/22-6/29"，没有则空字符串）
+- 第一层缩进（•）= groups，每个 group 的 label 照抄（"AI lab" / "KOL" / "Podcast" ...），顺序保持。
+- 第二层缩进（◦）= 该 group 下的 entries，每个 entry 是一个信息源：
+  - source = 人名/账号/嘉宾（如 "Sam Altman" / "Brian Armstrong" / "Latent space: Matei Zaharia / Reynold Xin"）
+  - source_type = 括号里的身份/机构（如 "Coinbase CEO" / "OpenAI" / "Databricks"），没有则空字符串
+- 第三层缩进（▪）= 该 source 的 points 数组，**每条 ▪ 一个字符串，逐条照抄**。
+
+**完整性规则（最重要，不容违反）**：
+- 输入里出现的每一条 ▪ 要点都**必须**作为一个 point 出现，**不得**总结、合并、改写或丢弃。保留全部数字、人名、机构名、对比、限定条件。
+- 带 * 或被强调的句子同样保留为 point。
+- 不确定某行属于哪个 source 时，就近归入上一个 source。
+
+summary = 用 1-2 句中文概括该主题本周最关键的看点（这是你唯一可以自己组织语言的字段）。
+important = 每个 group 里最关键的那个 entry 标 true（至多一个）；其余 false。
+tickers = 文中提到的相关美股代号（如 NVDA / GOOGL），没有则空数组。
+id 用英文 kebab-case；date 用 ingest 日期 (YYYY-MM-DD)。
+
+**关键：themes / groups / entries / points 必须是真实 JSON 数组，绝对不要序列化成字符串。**
 
 不要输出解释性文字，直接调用工具。`;
 
@@ -484,8 +582,9 @@ async function callClaude({ env, kind, text, images, imageUrls, date, modelOverr
   const model = modelOverride || env.ANTHROPIC_MODEL || 'claude-opus-4-5';
   const visionModel = env.ANTHROPIC_VISION_MODEL || 'claude-sonnet-4-5';
   const isEvents = kind === 'events';
-  const tool = isEvents ? EVENT_TOOL : MACRO_TOOL;
-  const systemText = isEvents ? SYS_EVENTS : SYS_MACRO;
+  const isMacro = kind === 'macro';
+  const tool = toolFor(kind);
+  const systemText = systemFor(kind);
 
   // === Stage A: vision pre-pass (only if images present) ===
   // Per user 2026-04-29: split image processing onto Sonnet so Opus only
@@ -591,7 +690,7 @@ async function callClaude({ env, kind, text, images, imageUrls, date, modelOverr
   // Defensive unwrap: Sonnet sometimes stringifies nested arrays. If the
   // top-level `events` / `topics` is a string, try JSON.parse it.
   const raw = toolUse.input || {};
-  const key = isEvents ? 'events' : 'topics';
+  const key = arrayKeyFor(kind);
   let data = raw;
   if (typeof raw[key] === 'string') {
     try {
@@ -626,7 +725,7 @@ async function callClaude({ env, kind, text, images, imageUrls, date, modelOverr
 
   // Resolve image_indexes → image_urls on each macro topic (server-side join).
   const urlList = Array.isArray(imageUrls) ? imageUrls : [];
-  if (!isEvents && Array.isArray(data.topics) && urlList.length > 0) {
+  if (isMacro && Array.isArray(data.topics) && urlList.length > 0) {
     data.topics = data.topics.map((t) => {
       const idxs = Array.isArray(t.image_indexes) ? t.image_indexes : [];
       const image_urls = idxs
@@ -639,7 +738,7 @@ async function callClaude({ env, kind, text, images, imageUrls, date, modelOverr
   // Safety net: collapse any 1-bullet topics the LLM still emitted into
   // a single "其他" catch-all card preserving each bullet's content.
   // (Only for macro — industry events are fine as singletons.)
-  if (!isEvents && Array.isArray(data.topics)) {
+  if (isMacro && Array.isArray(data.topics)) {
     const multi = [];
     const singles = [];
     for (const t of data.topics) {
@@ -906,8 +1005,8 @@ export function ingestApiPlugin(env) {
           if (req.method === 'POST' && req.url === '/api/ingest') {
             const body = await readJsonBody(req);
             const { kind, text, images, image_urls, model: modelOverride, mode, content } = body || {};
-            if (!['events', 'macro'].includes(kind)) {
-              return sendJson(res, 400, { ok: false, error: 'kind must be "events" or "macro"' });
+            if (!['events', 'macro', 'themes'].includes(kind)) {
+              return sendJson(res, 400, { ok: false, error: 'kind must be "events", "macro", or "themes"' });
             }
             // Normalize inputs: accept new {text, images[]} or legacy {mode, content}.
             let textIn = typeof text === 'string' ? text : '';
