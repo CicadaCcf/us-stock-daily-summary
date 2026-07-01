@@ -1,0 +1,415 @@
+{
+  "topics": [
+    {
+      "id": "scotus-fed-cook-trump-power-2025-06-30",
+      "topic": "最高法院/总统罢免权",
+      "topic_tag": "policy",
+      "title": "最高法院拒立即解雇Cook但确认总统罢免权",
+      "summary": "最高法院以5-4裁决拒绝让Trump立即解雇美联储理事Cook，Roberts强调Fed特殊地位与due process；同日保守派多数确认Trump解雇FTC委员Slaughter合法，被视为总统罢免行政机构官员权力的历史性判决。特朗普高调庆祝Slaughter案胜利并预告将对Cook案继续行动。",
+      "bullets": [
+        {
+          "actor": "美国最高法院",
+          "actor_type": "US-Executive",
+          "text": "5-4裁决拒绝Trump立即解雇Fed理事Cook",
+          "details": "最高法院5-4裁决拒绝让特朗普立即解雇美联储主席Cook，大法官Roberts的意见关键聚焦于程序正义（due process）和\"for cause\"解雇的法律标准，强调了Fed的特殊地位，对Cook的审查不符合程序标准。案件以程序性理由发回重审。",
+          "important": true
+        },
+        {
+          "actor": "美国最高法院",
+          "actor_type": "US-Executive",
+          "text": "保守派多数确认Trump解雇FTC委员Slaughter合法",
+          "details": "最高法院以保守派多数确认特朗普解雇联邦贸易委员会（FTC）委员Rebecca Kelly Slaughter是合法的。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "称Slaughter案是关于总统权力最重要裁决之一",
+          "details": "Trump表示最高法院在Slaughter案中取得了重大胜利，确认了美国总统根据宪法第二条有权罢免行政部门官员和机构任命人员或代表。这项裁决是美国总统长期以来一直寻求的，可追溯到20世纪30年代。Trump称能赢得这项历史性、前所未有的裁决无比荣幸，是关于总统权力最重要的裁决之一。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "预告将对Cook案立即采取行动",
+          "details": "Trump称库克诉讼案涉及她是否适合担任美联储理事，最高法院以程序性理由将其发回重审。\"我们将立即采取适当行动，确保任何犯下不当行为的人都不会参与关乎美国福祉的重大决策\"。",
+          "important": false
+        },
+        {
+          "actor": "美国最高法院",
+          "actor_type": "US-Executive",
+          "text": "各州可统计选举日后收到的邮寄选票",
+          "details": "美国最高法院裁定，各州可以统计选举日后收到的邮寄选票，只要这些选票的邮戳日期为选举日当天即可。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-06-30",
+      "image_urls": []
+    },
+    {
+      "id": "us-iran-doha-hormuz-2025-06-30",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊同意暂停攻击并恢复多哈会谈",
+      "summary": "美伊同意暂停攻击，Witkoff与Kushner今日飞抵多哈；伊朗使馆称磋商准备工作尚未开始。Axios披露谈判涉及三份不同阶段协议，Vance与Rubio在其中暗中角力。Trump称军事上正在获胜，伊朗宣布卡塔尔冻结的12B美元资产将首批解冻6B。海峡6/29 33艘船通行。",
+      "bullets": [
+        {
+          "actor": "美方特使团",
+          "actor_type": "US-Executive",
+          "text": "美伊同意暂停攻击并恢复多哈会谈",
+          "details": "美伊同意暂停攻击并恢复多哈会谈，美方特使Steve Witkoff与Jared Kushner将于今日飞抵多哈，周二与卡塔尔官员会面讨论伊朗谈判；周三美伊技术团队将分别与卡塔尔和巴基斯坦调解人举行会谈。",
+          "important": true
+        },
+        {
+          "actor": "伊朗驻卡塔尔使馆",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗使馆称与美磋商准备工作尚未开始",
+          "details": "伊朗使馆表示：与美国在多哈的磋商准备工作尚未开始。",
+          "important": false
+        },
+        {
+          "actor": "Axios",
+          "actor_type": "新闻",
+          "text": "披露谈判涉及三份分阶段协议、Vance与Rubio暗斗",
+          "details": "AXIOS报道目前的谈判极其复杂，涉及三份不同阶段的协议：(1)美伊谅解备忘录(6月17日)由Vance、Witkoff和Kushner推动，旨在结束战争、重开霍尔木兹海峡并稳定经济，Vance持较温和、对以怀疑的态度，极力促成此协议；(2)黎巴嫩问题协议(6月21日)Vance在瑞士与伊朗达成，赋予伊朗在以色列与真主党停火谈判中的发言权；(3)以黎和平框架(上周五)由Rubio主导，以色列和黎巴嫩签署，采取强硬且亲以的立场，规定以色列分阶段撤军但前提是必须解除真主党武装。有美国官员透露，这两位潜在的2028年共和党总统候选人提名竞争者在借此案暗中较劲，甚至有人称Rubio在谈判中退居次要位置，是在\"等待Vance自己搞砸\"。",
+          "important": false
+        },
+        {
+          "actor": "Pezeshkian",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗宣布首批解冻卡塔尔冻结的6B美元资产",
+          "details": "伊朗总统佩泽什基安宣布，伊朗在卡塔尔被冻结的12B资产中的6B将作为第一批解冻并返还伊朗。此次解冻是伊朗和美国之间一项临时谅解备忘录的一部分。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "称军事上正在获胜，多哈会议看情况",
+          "details": "Trump表示\"我们在军事上正在获胜，几乎已经军事上获胜\"。同时表示多哈会议\"可能重要，也可能不重要，我们拭目以待\"。",
+          "important": false
+        },
+        {
+          "actor": "海峡通航数据",
+          "actor_type": "新闻",
+          "text": "6/29霍尔木兹海峡共33艘船通行",
+          "details": "6/29 共33艘，其中15艘出湾，18艘进湾。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Axios"
+      ],
+      "date": "2026-06-30",
+      "image_urls": []
+    },
+    {
+      "id": "oil-hormuz-flows-gs-ms-2025-06-30",
+      "topic": "原油/霍尔木兹流量",
+      "topic_tag": "oil",
+      "title": "GS/MS：海峡流量迅速恢复,MS再度下调供应缺口",
+      "summary": "GS估算波斯湾流量已回升至18mb/d、约战前80%水平，若按+1mb/d/日恢复速度，7月初可回到战前23mb/d；全球库存6月至今日均降2.3mb/d。MS两周内第二次下调供应缺口预期。海湾国家继续投资绕过海峡的管道基础设施。",
+      "bullets": [
+        {
+          "actor": "GS Oil",
+          "actor_type": "Analyst",
+          "text": "海峡流量升至18mb/d,7月初有望恢复战前23mb/d",
+          "details": "在中东周末局势升级之前，霍尔木兹河的流量迅速增加，将波斯湾的流量推高至18mb/d（7天移动平均值），接近战前水平的80%。假设波斯湾气流继续以过去两周的平均速度恢复（每天加速+1mb/d），那么到7月初，海湾气流可能已经恢复到战前23mb/d的水平。",
+          "important": true
+        },
+        {
+          "actor": "GS Oil",
+          "actor_type": "Analyst",
+          "text": "海湾国家仍加码绕过海峡的管道投资",
+          "details": "尽管近期原油流量有所回升，海湾产油国仍继续投资基础设施项目，旨在减少对霍尔木兹海峡的依赖。阿联酋正在建设一条新管道，预计到2027年，经由富查伊拉港的原油出口能力将翻一番，增加1.5mb/d；而伊拉克已启动巴士拉-哈迪塞管道项目，将增加伊拉克向地中海出口原油的渠道。",
+          "important": false
+        },
+        {
+          "actor": "GS Oil",
+          "actor_type": "Analyst",
+          "text": "周末海峡出口曾降至<5mb/d、正常量的20%以下",
+          "details": "周末期间，经霍尔木兹海峡的石油出口量估计下降到5mb/d以下，不到正常量的20%。伊朗的意愿而非运输能力不足才是伊朗石油运输迅速恢复的主要制约因素。霍尔木兹海峡附近油轮的总运输能力为930mb，海湾内空载油轮的运力高于满载油轮的运力。",
+          "important": false
+        },
+        {
+          "actor": "GS Oil",
+          "actor_type": "Analyst",
+          "text": "全球可见库存6月至今日均降2.3mb/d",
+          "details": "全球可见库存持续下降，6月份至今的平均下降速度为2.3mb/d。",
+          "important": false
+        },
+        {
+          "actor": "MS Oil",
+          "actor_type": "Analyst",
+          "text": "两周内二次下调石油供应缺口预期",
+          "details": "两周内第二次下调石油供应缺口预期，原因是霍尔木兹海峡的石油流量恢复速度快于预期，而美国强劲的供应和中国疲软的需求加剧了石油供应过剩的风险。",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "海湾产量迅速回升,原油被运至加州",
+          "details": "BBG报道随着霍尔木兹海峡重新开放，波斯湾国家的石油产量迅速增长，以至于供应充足的亚洲炼油商正将部分原油运往远至加利福尼亚的地区。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "USO",
+        "XLE"
+      ],
+      "image_indexes": [
+        7
+      ],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "Bloomberg"
+      ],
+      "date": "2026-06-30",
+      "image_urls": [
+        "/uploads/2026-06-30/7cc1dd5c80f6.png"
+      ]
+    },
+    {
+      "id": "ecb-lagarde-lane-sintra-2025-06-30",
+      "topic": "ECB/辛特拉",
+      "topic_tag": "fed",
+      "title": "Lagarde辛特拉演讲：政策利率重回主导、不再FG",
+      "summary": "Lagarde在辛特拉年会开幕演讲称ECB无需再像2022-23年那样发力抗通胀，政策利率重新成为主要工具，放弃复杂前瞻性指引，改为逐次会议、数据依赖决策；新时代供给冲击频发，政策需保留余度并引入情景分析。Lane称能源涨价的连锁反应尚需时间，不会锁定利率路径。",
+      "bullets": [
+        {
+          "actor": "Lagarde",
+          "actor_type": "Central-Bank",
+          "text": "政策利率重回主导,不再采用复杂前瞻性指引",
+          "details": "Lagarde辛特拉开幕演讲：欧洲央行无需像2022-2023年那样\"用同样的力度\"来对抗通胀。货币政策框架上：(1)利率远离有效下限，非常规工具暂不需要主动使用，政策利率重新成为主要工具，逐次会议、数据依赖地做决策，不再采用复杂的前瞻性指引（Forward Guidance）；(2)新时代环境下供给侧扰动多过需求侧，且供给冲击频率上升、方向难测、可快速反转，多数冲击处于\"可忽略\"与\"须强力应对\"之间的中间地带，因此政策需要有余度；(3)改革创新上建议更好的指标与预测：用潜在通胀指标（持久成分、共同成分）、细化能源价格预测，并持续用最新数据交叉验证预测，避免依赖过时预判、引入情景分析（Scenario Analysis），在高度不确定下测试政策在各合理情景中是否成立。",
+          "important": true
+        },
+        {
+          "actor": "Lane",
+          "actor_type": "Central-Bank",
+          "text": "能源涨价连锁反应需时间,不锁定利率路径",
+          "details": "ECB Lane表示，能源价格上涨带来的连锁反应需要一段时间才能显现，在此期间，政策制定者不会锁定利率路径。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-30",
+      "image_urls": []
+    },
+    {
+      "id": "usdjpy-warsh-intervention-2025-06-30",
+      "topic": "美元/日元",
+      "topic_tag": "rates",
+      "title": "HF不敢新建美元/日元多头,警惕日本干预",
+      "summary": "BBG援引交易员称因担心周五美国休市期间日本可能干预，对冲基金不愿在当前价位建立新的USD/JPY多头。若Warsh发表鹰派言论叠加强NFP，美元兑日元可能逼近165。Hassett表示预计就业数据将非常热，且当前经济无强理由支持加息。",
+      "bullets": [
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "HF不愿新建USD/JPY多头,警惕周五日本干预",
+          "details": "BBG援引交易员的话称，由于担心日本可能在周五美国市场因公共假日休市期间进行干预，HF不愿在当前价位建立新的美元兑日元多头头寸。交易员表示，如果Warsh发表鹰派言论，美元兑日元汇率可能接近165，而美国非农就业数据也支持美联储加息的理由。",
+          "important": true
+        },
+        {
+          "actor": "Hassett",
+          "actor_type": "US-Executive",
+          "text": "预计就业数据非常热,无强理由支持加息",
+          "details": "Hassett表示预计就业数据会非常热；目前经济状况没有很强的理由支持加息。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-06-30",
+      "image_urls": []
+    },
+    {
+      "id": "buyside-burry-citadel-2025-06-30",
+      "topic": "买方观点",
+      "topic_tag": "macro-other",
+      "title": "Burry警告美股极度高估;Citadel Sec看空AI假设",
+      "summary": "Burry称美股极度高估、结构前所未有脆弱，被动投资、HFT幻觉流动性和Pod shops严控风险让市场如\"紧绷弹簧\"，面临暴力均值回归。Citadel Securities认为投资者低估Warsh抗通胀决心，AI行情面临需求疲软、员工抵制、政治监管三重风险。",
+      "bullets": [
+        {
+          "actor": "Michael Burry",
+          "actor_type": "Analyst",
+          "text": "美股极度高估、结构脆弱面临暴力均值回归",
+          "details": "当前美股正处于极度高估的状态，市场结构变得前所未有的脆弱。随着过去三十年支撑美股牛市的结构性力量（被动投资、人口红利、企业回购）逐一见顶逆转（老龄化退休计划资金流转负），且目前被动投资、HFT幻觉流动性和Pod shops严格风控导致美股结构性脆弱，市场如同\"紧绷的弹簧\"，正面临极其暴力的均值回归和崩盘风险。",
+          "important": true
+        },
+        {
+          "actor": "Citadel Securities",
+          "actor_type": "Analyst",
+          "text": "投资者低估Warsh抗通胀决心,AI三重风险",
+          "details": "Citadel Securities：投资者低估了Warsh降低通胀的决心，并警告称利率上升可能会对风险资产构成压力。AI的上涨行情面临着需求疲软的风险：(1)对市场而言AI意味着运营杠杆，但对员工而言则是失业风险；消费者看到的则是更高的硬件价格和电费账单，日常生活中能直接获得的即时益处却很少；(2)AI的本质是企业将员工的专业知识、决策和经验（隐性知识）资本化和规模化，一旦员工意识到这一点，他们将有动力隐藏知识、起诉或抵制，从而阻碍AI模型的训练和部署；(3)政治家通过对AI采取强硬态度可以赢得选票，未来AI将面临更高昂的合规、审计、版权结算和能源监管成本。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        2
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-30",
+      "image_urls": [
+        "/uploads/2026-06-30/249f98cc7407.webp",
+        "/uploads/2026-06-30/ebf3719a31be.jpg"
+      ]
+    },
+    {
+      "id": "sellside-cicc-jpm-2025-06-30",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "CICC韩股杠杆达历史高位;JPM PCE算法调整",
+      "summary": "CICC Kevin测算韩股融资余额38万亿韩元达历史新高，下跌16~36%可能触发强平连锁，但融资余额占自由流通市值仅0.9%远低于中美，广义杠杆产品占比6.2%亦低于2015年中国9.6%高点。JPM Eco称BEA将调整算法，2026年5月核心PCE同比从3.41%下调至3.26%，历史回溯至2021年。",
+      "bullets": [
+        {
+          "actor": "CICC Kevin",
+          "actor_type": "Analyst",
+          "text": "韩股杠杆绝对规模至历史高位,16-36%回撤可能触发强平",
+          "details": "韩股杠杆绝对规模已至历史高位。韩国规定保证金比例不低于40%、场内融资的担保比例不低于140%，具体券商可针对不同个股差异化设定，例如若波动率较高可调整为保证金比例60%、担保比例160%，因此推算下跌16~36%可能触发强平连锁反应，短期波动风险大。",
+          "important": true
+        },
+        {
+          "actor": "CICC Kevin",
+          "actor_type": "Analyst",
+          "text": "但相对市值占比不极端,中期看基本面",
+          "details": "相对市值占比不算极端，中期行情仍看半导体基本面与流动性，高杠杆只放大不决定趋势。狭义口径的融资余额占自由流通市值比例仅0.9%，无论是纵向对比韩股自己历史上的高点（1.8%），还是横向对比当前美国（2.0%）和中国（5.3%），都不算高。即便按照广义杠杆产品规模占自由流通市值比例的6.2%，也低于2015年中国9.6%的高点。",
+          "important": false
+        },
+        {
+          "actor": "JPM Eco",
+          "actor_type": "Analyst",
+          "text": "BEA算法调整,2026年5月核心PCE下调至3.26%",
+          "details": "BEA将调整软件、投资管理及法律服务PCE平减指数算法。估算显示，2026年5月核心PCE同比增速将从3.41%下调至3.26%。其中软件及配件因纳入PPI数据导致读数下降，法律服务切换至PPI后读数上升部分抵消降幅。整体影响有限，历史数据将回溯至2021年。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        4,
+        5
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-30",
+      "image_urls": [
+        "/uploads/2026-06-30/53e7477b94ec.png",
+        "/uploads/2026-06-30/4cb8f6144203.png"
+      ]
+    },
+    {
+      "id": "kol-views-2025-06-30",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "Erian看空鹰派定价;Bob质疑AI假设;Andy示警杠杆",
+      "summary": "Erian认为市场鹰派情绪过强，7月加息将令其震惊；Bob称AI热潮假设正被廉价模型、企业预算收紧和监管挤压；Andy展示含杠杆ETF的FINRA保证金调整版本显示杠杆相当高；Duality Research质疑基本面向好下市场却像投机股剧烈波动；Aelia Capitolina认为半导体设备、网安等有真实现金流板块可无视宏观。",
+      "bullets": [
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "含杠杆ETF内嵌保证金后杠杆率相当高",
+          "details": "看到FINRA绝对保证金图表正在流传，还有以市值百分比表示的更佳版本。这里有一个更好的版本，它将杠杆ETF的内嵌保证金添加到FINRA数据中。杠杆率相当高，而且不包括ODTE。",
+          "important": true
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "KOL",
+          "text": "市场鹰派定价过头,7月加息将震惊",
+          "details": "Erian：我认为市场鹰派情绪过于强烈——如果7月份加息我会感到震惊，如果今年今年加息我也会感到惊讶。",
+          "important": false
+        },
+        {
+          "actor": "Bob",
+          "actor_type": "KOL",
+          "text": "廉价模型+企业预算收紧+监管挤压AI叙事",
+          "details": "人工智能热潮背后的假设正日益受到挑战。廉价模型、日益紧缩的企业预算以及监管限制，已经对这项原本定价为指数级增长的技术造成了挤压。",
+          "important": false
+        },
+        {
+          "actor": "Duality Research",
+          "actor_type": "KOL",
+          "text": "经济好油价正常鹰派变利好,市场却剧烈波动",
+          "details": "既然经济表现良好、油价回归正常、鹰派压力变成利好，值得关注的是过去几个交易日市场依然像投机股一样剧烈波动？",
+          "important": false
+        },
+        {
+          "actor": "Aelia Capitolina",
+          "actor_type": "KOL",
+          "text": "半导体设备/网安等真实现金流板块可无视宏观",
+          "details": "半导体设备、网络安全等有真实现金流和订单支撑的板块，仍可继续上涨无视宏观。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        3,
+        6
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-06-30",
+      "image_urls": [
+        "/uploads/2026-06-30/72e5ca5be686.jpg",
+        "/uploads/2026-06-30/7835403f2cb8.jpg",
+        "/uploads/2026-06-30/4f0482b6c3ac.png"
+      ]
+    },
+    {
+      "id": "single-name-news-2025-06-30",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "MSTR策略调整;NVDA董事减持;腾讯长鑫签20B合同",
+      "summary": "MSTR官宣策略从只买入持有BTC转向可随时出售BTC以支持美元储备、股息、利息、股票回购（含优先股）。NVDA第二大股东兼董事Mark Stevens自2008年以来首次抛售价值1.85亿美元的NVDA。腾讯与长鑫存储签署超200亿人民币服务器DRAM供货合同。",
+      "bullets": [
+        {
+          "actor": "MicroStrategy",
+          "actor_type": "Corporate",
+          "text": "MSTR调整策略,BTC可随时出售支持股息回购",
+          "details": "MSTR官宣调整未来方向策略。从过去的仅购买持有比特币，转向可以随时出售比特币，来为美元储备、股息、利息、公司股票回购提供资金，其中包括优先股。",
+          "important": true
+        },
+        {
+          "actor": "Mark Stevens",
+          "actor_type": "Corporate",
+          "text": "NVDA董事兼二股东抛售$185m",
+          "details": "2008年以来一直是NVDA第二大股东和董事会成员的Mark Stevens抛售了价值$185m的NVDA股票。",
+          "important": false
+        },
+        {
+          "actor": "腾讯/长鑫存储",
+          "actor_type": "Corporate",
+          "text": "腾讯与长鑫签超￥20B服务器DRAM供货合同",
+          "details": "腾讯被曝与长鑫存储签署超￥20B供货合同，该协议涵盖未来数年服务器DRAM芯片供应。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MSTR",
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-06-30",
+      "image_urls": []
+    }
+  ]
+}
