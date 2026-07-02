@@ -1,0 +1,611 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-doha-jun30",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊多哈技术会谈举行，聚焦去核化与霍尔木兹",
+      "summary": "美伊在多哈进行间接技术会谈，卡塔尔和巴基斯坦担任调解人，伊方称重点在释放冻结资金与霍尔木兹海峡管理；特朗普称高阶会谈明日举行、聚焦去核化，但伊方否认已排期直接会谈。同时伊朗-阿曼霍尔木兹联合委员会首次会议在马斯喀特举行，讨论海峡未来管理与费用规则。沙特阻止美军在海峡执行自由行动引发美沙外交裂痕。",
+      "bullets": [
+        {
+          "actor": "美伊/卡塔尔",
+          "actor_type": "Foreign-Gov",
+          "text": "美伊多哈间接技术会谈进行中，聚焦德黑兰资金与霍尔木兹",
+          "details": "美伊间接技术会谈正在多哈举行；卡塔尔和巴基斯坦担任调解人；会议由首席谈判代表和专家组参加，伊朗方面称进行的间接谈判重点是释放德黑兰资金和霍尔木兹海峡。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普：伊朗请求会面，多哈高阶会谈明日举行，聚焦去核化",
+          "details": "特朗普称伊朗已请求会面，多哈会谈将于明天（6月30日或7月1日）举行，强调去核化是核心，乐观认为进展顺利；同时表示若条件不符可能重启行动，但目前坚持对话。白宫确认派遣Jared Kushner和Steve Witkoff赴多哈进行高阶会谈，技术性磋商或同步/侧面进行。",
+          "important": false
+        },
+        {
+          "actor": "伊朗副外长加里巴巴迪",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗否认多哈直接会谈已排期，警告航运升级风险",
+          "details": "副外长卡泽姆·加里巴巴迪否认多哈直接会谈已排期，强调技术会谈需条件成熟，咨询通过卡塔尔等中介继续；此前伊朗外长阿拉格奇曾警告若船舶不按伊朗控制路线通行将升级紧张。",
+          "important": false
+        },
+        {
+          "actor": "伊朗-阿曼联合委员会",
+          "actor_type": "Foreign-Gov",
+          "text": "伊阿霍尔木兹联合委员会首次会议在马斯喀特举行",
+          "details": "伊朗-阿曼霍尔木兹联合委员会首次会议6月29日（周一）在马斯喀特举行，讨论霍尔木兹海峡未来管理（含航运服务、费用，按国际标准及主权权利），依据《伊斯兰堡谅解备忘录》第5段及沿海国主权权利，审查当前问题并交换意见；MOU框架下60天内不收取安全/环保等费用，伊朗坚持沿海国（伊阿）主权管理。",
+          "important": false
+        },
+        {
+          "actor": "Vance",
+          "actor_type": "US-Executive",
+          "text": "万斯：伊朗若袭击船只，美国将回应",
+          "details": "副总统万斯：总统已明确表示，如果伊朗人袭击船只，我们将予以回应。",
+          "important": false
+        },
+        {
+          "actor": "海峡通航",
+          "actor_type": "新闻",
+          "text": "6/30霍尔木兹海峡通航40艘（18艘出湾/22艘进湾）",
+          "details": "6/30 40艘，其中18艘出湾，22艘进湾（图）。",
+          "important": false
+        },
+        {
+          "actor": "美沙关系",
+          "actor_type": "新闻",
+          "text": "沙特阻美军海峡自由行动，美沙关系裂痕，美考虑减少驻沙兵力",
+          "details": "由于沙特阻止美国军方进入霍尔木兹海峡执行\"自由行动\"，美沙关系出现裂痕，并引发外交危机。美国正考虑减少在沙特阿拉伯的军事存在，将兵力集中部署在以色列和约旦等更支持美国的国家。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-07-01",
+      "image_urls": []
+    },
+    {
+      "id": "fed-hawkish-july-hike-jun30",
+      "topic": "美联储/加息预期",
+      "topic_tag": "fed",
+      "title": "Hammack鹰派，市场博弈7月加息",
+      "summary": "克利夫兰联储Hammack称美联储可能需要加息才能将通胀降至2%，不预判7月决议。Bessent预期6月非农强劲。市场对7月加息概率稳定在30%，非农数据将成关键。DB因通胀粘性支持2026两次加息，MS则预计2026按兵不动。",
+      "bullets": [
+        {
+          "actor": "Hammack",
+          "actor_type": "Central-Bank",
+          "text": "Hammack：美联储可能需要加息才能将通胀降至2%",
+          "details": "Hammack称她没有看到太多证据表明利率正在抑制经济增长，由于过去五年通胀率过高，美国央行可能需要提高利率，才能将通胀率降至2%的目标水平，目前看不到双重使命有冲突，不要预先判断7月是否加息，想等所有数据都出来之后再做决定。",
+          "important": true
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "Bessent：如果6月就业非常强劲我不会意外",
+          "details": "Bessent：如果六月份的就业形势\"非常强劲\"，我不会感到惊讶。",
+          "important": false
+        },
+        {
+          "actor": "Ed Bradford",
+          "actor_type": "KOL",
+          "text": "7月加息概率稳定30%，强非农将强化加息定价",
+          "details": "Ed Bradford：从今天季度末到周四公布关键的非农就业数据，时间非常紧迫。鉴于7月份加息的可能性仍然稳定在30%，强劲的非农就业数据将大大有助于再次交易7月加息的可能性。另引用Conference Board消费者信心Jobs Plentiful指标（\"工作机会充足\"比例-\"工作难找\"比例）大幅下降，就业市场可能没那么强。",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "FOMC后尘埃落定：经济仍过热",
+          "details": "Andy：FOMC会议引发了一次小规模冲击和市场波动。但尘埃落定后，一切又恢复了原状：经济过热。",
+          "important": false
+        },
+        {
+          "actor": "Claudia Sahm",
+          "actor_type": "Analyst",
+          "text": "Sahm：美联储需以透明度维护独立性",
+          "details": "Claudia Sahm：美联储阐明其思路至关重要。透明度和对反馈的开放态度并不能取代良好的经济成果，但它们应该是追求良好经济成果的一部分。只有这样，美联储才能更好地维护其独立性，并确保货币政策始终由经济驱动。",
+          "important": false
+        },
+        {
+          "actor": "东京交易厅",
+          "actor_type": "KOL",
+          "text": "对美元rally逻辑不认同，FOMC鹰派价内已充分",
+          "details": "东京交易厅：这波美元上涨的逻辑不太信也不想跟。逻辑总结为hawkish fed+US exceptionalism回归。FOMC结果确实鹰派，但投票都是在MOU之前，倾向加息成员比例有一半但投票成员比例不高，市场只price一个adjustment hike（不是真正加息周期），短期改price都price了，frontend甚至还有一些反转空间。AI叙事对hyperscaler不利，美股相对日韩股underperform那么多哪来exception。另指出胀框架、数据来源、AI生产效率改革几块东西最终目的可能是美联储拿出全新政策依据，叙事回到美联储信任问题，工作小组事情后续可能成主导叙事。",
+          "important": false
+        },
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "Analyst",
+          "text": "Nick：职位空缺/失业者比显示劳动力市场疲软已止步",
+          "details": "Nick：Ratio of job openings to unemployed workers显示，劳动力市场疲软的趋势在去年年底左右停止。",
+          "important": false
+        },
+        {
+          "actor": "DB通胀报告",
+          "actor_type": "Analyst",
+          "text": "德银：通胀粘性支持2026年两次加息",
+          "details": "DB Inflation：虽然5月核心CPI表面较温和，但CPI与PCE之间的楔子、能源价格、服务价格和关税传导让通胀路径仍难以迅速回到目标。汽油价格上行推高headline CPI，核心CPI在关税和能源冲击前曾趋向目标，但服务通胀已重新加速，核心PCE持续热于核心CPI。商品端关税影响会逐步消退，但服装、耐用品部分价格仍有延迟传导；住房租金/OER在政府停摆后数据扰动消退后正常化，但进一步租金去通胀空间有限；机票、汽车保险、维修、医疗和住宿等服务项目仍需重点跟踪。核心通胀未来一年大体横盘，能源2026年明显增加通胀贡献，核心商品关税影响回落却缺乏其他去通胀来源，通胀粘性为德银预计2026年两次加息提供支撑。",
+          "important": false
+        },
+        {
+          "actor": "JPM Rates",
+          "actor_type": "Analyst",
+          "text": "小摩：类比1999-2000周期，或需再加息50-100bp",
+          "details": "JPM Rates：当前美联储政策预期已明显转向鹰派，历史对照自1990年代初现代货币政策框架确立以来，仅出现过两次类似\"中期加息调整\"：1997年3月单次25bp加息应对经济加速通胀，但随后因亚洲金融危机提前结束；1999年6月-2000年5月累计加息175bp，其中后半段（1999年11月-2000年5月）纯粹收紧阶段加息100bp。当前情况与1999-2000年后期收紧阶段有一定相似性。如果劳动力市场继续与经济重新耦合（失业率下降），美联储可能需要加息50-100bp，1y1y OIS可能再上涨50-75bp，收益率曲线将进一步趋平（5s/30s预计收窄约30bp）。",
+          "important": false
+        },
+        {
+          "actor": "Barclays Rates",
+          "actor_type": "Analyst",
+          "text": "巴克莱：加息预期升温下债券基金反流入超3200亿",
+          "details": "Barclays Rates：尽管市场重定价美联储加息预期，但债券基金资金流入加速，年初至今累计超3200亿美元。资金主要集中在短中期债券，投资者意在锁定4.25%以上的国债及5%以上的企业债收益率，同时规避长期久期风险。当前资金流向与历史加息周期前背离，暗示市场视加息为风险溢价而非持续紧缩周期基准。",
+          "important": false
+        },
+        {
+          "actor": "MS Macro",
+          "actor_type": "Analyst",
+          "text": "MS：预计非农新增90K/失业率4.3%，2026按兵不动",
+          "details": "MS Macro：美国5月职位空缺率微升至4.8%，但招聘率降至3.5%，空缺失业比为1.04。数据显示劳动力市场稳定而非强劲，维持非农就业新增90K人及失业率4.3%的预测。尽管6月FOMC会议显鹰派，但预计美联储2026年将按兵不动，因近期高通胀难以为继。",
+          "important": false
+        },
+        {
+          "actor": "DB FOMC日历",
+          "actor_type": "Analyst",
+          "text": "德银：本次FOMC后两周官员讲话数量偏少",
+          "details": "DB图：FOMC speaker calendar since the June meeting has been light；6月会议后两周FOMC讲话/亮相次数明显低于2018-2025历年（除12月）水平。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        8
+      ],
+      "importance": 3,
+      "sources": [
+        "MNI",
+        "MS",
+        "DB",
+        "JPM",
+        "Barclays"
+      ],
+      "date": "2026-07-01",
+      "image_urls": [
+        "/uploads/2026-07-01/c2bf8325c967.png",
+        "/uploads/2026-07-01/54ddfe631903.png"
+      ]
+    },
+    {
+      "id": "trump-crypto-scotus-jun30",
+      "topic": "特朗普/司法与加密收入",
+      "topic_tag": "policy",
+      "title": "SCOTUS维持出生公民权行政令，Trump加密收入超14亿",
+      "summary": "最高法驳回特朗普出生公民权行政命令，Trump以讽刺口吻\"恭喜习近平\"。OGE披露Trump去年从加密业务获得超14亿美元收入。Trump再次抨击投票机与邮寄选票。NPR一篇关于Alito的报道被主动撤回。",
+      "bullets": [
+        {
+          "actor": "OGE披露",
+          "actor_type": "新闻",
+          "text": "Trump去年加密业务收入超14亿美元",
+          "details": "美国政府道德办公室(OGE)披露信息显示，去年Trump从加密货币业务中获得超1.4B美元的收入，其中超过600M来自销售Meme代币TRUMP，超520M来自销售WLFI代币，此外还有NFT业务等。",
+          "important": true
+        },
+        {
+          "actor": "SCOTUS",
+          "actor_type": "US-Executive",
+          "text": "最高法驳回Trump出生公民权行政命令",
+          "details": "最高法驳回特朗普关于出生公民权的行政命令。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump讽刺\"恭喜习近平\"回应SCOTUS判决",
+          "details": "Trump恭喜习近平和中国在出生公民权上\"巨大胜利\"（讽刺SCOTUS维持该政策）。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump再抨投票机与邮寄选票",
+          "details": "Trump称投票机被操纵、邮寄选票是灾难，选举在共产主义威胁下\"非常危险且腐败\"。称2024年自己选票\"太大无法操纵\"，但其他人并非如此。",
+          "important": false
+        },
+        {
+          "actor": "NPR",
+          "actor_type": "新闻",
+          "text": "NPR主动撤回一篇关于大法官Alito的错误报道",
+          "details": "NPR报道最高法大法官Alito，报道发布后不久，NPR就主动撤回了这篇文章，并承认报道错误。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "OGE"
+      ],
+      "date": "2026-07-01",
+      "image_urls": []
+    },
+    {
+      "id": "japan-fx-intervention-jun30",
+      "topic": "日元/日本市场",
+      "topic_tag": "rates",
+      "title": "日本财务省首次重启\"干预\"措辞，JPM上调日股目标",
+      "summary": "日本财务省外汇主管三村自6月5日以来首次使用\"外汇干预\"相关措辞。JPM将2026年底日经225目标上调至75000点，TOPIX 4400点，中期看2028年触及10万点。",
+      "bullets": [
+        {
+          "actor": "日本财务省三村",
+          "actor_type": "Foreign-Gov",
+          "text": "日财务省外汇主管首次重启\"干预\"措辞",
+          "details": "日本财务省外汇主管三村自6月5日以来首次使用\"外汇干预\"相关措辞。",
+          "important": true
+        },
+        {
+          "actor": "JPM JP",
+          "actor_type": "Analyst",
+          "text": "小摩：日经225年底目标75000点，2028看10万点",
+          "details": "JPM JP：2026年下半年日股延续涨势，日经225指数年底目标调至75,000点，TOPIX目标4,400点。核心策略聚焦AI/半导体与金融股，看好利率上升背景下的盈利驱动。中期预计日经225于2028年触及100,000点，受益于政府370T日元战略投资及个人资产向股市转移。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "JPM"
+      ],
+      "date": "2026-07-01",
+      "image_urls": []
+    },
+    {
+      "id": "russia-fuel-shortage-jun30",
+      "topic": "俄罗斯燃料短缺",
+      "topic_tag": "oil",
+      "title": "乌无人机致俄大范围燃料短缺，数十年首次进口燃料",
+      "summary": "乌克兰无人机袭击导致俄罗斯全国出现大范围燃料短缺，迫使俄罗斯计划数十年来首次进口燃料，并禁止汽油和航空燃油出口。",
+      "bullets": [
+        {
+          "actor": "俄罗斯政府",
+          "actor_type": "Foreign-Gov",
+          "text": "乌无人机致俄燃料短缺，俄将数十年首次进口燃料",
+          "details": "乌克兰无人机袭击导致俄罗斯全国范围内出现大范围燃料短缺，迫使俄罗斯计划数十年来首次进口燃料，并禁止汽油和航空燃油出口。",
+          "important": true
+        },
+        {
+          "actor": "@TradetheMatrix1",
+          "actor_type": "KOL",
+          "text": "KOL：石油短缺利好美元、做多USDJPY",
+          "details": "@TradetheMatrix1：看好美元上涨，做多USDJPY。石油短缺对美元构成严重利好，因为会引发通胀，美联储加息幅度可能大于其他央行。根据石油美元协议，购买美国石油必须以美元支付。美国是受影响最小的石油出口国，即使停止出口，美元仍走强，因为美国能满足国内市场需求。新任chair已为加息铺平道路，市场将提前消化。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-01",
+      "image_urls": []
+    },
+    {
+      "id": "ai-infra-financing-jun30",
+      "topic": "AI基建融资/供给",
+      "topic_tag": "ai",
+      "title": "AI基建债务与融资规模激增，市场担忧承接力",
+      "summary": "Apollo的Slok质疑7000亿美元AI相关新增债务谁来承接；MS预计2026全球AI债券供应达5700亿，超大规模云厂商27年capex将破1万亿。Bloom Energy与Brookfield扩大AI电力融资五倍至250亿。KKR与SK推13亿美元韩国清洁能源平台。OpenAI推理成本砍半。",
+      "bullets": [
+        {
+          "actor": "Torsten Slok (Apollo)",
+          "actor_type": "Analyst",
+          "text": "Slok质疑：谁将吸收约7000亿美元AI相关新增债务",
+          "details": "Apollo Torsten Slok：AI hyperscalers大规模发行债务正在转移投资者对美国国债和其他信贷市场的需求。他质疑谁将吸收大约700B的新增人工智能相关债务供给。",
+          "important": true
+        },
+        {
+          "actor": "MS Macro",
+          "actor_type": "Analyst",
+          "text": "MS：2026全球AI债券供应达5700亿，超大规模capex 2027破1万亿",
+          "details": "MS：AI资本支出周期intact，但\"芯片通胀\"将导致基础设施重新定价。预计2026年全球AI相关债券供应达570B，超大规模云厂商资本支出2027年将超1T。",
+          "important": false
+        },
+        {
+          "actor": "Bloom Energy/Brookfield",
+          "actor_type": "Corporate",
+          "text": "Bloom Energy与Brookfield扩大AI电力融资五倍至250亿",
+          "details": "Bloom Energy与Brookfield扩大了合作范围，共同为人工智能基础设施的电力项目提供融资，并将双方的融资规模扩大了五倍，达到25B。",
+          "important": false
+        },
+        {
+          "actor": "KKR/SK",
+          "actor_type": "Corporate",
+          "text": "KKR与SK推13亿美元韩国清洁能源平台服务AI",
+          "details": "KKR与韩国SK集团联合推出一项价值13亿美元的可再生能源平台，旨在满足人工智能数据中心和半导体制造领域对清洁能源日益增长的需求。",
+          "important": false
+        },
+        {
+          "actor": "OpenAI",
+          "actor_type": "Corporate",
+          "text": "OpenAI推理成本砍半",
+          "details": "Information报道OpenAI本月开发了一项优化技术，将部分模型的推理（inference）成本直接砍掉一半。",
+          "important": false
+        },
+        {
+          "actor": "Dylan Patel",
+          "actor_type": "KOL",
+          "text": "Dylan：Anthropic毛利率75%+，翻倍算力成本仍盈利",
+          "details": "Dylan Patel：Anthropic因为API卖token的毛利率太高（80%+），只要最终卖token的利润>租GPU的成本，就划算。假设当前毛利率75%，即使把算力成本翻倍（比如高价租GPU），毛利率也会下降到50%，但因为整体收入增加了，最终利润（NOI）还是上升的。这进一步强化了当前AI对高端算力（尤其Nvidia+HBM）的极强需求。",
+          "important": false
+        },
+        {
+          "actor": "Brandon Cral",
+          "actor_type": "KOL",
+          "text": "OpenAI/Anthropic三面夹击：监管、中国开源、hyperscaler",
+          "details": "Brandon Cral：OpenAI和Anthropic曾是AI时代的绝对英雄，但现在正面临多方挤压：上方——监管越来越严（国家安全、出口管制、治理框架）；下方——中国开源模型（DeepSeek等）在效率上快速追赶并commoditize市场；侧面——微软、谷歌等hyperscaler和软件巨头正在侵蚀它们的生存空间，单纯靠\"模型智能领先\"已经不够，它们必须做出战略选择。",
+          "important": false
+        },
+        {
+          "actor": "Bob",
+          "actor_type": "KOL",
+          "text": "Bob：SI收入终于超过折旧，但需未来五年100%增速",
+          "details": "Bob：SI收入终于超过了折旧成本，而折旧成本本身就很低。要想从所有计划的资本支出中获得可观的回报，就需要未来五年内保持近期100%的收入增长率。",
+          "important": false
+        },
+        {
+          "actor": "Derek Thompson",
+          "actor_type": "KOL",
+          "text": "Derek：AI催生\"solo economy\"，长期财政负面",
+          "details": "Derek Thompson：AI并没有大规模取代工作，而是正在赋能个人和极小团队，让\"一个人创业\"变得前所未有地高效和有利可图，形成了\"solo economy\"的新趋势，长期看对财政影响负面。",
+          "important": false
+        },
+        {
+          "actor": "Revelio Lab",
+          "actor_type": "Analyst",
+          "text": "数据：大量采用AI的企业反而增加了招聘",
+          "details": "Revelio Lab：AI会导致失业吗？最新数据显示，大量采用人工智能的企业反而增加了招聘。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "BE",
+        "BEP",
+        "MSFT",
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Apollo",
+        "MS",
+        "The Information"
+      ],
+      "date": "2026-07-01",
+      "image_urls": []
+    },
+    {
+      "id": "memory-hbm-supply-jun30",
+      "topic": "存储/HBM供需",
+      "topic_tag": "ai",
+      "title": "MU CEO称客户加剧供应紧张，DRAM三巨头面临集体诉讼",
+      "summary": "美光CEO Mehrotra称近年斤斤计较的客户加剧供应紧张，导致AI爆发时行业投资不足。HedgieMarkets指出三星/SK海力士/美光占全球约90% DRAM市场面临加州集体诉讼，HBM单片晶圆消耗是DDR5的3倍，AI数据中心抢产能致消费级内存短缺涨价。",
+      "bullets": [
+        {
+          "actor": "MU CEO Mehrotra",
+          "actor_type": "Corporate",
+          "text": "美光CEO：斤斤计较的客户加剧供应紧张、行业投资不足",
+          "details": "MU CEO周二在接受CNBC采访时表示，内存芯片制造商并非造成当前供需失衡的唯一原因。梅赫罗特拉认为，近年来在价格方面斤斤计较的客户也加剧了供应紧张，并指出这导致该行业在人工智能蓬勃发展之际投资不足。",
+          "important": true
+        },
+        {
+          "actor": "HedgieMarkets",
+          "actor_type": "KOL",
+          "text": "DRAM三巨头面临加州集体诉讼；HBM挤压消费级内存",
+          "details": "HedgieMarkets：三星、SK海力士、美光三家制全球约90% DRAM市场，一起面临加州集体诉讼。这三家公司1998-2002年曾因DRAM价格操纵被判有罪（三星罚300M），2016-2018年又被中国调查过。虽然本次诉讼大概率败诉，但实质问题是真实的——HBM单片晶圆消耗是标准DDR5的3倍，AI数据中心大量抢占产能，直接导致消费级内存短缺和价格上涨。AI本该让硬件更便宜，结果却让普通消费者为笔记本、游戏机等多付数百美元，而掌控供应的三家巨头\"前科累累\"。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MU"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "CNBC"
+      ],
+      "date": "2026-07-01",
+      "image_urls": []
+    },
+    {
+      "id": "market-structure-ai-concentration-jun30",
+      "topic": "市场结构/AI集中度",
+      "topic_tag": "ai",
+      "title": "半导体权重创新高，杠杆ETF规模膨胀，AI集中度堪比历史泡沫",
+      "summary": "半导体S&P500权重升至19.7%创35年新高；BofA显示AI Big 10集中度接近历史泡沫顶部；杠杆及反向ETP规模膨胀至1800亿美元，但极端下跌下再平衡占交易量25-30%暂无崩盘风险；BofA建议NDX远期puts对冲AI尾部风险。short bear指出AI板块强劲反弹、市场广度改善。",
+      "bullets": [
+        {
+          "actor": "BofA Benjamin Bowler",
+          "actor_type": "Analyst",
+          "text": "BofA：杠杆ETP规模1800亿，建议NDX远期put对冲AI尾部",
+          "details": "Bofa Benjamin Bowler：杠杆及反向ETF（L&I ETPs）规模激增至180B，且每1%SPX变动引发的Beta调整后再平衡规模接近27B，但在极端假设下（如单日下跌20%且交易量仅增加2倍），理论再平衡规模占交易量的比例约为25%-30%，暂无崩盘风险。建议买入NDX远期看跌期权对冲AI尾部风险。",
+          "important": true
+        },
+        {
+          "actor": "Citadel Securities",
+          "actor_type": "Analyst",
+          "text": "图：半导体S&P500权重升至19.7%创新高",
+          "details": "Semiconductor Weight in the S&P 500 Since 1995：半导体权重升至19.7%，其他板块占80.3%（as of June 2026）。杠杆ETF AUM 2026年6月218B（其中Tech ex-Semis 81B/37%，Semis 66B/30%，Other 71B）对比2020年6月47B。",
+          "important": false
+        },
+        {
+          "actor": "BofA GIS",
+          "actor_type": "Analyst",
+          "text": "BofA：AI Big 10集中度接近历史泡沫顶部",
+          "details": "BofA Chart 6：Historical concentration peaks——Nifty Fifty占S&P 500、Japan占MSCI ACWI、Tech&Telecom占S&P 500、AI Big 10占S&P 500的历史对比，AI 2020s集中度已接近1970s Nifty Fifty、1980s日本、2000s科技的历史峰值区域。",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "Analyst",
+          "text": "科技股离散度接近2000年高点",
+          "details": "Tech Stock Dispersion Rivals 2000：S&P 500信息技术指数前/后五分之一3个月滚动价格变动的离散度接近2000年高点。",
+          "important": false
+        },
+        {
+          "actor": "Citadel Securities",
+          "actor_type": "Analyst",
+          "text": "S&P等权与市值加权指数相关性跌至79%创低",
+          "details": "Correlation of S&P Equal Weight Index to S&P 500 Index：1年滚动相关性最新79%（历史High 99%/Low 79%/Avg 96%/StdDev 4%），反映集中度和分化明显。",
+          "important": false
+        },
+        {
+          "actor": "Citadel Securities",
+          "actor_type": "Analyst",
+          "text": "散户在SPX下跌日净流入显著高于上涨日",
+          "details": "Retail Cash - Average Daily Net Notional on SPX Up Days vs. Down Days（Yearly since 2020）：2026散户在下跌日的日均净买入相对上涨日比值显著偏高。",
+          "important": false
+        },
+        {
+          "actor": "SMH call skew",
+          "actor_type": "Analyst",
+          "text": "SMH头部半数个股呈现call skew倒挂",
+          "details": "SMH top half of the names，% of the names trading with inverted call skew (25DC-50D)——半导体龙头股中出现call skew倒挂比例的时间序列。",
+          "important": false
+        },
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "short bear：AI板块强劲反弹、市场广度改善",
+          "details": "short bear：AI板块出现非常强劲的反弹，从前期的破位下跌到几天内快速修复，甚至出现突破（如$AMD）和消息面利好个股，市场广度（Breadth）改善：Advance/Decline线持续走强。$KOSPI表现偏弱，主要原因是即将于7月10日上市的大型IPO带来不确定性，可能暂时压制了指数。另外今天是季度末Window Dressing（粉饰业绩）的最后一天。",
+          "important": false
+        },
+        {
+          "actor": "Michael Burry",
+          "actor_type": "KOL",
+          "text": "Michael Burry在$416.22做空特斯拉",
+          "details": "Michael Burry shorted Tesla at $416.22。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TSLA",
+        "AMD",
+        "SMH",
+        "NDX"
+      ],
+      "image_indexes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "importance": 3,
+      "sources": [
+        "BofA",
+        "Citadel Securities",
+        "Bloomberg"
+      ],
+      "date": "2026-07-01",
+      "image_urls": [
+        "/uploads/2026-07-01/cd5173712112.jpg",
+        "/uploads/2026-07-01/76cf617ad07d.jpg",
+        "/uploads/2026-07-01/339671a72742.jpg",
+        "/uploads/2026-07-01/7a073851f2df.png",
+        "/uploads/2026-07-01/edd89fbd138c.png",
+        "/uploads/2026-07-01/0c722f7309f3.jpg",
+        "/uploads/2026-07-01/b3d1937b6edc.jpg"
+      ]
+    },
+    {
+      "id": "china-a-share-jun30",
+      "topic": "A股/中概监管",
+      "topic_tag": "macro-other",
+      "title": "银瀚看跌A股：换手与融资增速触阈值",
+      "summary": "银瀚指出A股3%的市值加权日换手率与60%融资规模同比增速是资金推动型上涨的极限值，看跌A股。另Susquehanna在曼哈顿起诉100名匿名被告，指控利用中国打击跨境券商内幕通过期权交易获利超1亿美元。Anthropic被曝在Claude Code嵌入针对中国用户的隐藏代码。",
+      "bullets": [
+        {
+          "actor": "银瀚投资",
+          "actor_type": "KOL",
+          "text": "银瀚：A股换手3%+融资增速60%触阈值，看跌",
+          "details": "银瀚投资：A股3%的市值加权日换手率是一道坎，说明有人在拼命的抛售筹码；A股从2016年以来存在个融资规模同比增速60%的阈值，这是资金推动型上涨的极限值，看跌A股。",
+          "important": true
+        },
+        {
+          "actor": "Susquehanna",
+          "actor_type": "Corporate",
+          "text": "Susquehanna起诉100名匿名被告涉中概内幕交易",
+          "details": "Susquehanna投资集团指控一批神秘内幕交易者利用中国政府打击跨境券商的内幕信息，通过期权交易获利超过100M，导致该公司损失超70M，并已在曼哈顿联邦法院起诉100名匿名被告。",
+          "important": false
+        },
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic Claude Code被曝隐藏代码针对中国用户",
+          "details": "Anthropic公司在Claude Code软件中嵌入了类似间谍软件的隐藏代码，该代码会秘密针对中国用户。它会将用户信息注入到用户的提示信息中，从而泄露这些信息。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        9
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-01",
+      "image_urls": [
+        "/uploads/2026-07-01/ef7770463235.png"
+      ]
+    },
+    {
+      "id": "other-macro-jun30",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "微软裁员、OUSD稳定币、太阳能逆变器禁令、Anthropic Fable 5",
+      "summary": "微软为控成本拟裁员最多5000人；跨行业财团(140+)推出Open USD稳定币；美政府拟禁进口外国太阳能/电池逆变器防中国破坏电网；Anthropic Fable 5面向Pro/Max/Team等开放但每周使用上限50%。",
+      "bullets": [
+        {
+          "actor": "Microsoft",
+          "actor_type": "Corporate",
+          "text": "微软AI控成本拟裁员最多5000人",
+          "details": "为了在AI潮下控制成本，微软本次将裁员最多约5K名员工，涉及销售、咨询，以及Xbox游戏业务等多部门。",
+          "important": true
+        },
+        {
+          "actor": "OpenStandard财团",
+          "actor_type": "Corporate",
+          "text": "跨行业财团推出Open USD稳定币，Visa/BLK/COIN在列",
+          "details": "宣布推出Open USD (OUSD)。这款与美元挂钩的新型稳定币由一个庞大的跨行业财团支持，该财团由超过140家企业巨头组成，其中包括Visa、万事达卡、美国运通、Stripe、贝莱德和Coinbase。",
+          "important": false
+        },
+        {
+          "actor": "美国政府",
+          "actor_type": "US-Executive",
+          "text": "美拟禁进口外国太阳能/电池逆变器防中国破坏电网",
+          "details": "政府据报正起草一项新禁令，拟禁止进口用于将太阳能项目和电池连接到电网的外国逆变器，以防范中国可能利用这些设备破坏美国的电力供应。",
+          "important": false
+        },
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic Fable 5面向Pro/Max/Team开放，周用量上限50%",
+          "details": "Anthropic宣布Fable 5将面向Pro、Max、Team和Select Enterprise用户开放，但截至7月7日，每周使用量上限为50%。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MSFT",
+        "V",
+        "MA",
+        "AXP",
+        "BLK",
+        "COIN"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-07-01",
+      "image_urls": []
+    }
+  ]
+}
