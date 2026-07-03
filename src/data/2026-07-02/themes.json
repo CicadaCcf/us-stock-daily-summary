@@ -1,0 +1,85 @@
+{
+  "themes": [
+    {
+      "id": "meta-sellside-cloud",
+      "theme": "META",
+      "title": "META sellside总结：做云业务分歧",
+      "date_range": "",
+      "summary": "卖方对META做云业务的核心分歧：多头视其为缓解现金流压力、支撑capex扩张的举措；空头则担忧其暗示AI算力供给过剩、META或下修capex从而压制半导体供应链。后续关注OAI/Anthropic ARR与META二季度capex指引。",
+      "groups": [
+        {
+          "label": "多头",
+          "entries": [
+            {
+              "source": "总述",
+              "source_type": "",
+              "points": [
+                "META做云主要是缓解现金流压力，如果现金流健康有利于后续支撑capex扩张"
+              ],
+              "important": false
+            },
+            {
+              "source": "UBS",
+              "source_type": "",
+              "points": [
+                "认为META做云不是增量信息。无论卖云容量还是卖模型接入，都能比等待 Meta Business Agents / Meta AI chatbot 放量更快贡献近端收入，从而缓解股价压力"
+              ],
+              "important": false
+            },
+            {
+              "source": "MS",
+              "source_type": "",
+              "points": [
+                "卖算力是为了增加收入提高近端EPS，缓解股价压力"
+              ],
+              "important": false
+            },
+            {
+              "source": "CITI",
+              "source_type": "",
+              "points": [
+                "卖算力和更高毛利的 model garden 产品，可以回流现金流，缓解建产能期间的 FCF 压力。短期可能压semi股价，但认为广泛 AI 需求足以吸收当前阶段性过剩"
+              ],
+              "important": true
+            },
+            {
+              "source": "天风",
+              "source_type": "",
+              "points": [
+                "认为 Meta 内部需求足以消化算力，卖老卡不等于 GPU 全面过剩，而是新卡训练、老卡推理外售的代际匹配。继续援引 Google 限制 Meta 算力访问，说明高端算力仍供不应求"
+              ],
+              "important": false
+            },
+            {
+              "source": "国金",
+              "source_type": "",
+              "points": [
+                "重点在现金流循环：外租算力可以让 AI 投入形成更健康的现金流回补，从而支持后续更持续的Capex"
+              ],
+              "important": false
+            }
+          ]
+        },
+        {
+          "label": "空头",
+          "entries": [
+            {
+              "source": "总述",
+              "source_type": "",
+              "points": [
+                "闲置算力可直接作为云业务基础，意味着 Meta 可能不需要继续大规模新采购 GPU，进而推导 capex 下修，压制半导体供应链",
+                "没有sellside明确的看空，更多是作为bear case的假设提出"
+              ],
+              "important": true
+            }
+          ]
+        }
+      ],
+      "tickers": [
+        "META",
+        "NVDA"
+      ],
+      "date": "2026-07-02"
+    }
+  ]
+}
