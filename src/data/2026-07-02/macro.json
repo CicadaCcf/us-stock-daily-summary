@@ -1,0 +1,487 @@
+{
+  "topics": [
+    {
+      "id": "fed-speakers-jul02",
+      "topic": "美联储官员表态",
+      "topic_tag": "fed",
+      "title": "Cook赞小企业AI应用 Daly倾向紧缩 Hassett批Fed",
+      "summary": "多位美联储及白宫官员就AI、通胀与政策立场发声。Cook指出小企业AI渗透率近半、生产率提高；Daly认为通胀可能更持久，政策仍略紧；白宫经济顾问Hassett批评Fed部分官员因反Trump而想加息。",
+      "bullets": [
+        {
+          "actor": "Daly",
+          "actor_type": "Central-Bank",
+          "text": "Daly：可能面对更持久通胀 政策仍偏紧",
+          "details": "旧金山联储主席Daly：我们可能不得不应对更持久的通货膨胀，政策仍处于略微紧缩的立场。",
+          "important": true
+        },
+        {
+          "actor": "Cook",
+          "actor_type": "Central-Bank",
+          "text": "Cook：小企业AI渗透近半 71%生产率提升",
+          "details": "库克指出小企业占美国企业99.9%，贡献61%净新增就业。最新调查显示近半数小企业已使用AI，其中71%报告生产率提高，颠覆了大企业主导AI的传统观念。库克强调双使命为小企业创造繁荣条件。",
+          "important": false
+        },
+        {
+          "actor": "Hassett",
+          "actor_type": "US-Executive",
+          "text": "Hassett：Fed若加息将证明是错误 部分官员因讨厌Trump想加息",
+          "details": "Hassett：我们现在是AI+减税带来的供给侧繁荣，如果Fed真的加息，可能会被证明是错误的。Fed里有些人可能不是因为经济数据，而是因为讨厌特朗普才想加息。Warsh主席很辛苦，但责任不在他。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-02",
+      "image_urls": []
+    },
+    {
+      "id": "warsh-fed-chair-reaction",
+      "topic": "Warsh主席评价",
+      "topic_tag": "fed",
+      "title": "Warsh辛特拉讲话偏鸽 KOL多角度点评 各国央行视其为盟友",
+      "summary": "新任Fed主席Warsh在辛特拉论坛讲话基调略偏鸽，承认通胀预期与风险下降但拒绝提供7月政策指引。多位KOL对其风格、鹰鸽转向及数据框架展开辩论；路透报道各国央行认为在Warsh身上找到了新盟友。",
+      "bullets": [
+        {
+          "actor": "MS Rates",
+          "actor_type": "Analyst",
+          "text": "MS：Warsh鸽派讲话下维持年内不变预期",
+          "details": "摩根士丹利维持Fed年内利率不变预期。尽管Warsh在辛特拉论坛讲话基调略显鸽派，承认通胀预期与风险下降，但仍拒绝提供7月政策指引。摩通预测核心PCE环比增速为0.17%，低于美联储暗示的0.21%，认为通胀放缓足以支撑FOMC按兵不动。",
+          "important": true
+        },
+        {
+          "actor": "Emma",
+          "actor_type": "KOL",
+          "text": "Emma：Warsh像早年Greenspan重新定义有用数据",
+          "details": "Emma：Warsh像当年Greenspan一样，试图重新定义'有用数据'，不只依赖传统官方数据。Greenspan的声誉是几十年在私营部门做预测、从底层数据自下而上理解经济积累起来的，而Warsh目前只是'借用'这种遗产，能否真正拥有Greenspan式的'数据触发器'还需时间检验。他对AI的乐观程度接近硅谷平均水平，主要体现在中期，但这并不能直接回答近期货币政策问题。",
+          "important": false
+        },
+        {
+          "actor": "EconstratPB",
+          "actor_type": "KOL",
+          "text": "EconstratPB：其他官员谈框架 Warsh每句都是前瞻指引",
+          "details": "EconstratPB：值得注意的是，除了Warsh之外的其他发言者通常都说'我也不喜欢前瞻性指引，但请允许我谈谈数据、经济以及我的框架'。而Warsh则像是'我说的每句话都是前瞻性指引，PASS'。",
+          "important": false
+        },
+        {
+          "actor": "@mark_dow",
+          "actor_type": "KOL",
+          "text": "mark_dow：Warsh油腔滑调",
+          "details": "@mark_dow：Warsh comes across smarmy and unctuous.",
+          "important": false
+        },
+        {
+          "actor": "@ZackEiseman",
+          "actor_type": "KOL",
+          "text": "ZackEiseman：Warsh今日又有鸽派暗示",
+          "details": "@ZackEiseman：Warsh with a few more dovish hints today... tough man couldn't even handle a little bit of hike premium.",
+          "important": false
+        },
+        {
+          "actor": "@SpecialSitsNews",
+          "actor_type": "KOL",
+          "text": "SpecialSitsNews：对Warsh转鹰是否矫枉过正",
+          "details": "@SpecialSitsNews：对于Warsh转鹰我们是否矫枉过正了？毕竟近期PCE数据温和，美国劳动力市场看起来稳定而非过热（看明天非农），且油价暴跌应会继续对整体通胀产生影响。",
+          "important": false
+        },
+        {
+          "actor": "@pequityresearch",
+          "actor_type": "KOL",
+          "text": "pequityresearch：或许可以告别加息 未来甚至降息",
+          "details": "@pequityresearch：或许我们可以告别加息了？劳动力市场疲软，油价也已回落到战前水平。如果这两个因素都能保持下去，我们甚至可能在未来看到降息。",
+          "important": false
+        },
+        {
+          "actor": "路透社",
+          "actor_type": "新闻",
+          "text": "路透：各国央行官员认为在Warsh身上找到新盟友",
+          "details": "RTRS报道世界各国央行官员认为，他们可能在美联储主席凯文·沃什身上找到了新的盟友，这在与华盛顿原本紧张的关系中提供了一个难得的共同点。",
+          "important": false
+        },
+        {
+          "actor": "Nomura Rates",
+          "actor_type": "Analyst",
+          "text": "野村：Warsh鸽派但美债收益率仍上升",
+          "details": "Nomura Rates：尽管Warsh发表鸽派言论，但美债收益率仍上升，反映市场对就业数据的焦虑。若美联储缺乏前瞻指引，政策预期将更依赖经济数据。日本股市预计受美国半导体股下跌拖累而回落，日债亦受美债疲软影响承压。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Reuters"
+      ],
+      "date": "2026-07-02",
+      "image_urls": []
+    },
+    {
+      "id": "us-iran-hormuz-jul02",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊多哈间接谈判取得进展 达成海峡一周安静期",
+      "summary": "美伊在多哈由卡塔尔、巴基斯坦调解的间接技术谈判取得积极进展，基于两周前签署的MOU（含60天全面核协议窗口）。双方同意海峡一周安静期，MOU违规紧急沟通渠道将于7月2日前建立，但核条款与霍尔木兹通行权、冻结资金使用仍存核心分歧。",
+      "bullets": [
+        {
+          "actor": "多哈谈判",
+          "actor_type": "新闻",
+          "text": "美伊间接谈判获进展 达成霍尔木兹一周安静期",
+          "details": "美伊间接技术谈判在多哈继续，由卡塔尔和巴基斯坦调解，重点讨论霍尔木兹海峡管理、冻结资产使用及黎巴嫩停火落实。基于两周前签署的MOU（含60天全面核协议窗口），谈判为间接形式（美伊不直接对话）。取得积极进展，同意继续讨论；达成海峡一周安静期（无导弹飞行，便于推进MOU所有方面）；MOU违规紧急沟通渠道将于7月2日前建立。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：与伊朗会谈非常好 去核化顺利推进",
+          "details": "Trump称与伊朗'非常好的会谈'，'一切进展顺利'，'伊朗去核化正在顺利推进'。",
+          "important": false
+        },
+        {
+          "actor": "美伊分歧",
+          "actor_type": "新闻",
+          "text": "核条款与海峡通行权仍是核心分歧",
+          "details": "核条款与霍尔木兹通行条款仍是核心分歧：美方推动将霍尔木兹问题纳入更广泛核协议框架；伊朗坚持MOU到期后对海峡的联合主权（与阿曼）、管理权及通行费。",
+          "important": false
+        },
+        {
+          "actor": "冻结资金安排",
+          "actor_type": "新闻",
+          "text": "讨论伊朗在卡塔尔约30-60亿冻结资金用于购物",
+          "details": "资金解冻/使用：讨论伊朗在卡塔尔冻结资金（约3-6B）用于按伊朗需求购买并交付货物；未见大规模现金直接解冻。",
+          "important": false
+        },
+        {
+          "actor": "美方信息",
+          "actor_type": "US-Executive",
+          "text": "美方向伊朗传递'Think bigger'信息",
+          "details": "美国官员向伊朗传递'Think bigger'（想得更大）信息——全面核协议带来的石油/资源自由开发收益是'收取通行费这种黑帮式手段'的100倍；强调海峡安排需得到海湾国家背书；警告'每次他们开火，我们就会开火更多，针对进一步削弱其在海峡地位的目标'。",
+          "important": false
+        },
+        {
+          "actor": "Gharibabadi",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗副外长：否认直接对话 所有谈判经调解人",
+          "details": "伊朗副外长Gharibabadi：否认直接对话；所有谈判通过调解人进行；同意基于伊朗需求购买并交付货物；优先事项包括霍尔木兹管理和冻结资产。",
+          "important": false
+        },
+        {
+          "actor": "Araghchi",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗外长：若Trump不控制以色列 伊朗将教训他们",
+          "details": "伊朗外长Araghchi（X发文）：若特朗普不控制其'特拉维夫宠物'（以色列），伊朗将'教训他们'。",
+          "important": false
+        },
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "JH：波斯湾装货活动明显逐步增加",
+          "details": "JH：开始看到波斯湾的装货活动呈现出明显的、逐步增加的趋势。从光学卫星图像上看，即使在谅解备忘录签署后仍然完全空置的泊位，现在终于可以看到船只停靠在旁边了。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-07-02",
+      "image_urls": []
+    },
+    {
+      "id": "asia-fx-jpy",
+      "topic": "亚洲外汇/日元干预",
+      "topic_tag": "rates",
+      "title": "日本转向针对性干预信号 韩美日就外汇密切沟通",
+      "summary": "日本官员放弃提前透露干预风险的惯例，转向更有针对性的信号以挤压投机者做空日元的成本；官员避免提及具体汇率底线。野村称下一轮干预位在163附近，就业报告是关键触发。韩国就外汇问题与美日密切沟通。",
+      "bullets": [
+        {
+          "actor": "Nomura JP",
+          "actor_type": "Analyst",
+          "text": "野村：下一轮日元干预位约163",
+          "details": "Nomura JP：日本财务省官员三村氏采访暗示日元干预可能在无强烈预警下突然发生，预计下一轮干预位在163附近。日本央行短观数据显示经济具韧性，通胀风险上升，支持继续加息，但政府压力使前景存疑。",
+          "important": true
+        },
+        {
+          "actor": "日本官员",
+          "actor_type": "Foreign-Gov",
+          "text": "日本转向针对性信号 挤压做空日元投机者",
+          "details": "日本官员正在放弃以往提前透露干预风险的惯例，转而发出更有针对性的信号，旨在挤压投机者，提高做空疲软日元的成本。官员们也避免提及任何可能触发干预的具体汇率'底线'。消息人士还表示，如果就业报告未能阻止美元兑日元汇率上涨，干预的可能性可能会增加。",
+          "important": false
+        },
+        {
+          "actor": "韩国政府",
+          "actor_type": "Foreign-Gov",
+          "text": "韩国就外汇问题与美日密切沟通",
+          "details": "韩国正就外汇问题与美日进行密切沟通。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-02",
+      "image_urls": []
+    },
+    {
+      "id": "russia-ukraine-kyiv-strike",
+      "topic": "俄乌冲突",
+      "topic_tag": "geo",
+      "title": "俄导弹和无人机袭击基辅 至少13死80伤",
+      "summary": "俄罗斯周四凌晨对基辅及乌克兰其他城市发动导弹与无人机袭击，造成显著伤亡。",
+      "bullets": [
+        {
+          "actor": "俄乌战线",
+          "actor_type": "新闻",
+          "text": "俄袭基辅等城市 至少13死80余伤",
+          "details": "俄罗斯导弹和无人机在周四凌晨袭击了基辅和其他乌克兰城市，造成至少13人死亡，80多人受伤。",
+          "important": true
+        },
+        {
+          "actor": "冲突态势",
+          "actor_type": "新闻",
+          "text": "袭击规模显示战事仍在升级",
+          "details": "本轮袭击涉及导弹与无人机联合打击，覆盖基辅及其他乌克兰城市。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-07-02",
+      "image_urls": []
+    },
+    {
+      "id": "burry-semi-bubble",
+      "topic": "Burry半导体空头",
+      "topic_tag": "ai",
+      "title": "Burry：半导体重现2000年泡沫 加码看跌头寸",
+      "summary": "Michael Burry警告半导体板块已重现2000年互联网泡沫特征：SOX高出200日均线65%（2000年后未见）、市销率超16倍且剔除NVDA后几乎不变。他将韩国大规模半导体资本支出计划视为顶部信号，并加码QQQ、SOXX看跌期权，做空CAT/NVDA/SOXX/AMAT/TSLA。",
+      "bullets": [
+        {
+          "actor": "Burry",
+          "actor_type": "KOL",
+          "text": "Burry：SOX偏离均线65% P/S超16倍 系统性泡沫",
+          "details": "Burry警告半导体板块重现2000年泡沫。历史级别超买extension：费城半导体指数（SOX）高出其200日均线65%，这一极端偏离自2000年互联网泡沫破裂以来从未出现。全行业高估值：当前SOX市销率（P/S）超过16倍。伯里强调即使将NVDA从指数中剔除，整个半导体板块的市销率也几乎没有下降，说明是系统性高估。见顶催化剂：韩国近期宣布大规模半导体资本支出计划，Burry解读为'终结的开始'。",
+          "important": true
+        },
+        {
+          "actor": "Burry",
+          "actor_type": "KOL",
+          "text": "Burry：AI债券发行1850亿 类似2007次贷ARS泡沫",
+          "details": "2026年上半年科技巨头疯狂发行了185B的债券来资助AI资本支出。由于供应过量，二级市场科技债（如SpaceX、Nvidia的长债）价格已经开始大幅下跌，息差扩大；许多企业财务主管为了躲避通胀，正被迫买入流动性较差的144A私募债来获取微薄的超额收益。这种'在信用周期顶部为了收益率牺牲流动性'的行为，与2006-2007年次贷危机前夕的拍卖行存托凭证（ARS）泡沫行为如出一辙。",
+          "important": false
+        },
+        {
+          "actor": "Burry",
+          "actor_type": "KOL",
+          "text": "Burry加码空头 QQQ/SOXX Puts 做空CAT/NVDA/TSLA等",
+          "details": "各大基金忙于Window-dressing，Burry选择大举反向做空，继续坚定持有1月份行权价500多美元的QQQ看跌期权，将SOXX看跌期权从2027年1月展期至2027年3月，并将行权价从300多美元上调至400多美元，股票上做空CAT、NVDA、SOXX、AMAT、TSLA。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "SOXX",
+        "QQQ",
+        "AMAT",
+        "TSLA",
+        "CAT"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-07-02",
+      "image_urls": []
+    },
+    {
+      "id": "pimco-ai-rates",
+      "topic": "PIMCO：AI并未推高中性利率",
+      "topic_tag": "rates",
+      "title": "PIMCO：AI利好债券 5y5y实际利率累跌约100bp",
+      "summary": "PIMCO反驳AI推高中性利率的市场共识：自2023年以来主要AI模型发布日5y5y远期实际利率累计下降约100bp，而整体期间持平。AI增加预防性储蓄并改善财政预期，压缩期限溢价，中期利好债券。",
+      "bullets": [
+        {
+          "actor": "PIMCO",
+          "actor_type": "Analyst",
+          "text": "PIMCO：AI模型发布日实际利率累降约100bp",
+          "details": "PIMCO：AI并未推高中性利率。自2023年以来，主要AI模型发布日5年5年远期实际利率累计下降约100个基点，而整体期间持平。AI带来的不确定性增加预防性储蓄，并改善财政预期，压缩期限溢价，从而压低长期收益率。这与市场普遍预期相反，暗示AI中期内可能利好债券。",
+          "important": true
+        },
+        {
+          "actor": "MS Rates",
+          "actor_type": "Analyst",
+          "text": "MS：建议买入10年TIPS 目标1.8%",
+          "details": "MS建议买入10年期美国TIPS，当前收益率约2.22%，目标看至1.8%。理由包括实际收益率处于高位、通胀趋势冷却及TIPS相对名义国债估值偏低。同时建议买入1m10y payer swaption对冲短期非农及CPI数据波动风险。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-02",
+      "image_urls": []
+    },
+    {
+      "id": "ai-capex-rotation-kols",
+      "topic": "AI资本开支/算力叙事KOL辩论",
+      "topic_tag": "ai",
+      "title": "Meta削减CapEx传闻引发算力短缺逻辑质疑",
+      "summary": "多位KOL围绕Meta可能削减CapEx传闻展开辩论：算力短缺逻辑已被质疑，AI叙事从'能发展多大'转向'资本开支能带来什么回报'。Wells Fargo预测Meta通过转售算力可产生约200亿美元收入，2027年半导体行业CapEx或明显下降。",
+      "bullets": [
+        {
+          "actor": "@pequityresearch",
+          "actor_type": "KOL",
+          "text": "pequityresearch：Meta削减CapEx 2027半导体或抛售",
+          "details": "@pequityresearch：Meta此举更多是迫于今年股价表现的压力。他们能够扭转局面转型成为一家新云服务公司，据Wells Fargo预测，Meta通过转售算力可能在未来产生约200亿美元的收入；这对半导体行业意味着什么？可能是短期利空。预计Meta 2026年CapEx目标还能达成，但2027年可能出现明显下降。资本支出的下降会导致整个半导体行业立即遭到抛售。",
+          "important": true
+        },
+        {
+          "actor": "@Valckrie",
+          "actor_type": "KOL",
+          "text": "Valckrie：MU跌破1000将确认顶部形成",
+          "details": "@Valckrie：Meta的新闻出来后，算力短缺（compute scarcity）的逻辑已经受到质疑。最后一个更高低点（higher low），就是那些晚进场的多头（late longs）被套牢的地方。当$MU跌破1000时，就会形成第一个更低低点，最终确认趋势反转和顶部确立。",
+          "important": false
+        },
+        {
+          "actor": "Fed lord",
+          "actor_type": "KOL",
+          "text": "Fed lord：AI叙事转向CapEx回报",
+          "details": "Fed lord：惩罚消费玩家的策略一直有效，直到他们开始产生收益为止……所以，虽然我预计Meta会削减上限，但这标志着他们的资本支出开始盈利了；AI的争论已经从它能发展到多大规模，转变为下一个资本支出能带来什么回报。",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "Herman Jin：市场对CapEx ROI预期弹性极差",
+          "details": "Herman Jin：哪怕他们在瞎传、夸大Meta影响，still tells you sth，至少让你了解市场对Capex ROI预期改变的弹性有多差。",
+          "important": false
+        },
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "short bear：半导体拒续涨 板块开始轮动",
+          "details": "short bear：市场正在发生轮动，昨天半导体大涨（$SOXL大涨），但今天半导体板块拒绝继续上涨，开始筑顶，之前表现较弱的板块反而开始活跃。AI虽然需求在增长，但供给端（效率提升+可能释放的算力）也在增加，可能缓解之前的'算力严重短缺'逻辑。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "META",
+        "MU",
+        "NVDA",
+        "SOXL"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-02",
+      "image_urls": []
+    },
+    {
+      "id": "ai-corporate-news",
+      "topic": "AI企业动态",
+      "topic_tag": "ai",
+      "title": "OpenAI拟赠联邦5%股权 MSFT或裁员 SoftBank入美算力",
+      "summary": "多家AI相关企业密集动态：OpenAI提议为避免白宫监管让联邦政府持5%股权；微软最早下周宣布新一轮裁员；UBS称60%公司已削减AI支出转向低成本模式；NVDA以token模式扩AI硬件普及；软银10GW美国云计划及以OpenAI股份抵押10B贷款。",
+      "bullets": [
+        {
+          "actor": "OpenAI",
+          "actor_type": "Corporate",
+          "text": "OpenAI提议联邦政府持5%股权换取避免监管",
+          "details": "OpenAI为避免白宫的'监管'，提议：联邦政府拥有公司5%股权。",
+          "important": true
+        },
+        {
+          "actor": "Microsoft",
+          "actor_type": "Corporate",
+          "text": "MSFT新一轮裁员最早下周宣布",
+          "details": "据《商业内幕》和路透社报道，$MSFT新一轮裁员的消息令人震惊，最早可能在下周宣布这一消息。",
+          "important": false
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "UBS：60%公司已削减AI支出转向低成本模式",
+          "details": "UBS的数据显示，60%的公司已经削减了人工智能方面的支出，转而采用成本更低的模式和开源的中国模式。",
+          "important": false
+        },
+        {
+          "actor": "NVDA",
+          "actor_type": "Corporate",
+          "text": "NVDA向开发者发放token 建立与使用量挂钩收益流",
+          "details": "NVDA正寻求通过向开发者发放token来扩大其领先的人工智能硬件的普及范围，NVDA将获得未来销售额的一部分作为回报。该公司将帮助人工智能数据中心运营商与云服务提供商建立联系，简化双方的流程，并为自身建立新的'与使用量挂钩的持续收益流'。",
+          "important": false
+        },
+        {
+          "actor": "SoftBank",
+          "actor_type": "Corporate",
+          "text": "软银子公司SB Neo：2030年10GW美国AI数据中心容量",
+          "details": "软银集团及其电信部门将于下一财年开始通过其子公司SB Neo Inc.向美国公司出租人工智能计算资源。这家新云合资企业计划到2030年左右提供10GW的数据中心容量，用于大规模人工智能模型训练和推理。",
+          "important": false
+        },
+        {
+          "actor": "SoftBank",
+          "actor_type": "Corporate",
+          "text": "软银重启以OpenAI股份抵押100亿贷款谈判",
+          "details": "软银已重启与一家贷款机构财团的谈判，拟以其持有的OpenAI股份作为抵押，获得10B贷款。此前，由于担心难以对私营公司进行估值，软银与该财团的贷款谈判一度陷入僵局。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MSFT",
+        "NVDA",
+        "META"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Business Insider",
+        "Reuters"
+      ],
+      "date": "2026-07-02",
+      "image_urls": []
+    },
+    {
+      "id": "seasonality-charts",
+      "topic": "季节性图表",
+      "topic_tag": "macro-other",
+      "title": "黄金Dec26季节性与S&P 500动量7月季节性",
+      "summary": "两张季节性图表：Moore Research的Dec26 COMEX黄金显示15年/30年均值上行季节性区间；3Fourteen Research的S&P 500动量因子月度回报热力图显示7月历史上对动量因子负面（5年均值-4.98%），叠加2026年动量+33%三个月大涨，7月更易出现广度轮动。",
+      "bullets": [
+        {
+          "actor": "3Fourteen Research",
+          "actor_type": "Analyst",
+          "text": "3F：S&P动量7月历史均值-4.98% 或利好broadening trade",
+          "details": "3Fourteen Research S&P 500 Momentum Seasonality Heat Map：7月对动量因子（Top 10%/Bottom 10%）历史上明显负面，5年均值-4.98%，2021至2025年7月分别为-2.96/-6.32/-6.67/-6.35/-2.58。虽然7月初是最看多的季节性时段之一，但动量因子通常疲软。鉴于2026年动量因子过去三个月+33%的惊人涨幅，这一动力可能被放大。如果季节性成立，7月应是broadening trade的正面月份。",
+          "important": true
+        },
+        {
+          "actor": "Moore Research",
+          "actor_type": "Analyst",
+          "text": "Moore：Dec26黄金 15年/30年季节性图",
+          "details": "Dec26 Gold (CMX) 截至2026/6/30：GC26Z当前约4200；5年均值5830.48，15年均值5080.83，30年均值6088；LT信号点分布在1月、4月、7月、10月附近。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GLD"
+      ],
+      "image_indexes": [
+        0,
+        1
+      ],
+      "importance": 1,
+      "sources": [
+        "Moore Research",
+        "3Fourteen Research"
+      ],
+      "date": "2026-07-02",
+      "image_urls": [
+        "/uploads/2026-07-02/8a6d825ca62c.png",
+        "/uploads/2026-07-02/6e29070c8816.jpg"
+      ]
+    }
+  ]
+}
