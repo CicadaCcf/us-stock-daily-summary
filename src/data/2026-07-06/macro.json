@@ -1,0 +1,424 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-jul4",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊间接谈判取得MoU执行进展 霍尔木兹与资金解冻僵持",
+      "summary": "多哈美伊间接技术谈判7月2日结束，核问题无突破但MoU执行（停火延长、霍尔木兹重开、资金解冻）报告积极进展。美方与阿曼提议解冻部分冻结资产（约100B中初期6B）换取伊朗放弃霍尔木兹通行费主张；伊朗坚持与阿曼共同管理海峡并要求全面解冻。下轮谈判推迟至哈梅内伊葬礼后（可能7/18）。",
+      "bullets": [
+        {
+          "actor": "美伊谈判",
+          "actor_type": "Foreign-Gov",
+          "text": "多哈间接谈判无核突破 但MoU执行报告积极进展",
+          "details": "美伊间接技术谈判（多哈，卡塔尔和巴基斯坦调解）7月2日结束，无核问题突破，但在执行中期谅解备忘录（MoU，包括停火延长、霍尔木兹海峡重开、资金解冻）方面报告\"积极进展\"。下一轮谈判推迟至伊朗最高领袖哈梅内伊葬礼后（可能7/18）。",
+          "important": true
+        },
+        {
+          "actor": "美方/阿曼",
+          "actor_type": "US-Executive",
+          "text": "美与阿曼提议初期解冻6B换伊朗放弃霍尔木兹征费",
+          "details": "美方强调资金解冻进展有条件（需全面遵守MoU，包括霍尔木兹条款），美与阿曼提议解冻部分伊朗冻结资产（约100B中的部分，如初期6B），换取伊朗放弃对霍尔木兹海峡征收通行费并放弃单独控制/管理主张。阿曼考虑用自愿捐款基金替代直接收费。",
+          "important": false
+        },
+        {
+          "actor": "伊朗政府",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗坚持海峡与阿曼共管征费 要求全面解冻资产",
+          "details": "伊朗方面坚持海峡与阿曼共同管理并征收服务费；优先要求全面资产解冻。总统佩泽什基安等官员称6B资产释放程序正在推进（具体数字遭美方否认）。",
+          "important": false
+        },
+        {
+          "actor": "美国政府",
+          "actor_type": "US-Executive",
+          "text": "美告知德黑兰拒绝霍尔木兹现状任何改变",
+          "details": "美国告知德黑兰拒绝霍尔木兹现状任何改变，视伊朗态度为对协议承诺的\"首次考验\"；密切监控伊朗动向；资金解冻进展有条件于全面遵守MoU。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump称可打击伊朗葬礼领导层但为核谈判克制",
+          "details": "Trump对伊朗人在阿里·哈梅内伊的葬礼上哭泣感到惊讶，他以为人们憎恨这位前最高领袖，也许是装出来的眼泪吧；美国可以打击聚集参加阿里·哈梅内伊葬礼的伊朗领导层，但不会这样做，因为美国希望维护核谈判。Trump最早可能在下周北约峰会返回后和内塔尼亚胡在白宫见面。",
+          "important": false
+        },
+        {
+          "actor": "Vance",
+          "actor_type": "US-Executive",
+          "text": "Vance称部队不会无目的返战 否认伊朗资产数字",
+          "details": "Vance：部队不会在无明确目的情况下返回战争。否认伊朗所称的具体资产释放数字。",
+          "important": false
+        },
+        {
+          "actor": "Axios",
+          "actor_type": "新闻",
+          "text": "霍尔木兹南部航线仍可用 多数船只关闭AIS",
+          "details": "AXIOS援引美国官员称，霍尔木兹海峡的南部航线目前仍然可用，大多数船只在过境时都关闭了电子识别功能，因此开源平台无法识别它们。",
+          "important": false
+        },
+        {
+          "actor": "伊朗",
+          "actor_type": "Foreign-Gov",
+          "text": "哈梅内伊及遇难家人葬礼7月3日在德黑兰举行",
+          "details": "哈梅内伊及其在美以入侵伊朗首日遇难的家人的葬礼将于7月3日在德黑兰清真寺举行。",
+          "important": false
+        },
+        {
+          "actor": "耶路撒冷邮报",
+          "actor_type": "新闻",
+          "text": "耶邮报：Trump最后一刻否决库尔德推翻伊朗政权计划",
+          "details": "据《耶路撒冷邮报》报道，一项利用库尔德武装推翻伊朗政权的重大计划已经准备就绪，该计划将得到以色列空军的支持。Trump在最后一刻否决了这项法案。以色列方面指责Vance将整个行动泄露给了埃尔多安。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Axios",
+        "耶路撒冷邮报"
+      ],
+      "date": "2026-07-06",
+      "image_urls": []
+    },
+    {
+      "id": "trump-fed-cook-warsh",
+      "topic": "Fed独立性",
+      "topic_tag": "fed",
+      "title": "Trump押注Cook免职 Warsh或面临敌对Board",
+      "summary": "Trump律师将试图证明对美联储理事Cook的指控符合\"正当理由\"免职门槛。Trump评价Warsh是鸽派但面临可能作恶的敌对Board。Nick指出最高法院通过脚注和异议为未来总统通过银行监管职能干预Fed留下潜在空间。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump律师将证明Cook免职符合\"正当理由\"门槛",
+          "details": "他的律师将试图在法庭上证明，针对美联储理事Cook的指控符合将其免职的\"正当理由\"门槛；Warsh可能有一个有点敌对的Board，Warsh是鸽派的一方，不幸的是也许这个Board想做错事……他是个很棒的人，也是个很棒的专业人士，我知道他想去哪里，但他必须做他必须做的事。",
+          "important": true
+        },
+        {
+          "actor": "Nick",
+          "actor_type": "新闻",
+          "text": "Nick：最高法脚注为未来总统通过银行监管干预Fed留空间",
+          "details": "最高法院虽然表面上保护了美联储的独立性，但通过脚注和异议意见，实际上为未来总统通过银行监管职能干预Fed留下了潜在空间，这可能是对美联储制度长期稳定性的最大隐忧之一。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-06",
+      "image_urls": []
+    },
+    {
+      "id": "us-payrolls-jul4",
+      "topic": "就业数据",
+      "topic_tag": "macro-other",
+      "title": "6月非农与就业市场解读分歧",
+      "summary": "非农新增57k，失业率微降至4.189%，私营新增49k主靠医疗教育驱动。Nick指出私营部门过去六个月月均新增88k为两年最快。KOL观点分歧：Erian/Emma认为降低加息预期，Konczal/Rosenberg/Berezin/Bob指出结构性疲软（男性就业负增长、78%集中医疗、临时工上升、家庭调查更弱），Furman认为韧性尚存。",
+      "bullets": [
+        {
+          "actor": "DB Eco",
+          "actor_type": "Analyst",
+          "text": "6月非农+57k 失业率4.189% 跳槽溢价暴跌",
+          "details": "DB Eco：失业率微降至4.189%，非农增57k。私营就业增49k，主要靠医疗教育驱动。核心年龄层参与率创非疫情新低，25-34岁群体受损严重。裁员率仍处低位，市场呈脆弱平衡。工资增长放缓，跳槽溢价暴跌，利好通胀回落。",
+          "important": true
+        },
+        {
+          "actor": "Nick",
+          "actor_type": "新闻",
+          "text": "Nick：私营就业6M均值88k为两年最快",
+          "details": "过去六个月，私营部门就业人数平均每月增加88K工作岗位，这是两年来最快的增速，过去六个月，平均每月新增就业岗位92K，这是自2025年初以来的最高增速。",
+          "important": false
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "KOL",
+          "text": "Erian：供给侧驱动 应降低今年加息预期",
+          "details": "Erian：劳动力供给侧是就业增长未达预期的主要驱动因素。就政策而言，这应该会降低市场对今年加息的预期——我认为这种预期是对Fed可能立场的误读。",
+          "important": false
+        },
+        {
+          "actor": "Mike Konczal",
+          "actor_type": "KOL",
+          "text": "Konczal：男性就业负增长 78%集中医疗 疲弱",
+          "details": "Mike Konczal：CES弥漫着2025年时代的气息。男性就业增长为负，当月新增就业岗位中有78%集中在医疗保健行业，这是疲弱的表现。",
+          "important": false
+        },
+        {
+          "actor": "David Rosenberg",
+          "actor_type": "KOL",
+          "text": "Rosenberg：建议剔除世界杯效应 重点看时薪",
+          "details": "David Rosenberg：建议尽快调整总体数据，以消除世界杯的影响。具体做法是：在工资报告中剔除休闲/酒店行业的就业数据，并在家庭调查中区分全职和兼职就业。最关键的数据将是平均时薪，因为如果我们继续看到战时油价冲击对工资的影响微乎其微，那么Fed鹰派的立场将站不住脚。",
+          "important": false
+        },
+        {
+          "actor": "Peter Berezin",
+          "actor_type": "KOL",
+          "text": "Berezin：全职下降 临时工上升 非正式数据疲软",
+          "details": "Peter Berezin：全职就业人数持续下降；作为整体就业率领先指标的临时就业率已经上升；非正式数据显示，劳动力市场持续疲软。",
+          "important": false
+        },
+        {
+          "actor": "Jason Furman",
+          "actor_type": "KOL",
+          "text": "Furman：略疲软但相比数月前展现韧性",
+          "details": "Jason Furman：我们昨天的预期相比，前景略微疲软（市场对此也做出了反应）。但与我们一个月前、两个月前甚至三个月前的预期相比，即使面对重大冲击，当前的劳动力市场也展现出了惊人的韧性和稳定性。",
+          "important": false
+        },
+        {
+          "actor": "Bob",
+          "actor_type": "KOL",
+          "text": "Bob：家庭调查显示非正式劳动力更疲软",
+          "details": "Bob：一旦将非正式劳动力（以家庭调查衡量，而非payroll衡量）纳入考量，就业增长情况就远比许多人意识到的要疲软。",
+          "important": false
+        },
+        {
+          "actor": "Emma",
+          "actor_type": "KOL",
+          "text": "Emma：单月意义有限 减少过热担忧但难改鹰派",
+          "details": "Emma：单月数据意义不大，不宜过度外推，建议重点观察3个月平均趋势，这份报告减少了对经济过热、劳动力市场反弹引发新一轮加息的担忧，但很难改变鹰派的看法，劳动力市场目前仍比去年同期健康很多，甚至让人怀疑美联储认为的\"充分就业水平\"是否真的在0附近。",
+          "important": false
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "Joseph：低失业率印证低盈亏平衡点理论",
+          "details": "Joseph：衡量充分就业的黄金标准是失业率。较低的就业数据和不断下降的失业率也印证了低盈亏平衡点理论。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-07-06",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-views-jul4",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "GS/JPM/MS/Citi 多角度卖方观点集合",
+      "summary": "GS Eco预计AI生产力效应呈J曲线滞后但快于ICT，2026美国GDP+2.2%、核心PCE 3.0%。GS GRT看短端收敛与曲线陡峭化，Fed可能7月中旬缩减RMP至0-5B。JPM技术面看SPX 7000-7200为支撑，SOX与Hyperscalers背离类比2000年。MS建议UST 7s30s陡峭化目标100bp。Citi预计7月底银行准备金降至2.9T以下。",
+      "bullets": [
+        {
+          "actor": "GS Eco Analyst",
+          "actor_type": "Analyst",
+          "text": "GS：AI生产力效应J曲线 2026美国GDP+2.2% 核心PCE 3.0%",
+          "details": "GS Eco Analyst：AI将在未来十年显著提升生产力，但宏观影响显现需时。回顾1980-2000年的信息和通信技术（ICT）革命，生产力增益滞后15年呈现J曲线。预计AI影响速度快于ICT，因成本下降更快。但无形资本投资滞后仍存障碍。信息、专业服务、保险和金融行业将最早受益。2026年美国实际GDP预计增长2.2%，核心PCE通胀率预计为3.0%。",
+          "important": false
+        },
+        {
+          "actor": "GS GRT",
+          "actor_type": "Analyst",
+          "text": "GS GRT：Fed或7月中旬将月RMP从10B缩至0-5B",
+          "details": "GS GRT：招聘放缓和Fed鹰派言论的减少抑制了近期加息风险。价格走势将取决于一周半后的通胀数据，温和的通胀数据可能支撑短期债券进一步收敛并导致收益率曲线再次陡峭化，反之则反。除了短债之外，持续的AI capex和融资可能会限制长债yield的下降空间。虽然短期交易通胀的下降基本与能源价格的通常走势一致，但远期债券的表现却不及能源价格；尽管估值更为有利，但我们认为，除非Fed对通胀反应机制进行鸽派的重新评估，否则通胀多头头寸的上涨空间有限。季度末回购压力有限，SOFR资金面保持平稳。Fed可能在7月中旬宣布将每月RMP规模从10B缩减至0-5B。",
+          "important": true
+        },
+        {
+          "actor": "JPM Equity Technical",
+          "actor_type": "Analyst",
+          "text": "JPM：SPX 7000-7200为支撑 SOX与Hyperscalers背离类比2000",
+          "details": "JPM Equity Technical Update：SPX在通道上轨附近（7347-7840区域）停滞不前，形成了类似\"盘整\"的形态，而不是典型的\"见顶派发\"（distribution），7000-7200区域是重要的中期支撑位，如果夏天出现回调跌到这个区间，反而是较好的买入机会。超大规模科技公司（Hyperscalers）与半导体板块之间出现明显背离，这种分化有点像1999-2000年互联网泡沫时期通信服务股和通信设备股的分化。如果这些超大科技公司夏天无法稳住涨幅，就可能引发市场情绪恶化。SOX短期支撑位在11760-12870区间，如果跌破，下一个支撑位会来到9975-10455。第二个需要监控的风险是工业金属（尤其是铜）：如果铜价继续走弱、跌回11100-11200美元/吨附近，就可能预示全球制造业PMI会进一步下滑至50附近。",
+          "important": false
+        },
+        {
+          "actor": "JPM Flows",
+          "actor_type": "Analyst",
+          "text": "JPM：SOX相对Hyperscalers超额表现极端 2027或削减AI capex",
+          "details": "JPM Flows and Liquidity：2025年9月以来，SOX相对于超大规模云服务商出现了持续且强劲的超额表现，这种分化在历史上看是比较极端的，长期来看难以持续。分析师共识预期显示，超大规模云服务商的资本支出从2027年起将大幅放缓，部分投资者担心云服务商在股票和债券市场承压后，会从2027年开始主动削减AI资本开支。AI算力（GPU）定价在2025年底前承压，4-5月出现改善迹象，6月有所回落。LLM代币价格从2月底到5月底持续上涨，6月有所回落。",
+          "important": false
+        },
+        {
+          "actor": "JPM Mahmoud Harb",
+          "actor_type": "Analyst",
+          "text": "JPM：中国有效关税或回升至30%+ 印度关税18%",
+          "details": "JPM Mahmoud Harb：第一轮针对\"强迫劳动\"的301调查预计将使关税水平与第122条到期时基本持平，仅巴基斯坦、菲律宾和斯里兰卡可能享受更低关税。后续的产能过剩等301调查虽意在将关税推回IEEPA水平，但不确定性仍存；科技豁免与贸易模式转变大幅降低了有效关税负担；中国因多层关税叠加及持续的301调查（包括半导体、海事等），有效关税仍处于高位，基准情景下可能回升至30%以上。印度则因从俄罗斯进口原油曾面临高达50%的法定关税，虽经贸易协议降至18%，但后续若回归IEEPA水平，增幅可能达7%。",
+          "important": false
+        },
+        {
+          "actor": "JPM Oil",
+          "actor_type": "Analyst",
+          "text": "JPM：2026Q4全球原油过剩或达4M b/d 布伦特均价85",
+          "details": "JPM Oil：原油市场面临阶段性供过于求。随着霍尔木兹海峡物流恢复，2026年Q4全球原油过剩或达4M b/d。因中国需求坍塌（降10%），预计2026年布伦特均价85美元，2027年降至63美元。尽管中国进口将在下半年回升，但库存重建滞后，短期油价承压。",
+          "important": false
+        },
+        {
+          "actor": "MS Rates",
+          "actor_type": "Analyst",
+          "text": "MS：建议UST 7s30s陡峭化 入场63bp目标100bp",
+          "details": "MS Rates：建议重新进入美债曲线陡峭化交易。尽管6月非农疲软，市场仍定价2027年前加息40bp，但该行认为100bp的有效紧缩被高估。随着预期修正，曲线将重新陡峭。首选UST 7s30s陡峭化交易，入场点63bp，目标100bp；同时将SOFR曲线头寸转换为M7M8陡峭化，目标-4bp。AI资本支出将成为2026-2027年美国经济增长核心动力，预计非住宅投资增速达7%-8%，抵消高油价对消费的抑制。美联储预计2026年维持利率不变，2027年降息50bp。",
+          "important": false
+        },
+        {
+          "actor": "Citi Alex Saunders",
+          "actor_type": "Analyst",
+          "text": "Citi：7月底银行准备金或降至2.9T以下 回购利率承压",
+          "details": "Citi Alex Saunders：受财政部增加国库券拍卖影响，TGA余额攀升致银行准备金承压，预计7月底准备金或降至$2.9T以下。全球央行流动性指标下行，融资条件夏季将逐步收紧，回购利率面临上行压力，流动性与风险资产相关性显著增强。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        2
+      ],
+      "importance": 3,
+      "sources": [
+        "GS",
+        "JPM",
+        "MS",
+        "Citi",
+        "DB"
+      ],
+      "date": "2026-07-06",
+      "image_urls": [
+        "/uploads/2026-07-06/93df043e1baf.png",
+        "/uploads/2026-07-06/2daaff345d64.png"
+      ]
+    },
+    {
+      "id": "buyside-kol-jul4",
+      "topic": "买方/KOL观点",
+      "topic_tag": "macro-other",
+      "title": "Burry警示半导体估值 多位KOL对市场结构分歧",
+      "summary": "Burry指SOX远期PE处15年区间顶部、LLM代币支出较5月高点下跌近20%。Andy指杠杆ETF收盘强制抛售22B半导体主导。@asklivermore类比1968/1978/2007，SPY全年或仅+5.8%。JH/bboczeng对黄金谨慎待美元走弱。Nakamura指日元多头是投机押注干预。short bear指防御性轮动非系统崩盘。",
+      "bullets": [
+        {
+          "actor": "Burry",
+          "actor_type": "KOL",
+          "text": "Burry：SOX远期PE处15年顶部 代币支出较5月-20%",
+          "details": "Burry：SOX指数（半导体指数）的远期市盈率（白色线）目前处于15年区间顶部；Hyperscalers Are Funding the AI Trade；LLM Token支出指数在翻倍后开始回调，Token支出指数较5月高点已下跌近20%。",
+          "important": true
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "Andy：杠杆ETF收盘强制抛售22B 半导体主导",
+          "details": "Andy：杠杆ETF每日再平衡资金流入，导致收盘时强制抛售22B，其中半导体板块占主导地位。尽管此次抛售潮很大程度上是抢先交易，但考虑到正值假期周末，规模仍然相当可观。",
+          "important": false
+        },
+        {
+          "actor": "@asklivermore",
+          "actor_type": "KOL",
+          "text": "@asklivermore：2026类比1968/1978/2007 SPY全年+5.8%",
+          "details": "@asklivermore：历史统计看2026年股市走势与1968、1978、2007年高度重合，如果历史重演，$SPY全年涨幅可能仅约+5.8%，下半年大概率震荡偏弱。",
+          "important": false
+        },
+        {
+          "actor": "Weston Nakamura",
+          "actor_type": "KOL",
+          "text": "Nakamura：日元真正投机在杠杆多头 押注干预",
+          "details": "Weston Nakamura：日元空头很大，但并不令人惊讶，多年来日元持续贬值是结构性、基本面驱动的（美日利差、日本资本外流等），而不是单纯的投机行为，所以\"史上第二大空头\"这个数据本身意义不大；真正的投机仓位是日元多头（尤其是杠杆账户），2026年至今，Leveraged accounts持有的日元多头头寸规模是往年正常水平的约2倍，这些多头主要不是看多日元基本面，而是押注\"日元干预\"，这些多头最终平仓时，会成为日元贬值的额外推动力。",
+          "important": false
+        },
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "JH：黄金启动需美元明显回落 前瞻风险为外国央行同步放缓",
+          "details": "JH：黄金想要启动干净上涨，最需要的是美元明显回落，前瞻风险是如果美国增长预期走弱的同时，欧洲央行等外国央行也同步放缓紧缩步伐，美元可能不会像大家预期的那样大幅走弱。",
+          "important": false
+        },
+        {
+          "actor": "bboczeng",
+          "actor_type": "KOL",
+          "text": "bboczeng：对黄金谨慎 三星财报或确认半导体顶",
+          "details": "bboczeng：对黄金保持谨慎，认为目前还不是基本面底部，更倾向于等待美元明显走弱后再行动。三星财报若不佳→确认半导体顶部→美股高杠杆环境→下半年回调概率上升。",
+          "important": false
+        },
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "short bear：防御性轮动 非系统性崩盘",
+          "details": "short bear：市场出现防御性轮动，不是系统性崩盘。很多非科技股或价值股在扛住，说明市场有一定韧性。半导体/AI板块领跌，如果这种弱势延续，可能会拖累整个科技股和纳指。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SOXX",
+        "SMH",
+        "SPY"
+      ],
+      "image_indexes": [
+        1
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-06",
+      "image_urls": [
+        "/uploads/2026-07-06/a559a7d76fac.jpg"
+      ]
+    },
+    {
+      "id": "trump-jul4-speech",
+      "topic": "Trump国庆演讲",
+      "topic_tag": "policy",
+      "title": "Trump 7月4日演讲宣扬军力与反共立法",
+      "summary": "Trump 7月4日国庆演讲宣扬美国军事实力、基督教美国及最重要立法目标，多次提及现代反共斗争。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump 7/4演讲宣扬军力、基督教美国与反共立法",
+          "details": "Trump 7月4日国庆演讲，大力宣扬美国的军事实力、基督教的美国以及他最重要的立法目标，多次提及现代反共斗争。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump最早下周北约峰会后与内塔尼亚胡白宫会面",
+          "details": "Trump最早可能在下周北约峰会返回后和内塔尼亚胡在白宫见面。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-07-06",
+      "image_urls": []
+    },
+    {
+      "id": "misc-news-jul4",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "驻欧美军分歧、Intel 18A良率、特斯拉AI控本",
+      "summary": "WSJ：Hegseth希望进一步削减驻欧美军但遭Rubio阻挠。英特尔18A晶圆良率问题已解决，两工厂产能爬升至12000-15000片/分钟。特斯拉将员工每周AI支出上限设为200美元。",
+      "bullets": [
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ：Hegseth欲进一步削减驻欧美军 遭Rubio阻挠",
+          "details": "WSJ报道Hegseth希望进一步削减其在欧洲的驻军，但遭到Rubio的阻挠。",
+          "important": true
+        },
+        {
+          "actor": "Intel",
+          "actor_type": "Corporate",
+          "text": "Intel 18A良率问题已解决 两厂产能爬升至12k-15k/分钟",
+          "details": "英特尔18A晶圆良率问题已解决；两个工厂的产能正在逐步提升至每分钟12000-15000片。",
+          "important": false
+        },
+        {
+          "actor": "Tesla",
+          "actor_type": "Corporate",
+          "text": "特斯拉将员工每周AI支出上限设为200美元",
+          "details": "特斯拉正采取措施控制其人工智能成本。该公司告知员工，计划将员工每周的人工智能支出上限设定为200美元。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "INTC",
+        "TSLA"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-07-06",
+      "image_urls": []
+    }
+  ]
+}

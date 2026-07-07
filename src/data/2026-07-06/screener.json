@@ -1,0 +1,87 @@
+{
+  "generated_at": "2026-07-06T21:34:28+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-07-06",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12462,
+    "partial_pass": 2,
+    "with_carryover": 11,
+    "after_full_check": 5
+  },
+  "rows": [
+    {
+      "tk": "FCEL",
+      "nm": "FuelCell Energy Inc  NEW (DE)",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": 5.8,
+      "w1": -0.2,
+      "market_cap_bn": 2.01,
+      "dollar_vol_bn": 0.28,
+      "w1_avg_dollar_vol_bn": 0.54,
+      "reason": "",
+      "main_business": "研发生产熔融碳酸盐燃料电池系统，提供清洁电力解决方案"
+    },
+    {
+      "tk": "AMBA",
+      "nm": "Ambarella, Inc. Ordinary Shares",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": 1.7,
+      "w1": 19.0,
+      "market_cap_bn": 3.5,
+      "dollar_vol_bn": 0.15,
+      "w1_avg_dollar_vol_bn": 0.28,
+      "reason": "",
+      "main_business": "研发低功耗AI视觉芯片，应用于安防摄像头及自动驾驶系统"
+    },
+    {
+      "tk": "OUST",
+      "nm": "Ouster, Inc.",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -0.0,
+      "w1": -7.8,
+      "market_cap_bn": 3.17,
+      "dollar_vol_bn": 0.34,
+      "w1_avg_dollar_vol_bn": 0.43,
+      "reason": "",
+      "main_business": "研发生产激光雷达传感器，服务于自动驾驶、机器人及智能基础设施领域"
+    },
+    {
+      "tk": "ABVX",
+      "nm": "Abivax SA American Depositary Shares",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": -0.5,
+      "w1": 49.8,
+      "market_cap_bn": 11.49,
+      "dollar_vol_bn": 0.22,
+      "w1_avg_dollar_vol_bn": 0.58,
+      "reason": "",
+      "main_business": "研发调节免疫反应的慢性炎症性疾病创新疗法"
+    },
+    {
+      "tk": "BB",
+      "nm": "BlackBerry Limited",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -1.1,
+      "w1": -8.8,
+      "market_cap_bn": 6.67,
+      "dollar_vol_bn": 0.24,
+      "w1_avg_dollar_vol_bn": 0.48,
+      "reason": "",
+      "main_business": "为企业及政府提供终端安全管理与嵌入式软件"
+    }
+  ]
+}
