@@ -1,0 +1,280 @@
+{
+  "topics": [
+    {
+      "id": "fed-waller-guidance",
+      "topic": "美联储",
+      "topic_tag": "fed",
+      "title": "Waller谈前瞻指引；风险转向通胀",
+      "summary": "Fed理事Waller表示前瞻性指引仍是有价值的沟通工具，但过于僵硬会阻碍决策。重申2%通胀目标，劳动力市场趋稳，风险已转向通胀侧，并强调Fed不会为帮政府弥补赤字而维持低利率。",
+      "bullets": [
+        {
+          "actor": "Waller",
+          "actor_type": "Central-Bank",
+          "text": "风险转向通胀，Fed不会为财政赤字维持低利率",
+          "details": "Board一直致力于实现2%通胀目标，劳动力市场正趋于稳定，风险转向通胀，Fed不会为了帮助美国政府弥补赤字而维持低利率。",
+          "important": true
+        },
+        {
+          "actor": "Waller",
+          "actor_type": "Central-Bank",
+          "text": "前瞻指引仍有价值，但需谨慎使用",
+          "details": "前瞻性指引仍然是一个有价值的工具，沟通你的reaction function很重要，在疫情期间通胀飙升时它帮助引导公众了解利率将会上升。如果谨慎行事，政策制定者发出的有关未来利率走向的信号可以发挥有益作用，前瞻性指引与其说是科学不如说是艺术。前瞻指引如果过于僵硬或者不同场景需要不同路径时，有时反而会阻碍政策制定。",
+          "important": false
+        },
+        {
+          "actor": "Hassett",
+          "actor_type": "US-Executive",
+          "text": "Hassett担忧Powell留任Fed的动机",
+          "details": "Hassett担忧Powell留在Fed的动机。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-07-07",
+      "image_urls": []
+    },
+    {
+      "id": "trump-remarks-core",
+      "topic": "特朗普言论",
+      "topic_tag": "policy",
+      "title": "Trump赞市场；提及习近平访美；夸沃尔玛降价",
+      "summary": "Trump对第二任期股市表现表示赞赏，喊话买DELL、感谢美光。同时透露习近平可能于9月24日访美，并赞扬沃尔玛下调数千商品价格帮助消费者减负。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump喊话买戴尔、感谢美光",
+          "details": "Trump对其第二任期内股市表现表示赞赏，市场将会暴涨，去买戴尔（DELL），想要感谢美光（MU）。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "习近平可能9月24日访美",
+          "details": "Trump提及习近平访美可能在9/24。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "赞扬沃尔玛下调数千商品价格",
+          "details": "沃尔玛正在下调数千种商品的价格，以帮助顾客在多年通货膨胀后减轻经济负担。此举赢得了特朗普总统的赞扬。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "DELL",
+        "MU",
+        "WMT"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-07",
+      "image_urls": []
+    },
+    {
+      "id": "mideast-hormuz",
+      "topic": "中东/霍尔木兹",
+      "topic_tag": "geo",
+      "title": "IRGC向商船发射导弹；油轮被击中起火",
+      "summary": "美方官员称伊朗革命卫队至少向途经霍尔木兹海峡的商船发射两枚导弹，一艘油轮在阿曼Limah以东约8海里处被不明射弹击中起火。美国第五舰队称SoH南线已扩建通行。伊朗回击德国关于水雷成本表态；内塔尼亚胡请Trump约束埃尔多安。",
+      "bullets": [
+        {
+          "actor": "美国官员/UKMTO",
+          "actor_type": "US-Executive",
+          "text": "IRGC向商船射导弹，油轮起火",
+          "details": "美方官员称IRGC至少向途经霍尔木兹海峡的商船发射了两枚导弹。UKMTO（英国海事贸易行动组织）通报：一艘油轮在阿曼Limah以东约8海里处被不明射弹击中，导致起火（正向南航行中）。",
+          "important": true
+        },
+        {
+          "actor": "美国第五舰队",
+          "actor_type": "US-Executive",
+          "text": "SoH南线已扩建，所有航班可通行",
+          "details": "美国第五舰队联合海上信息中心发布公告称SoH（霍尔木兹海峡）南线已扩建，所有航班均可通行。",
+          "important": false
+        },
+        {
+          "actor": "伊朗外交部",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗反驳德国关于水雷成本说法",
+          "details": "伊朗外交部回应：强烈反对德国外长关于伊朗应承担清除水雷成本的说法，称其歪曲事实并要求德国担责\"侵略共谋\"。",
+          "important": false
+        },
+        {
+          "actor": "内塔尼亚胡",
+          "actor_type": "Foreign-Gov",
+          "text": "内塔尼亚胡请Trump约束埃尔多安",
+          "details": "以色列总理内塔尼亚胡在周五的电话中向美国总统特朗普表达了对土耳其总统埃尔多安近期强烈反以言论的不满，并请求特朗普在即将于安卡拉举行的北约峰会前约束埃尔多安。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "UKMTO"
+      ],
+      "date": "2026-07-07",
+      "image_urls": []
+    },
+    {
+      "id": "ai-hyperscaler-freebies",
+      "topic": "AI行业",
+      "topic_tag": "ai",
+      "title": "AI巨头砸免费算力抢初创客户；微软裁员6400",
+      "summary": "WSJ报道OpenAI和Anthropic向初创企业提供数百万美元的免费计算资源和优惠，抢占未来商业用户。微软宣布裁员6400人，其中一半与Xbox游戏业务重组相关。",
+      "bullets": [
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "OpenAI/Anthropic向初创企业送数百万算力",
+          "details": "WSJ报道人工智能巨头正慷慨提供大量免费算力以抢占初创企业的市场份额，OpenAI和Anthropic正在向初创企业提供数百万美元的计算资源和各种优惠，以争夺未来的商业用户。",
+          "important": true
+        },
+        {
+          "actor": "微软",
+          "actor_type": "Corporate",
+          "text": "微软裁员6400人，一半涉Xbox重组",
+          "details": "微软将裁员6400人，其中一半与Xbox游戏业务重组有关。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MSFT"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-07-07",
+      "image_urls": []
+    },
+    {
+      "id": "kol-views",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "KOL：就业疲软难加息、CTA拥挤、美元变利润货币",
+      "summary": "Bob指出就业下修、招聘疲软，加息难有理由；Danny批CPI住房通胀口径低估真实感受；Alex Etra称美元是\"利润美元\"由私人资本驱动；JH指全球商品CTA仓位拥挤等催化剂；Jim Cramer喊买NVDA。",
+      "bullets": [
+        {
+          "actor": "Bob",
+          "actor_type": "KOL",
+          "text": "就业疲软，短期加息难有理由",
+          "details": "就业报告向下修正，招聘疲软，小型企业招聘意愿极低，黄金年龄段就业人数降至2023年以来最低，工资增长处于周期性低位，非正式就业人员状况远比工资单数据显示的糟糕。尽管Fed发表鹰派言论，短期内加息仍难找到合理理由。",
+          "important": true
+        },
+        {
+          "actor": "Danny",
+          "actor_type": "KOL",
+          "text": "CPI住房口径低估真实通胀感受",
+          "details": "上世纪70年代美联储修改了住房通胀的计算方法，将利息支出从计算中剔除。虽然这在一定程度上合理（加息会推高通胀），但重要的是消费者感受到的通胀水平仍远高于官方公布数据。",
+          "important": false
+        },
+        {
+          "actor": "Alex Etra",
+          "actor_type": "KOL",
+          "text": "美元变身\"利润美元\"",
+          "details": "美元不再代表传统中央银行金库式的\"稳健与廉洁\"，它真正的吸引力变成了无与伦比的流动性和资本增值机会。因此与其称之为储备货币，不如称之为由全球富豪和私人资本驱动的\"利润美元\"。",
+          "important": false
+        },
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "全球商品CTA仓位明显拥挤",
+          "details": "全球大宗商品CTA仓位看目前市场明显拥挤不堪，交易行情急需一个明确的反转催化剂来激活市场。",
+          "important": false
+        },
+        {
+          "actor": "Jim Cramer",
+          "actor_type": "KOL",
+          "text": "Cramer建议买入NVDA",
+          "details": "Jim Cramer建议买入NVDA。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-07",
+      "image_urls": [
+        "/uploads/2026-07-07/fdb982559822.png"
+      ]
+    },
+    {
+      "id": "sellside-views",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "JPM/BofA/Citi/DB：AI/降息/油价与美债路径分歧",
+      "summary": "JPM看好AI、碎片化、通胀三大主线，建议实物资产与私募配置；BofA认为市场定价Warsh领导下的鹰派Fed，Q2 GDP追踪下调至2.1%；Citi看多美债，10Y目标3.90%；DB Fed预计9月和12月加息、2028H1降50bp；DB Oil大幅下调油价预测，2026Q4/2027布伦特目标下调10-11美元至70美元。",
+      "bullets": [
+        {
+          "actor": "DB Oil",
+          "actor_type": "Analyst",
+          "text": "DB下调布油目标至70美元，2027年过剩4M b/d",
+          "details": "DB大幅下调油价预测：因霍尔木兹海峡运输恢复至正常水平70%及全球需求疲软，预计石油市场将陷入结构性过剩。将2026年Q4及2027年布伦特原油目标价下调10-11美元至70美元/桶。尽管中美库存仍在下降，但7月起全球供需可能已转为过剩，2027年过剩规模或达4M b/d。",
+          "important": true
+        },
+        {
+          "actor": "JPM Macro",
+          "actor_type": "Analyst",
+          "text": "JPM：AI+碎片化+通胀转变三大力量主导",
+          "details": "JPM Macro认为AI革命、全球碎片化和通胀结构性转变三大力量将主导市场。预计美联储降息将支撑全球增长，但通胀波动加剧，建议配置实物资产和私人市场。AI投资占GDP约1%，尚未形成泡沫但需警惕过度。碎片化下关注北美供应链、欧洲防务和南美资源。债券收益率上升提供机会，但需搭配黄金、商品和对冲基金策略以应对通胀风险。",
+          "important": false
+        },
+        {
+          "actor": "BofA Rates",
+          "actor_type": "Analyst",
+          "text": "BofA：市场定价Warsh鹰派Fed，Q2 GDP下调至2.1%",
+          "details": "BofA Rates：市场正定价Warsh领导的美联储将采取鹰派立场，导致实际政策利率收紧。尽管油价下跌压低通胀预期，但美国Q2 GDP追踪预估下调至2.1%，主要受净出口拖累。预计今日ISM服务业指数将维持在54.0的扩张区间。",
+          "important": false
+        },
+        {
+          "actor": "BofA Rates",
+          "actor_type": "Analyst",
+          "text": "回购市场12.6T，SEC中央清算2027年6月落地",
+          "details": "2026年美国国债回购市场指南。报告指出回购市场总规模约12.6T，货币市场基金占比升至35%。预计SEC强制中央清算将于2027年6月全面实施，虽可能使SOFR利率上行1-2bps，但将有效缓解季度末流动性波动。FICC赞助回购成为交易商优化资产负债表的关键工具。",
+          "important": false
+        },
+        {
+          "actor": "Citi Rates",
+          "actor_type": "Analyst",
+          "text": "Citi看多美债，10Y目标3.90%",
+          "details": "Citi Rates预测2026年末美债收益率下行，10年期目标3.90%。看好5年期美债及前端互换利差，认为夏季就业数据走弱将促使美联储暂停加息。长端通胀预期被低估，建议做多5y5y通胀互换。核心CPI预计年底降至3%以下，加息风险有限。",
+          "important": false
+        },
+        {
+          "actor": "DB Fed",
+          "actor_type": "Analyst",
+          "text": "DB基准：9月/12月加息，2028H1降50bp",
+          "details": "DB Fed：Fed前瞻指引淡化，通胀风险仍占主导。多位官员重申风险偏向通胀侧，Williams上调2026年底通胀预测至3.5%，达标时间推迟至2028年。Kashikari预计今年加息一次。德银基准预测美联储将于9月和12月加息，2027年按兵不动，2028年上半年降息50bp。AI对通胀影响受关注。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "JPM",
+        "BofA",
+        "Citi",
+        "DB"
+      ],
+      "date": "2026-07-07",
+      "image_urls": [
+        "/uploads/2026-07-07/bbac8175401d.png"
+      ]
+    }
+  ]
+}
