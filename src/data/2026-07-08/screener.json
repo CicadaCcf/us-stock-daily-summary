@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-07-08T21:31:27+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-07-08",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12425,
+    "partial_pass": 3,
+    "with_carryover": 5,
+    "after_full_check": 2
+  },
+  "rows": [
+    {
+      "tk": "PENG",
+      "nm": "Penguin Solutions, Inc. Ordinary Shares",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 25.1,
+      "w1": 14.0,
+      "market_cap_bn": 3.98,
+      "dollar_vol_bn": 1.08,
+      "w1_avg_dollar_vol_bn": 0.44,
+      "reason": "",
+      "main_business": "提供智能平台解决方案、集成内存及AI服务器系统"
+    },
+    {
+      "tk": "CRNX",
+      "nm": "Crinetics Pharmaceuticals, Inc.",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": -0.0,
+      "w1": 115.8,
+      "market_cap_bn": 8.8,
+      "dollar_vol_bn": 1.49,
+      "w1_avg_dollar_vol_bn": 1.72,
+      "reason": "",
+      "main_business": "研发罕见内分泌疾病及内分泌相关肿瘤创新疗法的制药公司"
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis-jul08",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "特朗普宣告停火结束，美对伊发动4-5倍规模空袭",
+      "summary": "特朗普在北约峰会上宣布与伊朗的临时停火协议已结束，称谈判是浪费时间。美国CENTCOM随即对伊朗Hormuz地区目标发动规模为10天前4-5倍的空袭，伊朗IRGC反击美舰并袭击巴林美军基地。美财政部同步撤销伊朗石油出口豁免，约6300万桶伊朗原油滞留海上。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "宣告与伊朗临时停火结束，谈判是浪费时间",
+          "details": "特朗普与伊朗达成的临时停火协议已经结束。\"对我来说，我认为停火协议已经结束了，\"他周三在安卡拉出席北约年度峰会时，与北约秘书长马克·吕特并肩而坐时说道。\"在我看来，这纯粹是浪费时间。\"特朗普还表示，\"我不想和他们打交道，但他们就是一群人渣\"\"现在，如果他们愿意，我会让我们的优秀谈判代表继续谈判，但我并不看好他们\"。重点是核武器，而不是政权更迭。",
+          "important": true
+        },
+        {
+          "actor": "CENTCOM",
+          "actor_type": "US-Executive",
+          "text": "对伊发动规模为10天前4-5倍的强力打击",
+          "details": "美国于7月7日（周二）对伊朗Hormuz地区目标发动空袭，作为对伊朗攻击商船的报复。特朗普在安卡拉批准并下令执行，目标包括防空系统、沿海监视系统、地对空导弹、反舰巡航导弹发射场、无人机发射场及港口设施；规模为10天前打击的4-5倍；爆炸发生在Bandar Abbas、Sirik及Qeshm岛。CENTCOM声明：打击旨在对针对平民船员的攻击施加\"沉重代价\"；伊朗的侵略\"无端、危险且明确违反停火协议\"。",
+          "important": false
+        },
+        {
+          "actor": "美国财政部",
+          "actor_type": "US-Executive",
+          "text": "OFAC撤销伊朗售油豁免，6300万桶滞留海上",
+          "details": "美国财政部外国资产控制办公室正在撤销此前授权出售伊朗石油的通用许可证，财政部官员称\"特朗普总统和政府一再确认，与伊朗生效的谅解备忘录完全是基于绩效的\"。美国撤回了允许伊朗出售原油的豁免，导致数千万桶已装载在油轮上的伊朗石油陷入困境。目前约有6300万桶伊朗石油在海上。",
+          "important": false
+        },
+        {
+          "actor": "伊朗外交部",
+          "actor_type": "Foreign-Gov",
+          "text": "谴责美国违反MOU，警告数小时内可能冲突",
+          "details": "伊朗发布声明：美国取消了自6月20日起为期两个月的伊朗石油出口豁免。美国声称此举是对伊朗在霍尔木兹海峡行动的回应。伊朗自始至终坚持按照谅解备忘录在霍尔木兹海峡执行既定安排，并认为该问题不具备谈判余地。尽管伊朗并未采取任何违反谅解备忘录的行动，但美国的决定严重违反了该协议。此前，美国曾暗中煽动黎巴嫩政权，违反了该协议。未来数小时内发生冲突的可能性十分严重，因为伊朗将加大对霍尔木兹海峡的镇压力度。美国还有可能恢复海上封锁，伊朗势必会对此做出军事回应。一些阿拉伯国家和该政权卷入了当前的局势。",
+          "important": false
+        },
+        {
+          "actor": "IRGC",
+          "actor_type": "Foreign-Gov",
+          "text": "警告毁灭性回应，指定霍尔木兹唯一安全航线",
+          "details": "IRGC宣告美军袭击伊朗南部部分地区构成\"公然侵略\"，武装部队将对美国的袭击作出\"毁灭性回应\"，不会允许美国干预霍尔木兹海峡的管理，霍尔木兹海峡内商船和油轮唯一安全的通行路线是伊朗指定的航线。IRGC海军在阿曼海向美国海军舰艇发射了反舰巡航导弹和多架无人机。伊朗军方今日多次袭击了位于巴林的美国基地，并扬言如果美国再次袭击伊朗，将发动更多袭击。",
+          "important": false
+        },
+        {
+          "actor": "航运/海事",
+          "actor_type": "新闻",
+          "text": "卡塔尔VLCC机舱起火，卡沙船只相撞",
+          "details": "途经霍尔木兹海峡往返伊朗港口的船只将再次遭到拦截和改道。遭袭的卡塔尔VLCC\"Al Rekayyat\"号机舱起火，存在爆炸风险。一艘卡塔尔船只和一艘沙特阿拉伯船只竟然相撞。",
+          "important": false
+        },
+        {
+          "actor": "海湾国家",
+          "actor_type": "Foreign-Gov",
+          "text": "沙特阻止对UAE汇款，科威特输电线被伊朗导弹碎片击中",
+          "details": "沙特阿拉伯正在延迟或阻止从沙特账户向阿联酋（尤其是迪拜）的收款人进行银行转账。科威特电力部报告称，伊朗向该国发射的导弹碎片击中了多条输电线路，导致这些线路受损并停运。",
+          "important": false
+        },
+        {
+          "actor": "内塔尼亚胡",
+          "actor_type": "Foreign-Gov",
+          "text": "称伊朗肯定拥有化学武器",
+          "details": "内塔尼亚胡对Newsmax表示：伊朗肯定拥有化学武器，这是他们构成的另一种威胁。",
+          "important": false
+        },
+        {
+          "actor": "Aragchi",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗外长在葬礼游行遭强硬派敌对口号攻击",
+          "details": "伊朗外长Aragchi参加阿里·哈梅内伊的葬礼游行时，遭到政权支持者的敌对口号攻击，这些支持者主张对美国采取强硬立场。",
+          "important": false
+        },
+        {
+          "actor": "Trump/Erdogan",
+          "actor_type": "US-Executive",
+          "text": "美土会谈，F-35对土出售即将有\"有利\"决定",
+          "details": "Trump和Erdogan在北约峰会前进行单独会谈，两人分别确认：关于土耳其买F-35战斗机，美国即将做出\"有利的\"决定。",
+          "important": false
+        },
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "KOL：撤销豁免无实质影响，除非真正海上封锁",
+          "details": "JH：伊朗应该明白，它不可能通过一两枚导弹的袭击就控制霍尔木兹岛，德黑兰似乎从上个长周末以来就一直在试图展现实力，重新夺回对海峡的控制权，但我严重怀疑他们是否有勇气承担真正的风险。美国撤销制裁豁免几乎没什么大不了的。反正那60天的豁免期本来就到8月21日就到期了，由于即便没有豁免，大部分伊朗商品也直接流向了中国，因此今天的新闻头条对实际贸易平衡并无直接影响。除非华盛顿实施强硬的海上封锁，否则一切都不会改变，我不认为他会采取任何强硬措施。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Newsmax",
+        "CENTCOM"
+      ],
+      "date": "2026-07-08",
+      "image_urls": []
+    },
+    {
+      "id": "fed-williams-jul08",
+      "topic": "美联储",
+      "topic_tag": "fed",
+      "title": "Williams：接近关税影响峰值，政策依赖数据",
+      "summary": "纽约联储Williams表示通胀仍高但能源回落有助抑制通胀，可能已接近关税影响峰值，货币政策处于良好状态，路径取决于数据和风险。",
+      "bullets": [
+        {
+          "actor": "Williams",
+          "actor_type": "Central-Bank",
+          "text": "通胀仍高，接近关税影响峰值",
+          "details": "通货膨胀率仍然很高，能源价格回落是好消息，应该会进一步下降并抑制通胀，我们可能已经接近关税影响的峰值。",
+          "important": true
+        },
+        {
+          "actor": "Williams",
+          "actor_type": "Central-Bank",
+          "text": "货币政策处于良好状态，走向取决数据和风险",
+          "details": "货币政策处于良好状态，货币政策的走向取决于数据和风险。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-08",
+      "image_urls": []
+    },
+    {
+      "id": "trump-save-america-act-jul08",
+      "topic": "SAVE America Act",
+      "topic_tag": "policy",
+      "title": "特朗普施压国会将SAVE Act塞入五角大楼拨款",
+      "summary": "特朗普施压众议院议长Johnson和参议院领袖Thune，要求将SAVE America Act与350B Recon 3.0资金一起塞入五角大楼必过拨款法案。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "施压Johnson/Thune将SAVE Act塞入国防拨款",
+          "details": "施压众议院议长Mike Johnson和参议院领袖John Thune，要求将SAVE America Act作为首要优先事项塞入必须通过的五角大楼拨款法案，强调350B Recon 3.0资金尽快从预算委员会通过，与国防部全面拨款一起快速通过，确保美国\"世代自由\"和公平选举。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "350B Recon 3.0资金要求快速通过预算委员会",
+          "details": "350B Recon 3.0资金尽快从预算委员会通过，与国防部全面拨款一起快速通过。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-08",
+      "image_urls": []
+    },
+    {
+      "id": "ai-macro-jul08",
+      "topic": "AI 行业宏观",
+      "topic_tag": "ai",
+      "title": "GPT-5.6获批发布，AMZN再融25B，中美AI脱钩加剧",
+      "summary": "特朗普政府批准OpenAI大规模发布GPT-5.6系列（旗舰Sol、低阶Terra/Luna）本周四正式发布；亚马逊拟发债至少25B用于AI基建，此前3个月已借370亿；中国监管拟限制海外访问最先进AI模型；美国立法者研究遏制企业使用中国模型；OpenRouter中国模型使用占比升至30%+。",
+      "bullets": [
+        {
+          "actor": "Axios/OpenAI",
+          "actor_type": "新闻",
+          "text": "特朗普政府批准GPT-5.6大规模发布，本周四上线",
+          "details": "Axios消息人士透露，特朗普政府已批准OpenAI大规模发布其先进的GPT-5.6模型。OpenAI于周二晚间宣布，GPT-5.6的旗舰模型Sol以及低阶模型Terra和Luna将于本周四正式发布。",
+          "important": true
+        },
+        {
+          "actor": "Amazon",
+          "actor_type": "Corporate",
+          "text": "AMZN发债至少25B投AI基建，3月前刚借370亿",
+          "details": "AMZN正通过发行债券筹集至少25B，用于人工智能基础设施建设。三个月前，亚马逊刚刚借贷了370亿美元。",
+          "important": false
+        },
+        {
+          "actor": "路透",
+          "actor_type": "新闻",
+          "text": "中国监管拟限制海外访问最先进AI模型",
+          "details": "RTRS爆料，中国监管部门已与多家头部公司举行会议，讨论可能限制海外访问中国最先进AI模型，其中包括尚未发布的模型。",
+          "important": false
+        },
+        {
+          "actor": "CNBC",
+          "actor_type": "新闻",
+          "text": "美立法者研究遏制企业使用中国AI模型",
+          "details": "CNBC报道随着人工智能推广引发的地缘政治紧张局势加剧，美国立法者正在考虑如何遏制本土企业越来越多地采用中国人工智能模型。",
+          "important": false
+        },
+        {
+          "actor": "CNBC/OpenRouter",
+          "actor_type": "新闻",
+          "text": "OpenRouter中国模型使用占比升至30%+",
+          "details": "美国公司正将越来越多的AI工作负载转移到中国模型上。CNBC报道称，自2月份以来，OpenRouter上中国模型的使用量每周都超过美国公司代币总量的30%，高于前一年的平均11%，也高于2025年上半年的4.5%。",
+          "important": false
+        },
+        {
+          "actor": "FT",
+          "actor_type": "新闻",
+          "text": "苹果测试CXMT DRAM，用于中国销售机型",
+          "details": "FT报道苹果已开始测试由长鑫存储CXMT提供的DRAM芯片，这些设备将用于在中国的销售。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "AMZN",
+        "NVDA",
+        "AAPL",
+        "MSFT"
+      ],
+      "image_indexes": [
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "Axios",
+        "CNBC",
+        "FT",
+        "RTRS"
+      ],
+      "date": "2026-07-08",
+      "image_urls": [
+        "/uploads/2026-07-08/d6d6140b7ffe.png"
+      ]
+    },
+    {
+      "id": "oil-market-jul08",
+      "topic": "原油市场",
+      "topic_tag": "oil",
+      "title": "沙特扩建东西输油管，中国解除7月成品油出口限制",
+      "summary": "沙特考虑扩大东西向输油管道输送红海能力；中国解除7月剩余成品油出口限制，允许一家民营炼油厂在停产四个月后恢复出货，此前受伊朗战争影响炼油业务中断。",
+      "bullets": [
+        {
+          "actor": "路透",
+          "actor_type": "新闻",
+          "text": "沙特考虑扩大东西向输油管道产能",
+          "details": "RTRS报道，沙特阿拉伯正在考虑扩大其东西向输油管道的输送能力，该管道将原油输送到红海沿岸。",
+          "important": true
+        },
+        {
+          "actor": "路透",
+          "actor_type": "新闻",
+          "text": "中国解除7月成品油出口限制，民营炼厂恢复出货",
+          "details": "RTRS报道消息人士透露，中国已解除7月份剩余时间的成品油出口限制，并允许一家民营炼油厂在停产四个月后恢复出货。此前，受伊朗战争影响，中国炼油业务一度中断，目前正逐步恢复正常。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "RTRS"
+      ],
+      "date": "2026-07-08",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-views-jul08",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "MS看空美元3-5%，UBS预测CPI创5年最大降幅，Barclay维持布油$96",
+      "summary": "Morgan Stanley FX预计DXY下跌3-5%，建议做多SEK/JPY/CAD/AUD；UBS预测6月CPI环比-0.25%创2020年4月来最大降幅；Nomura因BEA方法论调整下调2026年Q4核心PCE至3.1%，料美联储无限期按兵不动；Barclay维持2026年布伦特$96/桶。",
+      "bullets": [
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "预计DXY下跌3-5%，做多SEK/JPY/CAD/AUD",
+          "details": "MS FX：预计美元指数（DXY）将下跌3-5%。核心逻辑包括：1）通胀降温促使市场定价美联储降息，导致利率差异收敛，预计贡献1-3%跌幅；2）美股相对优异表现在利率收敛背景下对美元构成额外1%下行压力；3）风险溢价回归均值可能带来1.5%跌幅。建议关注做多SEK、JPY、CAD、AUD兑美元的机会，当前期权市场低估了美元下跌风险。",
+          "important": true
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "6月CPI环比-0.25%，创2020年4月来最大降幅",
+          "details": "UBS：预计6月美国整体CPI环比降0.25%，创2020年4月以来最大降幅，同比通胀降至3.71%。主要受汽油价格大跌17%驱动。但核心CPI预计环比仍涨0.21%，核心服务通胀粘性犹存。核心PCE因权重差异预计涨0.28%，短期未见下行。",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "BEA方法论调整降核心PCE 20bp，联储料无限期不动",
+          "details": "Nomura Eco：BEA方法论变更预计使美国核心PCE通胀降低20bp。叠加关税影响减弱及油价下跌，预计核心PCE通胀已见顶。2026年Q4核心PCE预测下调至3.1%，美联储料将无限期维持利率不变。",
+          "important": false
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "维持布油2026年$96预测，推荐柴油裂解价差",
+          "details": "Barclay Oil：维持2026年布伦特原油$96/桶预测。中东石油流量复苏放缓，霍尔木兹海峡出口均值为9.1mb/d。美国石油需求韧性显著，前4个月同比增460kb/d。投机净持仓降至2014年以来第2百分位。继续推荐做多ICE柴油裂解价差及布伦特远月日历价差。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 3,
+      "sources": [
+        "MS",
+        "UBS",
+        "Nomura",
+        "Barclays"
+      ],
+      "date": "2026-07-08",
+      "image_urls": [
+        "/uploads/2026-07-08/9102e3f870ea.jpg"
+      ]
+    },
+    {
+      "id": "buyside-kol-views-jul08",
+      "topic": "买方/KOL 观点",
+      "topic_tag": "macro-other",
+      "title": "Burry做空SOX，警告NVDA或成Cisco 2000",
+      "summary": "Michael Burry披露做空半导体指数SOX，质疑NVDA客户极度集中、需求为临时冲刺、MSFT可能在CIP中囤芯片粉饰NVDA业绩；多位KOL评论美债定价、油市空头持仓、AI轮动及内存周期见顶。",
+      "bullets": [
+        {
+          "actor": "Michael Burry",
+          "actor_type": "KOL",
+          "text": "做空SOX，警告NVDA或复刻Cisco 2000暴跌",
+          "details": "Burry已经做空半导体指数（SOX），NVIDIA表面风光，但客户极度集中、需求是临时冲刺（主要来自训练和基准测试阶段，这只是公司为了抢占AI优势而进行的临时冲刺，不会持续）、供应链。客户极度集中，风险极高，财务数据上应收账款异常，MSFT可能在囤积芯片（放在Construction-in-Progress，不计入当期费用和折旧），帮助NVIDIA完成季度业绩，未来很可能出现类似Cisco 2000年的暴跌。",
+          "important": true
+        },
+        {
+          "actor": "DCP",
+          "actor_type": "KOL",
+          "text": "收益率曲线因Warsh预期定价过平，就业数据不可靠",
+          "details": "DCP：市场因为Warsh预期已经把收益率曲线定价得很平了，但就业数据（U3和非农）根本不可靠，没有美联储明确指引（guidance）的情况下，这些数据几乎没用，拿这些数据做预测和均值回归的说法靠不住。",
+          "important": false
+        },
+        {
+          "actor": "@Credit_Junk",
+          "actor_type": "KOL",
+          "text": "政府债券持有基础变化，外资权重升导致波动性增加",
+          "details": "@Credit_Junk：政府债券的持有基础正在发生变化。随着量化宽松政策的收紧，央行的持有量正在下降，而外国持有者的权重则在上升，这类投资者对价格更为敏感，并且会使用更多杠杆（不持有债券至到期）。这会使市场波动性更大。",
+          "important": false
+        },
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "原油管理型基金空头>40%，15年第三高",
+          "details": "Warren Pies：Oil, Managed Money short positions >40%（third highest reading in 15 years）+ Record crack spreads = recipe for a solid bottom。",
+          "important": false
+        },
+        {
+          "actor": "Short Bear",
+          "actor_type": "KOL",
+          "text": "股市AI抛售/轮动分化，利率敏感板块走高",
+          "details": "Short Bear：股市分为人工智能抛售和相关rotation两部分，而对利率敏感的市场部分则持续走高。战争结束后，人们就开始利用新闻事件大肆炒作。市场似乎指向中期收益率/利率走低。这或许促成了此次轮动。",
+          "important": false
+        },
+        {
+          "actor": "Hermin Jin",
+          "actor_type": "KOL",
+          "text": "做多需对冲AMZN被定价成第二个ORCL的极端风险",
+          "details": "Hermin Jin：做多要hedge下AMZN被定价成第二个ORCL的极端风险。",
+          "important": false
+        },
+        {
+          "actor": "@pequityresearch",
+          "actor_type": "KOL",
+          "text": "内存行业价格/库存/EPS上调广度接近峰值",
+          "details": "@pequityresearch：内存行业在同比价格、库存水平和EPS上调广度上已接近峰值，短期谨慎（可能有回调压力）。",
+          "important": false
+        },
+        {
+          "actor": "@RealSimpleAriel",
+          "actor_type": "KOL",
+          "text": "警告NVDA第四阶段崩溃将拖累纳指",
+          "details": "@RealSimpleAriel：市场可能会误导人们，让他们觉得逢低买入是正确的策略。但此前表现强劲的股票，如果没有另一个可能持续数月的漫长盘整，似乎不太可能再次上涨。最大的问题是，如果房间里的大象NVDA真的进入第四阶段崩溃，纳斯达克指数还能继续保持稳定吗。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "AMZN",
+        "ORCL",
+        "SOXX"
+      ],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-07-08",
+      "image_urls": [
+        "/uploads/2026-07-08/a4f8cd8f14dd.png"
+      ]
+    }
+  ]
+}
