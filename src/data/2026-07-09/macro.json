@@ -1,0 +1,301 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-jul3",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊冲突升级：美军二次打击伊朗170目标，威胁封锁霍尔木兹",
+      "summary": "Trump表态可能重新封锁伊朗与霍尔木兹海峡、控制哈尔格岛，美军对伊朗五省170个军事目标发动第二日打击并首次袭击伊朗境内铁路桥。伊朗方面声称袭击科威特、卡塔尔、巴林美军设施，海湾国拦截来袭目标。谈判层面伊朗称威胁持续则不启动最终协议谈判，美方称谈判可继续但浪费时间，核条款仍悬而未决。",
+      "bullets": [
+        {
+          "actor": "美军",
+          "actor_type": "US-Executive",
+          "text": "美军二次打击伊朗五省约170个军事目标",
+          "details": "美军对伊朗实施'第二日打击'，对伊朗五个省份的约170个军事目标发动空袭，重点针对霍尔木兹海峡附近目标，旨在削弱伊朗威胁航行自由的能力，目标包括：Chabahar港区（海上交通管制塔、仓库）、Bandar Abbas、Sirik、Lavan岛附近；空中防御系统、沿海雷达、反舰导弹阵地、IRGC小型船只（60+艘）等；美军使用巡航导弹袭击了伊朗北部的两座铁路桥，这是自4月8日停火以来美军首次袭击伊朗境内的基础设施。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump称可能重新封锁伊朗和霍尔木兹海峡",
+          "details": "Trump表示对伊朗发动大规模袭击并非不可能，称我们可能会重新封锁伊朗和霍尔木兹海峡，可能会控制哈尔格岛，宁愿不攻击海水淡化厂但可能是必要的；强调本次打击是'对伊朗昨天轰炸商船的报复'，比例'20:1'，警告'如果再发生将会严重得多'。"
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump称已定位伊朗核材料，并拥有开采设备",
+          "details": "Trump称我们已经确定了核材料的位置，它们埋在山下，而且我们拥有从伊朗开采这些核材料的设备；认为伊朗战争不会重燃，这场战争很快就会结束，将使石油行业更安全，我们现在面临石油过剩，油价将会下跌；每次打击伊朗油价上涨$2这没关系；认为以色列将从黎巴嫩撤军。"
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump称伊朗官员打电话表示非常想达成协议",
+          "details": "伊朗官员'不久前打电话来'，明确表示'非常想达成协议'（'They want to make a deal so badly'），但Trump表示不确定伊朗是否值得信任或会遵守；伊朗领导人现在更理性了，不确定是否想与他们达成协议。"
+        },
+        {
+          "actor": "伊朗军方",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗声称袭击科威特、卡塔尔、巴林美军设施",
+          "details": "伊朗军方声称袭击了位于科威特的一套'爱国者'导弹系统、位于卡塔尔的一处卫星天线以及位于巴林的美国海军第五舰队总部的燃料库；巴林国防部表示其防空系统拦截并摧毁了来袭目标；科威特成功拦截伊朗发射的2枚弹道导弹和13架无人机，无人员伤亡，部分电力线路因碎片受损。"
+        },
+        {
+          "actor": "伊朗国家媒体",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗称美空袭造成14死78伤",
+          "details": "伊朗国家媒体周四报道称，过去两天美国对伊朗五个省份的空袭造成14人死亡，78人受伤。报道称47名伤者仍在医院接受治疗，其余伤者经治疗后已出院。"
+        },
+        {
+          "actor": "Mohsen Rezaei / Ghalibaf",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗高层：霍尔木兹只依靠伊朗安排",
+          "details": "最高领袖顾问Mohsen Rezaei称'华盛顿将导致谈判失败'，美方正试图在霍尔木兹建立替代通道；Ghalibaf称美国仍然没有吸取教训，欺凌和违背承诺不再是免费的，如果你出手就会遭到反击，霍尔木兹海峡的开放只会依靠'伊朗的安排'，而不是美国的威胁。"
+        },
+        {
+          "actor": "美伊谈判",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗称威胁持续则不启动最终协议谈判",
+          "details": "伊朗方面表示若威胁持续，将不启动最终协议谈判；美方称谈判可继续但'浪费时间'。核条款（检查、浓缩铀限制等）仍悬而未决，未进入实质阶段。塔尔与伊朗外长通电话讨论海峡事件；美国军事代表团将于近日抵达贝鲁特，协调并确定在黎巴嫩南部实施试验区的机制。"
+        },
+        {
+          "actor": "AXIOS",
+          "actor_type": "新闻",
+          "text": "AXIOS：局势升级或持续数日至一月，取决伊朗后续",
+          "details": "AXIOS报道一位美国官员表示，目前的局势升级可能会持续一两天、一周或一个月，这取决于伊朗是否继续袭击霍尔木兹海峡的商船。AXIOS另报道冲突背后的深层原因为MoU协议条款解释分歧和伊朗内部激进派对经济利益未达预期感到不满（由于金融机构不批准交易伊朗依然无法正常售油，且由于未履行核政策承诺其被冻结的资金也未获得释放），双方表态强硬但Trump表示伊朗希望达成协议。"
+        },
+        {
+          "actor": "WSJ社论",
+          "actor_type": "新闻",
+          "text": "WSJ社论：证明可封锁伊朗+摧毁核设施即胜利",
+          "details": "WSJ社论称如果Trump能够证明伊朗无法切断能源供应，而美国却可以随时封锁伊朗，那就是胜利，也是筹码。如果他能够移除伊朗的核材料并摧毁Pickaxe核设施，那也是胜利。"
+        },
+        {
+          "actor": "液体散货航运数据",
+          "actor_type": "新闻",
+          "text": "霍尔木兹液体散货艘次/载重吨2月末断崖式下滑",
+          "details": "液体散货艘次与载重吨图表显示，自2026年2月末起艘次与载重吨均出现断崖式下降至接近零/负区间，直到6月中下旬才有明显反弹，反映霍尔木兹海峡液体货运几乎中断。"
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "AXIOS",
+        "Truth Social",
+        "伊朗国家媒体"
+      ],
+      "date": "2026-07-09",
+      "image_urls": [
+        "/uploads/2026-07-09/fcd77612c330.png"
+      ]
+    },
+    {
+      "id": "oil-market-jul3",
+      "topic": "原油市场",
+      "topic_tag": "oil",
+      "title": "油价下跌依赖SPR释放，中国-伊朗阿曼路线开启",
+      "summary": "多位KOL指出近期油价下跌很大程度依赖战略库存削减，霍尔木兹从未真正完全开放，SPR距最低运行水平仅剩19M桶。中国解除产品出口禁令同日伊朗启动阿曼路线，中国独立炼厂Teapot可能凭借强裂解价差大举进场。",
+      "bullets": [
+        {
+          "actor": "Bob",
+          "actor_type": "KOL",
+          "text": "油价下跌依赖SPR释放，几周内耗尽",
+          "details": "Bob称没错油价最近确实下跌了，但大多数人并没有意识到，这在很大程度上依赖于持续的战略性库存削减，因为霍尔木兹港从未真正完全开放。照此速度，几周之内就会耗尽这一关键的供应来源。",
+          "important": true
+        },
+        {
+          "actor": "@ericnuttall",
+          "actor_type": "KOL",
+          "text": "美SPR距最低运行水平仅剩19M桶",
+          "details": "美国战略石油储备目前距离预计最低运行水平还差19M。很快将不再有安全缓冲来保护世界免受霍尔木兹海峡石油进一步损失。"
+        },
+        {
+          "actor": "HFI Res",
+          "actor_type": "Analyst",
+          "text": "中伊阿曼路线开启，中国炼厂或大举进场",
+          "details": "HFI Res称中国解除产品出口禁令的同一天伊朗也开始实施阿曼路线绝非巧合，现在开始对美国施加最大压力，密切关注中国的产品定价策略；如果他们将价格摆在市场上那就好戏开始了。Teapot（中国独立炼厂）是石油市场上的关键买家，鉴于目前的裂解价差他们会疯狂出手，中国的炼油产能非常庞大。"
+        }
+      ],
+      "tickers": [
+        "USO",
+        "XLE"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-09",
+      "image_urls": []
+    },
+    {
+      "id": "fed-jun-minutes-jul3",
+      "topic": "美联储",
+      "topic_tag": "fed",
+      "title": "6月FOMC纪要：分歧在前景而非策略，通胀回落则按兵不动",
+      "summary": "6月FOMC全员支持维持利率3.5%-3.75%不变。Nick指出纪要将委员会分歧描述为对前景的分歧而非策略，'almost all'成员认为若通胀持续则需加息，若通胀'soon'回落至2%则可维持或降息。MS/GS均预计基准情景2026年利率不变，2027年或降息。",
+      "bullets": [
+        {
+          "actor": "Nick (Timiraos)",
+          "actor_type": "新闻",
+          "text": "6月FOMC纪要显示分歧在前景而非策略",
+          "details": "Nick称6月FOMC纪要很有意思，将委员会的分歧描述为对前景的分歧而不是对策略的分歧。'Almost all' participants think higher rates will be needed if inflation pressures don't dissipate, 'Almost all' also think they can hold (or eventually cut) if inflation 'soon' heads back to 2%.",
+          "important": true
+        },
+        {
+          "actor": "GS Fed",
+          "actor_type": "Analyst",
+          "text": "GS：2026年底核心PCE降至3.0%，年内利率不变",
+          "details": "GS Fed称6月会议全员支持维持利率3.5%-3.75%不变。若通胀很快回落至2%多数官员支持不变或降息；若因AI需求等导致通胀高企则支持进一步收紧。高盛预测2026年底核心PCE降至3.0%，基准情景为2026年利率保持不变。"
+        },
+        {
+          "actor": "MS Fed",
+          "actor_type": "Analyst",
+          "text": "MS：若通胀未很快改善或50-75bp重新校准",
+          "details": "MS解读6月FOMC纪要：美联储反应函数仍为数据驱动，未现制度性转变。若通胀如期消退今年利率将保持不变，2027年或降息。虽少数委员提及加息理由但非主流偏好。若通胀未'很快'改善，可能面临50-75bp的政策重新校准。"
+        },
+        {
+          "actor": "NY Fed",
+          "actor_type": "Central-Bank",
+          "text": "NY Fed：关税转嫁尚未结束",
+          "details": "NY Fed称关税转嫁尚未结束。近半数缴纳关税的企业表示，由于他们选择将更高的投入成本分摊到更长的时间内，价格仍将进一步上涨。"
+        },
+        {
+          "actor": "MS CPI",
+          "actor_type": "Analyst",
+          "text": "MS预测6月CPI mom-0.19%，yoy降至3.8%",
+          "details": "MS预测6月美国整体CPI mom降0.19%，yoy降至3.8%，主要受油价下跌驱动。核心CPI预计环比微升0.22%，同比持稳2.8%。报告指出关税传导效应接近尾声，租金通胀异常属噪音并将回归正常，油价回落将在7-8月进一步抑制机票通胀。"
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-09",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-views-jul3",
+      "topic": "卖方观点",
+      "topic_tag": "earnings",
+      "title": "GS：全球股市转向盈利驱动，AI资本支出755B推动重估",
+      "summary": "GS Macro称2026上半年全球股市盈利驱动，SPX Q2 EPS预计+22%，美国科技巨头CAPEX预计755B推动工业股重估。DB数据显示SPX Q2净指引（正减负）达历史最高水平之一。Citi预计韩国央行7月16日加息25bp开启周期，终端3.5%。",
+      "bullets": [
+        {
+          "actor": "GS Macro",
+          "actor_type": "Analyst",
+          "text": "GS：SPX Q2 EPS+22%，美科技CAPEX达755B",
+          "details": "GS Macro称全球股市转向盈利驱动，AI资本支出利好工业板块。2026年上半年全球股市表现强劲，盈利增长成主要驱动力。预计SPX Q2 EPS增22%，AI基础设施贡献显著。美国科技巨头CAPEX预计达755B，推动工业及资本密集型股票重估。欧洲股市估值相对美国呈深度折价，虽供应增加但回购强劲，宏观环境支持2027年央行宽松。",
+          "important": true
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "DB：SPX Q2净指引处历史最高水平之一",
+          "details": "Deutsche Bank Research图表显示S&P 500 Q2 2026净指引（正指引减负指引公司比例）读数约+10%以上，为2010年9月以来历史最高水平之一，长期均值线约-15%到-40%区间，本季度显著高于均值，反映企业指引情绪罕见乐观（来源：Bloomberg Finance LP, Deutsche Bank Asset Allocation）。"
+        },
+        {
+          "actor": "Citi KR",
+          "actor_type": "Analyst",
+          "text": "Citi：韩国央行7月16日加息25bp至2.75%",
+          "details": "Citi预计韩国央行7月16日加息25bps至2.75%，开启渐进式加息周期，终端利率看至3.5%。受芯片驱动经济增长及通胀风险影响，2026年GDP增速预测或上调至2.8%-3.0%。尽管预期每季度加息25bp，但花旗认为下半年前置加息或是更优政策应对。"
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "Deutsche Bank",
+        "Citi",
+        "MS"
+      ],
+      "date": "2026-07-09",
+      "image_urls": [
+        "/uploads/2026-07-09/257b50b6b223.jpg"
+      ]
+    },
+    {
+      "id": "kol-market-views-jul3",
+      "topic": "买方/KOL观点",
+      "topic_tag": "macro-other",
+      "title": "个股波动率与指数VIX价差创新高，AI龙头需充分整固",
+      "summary": "@super_macro指出SPX个股隐含波动率极高但VIX持续走低，两者价差创新高，仅靠低相关性支撑，一旦反转VIX将剧烈波动。Mark Ritchie II警告上一轮领导者往往回调50%甚至80%，NFLX/IBIT/PLTR等已进入调整区。Burry批高价回购稀释内在价值，Erian担忧超大规模数据中心运营商年内已发债300B+挤压需求。",
+      "bullets": [
+        {
+          "actor": "@super_macro",
+          "actor_type": "KOL",
+          "text": "SPX个股IV与VIX价差创新高，相关性反转风险",
+          "details": "@super_macro称相关性是Vix指数下跌的唯一原因。SPX个股隐含波动率极高但VIX指数却持续走低，上周两者之间的价差创下新高。目前只有低相关性在支撑该指数走低——一旦相关性逆转，VIX指数将出现剧烈波动。",
+          "important": true
+        },
+        {
+          "actor": "@super_macro",
+          "actor_type": "KOL",
+          "text": "企业利润领先劳动力需求，JOLTS超预期",
+          "details": "@super_macro称美国企业利润增长依然强劲，通常情况下企业利润增长领先于劳动力需求而非反之。鉴于企业支出依然火热，今年剩余时间的就业前景一片光明；JOLTS调查结果超出预期，失业者对应的职位空缺数连续第二个月超过1。尽管该调查存在滞后性和不完善之处，但传递的信息很明确：劳动力需求正在上升，而供应却受到限制。"
+        },
+        {
+          "actor": "Mark Ritchie II",
+          "actor_type": "KOL",
+          "text": "AI龙头需充分整固，回调可达50%-80%",
+          "details": "Mark Ritchie II称过去两年市场一直处于选择性+板块轮动的状态，最近AI板块的调整暴露了指数掩盖下的真实波动。上一轮周期的领导者往往会出现至少50%的回调（严重时可达80%）。目前很多去年表现强势的个股（如$NFLX、$IBIT、$PLTR）已经进入这个调整区间，这些AI龙头需要充分整固（base/reset），而不是急于抄底。"
+        },
+        {
+          "actor": "Short Bear",
+          "actor_type": "KOL",
+          "text": "Rotation trades暂停，警惕整个组合被抛售",
+          "details": "Short Bear称Rotation trades暂停，主要问题是如果指数下跌，我们是否会在整个市场中重新获得更高的贝塔系数的下跌股票，并看到整个投资组合被抛售，而不是reshuffling。"
+        },
+        {
+          "actor": "Burry",
+          "actor_type": "KOL",
+          "text": "Burry：高价回购抵消SBC实为稀释内在价值",
+          "details": "Burry称只有在股价低于基础内在价值时，回购才是真正增厚每股内在价值的。当前很多科技公司高价回购来抵消股票薪酬（SBC），实际上是稀释内在价值。"
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "KOL",
+          "text": "Erian：超大规模数据中心年内已发债300B+",
+          "details": "Erian称亚马逊新债券发行的市场反响平平，国际债券投资者的吸收能力是一个问题。市场正被要求消化来自政府、传统企业尤其是科技超大规模企业的大量供应。仅超大规模数据中心运营商今年迄今为止就已发行了超过300B的债券，这相当于去年同期增速的两倍，而且预计这一趋势只会加速。",
+          "important": false
+        },
+        {
+          "actor": "@tleilax___",
+          "actor_type": "KOL",
+          "text": "攻击电力基础设施或招致海湾报复",
+          "details": "@tleilax___称攻击电力基础设施可能会招致海湾地区基础设施的报复。"
+        },
+        {
+          "actor": "@Bogachan_1971",
+          "actor_type": "KOL",
+          "text": "美伊陷胆小鬼博弈，需game-changer破局",
+          "details": "@Bogachan_1971称除非美国或伊朗拿出改变游戏规则的方案，否则这场充斥着谎言的恶性循环将继续下去。如果美国占领伊朗的岛屿或海岸线对美国来说就是改变战局的事件；如果伊朗击沉哪怕一艘美国海军舰艇或者宣布拥有核弹对伊朗来说都将是改变战局的转折点。自2月28日以来我们看到的是一场胆小鬼博弈，双方都尽量降低风险，更多的是空谈而非出手。"
+        },
+        {
+          "actor": "SuperMacro图表",
+          "actor_type": "Analyst",
+          "text": "成分股波指红线走高，VIX蓝线仍低",
+          "details": "S&P 500 Single Stock and Index Vol图表显示Constituent Vol Index（红线）近期升至45-47区间接近2022年高位，而VIX Index（蓝线）仅在20左右，两者价差扩大至历史新高（来源：CBOE, Bloomberg and SuperMacro）。"
+        }
+      ],
+      "tickers": [
+        "NFLX",
+        "IBIT",
+        "PLTR",
+        "AMZN"
+      ],
+      "image_indexes": [
+        2
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-09",
+      "image_urls": [
+        "/uploads/2026-07-09/943f57834d5c.png"
+      ]
+    }
+  ]
+}

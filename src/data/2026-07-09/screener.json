@@ -1,0 +1,59 @@
+{
+  "generated_at": "2026-07-09T21:31:35+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-07-09",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12361,
+    "partial_pass": 4,
+    "with_carryover": 5,
+    "after_full_check": 3
+  },
+  "rows": [
+    {
+      "tk": "BBIO",
+      "nm": "BridgeBio Pharma, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 15.1,
+      "w1": 16.8,
+      "market_cap_bn": 17.66,
+      "dollar_vol_bn": 1.86,
+      "w1_avg_dollar_vol_bn": 0.54,
+      "reason": "",
+      "main_business": "专注遗传性疾病创新疗法研发的生物制药公司"
+    },
+    {
+      "tk": "PENG",
+      "nm": "Penguin Solutions, Inc. Ordinary Shares",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": 3.7,
+      "w1": 32.4,
+      "market_cap_bn": 4.13,
+      "dollar_vol_bn": 0.78,
+      "w1_avg_dollar_vol_bn": 0.56,
+      "reason": "",
+      "main_business": "提供智能平台解决方案、集成内存及AI服务器系统"
+    },
+    {
+      "tk": "CRNX",
+      "nm": "Crinetics Pharmaceuticals, Inc.",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 0.2,
+      "w1": 98.0,
+      "market_cap_bn": 8.82,
+      "dollar_vol_bn": 0.84,
+      "w1_avg_dollar_vol_bn": 1.88,
+      "reason": "",
+      "main_business": "研发罕见内分泌疾病及内分泌相关肿瘤创新疗法的制药公司"
+    }
+  ]
+}
