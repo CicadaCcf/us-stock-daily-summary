@@ -1,0 +1,515 @@
+{
+  "topics": [
+    {
+      "id": "fed-williams-credibility-jul10",
+      "topic": "美联储",
+      "topic_tag": "fed",
+      "title": "Williams：不用加息证明信誉",
+      "summary": "纽约联储主席Williams回应通胀风险下是否应加息以捍卫信誉：维持信誉的方式是根据数据做出最佳决策，而非用货币政策去影响信誉本身。偏鸽表态。",
+      "bullets": [
+        {
+          "actor": "Williams",
+          "actor_type": "Central-Bank",
+          "text": "Williams：不会用货币政策来\"证明信誉\"",
+          "details": "被问及鉴于目前通胀方面的风险，Fed是否应该提高利率\"以示其信誉\"？Williams答：\"维持几十年来建立起来的信誉的方法，是根据我们掌握的数据做出最好的决策，而不是试图利用货币政策来影响信誉\"",
+          "important": true
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "小摩：非农降低了Fed转鹰概率，鹰派交易面临逆转",
+          "details": "JPM Fed：7月2日的美国非农就业报告缓解了市场对劳动力市场过热的担忧。经济学家认为，这份数据应能让美联储淡化今年早些时候核心PCE通胀超预期上行的影响，从而降低美联储转向更鹰派立场的概率。相应地，市场在5月和6月盛行的\"鹰派美联储\"交易（做多美元、做空美债相对德债、做空黄金/比特币）出现逆转的风险上升",
+          "important": false
+        },
+        {
+          "actor": "Hedgie",
+          "actor_type": "KOL",
+          "text": "KOL：6月失业率下降是因为求职者放弃寻找",
+          "details": "Hedgie：6月份的就业报告显示失业率为4.2%，但这一数字下降并非因为招聘情况改善，而是因为人们停止了寻找工作。目前约有1.83M劳动者被归类为边缘性劳动力，其中包括499K因认为没有工作机会而放弃求职的\"灰心丧气\"的求职者。劳动参与率降至五年来的最低点，劳动力市场值得担忧",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Fed",
+        "JPM"
+      ],
+      "date": "2026-07-10",
+      "image_urls": []
+    },
+    {
+      "id": "us-iran-hormuz-jul10",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "特朗普定性伊朗攻击为恐怖主义，聚焦重开霍尔木兹",
+      "summary": "特朗普7月8日将伊朗对民船攻击定性为\"恐怖主义\"，认定其违反绩效-based MOU，7月9日与国安团队讨论重开霍尔木兹并避免全面战争。区域调解人（卡塔尔、巴基斯坦、土耳其、埃及、沙特）密集斡旋，伊朗外长与IRGC强硬回应，以色列向华盛顿分享\"伊朗策划暗杀特朗普\"新情报。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普：伊朗攻击民船是\"恐怖主义\"，聚焦重开霍尔木兹避免全面战争",
+          "details": "据报道Trump 7月8日明确表示伊朗对无辜船只的攻击是\"恐怖主义行为\"，MOU为绩效-based（performance-based），伊朗行动构成\"不可接受的失败绩效\"。7月9日与国家安全团队会面，重点讨论重新开放霍尔木兹海峡、避免全面战争。",
+          "important": true
+        },
+        {
+          "actor": "Axios",
+          "actor_type": "新闻",
+          "text": "Axios：五国调解人7月9日多轮通话推动降级",
+          "details": "Axios报道卡塔尔、巴基斯坦、土耳其、埃及、沙特等地区调解人7月9日通过多次电话与美伊官员沟通，推动降级并挽救核协议谈判；6月曾在瑞士卢塞恩湖举行美伊巴卡四方会议。调解人认为此前技术谈判已有进展，希望先达成降级协议，再确定下一轮技术团队谈判日期；Axios报道：美伊存在一份performance-based MOU（谅解备忘录），特朗普7月8日宣布MOU及停火\"结束\"后，并下令进行了两轮空袭，但他目前的焦点是重新开放霍尔木兹海峡，并希望避免与伊朗爆发全面战争，美国官员称特朗普政府\"仍致力于找到解决方案，技术谈判继续\"",
+          "important": false
+        },
+        {
+          "actor": "伊朗政府/军方",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗外长指美方违反MOU，IRGC誓言报复，议员警告阿联酋",
+          "details": "外长Aragchi表示美国攻击和言论违反了MOU；伊朗伊斯兰革命卫队指挥官誓言，美国及其盟友将为这起\"懦弱的暗杀\"付出代价；伊朗高级议员伊斯梅尔·科萨里警告阿联酋，其在美国空袭中所扮演的角色将使其\"付出沉重代价\"。",
+          "important": false
+        },
+        {
+          "actor": "以色列/CNN",
+          "actor_type": "Foreign-Gov",
+          "text": "以色列向华盛顿分享\"伊朗策划暗杀特朗普\"情报",
+          "details": "以色列向华盛顿分享了新的情报，声称伊朗策划了一起针对特朗普总统的暗杀阴谋。CNN报道（美国官员消息）：以色列关于伊朗策划刺杀特朗普的报告，可能旨在推动特朗普走向升级",
+          "important": false
+        },
+        {
+          "actor": "美国中央司令部",
+          "actor_type": "US-Executive",
+          "text": "美军成功护送油轮通过阿曼通道，5月来护航800+商船",
+          "details": "军事行动：无美军新打击。海峡油运：美军成功护送了一组油轮通过南部阿曼通道，所有船只的AIS都处于关闭状态，但有一艘印度货船在通过时开启了AIS。美国中央司令部驳斥了伊朗关于其拥有霍尔木兹海峡专属通行权的说法，并表示自5月初以来，美军已为800多艘商船的安全通行提供了便利。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普呼吁国会通过Reconciliation 3.0（3500亿美元国防）",
+          "details": "特朗普呼吁国会通过 Reconciliation 3.0（3500亿美元国防资金），并将 SAVE America Act 列为首要优先事项",
+          "important": false
+        },
+        {
+          "actor": "黎巴嫩/以色列",
+          "actor_type": "Foreign-Gov",
+          "text": "黎巴嫩拒与以色列继续和谈；以强烈反对美售土F-35",
+          "details": "黎巴嫩拒绝与以色列继续和谈，因为以军不从南部撤兵；以色列强烈反对美国卖给土耳其F-35战机，因为土耳其称以色列是中东乱局的根源",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Axios",
+        "CNN"
+      ],
+      "date": "2026-07-10",
+      "image_urls": []
+    },
+    {
+      "id": "russia-ukraine-refinery-jul10",
+      "topic": "俄乌炼厂",
+      "topic_tag": "oil",
+      "title": "乌无人机重创俄炼厂，俄禁柴油出口，IEA警告燃油短缺",
+      "summary": "乌克兰无人机密集袭击俄罗斯炼油厂造成国内柴油短缺，俄政府禁柴油出口。JPM指全球炼油瓶颈从霍尔木兹转向俄罗斯，6月俄开工率降至3.8mb/日，占全球降幅约20%。IEA警告汽柴油供应将短缺。",
+      "bullets": [
+        {
+          "actor": "JPM Natasha Kaneva",
+          "actor_type": "Analyst",
+          "text": "JPM：全球炼油瓶颈从霍尔木兹转向俄罗斯",
+          "details": "JPM Natasha Kaneva：全球炼油瓶颈正从霍尔木兹海峡转向俄罗斯。乌克兰的无人机袭击已从偶发性骚扰升级为战略性打击，重点针对俄罗斯炼油厂中复杂的二次转化装置（如加氢裂化器、催化裂化器）。6月俄罗斯炼油开工率降至3.8 mb/日，较年初下降1.5 mb/日，占今年全球炼油开工率下降总量（8.2 mb/日）的约20%",
+          "important": true
+        },
+        {
+          "actor": "俄罗斯政府",
+          "actor_type": "Foreign-Gov",
+          "text": "乌无人机袭击致俄国内柴油短缺，俄禁柴油出口",
+          "details": "乌克兰无人机近期密集袭击俄罗斯炼油厂，导致俄罗斯国内出现柴油短缺。俄罗斯政府因此禁止柴油出口",
+          "important": false
+        },
+        {
+          "actor": "IEA/FT",
+          "actor_type": "新闻",
+          "text": "IEA警告汽柴油将短缺",
+          "details": "FT报道国际能源署警告称，由于中东和俄罗斯的炼油厂受到战争影响，汽油和柴油供应将出现短缺",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "FT",
+        "JPM"
+      ],
+      "date": "2026-07-10",
+      "image_urls": []
+    },
+    {
+      "id": "japan-gpif-jpy-jul10",
+      "topic": "日本",
+      "topic_tag": "rates",
+      "title": "日本财务相拟推养老金加配日资产，日元走强",
+      "summary": "日本财务大臣片山表示政府考虑鼓励投资者增持国内证券，聚焦规模1.8T美元的GPIF等养老基金加大日本金融资产配置，消息推动日元上涨。",
+      "bullets": [
+        {
+          "actor": "片山（日本财务相）",
+          "actor_type": "Foreign-Gov",
+          "text": "日本拟引导1.8T美元GPIF增配国内资产，日元上涨",
+          "details": "日本财务大臣片山表示，政府正在考虑如何鼓励投资者购买更多国内证券，消息一出，日元应声上涨。政府正寻求鼓励包括规模达 1.8T美元的日本政府养老基金（GPIF）在内的养老基金加大对日本金融资产的投资",
+          "important": true
+        },
+        {
+          "actor": "中国",
+          "actor_type": "Foreign-Gov",
+          "text": "中国首次实现轨道级可重复使用助推器海上回收",
+          "details": "中国首次成功实现轨道级可重复使用助推器海上回收",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-07-10",
+      "image_urls": []
+    },
+    {
+      "id": "ai-capex-memory-jul10",
+      "topic": "AI资本开支与存储",
+      "topic_tag": "ai",
+      "title": "Meta算力翻倍至14GW，Anthropic ARR 69B，存储超级周期",
+      "summary": "Meta明年算力翻倍至14GW并9月投产自研Iris芯片；Anthropic ARR升至69B，日均增幅从400M增至550M；MiniMax拟融资2B，腾讯洽购Manus最大股东。GS存储/ABF/CCL等紧供需强化超级周期，Micron 2027净利润预计180B超过去35年总和，H1 SNDK+857.8%领涨SPX。",
+      "bullets": [
+        {
+          "actor": "Meta/路透",
+          "actor_type": "Corporate",
+          "text": "Meta明年算力翻倍至14GW，9月投产自研Iris AI芯片",
+          "details": "路透社援引一份内部备忘录报道，Meta明年将把算力容量翻倍至14GW（Meta今年年底的算力容量可能在7-8GW左右），并于 9 月开始生产其自主研发的 Iris AI 芯片",
+          "important": true
+        },
+        {
+          "actor": "Yipit/Anthropic",
+          "actor_type": "Analyst",
+          "text": "Yipit：Anthropic ARR升至69B，日均增幅400M→550M",
+          "details": "Yipit 估计 Anthropic 的年度经常性收入（ARR）已增至 69B。报告还指出，与 5 月份相比，ARR 的月度环比增长速度加快，日均增幅从约400M增至550M",
+          "important": false
+        },
+        {
+          "actor": "SK海力士",
+          "actor_type": "Corporate",
+          "text": "SK海力士美国上市，265亿美元发行，杠杆ETF跟进",
+          "details": "SK 海力士周五在美国上市，此前该公司完成了 265 亿美元的股票发行。此次上市将是对投资者信心的关键考验，检验他们对人工智能繁荣能否持续的信心。此前，半导体股票近期出现回调。发行了近1.78亿ADR，为外国公司首次在美大规模股票发行。ProShares、Leverage Shares、Rex Shares等准备推出最高2倍日回报的杠杆产品及反向产品，至少6个产品下周上市；Rex Shares的Francis Oh称此举满足全球投资者对SK海力士直接投资的压抑需求。",
+          "important": false
+        },
+        {
+          "actor": "腾讯/MiniMax",
+          "actor_type": "Corporate",
+          "text": "腾讯洽谈成为Manus最大股东；MiniMax拟融2B",
+          "details": "据路透社消息人士透露，腾讯正洽谈成为 Manus 的最大股东。中国人工智能公司 MiniMax 宣布计划通过股票配售和可转换债券发行筹集 2B",
+          "important": false
+        },
+        {
+          "actor": "GS Shamshad Ali",
+          "actor_type": "Analyst",
+          "text": "GS：24年以来AI相关债券已发>600B，收益率6-8%",
+          "details": "GS Shamshad Ali：自2024年以来，已发行超过$600B的AI相关债务。其中，约$90B为IG和HY数据中心建设joint-venture（成立合资企业，即PC的ABF）发行。尽管不同交易的结构条款存在显著差异，但投资者目前将这些债券视为同质化群体进行交易。收益率集中在6%-8%的区间",
+          "important": false
+        },
+        {
+          "actor": "GS Megan Peters",
+          "actor_type": "Analyst",
+          "text": "GS：AI年底将推高核心PCE 0.5pp",
+          "details": "GS Megan Peters：AI通过内存、软件和电力价格三大渠道显著推高美国核心PCE通胀，预计年底贡献将达0.5%",
+          "important": false
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS供需热力图：存储/ABF/CCL持续极紧，可能扩至模拟/功率/硅片",
+          "details": "GS供需热力图（6月更新）：DRAM 2026 250-300%/300-350%全季very tight；NAND 200-250%/250-300%持续tight；ABF Substrate 30-60%持续very tight；CCL 35-60% very tight；PCB 20-35% tight；Optical Devices/Cables tight；Analog/Power Semis及Silicon Wafer趋紧扩散（除中国）。E-Glass等更持久紧供需。",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg/Micron",
+          "actor_type": "新闻",
+          "text": "Micron 2025净利润~80B、2027预计~180B，超过去35年合计",
+          "details": "图表：Memory Firm Micron Is Making More Money Than Ever Before —This year's profit will likely exceed the past 35 years combined。2025预估~80B，2027预估~180B。财年8月结束，2026/2027为分析师一致预期。",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "SPX上半年领涨榜：SNDK+857.8%、MU+304%、INTC+278%",
+          "details": "20 Best Performing S&P 500 Stocks in First Half（YTD Thru 6/4/26）：SNDK 857.8%、MU 304.4%、INTC 278.4%、WDC 270.8%、MRVL 250.5%、STX 250.4%、DELL 242.8%、NVDA 191.7%、AMAT 181.3%、AMD 171.3%、FLEX 168.2%、LRCX 153.1%、TER 150.0%、KLAC 148.3%、MRNA 137.5%、LITE 132.8%、GNRC 114.7%、COHR 113.7%、FIX 112.4%、CINA 109.8%。平均去年同期-17.0%。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "DB图：SPX半导体/软件相对总回报比自1990以来创新高至~6",
+          "details": "Figure 1: S&P 500 semiconductors & equipment relative to software & services, total returns ratio, since 1990 (=1)。1990-2020长期区间1-2.5，2002峰值2.7；2023起急速上行，2024-2026近乎垂直攀升至~6。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "META",
+        "NVDA",
+        "MU",
+        "SNDK",
+        "WDC",
+        "MRVL",
+        "STX",
+        "DELL",
+        "INTC",
+        "AMAT",
+        "AMD",
+        "LRCX",
+        "TER",
+        "KLAC",
+        "LITE",
+        "COHR",
+        "AVGO"
+      ],
+      "image_indexes": [
+        3,
+        4,
+        5,
+        7,
+        8
+      ],
+      "importance": 3,
+      "sources": [
+        "Reuters",
+        "Yipit",
+        "GS",
+        "DB",
+        "Bloomberg"
+      ],
+      "date": "2026-07-10",
+      "image_urls": [
+        "/uploads/2026-07-10/10e42f769e4d.jpg",
+        "/uploads/2026-07-10/8fea7c5f0136.png",
+        "/uploads/2026-07-10/2d937435a6a5.png",
+        "/uploads/2026-07-10/6322484ee61c.png",
+        "/uploads/2026-07-10/866bae15ae84.png"
+      ]
+    },
+    {
+      "id": "gpu-rental-jul10",
+      "topic": "GPU租赁价格",
+      "topic_tag": "ai",
+      "title": "算力租金曲线整体上移+backwardation加剧",
+      "summary": "H100/B200租金指数走高，B200近5.81、H100近2.67，Blackwell美国指数5.08；7月至今GPU租金上涨5-10%（新一代主导）；期限曲线整体上移且远端贴水更陡。",
+      "bullets": [
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "算力曲线整体上移+远端贴水加剧，租金滞后于供应几周",
+          "details": "Warren Pies：算力租赁曲线Whole curve shifts up + steepening backwardation，计算市场持续趋紧，而且租金往往比实际供应情况滞后几周",
+          "important": true
+        },
+        {
+          "actor": "Liz Thomas",
+          "actor_type": "KOL",
+          "text": "7月至今GPU租金已涨5-10%（新一代领涨）",
+          "details": "Liz Thomas：GPU rental rates are up 5-10% so far in July (led by the newer gens)",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg/Silicon Data",
+          "actor_type": "新闻",
+          "text": "Silicon Data租赁指数：B200 5.81、H100 2.67、A100 1.65",
+          "details": "Silicon Data A100 Rental Index 1.6500；H100 Rental Index 2.6700；B200 On-Demand Rental Index (Non-Hyperscale) 5.8100；Compute Desk Hopper US Index (H100/H200) 2.7388；Compute Desk Blackwell US Index (B200/B300/GB200/GB300) 5.0822（2026-07-09）。H100租金Term Rate曲线自2024年末起整体下移后近期上翘。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "image_indexes": [
+        0,
+        1
+      ],
+      "importance": 2,
+      "sources": [
+        "Bloomberg",
+        "Silicon Data"
+      ],
+      "date": "2026-07-10",
+      "image_urls": [
+        "/uploads/2026-07-10/60a341b714d4.jpg",
+        "/uploads/2026-07-10/142a8754d196.jpg"
+      ]
+    },
+    {
+      "id": "buyside-kol-ai-jul10",
+      "topic": "买方/KOL观点",
+      "topic_tag": "ai",
+      "title": "Apollo警告AI巨头拖累经济；模型价格战与周期怀疑升温",
+      "summary": "Apollo担心AI回报滞后+资本开支按计划兑现将挤压利润率并引发七巨头抛售、信用风险上升；Apollo数据显示中国AI模型份额和token使用量6月已反超美国（98T vs 53T）。多位KOL对存储周期后期与Meta免费API价格战提出警惕。",
+      "bullets": [
+        {
+          "actor": "Apollo/Daily Spark",
+          "actor_type": "Analyst",
+          "text": "Apollo：若AI回报晚于预期，七巨头抛售可能引发衰退+SPX回调",
+          "details": "如果人工智能带来的回报比第一张图表中预期的要慢，预计的自由现金流激增在后期出现，而承诺的资本支出和巨额折旧按计划发生，挤压了利润率，七巨头抛售潮席卷整个市场，资产负债表捉襟见肘，信用风险上升。归根结底，人工智能一直是支撑经济和市场的唯一因素，而由于如此多的利益都寄托在少数几个公司身上，如果回报放缓，这不仅仅是一个行业的问题，还可能导致经济衰退和标普500指数回调。图：一致预期今日AI capex将在2028年后转化为FCF激增（Google/Meta/MSFT/AMZN），2030峰值~450bn+。",
+          "important": true
+        },
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "Apollo：中国模型token使用量6月反超美国（98T vs 53T）",
+          "details": "Apollo两图：(1)世界最常用50个AI模型中，中国份额持续上升挤压美国占比；(2)Top20模型月度token使用—5月中国46T、美国37T；6月中国98T、美国53T，中国显著反超。",
+          "important": false
+        },
+        {
+          "actor": "@BurggrabenH",
+          "actor_type": "KOL",
+          "text": "牛市悲剧：资本周期终会回归，\"这次不一样\"是晚期信号",
+          "details": "牛市的悲剧在于，投资者会说服自己，旧的规则不再适用。这一切只需要了解资本周期即可。高回报会吸引过多的资本，最终因产能过剩而抵消这些回报。低回报则会抑制投资，导致产能退出、供应紧张，盈利能力得以恢复。存储器行业几十年来一直重复着这种模式。宣称\"这次不一样了\"通常标志着周期的后期阶段，而不是新周期的开始",
+          "important": false
+        },
+        {
+          "actor": "Brandon Cral",
+          "actor_type": "KOL",
+          "text": "AI竞赛下模型将更便宜更智能，单位智能所需硬件大幅下降",
+          "details": "Brandon Cral：人工智能之争意味着一件事：模型将变得更便宜、更智能。每单位智能所需的硬件将大大减少。无论是通过微调还是算法创新，它终将到来",
+          "important": false
+        },
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "科技/AI需盘整，更担心韩国存储；Grok 4.5/Spark 1.1挤压AI巨头利润",
+          "details": "short bear：科技板块和AI主题还需要盘整，相比美国更加担心韩国和存储，像 Grok 4.5 和 Spark 1.1 这样的新型更便宜的型号，正在给最大的 AI 公司带来利润压力",
+          "important": false
+        },
+        {
+          "actor": "Mengyu Lan",
+          "actor_type": "KOL",
+          "text": "Meta付费API+低价+尚可agent=价格战信号；扎克伯格让内模团队市场化",
+          "details": "Mengyu Lan：Meta 这次真正厉害的是\"收费 API + 极低价格 + 还不错的 agent 能力\"，不是\"跑分全面超过 OpenAI / Anthropic\"。它更像价格战信号，而不是性能登顶信号，模型性能还没冲上去，Meta就想强行收费了，这等于Zuckerberg对于内部模型团队的耐心已经没了，让他们自己去市场自负盈亏，Zuckerberg对于算力的看法应该很清楚了，所有的事情都市场化：内部模型团队要算力，那就要市场化，算力不在只给内部团队霍霍却没有结果",
+          "important": false
+        },
+        {
+          "actor": "中国政经事实（KOL）",
+          "actor_type": "KOL",
+          "text": "关注MiniMax机会：估值远低于Kimi，开源SOTA有望追赶",
+          "details": "关注minimax机会，原因是grok4.5成功说明有机会追赶开源sota，glm和ds的巨大溢价不太合理；筹码出清充分，估值甚至远低于kimi最新一轮估值；LLM短期还是增长，不到零和的时候",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GOOGL",
+        "META",
+        "MSFT",
+        "AMZN",
+        "NVDA"
+      ],
+      "image_indexes": [
+        6
+      ],
+      "importance": 2,
+      "sources": [
+        "Apollo"
+      ],
+      "date": "2026-07-10",
+      "image_urls": [
+        "/uploads/2026-07-10/e0c6cd89e8af.jpg"
+      ]
+    },
+    {
+      "id": "sellside-macro-jul10",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "小摩全球capex仍近10%、韩元背离、BofA下调美GDP、HSBC测算AI消费者盈余",
+      "summary": "JPM Alex Gallin：2026Q2全球capex仍近10%增速；MS：韩元逆基本面走弱源于外资股票流出；BofA：IEEPA关税退款超70B，Q2 GDP追踪下调至1.4%；HSBC：免费AI工具为美国消费者创造172B盈余，2027或达250B（占支出1.5%）；GS另图显示资本密集板块折价收窄。",
+      "bullets": [
+        {
+          "actor": "BofA Stephen Juneau",
+          "actor_type": "Analyst",
+          "text": "BofA：IEEPA退款>70B构成通缩因素，Q2 GDP追踪下调至1.4%",
+          "details": "Bofa Stephen Juneau：IEEPA关税退款加速，5-6月已退超70B，预计夏季末完成大部分退款，构成适度通缩因素。受净出口和库存拖累，美国二季度GDP追踪预估下调至1.4%",
+          "important": true
+        },
+        {
+          "actor": "JPM Alex Gallin",
+          "actor_type": "Analyst",
+          "text": "JPM：全球capex 2026Q2年化增速近10%",
+          "details": "JPM Alex Gallin：全球Capex在2026年第二季度保持强劲增长势头，年化增长率接近10%",
+          "important": false
+        },
+        {
+          "actor": "MS Gek Teng Khoo",
+          "actor_type": "Analyst",
+          "text": "MS：韩元逆基本面走弱，外资股票流出+出口商结汇滞后",
+          "details": "MS Gek Teng Khoo：尽管韩国经常账户盈余创纪录、GDP增长强劲、股市表现全球领先且贸易条件改善，韩元仍是年初至今亚洲表现最差的货币之一。这种背离主要由外国投资者的大量股票流出以及出口商外汇兑换滞后所致",
+          "important": false
+        },
+        {
+          "actor": "HSBC",
+          "actor_type": "Analyst",
+          "text": "HSBC：免费AI工具为美消费者创造172B盈余，2027或250B",
+          "details": "HSBC：免费AI工具正为美国消费者创造巨额盈余。2026年初该盈余达172B，预计2027年将升至250B，占美消费者支出1.5%。74%的年轻人为主要受益群体，节省资金或流向娱乐、服装及餐饮领域，发达市场获益显著高于新兴市场",
+          "important": false
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS：资本密集vs轻资本板块折价收窄，DM capex/销售比反弹至~8%",
+          "details": "Exhibit 3：新一轮capex周期利多资本密集板块。欧洲Capital Intensive vs Capital Light 12月前瞻P/E折价从'22-'23的-45%回升至近0%；DM CAPEX-to-Sales比从'23的5.8%反弹至'26的~8.0%。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 2,
+      "sources": [
+        "JPM",
+        "MS",
+        "BofA",
+        "HSBC",
+        "GS"
+      ],
+      "date": "2026-07-10",
+      "image_urls": [
+        "/uploads/2026-07-10/673774a381d1.png"
+      ]
+    },
+    {
+      "id": "other-misc-jul10",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "Polymarket申请保证金交易；SPX VIX期限结构",
+      "summary": "Polymarket申请美国监管批准提供保证金交易服务；SPX当前IV位于10-90分位区间下沿（今日8.65%）。",
+      "bullets": [
+        {
+          "actor": "Polymarket",
+          "actor_type": "Corporate",
+          "text": "Polymarket申请美监管批准，提供保证金交易服务",
+          "details": "Polymarket 正寻求监管部门批准其在美国提供保证金交易服务。此举将允许用户以较少的预付资金进行投注，并有助于该预测市场平台吸引更多经验丰富的交易者",
+          "important": true
+        },
+        {
+          "actor": "SPX期权",
+          "actor_type": "新闻",
+          "text": "SPX IV期限结构：今日8.65%位于10分位(9.09%)下方",
+          "details": "SPX Volatility Term Structure（2026-07-10 7:44 AM）：Expiration Date 2026-07-13，10th pct 9.09%、90th pct 18.61%、Today 8.65%。曲线从近端~5.65%上行至远端~12.65%+，隐含事件包括CPI、Manufacturing Index等。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        9
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-07-10",
+      "image_urls": [
+        "/uploads/2026-07-10/6153ac92d733.png"
+      ]
+    }
+  ]
+}
