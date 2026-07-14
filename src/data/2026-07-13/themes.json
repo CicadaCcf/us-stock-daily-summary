@@ -1,0 +1,283 @@
+{
+  "themes": [
+    {
+      "id": "ai-infoflow-0706-0712",
+      "theme": "AI",
+      "title": "AI信息流总结 7/6-7/12",
+      "date_range": "7/6-7/12",
+      "summary": "Anthropic ARR加速（6月底约$60-69B，年底看$120B），但企业端出现\"专有/开源模型 + routing\"分流的空头声音；供给侧OAI GPT-5.6打平Anthropic并降价，二线模型catch up至可用水平，价格战与margin压缩成一致预期，RSI进展初期主要用于加速研究员。",
+      "tickers": [
+        "MSFT",
+        "META"
+      ],
+      "date": "2026-07-13",
+      "groups": [
+        {
+          "label": "ARR",
+          "entries": [
+            {
+              "source": "Semi Analysis",
+              "source_type": "",
+              "points": [
+                "Anthropic 6月底$60B, 预计下半年维持月净新增ARR（NNARR）为$10B/月, 年底预计$120B，随着网络安全、医疗、金融垂直用例的拓展，2027年NNARR预计$15B/月，年底预计$300B."
+              ],
+              "important": true
+            },
+            {
+              "source": "Yipit",
+              "source_type": "",
+              "points": [
+                "Anthropic 6月底$69B，OAI 6月底$42B*Yipit样本量很小，数据还原度较差，仅作为多头乐观预期的参考"
+              ],
+              "important": false
+            }
+          ]
+        },
+        {
+          "label": "需求",
+          "entries": [
+            {
+              "source": "企业应用 - 空头概述",
+              "source_type": "",
+              "points": [
+                "空头：企业偏向于开源&更便宜的模型，能解约企业支出和控制数据隐私"
+              ],
+              "important": false
+            },
+            {
+              "source": "Satya Nadella",
+              "source_type": "MSFT CEO",
+              "points": [
+                "呼吁企业不能单纯依赖frontier AI lab，会有企业IP泄露被AI lab垂直整合的风险。呼吁企业控制自己的企业知识，部署专有模型、建立routing层，这样才能降本且保护自己的知识产权"
+              ],
+              "important": false
+            },
+            {
+              "source": "Bridgewater&Thinking Machine lab合作论文",
+              "source_type": "",
+              "points": [
+                "对企业内部高价值、窄任务来说，专家标注数据 + 组织专有判断 + fine-tuned open-weight model，可能比直接调用最贵 frontier model 更准也更便宜"
+              ],
+              "important": false
+            },
+            {
+              "source": "Aravind Srinivas",
+              "source_type": "PPLX CEO",
+              "points": [
+                "the real product is now the harness around it: orchestration, tools, enterprise context, and cost performance. post-frontier AI race is about systems, not just the smartest model"
+              ],
+              "important": false
+            },
+            {
+              "source": "Peter Fenton",
+              "source_type": "Benchmark GP",
+              "points": [
+                "90%+ of tokens could  come from open weight models in the next 18-24 months, pressuring frontier model margins."
+              ],
+              "important": false
+            },
+            {
+              "source": "Chamath Palihapitiya",
+              "source_type": "All in Podcast",
+              "points": [
+                "企业现在 token spend 增长太快且体量已经很大，实际生产力提升可能只有5%，ROI 迟早会被 CFO 追问。很多公司会发现 frontier model 的边际收益开始收窄，然后转向更便宜的 open model、routing、专用模型"
+              ],
+              "important": false
+            },
+            {
+              "source": "Yuchen Jin",
+              "source_type": "Databricks 工程师",
+              "points": [
+                "认为GPT5.6，Fable 5和GLM 5.2在日常用例上使用上无区别，*没有必要在非复杂任务上使用sota模型"
+              ],
+              "important": false
+            },
+            {
+              "source": "Lisan",
+              "source_type": "Lisanbench，一个模型基准测试平台的开发者",
+              "points": [
+                "Sonnet 5 goes straight into the garbage bin, *模型要么是SOTA能力够强，非SOTA模型只能卷价格，中间模型无意义"
+              ],
+              "important": false
+            },
+            {
+              "source": "企业应用 - 多头概述",
+              "source_type": "",
+              "points": [
+                "多头：头部模型可靠性有溢价，二线模型catch up整体需求仍然是高速上涨，routing工程难度高，迁移慢，短时间无法对frontier AI lab造成有效冲击"
+              ],
+              "important": false
+            },
+            {
+              "source": "Matt Shumer",
+              "source_type": "AI投资人",
+              "points": [
+                "GPT 5.6 Sol删除了电脑所有文件，可靠性不足、因此fable仍然无可取代。*这只是一个dp, 如果这类安全事故频发，Anthropic的安全可靠性可以帮助维持其模型溢价"
+              ],
+              "important": false
+            },
+            {
+              "source": "Feldman",
+              "source_type": "Cerebras CEO, All in访谈",
+              "points": [
+                "需求是 booked 的、不是投机的——$25B backlog,全行业在\"追赶昨天的需求\"",
+                "企业从tokenmaxxing转向预算缩减像是Costco 早期的学习曲线,是 cost optimization，不代表 adoption 放缓"
+              ],
+              "important": false
+            },
+            {
+              "source": "Jesse Zhang",
+              "source_type": "Decagon AI CEO, Decagon给企业做\"能自动处理客户问题的 AI 客服\"",
+              "points": [
+                "企业 AI 部署正呈现明确的\"分层\"演进：不成熟的新用例优先用SOTA模型探索未知，而一旦用例走向成熟，则会迅速迁移到小巧快捷的微调开源模型。然而，由于当前新用例的爆发速度远超成熟用例的沉淀速度，才导致目前企业的整体核心支出依然流向了frontier lab"
+              ],
+              "important": true
+            },
+            {
+              "source": "Brad Gerstner/David Sachs",
+              "source_type": "All in podcast",
+              "points": [
+                "便宜模型会吃掉成熟、低价值、明确任务；但在探索型、高复杂、高失败成本任务上，企业仍会买frontier model。因为 $3 vs $15 的 token 成本，相比替代高级工程师/顾问的价值，根本不算贵",
+                "Brad转述Nikesh Arora（PANW CEO) 提到企业希望有 \"model fungibility\"，也就是可以把模型商品化、按任务切换到最便宜且够用的模型。但问题是：memory、context、history 怎么从一个模型抽离并迁移到另一个模型保持较好的效果，还没人完全解决"
+              ],
+              "important": false
+            },
+            {
+              "source": "新场景 - 金融",
+              "source_type": "",
+              "points": [
+                "Bridgewater和Thinking machine合作，让模型做金融信息筛选，达到85%准确率，能替代 junior 工作中的一部分\"信息分拣/打标签/初筛/截断/归类\"劳动，暂时不能完整替代 junior analyst",
+                "*目前还是探索用例为主的早期阶段，暂无进入大规模adoption的迹象"
+              ],
+              "important": false
+            },
+            {
+              "source": "新场景 - 网安、医疗、AI for science",
+              "source_type": "",
+              "points": [
+                "暂无边际更新"
+              ],
+              "important": false
+            }
+          ]
+        },
+        {
+          "label": "供给",
+          "entries": [
+            {
+              "source": "模型能力 - coding概述",
+              "source_type": "",
+              "points": [
+                "OAI和Anthropic SOTA模型打平，第二梯队能力catch up至实际可用水平, 竞争加剧逼迫frontier lab放松限额，重置额度以争夺用户",
+                "OAI发布GPT-5.6系列模型（Sol/Terra/Luna 三档），*5.6 Sol benchmark跑分超过Fable，成本仅为Fable一半（对齐OAI自己上一代SOTA成本）",
+                "Meta发布Muse spark 1.1, SPCX发布Grok 4.5, 模型能力均对标opus, 达到可用水平"
+              ],
+              "important": true
+            },
+            {
+              "source": "Karan Singhal",
+              "source_type": "OAI 健康AI负责人",
+              "points": [
+                "在偏向于真实案例的测试中（临床咨询/病例管理、文档撰写、医学证据研究），GPT 5.6打败人类专科医生",
+                "*仍然是模型能力在医疗垂类进步的信号，中期空间打开需要监管端推进"
+              ],
+              "important": false
+            },
+            {
+              "source": "Ethan Knight",
+              "source_type": "OAI researcher",
+              "points": [
+                "GPT 5.6把一个 50 年图论猜想，压缩成\"已有流理论 + 一个巧妙的线性代数标签构造\"，而这个关键构造可能是 AI 通过大规模并行试错找到的",
+                "*结论尚未被数学界承认已解决，目前缺乏同行评议或形式化证明。若此证明有效，模型对科研的帮助进入AI能够从已有理论空间里主动搜索、组合、试错，提出可被专家检验的新证明候选"
+              ],
+              "important": false
+            },
+            {
+              "source": "模型能力上限突破（RSI进展)概述",
+              "source_type": "",
+              "points": [
+                "AI lab开始披露RSI的进展为上市造势，但目前RSI实际进展还很初期，以加速研究员进度为主，距离理想状态可以自改进参数距离较远"
+              ],
+              "important": false
+            },
+            {
+              "source": "Anthropic",
+              "source_type": "",
+              "points": [
+                "发布J-space研究，主要是为后续可观测并信任AI自我迭代打基础，详情参考post"
+              ],
+              "important": false
+            },
+            {
+              "source": "Jason Liu",
+              "source_type": "OAI researcher",
+              "points": [
+                "GPT 5.6 Luna的post train部分由GPT 5.6 Sol完成",
+                "*模型更接近在成熟内部RL infra上，用简短 prompt 跑通/适配一段 post-train 流程，而不是端到端自主研发训练系统"
+              ],
+              "important": false
+            },
+            {
+              "source": "唐杰",
+              "source_type": "zhipu CEO",
+              "points": [
+                "zhipu内部memo泄露，唐杰坚持开源路线，且坚定要集中资源做RSI"
+              ],
+              "important": false
+            },
+            {
+              "source": "Lilian Weng",
+              "source_type": "ex OAI researcher",
+              "points": [
+                "harness有助于帮助AI在白领任务完成度上实现自我改进（初级RSI），但是距离自主改参数还很远"
+              ],
+              "important": false
+            },
+            {
+              "source": "竞争格局与定价概述",
+              "source_type": "",
+              "points": [
+                "竞争加剧，目前AI lab呈现两超多强格局，frontier lab靠放宽限额吸引用户，二线模型厂靠低价争夺客户，价格战激烈，margin 压缩正在成为一致预期"
+              ],
+              "important": false
+            },
+            {
+              "source": "Tibo",
+              "source_type": "OAI codex负责人",
+              "points": [
+                "暂时取消5h限额，为所有人用量重置"
+              ],
+              "important": false
+            },
+            {
+              "source": "Anthropic（定价）",
+              "source_type": "",
+              "points": [
+                "重置一周额度，拓展Fable access至7/19",
+                "*受到GPT 5.6发布威胁，当天用量重置，拓展Fable access也是应对威胁的手段"
+              ],
+              "important": false
+            },
+            {
+              "source": "Mark Zuckerberg",
+              "source_type": "",
+              "points": [
+                "Muse Spark定价顶级模型 25%",
+                "The pricing from some of the other labs is very extreme and has very high margins，We think that there's a real ability to be able to offer frontier or very high-level intelligence at a much more affordable cost"
+              ],
+              "important": false
+            },
+            {
+              "source": "Aravind Srinivas",
+              "source_type": "PPLX CEO",
+              "points": [
+                "Aravind 称grok 4.5 computer use case相关benchmark综合表现最好，但定价约 Opus 4.8 半价，适合主力使用"
+              ],
+              "important": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

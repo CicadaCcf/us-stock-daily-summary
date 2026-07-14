@@ -1,0 +1,491 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊霍尔木兹危机升级：停火终结、阿曼谈判、CENTCOM二轮打击",
+      "summary": "特朗普宣布美伊停火协议已结束，威胁若遭暗杀将以1000枚导弹打击伊朗全境；同时美伊在阿曼马斯喀特举行11小时谈判，围绕霍尔木兹海峡重开、伊朗承认袭击商船为强硬派'失误'展开。CENTCOM本周已对伊朗发起第二、三轮打击，海峡关闭但阿曼南部航道仍开放；海湾国家集体谴责伊朗袭击，以色列寻求特朗普授权重启对伊袭击。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普宣布美伊停火已结束，伊朗要求继续谈判",
+          "details": "特朗普：伊朗伊斯兰共和国要求我们继续进行'谈判'，我们同意了，但美国已明确告知他们停火协议已经结束；'我们达成了协议，但他们撕毁了，我们昨天与伊朗人举行了长达11个小时的会谈，美国将捍卫霍尔木兹海峡，并期望获得回报'。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普威胁若遭暗杀将以1000枚导弹夷平伊朗",
+          "details": "特朗普称若伊朗政府实施或试图实施暗杀美国总统的威胁，已下令1000枚导弹锁定并准备摧毁伊朗所有区域；若遭暗杀已留下明确指令对伊朗发动前所未有轰炸行动。此外特朗普与沙特王储MBS通话，讨论美伊谈判及霍尔木兹局势。",
+          "important": false
+        },
+        {
+          "actor": "白宫团队",
+          "actor_type": "US-Executive",
+          "text": "阿曼谈判：白宫要求伊朗公开承认袭击商船为'失误'",
+          "details": "伊朗外长Aragchi周六抵达马斯喀特，Trump已指示团队（JD Vance、Jared Kushner、Steve Witkoff、Marco Rubio）继续推进阿曼谈判。伊朗官员私下向特朗普顾问表示，霍尔木兹海峡攻击商船是'失误'的强硬派分支所为，旨在破坏谈判，他们希望继续对话；白宫要求伊朗公开承认这一错误。",
+          "important": false
+        },
+        {
+          "actor": "阿曼",
+          "actor_type": "Foreign-Gov",
+          "text": "阿曼提议重开海峡两条航道，伊朗代表团带回德黑兰讨论",
+          "details": "美伊在阿曼马斯喀特举行霍尔木兹海峡相关谈判，区域外交官会谈结束。阿曼提议重新开放海峡两条航道，南部航道（靠近阿曼领海）无需事先批准，恢复战前通行规则。伊朗代表团未在当地批准提案，带回德黑兰内部讨论。美国和伊朗预计将于下周举行新一轮会谈，地点可能在瑞士，伊朗否认计划与美国举行会谈。",
+          "important": false
+        },
+        {
+          "actor": "美方",
+          "actor_type": "US-Executive",
+          "text": "美方对伊朗设7月11日最后期限：公开声明海峡开放",
+          "details": "美方对伊朗设7月11日最后期限：要求伊朗公开声明霍尔木兹海峡开放、承诺立即停止对商船攻击，否则将面临'严重后果'，期望谈判后海峡恢复战前状态；美方称伊朗私下将攻击归咎于'系统故障部件'或'硬线派系错误'，表示攻击是'错误'，并表达继续谈判意愿。",
+          "important": false
+        },
+        {
+          "actor": "Pete Hegseth",
+          "actor_type": "US-Executive",
+          "text": "国防部长：伊朗做了糟糕选择，现在要付出代价",
+          "details": "美国国防部长Pete Hegseth：'Iran made a poor choice. Now they pay.' CENTCOM表示：伊朗不控制霍尔木兹海峡，它是国际水道；美国部队已就位并准备维持开放。",
+          "important": false
+        },
+        {
+          "actor": "CENTCOM",
+          "actor_type": "US-Executive",
+          "text": "CENTCOM本周三轮打击伊朗，Khondab核设施或首次被击",
+          "details": "CENTCOM于7月11日晚7:15 ET启动本周第三轮对伊朗打击，称IRGC公然攻击商船违反MoU；美国将继续施加重代价，主要目标为空中和水面监视雷达、导弹与无人机存储设施、发射场、地对空导弹发射器。7月12日晚启动新一轮打击，针对军事目标，重点削弱霍尔木兹海峡威胁能力，已确认多地爆炸与打击，Khondab（核相关设施）据报可能为自停火以来首次打击目标。",
+          "important": false
+        },
+        {
+          "actor": "Mojtaba Khamenei",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗'最高领袖'誓言为烈士复仇，追责美以",
+          "details": "伊朗'最高领袖Mojtaba Khamenei'发声：伊朗将继续坚持已故最高领袖阿里·哈梅内伊的政治路线，维护国家独立和主权，不会因领导人遇难而改变既定政策方向；誓言为两位战争的烈士和'殉道领袖'复仇，罪犯（指美以等）将不得善终，对美以追责是伊朗人民的共同要求，这一目标不会因领导层变化而改变，不久之后世界各地热爱自由的人们都将各自承担起这项神圣使命的一部分。",
+          "important": false
+        },
+        {
+          "actor": "伊朗外交部",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗：不主动求谈但接受调解，指美方违反MoU",
+          "details": "伊朗外交部发言人巴盖伊：伊朗不寻求与美国进行谈判，但接受调解人访问德黑兰。Aragchi访问阿曼将重点讨论霍尔木兹海峡和海上安全问题，伊朗与阿曼将合作确保船舶安全通过。美国对伊朗发动袭击、撤销石油制裁豁免并实施新的制裁，违反了MoU；若对方违背承诺伊朗将不再受其自身承诺约束。此外伊朗接受了卡塔尔调解人访问马什哈德讨论当前局势的请求，强调'承诺对承诺'原则。伊朗最高国家安全委员会秘书佐尔加德尔警告：任何对伊朗基础设施的袭击都将遭到对等回应。伊朗和阿曼苏丹国同意继续对话以就霍尔木兹海峡航行安全达成谅解。",
+          "important": false
+        },
+        {
+          "actor": "伊朗最高联合军事指挥部",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗军方：美未经授权通过海峡将遭强烈反对",
+          "details": "伊朗最高联合军事指挥部：如果战争扩大，将波及该地区所有国家，责任在于我们及其盟友，任何美国未经伊朗授权试图通过霍尔木兹海峡的行为都将遭到强烈反对。",
+          "important": false
+        },
+        {
+          "actor": "IRGC",
+          "actor_type": "Foreign-Gov",
+          "text": "IRGC宣布海峡关闭，攻击塞浦路斯旗集装箱船",
+          "details": "IRGC警告船只勿使用'未经授权'航道，称对未改道船只发射'警告射击'；事后宣布霍尔木兹海峡关闭直至进一步通知，且美国干预结束前不允许任何船只通过。伊朗革命卫队攻击塞浦路斯旗集装箱船（M/V GFS Galaxy），导致船上起火、机舱严重损坏，一名平民船员失踪，船只无法继续航行，被击船只使用阿曼提议开放的南部航道。伊朗霍尔木兹海峡管理机构表示，由于美国非法行动，目前无法通过该海峡，一旦局势立即恢复稳定与平静，所有申请都将进行审查，并颁发必要的许可证。",
+          "important": false
+        },
+        {
+          "actor": "JMIC",
+          "actor_type": "Unknown",
+          "text": "JMIC：阿曼南部走廊仍开放，可供商业通行",
+          "details": "联合海事信息中心（JMIC）发布新公告，称尽管伊朗昨天宣布霍尔木兹海峡关闭，但美国建立的途经阿曼水域的南部过境走廊仍然开放，可供所有商业交通使用。卡塔尔交通部已要求船舶和船只所有者暂时停止航行和作业，直至另行通知。",
+          "important": false
+        },
+        {
+          "actor": "海湾国家",
+          "actor_type": "Foreign-Gov",
+          "text": "卡塔尔/科威特/约旦/阿曼/沙特齐声谴责伊朗袭击",
+          "details": "卡塔尔外交部'以最强烈的措辞谴责伊朗伊斯兰共和国的再次袭击'，点名对约旦、阿联酋、巴林、阿曼和科威特的攻击，将这轮齐射定性为'危险升级'，保留根据国际法和《联合国宪章》作出回应的全部权利。科威特外交部对'恶劣的伊朗袭击'表示最强烈谴责和斥责。约旦外交部：谴责伊朗对阿联酋、巴林、阿曼、卡塔尔和科威特的野蛮袭击，公然侵犯约旦国家主权。阿曼谴责并痛斥此次袭击，强调已将一切必要措施提上日程。沙特外交部以'最强烈措辞'谴责伊朗持续破坏地区安全与稳定的行为，称其违反国际法原则、《联合国宪章》、伊斯兰合作组织宪章及睦邻原则。",
+          "important": false
+        },
+        {
+          "actor": "以色列",
+          "actor_type": "Foreign-Gov",
+          "text": "以色列寻求特朗普授权立即恢复对伊袭击",
+          "details": "以色列高级官员向CNN透露，以色列正在寻求特朗普的授权，以便立即恢复对伊朗的袭击。以色列还对黎巴嫩南部Sour区Al-Mansouri镇发动空袭。",
+          "important": false
+        },
+        {
+          "actor": "WSJ/WS",
+          "actor_type": "新闻",
+          "text": "WSJ：美伊核协议前景消退；WS：伊朗强硬派蓄意升级",
+          "details": "WSJ报道：美国高级官员称与伊朗核协议前景正在消退，对外交能否约束德黑兰核计划存疑。WS发文称，经历了2月至4月间长达40天的全面冲突后，伊朗自视已崛起为地区霸主，对伊朗政权而言，永久控制霍尔木兹海峡并主导波斯湾经济，其重要性远超过美国提供的数百亿美元制裁解除；伊朗内部多个争夺权力的强硬派派系极其反对与美国达成妥协，他们蓄意推动冲突升级。",
+          "important": false
+        },
+        {
+          "actor": "@tleilax___",
+          "actor_type": "KOL",
+          "text": "KOL：IRGC 34名指挥官不受哈梅内伊作战命令约束",
+          "details": "@tleilax___：伊朗对其沿海部分军事力量缺乏控制，一些失控部队向船只开火，导致停火协议遭到违反，IRGC共有34名指挥官，他们在作战上不受哈梅内伊的命令约束。",
+          "important": false
+        },
+        {
+          "actor": "Serenity",
+          "actor_type": "KOL",
+          "text": "KOL调侃：霍尔木兹海峡今年似乎第50次开放",
+          "details": "Serenity：根据特朗普的说法，霍尔木兹海峡今年似乎第50次开放了。看宏观方面的内容都看腻了。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "USO",
+        "XLE",
+        "BNO"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "CNN",
+        "Politico"
+      ],
+      "date": "2026-07-13",
+      "image_urls": []
+    },
+    {
+      "id": "ukraine-siberia-strike",
+      "topic": "俄乌",
+      "topic_tag": "geo",
+      "title": "乌克兰无人机开始袭击西伯利亚能源设施",
+      "summary": "乌克兰将无人机打击范围延伸至西伯利亚能源设施，标志战线纵深进一步延伸。",
+      "bullets": [
+        {
+          "actor": "乌克兰军方",
+          "actor_type": "Foreign-Gov",
+          "text": "乌军无人机开始袭击西伯利亚能源设施",
+          "details": "乌克兰无人机开始炸位于西伯利亚的能源设施。",
+          "important": true
+        },
+        {
+          "actor": "Lindsey Graham 相关",
+          "actor_type": "US-Congress",
+          "text": "Lindsey Graham 去世",
+          "details": "美国参议员 Lindsey Graham 去世。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-07-13",
+      "image_urls": []
+    },
+    {
+      "id": "fed-hike-repricing",
+      "topic": "Fed加息预期",
+      "topic_tag": "fed",
+      "title": "市场定价Fed 7月加息概率35%，GS看历史首次加息前SPX承压",
+      "summary": "市场目前定价Fed 7月加息概率35%，到2027年中期累计加息近50bps；GS预计Fed今年维持不变、加息概率仅25%，若通胀数据鸽派可催化股市上涨。历史上Fed加息周期初期SPX前3个月平均回报2%，Info Tech表现最好、Financials最差。",
+      "bullets": [
+        {
+          "actor": "GS US Weekly Kickstart",
+          "actor_type": "Analyst",
+          "text": "市场定价7月加息35%概率，GS预计Fed维持不变",
+          "details": "市场目前认为Fed在7月会议上加息的概率约为35%，但拉长时间来看，市场预期已显著转向鹰派，定价隐含到2027年中期将加息近50bps；GS预计Fed今年将维持利率不变，认为加息的概率仅为25%。如果接下来的通胀数据推动政策展望转向鸽派，可能会成为股市上涨的'解脱性催化剂'，如果Fed选择加息，股市短期内可能会面临困境，无论Fed最终是否加息，利率走势的不确定性都会加剧市场波动。",
+          "important": true
+        },
+        {
+          "actor": "GS US Weekly Kickstart",
+          "actor_type": "Analyst",
+          "text": "历史加息初期SPX前3月平均+2%，Info Tech最好Financials最差",
+          "details": "过去几十年中，SPX在Fed七次加息周期的初期（前3个月）平均回报率为2%。例如在1997年初仅25bps的加息'周期'中，SPX就遭遇了10%的快速回调。不过从长期来看，首次加息后12个月的平均回报率为9%（除2022年外其余皆为正回报），在以往加息周期初期，信息技术（Info Tech）往往表现最好，而金融（Financials）板块表现最差。资产负债表疲弱、持有高浮动利率债务的企业对利率走高最为敏感，近期与短期利率呈现出明显的负相关性。",
+          "important": false
+        },
+        {
+          "actor": "GS US Daily",
+          "actor_type": "Analyst",
+          "text": "GS预测6月核心CPI mom +0.17%低于共识0.3%",
+          "details": "预测6月美国核心CPI mom +0.17%，低于共识0.3%，yoy降至2.76%。受能源价格大跌4.4%影响，整体CPI mom 0.11%。核心PCE因金融服务上涨预计mom +0.24%。汽车、住房及旅行服务通胀均呈放缓迹象。随着住房类别通胀持续放缓，以及航油价格和世界杯对旅行服务类别的向上压力逆转，未来数月核心CPI mom或维持0.2%左右。",
+          "important": false
+        },
+        {
+          "actor": "Dow",
+          "actor_type": "KOL",
+          "text": "KOL：Forward Guidance已过时，Warsh沟通改良论天真",
+          "details": "Dow：Forward Guidance已经过时了，无论Fed怎么沟通（说得多还是说得少、说得清楚还是不清楚），市场都会二元化过度反应，这是人性使然，Warsh认为'沟通方式改一改就能让市场不那么反应过度'，这种想法天真且不了解市场。此外Task Forces更多是政治表演和权力游戏，而不是真正有意义的改革，目的是让外界觉得他之前的激烈批评是真诚的，也是把潜在的批评者'拉进来'（co-opt），让他们以后更不容易公开批评，别指望会有什么实质性的大动作或新发现。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "XLK",
+        "XLF"
+      ],
+      "image_indexes": [
+        7
+      ],
+      "importance": 3,
+      "sources": [
+        "Goldman Sachs"
+      ],
+      "date": "2026-07-13",
+      "image_urls": [
+        "/uploads/2026-07-13/62484777fca5.png"
+      ]
+    },
+    {
+      "id": "ai-macro-capex-risk",
+      "topic": "AI宏观",
+      "topic_tag": "ai",
+      "title": "AI叙事：类1999风险、Hyperscaler利差走阔、中国token超美",
+      "summary": "多方观点聚焦AI宏观：short bear警告AI处于类似1999年高风险阶段、Mag7被迫巨额Capex护城河、补贴战侵蚀护城河；Apollo数据显示Hyperscaler IG利差和CDS持续走阔；MS上调2026年云Capex至632B高于共识4%；OpenRouter数据显示中国模型token量已超美国；GS/JPM看好AI但强调拥挤度与融资成本风险。",
+      "bullets": [
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "AI处于类1999高风险阶段，Mag7被迫巨额Capex",
+          "details": "AI目前处于类似1999年的高风险阶段：动能仍在，但基础正在被侵蚀（补贴战、快速迭代、中国竞争、护城河衰退）。KOSPI处于支撑位，而AI板块正经历今年以来首次明显回调，盘整还是最后冲刺，如果盘整资金rotation方向，是要思考的关键问题；AI目前最大的风险是'巨额补贴'，新模型迭代极快且价格下降，大型AI公司一方面要承担巨额Capex，另一方面却在以亏损价格让客户使用模型，护城河正在被快速侵蚀；Mag7不是'想'做AI，而是'必须'做AI，它们继续巨额投入的主要原因是防御护城河，而不是单纯扩张，这种动态，可以比大多数人预期的持续更久，但也让最终破裂时的破坏力更大。",
+          "important": true
+        },
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "MS：11家云厂商2026云Capex 632B，较共识高4%",
+          "details": "MS上调11家云厂商现金Capex：2024年285B、2025E 460B、2026E 606B（共识）、MS'26E 632B。MSe for CY26 cloud cash capex比共识高4%。YoY增长：2024*66%、2025E 67%、2026E 36%（MS）；共识2025E 62%、2026E 32%。",
+          "important": false
+        },
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "Apollo：Hyperscaler IG利差与5Y CDS均持续走阔",
+          "details": "Apollo图表显示IG hyperscalers ex Oracle利差从2025年9-10月低点约30-35bps稳步走阔至2026年7月约65-68bps；IG industrials同期从25bps走阔至65-70bps。5年CDS：Big tech + Oracle从2024年中约25bps走阔至2026年7月约70-75bps，Big tech（Amazon/Google/Apple/Microsoft）走阔至45-50bps。Hyperscaler股价与Silicon Data LLM Token支出指数在2026年5月见顶后同步回落。",
+          "important": false
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "OpenRouter：中国模型token量6月超美国",
+          "details": "OpenRouter数据显示，2026年通过中国模型处理的token数已超过美国模型。中国线6月中已达约27万亿token，美国从年初~5万亿升至6月初约19-20万亿后小幅回落。",
+          "important": false
+        },
+        {
+          "actor": "GS Top of Mind",
+          "actor_type": "Analyst",
+          "text": "GS：AI投资是小盘股+HALO主题主驱动力",
+          "details": "AI投资热潮持续，是近期美国小盘股走强以及HALO（重资产、低过时性）主题的主要驱动力。支撑美元'分裂'走势：美元兑低收益货币（如欧元）将走强，兑高收益货币（如哥伦比亚比索、印度卢比）将走弱。目前AI对招聘的抑制作用微乎其微，微观层面的生产力提升仍较为局限，预计未来会对劳动力市场和生产力带来重大实质性提升，但受限于人为和制度障碍，这种繁荣可能会像当年的ICT革命一样有所延迟。",
+          "important": false
+        },
+        {
+          "actor": "JPM Fabio Bassi",
+          "actor_type": "Analyst",
+          "text": "JPM：半导体回调因拥挤+融资成本，非基本面反转",
+          "details": "发布全球市场策略报告，维持SPX年底7,800点及KOSPI 12,500点目标。近期半导体回调源于交易拥挤与融资成本高企，而非AI基本面逆转，类似于2025年11-12月和2026年2-4月的情况，杠杆ETF资产管理规模（AUM）成为拥挤效应的放大器。摩根大通维持对亚洲新兴市场股票（中国台湾、韩国、中国大陆）的看好态度。宏观上，全球GDP增速预期上调至2.7%，Fed保持耐心，劳动力市场的真正疲软、AI周期持续性的担忧以及央行过度加息的风险是主要的下行威胁。策略上超配科技股、做多德英国债及黄金（Q3-Q4目标4,300-4,500美元/盎司），黄金短期看震荡，看涨美元beta。",
+          "important": false
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "KOL",
+          "text": "Erian：科技巨头发债潮推高yields",
+          "details": "Erian：科技公司正在大规模发债，而债券市场的供给压力正在上升，yields很可能需要走高才能让市场顺利消化这些新增债券。",
+          "important": false
+        },
+        {
+          "actor": "GS GRT",
+          "actor_type": "Analyst",
+          "text": "GS：企业AI借款对美债估值影响有限",
+          "details": "美伊冲突再度升级，至少暂时使能源价格重新成为全球市场的共同驱动因素，本周中期美国国债收益率与油价走势基本同步。市场关注AI相关借款对收益率水平的影响，尽管债务融资投资周期理论上应推高收益率，但当前长端收益率已从'略微偏贵'回到'接近公允'水平，且与宏观/财政基本面无明显错位，说明企业借款对美债估值的影响并没有市场认为的那么大。",
+          "important": false
+        },
+        {
+          "actor": "白宫/Politico",
+          "actor_type": "新闻",
+          "text": "白宫或考虑发布开源AI行政命令",
+          "details": "Politico独家称据九位知情人士透露，白宫可能正在考虑发布一项关于开源人工智能的行政命令，引发了人们对中国主导地位的担忧。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MSFT",
+        "GOOGL",
+        "AMZN",
+        "META",
+        "NVDA",
+        "ORCL"
+      ],
+      "image_indexes": [
+        0,
+        4,
+        5,
+        6
+      ],
+      "importance": 3,
+      "sources": [
+        "Morgan Stanley",
+        "Apollo",
+        "Deutsche Bank",
+        "Goldman Sachs",
+        "JPM",
+        "Politico"
+      ],
+      "date": "2026-07-13",
+      "image_urls": [
+        "/uploads/2026-07-13/9e3b947d0da3.jpg",
+        "/uploads/2026-07-13/4f455d4bc1c1.png",
+        "/uploads/2026-07-13/63ce3f53f3c4.png",
+        "/uploads/2026-07-13/63f64fe93bb8.png"
+      ]
+    },
+    {
+      "id": "apple-openai-lawsuit",
+      "topic": "Apple诉OpenAI",
+      "topic_tag": "ai",
+      "title": "苹果起诉OpenAI窃取商业机密；SK海力士警告内存短缺至2030",
+      "summary": "苹果起诉ChatGPT母公司OpenAI窃取商业机密；SK海力士CEO警告到2027年内存短缺将达历史最严重水平，要到2030年才能缓解。",
+      "bullets": [
+        {
+          "actor": "Apple",
+          "actor_type": "Corporate",
+          "text": "苹果起诉OpenAI窃取商业机密",
+          "details": "苹果公司宣布起诉ChatGTP母公司OpenAI，指控其窃取苹果商业机密。",
+          "important": true
+        },
+        {
+          "actor": "SK海力士CEO",
+          "actor_type": "Corporate",
+          "text": "SK海力士：内存短缺2027年最严重、2030年才缓解",
+          "details": "SK海力士首席执行官宣布，到2027年，内存短缺将达到历史最严重水平，并且要到2030年才能缓解。",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "KOL：存储估值自相矛盾，市场意识到即杀估值",
+          "details": "Herman Jin：存储是商品、有成熟扩产经验，他估值根据增长、而增长来自涨价。这本就自相矛盾：一方面要PE估值证明盈利稳定不受价格波动；另一方面拿了PE估值说盈利增长又恰恰来自涨价，好的时候没人管，市场意识到了就是杀估值。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "AAPL",
+        "MSFT"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-13",
+      "image_urls": []
+    },
+    {
+      "id": "us-industrial-policy",
+      "topic": "美国产业政策",
+      "topic_tag": "policy",
+      "title": "JPM：2025年美产业政策财政足迹1.9T（约6% GDP）",
+      "summary": "JPM Jahangir Aziz报告称美国产业政策回归旨在提升国家安全与供应链韧性，2025年财政足迹达1.9T（约占GDP 6%），主张'最小有效干预'原则。",
+      "bullets": [
+        {
+          "actor": "JPM Jahangir Aziz",
+          "actor_type": "Analyst",
+          "text": "JPM：2025年产业政策财政足迹1.9T，约占GDP 6%",
+          "details": "JPM Jahangir Aziz：预计2025年美产业政策财政足迹达1.9T（约占GDP的6%）。美国产业政策回归旨在提升国家安全与供应链韧性，而非单纯追求增长。其政策目标是在可接受的成本下减少战略脆弱性。成功的关键不在于最大化制造业份额或短期GDP增长，而在于识别并解决关键的'chokepoints'。",
+          "important": true
+        },
+        {
+          "actor": "JPM Jahangir Aziz",
+          "actor_type": "Analyst",
+          "text": "JPM：产业政策应遵循'最小有效干预'原则",
+          "details": "鉴于美国财政空间有限和政治上对寻租行为的厌恶，产业政策应遵循'最小有效干预'原则。这意味着：首先利用市场机制（如改善监管、许可和高技能移民）；其次仅在市场失灵的特定瓶颈处进行选择性、临时性的干预；最后必须建立可信的退出机制（如日落条款、绩效评估），防止临时支持变成永久性的补贴entitlement。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "JPM"
+      ],
+      "date": "2026-07-13",
+      "image_urls": []
+    },
+    {
+      "id": "spr-oil-supply",
+      "topic": "SPR与油市",
+      "topic_tag": "oil",
+      "title": "KOL：SPR基本用完，IEA已释放276mb/400mb承诺",
+      "summary": "KOL指出全球战略石油储备释放已接近上限，IEA成员国承诺400mb已释放276mb，美8月锁定37mb，仍有100mb+无明确时间表。",
+      "bullets": [
+        {
+          "actor": "@jackprandelli",
+          "actor_type": "KOL",
+          "text": "SPR基本用完，IEA承诺400mb已释放276mb",
+          "details": "@jackprandelli：石油市场SPR已经基本用完了，3月11日以来，IEA成员国集体承诺释放400mb，已经释放276mb，美国8月已锁定要释放37mb，原承诺中仍有超100mb没有明确释放时间表。",
+          "important": true
+        },
+        {
+          "actor": "Bob",
+          "actor_type": "KOL",
+          "text": "KOL：市场对未来3季度盈利年化+31%预期过高",
+          "details": "Bob：投资者过于迷恋市场的'板块轮动'，却忽略了真正重大的宏观风险：整个市场对未来经济的盈利预期已经高得不切实际，未来3个季度分析师预期盈利将达到31%的年化增长率。2027年预期预计在2026年极高基数的基础上，再实现近20%的增长。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "USO",
+        "XLE"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-13",
+      "image_urls": []
+    },
+    {
+      "id": "buyside-market-views",
+      "topic": "买方观点",
+      "topic_tag": "macro-other",
+      "title": "Burry：不买低PE周期股；Q2 US股票发行创250B纪录",
+      "summary": "Burry表示永远不会以低PE和创纪录盈利买入周期股，并批评Kalshi是监管漏洞下的赌博业务。GS数据显示Q2 2026美国股票发行252B创纪录。零售现金配置处极低位、家庭净值中股票占比接近历史高位。",
+      "bullets": [
+        {
+          "actor": "Michael Burry",
+          "actor_type": "KOL",
+          "text": "Burry：不以低PE和创纪录盈利买周期股",
+          "details": "Burry：我永远不会以低市盈率和创纪录的盈利买入周期性股票。Kalshi本质是作弊问题更严重的赌博业务，因为存在监管漏洞，它能在全美合法运营，只要社会不干预就会继续高速增长成为行业第一。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS：Q2 2026美股票发行252B创单季纪录",
+          "details": "GS数据显示Q2 2026美国股票发行达252B创单季纪录，超过Q1 2021的234B（当时以SPAC为主）。当前季度Follow-ons和SPACs为主要贡献。",
+          "important": false
+        },
+        {
+          "actor": "i3 Invest",
+          "actor_type": "Analyst",
+          "text": "零售现金配置10月移动均线接近极低位18%",
+          "details": "AAII数据显示零售投资者现金配置10月移动均线当前约18%，接近历史极低位，与SPX历史顶部（1998、2000、2018、2020、2021）时点高度对应。",
+          "important": false
+        },
+        {
+          "actor": "Barclays BETS",
+          "actor_type": "Analyst",
+          "text": "美国家庭净值：股票占比接近35%历史高位",
+          "details": "Barclays数据显示美国家庭净值中股票占比在2010-2019年间已升至接近0.35，追平并有望超越房地产占比；现金及现金等价物占比降至低位约0.10-0.18。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY"
+      ],
+      "image_indexes": [
+        1,
+        2,
+        3,
+        8
+      ],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs",
+        "AAII",
+        "Barclays"
+      ],
+      "date": "2026-07-13",
+      "image_urls": [
+        "/uploads/2026-07-13/3cd8e8ed1d45.jpg",
+        "/uploads/2026-07-13/74449dbf7ad6.jpg",
+        "/uploads/2026-07-13/a6bbdb960e10.png",
+        "/uploads/2026-07-13/7c7152e78fad.png"
+      ]
+    }
+  ]
+}
