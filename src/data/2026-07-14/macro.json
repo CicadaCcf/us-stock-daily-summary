@@ -1,0 +1,639 @@
+{
+  "topics": [
+    {
+      "id": "waller-hawkish-cpi-jul14",
+      "topic": "美联储/Waller",
+      "topic_tag": "fed",
+      "title": "Waller转鹰：核心CPI再高将考虑短期收紧",
+      "summary": "美联储理事Waller发表明显鹰派讲话，认为无法再把通胀归因于关税，过去六个月核心通胀持续上行，若本周核心CPI再走高，FOMC需考虑短期内收紧货币政策。他同时反对央行'出其不意'式沟通，强调应给市场尽可能多信息。关注明日核心CPI（共识0.21% m/m）。",
+      "bullets": [
+        {
+          "actor": "Waller",
+          "actor_type": "Central-Bank",
+          "text": "若本周核心CPI再高，FOMC需考虑短期收紧",
+          "details": "目前通胀太高，特别是核心通胀太高，我们已过了可把过去增长归因于关税的阶段。今年通胀率无论从哪个角度或指标衡量都上升了。过去几个月比预期更糟，基本上是在连续近六个月不断上涨的基础上，如果本周核心通胀率再次走高，FOMC将需要考虑在短期内收紧货币政策。",
+          "important": true
+        },
+        {
+          "actor": "Waller",
+          "actor_type": "Central-Bank",
+          "text": "通胀预期若失控 央行代价更大",
+          "details": "当通胀远高于目标时，央行如果行动迟缓、担心经济而不敢果断加息，就会导致通胀预期失控，最终反而需要付出更大的经济代价才能把通胀压下来。",
+          "important": false
+        },
+        {
+          "actor": "Waller",
+          "actor_type": "Central-Bank",
+          "text": "AI资本开支对利率不敏感 但Fed仍可压其他价格",
+          "details": "AI 相关的大额资本开支，确实不像普通需求那样对利率敏感，美联储可能无法直接影响这些特定支出。但即使如此，Fed依然可以通过影响其他商品和服务的价格来降低整体通胀水平。",
+          "important": false
+        },
+        {
+          "actor": "Waller",
+          "actor_type": "Central-Bank",
+          "text": "央行不应'出其不意' 应尽可能透明",
+          "details": "央行看通胀，不能像A片一样说不清什么是、只有看到了才知道是；央行应该给市场提供尽可能多的信息，'出其不意'对市场不利、是个糟糕的主意。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-07-14",
+      "image_urls": []
+    },
+    {
+      "id": "june-cpi-forecasts-jul14",
+      "topic": "6月CPI预测",
+      "topic_tag": "rates",
+      "title": "WSJ调查：6月CPI预测中位数0.21%/2.8%核心",
+      "summary": "Nick Timiraos汇总17家卖方对6月CPI预测：整体CPI中位数环比-0.19%、同比3.8%；核心CPI环比0.21%、同比2.8%。上月为0.47% / 4.2% / 0.21% / 2.9%。摩根大通、高盛等均预测核心CPI环比0.17-0.22%区间。",
+      "bullets": [
+        {
+          "actor": "WSJ/Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "6月CPI预测中位数：整体-0.19% 核心+0.21%",
+          "details": "WSJ Nick Timiraos汇总17家机构6月CPI预测：整体CPI m/m中位数-0.19%、y/y 3.8%；核心CPI m/m 0.21%、y/y 2.8%。上月(May)为整体0.47%/4.2%、核心0.21%/2.9%。",
+          "important": true
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "小摩：整体-0.20% 核心+0.22%",
+          "details": "JP Morgan预测整体CPI m/m -0.20%、y/y 3.7%；核心 m/m 0.22%、y/y 2.8%。能源价格下跌是主因，核心商品通胀或因二手车涨价而反弹。维持对CPI战术性看空，继续持有通胀互换陡峭化头寸。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "高盛：整体-0.11% 核心+0.17%",
+          "details": "GS预测6月整体CPI m/m -0.11%、y/y 3.9%；核心 m/m 0.17%、y/y 2.8%。高盛预计未来三个月核心CPI平均涨幅仅0.18%，但核心PCE或因服务价格粘性维持在0.23%。",
+          "important": false
+        },
+        {
+          "actor": "各卖方",
+          "actor_type": "Analyst",
+          "text": "各家整体预测区间-0.25%至+0.01%",
+          "details": "BofA -0.09%/0.28核心；Barclays -0.18%/0.26；BNP +0.01%/0.37；Citadel -0.17%/0.19；Citi -0.21%/0.21；DB -0.16%/0.23；Employ America -0.19%/0.18；Jefferies -0.24%/0.19；Moody's -0.18%/0.23；MS -0.19%/0.22；Nomura -0.20%/0.22；TD -0.22%/0.20；UBS -0.25%/0.21；Vanguard -0.23%/0.21；Wells -0.22%/0.20；Deutsche同比核心2.8%。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-07-14",
+      "image_urls": [
+        "/uploads/2026-07-14/37ec6116528f.png"
+      ]
+    },
+    {
+      "id": "us-iran-hormuz-crisis-jul14",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "特朗普对霍尔木兹船只收20%费 CENTCOM第三夜打伊朗",
+      "summary": "特朗普宣布对通过霍尔木兹海峡所有货物收取20%费用（估算每艘tanker约300万美元），并于7/7起重启对伊军事行动，通知国会将展开猛烈打击。CENTCOM连续第三晚打击伊朗防空/雷达/海军目标；IRGC反击巴林第五舰队基地、约旦美军基地并击中2艘阿联酋油轮致1死8伤。也门代理战场同时升级，沙特支持的政府军空袭萨那机场阻止马汉航空降落。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "美将对霍尔木兹所有货物收20%费用 重启对伊封锁",
+          "details": "特朗普宣布美国作为'霍尔木兹海峡守护者'，对通过该海峡的所有货物收取20%费用（市场估算约3M美元/艘tanker），用于安全保障成本；同时重启仅针对伊朗船只的封锁，其他国家船只可公平通行。'我希望能在霍尔木兹得到补偿，我们正在进行保护'。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "7/7起重启对伊军事行动 威胁拿下PICKAXE山",
+          "details": "特朗普正式通知国会：7/7起重启对伊军事行动，今晚和明天将对伊朗发起猛烈打击，威胁将拿下PICKAXE山，告诉伊朗做好准备，'伊朗协议是出于试验目的而制定的'。'我们两天前达成了一项协议，他们想要再达成一项协议，他们可能打破协议约10次'。周四晚间白宫黄金时段讲话预计包括选举诚信、伊朗局势最新进展等内容。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普支持沙特打击胡塞",
+          "details": "特朗普向沙特王储表示支持，支持对胡塞武装发起高风险的打击行动，原因是沙特担忧伊朗马汉航空飞机向胡塞运输武器和军事人员。",
+          "important": false
+        },
+        {
+          "actor": "Araghchi",
+          "actor_type": "Foreign-Gov",
+          "text": "伊外长：20%太多 但保护应有补偿",
+          "details": "伊朗外长Araghchi表示美国总统说得完全正确——任何为商业船只提供安全通过霍尔木兹海峡的服务提供者都应得到相应补偿。'20%当然太多了。我们会保持公平的态度'。",
+          "important": false
+        },
+        {
+          "actor": "CENTCOM",
+          "actor_type": "US-Executive",
+          "text": "CENTCOM 7/14 16ET恢复封锁伊朗港口",
+          "details": "根据总司令部指示，CENTCOM部队将于7/14 16ET恢复封锁进出伊朗港口的海上交通，将继续支持所有未违反封锁规定的船只通过该区域水域的通行。",
+          "important": false
+        },
+        {
+          "actor": "CENTCOM",
+          "actor_type": "US-Executive",
+          "text": "连续第三夜打击伊朗 累计约140个目标",
+          "details": "CENTCOM连续第三晚对伊朗发动打击，针对伊朗防空系统、沿海雷达、导弹/无人机设施、海军能力及小型船只。目标包括Qeshm岛、Bandar Abbas、Sirik等地。累计近期波次打击数十至140个目标；伊朗称石油、天然气、石化和水利基础设施被打击。",
+          "important": false
+        },
+        {
+          "actor": "IRGC",
+          "actor_type": "Foreign-Gov",
+          "text": "IRGC反击巴林/约旦美军基地并击中2艘阿联酋油轮",
+          "details": "IRGC从多个方向反击：第7号公告声称对巴林Jufair基地（美国第五舰队所在地）发动导弹和无人机袭击，导致Manama城多次响起空袭警报；第9号公告声称对约旦境内一个美国空军基地发动弹道导弹袭击，约旦军方证实并报告连续第二天拦截了四枚导弹；IRGC海军在霍尔木兹海峡使用Ghadir反舰巡航导弹袭击了2艘与阿联酋有关联的超级油轮。伊朗针对海湾国家（巴林、科威特、卡塔尔、阿曼、约旦）美军关联设施进行导弹/无人机袭击。",
+          "important": false
+        },
+        {
+          "actor": "UAE",
+          "actor_type": "Foreign-Gov",
+          "text": "阿联酋：2艘油轮被击 1名印度船员死亡8伤",
+          "details": "阿联酋称伊朗巡航导弹袭击其在霍尔木兹海峡南部的2艘油轮，造成1名印度船员死亡、8人受伤，其中4人重伤（6人为印度籍，2人为乌克兰籍）。",
+          "important": true
+        },
+        {
+          "actor": "也门/胡塞",
+          "actor_type": "Foreign-Gov",
+          "text": "也门政府军空袭萨那机场 胡塞报复沙特Abha",
+          "details": "也门政府军（沙特支持）对萨那国际机场跑道发动空袭，目的是阻止伊朗马汉航空（Mahan Air）客机降落。胡塞武装立即报复向沙特西南部Abha国际机场发射弹道导弹和无人机，警告航空公司勿使用沙特领空直至解除萨那机场限制，此后沙特未进一步报复。也门爆发武装集会和民众游行谴责沙特袭击。",
+          "important": false
+        },
+        {
+          "actor": "SEMAFOR",
+          "actor_type": "新闻",
+          "text": "SEMAFOR：特朗普霍尔木兹收费计划'非常认真'",
+          "details": "SEMAFOR报道特朗普对霍尔木兹海峡货运收取20%的补偿计划'非常认真'，收费计划细节仍在敲定中。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ：外部打击激发伊朗民族主义 谈判受阻",
+          "details": "WSJ报道原本旨在削弱或颠覆伊朗政权的外部军事打击和制裁，反而激发起伊朗国内强大的民族主义浪潮。这不仅未能导致伊朗政权崩溃，反而暂时扩大了其社会支持基础，并实质上绑架了伊朗的外交决策，使和平谈判举步维艰。",
+          "important": false
+        },
+        {
+          "actor": "WSJ/GS",
+          "actor_type": "新闻",
+          "text": "至2028年 75%海湾石油可绕过霍尔木兹",
+          "details": "WSJ报道称到2027年底，新建和扩建的输油管道总数可使超过45%的战前海湾石油出口绕过霍尔木兹海峡。GS表示，如果计划加快推进，到2028年底，输油管道将覆盖该地区75%的石油出口。",
+          "important": false
+        },
+        {
+          "actor": "以色列/新闻",
+          "actor_type": "新闻",
+          "text": "美暂停从本古里安撤离加油机 7月50K机票或受影响",
+          "details": "美国已暂停将其空军加油机从本古里安机场撤离。以色列机场官员警告，如果飞机不进行重新安置，由于运营中断，7月份可能有多达50K张机票受影响并被取消。",
+          "important": false
+        },
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "JH：地缘紧张尚不足以让油价持续走高",
+          "details": "当前地缘政治紧张局势还不足以让油价真正翻转并持续走高，油市之前已经严重做空，市场本来就预期出现技术性反弹。这次的暴力空头挤仓（short squeeze）并没有让太多人感到意外，后续上涨缺乏足够强的基本面支撑。后续需要伊朗炸油气设施或对霍尔木兹海峡/红海实施更彻底、有效的封锁，出现这种级别的实质性供应中断，才能推动进一步上涨。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "SEMAFOR",
+        "WSJ",
+        "Bloomberg"
+      ],
+      "date": "2026-07-14",
+      "image_urls": [
+        "/uploads/2026-07-14/a3d52ae4d45f.png"
+      ]
+    },
+    {
+      "id": "korea-leverage-etf-crackdown-jul14",
+      "topic": "韩国杠杆ETF监管",
+      "topic_tag": "policy",
+      "title": "韩国四部委联手整治单股杠杆ETF 散户大规模爆仓",
+      "summary": "韩国财经部、金融委员会、韩国银行和金融监督院联合行动，要求资管公司提交降波动整改方案，重点整治单股杠杆ETF乱象。截至7/13，超120万个杠杆零售账户触发追缴，约32-36万被强制清算。KOSPI 200价格已明显跑输2026/2027 EPS一致预期。",
+      "bullets": [
+        {
+          "actor": "韩国政府",
+          "actor_type": "Foreign-Gov",
+          "text": "韩国四部委联手整治单股杠杆ETF",
+          "details": "韩国财经部+金融委员会+韩国银行+金融监督院联合行动，要求各大资管公司提交市场降波动整改方案，重点整治单股杠杆ETF的杠杆乱象。",
+          "important": true
+        },
+        {
+          "actor": "韩国金融监督院",
+          "actor_type": "Foreign-Gov",
+          "text": "120万杠杆账户触发追缴 32-36万被强平",
+          "details": "韩国金融监督院统计数据显示，截至7/13，韩国市场累计超过1.2M个杠杆零售账户触发了追缴保证金通知，其中约320-360k个账户被券商强制清算。",
+          "important": true
+        },
+        {
+          "actor": "Naver数据",
+          "actor_type": "KOL",
+          "text": "韩散户SK海力士平均持有价1.815M韩元",
+          "details": "当前韩国散户的SK海力士，平均持有价格1.815M韩元，对应美股ADR价格为121美元。",
+          "important": false
+        },
+        {
+          "actor": "@_FORAB",
+          "actor_type": "KOL",
+          "text": "杠杆散户人均10-16K美金负债 集中三星海力士",
+          "details": "目前韩国市场活跃杠杆交易者，人均10-16K美金的债务借款，主要做多了三星和SK海力士，他们是这波被爆仓的主要人群。",
+          "important": false
+        },
+        {
+          "actor": "中国宏观事实",
+          "actor_type": "KOL",
+          "text": "调整为杠杆去化+情绪修复 非基本面问题",
+          "details": "当前韩股的调整，更多是杠杆去化+情绪极端修复的过程，而不是单纯的基本面问题。由于杠杆和反身性的存在，这个过程可能比很多人预期的更长、更痛苦。除非出现系统性风险（汇率或国债出问题），否则很难快速见底。",
+          "important": false
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "KOSPI 200价格已跑输2026/2027 EPS一致预期",
+          "details": "BBG一致预期图显示，KOSPI 200 2026及2027 EPS自2025年底以来分别升至~2.5x/3.1x水平，而Kospi 200价格从近~2.5峰值回落至~1.75，明显跑输盈利上修速度。",
+          "important": false
+        },
+        {
+          "actor": "BBG/Samsung",
+          "actor_type": "新闻",
+          "text": "三星电子探索发行ADR",
+          "details": "BBG报道，三星电子正处于探索发行ADR的早期阶段。三星将密切关注波动较大的存储芯片股，并将此作为决策考量因素之一。",
+          "important": false
+        },
+        {
+          "actor": "韩国媒体",
+          "actor_type": "新闻",
+          "text": "三星晶圆代工拿下Anthropic订单",
+          "details": "据韩国媒体报道，三星晶圆代工部门已成功拿下Anthropic作为其代工客户。",
+          "important": false
+        },
+        {
+          "actor": "Gavin Baker",
+          "actor_type": "KOL",
+          "text": "SemiAnalysis看多海力士 KIS给悲观出货",
+          "details": "西方机构SemiAnalysis很看好海力士，而韩国本土机构KIS给出了相对悲观的出货预测，导致股价大跌。他觉得如果海力士接下来真的业绩不及预期，那整个故事就太有戏剧性了。",
+          "important": false
+        },
+        {
+          "actor": "@cissan_9984",
+          "actor_type": "KOL",
+          "text": "98K日元清空Kioxia并转空 认为60T市值远高估",
+          "details": "@cissan_9984在98K日元卖出全部Kioxia（铠侠/记忆体相关公司）并转空。理由：Kioxia工厂设备重置成本约4T日元，加品牌+销售网+先行者优势合理估值约8-20T，当时市值60T远远高估。日本企业不太可能大规模投入内存领域（风险太大）。若高利润持续，中韩台美等竞争对手很可能进入，导致内存行业利润率大幅下降。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SSNLF"
+      ],
+      "image_indexes": [
+        7
+      ],
+      "importance": 3,
+      "sources": [
+        "Naver",
+        "BBG"
+      ],
+      "date": "2026-07-14",
+      "image_urls": [
+        "/uploads/2026-07-14/502a8d1d9b72.png"
+      ]
+    },
+    {
+      "id": "bofa-fms-jul26",
+      "topic": "BofA FMS",
+      "topic_tag": "macro-other",
+      "title": "美银FMS：'不着陆'预期创纪录54% 现金触发卖出信号",
+      "summary": "美银全球基金经理调查7月版：54%认为经济'不着陆'（历史新高），仅2%'硬着陆'；平均现金配置降至3.6%触发FMS'卖出信号'，牛熊指标飙至9.4极端过热。仓位大幅超配美股（+24%创2024/12以来新高）、医疗、工业；做多全球半导体成为最拥挤交易(82%)，尽管45%将AI泡沫视为最大尾部风险。",
+      "bullets": [
+        {
+          "actor": "BofA FMS",
+          "actor_type": "Analyst",
+          "text": "'不着陆'预期创纪录54% 现金比降至3.6%触发卖出信号",
+          "details": "宏观经济'不着陆'预期达创纪录的54%（'软着陆'39%、'硬着陆'2%），年终油价预期大跌至71美元/桶，美联储偏鸽立场推动，专业投资者情绪极度乐观。平均现金配置比例降至3.6%的超低水平，已正式触发美银FMS现金规则的'卖出信号'，且牛熊指标飙升至9.4的极端过热区间。",
+          "important": true
+        },
+        {
+          "actor": "BofA FMS",
+          "actor_type": "Analyst",
+          "text": "净超配美股+24% 全球半导体成最拥挤交易",
+          "details": "资金大举涌入美股（净超配24%，创2024年12月新高）、医疗与工业板块，同时大举减持英国股市与消费必需品；'做多全球半导体'以82%的压倒性比例成为全球最拥挤的交易。",
+          "important": false
+        },
+        {
+          "actor": "BofA FMS",
+          "actor_type": "Analyst",
+          "text": "45%视AI泡沫为最大尾部风险 但61%认Tech不减开支",
+          "details": "45%的受访者将'AI泡沫'视为第一大尾部风险，48%担忧AI云厂商的巨大资本开支可能引发系统性信贷事件，但多数人（61%）坚信科技巨头年内不会削减开支，52%认为AI当前正处于因FOMO心理不断吸引资金的'繁荣'阶段。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        8
+      ],
+      "importance": 3,
+      "sources": [
+        "BofA Global Fund Manager Survey"
+      ],
+      "date": "2026-07-14",
+      "image_urls": [
+        "/uploads/2026-07-14/05fd24112702.png"
+      ]
+    },
+    {
+      "id": "sellside-rates-cpi-jul14",
+      "topic": "卖方观点-利率/CPI",
+      "topic_tag": "rates",
+      "title": "GS/JPM/BofA：CPI战术看空 但长期利率押升",
+      "summary": "GS认为5y5y通胀互换2.38%被低估约10bp，非做多良机；JPM预测6月整体CPI -0.20%/核心+0.22%，建议平掉10s/30s平坦化对冲CPI风险；BofA预计2026下半年加息3次至4.50%，10Y目标4.65-4.82%，2Y目标4.40%；市场已定价9月加息、2026全年+43bp。",
+      "bullets": [
+        {
+          "actor": "BofA Rates",
+          "actor_type": "Analyst",
+          "text": "美银：2026下半年加息3次至4.50% 10Y看4.65-4.82%",
+          "details": "美联储鹰派风险被低估，预计2026年下半年加息三次至4.50%。建议做空短端利率，10Y收益率目标看至4.65%-4.82%。重置2Y空头目标至4.40%。鉴于美国经济强劲及通胀风险，美银在4.25%目标达成后再次上调预期。目前市场定价2026年加息约43bp，若核心CPI高于0.3%，加息或提前至7月。油价上涨亦构成上行风险，建议继续持有空头头寸，止损位3.70%。",
+          "important": true
+        },
+        {
+          "actor": "GS Daily",
+          "actor_type": "Analyst",
+          "text": "GS：5y5y通胀被低估~10bp 但非做多良机",
+          "details": "自油价见顶后，美国交易型通胀显著重定价，5y5y通胀互换降至2.38%。模型显示长期远期通胀被低估约10bp，但因市场预期美联储保持鹰派，目前非做多良机。建议将多头作为对冲鸽派政策或冲突升级的工具。",
+          "important": false
+        },
+        {
+          "actor": "GS US",
+          "actor_type": "Analyst",
+          "text": "高盛：未来3月核心CPI均值0.18% 核心PCE 0.23%",
+          "details": "美联储理事Waller表示若本周核心通胀数据强劲FOMC将考虑收紧货币政策。高盛预计未来三月核心CPI平均涨幅仅0.18%，但核心PCE或因服务价格粘性维持在0.23%。劳动力市场稳定，政策焦点仍在通胀。",
+          "important": false
+        },
+        {
+          "actor": "JPM Rates",
+          "actor_type": "Analyst",
+          "text": "JPM：平仓10s/30s平坦化 规避CPI/主席作证风险",
+          "details": "建议平仓10s/30s美债曲线平坦化交易，以规避CPI数据及美联储主席作证风险。预计6月CPI环比降0.16%（低于共识），维持通胀互换陡峭化头寸。受地缘政治及鹰派言论影响，前端美债收益率升6bp，市场定价9月加息。预测6月美国整体CPI环比降0.20%，核心CPI环比升0.22%。能源价格下跌是主要驱动因素，但核心商品通胀或因二手车涨价而反弹。",
+          "important": false
+        },
+        {
+          "actor": "BofA Rates",
+          "actor_type": "Analyst",
+          "text": "7月资金面宽松见顶 TGA将回$1T",
+          "details": "7月美国资金面宽松已见顶，主因TGA降至$745B及MMF久期缩短。随着月底TGA目标回升至$1T及$350B短债发行，预计融资将趋紧。维持做空7月SOFR/FF观点，目标-2bp。",
+          "important": false
+        },
+        {
+          "actor": "历史回溯",
+          "actor_type": "Analyst",
+          "text": "历史加息周期后48月：2Y/10Y收益率普遍下行",
+          "details": "对比历次最后一次加息后48个月2Y/10Y国债收益率变化：1984-08(11.75%)、1989-02(9.75%)、1995-02(6.00%)、2000-05(6.50%)、2006-06(5.25%)、2018-12(2.50%)、2023-07(5.50%,至T+35)。本轮（粉线）表现异常偏鹰，10Y在T+35仍为正变化~+60bp，与历史多数周期显著背离。",
+          "important": false
+        },
+        {
+          "actor": "Danny",
+          "actor_type": "KOL",
+          "text": "Danny：黄金预测通胀好 但真正通胀来时反致灾",
+          "details": "黄金在预测通胀方面表现良好，但当通胀真正到来并受到冲击时，黄金却会带来灾难性的后果。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        7
+      ],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "JPM",
+        "BofA"
+      ],
+      "date": "2026-07-14",
+      "image_urls": [
+        "/uploads/2026-07-14/502a8d1d9b72.png"
+      ]
+    },
+    {
+      "id": "vol-dispersion-jul14",
+      "topic": "波动率/相关性",
+      "topic_tag": "macro-other",
+      "title": "SPX隐含相关性20年新低 个股vol达互联网泡沫水平",
+      "summary": "SPX 1个月隐含相关性触及20年新低（Last 0.077，均值0.355），BofA指出个股波动率升至90年代互联网泡沫极端水平，与指数波动率显著背离；同时GS超大规模数据中心债券篮子利差飙升，与VIX Spot走低形成裂口。多位KOL警告个股层面剧烈震荡、5-10%回调风险。",
+      "bullets": [
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "SPX 1m隐含相关性触及20年新低",
+          "details": "SPX指数隐含相关性触及20年来的低点。S&P 1m Implied Correlation (3d avg) High 0.7701, Low 0.0769, Avg 0.355, Last 0.077, StdDev 0.1346。",
+          "important": true
+        },
+        {
+          "actor": "Bofa Vol",
+          "actor_type": "Analyst",
+          "text": "个股vol达90年代互联网泡沫水平 建议买VIX call spread",
+          "details": "美股个股波动率升至90年代互联网泡沫极端水平，与指数波动率分化显著。推荐买入VIX看涨价差对冲相关性回升风险，最大赔付超15倍。",
+          "important": true
+        },
+        {
+          "actor": "Fed Lord",
+          "actor_type": "KOL",
+          "text": "夏末前极可能出现5-10%回调",
+          "details": "市场存在两种截然不同的信号：恐慌指数（VIX）维持在16左右，大盘指数依然处于相当有序的牛市中；但是个股波动率(Single stock vol)、市场仓位以及部分信用市场的数据则表明，底层市场正在剧烈震荡。在今年夏季结束前market极有可能出现一次5%-10%的剧烈回调。",
+          "important": false
+        },
+        {
+          "actor": "@AlphaPicks",
+          "actor_type": "KOL",
+          "text": "高久期资产退潮 资金转向低久期现金流",
+          "details": "虽然指数整体表现平稳，但个股层面的分化和波动正在剧烈加剧。高久期资产（高成长股）退潮：随着无风险利率上升、通胀隐忧重现以及油价走高，投资者开始对那些需要数年才能兑现业绩的高成长科技股撤离，资金开始向能立即提供现金流的低久期板块倾斜。",
+          "important": false
+        },
+        {
+          "actor": "@ShanghaoJin",
+          "actor_type": "KOL",
+          "text": "去杠杆未结束 vol skewness未正常化",
+          "details": "目前的抛售（deleveraging）过程可能还没deleverage结束，虽然之前最受伤的'软件动量'已经停止上涨，vol skewness指标仍未正常化。不过没必要（也很难）精准抄到最低点，最好明天可以再来一下，让还有一口气的杠杆盘散户彻底死绝。",
+          "important": false
+        },
+        {
+          "actor": "@LeifSoreide",
+          "actor_type": "KOL",
+          "text": "Nasdaq形成收紧底部",
+          "details": "Nasdaq正在形成一个收紧的底部。",
+          "important": false
+        },
+        {
+          "actor": "GS/图表",
+          "actor_type": "Analyst",
+          "text": "超大规模数据中心债券利差飙升与VIX背离",
+          "details": "GS liquid hyperscaler bond basket (spread) 7月飙升至~150区域，而Cboe Volatility Index (VIX Spot)则回落至~15低位，形成显著背离——信用市场先于股票vol发出预警。",
+          "important": false
+        },
+        {
+          "actor": "CBOE",
+          "actor_type": "Corporate",
+          "text": "Cboe拟2026/8/13起为20只期权增加盘前盘后交易时段",
+          "details": "Cboe Options Exchange（C1）计划为20个大型精选股票期权增加扩展交易时段，早盘7:30am-9:25am，盘后4:00pm-4:15pm，Cboe计划从2026年8/13起。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2,
+        3
+      ],
+      "importance": 2,
+      "sources": [
+        "BofA",
+        "GS"
+      ],
+      "date": "2026-07-14",
+      "image_urls": [
+        "/uploads/2026-07-14/549e933a0a24.png",
+        "/uploads/2026-07-14/981da6f454f6.jpg"
+      ]
+    },
+    {
+      "id": "ai-infra-agent-latency-jul14",
+      "topic": "AI基础设施/Agent",
+      "topic_tag": "ai",
+      "title": "MS：Agent工作负载CPU处理占比升至90%+",
+      "summary": "Morgan Stanley/Georgia Tech/Intel联合研究显示，随着AI工作负载从Chatbot向复杂Agent演进，CPU处理在总延迟中占比从Chatbot的~18%升至Complex orchestration的~93%，GPU compute占比大幅下降，暗示AI Infra重心正在从GPU向CPU/orchestration迁移。多家新闻显示AI监管与开源博弈同步升温。",
+      "bullets": [
+        {
+          "actor": "Morgan Stanley Research",
+          "actor_type": "Analyst",
+          "text": "Agent负载CPU处理占比升至90%+ GPU重要性下降",
+          "details": "MS Research/Georgia Tech/Intel paper显示Share of total latency：Chatbot(baseline) GPU~82%/CPU~18%；RAG pipeline GPU~52%/CPU~48%；Coding assistant GPU~45%/CPU~55%；Multi-tool agent GPU~30%/CPU~70%；Research agent GPU~18%/CPU~82%；Complex orchestration GPU~7%/CPU~93%。Note: Per-workload splits are directional estimates by MS Tech Research, not measured benchmarks.",
+          "important": true
+        },
+        {
+          "actor": "Gavin Baker",
+          "actor_type": "KOL",
+          "text": "模型更便宜或引Token激增 利好Infra",
+          "details": "如果AI模型变得更便宜、更高效，反而可能刺激整体Token需求大幅增加，从而把更多利润从模型公司转移到基础设施公司（Nvidia等），形成对AI Infra的长期利好。",
+          "important": false
+        },
+        {
+          "actor": "AXIOS/DeepMind Hassabis",
+          "actor_type": "新闻",
+          "text": "Hassabis呼吁美国主导全球AI监管机构",
+          "details": "AXIOS报道谷歌DeepMind的Demis Hassabis呼吁建立由美国主导的全球人工智能监管机构。",
+          "important": false
+        },
+        {
+          "actor": "WAPO",
+          "actor_type": "新闻",
+          "text": "白宫与AI业界讨论美国开源模型能力框架",
+          "details": "WAPO报道特朗普政府和人工智能产业一直在讨论美国开源模型的能力框架。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "美数据中心运营商拟今夏出售数百亿美元多数股权",
+          "details": "WSJ报道美国各地的数据中心建设商和运营商正与银行家合作，计划在今年夏天出售价值数百亿美元的多数股权。不断上涨的建设成本以及劳动力和零部件短缺，迫使一些运营商寻求资金更雄厚的投资者来支持其扩张计划。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "INTC",
+        "GOOGL"
+      ],
+      "image_indexes": [
+        4
+      ],
+      "importance": 2,
+      "sources": [
+        "Morgan Stanley",
+        "AXIOS",
+        "WAPO",
+        "WSJ"
+      ],
+      "date": "2026-07-14",
+      "image_urls": [
+        "/uploads/2026-07-14/ca3a8d47ddfb.webp"
+      ]
+    },
+    {
+      "id": "foreign-inflows-us-equities-jul14",
+      "topic": "海外资金流入美股",
+      "topic_tag": "macro-other",
+      "title": "Apollo：外资净流入美股12月累计近$900B创历史新高",
+      "summary": "Apollo图表显示外资对美股净流入12个月累计接近$900B，创历史最高纪录，远超2000年、2008年前及2021年三个前高峰值。",
+      "bullets": [
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "外资净流入美股12月累计~$900B 历史新高",
+          "details": "Apollo图表'Record-high global demand for US equities'：Net foreign inflows into US equities（12 month sum, $, billion），2026年数据接近$900B，显著超越2000年前后（~$200B）、2008年前（~$200B）及2021年（~$400B）三个前高点。",
+          "important": true
+        },
+        {
+          "actor": "BBG/BNP",
+          "actor_type": "新闻",
+          "text": "GPIF尚有12.3T日元空间加码日本国债",
+          "details": "BBG报道据BNP称，日本政府养老投资基金（GPIF）在不改变其资产配置比例的情况下，还有空间额外购买至多12.3T日元（76B美元）的政府债券，这可能为债券市场提供支撑。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        5
+      ],
+      "importance": 2,
+      "sources": [
+        "Apollo",
+        "BBG"
+      ],
+      "date": "2026-07-14",
+      "image_urls": [
+        "/uploads/2026-07-14/381a4b15e2ae.jpg"
+      ]
+    },
+    {
+      "id": "other-news-jul14",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "其他：CXMT上市/液体散货运输骤降",
+      "summary": "杂项：中国长鑫存储CXMT计划7/27上交所上市；某液体散货港口/船舶数据显示2026年2月底出现断崖式下降，艘次与载重吨从60-80/700-800万吨骤降至个位数/接近0，直到6月末7月初才小幅回升。",
+      "bullets": [
+        {
+          "actor": "BBG",
+          "actor_type": "新闻",
+          "text": "CXMT计划7/27上交所上市",
+          "details": "BBG报道中国长鑫存储技术股份有限公司（CXMT）计划于7/27在上海证券交易所上市。",
+          "important": true
+        },
+        {
+          "actor": "数据图表",
+          "actor_type": "新闻",
+          "text": "液体散货艘次/载重吨2026/2月底断崖下降",
+          "details": "液体散货运输数据显示，艘次（红线）与载重吨（蓝线）在2025-12-01至2026-02下旬维持60-80艘次/700-800万吨水平，随后于2026/3月初出现断崖式暴跌至个位数/接近0水平；直到2026/6月末至7月初艘次才小幅回升至~25、载重吨~300万吨。日期截至2026-07-13。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        6
+      ],
+      "importance": 1,
+      "sources": [
+        "BBG"
+      ],
+      "date": "2026-07-14",
+      "image_urls": [
+        "/uploads/2026-07-14/2a1d474aae15.png"
+      ]
+    }
+  ]
+}

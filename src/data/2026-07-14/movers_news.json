@@ -1,0 +1,51 @@
+{
+  "generated_at": "2026-07-14T21:31:44+00:00",
+  "date": "2026-07-14",
+  "since": "2026-07-12T20:00:00+00:00",
+  "by_ticker": {
+    "SKHY": [
+      {
+        "headline": "Goldman Sachs Saves the Dow From IBM's Worst Day in 39 Years",
+        "url": "https://www.fool.com/investing/2026/07/14/goldman-sachs-saves-the-dow-from-ibms-worst-day-in/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-07-14T17:01:34Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878798%2Fibm-international-business-machines-logo-blue.png&w=1200&op=resize",
+        "description": "IBM shares plummeted 24.9% after CEO Arvind Krishna warned that customers are redirecting IT budgets from software to hardware, marking the company's worst day since 1987. Goldman Sachs surged 7.4% after beating Q2 earnings estimates, offsetting IBM's 429-point drag on the Dow. The market rotation favored semiconductor stocks, with SK Hynix jumping 18.5%, Nvidia gaining 2.6%, and Micron rising 5.1%."
+      },
+      {
+        "headline": "Could This Listing Close the Valuation Gap With Micron?",
+        "url": "https://www.fool.com/investing/2026/07/14/listing-close-valuation-gap-micron-sk-hynix/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-07-14T17:01:00Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878404%2Fgettyimages-1514517949.jpg&w=1200&op=resize",
+        "description": "SK Hynix's Nasdaq listing could help narrow its long-standing 35% valuation discount to Micron by improving U.S. investor access and liquidity. However, the gap closure depends heavily on sustained AI memory demand, and memory chip cycles historically show signs of peaking, with potential oversupply risks by 2027-2028 that could compress multiples if sentiment cools."
+      },
+      {
+        "headline": "Hynix Isn't Selling Shares to Cash Out. It's Funding a $26.5 Billion Factory Bet.",
+        "url": "https://www.fool.com/investing/2026/07/14/hynix-selling-shares-cash-out-fund-factory/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-07-14T14:30:00Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878409%2Fsemiconductor-manufacturing.jpg&w=1200&op=resize",
+        "description": "SK Hynix raised $26.5 billion through its first U.S. ADR offering to fund expansion of manufacturing capacity for memory chips, particularly high-bandwidth memory (HBM) used in AI data centers. The company plans to build new foundries and packaging plants while purchasing advanced lithography equipment. With HBM market projected to grow 25% annually through 2035 and SK Hynix controlling over half the market share, analysts rate the stock as a strong buy with price targets 60% above current level"
+      },
+      {
+        "headline": "The KOSPI Bubble",
+        "url": "https://www.investing.com/analysis/the-kospi-bubble-200683889",
+        "source": "Investing.com",
+        "published_at": "2026-07-14T13:33:00Z",
+        "image": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+        "description": "The Korean Composite Stock Price Index (KOSPI) has surged over 88% in 2026 and 200% in two years, driven primarily by semiconductor companies Samsung Electronics and SK Hynix, which now account for nearly 60% of the index. This extreme concentration poses regulatory risks, as Goldman Sachs warns that a one percentage point increase in combined weight could force foreign institutional investors to sell due to diversification rules. The KOSPI has become a bet on global AI infrastructure rather tha"
+      }
+    ],
+    "CRNX": [
+      {
+        "headline": "Does Vertex's Acquisition of Crinetics Pharmaceuticals Make the Stock a No-Brainer Buy?",
+        "url": "https://www.fool.com/investing/2026/07/13/does-vertexs-acquisition-of-crinetics-pharmaceutic/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-07-13T18:27:07Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878467%2Fa-group-of-scientists-looking-at-a-report.jpg&w=1200&op=resize",
+        "description": "Vertex Pharmaceuticals announced a $10 billion acquisition of Crinetics Pharmaceuticals to expand beyond its cystic fibrosis focus into endocrine disease treatments. The deal could add up to $5 billion in annual revenue through approved drug Palsonify and pipeline candidate Atumelnant. While Vertex's stock initially fell post-announcement, the author suggests it could be a solid long-term buy given management's track record and enhanced growth prospects, despite the 29x trailing earnings valuati"
+      }
+    ]
+  }
+}
