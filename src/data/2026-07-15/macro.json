@@ -1,0 +1,556 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis-jul16",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "特朗普扬言升级对伊打击，霍尔木兹几近断航",
+      "summary": "特朗普称拒绝谈判，威胁下周升级空袭至伊朗电厂桥梁等基础设施，并暗示可夺取Kharg岛；美军连夜空袭伊朗南部多目标，伊朗方面称30余平民死亡并誓言报复，IRGC对美军在巴林、约旦、科威特、卡塔尔基地发动多轮'纳斯尔行动2'反击。霍尔木兹海峡对商船实际封闭，IMO与日本商团发出安全警告，仅少数船只冒险通行。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "威胁下周升级打击伊朗基础设施",
+          "details": "【重要】特朗普称若伊朗不达成协议，美军对伊打击将继续并于下周升级；'今晚、明晚、后晚都会狠狠打击他们'，下周将打击发电厂和桥梁等基础设施；'你最好达成协议，否则什么都不会剩下'。已2-3次打击Kharg岛，若进一步削弱可考虑夺取该岛；对平民采取谨慎态度。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "'现在不想谈判'，称伊朗别无选择",
+          "details": "Trump: 'I don't want to negotiate now.'，同时称伊朗'别无选择'必须达成协议，若非以当前方式施压，他们永远不会谈；两天前已达成协议但伊朗在最后时刻破坏；强调只有通过军事力量才能与伊朗谈判，若离开，现在伊朗需20年才能重建现有设施。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "霍尔木兹仅对伊朗关闭，用海湾投资取代20%补偿费",
+          "details": "特朗普称霍尔木兹海峡'对希望通行的人开放'，仅对伊朗关闭（进出皆然）；决定用海湾各国与美国达成的贸易和投资协议来取代20%的美国补偿费；海湾国家将对美国进行大量投资。",
+          "important": false
+        },
+        {
+          "actor": "Trump/白宫",
+          "actor_type": "US-Executive",
+          "text": "战情室会议讨论远超海峡的更大规模攻势",
+          "details": "特朗普周二召开了战情室会议，讨论对伊朗发起更广泛的攻势，其范围远远超出目前在霍尔木兹海峡的行动。",
+          "important": false
+        },
+        {
+          "actor": "美军",
+          "actor_type": "US-Executive",
+          "text": "连夜空袭伊朗南部多目标，伊朗证实7名士兵阵亡",
+          "details": "美军连夜空袭了伊朗南部多个目标，包括布什尔第六战术空军基地、胡齐斯坦省的粮仓、伊拉姆省的一家矿泉水厂、亨加姆岛、格什姆岛以及位于班普尔的第388旅驻地——伊朗军方证实有7名士兵被13枚美军导弹击毙，并誓言将进行'确定且迫在眉睫'的报复。",
+          "important": false
+        },
+        {
+          "actor": "IRGC",
+          "actor_type": "Foreign-Gov",
+          "text": "'纳斯尔行动2'袭击美军巴林/约旦/科威特/卡塔尔基地",
+          "details": "IRGC同时发动了至少七波'纳斯尔行动2'，声称袭击了位于巴林的美国第五舰队总部、位于约旦的阿兹拉克空军基地（目标是F-15/F-16/F-35机库和MQ-9无人机）以及位于科威特米纳阿卜杜拉的美国主要后勤枢纽。伊朗国家媒体发布的卫星图像显示，美国第五舰队无人机指挥中心和位于卡塔尔的乌代德空军基地也遭到破坏。",
+          "important": false
+        },
+        {
+          "actor": "伊朗政府发言人",
+          "actor_type": "Foreign-Gov",
+          "text": "称美空袭致30余平民死亡，威胁关闭所有对美盟出口通道",
+          "details": "【重要】伊朗政府发言人宣布，美国最近对伊朗南部发动的空袭造成30多名平民死亡；伊朗伊斯兰IRGC威胁要关闭'所有其他有利于美国及其盟友的出口通道'。",
+          "important": false
+        },
+        {
+          "actor": "伊朗驻联合国代表",
+          "actor_type": "Foreign-Gov",
+          "text": "致信联合国，指控美国42起'明显且实质性'违反",
+          "details": "伊朗驻联合国代表致联合国信函称，美国持续拒绝履行承诺，故意破坏谅解备忘录执行；已记录美方42起'明显且实质性'违反行为。",
+          "important": false
+        },
+        {
+          "actor": "IMO",
+          "actor_type": "Foreign-Gov",
+          "text": "IMO警告霍尔木兹海峡对商船仍过于危险",
+          "details": "国际海事组织表示，霍尔木兹海峡对商船而言仍然过于危险，不宜通行。这是自华盛顿和德黑兰之间的临时和平协议破裂以来，国际海事组织向航运业发出的最重要航行安全警告。",
+          "important": false
+        },
+        {
+          "actor": "日本商团",
+          "actor_type": "Corporate",
+          "text": "日大型商团：短期内海峡实际禁止商业航运",
+          "details": "BBG报道日本一家大型商业游说团体的负责人周三表示，除非美伊冲突得到解决，否则霍尔木兹海峡在短期内实际上将禁止商业航运。",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "少数船只冒险过峡，两艘伊油轮改标巴基斯坦",
+          "details": "周三，就在美国恢复对伊朗的海上封锁数小时后，以及针对船只的袭击事件激增之后，少数船只冒险通过了霍尔木兹海峡。两艘载有伊朗石油的油轮发出信号，称其目的地为巴基斯坦——这一不同寻常的举动可能表明，随着美国封锁生效，它们正在寻找一个安全的避难所。",
+          "important": false
+        },
+        {
+          "actor": "Politico/分析人士",
+          "actor_type": "新闻",
+          "text": "阿拉伯国家/巴基斯坦调解无公开进展，战斗预计继续",
+          "details": "据分析人士和Politico消息人士称，阿拉伯国家、巴基斯坦和其他调解人为重启谈判或恢复停火所做的努力尚未取得任何公开进展，中东及其他地区普遍认为，战斗目前还将继续。",
+          "important": false
+        },
+        {
+          "actor": "Axios",
+          "actor_type": "新闻",
+          "text": "特朗普敦促以色列从叙黎撤军",
+          "details": "AXIOS报道特朗普明确敦促以色列将军队撤出叙利亚和黎巴嫩。",
+          "important": false
+        },
+        {
+          "actor": "Hamidreza Azizi",
+          "actor_type": "KOL",
+          "text": "KOL：伊朗策略为长期封峡消耗美SPR",
+          "details": "Hamidreza Azizi：伊朗本轮攻击策略与上次40天战争不同，上次战争中伊朗有清晰分阶段目标（先打预警系统、远程攻击基地和能源设施），本次伊朗仍在反复打击科威特和巴林的美军基地（这些基地之前已被多次打击）。虽然可能是在打击美军新增设施，但效果有限，难以有效反制美方。本轮美国目标更聚焦，重点是削弱伊朗威胁霍尔木兹海峡的能力，每晚都在针对性打击。伊朗主要策略是尽可能长时间关闭霍尔木兹海峡，让美国持续消耗战略石油储备，希望对全球石油市场和美国经济造成不可逆转冲击，从而迫使特朗普改变立场。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "Axios",
+        "Bloomberg",
+        "Politico",
+        "BBG"
+      ],
+      "date": "2026-07-15",
+      "image_urls": [
+        "/uploads/2026-07-15/714d1e7d5e23.png"
+      ]
+    },
+    {
+      "id": "gs-oil-hormuz-jul16",
+      "topic": "GS原油展望",
+      "topic_tag": "oil",
+      "title": "高盛：海湾原油缺口13.4M b/d，布伦特基准维持80",
+      "summary": "高盛测算重新封锁导致波斯湾原油供应缺口达13.4M b/d，伊朗出口预计减少1.5-2M b/d；维持布伦特2026Q4=80/2027=75美元基准，但极端情境下2026Q4可能突破110美元。",
+      "bullets": [
+        {
+          "actor": "GS Oil Analyst",
+          "actor_type": "Analyst",
+          "text": "波斯湾供应缺口13.4M b/d，伊朗出口减1.5-2M",
+          "details": "重新封锁导致当前市场面临13.4M b/d的波斯湾原油供应缺口，如果短期内局势无法缓和，市场将不得不依赖更多的需求抑制和库存消耗来平衡；部分油轮在通过海峡时关闭了应答器，随着它们在海峡外重新开启信号，实际流量数据往往会被大幅上调。重新恢复的针对伊朗港口及沿海地区的封锁，预计将导致伊朗原油出口减少1.5-2M b/d。",
+          "important": true
+        },
+        {
+          "actor": "GS Oil Analyst",
+          "actor_type": "Analyst",
+          "text": "复苏或缓慢：非中东减产缺口累计9M b/d",
+          "details": "后续复苏可能较为缓慢：第一阶段的复苏主要由沙特和阿联酋（拥有富余产能和大型油轮群）推动，其中阿联酋的产量在6月已超过战前水平，但其他产油国的累计减产缺口仍高达9M b/d。由于安全担忧，非中东及私人航运商在非伊朗航道（如阿曼及国际航道）的运输活动在袭击发生后大幅减少，避险情绪依然浓厚。",
+          "important": false
+        },
+        {
+          "actor": "GS Oil Analyst",
+          "actor_type": "Analyst",
+          "text": "布伦特26Q4=80基准，极端情境冲110",
+          "details": "维持对布伦特原油的基准价格预测：2026年第四季度为80美元/桶，2027年为75美元/桶。若波斯湾出口复苏持续停滞，导致产量反弹推迟并迫使需求端做出更大调整，布伦特原油在2026年第四季度可能会冲破110美元/桶；一旦地缘政治局势缓和，波斯湾的出口可以迅速反弹，若届时产量超出预期且高零售油价压制了需求，油价到年底可能会回落至60多美元/桶。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "USO",
+        "XLE"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Goldman Sachs"
+      ],
+      "date": "2026-07-15",
+      "image_urls": []
+    },
+    {
+      "id": "us-cpi-fed-path-jul16",
+      "topic": "美CPI与Fed路径",
+      "topic_tag": "fed",
+      "title": "6月核心CPI意外降温，Fed路径分歧加剧",
+      "summary": "6月核心CPI环比降0.02%（2020年5月以来首次下降），整体CPI环比-0.42%，关税传导迹象结束；但Warsh在听证会上强调对通胀'零容忍'，市场同时定价潜在7月加息。卖方与KOL就Fed是否需要加息路径展开激烈辩论，多数机构认为7月加息应off the table。",
+      "bullets": [
+        {
+          "actor": "MS Eco",
+          "actor_type": "Analyst",
+          "text": "6月核心CPI环比-0.02%，维持Fed按兵不动",
+          "details": "美国6月核心CPI环比下降0.02%，超预期降温，显示关税传导已结束。整体CPI环比降0.42%，核心服务通胀软化。维持Fed按兵不动判断，下调核心PCE预测至0.20%。AI需求支撑部分商品价格。",
+          "important": true
+        },
+        {
+          "actor": "Nomura Eco",
+          "actor_type": "Analyst",
+          "text": "野村：核心PCE降至3.3%，Fed 2027前不加息",
+          "details": "6月美国核心CPI环比降0.017%，为2020年5月以来首次下降，超预期。核心PCE预测下调10bp至0.168%，同比降至3.3%。服务价格减速与工资增长放缓一致，关税影响减弱。维持美联储2027年前不加息判断。",
+          "important": false
+        },
+        {
+          "actor": "BofA Macro",
+          "actor_type": "Analyst",
+          "text": "美银逆势鹰派：未来12月加息75bp",
+          "details": "美联储前景依然鹰派。尽管6月CPI降温，但核心PCE仍高达3.3%，美银预计未来12个月美联储将加息75bp，高于市场定价的39bp。强劲经济与高油价支撑鹰派立场，预计2026年下半年收益率维持高位，利好投资级债券需求。",
+          "important": false
+        },
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "Nick：Warsh借2022-23未能稳物价捍卫其议程",
+          "details": "Warsh不止一次地通过指出美联储在2022-23年后未能恢复价格稳定来捍卫他的议程，批评（Fed）。",
+          "important": false
+        },
+        {
+          "actor": "AP Research",
+          "actor_type": "KOL",
+          "text": "Warsh鹰派+温和数据的完美组合",
+          "details": "AP Research：鹰派言论与温和数据的完美结合：Warsh在听证会上强调美联储对高通胀'零容忍'。随后公布的CPI数据却异常疲软，不加息的'鹰派'：因为数据本身已经在降温，Warsh无需通过立即加息来证明自己的鹰派历程，虽然地缘政治紧张可能再次推高油价、导致headline CPI出现短期反弹，但这只是阶段性的波动，整体核心通胀仍处于下行通道。",
+          "important": false
+        },
+        {
+          "actor": "EconstratPB",
+          "actor_type": "KOL",
+          "text": "Waller前瞻：核心CPI 0.4%投票加息、0.2%不加",
+          "details": "Waller昨天提供了最明确的前瞻性指引，如果下一次核心CPI环比为0.4%→Waller会投票支持加息，如果是0.2%→他不会支持加息。",
+          "important": false
+        },
+        {
+          "actor": "Omair Sharif",
+          "actor_type": "KOL",
+          "text": "三项一次性因素拖低核心CPI近20bp",
+          "details": "Omair Sharif：这次核心通胀数据被三个不会重复的项目（即不是广泛基础的）拖低了近0.2个百分点。0.17%的中值CPI是适度的，因此美联储仍然值得耐心等待。",
+          "important": false
+        },
+        {
+          "actor": "@fwred",
+          "actor_type": "KOL",
+          "text": "技术通胀仍高烧，7月加息应off the table",
+          "details": "@fwred：这份CPI报告中的坏消息只有一条，即技术通胀仍在高烧中。核心PCE将再次强于CPI，尽管低于纽约Williams的+20bps阈值。July should be off the table。",
+          "important": false
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "KOL",
+          "text": "Erian：市场对7月加息的定价过度",
+          "details": "Erian：关于市场正在为Fed政策更鹰派的路径定价，包括一次7月hike。这一转变背后是持续上涨的全球油价对市场信心的影响（在我看来，这种影响是过度的）。市场对以下观点的信心正在动摇：(i)能源和关税驱动的通胀已经过去，以及(ii)由人工智能驱动的部分将带来有利且具有反通胀效应的供给侧提振。",
+          "important": false
+        },
+        {
+          "actor": "Anna",
+          "actor_type": "KOL",
+          "text": "通胀预期锚定，当前加息路径过度紧缩",
+          "details": "Anna：通胀预期已基本锚定，伊朗战争带来的供给冲击是暂时的，如果通胀真的已经接近目标，那么市场目前定价的加息路径可能过度紧缩，最终会不必要地伤害就业和增长。",
+          "important": false
+        },
+        {
+          "actor": "Bob",
+          "actor_type": "KOL",
+          "text": "Bob：全球通胀低迷，美市场仍在定价鹰派高点",
+          "details": "Bob：尽管近期油价飙升，全球通胀仍保持显著低迷。几乎所有地方的高点价格涨幅都已过去，而美国市场仍在定价高点鹰派。",
+          "important": false
+        },
+        {
+          "actor": "Ernie",
+          "actor_type": "KOL",
+          "text": "Ernie：计算机软硬件涨价对整体通胀无实质影响",
+          "details": "Ernie：计算机软件及配件价格的上涨对整体通胀没有实质性影响，也无法抵消6月非食品类CPI环比的广泛降温趋势。",
+          "important": false
+        },
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "short bear：不解市场对CPI的惊讶",
+          "details": "short bear：不明白为什么人们会对CPI数据感到惊讶，而且我们也没有提价的打算。昨天加息的概率是50%，在我看来完全是无稽之谈。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TLT",
+        "IEF"
+      ],
+      "image_indexes": [
+        1,
+        3,
+        4
+      ],
+      "importance": 3,
+      "sources": [
+        "MS",
+        "Nomura",
+        "BofA",
+        "WSJ"
+      ],
+      "date": "2026-07-15",
+      "image_urls": [
+        "/uploads/2026-07-15/e8d408aa11ac.png",
+        "/uploads/2026-07-15/ba726215fac2.png",
+        "/uploads/2026-07-15/588d740d4b37.jpg"
+      ]
+    },
+    {
+      "id": "us-congress-recon3-jul16",
+      "topic": "美国国会",
+      "topic_tag": "policy",
+      "title": "共和党拟推窄版Reconciliation 3.0",
+      "summary": "共和党领导层计划一个范围较窄的Reconciliation 3.0，主要含约67B国防+20B农业援助，含SAVE America Act部分内容，本周四预算委审议、下周众院表决；众议院另通过永久夏令时法案。",
+      "bullets": [
+        {
+          "actor": "共和党领导层",
+          "actor_type": "US-Congress",
+          "text": "窄版Recon 3.0：67B国防+20B农业援助",
+          "details": "共和党领导层目前正在计划一个范围较窄的Reconciliation 3.0，主要包含约67B的国防预算、约20B的农业与农场援助，《拯救美国法案》(SAVE America Act)的部分内容，本周四的预算委员会审议投票，下周众院表决。",
+          "important": true
+        },
+        {
+          "actor": "美众议院",
+          "actor_type": "US-Congress",
+          "text": "通过永久夏令时法案，送参院",
+          "details": "美国众议院通过法案，将夏令时永久化，该法案获特朗普支持，现已送到参议院审议。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-15",
+      "image_urls": []
+    },
+    {
+      "id": "korea-market-minsky-jul16",
+      "topic": "韩国股市杠杆",
+      "topic_tag": "macro-other",
+      "title": "韩国单股杠杆ETF爆炒，HSBC警明斯基风险",
+      "summary": "韩国十大券商CEO讨论杠杆ETF投资者保护措施，李在明称韩股'相当不稳定'；HSBC警告单股杠杆ETF名义敞口达29B，若跌10%SK海力士/三星面临近3B强制抛售，但企业2026盈利预计增300%、PE仅6倍提供缓冲。",
+      "bullets": [
+        {
+          "actor": "HSBC Asia",
+          "actor_type": "Analyst",
+          "text": "HSBC：韩股杠杆逆转风险，SKH+三星3B强平线",
+          "details": "韩国股市面临'明斯基时刻'风险：杠杆资金逆转或引发剧烈波动，单一股票杠杆ETF名义敞口达29B。若股价再跌10%，SK海力士和三星电子将面临合计近3B强制抛售。但与2015年中国不同，韩国企业2026年盈利预计增长300%，当前市盈率仅约6倍，低估值与强劲盈利提供缓冲。",
+          "important": true
+        },
+        {
+          "actor": "韩国金融投资协会",
+          "actor_type": "Foreign-Gov",
+          "text": "十大券商CEO讨论杠杆ETF保护措施",
+          "details": "据韩国金融投资协会消息，韩国十大证券公司首席执行官讨论了针对单只杠杆ETF的投资者保护措施，包括提高最低存款额和分散再平衡交易。",
+          "important": false
+        },
+        {
+          "actor": "李在明",
+          "actor_type": "Foreign-Gov",
+          "text": "李在明：韩股'相当不稳定'，需时间稳定",
+          "details": "韩国总统李在明表示，韩国股市'相当不稳定'，在经历了'史无前例的大幅上涨'后，需要时间才能稳定下来。",
+          "important": false
+        },
+        {
+          "actor": "Mengyu Lan",
+          "actor_type": "KOL",
+          "text": "SKHY 2x ETF与期权同步上线驱动逆转",
+          "details": "Mengyu Lan：今天SKHY确实是先反转，而反转的原因恰恰是今天2x ETF产品和期权产品同时上线；昨天000660有气无力是被7709影响的，亚洲的海力士在去杠杆，美国的海力士在加杠杆。这一波美国的杠杆可以加到什么程度？可以参考MUU的规模（2x MU ETF），现在MUU的规模是$6b，应该是美股个股最大2x ETF。SKHY的2x ETF，如果能到MUU 50%的规模，我就认为很极限了。",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "Andy：SKHY溢价惊人，今晚或为上限",
+          "details": "Andy：相当惊人的$SKHY溢价。今晚是上限吗？",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "Herman：杠杆ETF换标一边爆仓一边爆涨",
+          "details": "Herman Jin：杠杆etf换标的，一边爆仓，一边爆涨；前几天有人卖了7709买SKNY；这几天有些韭菜去买SKUU SKDD。事情还在两可之间，别太fomo。除了被杠杆etf强买起来的SKHY，市场对CPI反馈乏善可陈；我偏乐观因为在做空credit，不是很担心hyperscaler被瞎解读，裸多现在确实不应该仓位过高。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "HSBC",
+        "韩国金融投资协会"
+      ],
+      "date": "2026-07-15",
+      "image_urls": []
+    },
+    {
+      "id": "ai-capex-hyperscaler-jul16",
+      "topic": "AI Capex/基建",
+      "topic_tag": "ai",
+      "title": "GS：2027超大规模Capex共识存上修空间",
+      "summary": "GS指2026超大规模Capex预算基本敲定，2027仍处早期规划，修正窗口集中在2026下半至2027年初，共识存上修空间；同时OpenAI首款消费设备为无屏智能音箱；Kalshi推出GPU租赁远期曲线（B200/H200/A100）；纽约州将实施全美首个全州数据中心建设禁令。",
+      "bullets": [
+        {
+          "actor": "GS AI",
+          "actor_type": "Analyst",
+          "text": "2027超大规模Capex共识存上修空间",
+          "details": "GS AI：超大规模数据中心运营商2026年的资本支出预算基本已经确定，而2027年的预算还处于早期规划阶段。同样，过去几年资本支出估算修正的模式表明，2026年下半年的估算波动性将小于上半年，而随着日历年的临近，2027年的估算修正的可能性更大。",
+          "important": true
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "OpenAI首款消费设备为无屏智能音箱",
+          "details": "BBG透露备受期待的OpenAI进军消费设备领域的计划将以一款移动式、无屏幕智能音箱为开端，这款音箱旨在成为人工智能时代新型家用电（器）。",
+          "important": false
+        },
+        {
+          "actor": "Kalshi",
+          "actor_type": "Corporate",
+          "text": "Kalshi推GPU租赁远期曲线（B200/H200/A100）",
+          "details": "Kalshi推出了计算远期曲线，这是一种新的定价基准，可以显示租用GPU容量的隐含未来价格。Kalshi的远期曲线现已上线，适用于Nvidia B200、H200和A100芯片。",
+          "important": false
+        },
+        {
+          "actor": "纽约州",
+          "actor_type": "US-Executive",
+          "text": "纽约州实施全美首个全州数据中心建设禁令",
+          "details": "纽约州将实施全美首个全州范围内的数据中心建设禁令。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "GOOGL",
+        "META",
+        "AMZN",
+        "OPENAI"
+      ],
+      "image_indexes": [
+        5,
+        6
+      ],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "BBG",
+        "Kalshi"
+      ],
+      "date": "2026-07-15",
+      "image_urls": [
+        "/uploads/2026-07-15/3528c9911b5e.jpg",
+        "/uploads/2026-07-15/28890214cdff.png"
+      ]
+    },
+    {
+      "id": "asia-semi-ipo-jul16",
+      "topic": "亚洲半导体/IPO",
+      "topic_tag": "macro-other",
+      "title": "长鑫科技/DeepSeek IPO；三星与华为扩DRAM产能",
+      "summary": "长鑫科技IPO定价8.66元，拟募资近10B，为2010以来陆最大IPO；DeepSeek计划年内递交、2027年A股上市；三星拟在器兴新建10万片/月DRAM厂；中国政府与华为、世维实合作在深圳建14万片/月的28nm DRAM厂。",
+      "bullets": [
+        {
+          "actor": "长鑫科技",
+          "actor_type": "Corporate",
+          "text": "长鑫科技IPO定价8.66元，拟募资近10B",
+          "details": "长鑫科技公布发行价格，为￥8.66每股，申请时间起止为7月16日当天，正寻求通过自2010年以来中国大陆规模最大的首次公开募股（IPO）筹集近10B。",
+          "important": true
+        },
+        {
+          "actor": "DeepSeek",
+          "actor_type": "Corporate",
+          "text": "DeepSeek最早年内递表，27年A股上市",
+          "details": "中国AI大模型公司DeepSeek，最早将于今年提交上市申请，并于27年在中国内地上市。",
+          "important": false
+        },
+        {
+          "actor": "三星电子",
+          "actor_type": "Corporate",
+          "text": "三星拟在器兴新建10万片/月DRAM厂",
+          "details": "据《韩国经济日报》援引未具名的业内人士报道，三星电子计划在韩国器兴市新建一座DRAM工厂，该工厂每月可生产10万片晶圆。",
+          "important": false
+        },
+        {
+          "actor": "华为/世维实",
+          "actor_type": "Corporate",
+          "text": "中国政府携华为在深圳建14万片/月 28nm DRAM厂",
+          "details": "中国政府正与华为和国营企业世维实合作，在深圳建设一座月产能达14万片晶圆（12英寸）的大型DRAM工厂，用于生产28nm DRAM。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MU",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "韩国经济日报"
+      ],
+      "date": "2026-07-15",
+      "image_urls": []
+    },
+    {
+      "id": "gs-credit-vs-spx-jul16",
+      "topic": "GS Credit vs SPX",
+      "topic_tag": "rates",
+      "title": "GS：IG信用债与SPX历史性分化，AI叙事驱动",
+      "summary": "GS Daily指2026年USD IG信用债与SPX走势显著分化，股票对信用债贝塔创历史新高；分化源于AI的非对称影响（超大盘上行凸性+科技巨头债务发行技术性压力）与行业构成错配（SPX集中科技/半导体，信用债重仓银行/公用），信用债成为抗跌稳定锚。",
+      "bullets": [
+        {
+          "actor": "GS Daily",
+          "actor_type": "Analyst",
+          "text": "IG债vs SPX分化创历史，信用债成抗跌锚",
+          "details": "2026年USD IG信用债与SPX走势出现显著分化，股票对信用债的贝塔系数创下历史新高。这种分化主要源于两个核心因素：一是人工智能（AI）题材的非对称影响，AI赋予了美股超级大盘股强大的'上行凸性'，却由于科技巨头为满足Capex支出而创纪录地发行债务，给信用债带来了供给端的技术性压力；二是行业构成错配，SPX高度集中于成长型的科技与半导体行业，而信用债指数则重仓于银行、公用事业等受监管的价值型行业。这一独特的分化格局意味着，虽然信用债在科技股领涨的牛市中表现落后，但在股市回调（如今年2月和6月的下跌）期间其波动极小，展现出了极强的抗跌韧性，成为了投资者有效的避险稳定锚。",
+          "important": true
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "参考图表：黄金月度回报季节性",
+          "details": "图2显示Gold SPDR月度回报及年度总回报（2010-2026 YTD），2026年YTD显示较大波动（3月-11.05%、6月-11.68%）。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "LQD",
+        "SPY"
+      ],
+      "image_indexes": [
+        2
+      ],
+      "importance": 1,
+      "sources": [
+        "Goldman Sachs"
+      ],
+      "date": "2026-07-15",
+      "image_urls": [
+        "/uploads/2026-07-15/30eb52b930cf.jpg"
+      ]
+    },
+    {
+      "id": "other-corp-jul16",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "Stripe/Advent拟53B收购PayPal",
+      "summary": "Stripe与私募Advent International联合报价60.50美元/股收购PayPal，估值超53B。",
+      "bullets": [
+        {
+          "actor": "Stripe/Advent",
+          "actor_type": "Corporate",
+          "text": "Stripe+Advent拟60.50美元/股收购PayPal，估值超53B",
+          "details": "Stripe和私募股权公司Advent International已联合提出以每股60.50美元的价格收购PayPal Holdings，该交易对PayPal的估值将超过53B。",
+          "important": true
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "待跟踪：PayPal董事会/监管回应",
+          "details": "目前输入未提及PayPal董事会或反垄断层面对Stripe+Advent 53B报价的回应，需持续跟踪。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "PYPL"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-15",
+      "image_urls": []
+    }
+  ]
+}

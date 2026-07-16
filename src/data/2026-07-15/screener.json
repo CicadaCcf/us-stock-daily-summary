@@ -1,0 +1,87 @@
+{
+  "generated_at": "2026-07-15T21:31:46+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-07-15",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12421,
+    "partial_pass": 6,
+    "with_carryover": 8,
+    "after_full_check": 5
+  },
+  "rows": [
+    {
+      "tk": "LCID",
+      "nm": "Lucid Group, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 28.8,
+      "w1": 2.2,
+      "market_cap_bn": 2.32,
+      "dollar_vol_bn": 0.34,
+      "w1_avg_dollar_vol_bn": 0.23,
+      "reason": "",
+      "main_business": "研发制造高端电动汽车及电池技术"
+    },
+    {
+      "tk": "AEHR",
+      "nm": "Aehr Test Systems",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 21.9,
+      "w1": 29.3,
+      "market_cap_bn": 2.76,
+      "dollar_vol_bn": 1.14,
+      "w1_avg_dollar_vol_bn": 0.38,
+      "reason": "",
+      "main_business": "半导体集成电路老化测试设备制造商"
+    },
+    {
+      "tk": "PYPL",
+      "nm": "PayPal Holdings, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 17.2,
+      "w1": 24.7,
+      "market_cap_bn": 48.97,
+      "dollar_vol_bn": 5.05,
+      "w1_avg_dollar_vol_bn": 1.47,
+      "reason": "",
+      "main_business": "提供在线电子支付及转账服务平台"
+    },
+    {
+      "tk": "CRNX",
+      "nm": "Crinetics Pharmaceuticals, Inc.",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": 0.2,
+      "w1": 0.5,
+      "market_cap_bn": 8.85,
+      "dollar_vol_bn": 0.3,
+      "w1_avg_dollar_vol_bn": 0.54,
+      "reason": "",
+      "main_business": "研发罕见内分泌疾病及内分泌相关肿瘤创新疗法的制药公司"
+    },
+    {
+      "tk": "SKHY",
+      "nm": "SK hynix Inc. American Depositary Shares",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": -9.0,
+      "w1": null,
+      "market_cap_bn": 31.39,
+      "dollar_vol_bn": 13.33,
+      "w1_avg_dollar_vol_bn": 11.96,
+      "reason": "",
+      "main_business": ""
+    }
+  ]
+}
