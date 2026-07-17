@@ -1,0 +1,87 @@
+{
+  "generated_at": "2026-07-16T21:34:34+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-07-16",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12441,
+    "partial_pass": 3,
+    "with_carryover": 8,
+    "after_full_check": 5
+  },
+  "rows": [
+    {
+      "tk": "ATAI",
+      "nm": "AtaiBeckley Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 33.4,
+      "w1": 34.1,
+      "market_cap_bn": 2.63,
+      "dollar_vol_bn": 1.18,
+      "w1_avg_dollar_vol_bn": 0.28,
+      "reason": "",
+      "main_business": "研发快速起效的精神健康创新疗法，专注难治性抑郁症等领域"
+    },
+    {
+      "tk": "LCID",
+      "nm": "Lucid Group, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": 8.6,
+      "w1": 10.8,
+      "market_cap_bn": 2.52,
+      "dollar_vol_bn": 0.29,
+      "w1_avg_dollar_vol_bn": 0.28,
+      "reason": "",
+      "main_business": "研发制造高端电动汽车及电池技术"
+    },
+    {
+      "tk": "PYPL",
+      "nm": "PayPal Holdings, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": 2.2,
+      "w1": 25.2,
+      "market_cap_bn": 50.04,
+      "dollar_vol_bn": 1.9,
+      "w1_avg_dollar_vol_bn": 1.77,
+      "reason": "",
+      "main_business": "提供在线电子支付及转账服务平台"
+    },
+    {
+      "tk": "AEHR",
+      "nm": "Aehr Test Systems",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": -4.1,
+      "w1": 10.5,
+      "market_cap_bn": 2.65,
+      "dollar_vol_bn": 0.37,
+      "w1_avg_dollar_vol_bn": 0.41,
+      "reason": "",
+      "main_business": "半导体集成电路老化测试设备制造商"
+    },
+    {
+      "tk": "SKHY",
+      "nm": "SK hynix Inc. American Depositary Shares",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -13.7,
+      "w1": null,
+      "market_cap_bn": 27.1,
+      "dollar_vol_bn": 8.39,
+      "w1_avg_dollar_vol_bn": 11.1,
+      "reason": "",
+      "main_business": ""
+    }
+  ]
+}

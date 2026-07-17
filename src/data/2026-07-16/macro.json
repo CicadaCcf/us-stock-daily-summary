@@ -1,0 +1,448 @@
+{
+  "topics": [
+    {
+      "id": "fed-officials-2026-07",
+      "topic": "美联储官员表态",
+      "topic_tag": "fed",
+      "title": "Cook/Williams鸽派表态，通胀预期回落",
+      "summary": "美联储官员Cook和Williams相继发表偏鸽言论，Cook表示愿意在7月维持利率不变但若无通缩迹象将采取行动；Williams认为最新通胀数据令人安心，预计年底PCE降至3.25%，关税影响已结束。Nick评论Cook讲话表明FOMC鹰派转变与石油/战争无关。",
+      "bullets": [
+        {
+          "actor": "Cook",
+          "actor_type": "Central-Bank",
+          "text": "Cook：愿7月不变，若无通缩迹象将行动",
+          "details": "美联储Cook称愿意在7月份维持利率不变，但如果除非很快出现通缩迹象，否则将采取行动。另表示人工智能的建设没有放缓的迹象。",
+          "important": true
+        },
+        {
+          "actor": "Williams",
+          "actor_type": "Central-Bank",
+          "text": "Williams：最新通胀数据令人安心，预计年底PCE降至3.25%",
+          "details": "Williams表示最新通胀数据令人安心，但不会对单个dp过于兴奋，预计年底PCE降至3.25%，有相当的理由相信通胀已经达到峰值，能源及其相关产品价格已经坚定，关税影响已结束未来不应成为价格直接影响因素，住房通胀将继续下降，中长期通胀预期稳固。当前政策有利于降低通胀，预计利率会随着通胀下降而下降。",
+          "important": true
+        },
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "Nick：Cook讲话表明FOMC鹰派转变与石油/战争无关",
+          "details": "Nick认为Cook的讲话应该清楚地表明，联邦公开市场委员会鹰派立场的转变并非真正与石油/战争有关。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-07-16",
+      "image_urls": []
+    },
+    {
+      "id": "trump-multi-remarks",
+      "topic": "Trump表态",
+      "topic_tag": "policy",
+      "title": "Trump多线表态：Fed、油价、纽约数据中心、伊朗",
+      "summary": "Trump在多个议题上发言：希望Fed降息、评价Warsh面临董事会阻力；预计油价波动；批评纽约州州长出于政治原因终止所有数据中心项目；感谢伊朗释放被扣押美国女性公民。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：hold总比hike好，希望他们cut；尊重Warsh但其面临敌对董事会",
+          "details": "Trump表示未来一段时间油价可能会出现波动，时涨时跌；hold总比hike好，我希望他们cut；对Warsh非常尊重……别忘了，他有一个董事会。可能是个敌对的董事会。可能有些人不愿意做正确的事。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "批评纽约州州长霍楚终止所有数据中心项目",
+          "details": "Trump称纽约州州长凯西·霍楚出于政治原因，终止了所有在纽约州建设或计划建设的数据中心项目。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "伊朗释放自2024年12月被扣押美国女性公民",
+          "details": "Trump表示伊朗已允许一名自2024年12月起被错误扣押的美国女性公民离开伊朗，她现已安全离开且状况良好，美国感谢伊朗的善意姿态。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-16",
+      "image_urls": []
+    },
+    {
+      "id": "us-iran-crisis-2026-07",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美军空袭首达德黑兰，IRGC反击美军基地",
+      "summary": "美伊冲突升级：美军空袭首次打击德黑兰，同时打击多个伊朗城市；IRGC发起'纳赛尔2号'反击，袭击巴林、科威特、约旦美军基地，约旦拦截8枚导弹；伊朗宣布霍尔木兹海峡为红线。Trump倾向扩大对伊军事行动；Vance反对'轰炸又轰炸'并指责以色列势力干预；众议院否决削减对以军援。谈判方面，美以黎在罗马就区域试点达成一致。",
+      "bullets": [
+        {
+          "actor": "美军/CENTCOM",
+          "actor_type": "US-Executive",
+          "text": "美军空袭首次达到德黑兰，多城遭同步打击",
+          "details": "美军空袭首次达到德黑兰，首都多个城区的防空系统被激活，同时伊朗多个城市包括塞姆南机场、哈马丹省的卡布达拉汉区以及班达尔阿巴斯空军基地报告了同步袭击。",
+          "important": true
+        },
+        {
+          "actor": "IRGC/伊朗",
+          "actor_type": "Foreign-Gov",
+          "text": "IRGC'纳赛尔2号'反击，袭击巴林/科威特/约旦美军基地",
+          "details": "IRGC升级了其'纳赛尔2号'多线反击行动，对巴林、科威特和约旦的美国基地发动了无人机和导弹袭击——约旦军方确认拦截了八枚伊朗导弹——同时伊朗宣布霍尔木兹海峡是一条'红线'，并誓言如果美国继续袭击伊朗平民和军事基础设施，将摧毁所有剩余的区域基础设施。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump倾向扩大对伊军事行动，含夺霍尔木兹岛屿等选项",
+          "details": "据美国官员向WSJ透露，Trump在听取了高级助手数天的简报后，倾向于扩大美国在伊朗的军事行动。选项包括加强空袭、派遣地面部队夺取霍尔木兹海峡附近的伊朗岛屿，以及轰炸一个可能被用于秘密核工作的设防设施。",
+          "important": false
+        },
+        {
+          "actor": "美国中央司令部",
+          "actor_type": "US-Executive",
+          "text": "Hellfire导弹击毁悬挂Curaçao旗M/T BELMA油轮",
+          "details": "美国中央司令部使用Hellfire导弹击中并致残Curaçao悬挂的M/T BELMA油轮（空载），该轮无视多次警告，试图驶向伊朗Kharg岛，违反美国对伊制裁。",
+          "important": false
+        },
+        {
+          "actor": "Vance",
+          "actor_type": "US-Executive",
+          "text": "Vance：美不应'轰炸又轰炸'，指以色列势力干预舆论",
+          "details": "Vance表示美国不应只是'轰炸又轰炸'；以色列在美国公众舆论中正在输掉；不应让恐怖主义基础扩散；指责以色列政府某些势力在背后策划一场运动，试图塑造美国公众对与伊朗战争的看法，并破坏结束冲突的谈判。",
+          "important": false
+        },
+        {
+          "actor": "美众议院",
+          "actor_type": "US-Congress",
+          "text": "众议院314-104否决削减3.3B对以军援提案",
+          "details": "美众议院以314-104票否决削减3.3B对以军事援助提案。",
+          "important": false
+        },
+        {
+          "actor": "美以黎官员",
+          "actor_type": "Foreign-Gov",
+          "text": "罗马会谈就区域试点架构达成一致",
+          "details": "美国、以色列和黎巴嫩官员在罗马结束了为期两天的会谈，据Axios记者报道，各方就一项区域试点进程的架构和指导方针达成一致，预计将在未来几天内实施。",
+          "important": false
+        },
+        {
+          "actor": "WSJ/FT",
+          "actor_type": "新闻",
+          "text": "WSJ：控海峡需更多美军；FT引前防长称需扼杀伊朗经济",
+          "details": "WSJ称控制霍尔木兹海峡将需要更多美军部队——甚至更大的风险。FT报道Trump的前国防部长警告说，美国不会通过空袭赢得与伊朗的战争，必须'扼杀'伊斯兰共和国的经济以迫使霍尔木兹海峡开放。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "FT",
+        "Axios"
+      ],
+      "date": "2026-07-16",
+      "image_urls": []
+    },
+    {
+      "id": "korea-monetary-regulatory",
+      "topic": "韩国央行与监管",
+      "topic_tag": "rates",
+      "title": "韩国央行加息25bp，同步收紧股票杠杆",
+      "summary": "韩国央行金融通货委员会加息25bp至2.75%。金融监管机构大幅提高股票杠杆交易保证金要求3倍至3000万韩元（约$20K），仅接受现金，最小交易量从1股提至20股，且不再审批新单一股票杠杆产品。",
+      "bullets": [
+        {
+          "actor": "韩国央行(BOK)",
+          "actor_type": "Central-Bank",
+          "text": "BOK加息25bp至2.75%",
+          "details": "韩国央行（BOK）金融通货委员会当天将基准利率上调25bps，从之前的2.50%上调至2.75%。",
+          "important": true
+        },
+        {
+          "actor": "韩国金融监管机构",
+          "actor_type": "Foreign-Gov",
+          "text": "股票杠杆保证金提升3倍至$20K，仅认现金",
+          "details": "韩国最高金融监管机构表示，将股票杠杆交易保证金要求提高3倍至3000万韩元，约合$20K，且仅认现金作为保证金。同时要求杠杆交易者每次下单需至少交易20股，而此前为1股。后续监管不再审批任何新的单一股票杠杆产品上市。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-16",
+      "image_urls": []
+    },
+    {
+      "id": "trump-xi-summit-expectations",
+      "topic": "中美峰会",
+      "topic_tag": "geo",
+      "title": "Geer对9月Trump-习会议持温和预期",
+      "summary": "官员Geer对备受期待的Trump-习峰会表示modest expectations，暗示9月会议将侧重评估现有承诺而非促成新协议。",
+      "bullets": [
+        {
+          "actor": "Geer",
+          "actor_type": "US-Executive",
+          "text": "对9月Trump-习峰会持温和预期",
+          "details": "Geer对备受期待的特朗普总统与中国习近平主席峰会表示modest expectations，暗示9月的会议将侧重于评估现有承诺，而非促成新协议。",
+          "important": true
+        },
+        {
+          "actor": "韩国检方",
+          "actor_type": "Foreign-Gov",
+          "text": "韩国检方突击搜查澜起/瑞萨/Rambus涉嫌操纵半导体价格",
+          "details": "韩国检方在昨天突击搜查了中国澜起科技、日本瑞萨电子和美国Rambus在韩国的办公室，调查三家公司涉嫌串通操纵半导体零部件价格一事。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-07-16",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-warsh-hearing",
+      "topic": "卖方观点",
+      "topic_tag": "fed",
+      "title": "卖方点评Warsh听证会与市场展望",
+      "summary": "JPM/GS/UBS点评Warsh听证会：均强调其重申FOMC对高通胀零容忍，但缺乏具体政策框架；UBS注意到其对CPI温和评论及资产负债表政策谨慎；GS Global Market指AI/油价/Fed共同主导市场，预计油价回落、Fed加息低于预期；JPM Flow预计H2净需求约200B；DB大宗商品Q4黄金目标$4,600/oz、白银$70/oz、铜$13,600/吨；DB Macro提出'确定性悖论'警告主权债务风险。",
+      "bullets": [
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "JPM：Warsh发表非常鹰派言论，若通胀不缓和FOMC其他成员仍会加息",
+          "details": "JPM：Warsh发表了非常鹰派的言论，强调FOMC'对持续高企的通胀零容忍'，并坚定致力于恢复物价稳定；并未就如何将鹰派立场转化为具体货币政策提供清晰框架，回答较为模糊；今日CPI数据（加上沃勒昨日言论）给了委员会几个月喘息空间来思考下一步行动；JPM认为，若通胀未能继续缓和，FOMC其他成员仍会选择加息。",
+          "important": true
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS：Warsh重申零容忍，规模与期限值得重审",
+          "details": "GS：重申FOMC'对持续高企的通胀零容忍'，与此前表态一致，但仍未透露对货币政策的具体看法；提供了应对供应冲击（关税、高油价）引发高通胀的思路：判断价格变化是否会扩散，防止其演变为普遍的价格水平上涨；认为其'规模和期限'都值得重新审视，但强调危机时期可采取激进措施，危机结束后应主要依靠利率政策。",
+          "important": false
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "UBS：Warsh对CPI温和评论，资产负债表转谨慎，对AI乐观",
+          "details": "UBS：听证会整体信息量有限，市场主要反应是其对CPI的温和评论（'只是一个数据点'）；资产负债表政策态度转向谨慎：强调任何调整都将是审慎、公开透明、逐步推进的；对AI持乐观态度，认为可能带来新一轮生产力繁荣。",
+          "important": false
+        },
+        {
+          "actor": "GS Global Market",
+          "actor_type": "Analyst",
+          "text": "GS：AI/油价/Fed主导市场，宏观风险消退但AI分歧引发股市波动",
+          "details": "GS Global Market指出AI主题与油价、美联储政策共同主导市场。报告认为宏观风险消退，资产波动将收窄，但AI观点分歧将继续引发股市波动。核心预测油价回落且美联储加息幅度低于市场预期。主要宏观风险为油价持续上涨。建议关注新兴市场货币及利率曲线交易机会。",
+          "important": false
+        },
+        {
+          "actor": "JPM Flow",
+          "actor_type": "Analyst",
+          "text": "JPM：投资者去杠杆持续，H2净需求约$200B支撑股市",
+          "details": "投资者去杠杆进程仍在持续，杠杆ETF及保证金账户高企构成股市短期逆风，预计需3个月震荡消化。但长期看，零售资金强劲流入及主权基金配置将支撑下半年股市，预计H2净需求约200B。此外，比特币期货现正向资金流，MicroStrategy储备增至30亿美元，加密市场前景趋稳。",
+          "important": false
+        },
+        {
+          "actor": "DB Commodity",
+          "actor_type": "Analyst",
+          "text": "DB：Q4黄金$4,600/oz、白银$70、铜$13,600/吨；2027原油过剩",
+          "details": "DB发布大宗商品展望，维持年底前美元看空偏见。预计黄金和白银受政府债务扩张驱动，年底价格将走高，Q4目标价分别为4,600美元/盎司和70.0美元/盎司。铜因供应紧张，Q4价格看涨至13,600美元/吨。原油方面，霍尔木兹海峡受限导致供应错配，但预计2027年将出现显著过剩。",
+          "important": false
+        },
+        {
+          "actor": "DB Macro",
+          "actor_type": "Analyst",
+          "text": "DB：'确定性悖论'——政策兜底代价是主权债务激增",
+          "details": "2020年代存在'确定性悖论'：尽管冲击频繁，但得益于政府大规模政策兜底及技术缓冲，公众感知确定性高于战后任何十年。然而，这种确定性以主权债务激增为代价，传统避险资产（黄金、美债等）对冲效力下降。报告警告，随着财政空间收窄，未来冲击可能引发更剧烈的市场波动，投资者需警惕政策响应能力减弱的风险。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "JPM",
+        "GS",
+        "UBS",
+        "DB"
+      ],
+      "date": "2026-07-16",
+      "image_urls": [
+        "/uploads/2026-07-16/7b92e58e83a0.png"
+      ]
+    },
+    {
+      "id": "kol-views-2026-07",
+      "topic": "KOL/买方观点",
+      "topic_tag": "macro-other",
+      "title": "KOL热议：AI泡沫类比、内存涨价、CPI冷数据",
+      "summary": "Fidelity Timmer密切关注AI与Dot-com泡沫类比，价格走势和CAPE比率吻合度高；@pequityresearch警告AI需求推高内存价格开始影响消费硬件，三星Q2为早期警示；Warren Pies称6月CPI全面冰冷、核心mom -0.2%（2020年5月来最大跌幅）；Erian认为CPI/PPI双双低于预期但yield走势反映债务发行；AB Kuai.Dong感慨AI补贴大战；@cissan_9984回补一半Kioxia空单；Cramer力挺Intel并称Anthropic上市应等秋季。",
+      "bullets": [
+        {
+          "actor": "Fidelity Jurrien Timmer",
+          "actor_type": "KOL",
+          "text": "AI与Dot-com泡沫类比精准，股价与CAPE高度吻合",
+          "details": "目前半导体ETF（尤其是AI相关）非常火爆，但他一直密切关注与互联网泡沫（Dot-com Bubble）的类比，这个类比目前非常精准，无论是在股价走势还是5年CAPE比率（周期调整市盈率）上，都与当年互联网泡沫时期高度吻合。",
+          "important": true
+        },
+        {
+          "actor": "@pequityresearch",
+          "actor_type": "KOL",
+          "text": "AI推高内存价格，三星Q2为早期警示，或波及MSFT/GOOG/AMZN",
+          "details": "AI需求导致内存价格暴涨，不仅推高数据中心CapEx，还开始严重影响消费硬件业务（智能手机、PC等）。三星Q2财报就是一个早期警示信号，未来可能波及微软、谷歌、亚马逊等公司，导致营收放缓甚至股价误判。",
+          "important": false
+        },
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "6月CPI全面冰冷，核心mom -0.2%为2020年5月来最大跌幅",
+          "details": "6月CPI数据全面冰冷，核心通胀mom大降0.2%（2020年5月以来最大跌幅），美联储官员Waller此前希望的'冷数据'如愿实现。",
+          "important": false
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "KOL",
+          "text": "Erian：CPI/PPI低于预期但yield走势反映持续债务发行",
+          "details": "昨天CPI（消费者物价指数）和今天PPI（生产者物价指数）双双低于市场预期，yield下降，但是在这两份数据发布之间，yield的走势很有意思，他认为这不太可能主要因为短期油价波动，而是企业和政府持续增加债务发行。",
+          "important": false
+        },
+        {
+          "actor": "AB Kuai.Dong",
+          "actor_type": "KOL",
+          "text": "AI企业百亿补贴/额度大战，国内外同步",
+          "details": "除了中国的外卖公司，我从来没见到过同一时刻，这么多AI企业希望我用它们的产品。国内，百亿补贴。国外，百亿额度。",
+          "important": false
+        },
+        {
+          "actor": "@cissan_9984",
+          "actor_type": "KOL",
+          "text": "63,000日元回补一半Kioxia空单",
+          "details": "在63,000日元价位回补了一半kioxia空单，限价单意外成交，觉得目前这种情况下，股价可能还会继续下跌，剩下的仓位等出现利好材料/催化剂时再回补。",
+          "important": false
+        },
+        {
+          "actor": "Jim Cramer",
+          "actor_type": "KOL",
+          "text": "Cramer力挺Intel，Anthropic上市应等秋季",
+          "details": "Intel是他最喜欢的股票，强调它是ASML第三大客户；ASML的积极走势更多反映市场情绪，而非单纯业绩；目前没有空间给Anthropic上市，建议等到秋季。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "INTC",
+        "ASML",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+      ],
+      "image_indexes": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-16",
+      "image_urls": [
+        "/uploads/2026-07-16/bc193f164bd8.jpg",
+        "/uploads/2026-07-16/2dd296552e8c.png",
+        "/uploads/2026-07-16/8455fa68cd32.png",
+        "/uploads/2026-07-16/59cee5448e1c.png"
+      ]
+    },
+    {
+      "id": "ai-capex-valuation-2026-07",
+      "topic": "AI资本开支与估值",
+      "topic_tag": "ai",
+      "title": "超大规模云商Capex占经营现金流达80%，半导体盈利见顶",
+      "summary": "Apollo数据显示Amazon/Google/Microsoft/Meta/Oracle的资本开支占经营现金流已升至80%，2026年合计capex约$740B，2027年预计$920B；半导体季度净利润同比增速预计Q2/26见顶约130%后回落；MS预计DRAM价格2026Q4见顶；软件相对S&P 500估值处多年低位。Anthropic计划最早10月召开投资者会议进行IPO。",
+      "bullets": [
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "超大规模云商Capex占经营现金流升至80%",
+          "details": "Apollo数据显示Amazon、Google、Microsoft、Meta和Oracle（hyperscalers）资本开支占经营现金流比例已从2012年约20%升至2026年3月的80%，2026年合计capex约$740bn（AMZN~$280、GOOG~$180、MSFT~$150、META~$90、ORCL~$40），2027年预计升至~$920bn。",
+          "important": true
+        },
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "半导体季度净利润增速预计2026Q2见顶130%",
+          "details": "半导体及半导体设备板块季度净利润同比增速预计在2026年6月见顶约130%（consensus estimates），随后Sep-26回落至约110%；IT板块整体亦在Jun-26约60%见顶。",
+          "important": false
+        },
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "MS：DRAM合约价2026Q4见顶，NTM P/B尚未re-rate",
+          "details": "Morgan Stanley Research 7月报告：DRAM Contract YoY正从周期高位回落（近期峰值~700%），而NTM P/B估值尚未re-rate——与定价约在4Q26见顶一致。",
+          "important": false
+        },
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "软件相对S&P 500估值处多年低位",
+          "details": "Apollo：IGV iShares科技软件ETF的NTM Forward P/E从2021年初~70降至2026年中约20-25，与S&P 500 (~18)的溢价降至多年最低。",
+          "important": false
+        },
+        {
+          "actor": "Apollo/Shiller",
+          "actor_type": "Analyst",
+          "text": "S&P 500 CAPE与P/S比率均处历史高位",
+          "details": "Shiller CAPE（周期调整市盈率）2020年代升至约40，接近1999-2000年历史峰值（~45）；S&P 500市销率2026年升至约3.5-3.6，创历史新高。",
+          "important": false
+        },
+        {
+          "actor": "BCA Research",
+          "actor_type": "Analyst",
+          "text": "分析师对长期盈利增长乐观，未来3-5年预期升至18%",
+          "details": "BCA Research: S&P 500未来3-5年长期盈利增长预期在2028年前后升至约18%，分析师对长期盈利增长非常乐观。",
+          "important": false
+        },
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic计划最早10月开投资者会议进行IPO",
+          "details": "Anthropic计划最早于10月召开投资者会议，进行IPO。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "AMZN",
+        "GOOGL",
+        "MSFT",
+        "META",
+        "ORCL"
+      ],
+      "image_indexes": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "importance": 3,
+      "sources": [
+        "Apollo",
+        "Morgan Stanley",
+        "BCA Research"
+      ],
+      "date": "2026-07-16",
+      "image_urls": [
+        "/uploads/2026-07-16/ef8d46368971.png",
+        "/uploads/2026-07-16/775118364df2.jpg",
+        "/uploads/2026-07-16/c3192f8f916a.png",
+        "/uploads/2026-07-16/06421628fed1.png",
+        "/uploads/2026-07-16/951b9a4cadbb.png"
+      ]
+    }
+  ]
+}
