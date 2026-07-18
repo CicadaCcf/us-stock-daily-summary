@@ -1,0 +1,404 @@
+{
+  "topics": [
+    {
+      "id": "fed-jefferson-rates",
+      "topic": "美联储",
+      "topic_tag": "fed",
+      "title": "Jefferson：若通胀不降温应考虑加息",
+      "summary": "美联储副主席Jefferson表态偏鹰，称若通胀不能很快降温，央行应考虑提高利率，但同时表示当前货币政策状况良好。",
+      "bullets": [
+        {
+          "actor": "Jefferson",
+          "actor_type": "Central-Bank",
+          "text": "Jefferson：通胀不降温则应考虑加息",
+          "details": "美联储Jefferson表示，如果通胀不久不降温，央行应考虑提高利率，但同时表示当前的货币政策状况良好。",
+          "important": true
+        },
+        {
+          "actor": "DB Rates",
+          "actor_type": "Analyst",
+          "text": "德银：美国CPI存在下行风险",
+          "details": "DB Rates认为美国CPI存在下行风险。6月CPI低于市场25bp，主因关税影响消退及保险费用下降。预计健康保险未来半年将压低核心CPI约15bp。当前市场通胀定价高出德银预测40bp，存在修正空间。受油价波动影响，德银平仓部分收益率曲线陡峭化交易以规避风险。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-17",
+      "image_urls": []
+    },
+    {
+      "id": "trump-white-house-address",
+      "topic": "Trump白宫讲话",
+      "topic_tag": "policy",
+      "title": "Trump指控外国干预选举 收紧外国记者签证",
+      "summary": "Trump从白宫发表全国讲话，指控中国、委内瑞拉、深层政府干预美国选举；政府缩短外国记者签证期限遭中国抗议；DJT计划向机构出售Truth Social付费快讯服务。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump指控中国等外国势力干预美国选举",
+          "details": "特朗普从白宫向全国发表讲话，指控外国势力干预美国选举，并将责任归咎于中国、委内瑞拉、深层政府和非公民投票。称中国试图影响企业反对总统、中国试图为拜登制造选票；相关政府机构开始发布他所谓的以前机密文件以支持Trump的断言，并重复了Trump过去言论。",
+          "important": true
+        },
+        {
+          "actor": "特朗普政府",
+          "actor_type": "US-Executive",
+          "text": "美方缩短外国记者签证期限 中方抗议",
+          "details": "特朗普政府表示将缩短外国记者签证的期限，中国方面表示抗议。",
+          "important": false
+        },
+        {
+          "actor": "DJT (Trump Media)",
+          "actor_type": "Corporate",
+          "text": "DJT计划向银行/交易公司出售Truth Social付费快讯",
+          "details": "DJT计划向银行和交易公司出售付费服务，使它们能够比普通用户更快获取Truth Social上指定账户的最新帖子。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "DJT"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-17",
+      "image_urls": []
+    },
+    {
+      "id": "us-iran-hormuz-crisis",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美军扩大打击伊朗设施 伊朗反击海湾美军基地",
+      "summary": "CENTCOM确认新一轮打击涵盖伊朗沿海监视、防空及海军后勤设施，桥梁被毁致7死；伊朗卫生部报累计38死400+伤。IRGC和伊朗陆军对科威特、巴林、卡塔尔乌代德、UAE、阿曼、叙利亚阿尔坦夫等美军基地展开反击，据报叙利亚一处美特种作战指挥中心被毁。霍尔木兹海峡日通行量降至5月来最低，白宫称美伊谈判仍在继续。",
+      "bullets": [
+        {
+          "actor": "CENTCOM",
+          "actor_type": "US-Executive",
+          "text": "美军打击伊朗基础设施 累计38死400+伤",
+          "details": "CENTCOM证实最新一轮攻击针对伊朗军事设施，包括沿海监视系统、防空基础设施和海军后勤。伊朗卫生部长报告累计伤亡至少38死、400多人受伤。美国袭击了伊朗多座桥梁试图切断通往霍尔木兹海峡港口城市和海军基地的供应路线，造成7人死亡；袭击目标还包括查巴哈尔海防塔、Bandar Abbas以西一座火车站、伊朗东南部Iranshahr民用机场。科赫斯坦部分地区电力已中断。",
+          "important": true
+        },
+        {
+          "actor": "IRGC / 伊朗陆军",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗反击科威特/巴林/乌代德/UAE等美军基地",
+          "details": "IRGC Operation Nasr 2和Army Operation Sa'eqa继续扩大影响力，声称袭击了科威特、巴林、卡塔尔乌代德空军基地、阿联酋埃尔比勒、阿曼和叙利亚阿尔-坦夫的美国军事基础设施（后者据报道摧毁了一个美国特种作战指挥中心，有未经证实的报告称造成重大美国人员伤亡）。袭击目标为导弹防御雷达、美国弹药库、数架特种作战直升机。",
+          "important": true
+        },
+        {
+          "actor": "伊朗打击",
+          "actor_type": "Foreign-Gov",
+          "text": "科威特发电站和淡水厂遭伊朗打击",
+          "details": "科威特发电站和淡水厂遭受伊朗打击。",
+          "important": false
+        },
+        {
+          "actor": "伊朗军方",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗警告：新一轮基础设施打击将招致毁灭性回应",
+          "details": "伊朗军方官员威胁称，对基础设施的任何新侵略都将引发\"毁灭性\"回应。",
+          "important": false
+        },
+        {
+          "actor": "霍尔木兹海峡",
+          "actor_type": "新闻",
+          "text": "霍尔木兹海峡日通行仅3艘商船 5月来最低",
+          "details": "三艘商品船于周四通过了霍尔木兹海峡，这是自5月以来的最低日通行量。CENTCOM称已成功拦截3艘试图冲破封锁的商业船只，摧毁了1艘不服从命令的船只，并对1艘船只进行了登船以确保完全遵守美国对伊朗的持续海上封锁。",
+          "important": false
+        },
+        {
+          "actor": "卡塔尔内政部",
+          "actor_type": "Foreign-Gov",
+          "text": "卡塔尔升高安全威胁等级 呼吁民众居家",
+          "details": "卡塔尔：内政部确认安全威胁级别升高，呼吁民众留在家中或安全地点。",
+          "important": false
+        },
+        {
+          "actor": "白宫 / Trump",
+          "actor_type": "US-Executive",
+          "text": "白宫称美伊谈判继续 Trump称\"大获全胜\"",
+          "details": "白宫确认与伊朗的谈判仍在继续，特朗普宣称美国在伊朗\"大获全胜\"，进展将在\"很快\"到来。",
+          "important": false
+        },
+        {
+          "actor": "Gregory Brew",
+          "actor_type": "KOL",
+          "text": "分析师：当前空袭规模超以往 GCC与红海或成目标",
+          "details": "Gregory Brew：当前一轮美国空袭超出了以往任何一轮。目标包括南部省份的一批铁路桥梁——至少已有四座遭到袭击。伊朗已誓言在基础设施遭到攻击时进行报复。可能的袭击目标是海湾合作委员会的基础设施和红海。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "CENTCOM"
+      ],
+      "date": "2026-07-17",
+      "image_urls": [
+        "/uploads/2026-07-17/cb6b0359a7cc.png"
+      ]
+    },
+    {
+      "id": "xi-waic-shanghai",
+      "topic": "习近平WAIC",
+      "topic_tag": "ai",
+      "title": "习近平WAIC呼吁AI包容合作",
+      "summary": "习近平在上海世界人工智能大会首次亮相，呼吁世界采取包容性方法、鼓励合作而非竞争。",
+      "bullets": [
+        {
+          "actor": "习近平",
+          "actor_type": "Foreign-Gov",
+          "text": "习近平WAIC：AI应包容合作而非竞争",
+          "details": "习近平于周五在上海世界人工智能大会上的首次亮相中，呼吁世界采取包容性方法，鼓励合作而非竞争。",
+          "important": true
+        },
+        {
+          "actor": "Moonshot AI",
+          "actor_type": "Corporate",
+          "text": "Moonshot发布Kimi K3 编码/代理接近顶尖 成本约美国半价",
+          "details": "Moonshot AI今日发布了Kimi K3。早期的基准测试显示，它在编码和代理任务方面表现接近顶尖水平，成本约为同类美国模型的半价。Brandon Carl指出Kimi K3是nextjs.org/evals表现最佳的模型，超越Fable，在更短时间内达到相当成功率，是首个在综合网络工程基准测试中超越所有专有模型的开源模型。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-07-17",
+      "image_urls": []
+    },
+    {
+      "id": "ai-capex-hyperscaler",
+      "topic": "AI资本开支",
+      "topic_tag": "ai",
+      "title": "孙正义称AI每年需5000亿投资 JPM看AI内存占CSP资本开支73%",
+      "summary": "软银孙正义称2040年AI每年将需5000亿美元投资并否认泡沫论；JPM预测AI内存占CSP资本开支比例2027年达73%；但路透报道部分投资者已为超大规模企业支出增速放缓做准备，削减芯片股敞口。MS警告社区抵制致AI数据中心项目延迟。",
+      "bullets": [
+        {
+          "actor": "Masayoshi Son (SoftBank)",
+          "actor_type": "Corporate",
+          "text": "孙正义：2040年AI每年需5000亿美元投资 泡沫论\"荒谬\"",
+          "details": "SoftBank CEO Masayoshi Son表示，到2040年，人工智能将需要每年500B的投资，并称\"泡沫言论\"是\"荒谬的\"；SoftBank Group计划在本月向日本机构投资者出售约396M的票据，此前今年早些时候已进行了国内零售和外币债券发行。",
+          "important": true
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "JPM：AI内存占CSP资本开支比例2027年达73%",
+          "details": "JPM称AI内存占CSP资本支出的百分比将在2027年达到73%。",
+          "important": false
+        },
+        {
+          "actor": "Reuters",
+          "actor_type": "新闻",
+          "text": "路透：部分投资者为hyperscaler资本开支放缓做准备",
+          "details": "RTRS报道在AI领域，一些投资者正为超大规模企业支出增长放缓做准备。路透社文章指出，预计未来几年超大规模企业的资本支出增长率将放缓，一些活跃的管理者已经削减了对芯片股票的敞口，并增加了对超大规模企业自身的股票配置。",
+          "important": false
+        },
+        {
+          "actor": "MS AI",
+          "actor_type": "Analyst",
+          "text": "MS：社区抵制致1300亿AI数据中心项目Q1延迟或取消",
+          "details": "MS AI：2026年美国社区对AI数据中心的抵制加速，导致约130B项目在Q1延迟或取消。公众支持暂停建设的比例升至45%。电力通胀粘性增强，预计全年AI相关债务发行达580B。",
+          "important": false
+        },
+        {
+          "actor": "Chey Tae-won (SK集团)",
+          "actor_type": "Corporate",
+          "text": "SK董事长：海力士股价长期看涨 内存需求持续旺盛",
+          "details": "SK集团董事长Chey Tae-won于周五表示，其集团的关键附属公司、芯片制造商SK海力士有限公司的股价可能会在长期内呈上升趋势，理由是内存芯片的需求持续旺盛。",
+          "important": false
+        },
+        {
+          "actor": "Jukan",
+          "actor_type": "KOL",
+          "text": "Jukan：Anthropic领先在Coding Agent Codex猛追",
+          "details": "Jukan：Anthropic暂时领先不是单纯因为模型更强，而是因为他们率先做出真正好用的Coding Agent（Claude Code / Computer Use），Claude Code目标不是\"写代码\"这个单一功能，而是所有能被自动化的知识工作，OpenAI的Codex正在以极快的速度追赶，用户增长非常猛。下一阶段AI的胜负手不再只是\"谁的模型参数更大\"，而是谁能先建立起以Coding Agent为入口的完整系统飞轮（模型+使用场景+数据反馈+用户粘性）。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SFTBY",
+        "NFLX"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Reuters",
+        "JPM",
+        "MS"
+      ],
+      "date": "2026-07-17",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-jpm-deleveraging",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "JPM：去杠杆仍在持续 半导体承压 港股IPO解禁高峰将至",
+      "summary": "JPM Flows称6月起投资者去杠杆尚未结束，杠杆存储芯片ETF AUM较6月高点缩减34%、全市场杠杆股ETF缩减13%，预计仍需3个月区间震荡才能让杠杆比率回到4月前水平。JPM Macro称市场对Trump中东推文敏感度下降。MS China指2026H2港股面临8870亿港元IPO解禁高峰，重申增持并建议规避32只高解禁比例股。",
+      "bullets": [
+        {
+          "actor": "JPM Flows and Liquidity",
+          "actor_type": "Analyst",
+          "text": "JPM：去杠杆仍是短期股市主要阻力 半导体/科技压力最大",
+          "details": "JPM Flows and Liquidity：去杠杆进程仍在持续，是短期股市的主要阻力。6月开始的投资者去杠杆阶段尚未结束，杠杆股票ETF、期权和保证金账户仍有进一步去杠杆空间，尤其是在杠杆水平较高的半导体和科技板块。杠杆ETF具有凸性特征，震荡区间交易会自然导致其AUM缩减，目前杠杆存储芯片ETF的AUM已从6月高点缩减34%，全市场杠杆股票ETF缩减13%，但相对于底层股票市值的杠杆比率下降仍不明显，预计还需要约3个月的震荡区间交易才能让杠杆比率回到4月前的水平，7月杠杆ETF仍在持续获得资金流入，进一步延长了去杠杆所需时间。",
+          "important": true
+        },
+        {
+          "actor": "JPM Flows and Liquidity",
+          "actor_type": "Analyst",
+          "text": "JPM：L/S HF 7月已开始去杠杆 散户期权尚未投降",
+          "details": "目前L/S HF 7月可能已开始去杠杆，与半导体相关性减弱；风险平价基金杠杆已恢复正常；散户期权距离投降水平仍有距离，保证金账户尤其个人账户需要更大幅度去杠杆，杠杆股票ETF短期继续承压，自我修正机制正在发挥作用。中期到长期：一旦去杠杆压力减弱，股票供需基本面（尤其是散户持续流入+主权基金需求）将重新成为支撑力量。",
+          "important": false
+        },
+        {
+          "actor": "JPM Macro",
+          "actor_type": "Analyst",
+          "text": "JPM：市场对Trump中东推文敏感度下降",
+          "details": "JPM Macro：特朗普关于中东的社交媒体帖子大多未引发美债收益率异常波动。仅少数帖子导致2年期美债收益率在30分钟内出现显著变动。市场反应在2026年3月冲突初期最强，随后逐渐衰减至冲突前水平，显示市场对总统推文敏感度下降。",
+          "important": false
+        },
+        {
+          "actor": "MS China",
+          "actor_type": "Analyst",
+          "text": "MS：港股H2面临8870亿港元IPO解禁高峰",
+          "details": "MS CN：2026年下半年港股面临887B港元IPO解禁高峰，7月和9月为峰值。尽管解禁规模创五年新高，但对恒生指数影响有限。然而，个股波动风险加剧，尤其是信息技术和材料板块。报告重申增持港股，建议规避32只高解禁比例股票，把握7月下旬至8月的配置窗口。",
+          "important": false
+        },
+        {
+          "actor": "Jurrien Timmer (Fidelity)",
+          "actor_type": "Analyst",
+          "text": "Fidelity：回购时代或结束 股票数量自2023年上升",
+          "details": "Jurrien Timmer：2000年代中期开始的回购时代一直是2009年开始的长期牛市的一部分。但自2023年以来，股票数量一直在上升，现在回购也在下降。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "importance": 3,
+      "sources": [
+        "JPM",
+        "MS",
+        "Fidelity"
+      ],
+      "date": "2026-07-17",
+      "image_urls": [
+        "/uploads/2026-07-17/15e4e68f7260.png",
+        "/uploads/2026-07-17/64d72210e0a8.png",
+        "/uploads/2026-07-17/ded6d64edb1c.jpg",
+        "/uploads/2026-07-17/42e9a7854d83.jpg",
+        "/uploads/2026-07-17/acdc34f4d284.png",
+        "/uploads/2026-07-17/077bc725df03.png"
+      ]
+    },
+    {
+      "id": "kol-views",
+      "topic": "KOL/买方观点",
+      "topic_tag": "macro-other",
+      "title": "KOL：半导体爆仓警报 韩国杠杆ETF叠加信用贷",
+      "summary": "Jim Cramer称大型组合经理正带着半导体保证金仓位爆仓；AB Kuai.Dong指出韩国爆仓者在2倍SK海力士杠杆ETF基础上再叠加信用贷；short bear警告NQ回落将拉高Beta引发全市场抛售；Herman Jin给出半导体腰斩/不腰斩分层配置建议；Burry建议在港股寻找廉价股；@cissan_9984复盘Kioxia和日经交易。",
+      "bullets": [
+        {
+          "actor": "Jim Cramer",
+          "actor_type": "KOL",
+          "text": "Cramer：大型组合经理正带着半导体保证金仓爆仓",
+          "details": "Jim Cramer：这次应该很明显，一个或两个大型投资组合经理正在爆仓，带着所有做保证金交易的技术公司：Sandisk、AMD、Intel、Arm以及其他许多公司。科技行业的巨大崩盘。",
+          "important": true
+        },
+        {
+          "actor": "AB Kuai.Dong",
+          "actor_type": "KOL",
+          "text": "韩国爆仓者：2倍海力士杠杆ETF+信用贷叠加杠杆",
+          "details": "AB Kuai.Dong：这波很多爆仓的韩国人，不仅仅是因为交易了杠杆ETF（自带2倍做多SK海力士的那种），而是在交易这个杠杆ETF的基础上，再去叠加信用贷、透支账户，给杠杆ETF再加上杠杆。",
+          "important": true
+        },
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "short bear：NQ回落或引发半导体capitulation",
+          "details": "short bear：如果NQ开始回落，我预计股票之间的Beta（联动性）会上升，导致全市场抛售，理想情况是半导体板块恐慌性下跌，短期到中期可能出现Capitulation，最可能的路径是恐慌，但目前轮动故事正在全面上演，只是被半导体小幅下跌的低Beta掩盖了。美股当前牛市严重依赖半导体等高风险板块，而这些板块的\"源头\"之一（韩国）已经在主动挤泡沫，这对美股构成潜在风险。他认为美国市场目前还在硬撑，但支撑力正在减弱。",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "Herman Jin：腰斩优先买光模块/存储 不腰斩买INTC/NV",
+          "details": "Herman Jin：腰斩优先买光模块、其次存储，不腰斩买intc和nv；mrvl amd这种强势没跌够的，出个利好/盈喜，都要补跌。",
+          "important": false
+        },
+        {
+          "actor": "Michael Burry",
+          "actor_type": "KOL",
+          "text": "Burry：建议在港股寻找廉价股",
+          "details": "Burry：在今年的全球AI浪潮中，建议在香港股市寻找廉价股，因为其表现落后于同行。\"现在是特别好的时机，在香港寻找廉价股，因为随着韩国、日本和Soxx的闪光消退，这些股票应该会表现良好\"。",
+          "important": false
+        },
+        {
+          "actor": "@cissan_9984",
+          "actor_type": "KOL",
+          "text": "@cissan_9984：Kioxia回补空头 警告市场追涨心态",
+          "details": "@cissan_9984：Kioxia 54k回补另一半空头，它有很大概率跌破20T日元市值，但对于卖出，我会在80%时平；在64.4K买入日经先，同时各种股票也买了一些，收盘空仓放弃头寸。当铠侠在12K日元左右时，许多人认为它价格过高，但现在那些人却急于在超过50k日元时购买，日经指数突破50k被认为是不可能的，80%的人涌向期货和杠杆交易卖出，但现在在超过65k日元时，90%的人开始买入。太多人陷入了这种追逐最新股票价格的奇怪信仰中。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "AMD",
+        "INTC",
+        "ARM",
+        "NVDA",
+        "MRVL"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-17",
+      "image_urls": []
+    },
+    {
+      "id": "other-misc",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "Netflix销售增长放缓预警",
+      "summary": "Netflix预测连续第二个季度销售额增长放缓，加剧投资者对流媒体巨头未来的担忧。",
+      "bullets": [
+        {
+          "actor": "Netflix",
+          "actor_type": "Corporate",
+          "text": "Netflix预测连续第二季度销售增速放缓",
+          "details": "Netflix预测连续第二个季度销售额增长放缓，这一结果将加剧投资者对这家流媒体巨头未来的担忧。",
+          "important": true
+        },
+        {
+          "actor": "SoftBank Group",
+          "actor_type": "Corporate",
+          "text": "软银拟本月向日本机构售约3.96亿票据",
+          "details": "SoftBank Group计划在本月向日本机构投资者出售约396M的票据，此前今年早些时候已进行了国内零售和外币债券发行。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NFLX",
+        "SFTBY"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-07-17",
+      "image_urls": []
+    }
+  ]
+}

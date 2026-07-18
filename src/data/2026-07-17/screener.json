@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-07-17T21:31:33+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-07-17",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12396,
+    "partial_pass": 2,
+    "with_carryover": 7,
+    "after_full_check": 4
+  },
+  "rows": [
+    {
+      "tk": "LCID",
+      "nm": "Lucid Group, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": 13.9,
+      "w1": 32.6,
+      "market_cap_bn": 2.87,
+      "dollar_vol_bn": 0.35,
+      "w1_avg_dollar_vol_bn": 0.35,
+      "reason": "",
+      "main_business": "研发制造高端电动汽车及电池技术"
+    },
+    {
+      "tk": "ATAI",
+      "nm": "AtaiBeckley Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": 1.0,
+      "w1": 39.7,
+      "market_cap_bn": 2.66,
+      "dollar_vol_bn": 0.3,
+      "w1_avg_dollar_vol_bn": 0.33,
+      "reason": "",
+      "main_business": "研发快速起效的精神健康创新疗法，专注难治性抑郁症等领域"
+    },
+    {
+      "tk": "PYPL",
+      "nm": "PayPal Holdings, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -0.3,
+      "w1": 22.1,
+      "market_cap_bn": 49.89,
+      "dollar_vol_bn": 1.12,
+      "w1_avg_dollar_vol_bn": 1.9,
+      "reason": "",
+      "main_business": "提供在线电子支付及转账服务平台"
+    },
+    {
+      "tk": "AEHR",
+      "nm": "Aehr Test Systems",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -3.7,
+      "w1": 11.6,
+      "market_cap_bn": 2.55,
+      "dollar_vol_bn": 0.41,
+      "w1_avg_dollar_vol_bn": 0.48,
+      "reason": "",
+      "main_business": "半导体集成电路老化测试设备制造商"
+    }
+  ]
+}
