@@ -1,0 +1,267 @@
+{
+  "themes": [
+    {
+      "id": "ai-infoflow-0713-0719",
+      "theme": "AI",
+      "title": "AI信息流总结 7/13-7/19",
+      "date_range": "7/13-7/19",
+      "date": "2026-07-20",
+      "tickers": [],
+      "summary": "本周AI信息流围绕ARR/需求/供给三条主线：OAI GPT 5.6反馈强劲、ARR增速迅猛，而Anthropic增速rumor放缓并主动做routing；Kimi K3、TML Inkling等开源模型逼近SOTA，引发对frontier lab利润空间被压缩的广泛讨论。",
+      "groups": [
+        {
+          "label": "ARR",
+          "entries": [
+            {
+              "source": "Fable",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "Fable 7月第一周没怎么增加。*目前暂未得到证实，但rumor广泛传播，active资金更积极讨论Anthropic ARR降速",
+                "OAI增长强劲，目前已达$50B(翟啸口径）"
+              ]
+            },
+            {
+              "source": "Tibo",
+              "source_type": "Codex负责人",
+              "important": false,
+              "points": [
+                "OAI 应用达成8M active user，三天增加3M *快速增长中有部分是因为chatgpt desktop整合后的用户口径计入，但整体GPT 5.6反馈因其性价比高，能力大部分时候够用，反馈很积极"
+              ]
+            },
+            {
+              "source": "Sam Altman",
+              "source_type": "OpenAI",
+              "important": true,
+              "points": [
+                "we are about to have our best 12 months to date，GPT 5.6需求非常强劲，团队积极扩容 * Sam Altman积极宣传OAI milestone, 在GPT 5.6获得好评后对OAI未来展现出强烈的信心"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "需求-企业应用（多头）",
+          "entries": [
+            {
+              "source": "Rohan Paul",
+              "source_type": "AI KOL",
+              "important": false,
+              "points": [
+                "企业级 AI 已超出试点阶段，但尚处于深度公司级部署的早期。每降低 10%的代币价格，会带来 12%到 18%的代币使用量增长。*基本还是说模型降价jevons paradox最终会带来收入增长"
+              ]
+            },
+            {
+              "source": "Semi Analysis",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "更高效的注意力机制进一步拓宽上下文长度，jevons paradox会带来更多的使用，会需要更多的网络连接"
+              ]
+            },
+            {
+              "source": "Sachin Katti",
+              "source_type": "OAI compute负责人",
+              "important": true,
+              "points": [
+                "企业采购开始类比能源或云 reserved capacity：先锁定未来 intelligence supply，再谈单位 token优化"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "需求-企业应用（空头）",
+          "entries": [
+            {
+              "source": "Yuchen Jie",
+              "source_type": "Databricks工程师",
+              "important": false,
+              "points": [
+                "目前正在从tokenmaxxing走向valuemaxxing *强调完成任务的ROI"
+              ]
+            },
+            {
+              "source": "Avishai Abrahami",
+              "source_type": "Wix CEO,20VC",
+              "important": false,
+              "points": [
+                "Wix CEO认为基于自有 interaction data 的专用模型在质量和成本上可优于通用 frontier model；trust、data security 与复杂业务逻辑仍构成 SaaS moat"
+              ]
+            },
+            {
+              "source": "Chamath Palihapitiya",
+              "source_type": "Allin podcast",
+              "important": true,
+              "points": [
+                "企业 adoption 的阻力不只是模型质量；agent harness、telemetry、cloud upload 和 plugin path 都会形成数据主权风险",
+                "*利好CSP等第三方，因为过程中随时可能发生数据泄漏，frontier lab天然有动机使用数据来提高模型能力",
+                "预算控制开始产品化：visibility、policy、vendor/model allocation 与 ROI attribution 会成为 enterprise routing stack 的一部分"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "新场景-医疗",
+          "entries": [
+            {
+              "source": "Chamath Palihapitiya",
+              "source_type": "VC",
+              "important": true,
+              "points": [
+                "8090公司和美国政府CMS（管Medicare医疗保险的机构）一起干活，改造遗留系统（Medicare报销系统的1800万行老代码），用AI工具分析清楚并翻译成普通人能懂的规则"
+              ]
+            },
+            {
+              "source": "Fred Turner",
+              "source_type": "Curative CEO, 20VC",
+              "important": false,
+              "points": [
+                "Curative 用 agents 处理 credentialing、data ingestion 与 contract negotiation；高风险销售和 clinical navigation 仍保留 human-in-the-loop *Healthcare agents首先处理payer/back office"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "供给-模型能力",
+          "entries": [
+            {
+              "source": "Finance/legal",
+              "source_type": "",
+              "important": true,
+              "points": [
+                "高风险 vertical 的价值留在 domain-specific harness 与 verification，而不是把更多 context 塞入通用模型 * legal和finance领域能力突破的卡点还是在于verification目前还是只能人类做，阻碍迭代速度"
+              ]
+            },
+            {
+              "source": "Kimi",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "Kimi强调早期K3版本帮助完成了K3的post training *主要证明中国头部模型也有能力完成RSI的早期阶段，但RSI整体暂无边际变化"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "供给-竞争与定价（竞争）",
+          "entries": [
+            {
+              "source": "Katelyn Lesse",
+              "source_type": "Anthropic podcast",
+              "important": true,
+              "points": [
+                "【重要】Anthropic 的平台路线是\"开放连接 + Claude 内部优化\"：MCP、skills、self-hosted sandbox 对外开放，但 router 主要在 Claude family 内；差异化从 base model 转向 strategy harness、verification 与 token allocation",
+                "*Anthropic主动做routing说明企业需求增速开始放缓，之前认为其高端模型供不应求，考虑机会成本应该全serve SOTA的论点被驳倒"
+              ]
+            },
+            {
+              "source": "Anthropic",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "宣布Fable永久保留在Max订阅中，但是用量只有50%。*其他模型的激烈竞争逼迫Anthropic保留Fable，否则其订阅收入会大受影响，因为opus 4.8已经可以被GPT 5.6完美低价替代"
+              ]
+            },
+            {
+              "source": "Kimi",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "发布K3，能力为通用opus 4.8+前端能力接近Fable *K3引发大量关于开源模型压缩前沿模型利润空间的讨论，热度极高。但也有部分质疑认为K3模型输出过慢，实际使用中latency高会严重影响使用体验"
+              ]
+            },
+            {
+              "source": "Artificial Analysis",
+              "source_type": "测评机构",
+              "important": false,
+              "points": [
+                "AA Intelligence Index 为 57，略高于 Opus 4.8 / GPT-5.5，低于 Fable 5 / GPT-5.6 Sol；Frontend Code Arena 一度排名第一，但 hallucination 与 hidden-eval caveats 仍存在 *AA的测评证实K3接近SOTA模型，证实开源模型缩短与闭源差距"
+              ]
+            },
+            {
+              "source": "Elias",
+              "source_type": "AI KOL",
+              "important": false,
+              "points": [
+                "一个性能差 10%但快 3 倍的模型在实际中往往能带来更好的结果，因为你可以更多次迭代, K3目前太慢了，除非能够一次性完美交付，不然不如更快能力稍差的模型"
+              ]
+            },
+            {
+              "source": "Thinking Machine Labs",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "发布Inkling, 模型能力本身美国开源第一，但任务上尚未达到可用门槛，TML主要打算走企业数据微调服务的商业模式"
+              ]
+            },
+            {
+              "source": "Xiaoyin Qu",
+              "source_type": "Ex Meta PM, AI创业者",
+              "important": false,
+              "points": [
+                "企业因为看重数据隐私，丰厚的利润空间将转向定制化：专有数据、训练后处理、评估、部署与基础设施。为企业提供微调服务的TML收入未来将快速攀升超过Anthropic"
+              ]
+            },
+            {
+              "source": "Teortaxes",
+              "source_type": "AI KOL",
+              "important": false,
+              "points": [
+                "坚定支持开源，提议开源模型厂将协议从MIT（完全免费开源）转为从部署平台中获取收入分成，以更好支持开源模型研发。*近期有许多抨击开源模型通过蒸馏抢走前沿模型收入，导致整体AI行业无法支持高额capex的论点"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "供给-竞争与定价（定价）",
+          "entries": [
+            {
+              "source": "Sam Altman",
+              "source_type": "OpenAI",
+              "important": true,
+              "points": [
+                "强调GPT 5.6完成任务价格仅为Fable的1/4， GPT-5.6 sol is half the price and ~twice as token efficient as fable in many cases for accomplishing the same task"
+              ]
+            },
+            {
+              "source": "Together AI",
+              "source_type": "API平台",
+              "important": false,
+              "points": [
+                "K3 在 DeepSWE 达到与 Fable 5 相同 performance、价格约 35%；该结论限于其软件工程测试与 serving assumptions。 *还需要更多实测反馈，但是K3的发布引发了大量对frontier lab 溢价压缩的讨论"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "前沿模型的政府监管",
+          "entries": [
+            {
+              "source": "Demis Hassabis",
+              "source_type": "Google DeepMind",
+              "important": true,
+              "points": [
+                "建议建立 federally overseen、industry-funded 的 standards body；初期 labs 自愿在发布前 30 天提交模型，成熟后可强制 frontier models 通过 cyber/bio/agentic tests 才能在美国部署"
+              ]
+            },
+            {
+              "source": "David Sacks",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "Sacks 认为 Kimi 说明 advanced cyber capability 很快会自由扩散，模型 gatekeeping 无法奏效；政策应转向 AI-powered cyberdefense"
+              ]
+            },
+            {
+              "source": "Chamath Palihapitiya",
+              "source_type": "VC",
+              "important": false,
+              "points": [
+                "Chamath支持开源，他认为关闭开源会迫使美国企业为相同能力支付 $26–56/M tokens，而海外竞争者可使用便宜 open models"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

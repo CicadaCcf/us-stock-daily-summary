@@ -1,0 +1,87 @@
+{
+  "generated_at": "2026-07-20T21:31:45+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-07-20",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12372,
+    "partial_pass": 6,
+    "with_carryover": 10,
+    "after_full_check": 5
+  },
+  "rows": [
+    {
+      "tk": "AMC",
+      "nm": "AMC ENTERTAINMENT HOLDINGS, INC.",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 26.8,
+      "w1": 31.6,
+      "market_cap_bn": 2.2,
+      "dollar_vol_bn": 0.45,
+      "w1_avg_dollar_vol_bn": 0.15,
+      "reason": "",
+      "main_business": "运营连锁电影院，提供影院餐饮及高端观影体验服务"
+    },
+    {
+      "tk": "ACHR",
+      "nm": "Archer Aviation Inc.",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 19.6,
+      "w1": 16.7,
+      "market_cap_bn": 4.05,
+      "dollar_vol_bn": 0.52,
+      "w1_avg_dollar_vol_bn": 0.2,
+      "reason": "",
+      "main_business": "研发全电动垂直起降飞行器，布局城市空中交通出行服务"
+    },
+    {
+      "tk": "IREN",
+      "nm": "IREN Limited Ordinary Shares",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 19.6,
+      "w1": 3.1,
+      "market_cap_bn": 14.37,
+      "dollar_vol_bn": 3.73,
+      "w1_avg_dollar_vol_bn": 1.9,
+      "reason": "",
+      "main_business": "利用可再生能源运营数据中心支持比特币挖矿与AI算力"
+    },
+    {
+      "tk": "CIFR",
+      "nm": "Cipher Digital Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 17.0,
+      "w1": 2.3,
+      "market_cap_bn": 8.4,
+      "dollar_vol_bn": 0.84,
+      "w1_avg_dollar_vol_bn": 0.48,
+      "reason": "",
+      "main_business": "专注于人工智能和高性能计算的数据中心开发运营"
+    },
+    {
+      "tk": "ATAI",
+      "nm": "AtaiBeckley Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -0.4,
+      "w1": 44.7,
+      "market_cap_bn": 2.65,
+      "dollar_vol_bn": 0.16,
+      "w1_avg_dollar_vol_bn": 0.36,
+      "reason": "",
+      "main_business": "研发快速起效的精神健康创新疗法，专注难治性抑郁症等领域"
+    }
+  ]
+}

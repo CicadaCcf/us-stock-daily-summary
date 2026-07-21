@@ -1,0 +1,420 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis-jul20",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊冲突升级：美军扩大打击、伊朗暂停MoU、谈判仍存空间",
+      "summary": "美伊冲突进入第九夜，CENTCOM在Trump授权下扩大对伊朗关键交通与海上军事目标打击，美军2名士兵在约旦基地阵亡。伊朗宣布暂停与美伊斯兰堡MoU下承诺，扩大打击范围至沙特、科威特、巴林美军基地及关键能源基础设施，但外交部同时表示谈判仍有可能。多国斡旋进行中。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump授权CENTCOM对伊朗\"open the gates of hell\"",
+          "details": "Trump称在伊朗袭击后两名美国军人在约旦丧生是\"一件非常可悲的事\"，\"我们不愿看到这种情况发生。但这是为了我们的国家\"，重申伊朗\"不能也不应该拥有核武器\"；指示美国中央司令部对伊朗\"open the gates of hell\"。Trump表示：\"我们之前在阻止他们获得某种能力方面做了一些工作。现在，我们彻底终止了这项工作。所以这真的不一样。我们现在所做的，是彻底断绝他们拥有核导弹的任何可能性。如果你在一周半之后，而不是四周之后，一周半，两周之后，我们可能已经阻止了他们，但我不想用'可能'这个词\"。",
+          "important": true
+        },
+        {
+          "actor": "伊朗外交部",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗称与美谈判仍可能，但霍尔木兹海峡主权不容谈判",
+          "details": "20号伊朗外交部发言人表示：根据国家利益，与美国举行会谈是可能的，最近几天中间人一直在与德黑兰传递信息，调解人提出的方案中已包含一些想法；谅解备忘录的文本清晰明确，不存在任何解释空间，美国官员应该重新考虑他们收到的信息，美国没有任何理由撕毁条约；将外交和国防对立起来在逻辑上是不正确的；伊朗对霍尔木兹海峡的主权权利不容谈判，作为沿岸国家对海峡拥有法律和主权权；仍是《不扩散核武器条约》的成员国。"
+        },
+        {
+          "actor": "伊朗副外长Gharibabadi",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗宣布立即暂停与美伊斯兰堡MoU下所有承诺",
+          "details": "伊朗副外长Kazem Gharibabadi宣布立即暂停与美国伊斯兰堡谅解备忘录（MoU）下的所有进一步承诺；最高领Mojtaba宣布Trump的签字\"毫无价值且无效\"，美国敌人将因再次点燃战争之火而承担\"更沉重、更耻辱的代价\"。"
+        },
+        {
+          "actor": "伊朗官员Mohsen Rezaee",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗警告若美军再攻击2-3天将进入\"进攻与彻底摧毁\"阶段",
+          "details": "伊朗官员Mohsen Rezaee称若美军攻击再持续2-3d，伊朗武装力量将从\"威慑与报复\"阶段进入\"进攻与彻底摧毁\"阶段，直接追击并打击美国境外基地与士兵；\"战争与谈判\"的消耗策略已到死胡同，未来几天伊朗攻击强度将增加。"
+        },
+        {
+          "actor": "CENTCOM",
+          "actor_type": "US-Executive",
+          "text": "CENTCOM第九夜打击伊朗霍尔木兹甘省交通及海上军事目标",
+          "details": "CENTCOM确认对伊朗地下武器库、Jask附近站点和海上监视能力、赫尔木兹甘省 Qeshm 岛、Bushehr 南部实施打击；从科威特发射战术弹道导弹打击Khorramabad地区；夜间打击伊朗南部霍尔木兹甘省关键交通基础设施，多座桥梁被炸毁（包括Minab和Bandar Abbas-Sirjan路线），Bonji海水淡化厂电力设施和海水泵被打击。17日美军伤亡新增后第八夜打击范围和烈度暂未显著扩大，第九夜新一轮打击目标为伊朗攻击海峡船只的军事能力，旨在保护霍尔木兹海峡商业船只和船员通行。美军继续向以色列增加部署几十架额外空中加油机。"
+        },
+        {
+          "actor": "伊朗军方",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗袭击约旦美军基地致2死，扩大打击至沙特/科威特/巴林",
+          "details": "伊朗17日弹道导弹和无人机袭击了约旦的穆瓦法格·萨利蒂空军基地，该基地有美军实际驻扎和战机存放，基地大面积着火，导致2名美国士兵死亡，1人失踪，4人重伤；18日伊拉克北部另一起事件中，1名服务人员在未爆炸的伊朗单向攻击无人机爆炸的受控引爆中死亡。伊朗扩大打击范围：1）向沙特美基地发射弹道导弹（近4个月首次）；2）袭击科威特的Shuaiba北部电力和海水淡化厂（一个7 GW的大型电力设施）；3）袭击了巴林Sheikh Isa空军基地和科威特重要石油公司Al-Ahmadi石油港的North Pier石油出口枢纽（科威特90%的经济依赖于这个枢纽）；4）向霍尔木兹海峡的一艘不明身份的船只发射了伊斯兰革命卫队导弹。"
+        },
+        {
+          "actor": "IRGC / CENTCOM",
+          "actor_type": "Foreign-Gov",
+          "text": "IRGC在海峡向泰国旗船开火，触雷说法被美方否认",
+          "details": "伊朗IRGC海军在霍尔木兹海峡向一艘泰国悬挂旗帜船只开火，因其无视警告、试图未经授权通过。IRGC声称两艘油轮在霍尔木兹海峡触雷后爆炸，CENTCOM明确否认伊朗IRGC关于霍尔木兹海峡两艘油轮触雷爆炸的说法，称其为虚假。"
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "Rubio：伊朗内部建设性力量若掌控谈判将是积极进展",
+          "details": "Rubio表示如果那些想为伊朗做些有建设性事情的人获胜并控制了该体系，或者控制了谈判，那将是一个非常积极的进展，但是目前不是。"
+        },
+        {
+          "actor": "美国能源部长",
+          "actor_type": "US-Executive",
+          "text": "能源部长：总统希望达成和平协议，否则继续保障海峡通行",
+          "details": "美国能源部长表示总统希望与伊朗达成和平协议结束此事，但这需要双方共同努力。如果他们准备好那样做，事情就会以这种方式结束。如果他们不准备，我们将继续确保海峡的交通畅通。"
+        },
+        {
+          "actor": "伊朗内政部长 / 巴基斯坦",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗内政部长赴巴基斯坦2天会谈传递谈判信息",
+          "details": "伊朗内政部长埃斯坎达尔·莫梅尼前往巴基斯坦与巴基斯坦总理和陆军参谋长举行为期2d会谈，据称传达的信息与谈判文件有关（保守派，安全系统/IRGC背景的保守派）。巴基斯坦外长呼吁必须遵守谅解备忘录，避免任何升级；巴方已向伊朗最高级别传达，任何对沙特的攻击将被视为对巴基斯坦的攻击。"
+        },
+        {
+          "actor": "卡塔尔 / 以色列 / 也门",
+          "actor_type": "Foreign-Gov",
+          "text": "卡塔尔谴责升级；美国拒以色列直接参战；也门将发重要声明",
+          "details": "卡塔尔外交部表示伊朗对科威特等攻击是危险升级，针对电站和海水淡化厂跨越所有红线；以色列官员称美国拒绝了以色列要求直接参与对伊朗的战争；也门武装部队发言人表示将于明天发表声明，宣布\"一项符合我们伟大人民愿望的重要立场\"。"
+        },
+        {
+          "actor": "WaPo / NYT",
+          "actor_type": "新闻",
+          "text": "美媒：美国正为更广泛战争做准备，增派F-35/F-16",
+          "details": "华盛顿邮报表示，美国正在为更广泛的战争做准备；纽约时报报道美国正在向中东部署更多的 F-35 和 F-16 战机，因为与伊朗的战争正在升级。"
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WaPo",
+        "NYT",
+        "CENTCOM"
+      ],
+      "date": "2026-07-20",
+      "image_urls": []
+    },
+    {
+      "id": "fed-inflation-hawkish-jul20",
+      "topic": "美联储",
+      "topic_tag": "fed",
+      "title": "Fed官员偏鹰：通胀仍未可持续回到2%",
+      "summary": "达拉斯联储Logan和克利夫兰联储Hammack发表偏鹰言论，认为一个月的通胀数据不足以证明可持续回到2%目标，劳动力市场充分就业给了Fed专注抗通胀的空间。",
+      "bullets": [
+        {
+          "actor": "Logan (达拉斯联储)",
+          "actor_type": "Central-Bank",
+          "text": "Logan：一个月通胀缓解不够，通胀未可持续回到2%",
+          "details": "Logan表示一个月的通胀缓解并不足够……不幸的是，通胀似乎并没有可持续地回到2%的目标水平。",
+          "important": true
+        },
+        {
+          "actor": "Hammack (克利夫兰联储)",
+          "actor_type": "Central-Bank",
+          "text": "Hammack：通胀过高且范围广泛，Fed可专注抗通胀",
+          "details": "Hammack表示通货膨胀过高，范围广泛，而劳动力市场处于充分就业状态，这使得Fed有自由专注于抗击通货膨胀。"
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-20",
+      "image_urls": []
+    },
+    {
+      "id": "trump-court-funding-jul20",
+      "topic": "行政vs司法",
+      "topic_tag": "policy",
+      "title": "联邦法官裁定特朗普政府不得依事后新规取消拨款",
+      "summary": "一位联邦法官周五裁定特朗普政府不能根据事后制定的新规则或目标取消拨款，对行政取消已批拨款设置法律约束。",
+      "bullets": [
+        {
+          "actor": "联邦法官",
+          "actor_type": "US-Executive",
+          "text": "法官裁定：政府不得依事后新规则取消拨款",
+          "details": "一位联邦法官于周五裁定，特朗普政府不能根据事后制定的新规则或目标取消拨款。",
+          "important": true
+        },
+        {
+          "actor": "-",
+          "actor_type": "Unknown",
+          "text": "背景：影响行政取消拨款的法律边界",
+          "details": "该裁决对Trump政府依据新政策目标追溯性取消已批联邦拨款的做法构成限制。"
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-07-20",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-views-jul20",
+      "topic": "卖方观点",
+      "topic_tag": "earnings",
+      "title": "GS/JPM/MS/DB/Nomura多角度卖方观点",
+      "summary": "高盛建议分散AI集中风险配置线下消费/优质高成长/被并购标的；JPM看好SPX Q2 EPS +22%并推荐SMH/AMZN/GOOGL看涨价差；MS Rates认为市场定价的50bp加息过鹰派、建议7s30s陡峭化；DB认为核心通胀横向震荡；GS韩国称KOSPI估值创2004年新低，日本Nomura维持TOPIX 4200目标。",
+      "bullets": [
+        {
+          "actor": "JPM Equity Derivatives",
+          "actor_type": "Analyst",
+          "text": "JPM：SPX Q2 EPS +22%，推荐SMH/AMZN/GOOGL看涨价差",
+          "details": "JPM US Equity Derivatives指出SPX Q2 EPS预期增长~22%，虽处高位但可实现。鉴于VIX维持在~16低位而个股波动率高企，建议利用期权策略应对财报季。具体推荐：买入SMH看涨价差博弈半导体复苏，买入AMZN/GOOGL看涨价差看好云与AI进展。为对冲地缘政治及财报风险，建议买入SPX看跌价差。CME即将推出美国个股期货，最高提供~6.7倍杠杆，预计将吸引机构资金。",
+          "important": true
+        },
+        {
+          "actor": "GS US Weekly Kickstart",
+          "actor_type": "Analyst",
+          "text": "GS：分散AI集中度，配线下消费/优质成长/被并购标的",
+          "details": "在AI板块高位震荡的背景下，高盛建议通过低估值的线下实体消费、估值回调至历史低位的优质高成长股以及受益于并购潮的潜在被收购企业来优化资产配置，分散科技股集中度带来的风险。"
+        },
+        {
+          "actor": "GS GRT",
+          "actor_type": "Analyst",
+          "text": "GS利率：锚5Y多头，推英镑2s10s陡峭化",
+          "details": "6月美国通胀降温缓解鹰派风险，但核心PCE仍高于3%，加息风险定价需更多温和数据。鉴于长端收益率粘性，建议锚定5Y多头。欧洲及英国前端鹰派风险已充分定价，预计年底曲线变陡，推荐英镑2s10s变陡交易。"
+        },
+        {
+          "actor": "MS Rates",
+          "actor_type": "Analyst",
+          "text": "MS：50bp加息定价过鹰，推UST 7s30s陡峭至100bp",
+          "details": "6月美国CPI环比降0.42%，核心CPI环比降0.02%，数据清晰指向去通胀。预计6月核心PCE环比涨0.17%。维持美联储2026年利率不变、2027年降息50bp的判断。关税传导基本结束，但需警惕AI需求及中东地缘引发的油价波动风险。市场定价隐含的50bp加息预期过于鹰派，随着纳指回调7%及半导体跌20%，预计投资级债券供应将放缓，利好美债。建议维持UST 7s30s陡峭化交易，目标100bp。"
+        },
+        {
+          "actor": "JPM Abiel Reinhart",
+          "actor_type": "Analyst",
+          "text": "JPM：核心通胀仍偏热，广泛压力符合2027H1回落预测",
+          "details": "核心通胀整体仍偏热，更多商品和服务价格正在显著高于2%，显示通胀压力较为广泛，当前各项信号仍符合通胀将在2027年上半年逐步回落的预测。"
+        },
+        {
+          "actor": "DB Inflation",
+          "actor_type": "Analyst",
+          "text": "DB：核心通胀未来一年横向震荡，超级核心服务粘性",
+          "details": "美国6月核心CPI意外疲软，关税影响渐退但服务通胀仍具粘性。汽油价格下跌拖累整体CPI，通信、保险及住宿价格下行抵消了部分服务涨价。尽管关税对商品价格传导已基本完成，但受工资增长支撑，超级核心服务通胀依然顽固。预计未来一年核心通胀将横向震荡，长期通胀预期保持稳定，能源价格波动仍是短期主要扰动因素。"
+        },
+        {
+          "actor": "GS Korea",
+          "actor_type": "Analyst",
+          "text": "GS：KOSPI远期PE 5.8倍创2004新低，外资净流入190B韩元",
+          "details": "KOSPI估值创2004年以来新低，外资转为净买入。受全球半导体抛售影响，KOSPI本周跌8.8%，远期市盈率降至5.8倍历史低位。尽管风险指标示警，但外资本周净流入190B韩元，重点配置汽车与零售板块。韩元兑美元升值1.2%。报告认为当前风险回报呈正向偏斜，建议关注估值修复机会。"
+        },
+        {
+          "actor": "GS Japan",
+          "actor_type": "Analyst",
+          "text": "GS日本：TOPIX（除软银）1Q27净利润同比+26%",
+          "details": "预计剔除软银后的TOPIX成分股1Q27净利润同比增26%。尽管AI与日元贬值（预期USDJPY达165）构成利好，但因市场共识预期极高，若业绩无重大惊喜，股价恐承压。半导体、金融等行业盈利上调，汽车、制药遭下调。"
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "Nomura：日经225自高点回落11.4%，维持68000点目标",
+          "details": "日经225指数已从高点回落11.4%。若日本经济避免衰退，下行压力将减弱。鉴于7月底AI及半导体财报可能超预期，指数反弹速度或快于历史平均。野村维持2026年底TOPIX看至4,200点、日经225看至68,000点的目标。当前市场呈现反转特征，个人投资者逢低买入意愿强烈，为非金融企业回购外的另一大支撑力量。"
+        }
+      ],
+      "tickers": [
+        "SMH",
+        "AMZN",
+        "GOOGL",
+        "SPX"
+      ],
+      "image_indexes": [
+        2,
+        5,
+        6
+      ],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "JPM",
+        "MS",
+        "DB",
+        "Nomura"
+      ],
+      "date": "2026-07-20",
+      "image_urls": [
+        "/uploads/2026-07-20/e4a8e34b3611.jpg",
+        "/uploads/2026-07-20/7db541fb5615.jpg",
+        "/uploads/2026-07-20/468449678a0e.png"
+      ]
+    },
+    {
+      "id": "buyside-kol-views-jul20",
+      "topic": "买方/KOL观点",
+      "topic_tag": "macro-other",
+      "title": "买方与KOL：半导体分歧、AI转折点、油价看涨",
+      "summary": "Citadel Rubner描述市场极端分化；Burry加仓NVDA看跌，减半ORCL看跌；Gavin Baker认为K3是AI转折点、利好基础设施与应用层；多位KOL围绕半导体多空、DRAM、Memory、油价、AGI商品化展开讨论。",
+      "bullets": [
+        {
+          "actor": "Michael Burry",
+          "actor_type": "KOL",
+          "text": "Burry加仓NVDA看跌期权，减半ORCL看跌获利了结",
+          "details": "Burry增持了NVDA看跌期权，同时在交易顺利时逢高获利了结了一半ORCL看跌期权。",
+          "important": true
+        },
+        {
+          "actor": "Citadel Rubner",
+          "actor_type": "Analyst",
+          "text": "Citadel：市场极端分化，投资者更愿做个股赌注",
+          "details": "市场已经进入极端分化阶段：指数看起来相对平静，但个股之间的波动和风险差异极大。投资者更愿意对具体股票下注，而不是对整个市场进行广义对冲。"
+        },
+        {
+          "actor": "Gavin Baker",
+          "actor_type": "KOL",
+          "text": "Gavin Baker：K3是AI转折点，利好基础设施与应用层",
+          "details": "K3 可能是 AI 的一个重要转折点，它对 OpenAI 和 Anthropic 可能是负面的，但对几乎所有其他 AI 产业链公司都是利好，因为头部公司垂直整合对生态的负面影响被制约，反而会把更多利润留在基础设施层和应用软件层。"
+        },
+        {
+          "actor": "Serenity",
+          "actor_type": "KOL",
+          "text": "Serenity：回撤-49%，7/29 ADR转换开启或现套利",
+          "details": "公开分享自己出现 -49% 回撤，原因是高杠杆 + 重仓 Memory/Photonics。7月29日 ADR 转换开启后，可能出现套利机会，溢价大概率收敛。"
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "KOL",
+          "text": "Erian：柴油破$5，汽油逼近$4，油价短期还有上行",
+          "details": "本周油价上涨的主要驱动是市场对美伊冲突升级的担忧重新升温。原本以为能控制在有限范围内的冲突，现在被市场认为存在周末进一步恶化的可能性，美国柴油零售价已超过5（以下为 AAA 数据）。汽油即将突破同样重要的4大关。根据当前国际能源形势判断，这些价格在短期内至少还有一次上涨空间。"
+        },
+        {
+          "actor": "@Credit_Junk",
+          "actor_type": "KOL",
+          "text": "Crack Spread创新高但原油曲线未充分定价，存背离风险",
+          "details": "当前石油市场出现明显分化，炼油利润（Crack Spread）已创历史新高，但原油曲线和其他市场参与者似乎并未充分定价这一强势，原油曲线（oil curve）虽然处于 backwardation（近强远弱），存在潜在的背离风险。"
+        },
+        {
+          "actor": "@tleilax___",
+          "actor_type": "KOL",
+          "text": "攻击淡水设施是中东文化中的重大升级",
+          "details": "攻击淡水设施是非常重要的升级，这在中东文化中非常恶劣，我认为这会在该地区引发非理性的攻击性反应。"
+        },
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "半导体：估值便宜非底部信号，需等EPS修正触底",
+          "details": "Semi虽然看起来\"便宜\"，但不能简单以当前估值判断底部，因为市场通常会提前约6个月定价EPS修正，真正底部往往出现在盈利修正触底的时候，而不是估值看起来便宜的时候，强周期行业定价行为往往是反周期的。市场对Memory的抛售意愿很低，DRAM看资金仍在持续流入，尚未出现真正的capitulation，即使价格回升，也很可能面临大量获利了结的卖压，导致剧烈震荡。"
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "Herman Jin：砸短期momentum集中做空半导体或被业绩打脸",
+          "details": "砸到短期momentum 集中做空半导体，半导体在里面变成loser，然后拿出业绩一打脸，反向爆仓。"
+        },
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "Warren Pies：半导体成momentum/Beta代名词，K3或压hyperscalers",
+          "details": "Semi已经变成了momentum和Beta的代名词，资金从半导体/科技中流出时，会流入其他板块，如果K3对OpenAI/Anthropic构成竞争压力，可能会间接影响 hyperscalers，而 hyperscalers 正是7月以来资金轮动的常见目的地。"
+        },
+        {
+          "actor": "@thelaptoplegend / @Valckrie",
+          "actor_type": "KOL",
+          "text": "反弹做空DRAM，超卖反弹交易",
+          "details": "@thelaptoplegend：反弹做空DRAM。@Valckrie：short term oversold bounce trades today。"
+        },
+        {
+          "actor": "Christian Flanders",
+          "actor_type": "KOL",
+          "text": "Flanders：AI模型走强不等于硬件需求线性增长",
+          "details": "即使 AI 模型越来越强，硬件端的实际需求增量可能没有市场预期的那么确定或线性。"
+        },
+        {
+          "actor": "Bob",
+          "actor_type": "KOL",
+          "text": "Bob：习承诺全球低成本AI，挑战西方赢家通吃模式",
+          "details": "习今天明确承诺在全球提供\"低成本\"AI，这对西方基于高成本投资和期待赢家通吃的模式构成了巨大挑战。"
+        },
+        {
+          "actor": "Alex Imas",
+          "actor_type": "KOL",
+          "text": "Alex Imas：AGI终将商品化，价值向产业链其他环节转移",
+          "details": "AGI 最终会像现在的云服务或基础模型一样，成为一种相对标准化的、可大规模获取的商品。各大实验室现在疯狂垂直整合，正是因为他们已经意识到：单纯靠卖模型本身很难长期维持极高利润，价值会向产业链的其他环节转移。"
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "ORCL"
+      ],
+      "image_indexes": [
+        1,
+        3,
+        4
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-20",
+      "image_urls": [
+        "/uploads/2026-07-20/3eacac846844.png",
+        "/uploads/2026-07-20/1cdcfac1ab72.jpg",
+        "/uploads/2026-07-20/d3d1a84c624f.jpg"
+      ]
+    },
+    {
+      "id": "meta-anthropic-compute-jul20",
+      "topic": "AI算力交易",
+      "topic_tag": "ai",
+      "title": "Meta与Anthropic商谈两年最高$10B算力租赁",
+      "summary": "Meta正与Anthropic商谈租赁AI计算能力，为期两年，最高达100亿美元；SPCX做空头寸约占流通股1/3。",
+      "bullets": [
+        {
+          "actor": "Meta / Anthropic",
+          "actor_type": "Corporate",
+          "text": "Meta与Anthropic商谈两年最高$10B算力租赁",
+          "details": "Meta 正与 Anthropic 商谈租赁 AI 计算能力，为期两年，最高达 10B。",
+          "important": true
+        },
+        {
+          "actor": "SPCX",
+          "actor_type": "新闻",
+          "text": "SPCX做空头寸约占流通股1/3",
+          "details": "SPCX 的做空头寸站float约1/3。"
+        }
+      ],
+      "tickers": [
+        "META"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-07-20",
+      "image_urls": []
+    },
+    {
+      "id": "other-market-signals-jul20",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "其他市场信号（图表/散货数据）",
+      "summary": "包括液体散货趋势、S&P 500 200日均线上方成分股比例、DRAM ETF资金流、保证金债务/GDP、动量因子历史路径、平均个股相关性等图表数据。",
+      "bullets": [
+        {
+          "actor": "图表数据",
+          "actor_type": "新闻",
+          "text": "S&P 500 200日均线上方成分股约66-70%",
+          "details": "S&P 500 Stocks Above 200-Day Average读数约66.40 / 69.98，仍处于中高位区间。",
+          "important": true
+        },
+        {
+          "actor": "图表数据",
+          "actor_type": "新闻",
+          "text": "全部液体散货日度趋势数据",
+          "details": "液体散货日度数据显示区间波动，样本覆盖2025-12至2026-07。"
+        },
+        {
+          "actor": "图表数据",
+          "actor_type": "新闻",
+          "text": "Margin Debt/GDP 与 S&P 500 长周期图",
+          "details": "NYSE/FINRA/BEA数据显示Margin Debt (% of Nominal GDP)与S&P 500市场峰值的历史对应关系，长周期log scale。"
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-07-20",
+      "image_urls": [
+        "/uploads/2026-07-20/57c52ce9dd39.png"
+      ]
+    }
+  ]
+}
