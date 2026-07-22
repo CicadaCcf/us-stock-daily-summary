@@ -1,0 +1,392 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis-jul21",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊霍尔木兹危机：连续第10夜打击，10天停火提案角力",
+      "summary": "Trump 与 Rubio 强硬表态将持续打击伊朗，同时称谈判仍开放；卡塔尔提出10天停火换霍尔木兹通航，伊朗反提以开放两条航道换暂停打击，Axios 披露两路径方案（临时停火 vs 联合军事施压）。美军已连续第10夜打击伊朗南部多处，IRGC 亦发起迄今最大规模报复；国会考虑 Reconciliation 3.0 补充约 60B–95B 弹药库存。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump称将持续打击伊朗直到其改变行为，谈判仍在进行",
+          "details": "Trump 正专注于让伊朗为违反谅解备忘录以及继续在霍尔木兹海峡进行恐怖活动付出代价。此外，总统还将让伊朗为在约旦杀害美国士兵负责。这些毁灭性的打击将持续进行，直到总统做出其他决定，但美伊之间的谈判仍在进行中。",
+          "important": true
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "Rubio：伊朗行为不改，美方不改；海峡须保持开放",
+          "details": "Rubio：他们继续发出信号表示他们想谈判、想协商，但我们对他们的行为做出反应。而他们的行为是向船只发射导弹和无人机，他们的行为必须改变，我们的行为才会改变。海峡应该保持开放，没有关税，没有袭击。美国始终对外交解决方案持开放态度，我们已经多次尝试与伊朗接触，并将继续尝试。",
+          "important": false
+        },
+        {
+          "actor": "卡塔尔/伊朗",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗拒绝卡塔尔10d停火，反提开放两条航道换暂停打击",
+          "details": "伊朗拒绝了卡塔尔10d停火提案，改提议以伊朗开放两条霍尔木兹航运航道为交换条件，暂停美国对伊朗的打击。以色列入报称是伊朗提出了为期10d的停火。据说美国要求更长时间的停火，甚至要求部分通过霍尔木兹海峡，调解员将提议传达给了美国，并在与华盛顿和德黑兰的会谈中甚至增加了额外的内容——例如创建一条'通往霍尔木兹的中间路线'的想法。Trump政府的一些成员称伊朗的提议'荒谬、不合逻辑'。",
+          "important": false
+        },
+        {
+          "actor": "Axios",
+          "actor_type": "新闻",
+          "text": "Axios披露两路径：10天停火重开海峡 或 联合军事迫降",
+          "details": "AXIOS报道停火协议详情：美以官员认为目前存在两个路径：1）接受为期10天的临时停火，以此为契机重新开放霍尔木兹海峡；2）与以色列发起大规模联合军事行动，迫使德黑兰无条件投降。前一方案由卡塔尔、埃及、巴基斯坦及阿曼等地区调解人联合提出，设立冷静期，全面恢复霍尔木兹海峡两条主要航道正常通航，长期机制设想参考马六甲海峡模式，探讨允许伊朗收取'合理服务费'或建立由国际海事组织参与管理的联合基金。Trump与伊朗政府均未正式接受该提议，双方都希望在达成任何协议前通过进一步打击增强自身筹码。Trump预计将在几天内决定是否发动一场强度更大的军事行动，可能针对德黑兰附近的地区和伊朗核设施。",
+          "important": false
+        },
+        {
+          "actor": "伊朗外交部Baghaei",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗：已收到降级提案在审查，海峡主权不可谈判",
+          "details": "伊朗外交部/发言人 Baghaei：已收到调解方降级提案，正在审查；外交渠道仍活跃，尽管美伊互有打击；霍尔木兹海峡是'关键杠杆'，霍尔木兹海峡完全主权不可谈判。",
+          "important": false
+        },
+        {
+          "actor": "美军",
+          "actor_type": "US-Executive",
+          "text": "美连续第10夜打击伊朗南部Bandar Abbas等多地",
+          "details": "美国对伊朗实施第10个连续夜晚打击，南部伊朗多地（包括Bandar Abbas、Sirik、Chabahar、Konarak等）报告爆炸，袭击目标包括Bandar Abbas周边桥梁/道路/隧道复合体（Shahid Mirzaei）、导弹/无人机储存及沿海设施；目标是削弱威胁霍尔木兹航运的能力。",
+          "important": false
+        },
+        {
+          "actor": "IRGC",
+          "actor_type": "Foreign-Gov",
+          "text": "IRGC发起迄今最大报复，袭击巴林/科威特/约旦美军设施",
+          "details": "IRGC航空部队发起迄今为止规模最大的一次报复性打击，声称摧毁了巴林的美军爱国者防空系统、科威特阿里·萨利姆空军基地的雷达和 MQ-9 无人机机库、约旦基地的一架 F-15 战斗机和导弹防御雷达，并对巴林亚马逊 AWS 数据中心基础设施发动了巡航导弹袭击；同时伊朗陆军在赛义克行动第20阶段使用自杀式无人机袭击了巴林谢赫·伊萨空军基地。IRGC 还袭击了霍尔木兹海峡的两艘油轮，一艘挂希腊国旗的油轮在海峡附近被拦截，一艘船只在阿布扎比附近的迪拜被击中。",
+          "important": false
+        },
+        {
+          "actor": "内塔尼亚胡/以色列",
+          "actor_type": "Foreign-Gov",
+          "text": "以色列指伊朗将数千离心机转移至Pickaxe山隧道",
+          "details": "以色列认为在去年的冲突之后，伊朗将数千台铀浓缩离心机转移到了Pickaxe Mountain下的隧道中。内塔尼亚胡敦促Trump将这座戒备森严的地点作为打击目标，而Trump则表示，这可能是一个打击目标。WSJ 报道以色列官员称，伊朗已将数千台离心机转移到Fash Mountain隧道中。此外，内塔尼亚胡在美国期间不会被逮捕（此前纽约市长 Mamdani 表示考虑逮捕 Bibi Netanyahu）。",
+          "important": false
+        },
+        {
+          "actor": "美国参议院共和党",
+          "actor_type": "US-Congress",
+          "text": "参院拟用Reconciliation 3.0补充弹药，新增支出约95B",
+          "details": "美国参议院共和党人正考虑将 Reconciliation 3.0 作为补充五角大楼武器库存的备用方案，众议院提案拟拨款约 60B，用于补充美军在对伊朗军事行动中消耗的弹药与武器库存，相关新增支出总额约达 95B。",
+          "important": false
+        },
+        {
+          "actor": "WaPo",
+          "actor_type": "新闻",
+          "text": "WaPo：美情报报告对打击效果悲观，防空/远程弹药不足",
+          "details": "WaPo 记者报道美国情报报告对新一轮针对伊朗的军事打击持悲观态度：现任和前任官员表示，这些打击不太可能对伊朗产生重大影响，也不太可能软化其谈判立场；美国官员表示由于供应不足和战斗破坏，我们没有足够的防空和远程弹药来安全地维持作战行动，我认为白宫并没有意识到这一点。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "XLE",
+        "USO",
+        "AMZN"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Axios",
+        "WSJ",
+        "WaPo"
+      ],
+      "date": "2026-07-21",
+      "image_urls": []
+    },
+    {
+      "id": "trump-canada-tariff-jul21",
+      "topic": "美加关税",
+      "topic_tag": "policy",
+      "title": "Trump对加拿大加征50%关税，覆盖约20B商品",
+      "summary": "Trump 宣布对加拿大一大批商品加征 50% 关税，30 天后生效，涉及约 200 亿美元加商品，理由为加拿大歧视性对待美国产品。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "对加50%关税30d后生效，覆盖约20B商品",
+          "details": "对加拿大一大批商品加征50%的关税，30d后生效，并将影响约 20B 的加拿大商品，加税理由：加拿大歧视性对待美国产品，含'美加墨贸易协定'覆盖产品，例如汽车、水泥等，不含能源、化肥、关键矿物等。",
+          "important": true
+        },
+        {
+          "actor": "白宫",
+          "actor_type": "US-Executive",
+          "text": "豁免能源、化肥、关键矿物",
+          "details": "关税不包含能源、化肥、关键矿物等类别，主要打击汽车、水泥等USMCA覆盖工业品。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "F",
+        "GM",
+        "STLA"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-21",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-views-jul21",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "卖方观点：GS/JPM/MS/DB/BofA/HSBC汇总",
+      "summary": "GS 上调油价预期区间，下半年美经济面临消费放缓与AI热潮降温；GS Fed 预期沟通策略微调、或停发SEP中位数。JPM 目标KOSPI 12,500，2026年Fed暂停加息、10Y年底至4.70%。MS看好AI周期与超大规模云商，2026年AI Capex恐达870B；MS Commodity预期2026Q4黄金4,450美元/盎司。DB警示NYSE保证金债务创1.5T历史新高（占GDP 4.5%）。BofA看两峰路径、Q2 GDP追踪上调至1.7%。HSBC建议降风险敞口。",
+      "bullets": [
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "DB警告NYSE保证金债务1.5T创历史新高，占GDP 4.5%",
+          "details": "纽交所保证金债务创1.5T美元历史新高，占美GDP比重达4.5%，为百年高位。自2023年10月以来激增136%，显示零售投机过热。新任美联储主席Warsh倾向鹰派，强调控通胀，政策转变可能刺破泡沫，引发企业信用利差重新定价风险。附图：NYSE Margin Debt trailing 32 months 增速接近140%，逼近2000年150%水平。全球科技板块回撤：Mag7 -6%、纳指 -6%、S&P Tech -10%、费半 -20%、KOSPI -22%、S&P Software -26%、恒生科技 -29%。各国保证金/杠杆ETF占市值：美国1.9%/0.3%、韩国0.5%/0.7%、日本0.5%/0.1%、A股2.8%/0.0%、台湾0.4%/0.2%。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS：油价上行风险，全年中国增速下调至4.6%",
+          "details": "中东冲突升级推升油价，已超出此前预测区间。风险双向但整体偏上行：若冲突缓和，油价可能因出口快速恢复而急剧回落；若油轮与基础设施持续受袭，油价或重返100美元以上高位。上半年美国经济以接近趋势的2.25%增速增长，下半年面临消费放缓和AI热潮降温压力。6月就业数据弱于预期，失业率预计未来数月回升，薪资增速放缓至3.4%。6月核心PCE等通胀数据温和，但美国核心PCE仍明显高于其他主要经济体，存在统计高估。7月FOMC加息概率已消除。ECB 7月加息概率低、9月加息概率上升、之后暂停，2027年存款利率或回调至2%。英国央行今年预计不加息，2027年或3次降息。中国二季度GDP 4.3%低于预期，全年下调至4.6%，7月会议预计加大宽松。AI板块回调建议聚焦消费体验、优质盈利增长及并购标的；紧缩定价过高；FX利于套利，人民币有望继续升值；信用利差或小幅扩大；黄金受央行购金支撑但短期面临能源与利率风险。",
+          "important": false
+        },
+        {
+          "actor": "GS Fed组",
+          "actor_type": "Analyst",
+          "text": "GS Fed：沟通策略或微调，可能停发SEP中位数",
+          "details": "预计沟通策略将微调，或停止发布SEP中位数预测；充足准备金制度大概率维持，但资产构成可能转向短期国库券；替代数据仅作补充；鉴于AI对生产率影响的滞后性及预测难度，货币政策不会提前转向鸽派；通胀框架将重新审视货币总量及供给冲击。",
+          "important": false
+        },
+        {
+          "actor": "JPM Korea",
+          "actor_type": "Analyst",
+          "text": "JPM：KOSPI目标12,500，去杠杆已完成75%",
+          "details": "KOSPI目标价12,500点。韩国股市近期下跌28%主要受去杠杆驱动，目前杠杆ETF去杠杆已完成75%，对冲基金去杠杆超50%。尽管年初至今外资流出超110B，但主要来自两只内存股，压力已缓解。长期看好AI周期及基本面，认为市场将克服仓位调整恢复升势。附图：EWY 上周吸金逾28亿美元，创史上最大单周流入。",
+          "important": false
+        },
+        {
+          "actor": "JPM Strategy",
+          "actor_type": "Analyst",
+          "text": "JPM策略：Fed 2026年全程暂停，10Y年底至4.70%",
+          "details": "预计Fed 2026年全程暂停加息，10Y年底升至4.70%。维持美元看涨观点但信心减弱，欧元/美元目标下调至1.10。地缘政治推升天然气风险溢价，铜获中国需求支撑。新兴市场超配外汇，重点关注拉美及EMEA高套息货币。",
+          "important": false
+        },
+        {
+          "actor": "Morgan Stanley Strategy",
+          "actor_type": "Analyst",
+          "text": "MS：AI周期intact，2026年AI Capex恐达870B",
+          "details": "认为AI周期intact，中期看好超大规模云服务商风险回报。预计Q2标普500盈利同比+23%，科技与能源为主要驱动力。AI资本支出2026年恐达870B，动量因子出现unwind迹象，建议关注云服务商及网络安全板块。",
+          "important": false
+        },
+        {
+          "actor": "Morgan Stanley Commodity",
+          "actor_type": "Analyst",
+          "text": "MS大宗：2026Q4黄金4450美元、白银65.40美元",
+          "details": "若Fed避免加息，预计2026年Q4黄金达4,450美元/盎司，白银达65.40美元/盎司。央行购金加速，中国今年已买40.1吨，为金价提供支撑。但ETF持续流出，北美上半年净卖60.5吨。白银受光伏需求下滑拖累，预计今年需求降19%，但弹性更大。",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "BofA：市场纠结Fed双峰路径，Q2 GDP上调至1.7%",
+          "details": "市场正纠结于美联储'按兵不动'或'正式加息'的双峰路径，当前定价的1.5次加息预期可能性极低。美国Q2 GDP追踪估算上调至1.7%，受零售销售提振。今日数据清淡，仅关注6月领先经济指标（预期-0.1%）。政策不确定性推升市场波动率。",
+          "important": false
+        },
+        {
+          "actor": "HSBC",
+          "actor_type": "Analyst",
+          "text": "HSBC：建议降风险敞口，看好欧洲银行与SPX",
+          "details": "近期半导体及亚洲市场抛售主要为仓位清洗，预计不会引发广泛风险资产崩盘。但预警信号显现：美股市场广度创一年半新高，投资者仓位过度乐观。鉴于中东局势推升油价及财报季高峰临近，建议降低风险敞口，转向发达市场利率债，看好欧洲银行及spx。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "QQQ",
+        "EWY",
+        "GLD",
+        "SLV"
+      ],
+      "image_indexes": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "importance": 3,
+      "sources": [
+        "GS",
+        "JPM",
+        "MS",
+        "DB",
+        "BofA",
+        "HSBC"
+      ],
+      "date": "2026-07-21",
+      "image_urls": [
+        "/uploads/2026-07-21/065a67110f5d.jpg",
+        "/uploads/2026-07-21/0b529e20e31c.png",
+        "/uploads/2026-07-21/fa1d1528aa95.png",
+        "/uploads/2026-07-21/6b8cdbb849ed.png"
+      ]
+    },
+    {
+      "id": "june-pce-forecast-jul21",
+      "topic": "6月PCE预测",
+      "topic_tag": "fed",
+      "title": "卖方6月PCE预测：核心中位0.18% m/m，3.3% y/y",
+      "summary": "WSJ 汇总14家卖方对6月PCE预测：核心m/m中位0.18%、y/y 3.3%；总体m/m中位-0.07%、y/y 3.7%。均低于5月核心0.32%/3.4%及总体0.45%/4.1%。",
+      "bullets": [
+        {
+          "actor": "WSJ汇总",
+          "actor_type": "新闻",
+          "text": "核心PCE中位0.18% m/m、3.3% y/y，较5月放缓",
+          "details": "June PCE price index forecasts 中位：Headline -0.07% m/m、3.7% y/y；Core 0.18% m/m、3.3% y/y。5月为 Headline 0.45%/4.1%、Core 0.32%/3.4%。各行覆盖：BofA、Barclays、Citi、Employ America、GS、Inflation Insights、JPM、Oxford Economics（y/y 4.1%偏高）、Nomura、Pantheon、Renaissance Macro、TD、UBS、Underlying Inflation。",
+          "important": true
+        },
+        {
+          "actor": "Oxford Economics",
+          "actor_type": "Analyst",
+          "text": "Oxford Economics核心y/y 4.1%显著高于同业",
+          "details": "Oxford Economics 预测 Core PCE y/y 4.1%，为14家中最高（其余均为3.3%–3.4%）。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-07-21",
+      "image_urls": [
+        "/uploads/2026-07-21/8e6e75e86daa.png"
+      ]
+    },
+    {
+      "id": "china-ai-jul21",
+      "topic": "中国AI",
+      "topic_tag": "ai",
+      "title": "智谱1GW国产芯片数据中心投运，Moonshot拟赴港上市",
+      "summary": "彭博：智谱AI（GLM）建成并投运1GW全国产芯片数据中心，标志中国AI摆脱英伟达依赖。Moonshot最快未来6个月赴港上市，估值可能超30B。",
+      "bullets": [
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "智谱建成1GW全国产芯片数据中心",
+          "details": "BBG报道智谱 AI（GLM）已建成并投运一座 1GW 全国产芯片数据中心，主要用于训练自家大模型，标志着中国 AI 公司在摆脱英伟达依赖、实现算力自主化上又迈出重要一步。",
+          "important": true
+        },
+        {
+          "actor": "Moonshot",
+          "actor_type": "Corporate",
+          "text": "Moonshot最快未来6个月赴港上市，估值或超30B",
+          "details": "Moonshot 最快未来 6 个月赴港上市，融资后估值可能超过 $30B。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-07-21",
+      "image_urls": []
+    },
+    {
+      "id": "kol-views-jul21",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "KOL观点：AI泡沫、中东危机、市场广度分歧",
+      "summary": "Stahel警告中东石油危机可能长期化；Andy称当前处于泡沫、类比互联网走势；多位KOL关注AI交易见顶迹象（韩国内存抛压、超大规模Capex风险）；Fed Lord嘲讽踏空情绪。",
+      "bullets": [
+        {
+          "actor": "Alexander Stahel",
+          "actor_type": "KOL",
+          "text": "Stahel：中东石油危机升级，或长期化",
+          "details": "伊朗把封锁霍尔木兹海峡当作政权生存的关键手段，而美国目前既不想大规模地面战争，又不想彻底推翻伊朗政权，只能选择'拖'或有限行动。这两种选择最终都可能对全球石油市场和石油美元体系造成长期负面影响。中东石油危机正在升级（伊朗重点控霍尔木兹海峡 + 胡塞武装封锁沙特红海出口），而市场却因为疲倦而过度自满。库存更低、风险更高，可能很快出现实际短缺。这不是短期波动，而是一场可能长期化的真实危机。",
+          "important": true
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "Andy：处于泡沫中，若破裂类比互联网前几个月",
+          "details": "我们正处于泡沫之中。至于它是否破裂，我不知道，而且可能不会。但如果破裂了，互联网泡沫的走势大致如下：几个月内波动剧烈。",
+          "important": false
+        },
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "short bear：QQQ阻力位，做空跳空高开",
+          "details": "KOSPI在周五半导体板块反弹后，没有延续上涨，反而走弱收盘。美国市场今天早上虽然可能跳空高开，但 $QQQ 已经来到阻力位，过去多次在类似'反弹后第二天跳空但无力'的形态中做多，结果都被套，所以这次选择做空。",
+          "important": false
+        },
+        {
+          "actor": "@NickSchmidt",
+          "actor_type": "KOL",
+          "text": "NickSchmidt：弱势市场不要盲追跳空高开",
+          "details": "弱势市场里，盲目追逐跳空高开是低概率交易，让早盘先震荡消化这些卖压，观察供给是否被吸收，然后再看买盘是否真正能接手并掌控局面。",
+          "important": false
+        },
+        {
+          "actor": "AP Research",
+          "actor_type": "KOL",
+          "text": "AP Research：AI 交易已无法无差别托举大盘",
+          "details": "AI 交易已不再能无差别地承托整个市场。大盘能否维持稳定，将取决于市场广度能否改善、通胀能否持续放缓进而驱动鹰派的Fed缓解。",
+          "important": false
+        },
+        {
+          "actor": "@HedgieMarkets",
+          "actor_type": "KOL",
+          "text": "HedgieMarkets：AI卖压从韩国内存起，Alphabet财报关键",
+          "details": "AI 卖压已从韩国内存股开始，本周美股科技巨头财报（尤其是 Alphabet）将成为关键。如果出现资本开支下调或 AI 收入'自我循环'的迹象，调整可能从海外蔓延至美国市场。",
+          "important": false
+        },
+        {
+          "actor": "@pequityresearch",
+          "actor_type": "KOL",
+          "text": "pequityresearch：Semi行业疲软直至超大规模厂商财报出齐",
+          "details": "semi 行业依然疲软。在所有超大规模数据中心运营商完成财报之前，市场形势难以明朗。",
+          "important": false
+        },
+        {
+          "actor": "Fed Lord",
+          "actor_type": "KOL",
+          "text": "Fed Lord：情绪从恐跌到踏空切换极快",
+          "details": "人们从害怕市场回调到害怕错过反弹的转变速度如此之快，Sometimes the dip just got more dip to dip.",
+          "important": false
+        },
+        {
+          "actor": "Brandon Cral",
+          "actor_type": "KOL",
+          "text": "Brandon Cral：超大规模数据中心运营商拥抱开源生态",
+          "details": "更多证据表明，超大规模数据中心运营商将围绕开放模式构建生态系统。",
+          "important": false
+        },
+        {
+          "actor": "中国政经事实",
+          "actor_type": "KOL",
+          "text": "去杠杆首波接近尾声，美股健康度好于韩A股",
+          "details": "去杠杆的第一波也是最急的一段进入尾声，但考虑5-6月积累了近年最大最快最集中的杠杆，第二波的消化杠杆需要一定的周期。健康程度上美股远好于韩国和A股，下跌看最弱，上涨看最强，美股的接下来的动向将是全球关键。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "QQQ",
+        "GOOGL",
+        "SOXX"
+      ],
+      "image_indexes": [
+        2
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-21",
+      "image_urls": [
+        "/uploads/2026-07-21/d3ca20d5ead6.png"
+      ]
+    }
+  ]
+}
