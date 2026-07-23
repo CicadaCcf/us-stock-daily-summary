@@ -1,0 +1,340 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis-2026",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "Trump威胁再袭伊朗核设施 霍尔木兹通行骤降90%",
+      "summary": "Trump称伊朗迫切求谈但同时威胁很快重击，公开点名Pickaxe Mountain(镐头山)核设施要拿下，声称已造成需20-25年恢复的损伤。Rubio称美方仍愿谈但德黑兰不认真。Bessent披露中国对伊原油采购降40%、里亚尔自由落体、通胀180%+。国防部披露战争已耗37.5B并要求87.6B紧急补充资金。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump称伊朗迫切想谈同时威胁很快重击核设施",
+          "details": "Trump称伊朗\"迫切(desperate)想谈\"，同时威胁\"很快\"重击，曝光核设施Pickaxe Mountain(镐头山)且称要拿下，告诉伊朗人做好准备。任何他们在考虑搞核的地点都会被非常猛烈打击，明天不会撤走，称已造成伊朗需20-25年恢复的损伤。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "警告伊朗可能借霍尔木兹动作干扰美国选举",
+          "details": "Trump称伊朗很可能试图通过霍尔木兹海峡的种种行动来影响美国的选举。红海方面\"我们会看看会发生什么\"，到目前为止还没有发生，如果胡塞武装封锁引发局势，将采取行动应对。",
+          "important": false
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "Rubio：仍愿谈但德黑兰不认真，中俄美需共管核武",
+          "details": "Rubio称DC仍然愿意就结束与伊朗的危机进行谈判，很乐意达成外交协议，但德黑兰\"并不认真，如果他们不这样做，那么我们将采取必要措施来保护自身及盟友利益\"。美国正针对伊朗发射攻击的地方进行打击；中国已明确表示不支持通过国际水域如霍尔木兹海峡进行收费；核武器控制需要美国、俄罗斯、中国；胡塞过去曾威胁全球航运，这不是新威胁。",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "Bessent：中国对伊原油采购降40%，里亚尔自由落体",
+          "details": "Bessent称中国对伊朗原油采购降约40%；正追踪哈梅内伊全球房产、拟公布地址；里亚尔\"自由落体\"创新低、通胀\"180%+\"。",
+          "important": false
+        },
+        {
+          "actor": "国防部/Hegseth",
+          "actor_type": "US-Executive",
+          "text": "国防部披露战费37.5B 追加87.6B紧急拨款",
+          "details": "国防部披露战争已耗费37.5B，并要求87.6B的紧急补充资金，Hegseth确认中国和俄罗斯在某种程度上支持伊朗的军事行动。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ：镐头山比Fordow更深 建议特种部队封锁出入口",
+          "details": "WSJ报道称镐头山比Fordow设施埋得更深，即便现有的空中打击无法完全将其物理消灭，美军也应通过炸毁出入口、切断通道，甚至考虑派遣特种部队等手段来封锁该设施。",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "BBG：胡塞已备好从曼德海峡袭击船只",
+          "details": "BBG报道据一家全球海军安全监测机构称，也门胡塞武装分子(由伊朗支持的武装分子)已准备好从红海南端曼德海峡附近的阵地袭击船只。",
+          "important": false
+        },
+        {
+          "actor": "The Atlantic",
+          "actor_type": "新闻",
+          "text": "The Atlantic：Trump或最后一刻放弃对伊战争保中期选举",
+          "details": "theatlantic报道据Trump身边人士，他有可能在最后一刻，放弃与伊朗的战争，因为需要帮助共和党赢中期选举。",
+          "important": false
+        },
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "JH：卫星图显示中东主要石油码头油轮仍活跃",
+          "details": "实物市场卫星图看，目前中东主要石油出口码头仍有油轮在活跃作业，还没有出现全面停滞。因此\"装载冻结 + 大规模减产\"这种极端情况目前证据不足，喊得太早了。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "Bloomberg",
+        "The Atlantic",
+        "Axios"
+      ],
+      "date": "2026-07-22",
+      "image_urls": [
+        "/uploads/2026-07-22/c0d06b81d1d3.png",
+        "/uploads/2026-07-22/da08aa36e6b3.png"
+      ]
+    },
+    {
+      "id": "trump-domestic-policy-2026",
+      "topic": "Trump国内政策",
+      "topic_tag": "policy",
+      "title": "Trump仿制药100%关税威胁 顾问团密会中期选举",
+      "summary": "Trump给仿制药生产商两年将生产转移到美国，否则2028年8月起100%进口关税。Axios报道Trump核心政治顾问周二在DC四季酒店密会，商讨11/3中期选举民调、宣传与资金部署。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "仿制药2028年8月起面临100%进口关税",
+          "details": "仿制药生产商有两年时间将生产转移到美国，否则将从2028年8月起面临100%的进口关税。",
+          "important": true
+        },
+        {
+          "actor": "Axios",
+          "actor_type": "新闻",
+          "text": "Trump核心顾问团DC四季酒店密会中期选举",
+          "details": "Axios的报道，Trump的核心政治顾问团队于周二在华盛顿特区的四季酒店举行会晤，针对即将到来的11/3中期选举商讨民调分析、宣传策略和资金部署。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Axios"
+      ],
+      "date": "2026-07-22",
+      "image_urls": []
+    },
+    {
+      "id": "us-china-ai-ip-2026",
+      "topic": "中美AI",
+      "topic_tag": "ai",
+      "title": "美将审查中国AI模型IP盗窃 9月中美AI会谈",
+      "summary": "Bessent称美国将审查中国AI模型是否存在知识产权盗窃行为，如发现问题将采取制裁。路透获5位知情人士消息，中美双方预计于今年9月举行人工智能会谈。",
+      "bullets": [
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "美将审查中国AI模型IP盗窃 或采取制裁",
+          "details": "Bessent称美国将审查中国人工智能模型是否存在任何知识产权盗窃行为，如果发现问题将采取制裁。",
+          "important": true
+        },
+        {
+          "actor": "路透社",
+          "actor_type": "新闻",
+          "text": "路透：中美9月将举行AI会谈",
+          "details": "路透社获得5位知情人士消息，中美双方预计于今年9月举行人工智能会谈。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Reuters"
+      ],
+      "date": "2026-07-22",
+      "image_urls": []
+    },
+    {
+      "id": "spr-storage-caverns-2026",
+      "topic": "SPR/能源储备",
+      "topic_tag": "oil",
+      "title": "能源部：SPR洞穴最低运行容量仅约70mb",
+      "summary": "美国能源部披露storage caverns的最低运行容量约为70mb，远低于石油行业的估计水平。",
+      "bullets": [
+        {
+          "actor": "美国能源部",
+          "actor_type": "US-Executive",
+          "text": "SPR洞穴最低运行容量约70mb 低于业内估计",
+          "details": "能源部披露这些storage caverns的最低运行容量约为70mb，远低于石油行业的估计水平。",
+          "important": true
+        },
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "JH：炼油品库存极低 TACO要快",
+          "details": "美国炼油品(尤其是汽油、柴油)库存极低，当前裂解价差(crack spreads)这么夸张的高并不奇怪，如果特朗普想做某些操作(TACO)，最好快点，因为夏季需求高峰还有一个月。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-07-22",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-views-2026-07-23",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "卖方：JPM看油铜黄金/HSBC霍尔木兹通行-90%/BofA吁Fed加息",
+      "summary": "JPM技术面视布伦特83-85.71为夏季区间上沿突破看97.87、黄金中期看空目标3605、铜疑周期见顶。HSBC称霍尔木兹通行骤降90%、欧洲柴油裂解破70美元/桶历史新高。BofA基于6月核心PCE 2.5%建议Fed恢复加息，HSBC则预测Fed 7月维持3.50-3.75%不变。",
+      "bullets": [
+        {
+          "actor": "HSBC Oil",
+          "actor_type": "Analyst",
+          "text": "HSBC：霍尔木兹通行骤降90% 日流<2M b/d",
+          "details": "霍尔木兹海峡通行量骤降90%，美伊停火破裂致日流低于2M b/d。欧洲柴油裂解价差创历史新高，突破70美元/桶，汽油价差超50美元/桶。汇丰认为红海封锁风险被高估，苏伊士运河可作替代，但长期管道产能不足，若8月中旬前无新协议，油价面临上行风险。",
+          "important": true
+        },
+        {
+          "actor": "JPM Commodity Technical",
+          "actor_type": "Analyst",
+          "text": "JPM技术面：布伦特83-85.71关键 黄金看空3605",
+          "details": "布伦特原油触及83-85.71美元关键阻力区，视为夏季区间上沿，突破则看至97.87美元。黄金中期维持看空，受制于4197-4264美元趋势线，上行有限，下行目标看至3605美元。铜价疑似周期见顶，跌破12537-12988美元支撑将强化看空前景。",
+          "important": false
+        },
+        {
+          "actor": "BofA Vol",
+          "actor_type": "Analyst",
+          "text": "BofA：泡沫指标预警成功 推荐KOSPI/SMH看涨结构",
+          "details": "其泡沫风险指标成功预警韩国股市及美光科技的回调，优于传统估值。鉴于KOSPI远期市盈率仅6.3倍且AI需求强劲，建议通过期权敲出结构参与反弹，潜在上行40%。同时看好半导体板块快速修复，推荐SMH看涨期权价差策略。当前跨资产尾部对冲成本处于历史低位，外汇对冲性价比凸显。",
+          "important": false
+        },
+        {
+          "actor": "BofA Macro",
+          "actor_type": "Analyst",
+          "text": "BofA：6月核心PCE 2.5% 吁Fed恢复加息",
+          "details": "即使剔除特殊因素，美国6月核心PCE仍达2.5%，显著高于美联储2%目标。鉴于通胀顽固及劳动力市场稳定，建议Fed恢复加息而非长期暂停。同时受零售销售修正影响，二季度GDP追踪预估上调至1.7%。",
+          "important": false
+        },
+        {
+          "actor": "HSBC Commodity",
+          "actor_type": "Analyst",
+          "text": "HSBC：金价强势反弹 SGE溢价升至6-8美元/盎司",
+          "details": "金价无视美元及收益率走强强势反弹，上海金交所溢价升至6-8美元/盎司示需求回暖。但受中东地缘及油价潜在飙升威胁，上行空间有限。白银受益于铜价涨及芯片股反弹，表现优于黄金。",
+          "important": false
+        },
+        {
+          "actor": "HSBC Fed",
+          "actor_type": "Analyst",
+          "text": "HSBC：Fed 7月维持3.50-3.75% Logan或dissent加息",
+          "details": "预测Fed 7月将维持利率在3.50%-3.75%不变。尽管通胀已连续63个月高于2%目标，5月核心PCE升至3.4%，但多数官员倾向观望。达拉斯联储主席Logan等鹰派可能dissent支持加息25bp。风险偏向加息，预计2026-2027年利率整体稳定。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SMH",
+        "MU"
+      ],
+      "image_indexes": [
+        5,
+        6,
+        7
+      ],
+      "importance": 3,
+      "sources": [
+        "JPM",
+        "BofA",
+        "HSBC"
+      ],
+      "date": "2026-07-22",
+      "image_urls": [
+        "/uploads/2026-07-22/55d5b0337cfa.jpg",
+        "/uploads/2026-07-22/6ecbfd8f4da6.jpg",
+        "/uploads/2026-07-22/6ecbfd8f4da6.jpg"
+      ]
+    },
+    {
+      "id": "kol-views-2026-07-23",
+      "topic": "KOL/买方观点",
+      "topic_tag": "macro-other",
+      "title": "Gavin Baker挺NVDA Vera Rubin Cral质疑630B可持续性",
+      "summary": "Gavin Baker对Nvidia Vera Rubin超高产能与新型收入分成商业模式高度关注，怀疑做空观点。Warren Pies称B200供应量已0%、GH200进一步收紧。Brandon Cral质疑Nvidia 630B/Q收入不可持续，Nvidia接受现金+股权/收入分成是资本配给表现。Herman Jin列三大风险，EricJhonsa看短期反弹。",
+      "bullets": [
+        {
+          "actor": "Gavin Baker",
+          "actor_type": "KOL",
+          "text": "Gavin Baker：Vera Rubin产能与分成模式或超预期",
+          "details": "对Nvidia Vera Rubin的超高产能数据和新型收入分成商业模式表示高度关注，认为这可能大幅超出市场当前预期，并对做空Nvidia的观点持怀疑态度。",
+          "important": true
+        },
+        {
+          "actor": "Brandon Cral",
+          "actor_type": "KOL",
+          "text": "Cral：Nvidia 630B/Q不可持续 现金+股权为资本配给",
+          "details": "到现在多头和空头都在宣称自己获胜，这形成了一个有趣的局面。Nvidia这么高的630B/Q的收入，在当前AI产业链的每一层都想要高毛利的情况下，是不可持续的。整个生态系统没有足够的利润空间来支撑这么大的数字；因为市场上现金/资本不足，Nvidia开始接受现金+股权/收入分成的组合方式，这是一种资本配给(Capital Rationing)的表现。",
+          "important": false
+        },
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "Warren Pies：B200供应量已0% GH200强力收紧",
+          "details": "GPU供应再次趋紧……B200的供应量已经为0%，Kimi K3术后，GH200进行强力收紧。",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "Herman Jin：三大风险 融资/VIX/AI模型收入",
+          "details": "往前主要风险：1. 缺钱(融资吸血credit)；2. 不确定的VIX — Iran/Fed；3. 模型端 — A社与O社收入数据。",
+          "important": false
+        },
+        {
+          "actor": "@EricJhonsa",
+          "actor_type": "KOL",
+          "text": "EricJhonsa：技术面基本面已具备短期反弹基础",
+          "details": "为市场技术面和基本面条件已具备短期反弹基础，散户情绪洗得比较干净(引用了Fidelity订单数据)，只要地缘政治(伊朗/油价)不继续恶化，短期有望反弹。",
+          "important": false
+        },
+        {
+          "actor": "@pequityresearch",
+          "actor_type": "KOL",
+          "text": "pequity：内存年底前继续强 修正25-40%到位",
+          "details": "内存相关领域在年底前会继续保持强劲表现。内存名称的修正幅度在25%-40%之间，这很可能就是导致这种情况的原因。市场已经重新开始波动，是时候进一步上涨了。",
+          "important": false
+        },
+        {
+          "actor": "@SirOfFinance",
+          "actor_type": "KOL",
+          "text": "SirOfFinance：Fed加息叙事已无硬数据支撑",
+          "details": "Fed或市场之前找的各种\"加息理由\"(就业、通胀、PPI、PCE)，结果数据一个接一个地比预期弱。现在已经没有硬数据支撑了，只能靠\"感觉\"继续维持加息叙事。",
+          "important": false
+        },
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "JH：黄金可低调积累 上海正在补库",
+          "details": "黄金整体仍处于一个可以开始低调积累的区域，目前上海正在补库。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "MU"
+      ],
+      "image_indexes": [
+        2,
+        3,
+        4
+      ],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-07-22",
+      "image_urls": [
+        "/uploads/2026-07-22/1abac54cdf71.png",
+        "/uploads/2026-07-22/4e1b9a8ab06b.png",
+        "/uploads/2026-07-22/fbb68d08caa3.png"
+      ]
+    }
+  ]
+}
