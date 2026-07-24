@@ -1,0 +1,69 @@
+{
+  "generated_at": "2026-07-23T21:33:22+00:00",
+  "date": "2026-07-23",
+  "since": "2026-07-21T20:00:00+00:00",
+  "by_ticker": {
+    "CLF": [],
+    "CIFR": [],
+    "CBRS": [
+      {
+        "headline": "AMD and Cerebras Announce Industry-Leading Ultra-Low-Latency and High Throughput AI Inference Solution",
+        "url": "https://www.globenewswire.com/news-release/2026/07/23/3332477/0/en/AMD-and-Cerebras-Announce-Industry-Leading-Ultra-Low-Latency-and-High-Throughput-AI-Inference-Solution.html",
+        "source": "GlobeNewswire Inc.",
+        "published_at": "2026-07-23T17:45:00Z",
+        "image": "https://ml.globenewswire.com/Resource/Download/9782a337-07ac-424b-9c5a-f9cde47d8d55",
+        "description": "AMD and Cerebras announced a technical partnership to deliver a disaggregated AI inference solution combining AMD Helios rackscale solutions with Cerebras Wafer-Scale Engine technology. The joint solution is designed to deliver ultra-low latency for advanced AI applications while increasing throughput and efficiency, with expected availability through Cerebras Cloud in the second half of 2026."
+      }
+    ],
+    "SMCI": [
+      {
+        "headline": "Stock Market Midday, July 22: Markets Brace for Alphabet Earnings as Hyperscaler's AI Debt Comes Into Focus",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/07/22/stock-market-midday-july-22-markets-brace-for-alphabet-earnings-as-hyperscaler-s-ai-debt-comes-under-spotlight/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-07-22T16:19:14Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F8df196edf8e8c0401e1e66caa1b50f898f1c2d48-1400x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+        "description": "Markets showed mixed performance on July 22, 2026, with tech stocks under pressure amid concerns about massive AI infrastructure spending. Oil prices surged above $86/barrel due to Middle East tensions, fueling inflation worries. Goldman Sachs highlighted $489 billion in AI-related debt issuance this year, with hyperscalers accounting for 40%. Investors await Alphabet and Tesla earnings after hours to assess whether intensive AI spending is translating to revenue growth."
+      }
+    ],
+    "AAOI": [],
+    "NBIS": [
+      {
+        "headline": "My 3 Favorite AI Stocks to Buy Right Now",
+        "url": "https://www.fool.com/investing/2026/07/23/my-3-favorite-ai-stocks-to-buy-right-now/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-07-23T17:23:00Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879871%2Fgettyimages-1207054027-1.jpg&w=1200&op=resize",
+        "description": "The article highlights three AI stocks positioned to benefit from the growing AI infrastructure boom: Taiwan Semiconductor Manufacturing (TSMC), which is investing $100 billion in Arizona facilities for advanced chip production; Micron Technology, which saw net income surge 1,400% with strong DRAM demand from data centers; and Nebius Group, an AI cloud services company backed by Nvidia with $2 billion in investment and major partnerships with Meta."
+      },
+      {
+        "headline": "How the Potential $10 Billion Compute Lease Deal Between Meta Platforms and Anthropic Affects Neocloud Stocks",
+        "url": "https://www.fool.com/investing/2026/07/22/how-the-potential-10-billion-compute-lease-deal-be/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-07-22T07:12:00Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879790%2Fgettyimages-1669453534-1200x637-9df96c7.jpg&w=1200&op=resize",
+        "description": "Meta Platforms is reportedly in early-stage talks with Anthropic for a $10 billion compute lease deal over 2 years, raising concerns among neocloud investors about potential competition. However, Meta's own massive compute needs and the strong demand from AI developers suggest neoclouds like Nebius, CoreWeave, and Iren can diversify their customer bases and secure long-term contracts ahead of potential hyperscaler competition."
+      },
+      {
+        "headline": "Why Nebius Stock Soared Today",
+        "url": "https://www.fool.com/investing/2026/07/21/why-nebius-stock-soared-today/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-07-21T23:03:01Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880036%2Fcloud-computing-gettyimages-1345778718.jpg&w=1200&op=resize",
+        "description": "Nebius Group stock surged 18.91% after Nvidia disclosed a 9.3% equity stake (22.3 million shares) worth approximately $5 billion. The investment follows a strategic partnership announced in March between the two companies to deploy AI-focused cloud computing infrastructure. Nebius has secured over $40 billion in contracted revenue from major tech partners including Microsoft and Meta."
+      }
+    ],
+    "UTZ": [
+      {
+        "headline": "Stock Market Today, July 21: Utz Brands Surges on $2.9 Billion Take-Private Deal. Here's the Lesson for Investors.",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/07/21/stock-market-today-july-21-utz-brands-surges-on-usd2-9-billion-take-private-deal-here-s-the-lesson-for-investors/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-07-21T21:02:15Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fe7dd8b70435a213a06dcc8bea55f01f7acf42b48-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+        "description": "Utz Brands surged 88.72% to $14.06 after announcing a $2.9 billion all-cash take-private deal by Germany's Intersnack Group at $14.25 per share, representing a 91% premium. The article highlights that investors who recognized the dividend yield bounce above 3% as a buying signal were rewarded. While the IPO in 2018 at $10 per share had been a tough ride, recent positive signs in adjusted free cash flow and guidance improvements preceded the buyout announcement."
+      }
+    ],
+    "AXTI": [],
+    "ARWR": [],
+    "AEHR": []
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "topics": [
+    {
+      "id": "us-congress-defense-iran-budget",
+      "topic": "美国国会预算",
+      "topic_tag": "policy",
+      "title": "众议院通过1.15T国防授权及95B伊朗补充预算",
+      "summary": "众议院通过新财年1.15T基础国防授权预算，因附带SAVE Act选举安全条款遭参院搁置；另以216-214微弱优势通过95B预算框架草案（含73B补充伊朗），将提交参议院。",
+      "bullets": [
+        {
+          "actor": "美国众议院",
+          "actor_type": "US-Congress",
+          "text": "众院通过1.15T国防授权，参院因SAVE Act搁置",
+          "details": "众议院通过新财年1.15T的基础国防授权预算，由于法案中加入了涉及选举安全的 SAVE Act 附带条款，参院搁置中",
+          "important": false
+        },
+        {
+          "actor": "美国众议院",
+          "actor_type": "US-Congress",
+          "text": "216-214通过95B预算框架，73B补充伊朗",
+          "details": "众议院以216-214的微弱优势通过了一项95B的预算框架草案，其中73B补充伊朗。现将提交参议院",
+          "important": true
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-23",
+      "image_urls": []
+    },
+    {
+      "id": "japan-boj-fx-oct-hike",
+      "topic": "日本央行",
+      "topic_tag": "fed",
+      "title": "日本财务省警告干预 日央行或10月加息",
+      "summary": "日本财务省称若日元持续下跌将采取果断行动并做好再次干预准备；RTRS调查显示多数经济学家预计日央行12月底再次加息，10月即可能启动，明年仍将进一步加息。BofA日本报告显示通胀预期首破2%达2.1%，支持10月提前加息。",
+      "bullets": [
+        {
+          "actor": "BofA JP",
+          "actor_type": "Analyst",
+          "text": "日本通胀预期首破2%达2.1%，支持10月提前加息",
+          "details": "日本通胀预期显著上升，经调整指标首破2%达2.1%。家庭与企业预期全面上行，支持日本央行于10月提前加息。若预期持续高企，央行或需更快收紧政策以应对通胀风险",
+          "important": true
+        },
+        {
+          "actor": "日本财务省",
+          "actor_type": "Foreign-Gov",
+          "text": "若日元持续下跌将采取果断行动 备再次干预",
+          "details": "日本财务省称若日元持续下跌，将采取果断行动，做好再次干预的准备",
+          "important": false
+        },
+        {
+          "actor": "路透调查",
+          "actor_type": "新闻",
+          "text": "多数经济学家预计日央行12月再加息 10月或启动",
+          "details": "据RTRS的一项调查，多数经济学家认为，日本央行将在 12 月底再次加息，并可能在 10 月就开始加息，明年仍将考虑进一步加息",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Reuters"
+      ],
+      "date": "2026-07-23",
+      "image_urls": []
+    },
+    {
+      "id": "mideast-netanyahu-saudi-nuclear",
+      "topic": "中东外交",
+      "topic_tag": "geo",
+      "title": "内塔尼亚胡将访白宫 美沙签30年民用核协议",
+      "summary": "内塔尼亚胡下周或访问白宫椭圆办公室；美沙签署为期30年的民用核能协议，为沙特开辟浓缩核燃料途径，包括2年联合研究评估本土浓缩铀可行性及美国公司以Black Box模式在沙建设浓缩设施，引发核不扩散专家高度警惕。",
+      "bullets": [
+        {
+          "actor": "美国-沙特",
+          "actor_type": "US-Executive",
+          "text": "美沙签30年民用核协议 开辟沙特浓缩铀路径",
+          "details": "美沙两国签署了一项为期 30 年的民用核能协议，将利用美国技术协助沙特建设民用核计划，协议为沙特阿拉伯开辟了一条浓缩核燃料的途径（2 年的联合研究评估沙特本土浓缩铀的可行性、美国公司将通过Black Box模式在沙特建造浓缩设施），沙特承诺在其核反应堆项目中采用美国公司的技术与设备供应，该协议引发了核不扩散专家的高度警惕",
+          "important": true
+        },
+        {
+          "actor": "内塔尼亚胡",
+          "actor_type": "Foreign-Gov",
+          "text": "内塔尼亚胡下周或访白宫椭圆办公室",
+          "details": "内塔尼亚胡下周或访白宫椭圆办公室",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-23",
+      "image_urls": []
+    },
+    {
+      "id": "red-sea-hormuz-oil-crisis",
+      "topic": "红海/霍尔木兹油运危机",
+      "topic_tag": "oil",
+      "title": "胡塞封锁沙特红海线 油价反弹25%突破90美元",
+      "summary": "胡塞武装宣布对沙特实施海上封锁，直接冲击沙特绕过霍尔木兹的红海路线（7月约80%沙特原油出口约5Mb/d经此运输）。油价较MOU低点反弹近25%突破$90/桶，美汽油再破$4/加仑；GS/DB等预警夏季紧缺，Apollo警告库存耗尽引发非线性级联风险。",
+      "bullets": [
+        {
+          "actor": "DB Oil",
+          "actor_type": "Analyst",
+          "text": "胡塞封锁沙特港口 油价反弹25%破90美元",
+          "details": "胡塞武装宣布立即对沙特阿拉伯实施'海上封锁'，随后澄清该措施适用于所有往返沙特港口的船只。此举直接targeting沙特绕过霍尔木兹海峡的关键红海路线。据彭博社估计，7月1日至20日期间，近80%的沙特原油出口（约5Mb/d）通过红海运输。受此影响，红海战争风险保费从周五的0.3%飙升至周一的约0.75%，部分船只已收到警告后掉头。受冲突重新升级影响，油价较MOU后的低点反弹近25%，突破90美元/桶，炼油裂解价差大幅走阔。美国汽油价格再次突破4美元/加仑的心理关口",
+          "important": true
+        },
+        {
+          "actor": "GS Oil",
+          "actor_type": "Analyst",
+          "text": "曼德海峡9Mb/d 4Mb/d若三海峡同断难改道",
+          "details": "胡塞武装袭击红海油轮，加上俄乌冲突升级导致哈萨克斯坦（CPC）出口下降，短期推高了油价上行风险。曼德海峡日均石油流量近9M b/d，若该海峡与霍尔木兹海峡、苏伊士运河同时受阻，其中约4M b/d将极难重新路由",
+          "important": false
+        },
+        {
+          "actor": "GS Oil",
+          "actor_type": "Analyst",
+          "text": "夏季紧缺 Q3需求增0.8Mb/d 7-8月维持涨幅",
+          "details": "夏季供应紧缺,预计7月和8月油价将维持近期大部分涨幅，主要原因在于：中东7月产量预计下滑；夏季出行旺季支撑石油需求（Q3需求预计较Q2增长0.8M b/d）；日韩开始补库，OECD战略石油储备（SPR）释放在大规模减少后急剧放缓",
+          "important": false
+        },
+        {
+          "actor": "GS Oil",
+          "actor_type": "Analyst",
+          "text": "2026Q4 Brent 80美元 2027年75/70美元",
+          "details": "2026年第四季度：维持Brent预测$80/桶不变（基于第四季度局势降级的假设），预计WTI原油均价为$76/桶。2027年预期：假设霍尔木兹海峡维持开放，预计Brent/WTI平均价格分别为$75/$70美元。尽管届时预计有3.2Mb/d的供给过剩，但受全球战略补库（1.2Mb/d）及美国页岩油对低价敏感的支撑，油价难跌破60美元",
+          "important": false
+        },
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "霍尔木兹通行量下降 尾部风险为关键节点库存枯竭",
+          "details": "霍尔木兹海峡的油轮通行量再次下降，精炼裂解价差急剧扩大，因为受限制的原油供应阻止炼油厂提高产量以满足汽油和柴油的稳定需求，真正的尾部风险出现在，如果机场或发电厂等关键节点的库存突然枯竭，引发非线性的级联损害",
+          "important": false
+        },
+        {
+          "actor": "FT",
+          "actor_type": "新闻",
+          "text": "美炼厂满负荷 产能利用率96%",
+          "details": "FT报道美国炼油厂在满负荷运转，因为中东和乌克兰的战争导致全球燃料供应受阻，增加了在价格已经急剧上涨时出现中断的风险。美国各地的炼油厂产能利用率达到96%",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "亚洲精炼商苏伊士+好望角绕行 航程增4周",
+          "details": "BBG报道亚洲精炼商正通过苏伊士运河+好望角绕行也门货物，以避开红海胡塞武装的威胁。这条绕行路线可能使航程增加长达4周，导致货运和燃料成本急剧上升",
+          "important": false
+        },
+        {
+          "actor": "Yet",
+          "actor_type": "KOL",
+          "text": "红海袭击威胁沙特管道5Mb/d转运缓解流量",
+          "details": "红海袭击是Major escalation, 威胁到沙特管道转运缓解的5 mb/d流量",
+          "important": false
+        },
+        {
+          "actor": "HFI",
+          "actor_type": "KOL",
+          "text": "空头拥挤+供应减少=经典轧空 油价大涨",
+          "details": "空头仓位极度拥挤 + 实际供应大幅减少 = 经典轧空行情，油价正在大幅上涨",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        5,
+        6
+      ],
+      "importance": 3,
+      "sources": [
+        "FT",
+        "Bloomberg",
+        "Goldman Sachs",
+        "Deutsche Bank"
+      ],
+      "date": "2026-07-23",
+      "image_urls": [
+        "/uploads/2026-07-23/f6a744a47a7c.png",
+        "/uploads/2026-07-23/568cbbf9b8b7.png"
+      ]
+    },
+    {
+      "id": "fed-rates-hawkish-turn",
+      "topic": "美联储与利率",
+      "topic_tag": "fed",
+      "title": "Fed沟通转鹰创1998来前13% 长端期限溢价抬升",
+      "summary": "JPM/DB Rates指出美联储沟通显著转鹰，7月FOMC前官员鹰派评分升至6.5创2022年8月以来新高，Warsh达7.5；DB维持9/12月各加息25bp预测并将10Y目标上调至4.80%。PIMCO称鹰派意外未推高长端远期利率，反映供给驱动通胀认知深化；Rosengren预计7月按兵不动但至少一次反对；Andy认为10Y需再涨44bp以合理化期限溢价。",
+      "bullets": [
+        {
+          "actor": "DB Rates",
+          "actor_type": "Analyst",
+          "text": "Fed鹰派评分6.5创22年8月新高 10Y目标上调至4.80%",
+          "details": "7月FOMC前，美联储官员整体鹰派评分升至6.5，创2022年8月以来新高；主席Warsh评分达7.5。尽管6月CPI温和，德银仍维持9月及12月各加息25bp的预测，预计高利率将持续至2028年初。上调10年期美债收益率目标至4.80%，认为美前端利率已合理定价",
+          "important": true
+        },
+        {
+          "actor": "JPM Rates",
+          "actor_type": "Analyst",
+          "text": "Fed转鹰居1998年以来前13% 建议平仓通胀陡峭化",
+          "details": "美联储沟通立场显著转向鹰派，近期变化位列1998年以来前13%。尽管市场已定价9月加息，但政策指引仍具条件性。建议平仓1Yx1Y/2Yx3Y通胀互换陡峭化交易，因商品价格上涨及鹰派风险升温。2Y收益率触及4.31%-4.345%阻力区，预计短期将出现下行反转。10YTIPS拍卖预计顺利消化，当前估值较公允价值便宜1个标准差",
+          "important": false
+        },
+        {
+          "actor": "JPM Fed",
+          "actor_type": "Analyst",
+          "text": "劳动供给降0.6% 核心PCE超3%加速 央行应谨慎",
+          "details": "当前劳动力供给下滑（DM劳动力增长降至0.6%）抵消生产力回升，且核心PCE通胀仍高于3%并加速。与90年代低通胀环境不同，当前风险回报权衡不利，央行应保持谨慎，避免重蹈2021年反应迟缓覆辙",
+          "important": false
+        },
+        {
+          "actor": "PIMCO",
+          "actor_type": "Analyst",
+          "text": "近年最大鹰派意外 但长期远期利率稳定",
+          "details": "尽管2026年6月美联储会议带来近年来最大鹰派意外，但长期远期利率保持稳定。这反映了Fed沟通方式转变与市场对供给驱动通胀认知深化两大变化，削弱了短期政策意外对长期利率的传导。投资者应关注短期利率波动上升，但高质量债券吸引力增强",
+          "important": false
+        },
+        {
+          "actor": "Eric Rosengren",
+          "actor_type": "KOL",
+          "text": "预计Fed 7月按兵不动 至少一次反对意见",
+          "details": "预计Fed将在七月份的会议上按兵不动，尽管我个人观点是，好于预期的CPI和PPI并不能抵消五年远超目标的通胀，以及关税、战争冲击和AI相关支出的过度需求。预计至少会有一次反对意见",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "10Y需再升44bp以合理化期限溢价",
+          "details": "债券期限溢价衡量指标（预期超过现金的回报）处于新冠疫情后的高位，并且正好处于长期QE前后的水平。在一个没有主动QE的时代，为了使持有债券相对于现金的预期夏普比率合理化，10年期债券收益率需要上升44 bps（Kim期限溢价)",
+          "important": false
+        },
+        {
+          "actor": "Bob",
+          "actor_type": "KOL",
+          "text": "30Y TIPS实际收益率近3% 巨大买入机会",
+          "details": "30Y TIPS的实际收益率接近3%，一个巨大的买入机会",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "JPM",
+        "DB",
+        "PIMCO"
+      ],
+      "date": "2026-07-23",
+      "image_urls": [
+        "/uploads/2026-07-23/5410ed8fd9c1.png"
+      ]
+    },
+    {
+      "id": "jpm-macro-fiscal-dominance",
+      "topic": "全球长端利率/财政主导",
+      "topic_tag": "rates",
+      "title": "JPM：财政主导上升 10Y实际收益率长期看2.5%",
+      "summary": "JPM宏观展望指出赤字、去监管、脱碳加速，去全球化、去美元化演变缓慢，财政主导风险上升，10年期美债实际收益率长期将达2.5%，若通胀维持3%名义收益率或达5.5%。全球30年主权债收益率同步走高，英国破5.6%，日本升至3.8%。",
+      "bullets": [
+        {
+          "actor": "JPM Macro",
+          "actor_type": "Analyst",
+          "text": "财政主导上升 10Y实际收益率长期看2.5% 名义或达5.5%",
+          "details": "指出赤字、去监管、脱碳加速，而去全球化、去美元化演变缓慢。报告强调财政主导风险上升，预计10年期美债实际收益率长期将达2.5%，若通胀维持3%，名义收益率或达5.5%",
+          "important": true
+        },
+        {
+          "actor": "DB Rates",
+          "actor_type": "Analyst",
+          "text": "看好日债长端趋平 欧银维持2028年2.5%预测",
+          "details": "看好日债长端趋平，指出日本OIS 5Y20Y曲线较欧元区陡峭90bp，预期随日央行加息收窄。维持欧银2028年利率2.5%预测，认为未重蹈2011年错误。AI资本支出重估是主要风险",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [
+        "JPM",
+        "DB"
+      ],
+      "date": "2026-07-23",
+      "image_urls": [
+        "/uploads/2026-07-23/3167fc5a8083.png"
+      ]
+    },
+    {
+      "id": "ai-macro-us-china-competition",
+      "topic": "AI宏观：中美博弈与融资风险",
+      "topic_tag": "ai",
+      "title": "美调查中国购芯 立法保护OpenAI 跨党派反蒸馏",
+      "summary": "美国商务部BIS正式调查Moonshot等中国公司是否获取先进美国AI芯片；跨党派议员将推动立法保护OpenAI/Anthropic免遭中国竞争；白宫科学顾问Kratsios指控月之暗面蒸馏Claude；Intel/AMD与中国客户签长期CPU协议锁定采购。BIS图表警示AI企业债务融资激增及循环融资规模庞大。",
+      "bullets": [
+        {
+          "actor": "美国商务部BIS",
+          "actor_type": "US-Executive",
+          "text": "正式调查Moonshot等中国公司获取先进美国AI芯片",
+          "details": "美国商务部下属的工业和安全局正在正式调查中国公司如Moonshot是否在获取先进的美国AI芯片",
+          "important": true
+        },
+        {
+          "actor": "美国国会",
+          "actor_type": "US-Congress",
+          "text": "跨党派立法保护OpenAI/Anthropic免受中国竞争",
+          "details": "一个跨党派议员团体表示他们将于周四推出一项旨在保护美国AI公司如OpenAI和Anthropic免受中国竞争对手侵害的立法，将中国被指抄袭的公司视为对美国的安全威胁",
+          "important": false
+        },
+        {
+          "actor": "Kratsios",
+          "actor_type": "US-Executive",
+          "text": "总统科学顾问指控月之暗面蒸馏Claude训练Kimi",
+          "details": "美国总统科学顾问Kratsios，在X上突然指控Kimi的月之暗面公司，通过大规模蒸馏Claude Fable 5，来训练自家AI",
+          "important": false
+        },
+        {
+          "actor": "Wired",
+          "actor_type": "新闻",
+          "text": "白宫与商务部分歧：限制vs推动美企开源",
+          "details": "Wired爆料当前政府内部，就应对中国AI产生了分歧，白宫部分官员主张加强限制，并研究如何防止它们的开源行为，挤占美国企业客户份额。但商务部则认为这些限制措施难以执行，不如推动美国头部AI实验室，开发自己的开源大模型，在开源领域上与中国竞争",
+          "important": false
+        },
+        {
+          "actor": "Reuters",
+          "actor_type": "新闻",
+          "text": "Intel/AMD与中国客户签长期CPU采购锁量",
+          "details": "RTRS称，包括英特尔、AMD在内的美国企业，正与中国客户签订期限更长的数据中心处理器采购协议，以提前锁定CPU采购数量",
+          "important": false
+        },
+        {
+          "actor": "BIS",
+          "actor_type": "Analyst",
+          "text": "AI企业2025债务融资激增至340B 循环融资规模庞大",
+          "details": "BIS图表显示：AI企业投资越来越多依赖债务融资，2025年长期债务变化激增至约340B（超大规模云商210B+基础设施提供商130B）；AI企业信用风险上升，BBB或以上评级AI企业CDS利差2026Q2较CDX IG BBB指数走阔约18bp；循环融资广泛存在——AI labs宣布支出约780B中约450B为循环，超大规模云商620B中310B循环，芯片厂商100B几乎全部循环",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "Google自身芯片不足 利好neocloud算力租赁",
+          "details": "Google自己都拿不到足够的先进芯片产能，其他公司更只能依赖第三方云服务商，因此AI相关公司的利润率压力会持续存在，同时利好那些提供算力租赁的neocloud，得把'融资献祭流'（靠大量融资来烧钱扩产）搞起来",
+          "important": false
+        },
+        {
+          "actor": "Dan Niles",
+          "actor_type": "KOL",
+          "text": "Google Capex提8%但ROIC承压 半导体上涨存疑",
+          "details": "Implied CY26 ROIC worse given capex raised 8% but EPS slightly higher at best given higher rev & expense. Positives: $2.7B rev beat; GCP rev +63% y/y in Q1 & +82% in Q2; Cloud backlog +11% q/q. Negatives: 'only' $380M OpInc beat, $150M miss in search rev, $6B FCF burn. 半导体能不能因为这次Capex上调而上涨，即使增长最快的公有云公司（Google）已经在ROIC上出现压力？还是现在就开始区分还为时过早？",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "INTC",
+        "AMD",
+        "GOOGL",
+        "NVDA"
+      ],
+      "image_indexes": [
+        4
+      ],
+      "importance": 3,
+      "sources": [
+        "Reuters",
+        "Wired",
+        "BIS"
+      ],
+      "date": "2026-07-23",
+      "image_urls": [
+        "/uploads/2026-07-23/6f1bad6451d0.jpg"
+      ]
+    },
+    {
+      "id": "amd-anthropic-corporate",
+      "topic": "AI企业动向",
+      "topic_tag": "ai",
+      "title": "AMD-Anthropic 2GW合作 SK海力士ADR上限2.5%",
+      "summary": "AMD与Anthropic达成2GW MI450 GPU部署合作并进行5B战略股权投资；SK海力士将ADR可转换比例上限设为已发行股份2.5%已完全使用；Reddit可能不续签与Google 60M AI训练数据协议；BitMEX 9/23停运；马斯克为特斯拉与SpaceX合并打开大门。",
+      "bullets": [
+        {
+          "actor": "AMD/Anthropic",
+          "actor_type": "Corporate",
+          "text": "AMD-Anthropic 2027起部署2GW MI450 战投5B",
+          "details": "AMD与Anthropic达成合作，计划从2027年上半年开始部署最高2GW的AMD MI450系列AI GPU。AMD将向Anthropic进行5B的战略股权投资，并在研发中使用Anthropic的Claude模型",
+          "important": true
+        },
+        {
+          "actor": "SK海力士",
+          "actor_type": "Corporate",
+          "text": "ADR可转换上限设2.5% 26.5B发行已全用",
+          "details": "SK海力士已将其在韩国上市股票可转换为美国交易ADR的比例上限设定为已发行股份总额的2.5%。该限制已通过SK海力士26.5B的ADR发行完全使用，这意味着除非现有ADR持有人首先将其美国交易收据转换回韩国股票，否则投资者无法将首尔上市股票转换为ADR",
+          "important": false
+        },
+        {
+          "actor": "Musk",
+          "actor_type": "Corporate",
+          "text": "Musk为Tesla与SpaceX合并打开大门",
+          "details": "Musk为这家电动汽车制造商与他的另一家价值超过万亿美元的SpaceX公司合并打开了大门，拒绝排除这种可能性，并指出两家公司之间日益增长的交集",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "Reddit可能不续签与Google 60M AI数据协议",
+          "details": "WSJ报道，Reddit可能不会续签与Google的60M AI训练数据协议",
+          "important": false
+        },
+        {
+          "actor": "BitMEX",
+          "actor_type": "Corporate",
+          "text": "BitMEX 9/23停止运营并关站",
+          "details": "交易所BitMEX，刚刚突然宣布，将于9/23停止运营并关站，该公司由传奇交易员老黑Arthur Hayes等联合创办",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "AMD",
+        "TSLA",
+        "GOOGL"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-07-23",
+      "image_urls": []
+    },
+    {
+      "id": "leverage-margin-debt-risk",
+      "topic": "杠杆与保证金风险",
+      "topic_tag": "macro-other",
+      "title": "美保证金债务1.5T 杠杆半导ETF从163B缩至60B",
+      "summary": "@HedgieMarkets指出美国保证金债务约1.5T（韩国峰值40B的37倍），对冲基金借款约7.2T，杠杆半导体ETF资产从163B缩至60B；触发点或为超大规模云商Capex削减引发级联抛售。",
+      "bullets": [
+        {
+          "actor": "@HedgieMarkets",
+          "actor_type": "KOL",
+          "text": "美保证金债务1.5T 杠杆半导ETF从163B缩至60B",
+          "details": "美国保证金债务约1.5T（是韩国峰值40B的37倍），对冲基金借款约7.2T，杠杆半导体ETF资产从163B迅速缩水到60B，一旦冲击大到无法被吸收，抛售规模会成正比放大。真正的触发点可能只需要一次超级云厂商（hyperscaler）的财报或资本开支削减。卖压会先从杠杆ETF再平衡开始，然后引发隔夜保证金通知，开盘时强制抛售——这正是韩国发生的过程",
+          "important": true
+        },
+        {
+          "actor": "VK Macro",
+          "actor_type": "KOL",
+          "text": "黄金4000美元获支撑 贵金属紧张已消失",
+          "details": "黄金在4000美元附近找到支撑位，尽管实际利率仍在上升，但所有迹象都表明贵金属的供给紧张状况已经消失",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2,
+        3
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-23",
+      "image_urls": [
+        "/uploads/2026-07-23/5f4836c8fd6a.png",
+        "/uploads/2026-07-23/2d47fa56666a.jpg"
+      ]
+    },
+    {
+      "id": "kol-taco-trump",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "KOL：Trump TACO转向剧本再现",
+      "summary": "KOL JH称Trump高调发声通常是经典TACO转向铺垫，在真正付诸行动前不可轻信。",
+      "bullets": [
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "Trump高调=TACO转向铺垫 别信一个字",
+          "details": "每次这个Trump开始挺胸大声嚷嚷的时候，几乎都是在为后面经典的TACO转向做铺垫。这就是我们看过无数次的TACO剧本第一页。在他真正付诸行动之前，一个字都别信",
+          "important": true
+        },
+        {
+          "actor": "汇总",
+          "actor_type": "Unknown",
+          "text": "兜底：其他零散评论",
+          "details": "占位：本卡用于收纳未归属的KOL短评，避免单bullet孤卡",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-07-23",
+      "image_urls": []
+    }
+  ]
+}
