@@ -1,0 +1,412 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-jul23",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "Trump进入复仇模式 MAGA基本盘对伊战支持骤降",
+      "summary": "WSJ报道Trump对伊朗外交谈判失去耐心、转向军事升级，但美军伤亡、油价飙升、支持率下滑令幕僚与保守派盟友担忧战事吞噬中期选举。POLITICO民调显示MAGA核心选民对战争支持度较5月骤降13pct，多数将油价上涨归咎于此战。多位分析师认为冲突将进一步升级。",
+      "bullets": [
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "Trump进入\"复仇模式\"倾向军事升级",
+          "details": "WSJ报道：随着伊朗冲突进入第五个月且和平协议屡屡破裂，Trump已对外交谈判彻底失去耐心，并在进入\"复仇模式\"后倾向于通过升级轰炸等军事手段强硬应对；然而，美军牺牲、油价飙升及支持率下滑正引发顾问团队和保守派盟友对战事吞噬执政焦点、冲击中期选举的严重担忧，加上与以色列领导人出现裂痕、刺杀情报警告引发泄密风波以及国内经济压力加剧，使得白宫正面临极其严峻的内外政治挑战。",
+          "important": true
+        },
+        {
+          "actor": "POLITICO民调",
+          "actor_type": "新闻",
+          "text": "MAGA对战争支持较5月骤降13pct 汽油破$4/加仑",
+          "details": "POLITICO最新民调：随着美伊冲突持续、美军伤亡以及汽油价格飙升至每加仑$4以上，Trump核心MAGA选民对战争的耐心正在急剧衰退——仅有略高于1/3的人仍认为战争的经济代价是\"值得的\"，较5月骤降13%，绝大多数选民将油价上涨归咎于这场战争。整体上63%成年人、MAGA中57%将油价上涨归因伊朗战争。三个月后即将中期选举，白宫幕僚与共和党策略师陷入极大政治焦虑，普遍意识到取得总统所期待的\"完全胜利\"在政治上已不可能，但Trump仍表示不会根据\"流动的民调\"或选举决定国家安全策略。",
+          "important": false
+        },
+        {
+          "actor": "Hamidreza Azizi",
+          "actor_type": "KOL",
+          "text": "冲突或逼近\"40日战争\"峰值 Pickaxe Mountain受关注",
+          "details": "Hamidreza Azizi：美伊战争可能逼近重大升级，冲突或进入接近\"40日战争\"峰值的更危险阶段。提及了系列信号，最大概率指向对Pickaxe Mountain区域的某种形式打击，但形式上大概率是入口/隧道口/通风打击(2025年Isfahan模式)，宣布\"摧毁\"而实际是封存，重点关注打击后伊朗反应，尤其是否打击基建，此外关注以色列战场是否重新激活。",
+          "important": false
+        },
+        {
+          "actor": "Gregory Brew",
+          "actor_type": "Analyst",
+          "text": "升级是基本情景 事情要变更糟才会变更好",
+          "details": "Gregory Brew：升级很可能是基本情景，因为1)当前的僵局不可持续，2)美国的行动窗口不是无限的，3)降级路线不吸引人且困难，4)伊朗让步的空间很小。事情将会变得更糟，才会变得更好。",
+          "important": false
+        },
+        {
+          "actor": "Joe Kent",
+          "actor_type": "KOL",
+          "text": "建议美国撤军 改用经济外交重开海峡",
+          "details": "Joe Kent：胡塞因也门西北部复杂山地地形（高地射击+洞穴藏军）难以被彻底军事击败，加上当前美伊冲突分散兵力、能源危机及伊朗领袖之死使其更不愿妥协，建议美国撤军并改用经济外交重新开放海峡。",
+          "important": false
+        },
+        {
+          "actor": "The Short Bear",
+          "actor_type": "KOL",
+          "text": "扩大对伊战毫无意义 伊朗只需拖时间",
+          "details": "The Short Bear：油价逼近100美元、美债收益率已突破上一轮战争高点、SPR战略石油储备告急，美国此时再扩大对伊战争毫无意义且筹码更弱，升级只会加速耗尽储备、打击海湾盟友、加剧收益率与信用压力，最终反而迫使美国更快结束战争，而伊朗只需拖时间就能占优，因此最好选择撤退+外交。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        6
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "POLITICO"
+      ],
+      "date": "2026-07-24",
+      "image_urls": [
+        "/uploads/2026-07-24/93f44b39b1d6.png"
+      ]
+    },
+    {
+      "id": "oil-crisis-jul23",
+      "topic": "油价危机",
+      "topic_tag": "oil",
+      "title": "油价重回原油+成品油双重危机 中国原油进口锐减",
+      "summary": "Alexander Stahel警告石油危机比3月更危险，正从成品油危机回到原油+成品油双重危机，预计有新的SPR释放公告。中国原油进口大幅下降至约25M吨。",
+      "bullets": [
+        {
+          "actor": "Alexander Stahel",
+          "actor_type": "KOL",
+          "text": "石油危机比3月更危险 或有新SPR释放",
+          "details": "Alexander Stahel：正从\"成品油危机\"快速回到\"原油+成品油双重危机\"，并预计会有新的战略储备（SPR）释放公告。这场石油危机现在比3月危险得多，而市场情绪仍然自满，原因包括外交回旋空间比MoU之前更小、曼德海峡、哈萨克经CPC终端的原油出口因乌克兰在黑海的袭船行动而中断、全球原油库存比2月28日更低。",
+          "important": true
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "中国靠大幅缩减原油进口生存 降至约25M吨",
+          "details": "Bloomberg Opinion图表\"Conservation Time\"：中国正在依靠大规模削减的原油进口生存。中国原油进口从2020-2023年间高峰约50M吨/月大幅下降至2025年约25M吨水平。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        4
+      ],
+      "importance": 2,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-07-24",
+      "image_urls": [
+        "/uploads/2026-07-24/9f87f8c4fb4e.png"
+      ]
+    },
+    {
+      "id": "fed-july-fomc-jul23",
+      "topic": "7月FOMC分歧",
+      "topic_tag": "fed",
+      "title": "市场对下周FOMC加息vs按兵分歧近年少见",
+      "summary": "Nick Timiraos表示市场对下周美联储\"按兵不动\"还是\"意外加息\"分歧极大，Warsh尚未给出明确信号。7月加息概率约36%。Nomura预计维持3.625%不变，出现2张鹰派异议票。GS认为进一步加息作用有限。",
+      "bullets": [
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "市场对下周FOMC按兵or加息分歧极大 Warsh未明示",
+          "details": "Nick Timiraos：现在市场对美联储下周到底会\"按兵不动\"还是\"意外加息\"，分歧很大，Warsh本人也还没露出明确信号。",
+          "important": true
+        },
+        {
+          "actor": "Ed Bradford",
+          "actor_type": "KOL",
+          "text": "7月加息概率约36% 近抛硬币水平",
+          "details": "Ed Bradford：7月加息概率（July Hike Odds）目前大约是36%，市场对下周美联储会不会加息的分歧已经拉到近年少见的程度，概率从很低一路爬到接近抛硬币。",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "预计维持3.625%不变 或有2张鹰派异议票",
+          "details": "Nomura：预计7月FOMC利率维持3.625%不变。尽管市场定价加息概率近40%，但鉴于6月核心PCE环比降至0.2%及AI通缩效应，主席Warsh倾向观望。预计出现2张鹰派异议票。油价反弹构成上行风险，但整体通胀预期锚定在2.2-2.3%。",
+          "important": false
+        },
+        {
+          "actor": "GS US Daily",
+          "actor_type": "Analyst",
+          "text": "进一步加息作用有限 失业代价过高",
+          "details": "GS US Daily：在当前环境下，进一步加息对降低通胀作用非常有限，且可能付出过高的失业代价。传统加息的主要逻辑在于抑制过旺的总需求，但目前美国劳动力市场处于正常平衡状态，工资增长放缓，工业及服务业产能利用率均未见异常过热。当前通胀超出2%目标的主要驱动因素来自关税、地缘冲突（如战争对大宗商品的冲击）以及AI驱动需求带来的统计误差。近年经验表明，供给冲击对通胀的推升作用显著，而通过收紧需求（提升失业率）对通胀的抑制效果（菲利普斯曲线斜率）却相对温和（失业率每上升1%，通胀仅下降约15–35bps）。",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "3%实际收益率有吸引力 计划买入长期TIPS",
+          "details": "Andy：3%实际收益率不是什么神奇水平。我会按计划开始逐步买入长期TIPS（作为beta仓位），之后也可能加一些长期国债期货做alpha，确实挺有吸引力。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-07-24",
+      "image_urls": [
+        "/uploads/2026-07-24/c4c308bbf03a.png"
+      ]
+    },
+    {
+      "id": "ai-capex-financing-jul23",
+      "topic": "AI资本开支与融资",
+      "topic_tag": "ai",
+      "title": "Hyperscaler债券利差创新高 AI建设转向债务融资",
+      "summary": "多位KOL担忧2026年后AI资本开支融资将成主要变量。Hyperscaler债券G-spread走阔至154bps历史新高。GS指出AI估值面临总量vs分配两类风险。BCA警告AI缺乏网络效应、或最终商品化。",
+      "bullets": [
+        {
+          "actor": "Credit_Junk",
+          "actor_type": "KOL",
+          "text": "Hyperscaler债券G-spread创154bps历史新高",
+          "details": "Credit_Junk：hyperfunders本质是在靠不断融资撑起投资，hyperscaler债券的G-spread已经走阔到约154bps的历史新高，是一个被市场低估、正在压制债市的因素。GS hyperscaler bond basket (GSUCHS30) G Spread图表显示从2月约118bps上升至7月中154.6bps。",
+          "important": true
+        },
+        {
+          "actor": "trap_zack (Michael McDonough转)",
+          "actor_type": "KOL",
+          "text": "2026年利率将成AI交易关键 建设转向债务融资",
+          "details": "trap_zack（Michael McDonough转发）：2026年，利率将成为AI贸易中越来越重要的因素，因为建设将转向债务融资。市场在很大程度上一直能够忽视美联储，因为超大规模资本支出一直是自筹资金，这种情况正在改变。",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "市场真正担心2028年厂商还有没有钱继续投",
+          "details": "Herman Jin：目前资本开支是建立在已经融过一轮钱的基础上，市场真正担心的是到2028年这些厂商还有没有钱继续投；而后面几家要发业绩的大厂甚至还没融资，不要玩存储了，真缺的是钱。",
+          "important": false
+        },
+        {
+          "actor": "@SpecialSitsNews",
+          "actor_type": "KOL",
+          "text": "Mag7都可能因更高capX受到处罚",
+          "details": "@SpecialSitsNews：Mag7所有股票都可能因更高的capX支出而受到处罚...市场对此并不满意。",
+          "important": false
+        },
+        {
+          "actor": "GS Global Markets Comment",
+          "actor_type": "Analyst",
+          "text": "AI两类风险：总量冲击vs分配冲击",
+          "details": "GS Global Markets Comment：AI相关股票估值持续抬升，市场正面临两类截然不同的潜在风险：一是改变AI为企业创造总利润预期的总量冲击，二是仅影响收益在云厂商、芯片商及模型商等不同参与者之间转移的分配冲击；其中，总量冲击会对美股大盘、利率（压低美债收益率）和指数波动率产生广泛且明确的跨资产联动，大盘投资者可通过美债等传统宏观工具进行防护，而分配冲击引发的个股轮动会在指数内部自动抵消，对宏观资产影响有限，仅提高个股波动率，指数层面波动被消化，因此集中持仓AI产业链的投资者需采取更精准的个股或配对对冲策略。",
+          "important": false
+        },
+        {
+          "actor": "GS Top of Mind",
+          "actor_type": "Analyst",
+          "text": "动量因子波动率创45年新高 建议布局非AI机会",
+          "details": "GS Top of Mind in Macro：美伊冲突升级及红海局势持续推高能源价格，布伦特原油在2026年第4季度可能突破120美元/桶，虽预计Fed暂不加息，但通胀反弹增加了欧洲央行9月加息的风险；同时，AI概念交易波动加剧，动量因子波动率创下除经济衰退期外的45年新高，高盛建议布局消费者体验股、复利型公司和并购标的等非AI投资机会。",
+          "important": false
+        },
+        {
+          "actor": "BCA",
+          "actor_type": "Analyst",
+          "text": "AI或最终像电动车 变革但商品化不赚钱",
+          "details": "BCA：AI缺乏构建过去技术垄断的网络效应和规模经济；用户与模型互动，而不是彼此互动，并且随着使用量的增加，成本会迅速上升。AI最终可能看起来与电动汽车行业非常相似，具有变革性，但资本支出密集且商品化。这并不是一个利润丰厚的配方。",
+          "important": false
+        },
+        {
+          "actor": "JPMAM图表",
+          "actor_type": "Analyst",
+          "text": "费半vs Hyperscaler走势 类比1999-2000通信设备",
+          "details": "JPMAM图表：1)Communications equipment vs services 1999-2000——通信设备股在通信服务股见顶后继续上涨；2)Verizon vs Cisco 1998-2001——Cisco巨幅上涨即使Verizon走平；3)Philadelphia semiconductor index & hyperscalers basket——费半远超Hyperscaler篮子（GOOGL/AMZN/MSFT/META）；4)Hyperscalers vs semiconductors free cash flows——半导体(NVDA/MU/AVGO/AMAT)与Hyperscaler(META/AMZN/GOOG/MSFT/ORCL) 12个月滚动FCF对比及一致预期。",
+          "important": false
+        },
+        {
+          "actor": "Yardeni",
+          "actor_type": "Analyst",
+          "text": "S&P500前瞻PE 20 vs LTEG 25",
+          "details": "Yardeni Research图表：S&P 500 Forward P/E vs LTEG(5年一致预期长期盈利增长)——7月23日Forward P/E=20.0，LTEG=25.0，均接近历史高位（2000年科技泡沫水平）。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "MU",
+        "AVGO",
+        "AMAT",
+        "META",
+        "AMZN",
+        "GOOGL",
+        "MSFT",
+        "ORCL"
+      ],
+      "image_indexes": [
+        0,
+        3,
+        5
+      ],
+      "importance": 3,
+      "sources": [
+        "GS",
+        "BCA",
+        "JPMAM"
+      ],
+      "date": "2026-07-24",
+      "image_urls": [
+        "/uploads/2026-07-24/bdc210290568.jpg",
+        "/uploads/2026-07-24/af82659fb827.jpg",
+        "/uploads/2026-07-24/640ee3c2d894.png"
+      ]
+    },
+    {
+      "id": "hf-semi-flows-jul23",
+      "topic": "对冲基金半导体流向",
+      "topic_tag": "ai",
+      "title": "HF回吐YTD半导体净买入80% 昨今重新买入",
+      "summary": "GS John Flood指出自6月中旬以来对冲基金已回吐YTD全球半导体累计净买入约80%，但从昨天/今天开始重新买入，重点在存储器和半导体制造设备。",
+      "bullets": [
+        {
+          "actor": "GS John Flood",
+          "actor_type": "Analyst",
+          "text": "HF自6月中旬回吐半导体YTD净买入约80% 但已重新买入",
+          "details": "GS John Flood：自6月中旬以来，HF已将YTD在全球半导体与半导体设备个股的累计净买入回吐了约80%（但自昨天/今天开始重新买入，相信这种需求将会持续）。最值得注意的买入集中在存储器（STX、WDC、MU、SNDK）和半导体制造设备（AMAT、ASML、LRCX）。",
+          "important": true
+        },
+        {
+          "actor": "GS John Flood",
+          "actor_type": "Analyst",
+          "text": "全球半导体净配置19% 1年P84/5年P97",
+          "details": "GS John Flood：全球半导体与半导体设备股票的净配置今年年初为10%，在六月增至24%，现在为19%（1年P84，5年P97）。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "STX",
+        "WDC",
+        "MU",
+        "SNDK",
+        "AMAT",
+        "ASML",
+        "LRCX"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-07-24",
+      "image_urls": []
+    },
+    {
+      "id": "asia-regulation-jul23",
+      "topic": "亚洲监管",
+      "topic_tag": "policy",
+      "title": "中国离岸信托征20%个税 韩国收紧杠杆ETF",
+      "summary": "中国财政部/税务总局明确离岸信托适用20%个税，覆盖新旧存续信托。韩国7/31起大幅提高杠杆单股ETF/ETN开户门槛至约20.3K美元。长鑫科技7/27科创板上市。",
+      "bullets": [
+        {
+          "actor": "中国财政部/税务总局",
+          "actor_type": "Foreign-Gov",
+          "text": "离岸信托明确适用20%个税 新旧收益均覆盖",
+          "details": "中国财政部和税务总局发布公告，明确离岸信托相关行为适用于20%税率，居民将财产装入离岸信托，以及存续期间产生的收益，需缴纳个人所得，而旧信托存续期间产生的收益也在范围内。",
+          "important": true
+        },
+        {
+          "actor": "韩国监管",
+          "actor_type": "Foreign-Gov",
+          "text": "7/31起收紧杠杆单股ETF/ETN 门槛升至约$20.3K",
+          "details": "韩国从7/31开始收紧杠杆单股ETF和ETN的规则。零售投资者将需要大约20.3K美元的现金来开立或增加头寸，从大约6.8K美元增加。",
+          "important": false
+        },
+        {
+          "actor": "长鑫科技",
+          "actor_type": "Corporate",
+          "text": "长鑫科技7/27科创板上市",
+          "details": "长鑫科技确定将于7月27日（下周一），在中国科创板上市。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-24",
+      "image_urls": []
+    },
+    {
+      "id": "us-saudi-nuclear-jul23",
+      "topic": "美沙核协议",
+      "topic_tag": "geo",
+      "title": "Trump突叫停美沙民用核协议 新增以色列关系正常化条件",
+      "summary": "美国能源部与沙特正式签署民用核能合作协议不到24小时内，Trump突然叫停，并新增\"沙特必须与以色列实现关系正常化（加入亚伯拉罕协议）\"作为前置条件，让沙特措手不及，目前停滞。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "签约不到24小时叫停美沙核协议 加沙以正常化前置条件",
+          "details": "美国能源部与沙特正式签署民用核能合作协议不到24小时内，Trump突然叫停该协议，并新增\"沙特必须与以色列实现关系正常化（加入《亚伯拉罕协议》）\"作为前置条件，让沙特方面措手不及，目前停滞。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "周五开内阁会议 下周一密歇根奥克兰县造势",
+          "details": "Trump周五召开内阁会议；计划于下周一前往关键摇摆州密歇根州的奥克兰县举行造势集会，为即将于8/4举行的密歇根州初选拉票。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-24",
+      "image_urls": []
+    },
+    {
+      "id": "kol-market-technicals-jul23",
+      "topic": "KOL交易观点",
+      "topic_tag": "macro-other",
+      "title": "Minervini部分获利了结 SPCX解禁10亿股压力",
+      "summary": "Mark Minervini因波动率上升开始部分获利并收紧止损。Mark Ritchie II警告SPCX财报后约10亿股解禁（近可交易流通盘2倍）。IPO自2019年以来跑输大市。The Short Bear提出繁荣周期见顶信号。",
+      "bullets": [
+        {
+          "actor": "Mark Ritchie II",
+          "actor_type": "KOL",
+          "text": "SPCX财报后约10亿股解禁 近流通盘2倍",
+          "details": "Mark Ritchie II：SPCX财报后大约有10亿股解禁，接近当前可交易流通盘的近2倍，而这些解禁持有人全部处于盈利状态，因此几乎必然抛售——他称之为\"一卡车的供给\"。加上散户当初在IPO时都以为自己捡了便宜。",
+          "important": true
+        },
+        {
+          "actor": "Mark Minervini",
+          "actor_type": "KOL",
+          "text": "波动率上升 开始部分获利并收紧止损",
+          "details": "Mark Minervini：市场持续承压，波动率开始上升，部分仓位回撤超出他愿意接受的幅度，因此已经开始部分获利了结并收紧止损。",
+          "important": false
+        },
+        {
+          "actor": "The Short Bear",
+          "actor_type": "KOL",
+          "text": "终端需求公司掉头是繁荣周期最令人担忧信号",
+          "details": "The Short Bear：一轮繁荣周期中最令人担忧的信号，是那些最贴近终端需求的公司开始掉头向下，而周期里受益于资本开支的公司却还在继续繁荣。",
+          "important": false
+        },
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "IPO自2019年以来跑输大市",
+          "details": "Apollo图表：IPOs have underperformed the market since 2019。3年买入持有市场调整后IPO回报：2019约-2%、2020约-25%、2021约-70%、2022约-75%、2023约-35%、2024约-90%。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPCX"
+      ],
+      "image_indexes": [
+        1
+      ],
+      "importance": 2,
+      "sources": [
+        "Apollo"
+      ],
+      "date": "2026-07-24",
+      "image_urls": [
+        "/uploads/2026-07-24/78f170e5d4a7.png"
+      ]
+    }
+  ]
+}
