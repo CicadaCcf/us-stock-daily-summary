@@ -1,0 +1,101 @@
+{
+  "generated_at": "2026-07-27T21:31:37+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-07-27",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12385,
+    "partial_pass": 6,
+    "with_carryover": 13,
+    "after_full_check": 6
+  },
+  "rows": [
+    {
+      "tk": "FBRX",
+      "nm": "Forte Biosciences, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 39.6,
+      "w1": 61.1,
+      "market_cap_bn": 1.57,
+      "dollar_vol_bn": 1.34,
+      "w1_avg_dollar_vol_bn": 0.3,
+      "reason": "",
+      "main_business": "研发抗CD122单克隆抗体，治疗白癜风等自身免疫疾病"
+    },
+    {
+      "tk": "QBTS",
+      "nm": "D-Wave Quantum Inc.",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 20.4,
+      "w1": 16.7,
+      "market_cap_bn": 7.23,
+      "dollar_vol_bn": 0.94,
+      "w1_avg_dollar_vol_bn": 0.39,
+      "reason": "",
+      "main_business": "开发量子退火与门模型量子计算机及软件服务"
+    },
+    {
+      "tk": "RNG",
+      "nm": "RINGCENTRAL, INC.",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": 11.2,
+      "w1": 31.8,
+      "market_cap_bn": 4.5,
+      "dollar_vol_bn": 0.29,
+      "w1_avg_dollar_vol_bn": 0.21,
+      "reason": "",
+      "main_business": "提供云端统一通信平台，整合语音、视频及消息协作服务"
+    },
+    {
+      "tk": "THC",
+      "nm": "Tenet Healthcare Corporation New",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": 4.4,
+      "w1": 25.2,
+      "market_cap_bn": 20.96,
+      "dollar_vol_bn": 0.54,
+      "w1_avg_dollar_vol_bn": 0.47,
+      "reason": "",
+      "main_business": "运营急性病及专科医院、门诊手术中心，提供医疗收入周期管理服务"
+    },
+    {
+      "tk": "CLF",
+      "nm": "Cleveland-Cliffs Inc.",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": 2.7,
+      "w1": 36.4,
+      "market_cap_bn": 6.99,
+      "dollar_vol_bn": 0.53,
+      "w1_avg_dollar_vol_bn": 0.49,
+      "reason": "",
+      "main_business": "北美垂直整合钢铁生产商，主营铁矿石球团及扁钢制造"
+    },
+    {
+      "tk": "CIFR",
+      "nm": "Cipher Digital Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -6.5,
+      "w1": 5.4,
+      "market_cap_bn": 8.86,
+      "dollar_vol_bn": 0.53,
+      "w1_avg_dollar_vol_bn": 0.71,
+      "reason": "",
+      "main_business": "专注于人工智能和高性能计算的数据中心开发运营"
+    }
+  ]
+}

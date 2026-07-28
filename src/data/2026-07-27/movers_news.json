@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-07-27T21:31:55+00:00",
+  "date": "2026-07-27",
+  "since": "2026-07-25T20:00:00+00:00",
+  "by_ticker": {
+    "FBRX": [],
+    "QBTS": [
+      {
+        "headline": "Why Quantum Computing Stock Just Popped",
+        "url": "https://www.fool.com/investing/2026/07/27/why-quantum-computing-stock-just-popped/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-07-27T17:08:57Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880718%2Fneon-quantum-computing-sign-floats-in-a-sea-of-qubits.jpg&w=1200&op=resize",
+        "description": "Quantum Computing (QUBT) stock gained 5.8% after competitor D-Wave Quantum announced AT&T signed a contract to use D-Wave's annealing quantum computing technology for network optimization. Despite not being party to the deal, QUBT rose on speculation that AT&T's broader quantum computing strategy could benefit multiple vendors. However, analysts note Quantum Computing has fewer major contracts than D-Wave and must deliver on forecasted $41 million revenue (10x growth) to justify investor optimis"
+      },
+      {
+        "headline": "Why Rigetti Computing Stock Just Popped",
+        "url": "https://www.fool.com/investing/2026/07/27/why-rigetti-computing-stock-just-popped/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-07-27T16:30:19Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880713%2Fspherical-quantum-computing-chip.jpg&w=1200&op=resize",
+        "description": "Rigetti Computing stock jumped 7.7% after competitor D-Wave Quantum announced a partnership with AT&T to use its quantum computing technology. Additionally, Benchmark analyst David Williams initiated coverage of Rigetti with a buy rating and $25 price target, suggesting 67% upside potential. However, analysts caution that quantum computing profits remain years away and recommend a portfolio approach to the sector."
+      }
+    ],
+    "RNG": [],
+    "THC": [],
+    "CLF": [],
+    "CIFR": []
+  }
+}

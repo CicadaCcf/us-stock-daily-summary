@@ -1,0 +1,769 @@
+{
+  "topics": [
+    {
+      "id": "trump-2028-run",
+      "topic": "Trump 2028",
+      "topic_tag": "policy",
+      "title": "特朗普暗示将竞选2028年总统",
+      "summary": "特朗普在公开场合戴上TRUMP 2028帽子，宣布或将再次竞选，称自己已经赢了3次决定再赢1次。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普戴TRUMP 2028帽子暗示再竞选",
+          "details": "Trump宣布或将竞选2028年美国总统，并戴上TRUMP 2028帽子，称自己已经赢了3次，决定再赢1次",
+          "important": true
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "特朗普罕见聚焦选举安全，或为中期选举失利铺路",
+          "details": "Joseph：特朗普在近期黄金时段讲话中罕见地将焦点转向选举安全，似乎在为中期选举的潜在失利寻找借口，暗示他已准备好承受战争升级带来的政治代价；此外，他公开警告中俄不要插手，且以色列总理内塔尼亚胡即将在周二访美，这些都是大规模升级的前兆",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-07-27",
+      "image_urls": []
+    },
+    {
+      "id": "china-offshore-trust-tax",
+      "topic": "中国离岸信托税",
+      "topic_tag": "policy",
+      "title": "中国财政部21号文收紧离岸信托个税规则",
+      "summary": "财政部21号文立即收紧离岸信托个税规则，居民注入资产需按市值缴纳20%个税，信托收入无论是否分配均需按穿透原则在设立人手中按年缴纳20%个税。",
+      "bullets": [
+        {
+          "actor": "中国财政部",
+          "actor_type": "Foreign-Gov",
+          "text": "21号文立即收紧离岸信托20%个税规则",
+          "details": "中国财政部发布21号文，立即收紧离岸信托个税规则。居民向离岸信托注入资产需按市值缴纳20%个税，信托收入无论是否分配，均需在设立人手中按年缴纳20%的个税（穿透原则）",
+          "important": true
+        },
+        {
+          "actor": "中国市场监管总局",
+          "actor_type": "Foreign-Gov",
+          "text": "携程被罚51.79亿元反垄断罚款",
+          "details": "中国市场监管总局对携程长期垄断行为处以51.79亿元罚款。调查认定：携程要求中高端特牌酒店必须与其独家合作才给曝光位；对中低端酒店及多平台经营酒店要求给出全网最低价，否则以平台限流等方式报复",
+          "important": false
+        },
+        {
+          "actor": "中共",
+          "actor_type": "Foreign-Gov",
+          "text": "前证监前明星官员方星海受党内调查",
+          "details": "前中国证券监管明星官员方星海，在退休近两年后受到党内调查",
+          "important": false
+        },
+        {
+          "actor": "DeepSeek",
+          "actor_type": "Corporate",
+          "text": "DeepSeek暂停第二轮融资",
+          "details": "DeepSeek突然暂停第二轮融资，并口头告知投资者不会签署任何投资协议。直接导火索是创始人梁文锋在投资者会议上的讲话被录音泄露，本人极为不满",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TCOM"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-27",
+      "image_urls": []
+    },
+    {
+      "id": "us-iran-hormuz-crisis",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊冲突升级 霍尔木兹谈判反复",
+      "summary": "NYT/WSJ披露伊朗新任最高领袖更倾向使用核武、Kheibar Shekan导弹威胁上升；美国提议临时停火恢复原MOU，但伊朗拒绝谈判；沙特延布港仍照常运营，胡塞武装介入红海。KOL普遍认为短期军事升级风险高，市场对TACO仍有预期。",
+      "bullets": [
+        {
+          "actor": "The Iranian Letter",
+          "actor_type": "KOL",
+          "text": "美方提议临时停火恢复MoU 伊方不太可能接受",
+          "details": "美国已提议与伊朗临时停火，并寻求回到此前的MoU，伊朗据称不太可能接受最新报价，消息源称德黑兰在当前条件下仍不愿重返谈判",
+          "important": true
+        },
+        {
+          "actor": "NYT",
+          "actor_type": "新闻",
+          "text": "新最高领袖莫塔巴·哈梅内伊更倾向使用核武",
+          "details": "NYT报道新任最高领袖莫塔巴·哈梅内伊——据报道尽管在战争第一天就受了重伤，仍在执政——比他的父亲更倾向于使用核武器",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "伊朗Kheibar Shekan导弹威胁升级",
+          "details": "WSJ报道伊朗Kheibar Shekan导弹是当前最有效的中程弹道导弹之一：射程至少900英里，弹头990-1300磅，末端速度达5马赫，固体燃料单级推进，成本低、机动性强，可快速装载发射，比美军/以军拦截弹便宜得多，是伊朗导弹库的主力，正变得更危险",
+          "important": false
+        },
+        {
+          "actor": "Brett Erickson",
+          "actor_type": "KOL",
+          "text": "美方试图恢复原MOU荒谬 伊朗现握主动",
+          "details": "Brett Erickson：Trump试图以恢复原MOU条款为基础达成新协议是荒谬且妄想的，伊朗现握主动权。1）在游说集团和鹰派压力下，撤销了原MOU的石油制裁豁免（伊朗唯一实质让步）；2）在10天过渡期内财政部加设托管账户机制，要求石油销售收入由美国控制；3）美国可不通知就撤销豁免，伊朗不再相信任何新豁免的持久性；4）MoU期间美国从未解冻伊朗资产，正式摧毁MOU前又追加新制裁，直接违反了MOU第9条；接受当前方案概率为0",
+          "important": false
+        },
+        {
+          "actor": "The Hormuz Letter",
+          "actor_type": "KOL",
+          "text": "取消打击背后隐藏风险 美军仍在准备重返大规模作战",
+          "details": "搁置打击背后隐藏风险：①取消发生在伊朗整周全面拒绝与美国谈判之后；②紧接在特朗普声称伊朗正与美方对话取得重大进展之后；③决定跟随于阿曼代表团抵达德黑兰商谈重开霍尔木兹海峡新安排——特朗普称有进展但伊朗否认有任何谈判；④接近伊朗议长卡利巴夫的消息源评估，过去15小时的作战静默是攻击加剧的前奏而非新的谈判尝试，美军仍在为重返大规模作战准备方案",
+          "important": false
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "军事资产涌入中东 胡塞加入战局阻截油轮",
+          "details": "Joseph：越来越多迹象和情报显示大量军事资产正涌入中东；胡塞武装也已加入战局并开始在红海阻截油轮，导致全球原油供应链进一步收紧；短期任何实质性军事升级都可能导致标普再跌10%或更多，但预计美国最终会因缺乏痛吐承受力而在霍尔木兹海峡控制权上Taco",
+          "important": false
+        },
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "沙特延布港照常运营 曼德海峡部分船只干净通过",
+          "details": "JH：沙特延布港本周仍照常运营，多艘船只在积极装货；虽然确有少数油轮掉头，但也有船被确认干净地穿过曼德海峡",
+          "important": false
+        },
+        {
+          "actor": "@Michellewb_",
+          "actor_type": "KOL",
+          "text": "船东付伊朗通行费将失去保险承保",
+          "details": "@Michellewb_：如果船东向伊朗支付通行费以通过霍尔木兹海峡，他们将失去保险承保。伦敦劳合社市场协会(LMA)于2026年7月23日发布的新示范条款把这一点写得非常清楚",
+          "important": false
+        },
+        {
+          "actor": "Bob",
+          "actor_type": "KOL",
+          "text": "政治博彩vs原油曲线定价矛盾",
+          "details": "Bob：政治博彩市场越来越预期与伊朗战争相关的供应中断会持续相当一段时间，而原油曲线却在定价一个相对迅速的解决——两个市场对同一事件给出矛盾定价",
+          "important": false
+        },
+        {
+          "actor": "Tiger MengyuLan",
+          "actor_type": "KOL",
+          "text": "川普耐心已失40% 若超70%以色列可能加入",
+          "details": "Tiger MengyuLan：会不会升级为无上限模式取决于美国是否让以色列重新进攻伊朗。若美军单独袭击伊朗，原油要见好因川普可能随时停止；若带上以色列，原油拿得住。上次写川普耐心失去20%，现在应该40%，超过70%则以色列加入可能性很高",
+          "important": false
+        },
+        {
+          "actor": "@pequityresearch",
+          "actor_type": "KOL",
+          "text": "油价高企也照涨行情已消失 后市看空",
+          "details": "@pequityresearch：①4月到5月那个油价高企也照涨的市场基本已消失；②市场已认清所谓停火是假的、MOU被撕毁、伊朗/美国冲突看不到解决方案；③即将公布的CPI将显示通胀抬升并在中期选举前继续走高；④历史上7月是收割涨幅的月份，而今年完全没有发生",
+          "important": false
+        },
+        {
+          "actor": "THE SHORT BEAR",
+          "actor_type": "KOL",
+          "text": "破位下行但特朗普180度转弯风险大",
+          "details": "THE SHORT BEAR：我们正在破位下行、订单簿与资金流被彻底重排，导向更看空更轻的敞口。但以特朗普风格很快又会出现标题或180度转弯，恰好在敞口很薄时触发大规模反弹与回补，制造巨大波动，让投资者两难",
+          "important": false
+        },
+        {
+          "actor": "Danny",
+          "actor_type": "KOL",
+          "text": "当前全是对TACO的预期 但战争走向不像",
+          "details": "Danny：全是对TACO的预期。特朗普已经把市场调教成这样思考，但这场战争看起来并不真的往那个方向走",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "USO",
+        "XOM"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "NYT",
+        "WSJ"
+      ],
+      "date": "2026-07-27",
+      "image_urls": []
+    },
+    {
+      "id": "fomc-july-hike-surprise",
+      "topic": "7月FOMC",
+      "topic_tag": "fed",
+      "title": "7月FOMC加息定价40% 各方分歧激烈",
+      "summary": "市场定价7月加息概率约38-40%，若按兵不动将构成近数十年最大非降息日\"惊喜\"（估约-9bp）。GS/Nomura/MS/Erian均认为维持利率不变是基准，但GS将年内加息概率上调至35%。分歧焦点：油价上涨是否需要加息回应、Warsh前瞻指引缺失。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS：7月按兵不动 年内加息概率上调至35%",
+          "details": "GS Fed：7月基准维持利率不变。市场定价隐含约40%加息概率，但6月通胀温和且本次不含SEP，美联储历史上极力避免无预告的意外加息。年内展望：按兵不动至年底，因地缘政治能源反弹将年内最终加息概率从25%上调至35%。6月核心CPI环比降2bps（对应核心PCE 18bps）；BEA对AI效应测量方法调整预计使年通胀率下降0.2%。Logan等鹰派可能投反对票",
+          "important": true
+        },
+        {
+          "actor": "GS GRT",
+          "actor_type": "Analyst",
+          "text": "若沟通模糊将成近年最大非降息日惊喜",
+          "details": "GS GRT：Fed7月若维持利率不变且缺乏指引，将构成重大市场惊喜。油价上涨15%推升加息预期，但基线仍为按兵不动。沟通模糊将削弱6月FOMC后建立的央行信誉重定价，中长端债券多头面临风险。策略：看好英国、加拿大、新西兰2s10s陡峭化；日本长期国债受政策信号支持",
+          "important": false
+        },
+        {
+          "actor": "GS US Kickstart",
+          "actor_type": "Analyst",
+          "text": "若按当前定价，将是数十年最大非降息日惊喜",
+          "details": "若7月FOMC维持利率而当前定价隐含加息，估算的会议日惊喜约为-9bp，将是近数十年最大的非降息意外（图示对比1994年以来会议日实际惊喜分布）",
+          "important": true
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "Nomura：7月维持3.625% 但两名鹰派存加息风险",
+          "details": "预计美联储7月维持利率不变，政策利率保持3.625%。6月核心PCE通胀预计大幅放缓至0.175%，同比降至3.3%，就业成本指数增速回落至0.7%。新关税政策影响温和，有效税率升至8%。二季度GDP增速预计加速至2.5%",
+          "important": false
+        },
+        {
+          "actor": "MS",
+          "actor_type": "Analyst",
+          "text": "MS：38%加息定价过高 建议做陡2s10s",
+          "details": "MS Rates：近期10Y上升主要由实际收益率驱动，源于原油上涨引发美联储鹰派反应预期，而非IG债券供给。当前38%的7月加息概率定价过高，经济数据软化，预计按兵不动。建议曲线陡峭化：做多UST 7s30s、买入SOFR看涨期权",
+          "important": false
+        },
+        {
+          "actor": "DB Survey",
+          "actor_type": "Analyst",
+          "text": "DB调查：7月不变概率71% 若加息SPX跌1%",
+          "details": "DB Survey：7月FOMC利率不变概率达71%。若意外加息25bp，年底联邦基金利率预期均值将从3.8%升至4.1%，SPX预计跌1%。80%受访者认为有限前瞻指引将加剧利率波动。60%预期通过降低储备需求缩表。短期AI被视为通胀因素，长期转为通缩",
+          "important": false
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "Fed内部认为通胀由三大难消退因素驱动",
+          "details": "Joseph：目前美联储内部共识认为通胀由三个极难消退的因素驱动：持续的AI基础设施狂潮、特朗普重建的高额关税壁垒、持续攀升的能源价格；鉴于新任美联储主席Kevin Warsh已不再提供明确前瞻指引，市场对即将到来的FOMC感到不安而买保护，若Fed确需加息现在行动比推迟到临近中期选举时行动更为合理",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "Andy：通胀冰冷 支持hold 需资产修正而非微调",
+          "details": "Andy：通胀数据冰冷，为再暂停一个月提供充分掩护；油价上涨本身就是紧缩，会拖慢经济，不需要政策回应。靠微调短端利率25-50bp杀不死通胀，需要资产市场出现修正，而不是V型10%回撤再反弹；资产负债表与QRA才是正确工具，沃什和贝森特都清楚。委员会里有鹰派、讨厌特朗普的人，只要有掩护就会投票加息，鹰派评论员会呼吁50bp加息以显得前卫，但这次没有理由，仍会支持hold",
+          "important": false
+        },
+        {
+          "actor": "Claudia Sahm",
+          "actor_type": "Analyst",
+          "text": "从官员评论看不到多数支持加息",
+          "details": "Claudia Sahm：从各位美联储官员的评论来看，我看不到已经有多数人支持加息",
+          "important": false
+        },
+        {
+          "actor": "Eric Wallerstein",
+          "actor_type": "Analyst",
+          "text": "意外加息不是审慎政策 与Warsh观点相悖",
+          "details": "Eric Wallerstein：意外加息不会是审慎的政策制定。震慑式做法与Warsh观点相悖——沃什认为金融条件已经过度反映美联储预期而非经济前景；若突然加息，市场将比以往任何时候都更专注于解剖美联储措辞",
+          "important": false
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "Analyst",
+          "text": "Erian：不认为下周会加息 尤其欧央行也未加息后",
+          "details": "Erian：不认为美联储下周会加息，尤其是在两天前欧洲央行也没有加息之后",
+          "important": false
+        },
+        {
+          "actor": "Swonk",
+          "actor_type": "Analyst",
+          "text": "Swonk：准备好迎接异议票 抗通胀战未结束",
+          "details": "Swonk：通胀仍然过热，供给冲击在增多，围绕美联储的政治声浪越来越大。Warsh可能想效仿格林斯潘——更短的声明、更少的线索、更少的异议，但现在不是1990年代：关税、战争、AI与财政刺激正在碰撞，生产率收益还来不及缓冲。结论是准备好迎接异议票，抗通胀之战尚未结束",
+          "important": false
+        },
+        {
+          "actor": "GS Fed（沃什证词）",
+          "actor_type": "Analyst",
+          "text": "GS：加息对供给冲击通胀效果有限 预期渠道支持不强",
+          "details": "沃什主席向国会作证期间：1)即便经济未过热，加息仍可通过降低资源利用率抵消供给冲击通胀，但近年经验教训是供给冲击通胀影响显著、资源利用变化影响温和，通常需要失业率大幅上升才能完全抵消；2)通过传递抗通胀信号影响预期的替代性理由，经济研究证据支持有限，因为企业和消费者与金融市场参与者不同，对央行关注度不高",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TLT",
+        "TBT"
+      ],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "GS",
+        "MS",
+        "Nomura",
+        "DB"
+      ],
+      "date": "2026-07-27",
+      "image_urls": [
+        "/uploads/2026-07-27/0797458dd2e6.png"
+      ]
+    },
+    {
+      "id": "rates-bonds-view",
+      "topic": "利率&债券",
+      "topic_tag": "rates",
+      "title": "KOL/卖方对利率与通胀预期分歧",
+      "summary": "Nick止盈债券空仓认为激进加息将锚定长期通胀预期使长端下行；市场定价的长期通胀风险异常低；2Y偏离显示市场在押注Fed将不得不收紧。",
+      "bullets": [
+        {
+          "actor": "Nick",
+          "actor_type": "KOL",
+          "text": "Nick：结束债券空仓 激进加息或压低长端yield",
+          "details": "Nick：达到止盈目标，结束债券的空仓，认为Fed激进加息显示有决心打压通胀，会锚定长期通胀预期，反而让长端yield下行",
+          "important": true
+        },
+        {
+          "actor": "Efficient Market Hype",
+          "actor_type": "KOL",
+          "text": "Fed撤走前瞻指引后债市如盲目歇斯底里者",
+          "details": "Efficient Market Hype：只要Fed撤走了前瞻指引这条拖船，就会发现债券市场是一个骑着水上摩托的盲目歇斯底里者",
+          "important": false
+        },
+        {
+          "actor": "Ed Bradford",
+          "actor_type": "KOL",
+          "text": "30Y通胀互换几乎钉在通胀目标 定价异常低",
+          "details": "Ed Bradford：考虑到后疫情通胀经历，市场定价的通胀风险之低令人奇怪：30年期通胀掉期（在调整PCE-CPI楔子后）几乎被钉在通胀目标上，30年期盈亏平衡通胀率也是如此",
+          "important": false
+        },
+        {
+          "actor": "Alexander Stahel",
+          "actor_type": "KOL",
+          "text": "2Y偏离：市场押注Fed将不得不收紧",
+          "details": "Alexander Stahel：2Y的偏离表明市场在预期金融条件的紧缩，而不只是更高的通胀——也就是在押注美联储将不得不收紧，因为通胀长期偏离目标",
+          "important": false
+        },
+        {
+          "actor": "GS 6月FOMC复盘",
+          "actor_type": "Analyst",
+          "text": "6月FOMC引发鹰派重新定价 名义/实际收益率全线上行",
+          "details": "6月FOMC后名义收益率：2Y+13bp、5Y+10bp、10Y约0bp、30Y-2bp；实际收益率：5Y+14bp、10Y+8bp、30Y+1bp；盈亏平衡：5Y/10Y/30Y均下行约-3bp，构成明显鹰派重新定价",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TLT",
+        "IEF"
+      ],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [
+        "Bloomberg",
+        "GS"
+      ],
+      "date": "2026-07-27",
+      "image_urls": [
+        "/uploads/2026-07-27/0797458dd2e6.png"
+      ]
+    },
+    {
+      "id": "midterm-elections-vol",
+      "topic": "2026中期选举",
+      "topic_tag": "policy",
+      "title": "GS建议做多指数波动率 中期选举临近",
+      "summary": "GS US Weekly Kickstart：2026中期选举临近，政策不确定性上升。历史上SPX选举前3个月中位数回报0%、选后6%。预测市场显示民主党赢下众议院概率约85%，参议院五五开。个股隐含相关性处历史低位，指数波动率面临上行压力。",
+      "bullets": [
+        {
+          "actor": "GS US Kickstart",
+          "actor_type": "Analyst",
+          "text": "建议做多指数波动率 相关性历史低位",
+          "details": "GS US Weekly Kickstart：2026中期选举临近政策不确定性上升，建议做多指数波动率。历史数据显示SPX选举前3个月中位数回报为0%，选后3个月升至6%。预测市场显示民主党赢下众议院概率约85%，参议院结果接近五五开，重大立法风险有限。当前个股隐含相关性处历史低位，叠加利率波动，指数波动率面临上行压力",
+          "important": true
+        },
+        {
+          "actor": "GS 历史数据",
+          "actor_type": "Analyst",
+          "text": "中期选举年政策不确定性8-9月显著升高",
+          "details": "中期选举年份月度经济政策不确定性指数8月约115、9月120，vs 1985以来全年均值70-80；SPX月度已实现波动率10月中期选举年高达约21%，vs全年均值14%",
+          "important": false
+        },
+        {
+          "actor": "NYT",
+          "actor_type": "新闻",
+          "text": "2026参议院10场焦点：3 lean D、4 Tossup、2 lean R、1 likely R",
+          "details": "NYT 2026中期选举参议院10场关键选战：3席lean Democrat（Maine、Michigan、N.H.）、4席Tossup（Iowa、Ohio、Alaska、Georgia之一）、2席lean Republican（Texas等）、1席likely R（Nebraska）；未参选席位民主党10 solid/likely、共和党15 solid/未参选31",
+          "important": false
+        },
+        {
+          "actor": "GS Exhibit 12",
+          "actor_type": "Analyst",
+          "text": "AI监管成两党共识议题",
+          "details": "Politico Poll 2026中期选民对政府AI监管观点：主张严格监管——共和党37%、民主党44%；只设宽泛原则——共和党38%、民主党30%；不监管——两党均约11-12%；不知道——13-15%",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "VXX"
+      ],
+      "image_indexes": [
+        1,
+        3,
+        5,
+        6
+      ],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "NYT",
+        "Politico"
+      ],
+      "date": "2026-07-27",
+      "image_urls": [
+        "/uploads/2026-07-27/f0c51d591aec.png",
+        "/uploads/2026-07-27/d0a741b14e50.png",
+        "/uploads/2026-07-27/10afd0d90644.jpg",
+        "/uploads/2026-07-27/d395cf199585.png"
+      ]
+    },
+    {
+      "id": "vol-correlation-dispersion",
+      "topic": "波动率与相关性",
+      "topic_tag": "macro-other",
+      "title": "个股隐含相关性极低 单股vs指数vol差距罕见",
+      "summary": "S&P 500 3个月隐含平均个股相关性跌至约0.1的历史极低水平；个股平均隐含波动率约40 vs 指数15，差距异常宽。",
+      "bullets": [
+        {
+          "actor": "GS Exhibit 4",
+          "actor_type": "Analyst",
+          "text": "S&P500个股隐含相关性跌至历史极低约0.1",
+          "details": "S&P 500 3-month implied average stock correlation 1个月尾随均值降至约0.1，处历史极低水平，回顾1995以来仅少数几段时期出现",
+          "important": true
+        },
+        {
+          "actor": "GS Exhibit 5",
+          "actor_type": "Analyst",
+          "text": "平均个股隐含vol 40 vs 指数15 差距异常宽",
+          "details": "S&P 500 3-month implied volatility：平均个股（右轴）约40，指数（左轴）约15，差距处历史罕见宽幅",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "VIX"
+      ],
+      "image_indexes": [
+        2
+      ],
+      "importance": 1,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-07-27",
+      "image_urls": [
+        "/uploads/2026-07-27/b0cb707571ee.png"
+      ]
+    },
+    {
+      "id": "midterm-spx-seasonality",
+      "topic": "中期选举SPX季节性",
+      "topic_tag": "macro-other",
+      "title": "中期选举前SPX通常横盘",
+      "summary": "1974年以来S&P 500在中期选举前后表现——选举前Median小幅回落，选后逐步走高。",
+      "bullets": [
+        {
+          "actor": "GS Exhibit 3",
+          "actor_type": "Analyst",
+          "text": "1974以来SPX选前横盘 选后温和上行",
+          "details": "S&P 500 returns around midterm elections since 1974：选举前3个月中位数约0%、平均值略负；选举日后进入11月-3月Median约+5-6%、Average约+4%；10th-90th百分位区间前高后收窄",
+          "important": true
+        },
+        {
+          "actor": "GS 历史数据",
+          "actor_type": "Analyst",
+          "text": "选举日前不确定性峰值 选后回归常态",
+          "details": "图3显示Election Day前后区间从-15%到+15%（10-90百分位），选后区间收窄回归常态",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY"
+      ],
+      "image_indexes": [
+        4
+      ],
+      "importance": 1,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-07-27",
+      "image_urls": [
+        "/uploads/2026-07-27/56b17c712d53.png"
+      ]
+    },
+    {
+      "id": "gs-cpi-inflation-path",
+      "topic": "通胀路径",
+      "topic_tag": "macro-other",
+      "title": "GS：油价反弹35%至$97 通胀路径承压",
+      "summary": "GS CPI：预计7月、8月核心CPI环比均+0.20%，整体CPI受能源推动升至0.12%和0.49%；核心PCE同比预计达3.05%。GS认为关税、能源/伊朗、AI软件价格三大冲击对月度通胀影响未来几月应减弱。",
+      "bullets": [
+        {
+          "actor": "GS CPI",
+          "actor_type": "Analyst",
+          "text": "油价反弹35%至$97 7-8月核心CPI+0.20%",
+          "details": "GS CPI：油价反弹35%至97美元/桶挑战通胀乐观预期。预计7月、8月核心CPI环比均增0.20%，但整体CPI受能源推动将升至0.12%和0.49%。核心PCE同比预计达3.05%，上行风险犹存",
+          "important": true
+        },
+        {
+          "actor": "GS 展品3",
+          "actor_type": "Analyst",
+          "text": "关税/能源/AI软件对月度通胀影响将减弱",
+          "details": "GS展品3：尽管油价反弹，仍认为关税、战争和AI误测对月度通胀的综合影响在未来几个月应减弱。左图月度核心PCE：Tariff Effect在2025年中峰值约+0.10pp后回落，Energy/Iran Effect在2026年中短暂+0.05pp，2027年归零。右图YoY核心PCE：三因素叠加峰值约1.15pp在2026年中，随后逐步降至2027年年中约0.25pp",
+          "important": false
+        },
+        {
+          "actor": "DB macro",
+          "actor_type": "Analyst",
+          "text": "DB：超额货币供应与通胀正相关 建议纳入央行工具箱",
+          "details": "DB macro：超额货币供应与通胀呈正相关，尤其在货币快增期。银行信贷是预测通胀较稳健指标。加入货币指标可优化菲利普斯曲线模型，更好捕捉疫情通胀幅度，但低通胀期显著性减弱。建议将货币指标纳入央行监测工具箱，而非单一依赖",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        7
+      ],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "DB"
+      ],
+      "date": "2026-07-27",
+      "image_urls": [
+        "/uploads/2026-07-27/f6ff0752b6d7.jpg"
+      ]
+    },
+    {
+      "id": "ai-capex-bubble-debate",
+      "topic": "AI资本开支/泡沫",
+      "topic_tag": "ai",
+      "title": "市场对无底洞AI投资产生审美疲劳",
+      "summary": "Google首次负自由现金流+上调CapEx遭市场惩罚；债务市场要求更高风险溢价；Alphabet/Amazon/Microsoft/Meta/Oracle等CapEx大户拖累SPX；KOL担心2027年折旧问题+Blackwell过时风险；Dalio认为技术革命必然形成泡沫。",
+      "bullets": [
+        {
+          "actor": "@pequityresearch",
+          "actor_type": "KOL",
+          "text": "2027年折旧问题+Blackwell过时风险 CapEx难持续",
+          "details": "@pequityresearch：资本开支真正出问题要到2028年初；2027年中可能出现关于资本开支的负面评论，那对半导体股会是灾难。折旧现在还不是问题，因为大量GPU尚未插电，在财报上体现为assets not yet in service（CIP）；一旦芯片上线，GPU的4/5/6年使用寿命开始计时，在役PP&E越多折旧越大，毛利被压缩EPS变难看，会把投资者推走。此外英伟达Blackwell芯片还堆在仓库等着插电，可能因新一代发布而过时——超大规模厂商只有两条路：把旧芯片全部减记重来（惩罚超大规模厂商），或者继续用Blackwell并削减新芯片订单（惩罚半导体公司）。各家LLM太相似，没有护城河、没有切换成本",
+          "important": true
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "最大CapEx公司成SPX最大拖累",
+          "details": "Bloomberg图表：Forward 12-month capex估算最高的公司同时是6月以来SPX最大拖累——Alphabet（约$250B CapEx）贡献约-40%、Amazon（约$200B）-25%、Microsoft约-30%、Meta（约$150B）-5%、Oracle约-12%、Tesla约-22%；仅Apple为正贡献约+20%",
+          "important": true
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "Google首次负FCF+CapEx上调遭严厉惩罚",
+          "details": "Joseph：尽管TSMC和ASML等AI供应链巨头公布了出色财报和乐观前景，但股价却在暴涨后遭抛售。更关键的是Google公布了首次负自由现金流并上调资本支出却遭市场严厉惩罚；同时债务市场在为这些科技巨头提供融资时也开始要求更高的风险溢价。市场已对无底洞般的AI投资产生审美疲劳",
+          "important": false
+        },
+        {
+          "actor": "Ray Dalio",
+          "actor_type": "KOL",
+          "text": "每次技术革命都导致泡沫 因为没人能算准",
+          "details": "Ray Dalio：历史上每一次技术革命都导致泡沫，因为没人能算准需要投多少；所有人都渴求市场份额，为抢份额而投资，形成持续投资的正反馈",
+          "important": false
+        },
+        {
+          "actor": "Brandon Carl",
+          "actor_type": "KOL",
+          "text": "AI并不自我维持 而市场建立在这一假设上",
+          "details": "Brandon Carl：AI系统并不自我维持(self-sustaining)一点也不意外，而市场现在建立在它将会自我维持这一假设之上",
+          "important": false
+        },
+        {
+          "actor": "Kashyap Sriram",
+          "actor_type": "KOL",
+          "text": "1T agentic AI经济需2.1T资本开支+电力占美国10%",
+          "details": "Kashyap Sriram：一个1T规模的agentic AI经济需要2.1T资本开支和每年778B运营支出。仅电力需求就相当于美国当前发电量的10%——等于加州和宾夕法尼亚州总产出全部用于给GPU机架供电",
+          "important": false
+        },
+        {
+          "actor": "trap_zack",
+          "actor_type": "KOL",
+          "text": "AI建设转向债务融资 与利率市场形成反身性",
+          "details": "trap_zack：此前市场基本可以无视Fed，因为超大规模厂商的资本开支是自有资金支持的，而这一点正在改变。随着AI建设转向债务融资，AI建设越来越依赖利率市场，而由于规模巨大，利率市场反过来又被AI建设所决定——形成反身性(Reflexivity)",
+          "important": false
+        },
+        {
+          "actor": "AI生态图",
+          "actor_type": "KOL",
+          "text": "AI生态：Semis/Hyperscalers/Neoclouds/Frontier Labs/Token Consumers资金循环",
+          "details": "AI Ecosystem示意图：Investors向Neoclouds/Frontier Labs/AI startup Token Consumers注资；Semis→Hyperscalers/Neoclouds卖芯片；Hyperscalers/Neoclouds向Frontier Labs提供Compute；Frontier Labs→Token Consumers输出Tokens；PnL/现金流状态标注：Semis绿色PnL、Hyperscalers红色PnL/$ Flow、Neoclouds红色、Frontier Labs红色、Token Consumers灰色",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GOOGL",
+        "AMZN",
+        "MSFT",
+        "META",
+        "ORCL",
+        "NVDA",
+        "AAPL"
+      ],
+      "image_indexes": [
+        9
+      ],
+      "importance": 3,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-07-27",
+      "image_urls": [
+        "/uploads/2026-07-27/4bb96cbede13.jpg"
+      ]
+    },
+    {
+      "id": "ai-mega-deals",
+      "topic": "AI巨额交易",
+      "topic_tag": "ai",
+      "title": "NVDA/OpenAI/韩国财团千亿级AI交易连发",
+      "summary": "英伟达为OpenAI提供约$250B融资担保用于10GW俄亥俄州数据中心项目（总成本$500B+）；NVDA+SK $500B AI计划；三星/SK海力士将寻求$950B内存芯片供应；三星-博通合作至2030年超$200B；25家科技公司联署反对限制AI开源模型。",
+      "bullets": [
+        {
+          "actor": "Nvidia/OpenAI",
+          "actor_type": "Corporate",
+          "text": "NVDA为OpenAI提供$250B融资担保 项目总成本$500B+",
+          "details": "Nvidia正在商谈为OpenAI提供约250B的融资担保，作为一项大规模数据中心项目的一部分。英伟达提供的担保将帮助ChatGPT制造商租赁软银能源子公司正在开发位于俄亥俄州南部的10GW项目。该项目总成本可能超过500B",
+          "important": true
+        },
+        {
+          "actor": "Nvidia/SK",
+          "actor_type": "Corporate",
+          "text": "NVDA与SK公布$500B+ AI计划",
+          "details": "Nvidia和韩国SK集团于周五公布了一项超过500B的AI计划，涵盖大规模AI数据中心和下一代内存",
+          "important": false
+        },
+        {
+          "actor": "三星/SK海力士",
+          "actor_type": "Corporate",
+          "text": "韩国内存双雄将寻求与NVDA等$950B内存供应",
+          "details": "韩国三星电子和SK海力士将与包括Nvidia在内的美国大型科技公司寻求价值950B的内存芯片供应合作，韩国总统顾问于周六表示",
+          "important": false
+        },
+        {
+          "actor": "三星/博通",
+          "actor_type": "Corporate",
+          "text": "三星-博通合作至2030年超$200B",
+          "details": "三星电子于周六表示，它与美国芯片设计公司Broadcom达成了一项协议，以扩大在内存芯片、合同芯片制造和先进封装方面的合作，预计到2030年，这些合作将超过200B",
+          "important": false
+        },
+        {
+          "actor": "NVDA/IBM/Dell/YC等25家",
+          "actor_type": "Corporate",
+          "text": "25家科技公司联署反对限制AI开源模型",
+          "details": "微软官网刊载由英伟达、IBM、戴尔、YC孵化器等25家公司联署的公开信，呼吁美国政府不要限制AI开源模型",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "AVGO",
+        "MSFT",
+        "IBM",
+        "DELL"
+      ],
+      "image_indexes": [
+        8
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-27",
+      "image_urls": [
+        "/uploads/2026-07-27/51245f8a5862.jpg"
+      ]
+    },
+    {
+      "id": "kol-flow-japan",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "KOL：Trump hype is a sell",
+      "summary": "@cissan_9984认为Trump相关消息拉抬美股应做空，AI其实不赚钱，半导体/内存市值虚高，外资/人寿/央行都在伺机卖出。",
+      "bullets": [
+        {
+          "actor": "@cissan_9984",
+          "actor_type": "KOL",
+          "text": "Trump hype is a sell 若日本股票大涨想做空",
+          "details": "@cissan_9984：虽然特朗普相关消息让道琼斯稍微上涨，但他周一就算美股强势也完全不想买。反而如果美股期货上涨带动日本股票大涨，他更想做空，Trump hype is a sell, Trump down is a buy",
+          "important": true
+        },
+        {
+          "actor": "@cissan_9984",
+          "actor_type": "KOL",
+          "text": "AI其实不赚钱 半导体/内存市值虚高10倍",
+          "details": "@cissan_9984：AI其实不赚钱；半导体/内存现在的市值，用1/10的钱就能建同等工厂；股票供需极度失衡，到处都是卖盘，外资、人寿保险、央行都在伺机卖出逃跑",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "大公司无视AI失业预测 重新招聘",
+          "details": "WSJ指出大公司开始重新招聘，无视AI将导致失业的预测，从铁路巨头CSX到谷歌母公司Alphabet等公司，在最近几天告诉投资者他们计划招聘以满足增长目标或抓住新兴技术",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "CSX",
+        "GOOGL"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-07-27",
+      "image_urls": []
+    },
+    {
+      "id": "gs-copper-metals",
+      "topic": "金属/铜",
+      "topic_tag": "macro-other",
+      "title": "MS看好铜价 2026Q4 LME铜$14,250/吨",
+      "summary": "MS Metal：受美国潜在关税引发的33.5万吨超额囤货及中国10%进口增长驱动，全球库存收紧。",
+      "bullets": [
+        {
+          "actor": "MS Metal",
+          "actor_type": "Analyst",
+          "text": "MS：2026Q4 LME铜价预测$14,250/吨",
+          "details": "MS Metal：看好铜价前景，预计2026年Q4 LME铜价达$14,250/吨。受美国潜在关税引发的33.5万吨超额囤货及中国10%的进口增长驱动，全球库存收紧。尽管供应端受厄尔尼诺及矿山减产制约，但中东局势升级及美联储加息预期构成主要下行风险",
+          "important": true
+        },
+        {
+          "actor": "JPM AM",
+          "actor_type": "Analyst",
+          "text": "2026 YTD美股回报10.3% EM/亚太ex日本19-20%",
+          "details": "JPM Asset Management Guide to the Markets Asia：全球股票回报构成——10年年化：美国15.1%、日本9.9%、欧洲10.4%、EM 9.6%、亚太ex日本10.0%；2025：美国17.9%、日本25.1%、欧洲36.3%、EM 34.4%、亚太ex日本30.2%（欧洲/EM由估值扩张+汇率贡献）；2026 YTD：美国10.3%、日本15.7%、欧洲8.8%、EM 19.4%、亚太ex日本19.9%（EM/亚太几乎全部由EPS增长贡献，估值反而收缩）",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "FCX",
+        "HG"
+      ],
+      "image_indexes": [
+        10
+      ],
+      "importance": 1,
+      "sources": [
+        "MS",
+        "JPM"
+      ],
+      "date": "2026-07-27",
+      "image_urls": []
+    }
+  ]
+}

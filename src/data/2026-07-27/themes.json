@@ -1,0 +1,308 @@
+{
+  "themes": [
+    {
+      "id": "ai-infoflow-0720-0726",
+      "theme": "AI",
+      "title": "AI信息流总结 7/20-7/26",
+      "date_range": "7/20-7/26",
+      "date": "2026-07-27",
+      "tickers": [
+        "NVDA",
+        "AAPL",
+        "META",
+        "MSFT",
+        "TSLA",
+        "GOOGL",
+        "AMD",
+        "HOOD"
+      ],
+      "summary": "本周核心看点：yipit/tickertrends的Anthropic与OAI ARR数据分歧扩大，市场对OAI加速price in不足；Anthropic发布Opus 5实质上对齐GPT 5.6 Sol降价应对Fable过贵与隐私问题；K3发布引发白宫制裁威胁，NVDA牵头50家公司联名支持开源，Anthropic成唯一反对开源的前沿实验室。",
+      "groups": [
+        {
+          "label": "ARR",
+          "entries": [
+            {
+              "source": "yipit",
+              "source_type": "数据机构",
+              "important": true,
+              "points": [
+                "yipit报道Antrhopic 7/12 ARR `$73B`,OAI `$45B`.",
+                "yipit Anthropic明显偏高（实际是`$60B`出头），OAI低估(实际`$53B`)",
+                "&&目前**市场已经预期Anthropic降速**，对yipit数据的信任度已经下降，但对**OAI加速具体情况price in较低**"
+              ]
+            },
+            {
+              "source": "tickertrends",
+              "source_type": "数据机构",
+              "important": false,
+              "points": [
+                "tickertrends报道Anthropic 6月底ARR `$74B`，OAI `$41B`",
+                "实际节奏上完全不准",
+                "&&市场上**缺乏官方数据校准**，市场预期非常混乱"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "需求-企业应用（多头）",
+          "entries": [
+            {
+              "source": "Osvald Nitski",
+              "source_type": "Mercor CPO, 20VC",
+              "important": true,
+              "points": [
+                "头部AI lab仍然激进**大量投入数据标注**，对定价不敏感。因为只要数据投入 < 带来的 API / ARR 增量，模型能力提升能够**解锁更多企业长尾需求**，带来ARR增涨",
+                "目前AI token价格下降太快，但其实企业有**大量潜在需求**等待模型能力提高释放"
+              ]
+            },
+            {
+              "source": "Santosh Janardhan",
+              "source_type": "Meta head of infrastructure，AMD Advancing AI 2026 Event演讲",
+              "important": false,
+              "points": [
+                "*We are seeing sort of demand go through the roof. When you look at inference, training, recommendation systems—that's how a news feed works. Content creation, t**he demand for that is just exponential** right now*"
+              ]
+            },
+            {
+              "source": "Artificial Analysis",
+              "source_type": "测评机构",
+              "important": false,
+              "points": [
+                "虽然本月有很多模型发布，但**OAI**仍然占据**token efficiency pareto frontier**(完成相同任务所需的成本最低）"
+              ]
+            },
+            {
+              "source": "Ben Pouladian",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "Opus 5 模型任务完成成本低于K3，Anthropic 依然有竞争力，竞争对ARR影响不大"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "需求-企业应用（空头）",
+          "entries": [
+            {
+              "source": "Rory O'Driscoll",
+              "source_type": "Scale Venture Partners GP, 20VC podcast",
+              "important": true,
+              "points": [
+                "若O和A收入增长放缓，底层Capex将会断裂，**导致市场估值重构与震荡**",
+                "O+A受到**价格压制**和**成本困局**。开源模型引发激烈价格战，但是AI lab其SOTA模型需要大量**训练投入**, 导致其**降价空间有限**"
+              ]
+            },
+            {
+              "source": "Patrick Moorhead",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "AMD案例分享中展示AMD IT部门通过routing来提升token efficency"
+              ]
+            },
+            {
+              "source": "David",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "SOTA模型+开源模型组合，在SWE-Bench 多语言基准测试上**任务完成率**和**单位成本**上超越纯SOTA模型",
+                "routing不仅是综合价格更低，效果可能也更好，如果后续验证，将会继续冲击Frontier lab"
+              ]
+            },
+            {
+              "source": "Lin Qiao",
+              "source_type": "fireworks CEO, 20VC",
+              "important": false,
+              "points": [
+                "企业需要按单一 workload 优化质量、速度与成本；通用 frontier model 保留基础设施角色，但**生产价值转向**大量**专用模型**与自有 intelligence stack"
+              ]
+            },
+            {
+              "source": "François Chollet",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "模型版本更新将在两年内变得无人关心，认为模型能力将会渐进进步，**没有阶跃进步**"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "需求-新场景（金融）",
+          "entries": [
+            {
+              "source": "Alphasense",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "Alphasense ARR突破`$700M`"
+              ]
+            },
+            {
+              "source": "The information",
+              "source_type": "媒体",
+              "important": true,
+              "points": [
+                "HOOD客户开设70k AI agent账户（占比~`2.5%`）",
+                "当前**更多是实验**而非替代自主交易"
+              ]
+            },
+            {
+              "source": "Brain Armstrong",
+              "source_type": "coinbase CEO",
+              "important": false,
+              "points": [
+                "Coinbase 给 AI 配备了有消费限额的加密钱包，让 AI 能在人类授权的预算内自主花钱和收款"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "需求-新场景（AI for science）",
+          "entries": [
+            {
+              "source": "Matei Zaharia",
+              "source_type": "Databricks CTO",
+              "important": true,
+              "points": [
+                "LLM目前可以通过构建框架，让LLM自动优化\"产生输出的整个工程过程\"",
+                "AI 现在能自己在脚手架搭好的里改进'挑候选'那套流程，前提是这个领域里电脑能先便宜地判个对错，现实需要实验的也不能加速，仍然算是**渐进进步**"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "供给-模型能力",
+          "entries": [
+            {
+              "source": "ARC Prize",
+              "source_type": "测评机构",
+              "important": true,
+              "points": [
+                "Grok 4.5在\"看图推理、总结规律\"这类静态任务上已经很能打了，但距离真正能像人一样**高效探索新环境**、**快速习得新技能**的AGI，**还有巨大鸿沟**"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "供给-模型能力突破（RSI）",
+          "entries": [
+            {
+              "source": "梁文锋",
+              "source_type": "DeepSeek",
+              "important": false,
+              "points": [
+                "现有 AI 模型无法达到 AGI，需要 continual learning"
+              ]
+            },
+            {
+              "source": "Herbie Bradley",
+              "source_type": "researcher",
+              "important": true,
+              "points": [
+                "RSI不会是实验室内部自我改进的过程，而是一个在整个经济体中内循环的过程，仍然通过FDE在终端应用获取数据，实验室再改进",
+                "数据瓶颈无法通过实验室RSI完成，这样**模型进化速度的预期会显著降低**"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "供给-竞争与定价",
+          "entries": [
+            {
+              "source": "Anthropic",
+              "source_type": "AI lab",
+              "important": true,
+              "points": [
+                "Anthropic发布 Opus 5，能力接近Fable, **性价比上对齐GPT 5.6 Sol**",
+                "Anthropic ARR增长平平确实是**Fable贵**和**数据隐私**问题，前者通过新模型的推出来解决，数据隐私因为模型公司**天然有留存数据提高模型能力**的**动机**，暂时不好解决",
+                "Opus 5定价对齐GPT 5.6 sol是**实质上的价格战**",
+                "产业端得知的信息Mag 7中**只有NVDA和AAPL可以用Fable**, Meta因为**太贵**不让员工用，MSFT，TSLA因为**隐私问题**不让用Fable, GOOGL只让模型组用opus 4.8, 其他人只能用Gemini以制造更多数据"
+              ]
+            },
+            {
+              "source": "梁文锋",
+              "source_type": "DeepSeek",
+              "important": false,
+              "points": [
+                "DS 推理毛利 ~`85%`（六倍利润）；GPU 回本周期 10 个月",
+                "DS的低成本主要是infra和算法一起改进的结果，但是DS的存在证明了**价格战空间非常大**"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "前沿模型的政府监管",
+          "entries": [
+            {
+              "source": "事件综述",
+              "source_type": "",
+              "important": true,
+              "points": [
+                "K3的发布让白宫官员公开指控它是蒸馏美国模型做出来的，**财长威胁制裁(反对开源支持制裁的只有Anthoripc)**。与此同时，英伟达牵头 50 家科技公司（科技界大部分人）发联名信，**要求政府别限制开源模型**——MSFT、META、GOOGL、OAI 都签了，Anthropic没签",
+                "禁止开源很难做到，模型发布了下载了就无法禁止，但是后续可以继续探讨\"打击窃取知识产权\"，**追责中国模型蒸馏，**从而**抑制美国国内企业使用中国模型**"
+              ]
+            },
+            {
+              "source": "Jensen Huang",
+              "source_type": "NVDA",
+              "important": false,
+              "points": [
+                "Jensen 公开称 open models 有助于 safety、cybersecurity、innovation、diffusion 与 sovereignty；随后 GOOGL、OpenAI、AMD、NBIS 等陆续被加入或确认签署"
+              ]
+            },
+            {
+              "source": "David Sacks",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "领先的封闭实验室已经是双头垄断，现在想用政府力量清掉开源竞争对手"
+              ]
+            },
+            {
+              "source": "All in podcast",
+              "source_type": "Podcast",
+              "important": false,
+              "points": [
+                "节目支持开源，认为 model layer 正快速 commoditize，限制 open models 可能保护 frontier labs，却让美国企业承担更高 intelligence cost；更可行手段是 KYC、与防工业化 scraping"
+              ]
+            },
+            {
+              "source": "Parker Conrad",
+              "source_type": "Rippling CEO",
+              "important": false,
+              "points": [
+                "认为蒸馏应该是公司内部需要避免的问题，而非需要通过行政手段"
+              ]
+            },
+            {
+              "source": "Jürgen Schmidhuber",
+              "source_type": "researcher",
+              "important": false,
+              "points": [
+                "支持开源模型免费蒸馏商业公司从整个互联网蒸馏来的内容 *支持开源模型直接蒸馏SOTA模型"
+              ]
+            },
+            {
+              "source": "Anthropic",
+              "source_type": "AI lab",
+              "important": false,
+              "points": [
+                "唯一一家公开硬顶的前沿实验室。理由是权重**收不回来**——API 出了问题能关，权重放出去了永远在别人硬盘里"
+              ]
+            },
+            {
+              "source": "Ethan Mollick",
+              "source_type": "Wharton Professor",
+              "important": false,
+              "points": [
+                "如果接受 AGI/ASI 风险是真的，不应该支持开源"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
