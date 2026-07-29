@@ -1,0 +1,101 @@
+{
+  "generated_at": "2026-07-28T21:31:38+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-07-28",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12470,
+    "partial_pass": 5,
+    "with_carryover": 11,
+    "after_full_check": 6
+  },
+  "rows": [
+    {
+      "tk": "ITRI",
+      "nm": "Itron Inc",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 26.2,
+      "w1": 27.2,
+      "market_cap_bn": 4.75,
+      "dollar_vol_bn": 0.71,
+      "w1_avg_dollar_vol_bn": 0.21,
+      "reason": "",
+      "main_business": "提供能源与水务智能计量、管理及物联网解决方案"
+    },
+    {
+      "tk": "LCID",
+      "nm": "Lucid Group, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 21.5,
+      "w1": 7.9,
+      "market_cap_bn": 3.08,
+      "dollar_vol_bn": 0.31,
+      "w1_avg_dollar_vol_bn": 0.12,
+      "reason": "",
+      "main_business": "研发制造高端电动汽车及电池技术"
+    },
+    {
+      "tk": "THC",
+      "nm": "Tenet Healthcare Corporation New",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": 7.9,
+      "w1": 33.7,
+      "market_cap_bn": 22.62,
+      "dollar_vol_bn": 0.48,
+      "w1_avg_dollar_vol_bn": 0.53,
+      "reason": "",
+      "main_business": "运营急性病及专科医院、门诊手术中心，提供医疗收入周期管理服务"
+    },
+    {
+      "tk": "RNG",
+      "nm": "RINGCENTRAL, INC.",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": 6.0,
+      "w1": 43.9,
+      "market_cap_bn": 4.77,
+      "dollar_vol_bn": 0.17,
+      "w1_avg_dollar_vol_bn": 0.23,
+      "reason": "",
+      "main_business": "提供云端统一通信平台，整合语音、视频及消息协作服务"
+    },
+    {
+      "tk": "FBRX",
+      "nm": "Forte Biosciences, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": 0.2,
+      "w1": 51.1,
+      "market_cap_bn": 1.57,
+      "dollar_vol_bn": 0.2,
+      "w1_avg_dollar_vol_bn": 0.33,
+      "reason": "",
+      "main_business": "研发抗CD122单克隆抗体，治疗白癜风等自身免疫疾病"
+    },
+    {
+      "tk": "QBTS",
+      "nm": "D-Wave Quantum Inc.",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": -9.6,
+      "w1": -0.9,
+      "market_cap_bn": 6.53,
+      "dollar_vol_bn": 0.42,
+      "w1_avg_dollar_vol_bn": 0.41,
+      "reason": "",
+      "main_business": "开发量子退火与门模型量子计算机及软件服务"
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "topics": [
+    {
+      "id": "fed-warsh-july-fomc-2026-07",
+      "topic": "美联储/Warsh & 7月FOMC",
+      "topic_tag": "fed",
+      "title": "Trump施压降息 vs Warsh是否鹰派加息立威",
+      "summary": "Trump公开为新主席Warsh站台但要求降息、称美国应有全球最低借贷成本；Citadel预计本周将意外加息以增强抗通胀信誉，而多位KOL和内部Waller质疑Warsh缺乏明确前瞻，主流观点仍偏7月按兵不动、9月加息风险上升。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：Warsh很棒，但利率应降低，美国应有世界最低借贷成本",
+          "details": "Trump称Warsh很棒、想做正确的事，但有个委员会，必须处理委员会的政治问题；利率应该降低，美国应该拥有世界上最低的借贷成本。",
+          "important": true
+        },
+        {
+          "actor": "Citadel",
+          "actor_type": "Analyst",
+          "text": "Citadel：预计美联储本周加息，市场低估鹰派转向",
+          "details": "Citadel预计美联储本周将hike，市场可能再次低估了美联储鹰派转变的程度，理由为增强主席在与通胀的斗争中的信誉。",
+          "important": false
+        },
+        {
+          "actor": "Waller (via Nick/WSJ)",
+          "actor_type": "Central-Bank",
+          "text": "Waller质疑Warsh任务小组有效性及低调做法",
+          "details": "Nick援引WSJ报道：美联储的Waller质疑了任务小组的有效性以及美联储主席Warsh的低调做法，询问这有什么意义，说\"告诉我他们都有谁，我就会告诉你他们会说什么\"；即使在第一次FOMC会议上的私下场合，Warsh也没有就如何应对未来的经济/政策权衡给出明确表态。",
+          "important": false
+        },
+        {
+          "actor": "MacroMargin",
+          "actor_type": "KOL",
+          "text": "MacroMargin：7月大概率按兵不动，9月加息风险上升",
+          "details": "7月FOMC前瞻总结：更大概率仍是按兵不动。加息逻辑对Warsh部分成立却并非紧迫（通胀预期仍锚定、可推迟到9月）；基于6月点阵图，今年有票权官员中支持加息与不支持约为4:8，Warsh游说鸽派倒戈难度大；6月以来数据好坏参半。若油价问题不迅速解决，9月加息概率将显著提高。",
+          "important": false
+        },
+        {
+          "actor": "mark_dow",
+          "actor_type": "KOL",
+          "text": "mark_dow吐槽Warsh：一边说少依赖预测，一边预测大幅生产率提升",
+          "details": "@mark_dow：Warsh说Fed需要少依赖预测、更逐次会议、数据响应式决策；但Warsh同时说\"因为我预测大幅生产率提升所以可以降息\"——而数据里看不到任何这种迹象。",
+          "important": false
+        },
+        {
+          "actor": "Fullcarry",
+          "actor_type": "KOL",
+          "text": "Fullcarry：1Y通胀掉期跌破2%，联储本周应放弃加息",
+          "details": "Fullcarry：1Y通胀掉期已跌破2%，联储本周应放弃加息，5Y/2Y盈亏平衡通胀率很低。还在买通胀恐惧叙事的只有主流媒体上的Doomers。",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "Herman Jin：Warsh没必要升息（service价格未升）",
+          "details": "Herman Jin：不觉得Warsh有必要升息（service价格没升高）；联储内部分裂既有经济观点也有政治立场，Warsh很难通过一次迎合去立威。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "Twitter/X"
+      ],
+      "date": "2026-07-28",
+      "image_urls": []
+    },
+    {
+      "id": "trump-ukraine-zelensky-2026-07",
+      "topic": "Trump-乌克兰",
+      "topic_tag": "geo",
+      "title": "Trump转向乐观 周二白宫会见泽连斯基",
+      "summary": "Trump将于周二在白宫与泽连斯基会面，WSJ和Samfor报道其对乌克兰韧性/无人机产业转为乐观，核心动机是借俄战况疲态施压普京谈判、争取中期选举前的停火外交政绩。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump周二白宫会见泽连斯基，对乌态度转乐观",
+          "details": "Trump周二在白宫与乌克兰总统泽连斯基会面。WSJ称最近对乌克兰和泽连斯基表达了新的乐观态度，对乌克兰的韧性和其无人机产业印象深刻。",
+          "important": true
+        },
+        {
+          "actor": "Samfor",
+          "actor_type": "新闻",
+          "text": "Samfor：核心动机是借俄疲态施压普京、争取中期选举前政绩",
+          "details": "Samfor报道转变的核心是特朗普在美伊冲突拉锯的背景下，迫切希望借俄罗斯战况渐显疲态的良机向普京施压、逼其回到谈判桌，从而在国会中期选举前快速推动停火并达成一项重大外交政绩。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "WSJ",
+        "Samfor"
+      ],
+      "date": "2026-07-28",
+      "image_urls": []
+    },
+    {
+      "id": "us-iran-hormuz-oil-2026-07",
+      "topic": "美伊/霍尔木兹/油价",
+      "topic_tag": "oil",
+      "title": "美伊暂停互击 布伦特跌破$90 霍尔木兹仅剩8%流量",
+      "summary": "GS：美伊在波斯湾暂停互击，布伦特回落至$90下方，伊朗与阿曼讨论重启霍尔木兹航运；但波斯湾出口仅41%战前水平、霍尔木兹仅8%，红海袭击持续。CSIS估美军拦截弹消耗高达库存31-38%，THAAD最高消耗80%。Tiger Mengyu Lan称爱国者库存不足1000枚是叫停升级的关键。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs Oil",
+          "actor_type": "Analyst",
+          "text": "GS：布伦特跌破$90，Q4霍海全恢复则年底看$80",
+          "details": "GS Oil：波斯湾局势降温，随着美伊在波斯湾暂停互相袭击，布伦特原油期货价格回落至90美元/桶下方。伊朗与阿曼正讨论重启霍尔木兹海峡航运，可能为美伊谈判铺平道路。若霍尔木兹海峡在第四季度完全恢复，预计布伦特油价年底将降至80美元/桶；但红海中断及沙特设施受袭构成新的上行风险。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs Oil",
+          "actor_type": "Analyst",
+          "text": "GS数据：波斯湾出口41%战前水平，霍尔木兹仅8%",
+          "details": "波斯湾出口量降至战前水平的41%（7日移动平均，9.6mb/d），其中霍尔木兹海峡流量仅为战前水平的8%（1.6mb/d）。红海总流量上周下降超过3M b/d。沙特Yanbu港装载量降至3.3M b/d，沙特已通过苏伊士运河分流约500k b/d的发运量。GS估计对波斯湾油流的冲击自7月初已翻倍至13.7mb/d。全球可见原油库存最新7470mb，自3月1日累计-392mb（隐含-3.1mb/d）。中国原油净进口过去两周反弹3.4mb/d但仍低于去年同期3.0mb/d，7月中国炼厂利用率回升至66%但仍低同期0.7mb/d。",
+          "important": false
+        },
+        {
+          "actor": "CSIS",
+          "actor_type": "Analyst",
+          "text": "CSIS：美军拦截弹消耗THAAD最高80%、爱国者61%",
+          "details": "据CSIS估算，\"伊朗战争\"期间美军消耗3,710–4,510枚关键精确制导弹药，约为战前库存的31–38%；防空拦截弹消耗最猛：THAAD 190–290/360（最高约80%）、SM-3 130–250/410（过半）、爱国者1,060–1,430/2,330（最高约61%）；另发射>1,000枚战斧、>1,100枚JASSM、40–70/90枚PrSM。部分弹药补库需数年。",
+          "important": false
+        },
+        {
+          "actor": "Tiger Mengyu Lan",
+          "actor_type": "Analyst",
+          "text": "Tiger：爱国者库存不足1000枚导致美方叫停升级",
+          "details": "Tiger Mengyu Lan：美军因爱国者导弹严重短缺（库存不足1,000枚、年补给仅约300枚，远赶不上消耗速度）叫停了原定升级对伊攻击的计划，美伊双方暂时停击。受此影响，WTI原油盘前重挫近7%，全球油价中短期缺乏大幅上涨动力，关键变量在于中国是否提高进口量。",
+          "important": false
+        },
+        {
+          "actor": "OSINTWarfare",
+          "actor_type": "KOL",
+          "text": "OSINTWarfare：Trump叫停因40天仅摧毁3部发射架",
+          "details": "OSINTWarfare：特朗普叫停原因是打击\"不可持续\"、\"看不到实质战果\"；40天交战美军仅\"记录在案摧毁约3部发射架\"，伊朗发射架靠液压系统、易于重建。",
+          "important": false
+        },
+        {
+          "actor": "tleilax___",
+          "actor_type": "KOL",
+          "text": "阿布盖格全部六列稳定装置受损/熏黑",
+          "details": "@tleilax___：阿布盖格全部六列稳定装置(stabilization trains)受损/熏黑——\"非常非常糟糕\"：这些部件交货周期长且难以运输。",
+          "important": false
+        },
+        {
+          "actor": "Alyosha745",
+          "actor_type": "KOL",
+          "text": "多重供应中断但油价反跌$10",
+          "details": "Alyosha745：阿布盖格泵站起火、吉赞炼厂起火、曼德海峡海运因劳合社拒保而停摆、哈萨克石油装载腰斩、霍尔木兹一动不动——但油价跌了$10。",
+          "important": false
+        },
+        {
+          "actor": "Saudi Aramco",
+          "actor_type": "Corporate",
+          "text": "沙特阿美研新定价机制反映苏伊士管道绕行成本",
+          "details": "沙特阿美正在考虑为从埃及西迪克里尔港向亚洲运送的原油制定一种新的定价机制，以反映通过苏伊士地中海管道重新路由出口后更高的运输成本。",
+          "important": false
+        },
+        {
+          "actor": "日本政府",
+          "actor_type": "Foreign-Gov",
+          "text": "东京扩大对海外管道投资财政支持 绕开霍尔木兹",
+          "details": "东京计划扩大对在海外投资管道项目的日本公司的财政支持，包括中东地区，作为加强海湾地区替代石油和天然气运输路线、绕过霍尔木兹海峡的努力的一部分。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs Oil",
+          "actor_type": "Analyst",
+          "text": "GS：胡塞持续袭击沙特设施，主要针对沙特船籍",
+          "details": "红海冲突升级：胡塞武装继续对沙特石油基础设施（包括Jazan炼油厂储油罐及Yanbu港）发动袭击。胡塞武装目前主要针对沙特船籍油轮，而中国船籍油轮仍可正常通行。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3,
+        4
+      ],
+      "importance": 3,
+      "sources": [
+        "Goldman Sachs",
+        "CSIS",
+        "Twitter/X"
+      ],
+      "date": "2026-07-28",
+      "image_urls": [
+        "/uploads/2026-07-28/ed28a7f78cc8.jpg",
+        "/uploads/2026-07-28/6ed2e52752e8.png"
+      ]
+    },
+    {
+      "id": "ai-semi-selloff-2026-07",
+      "topic": "AI/半导体轮出",
+      "topic_tag": "ai",
+      "title": "半导体多月区间破位 资金轮出AI交易",
+      "summary": "AI/半导体板块出现明显轮出：GS Prime数据显示HF已回吐6月中旬以来80%的全球半导体净买入，净配置从24%降至19%；DRAM及SK海力士破位下行，韩国散户平均亏损13%。英伟达与Hut 8签50B数据中心租约；亚马逊革新AI战略；Trump政府接近敲定自愿性AI监管框架要求前沿模型提交NSA/CAISI最长30天审查。",
+      "bullets": [
+        {
+          "actor": "GS John Flood",
+          "actor_type": "Analyst",
+          "text": "GS：HF已回吐6月中旬以来80%全球半导体净买入",
+          "details": "GS John Flood：自六月中旬以来，HF已将YTD在全球半导体与半导体设备个股的累计净买入回吐了约80%（但开始重新买入，相信这种需求将会持续）。最值得注意的买入集中在存储器（STX、WDC、MU、SNDK）和半导体制造设备（AMAT、ASML、LRCX）。全球半导体与半导体设备股票的净配置今年年初为10%，六月增至24%，现在为19%（1年P84，5年P97）。",
+          "important": true
+        },
+        {
+          "actor": "Trump政府 (INFO)",
+          "actor_type": "US-Executive",
+          "text": "Trump政府接近敲定AI自愿监管 前沿模型需NSA审查30天",
+          "details": "INFO报道特朗普政府正接近敲定一项自愿性AI监管框架，要求OpenAI、Anthropic和Google等AI实验室在发布最先进的\"前沿模型\"前，将其提交给国家安全局（NSA）与AI标准与创新中心（CAISI）进行最长30天的安全审查。",
+          "important": false
+        },
+        {
+          "actor": "Nvidia / Hut 8",
+          "actor_type": "Corporate",
+          "text": "FT：英伟达与Hut 8签50B德州数据中心租约",
+          "details": "FT报道英伟达已与Hut 8签订价值高达50B的德克萨斯州数据中心租赁合同。",
+          "important": false
+        },
+        {
+          "actor": "Amazon",
+          "actor_type": "Corporate",
+          "text": "BI：亚马逊全面革新AI战略 缩减内部多个模型",
+          "details": "Business Insider(BI)消息，亚马逊正在全面革新其AI战略，缩减内部多个模型，重组团队，并将工程师的注意力集中在新的战略上，以在技术前沿展开竞争。",
+          "important": false
+        },
+        {
+          "actor": "TSMC",
+          "actor_type": "Corporate",
+          "text": "TSMC日本熊本工厂附近7级地震 疏散员工",
+          "details": "TSMC工厂附近发生7级地震，TSMC在日本熊本工厂地震后疏散员工。",
+          "important": false
+        },
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "DRAM多月区间重夺失败 确认破位跟随下跌",
+          "details": "short bear：Semis and especially DRAM failed its multi-month range reclaim and now curling down into a confirmed breakdown as well as confirmed follow-through to the downside.",
+          "important": false
+        },
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "中国国产浸没式DUV仅ASML 2006-07年水平 短期冲击有限",
+          "details": "中国开始国产浸没式DUV光刻机是半导体自给自足的重要战略里程碑，适用于几乎所有先进制程（DRAM、NAND、逻辑与代工），可长期降低对ASML进口设备的依赖，但其技术相当于ASML 2006-2007年水平而非当前先进DUV或EUV，初期产量极小（2026年约5台、2027年约20台，对比ASML同期130-169台），生产≠具备高量产所需的良率、精度与可靠性，对ASML近端收入影响极低、对全球DRAM/NAND供应及先进代工厂/无晶圆厂几乎无实质冲击，市场恐慌更多定价未来十年逐步替代风险而非当下现实。",
+          "important": false
+        },
+        {
+          "actor": "_FORAB",
+          "actor_type": "KOL",
+          "text": "SK海力士开盘-13%至157.9万韩元 韩散户平均亏13%",
+          "details": "@_FORAB：SK海力士今天开盘后加速下跌-13%至157.9万韩元，而根据韩国券商Naver数据，当前韩国散户的SK海力士平均持仓价为181.5万韩元。相当每个韩国人在海力士上亏损-13%，前提还是他没加杠杆。",
+          "important": false
+        },
+        {
+          "actor": "Ariston_Macro",
+          "actor_type": "KOL",
+          "text": "Ariston：6月起做空KOSPI与SK海力士至今仍持空",
+          "details": "Ariston_Macro：6月26日空KOSPI、6月23日空SK海力士，至今仍然持空，基于技术走坏顺趋势做空。",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "Herman Jin：找不到终端钱在哪 需消化Anthropic+OAI≠AI需求",
+          "details": "Herman Jin：市场调整不敢接盘的根本问题是找不到钱在哪里，前端模型收入增速+云厂capex ROI与融资——终端钱不进来很难FOMO，市场需先消化\"Anthropic+OAI≠AI需求\"，第一反应看到Anthropic降速\"一定是极大恐慌\"，下一波半导体FOMO将来自云厂卖开源模型。",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "Andy：NVDA CDS在$750B担保后继续走阔",
+          "details": "Andy：NVDA CDS在$750B担保后继续走阔，高收益率最终吸引到买家；CDS通常不在阴跌中见顶，而是在抛物线式冲刺中见顶。",
+          "important": false
+        },
+        {
+          "actor": "El-Erian",
+          "actor_type": "KOL",
+          "text": "El-Erian：投资者对资助不确定回报的AI周期耐心耗尽",
+          "details": "El-Erian：投资者对资助一个回报仍不确定的投资周期，耐心正在耗尽。",
+          "important": false
+        },
+        {
+          "actor": "pequityresearch",
+          "actor_type": "KOL",
+          "text": "pequityresearch：伊朗冲突是市场最大障碍",
+          "details": "@pequityresearch：即使中国正在开发预计需求量高且将取代美国前沿模型的99%更便宜型号，他们许多半导体产品也在抛售。我仍然认为伊朗冲突是市场最大的障碍。",
+          "important": false
+        },
+        {
+          "actor": "RealSimpleAriel",
+          "actor_type": "KOL",
+          "text": "情绪只在AI股糟糕 资金正在轮出AI",
+          "details": "RealSimpleAriel：情绪只在AI相关股票里糟糕——银行、REITs、医疗、部分生科几乎无可抱怨；市场信息明确：资金正在轮出AI交易，即便AI股止跌，其中很大一部分可能很久都回不到历史新高。底部一定都是坏消息糟糕情绪、大洗盘、散户爆仓、伊朗头条。",
+          "important": false
+        },
+        {
+          "actor": "Jim Cramer",
+          "actor_type": "KOL",
+          "text": "Cramer：\"无论如何\"卖出数据中心股 看空DRAM",
+          "details": "Jim Cramer称投资者应\"无论如何\"卖出数据中心股，看空DRAM。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "AMZN",
+        "TSM",
+        "ASML",
+        "MU",
+        "STX",
+        "WDC",
+        "SNDK",
+        "AMAT",
+        "LRCX",
+        "GOOGL"
+      ],
+      "image_indexes": [
+        0,
+        1,
+        2
+      ],
+      "importance": 3,
+      "sources": [
+        "FT",
+        "Business Insider",
+        "INFO",
+        "GS Prime"
+      ],
+      "date": "2026-07-28",
+      "image_urls": [
+        "/uploads/2026-07-28/7c99d29fd6ec.png",
+        "/uploads/2026-07-28/b16256ccbc44.png",
+        "/uploads/2026-07-28/b387144f7abd.png"
+      ]
+    },
+    {
+      "id": "asia-korea-japan-taiwan-2026-07",
+      "topic": "亚洲监管/央行",
+      "topic_tag": "policy",
+      "title": "韩国拟限杠杆产品20% 日财相淡化对央行分歧 台债破20年高",
+      "summary": "韩国金委会拟将个人投资个股杠杆产品限制在总投资的20%以内；日本财务大臣Katayama将政府与央行关系形容为\"正常且顺畅\"；台湾五年期债券收益率攀升至近二十年最高。",
+      "bullets": [
+        {
+          "actor": "韩国金委会",
+          "actor_type": "Foreign-Gov",
+          "text": "韩国拟限个股杠杆产品投资额不超总配置20%",
+          "details": "韩国金委会委员长表示，若7/31起生效的提高保证金措施未能有效降温市场，当局计划将个人投资个股杠杆产品的投资额限制在总投资配置的20%以内。",
+          "important": true
+        },
+        {
+          "actor": "Katayama (日本财务大臣)",
+          "actor_type": "Foreign-Gov",
+          "text": "Katayama淡化政府-央行分歧 称关系\"正常顺畅\"",
+          "details": "日本财务大臣Katayama将政府与央行的关系形容为\"正常且顺畅\"，淡化了政府试图暗示其对利率上升的保留态度的观点。",
+          "important": false
+        },
+        {
+          "actor": "台湾债市",
+          "actor_type": "新闻",
+          "text": "台湾5年期债券收益率破近20年新高",
+          "details": "台湾五年期债券收益率攀升至近二十年来最高水平，因为上周令人失望的20年期债券销售和央行加息预期增强引发了抛售潮。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-28",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-rates-fx-flows-2026-07",
+      "topic": "卖方Rates/FX/Flows",
+      "topic_tag": "rates",
+      "title": "美债长端受追捧 CTA久期空头历史极值 USDKRW下跌",
+      "summary": "Nomura：10Y实际收益率2.45%、通胀预期2.20%低于战前；UBS：CTA久期空头历史极值，收益率反弹15bp将触发1-2.5亿美元买入流，美元多头拥挤、日元高确信空头；GS Lu Sun：USDKRW下跌由KOSPI下跌、RHS对冲平仓及出口商结汇驱动；GS Rich Privorotsky：市场嵌入\"油价破位则Trump反身性介入\"预期。",
+      "bullets": [
+        {
+          "actor": "Nomura Rates",
+          "actor_type": "Analyst",
+          "text": "Nomura：美债长端受追捧 10Y实际收益率2.45%",
+          "details": "Nomura Rates：美债长端受追捧主因投资者规避FOMC前短端风险及对冲科技股崩盘。10年期美债实际收益率升至2.45%，通胀预期跌至2.20%低于战前水平。若美联储暗示加息为周期性而非预防性，长端债券恐遭抛售。日元兑美元停滞于163.5-164.0区间。",
+          "important": true
+        },
+        {
+          "actor": "UBS Flow",
+          "actor_type": "Analyst",
+          "text": "UBS：CTA久期空头历史极值 收益率反弹15bp触发买盘",
+          "details": "UBS Flow：CTA股票多头仓位受低波动率支撑，但若Q2财报乏力，8月可能转为美股卖家。债券方面，CTA久期空头达历史极值，收益率反弹超15bps将触发1-2.5亿美元买入流。外汇上，美元多头拥挤，日元仍为高确信度空头。",
+          "important": false
+        },
+        {
+          "actor": "GS Rich Privorotsky",
+          "actor_type": "Analyst",
+          "text": "GS Rich：油价破位则Trump反身性介入 已嵌入股市韧性",
+          "details": "GS Rich Privorotsky：一旦油价突破某个点位，特朗普政府会以某种方式出现反身性，这一预期嵌入在股票市场中，解释其韧性。大多数投资者虽然在动量和大规模平仓中受挫，但仍然保留着大致相同的头寸，并对硬件和超大云服务商支出持相同的积极观点。",
+          "important": false
+        },
+        {
+          "actor": "GS Lu Sun",
+          "actor_type": "Analyst",
+          "text": "GS Lu Sun：USDKRW下跌由KOSPI下跌+结汇驱动",
+          "details": "GS Lu Sun：USDKRW下跌由以下因素驱动：KOSPI下跌、RHS对冲的平仓、出口商大规模的外汇结汇以及SKHY收益的结汇。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Nomura",
+        "UBS",
+        "Goldman Sachs"
+      ],
+      "date": "2026-07-28",
+      "image_urls": []
+    },
+    {
+      "id": "kol-other-2026-07",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "其他KOL/情绪",
+      "summary": "cis昨天空单获利了结；粉笔CEO张小龙劝学生弃考公炒美股，公司披露炒股亏损$8.3M回吐此前5300万盈利。",
+      "bullets": [
+        {
+          "actor": "cis @cissan_9984",
+          "actor_type": "KOL",
+          "text": "cis：昨天做空仓位获利了结",
+          "details": "cis @cissan_9984：昨天做空仓位获利了结。",
+          "important": false
+        },
+        {
+          "actor": "张小龙 (粉笔CEO)",
+          "actor_type": "Corporate",
+          "text": "粉笔CEO炒美股亏$8.3M 回吐此前5300万盈利",
+          "details": "粉笔CEO张小龙6月3日进大学劝学生弃考公炒美股科技股，公司最新披露炒股亏损$8.3M（约5615万人民币），上次吹嘘的5300万盈利尽数回吐。",
+          "important": true
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-07-28",
+      "image_urls": []
+    }
+  ]
+}
