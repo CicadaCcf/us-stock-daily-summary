@@ -1,0 +1,261 @@
+{
+  "topics": [
+    {
+      "id": "bok-shin-hike-oct29",
+      "topic": "韩国央行",
+      "topic_tag": "fed",
+      "title": "BOK申铉松重申加息基调，韩国当局周三夜召紧急会议稳市",
+      "summary": "BOK总裁申铉松在国会财经委首次业务报告中重申需继续维持加息基调，后续时点视物价、增长与金融稳定而定（7月已加息25bps至2.75%，为3年半来首次）。韩国当局将于周三晚间召开紧急会议讨论股市剧烈波动及稳定措施。",
+      "bullets": [
+        {
+          "actor": "申铉松",
+          "actor_type": "Central-Bank",
+          "text": "BOK总裁重申需继续维持加息基调",
+          "details": "BOK申铉松在国会财政经济企划委员会进行业务报告（他上任后首次在该委员会做政策简报），重申此前立场（7月16日已加息25bps至2.75%，为3年半来首次），表示需要继续维持加息基调；后续加息的时机和速度，会根据物价压力程度、经济增长改善趋势以及金融稳定状况来决定。",
+          "important": true
+        },
+        {
+          "actor": "韩国当局",
+          "actor_type": "Foreign-Gov",
+          "text": "周三晚间召开紧急会议讨论股市剧烈波动稳市措施",
+          "details": "韩国当局将于周三晚间召开紧急会议，讨论近期股市剧烈波动及稳定市场措施。",
+          "important": false
+        },
+        {
+          "actor": "韩国财长",
+          "actor_type": "Foreign-Gov",
+          "text": "财长称内部研究稳定股市方法，被讥\"来得有点晚\"",
+          "details": "pequityresearch：KOSPI 已回吐 4 月至 5 月底整轮暴涨的全部涨幅；韩国财长称\"内部研究稳定股市方法\"——\"来得有点晚，涨 80% 那两个月怎么不管\"。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-29"
+    },
+    {
+      "id": "fomc-fed-debate-oct29",
+      "topic": "FOMC/联储",
+      "topic_tag": "fed",
+      "title": "FOMC前争论：Miran/Wong反对加息，Sahm盯声明，sidprabhu预告异议票",
+      "summary": "Steve Miran、Anna Wong批评\"6月hold + 7月hike\"缺乏数据到政策的映射，认为加息此刻无反通胀收益却带来活动损失、可能压垮AI景气。Claudia Sahm提醒盯2:00声明而非2:30 Warsh，质疑其与通胀数据脱锚。sidprabhu预计不加息但会有异议票，取消前瞻指引本身即在收紧金融条件。",
+      "bullets": [
+        {
+          "actor": "Anna Wong",
+          "actor_type": "KOL",
+          "text": "此时加息无反通胀收益，恰在中期选举前后显现活动损失",
+          "details": "Anna Wong @AnnaEconomist：1) 货币政策传导速度如今很快（附脉冲响应图）：25bp加息约折合8bp意外冲击，其影响将恰好在中期选举前后开始显现——从经济逻辑看不出\"现在加\"优于\"9月加\"；2) 明天加息今年内不产生任何反通胀收益，却立刻带来活动损失——这怎么会\"提升信誉\"？Token价格在跌，AI供给侧已在自行出清（泡沫甚至可能已开始破裂）；3) \"如果联储明天加息，那将是最不格林斯潘的举动\"；压垮AI景气并不会提升联储公信力——尤其如果明年通胀跌破2%。",
+          "important": true
+        },
+        {
+          "actor": "Steve Miran",
+          "actor_type": "KOL",
+          "text": "\"6月hold+7月hike\"找不到数据到政策的合理映射",
+          "details": "Steve Miran：应HOLD，难以想象什么反应函数会说\"上次不动，然后一个边际偏负的核心CPI反而把我们推向加息\"——June hold + July hike找不到数据到政策的合理映射。",
+          "important": false
+        },
+        {
+          "actor": "Claudia Sahm",
+          "actor_type": "KOL",
+          "text": "盯2:00声明而非2:30 Warsh，质疑主席与通胀数据脱锚",
+          "details": "Claudia Sahm：1) \"所有人盯2:30的Warsh，你该盯2:00的声明\"——FOMC声明是委员会妥协的锻造处，\"那是委员会的协议，不是主席的话\"；她已模拟了一份从6月红线修改、委员会可能同意的声明；2) \"我们有个任务小组\"不是答案——想知道现在指导Warsh决策的通胀数据到底是什么；3) \"2% of What?\"——Warsh是否同意PCE是联储目标？他是唯一没参加1月框架投票的官员；\"联储担心通胀预期脱锚，我开始担心一位与通胀数据脱锚的主席\"。",
+          "important": false
+        },
+        {
+          "actor": "sidprabhu",
+          "actor_type": "KOL",
+          "text": "预计不加息但有异议票，取消前瞻指引已在收紧金融条件",
+          "details": "sidprabhu：该加吗？该。会加吗？不会，但会有异议票——异议票帮Warsh向Trump推销\"鹰的是委员会不是我\"；同时取消前瞻指引本身就在收紧金融条件（市场自行定价加息+加风险溢价）——马拉多纳式直线跑动，后卫自己让开；其\"Regime Change\"实指改变市场对反应函数的感知。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-07-29"
+    },
+    {
+      "id": "ai-credit-bubble-debate-oct29",
+      "topic": "AI信用与泡沫辩论",
+      "topic_tag": "ai",
+      "title": "AI信用辩论：TheShortBear/Jin看空CDS，Gavin Baker反驳融资缺口不存在",
+      "summary": "TheShortBear量化AI网络总市值$18.4T约占美股25%、核心高风险$7.1T约10%，指出ORCL 5Y CDS飙至210.6bp创GFC以来纪录、S&P降至BBB-、$638B RPO一半系OpenAI；Herman Jin主张科技公司credit池供应爆炸将压IG明年\"赤地千里\"，建议做空credit买CDS；HedgieMarkets列示hyperscaler capex吃掉98%经营现金流。Gavin Baker反驳称GPU现货租金≥合约价2倍，hyperscaler underearning、经营现金流由Q1 31%加速至Q2 50%，CY28共识capex $1.5-2.2T但现金流将大幅上修，融资缺口不存在。",
+      "bullets": [
+        {
+          "actor": "TheShortBear",
+          "actor_type": "KOL",
+          "text": "ORCL 5Y CDS 210.6bp创GFC以来纪录，传染机制无需任何一家破产",
+          "details": "TheShortBear：1) 网络总市值$18.4T（公司$17.2T：NVDA 4.8T/GOOGL 4.7T/MSFT 3.1T/AMZN 2.9T/AMD 579B/INTC 544B/ORCL 533B；私有实验室$1.23T：OpenAI 852B/Anthropic 380B）≈全美股市值25%；高风险核心NVDA/ORCL/OpenAI/Anthropic/AMD合计$7.1T≈10%；2) ORCL是信用弱环：5Y CDS升至210.6bp创纪录（GFC以来未见，较2025年中4倍+），按40%回收率隐含年化违约强度3.51%、五年累计违约概率~16.1%；S&P已降至BBB-（垃圾级上一档）；$638B RPO约一半系于仍在烧钱的OpenAI，负FCF举债扩建；3) 传染机制：OpenAI缺口→ORCL债务融资的产能闲置+利差走阔→NVDA订单与持股估值受压→下一轮循环交易融资成本上升或不可行——加速机制反转为收缩机制，无需任何一家破产。",
+          "important": true
+        },
+        {
+          "actor": "Gavin Baker",
+          "actor_type": "KOL",
+          "text": "GPU现货租金≥合约价2倍，hyperscaler underearning、融资缺口消失",
+          "details": "Gavin Baker：1) 被忽略的关键事实：GPU算力现货租金≥合约价2倍——多家私有公司已公开表示合约到期后愿付2倍以上；2) 含义：合约滚动到期时，存量算力重新定价向上，hyperscaler目前在underearning；经营现金流增速由Q1的31%加速至Q2模型的50%，且加速将持续全年——卖方预测Q3减速是错的；3) 算术：CY28 hyperscale+neocloud共识新增25–35GW，按$60B/GW = $1.5–2.2T capex；共识经营现金流$1.3–1.4T将大幅上修，假想中需债务填补的$100–700B缺口消失；即便存在，也不足共识EBITDA的1倍增量杠杆；NVDA/AVGO的\"信用包装\"进一步增强信用；4) \"CDS市场很容易被操纵——GFC的重要特征就是空股票+买CDS，我不会赋予CDS太多信号权重\"；真正的风险只有一个：上电与通电的工程难度。",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "科技公司credit池供应爆炸，明年公司债\"赤地千里\"，做空credit",
+          "details": "Herman Jin @ShanghaoJin：1) 科技公司是一个credit池子：原本没有供应所以利差极低，现在供应每年成倍增长且可能没完没了；\"股票、债券都是供需矛盾，不是基本面、估值\"——同时解释了AAPL不投capex利差也走阔的悖论；2) 推论：hyperscaler发债先挤压IG，\"明年公司债赤地千里\"；3) 交易表态：\"听我做空credit——买CDS、买CDS correlation爽不爽？准备把赚的钱去接韩国人血馒头\"、\"不一定是韩国人，看哪里血多\"。",
+          "important": false
+        },
+        {
+          "actor": "HedgieMarkets",
+          "actor_type": "KOL",
+          "text": "多家科技CDS齐创纪录，hyperscaler capex吃掉98%经营现金流",
+          "details": "HedgieMarkets：ORCL/NVDA/GOOGL/AMZN/META/SpaceX/AVGO的CDS齐创或逼近纪录；hyperscaler capex同比+84%、吃掉98%经营现金流；Mag7六月蒸发$2.3T、7月23日单日$800B；ORCL：$638B承诺一半系OpenAI、债$167B、FCF -$23B、裁员21K；SocGen：少看财报、多看CDS——\"我同意\"。",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "野村质疑AI驱动去通胀观点，短期capex激增反推高科技价格",
+          "details": "Nomura Fed：质疑AI驱动生产率将导致去通胀的观点，指出短期AI资本支出激增已推高科技价格，产生通胀压力。历史数据显示生产率与通胀相关性减弱，美联储内部对此分歧明显，多数官员担忧AI投资通胀影响。预计美联储将维持政策不变，而非因生产率预期转向鹰派。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "ORCL",
+        "GOOGL",
+        "MSFT",
+        "AMZN",
+        "META",
+        "AMD",
+        "AVGO",
+        "INTC"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-07-29"
+    },
+    {
+      "id": "memory-kospi-tech-tactical-oct29",
+      "topic": "存储/KOSPI/科技短线",
+      "topic_tag": "ai",
+      "title": "存储超跌反弹信号，KOSPI回吐涨幅，UBS PB揭对冲基金半导体建空",
+      "summary": "TheOneLanceB指海力士财报后深夜反转是超跌存储反弹看多信号；MoistMango/Valckrie认为结构仍熊但存储一周+25%不意外，MU曾以beat见顶、SNDK自高点-50%可能反造短底；RealSimpleAriel见KOSPI洗盘构反弹setup。UBS PB披露周一美国半导体-2.8σ净卖出、>75%由卖空驱动，hyperscaler敞口降至两年最低（多空比2.4x vs 2025年1月峰值13.6x）。KOSPI已回吐4-5月整轮涨幅，Bogachan看空KOSPI优于美半导体，MacroMargin判定第二轮踩踏、监管\"救大盘不救科技\"。",
+      "bullets": [
+        {
+          "actor": "UBS PB",
+          "actor_type": "Analyst",
+          "text": "对冲基金在超大规模厂财报前新建战术空头，半导体-2.8σ净卖出",
+          "details": "UBS PB：半导体抛售主因是对冲基金在超大规模厂商财报前新建战术性空头——周一美国半导体-2.8个标准差净卖出，其中>75%由卖空驱动；此前的动能unwind几乎全是多头砍仓，\"这是半导体新出现的做空行为\"；另一侧：超大规模厂商同日是美股被买入最多的组——经典空头回补，GOOGL财报前建的空已基本清掉；仓位水平：hyperscaler敞口降至两年最低，多空比2.4x vs 2025年1月峰值的13.6x。",
+          "important": true
+        },
+        {
+          "actor": "TheOneLanceB",
+          "actor_type": "KOL",
+          "text": "海力士深夜反转，超跌存储反弹看多信号",
+          "details": "TheOneLanceB：海力士财报后先跌后深夜反转，是超跌存储短线反弹的看多信号；今天找反弹远比昨天合理——多数标的已多日连跌极度超伸；理想操作=先抓空头段、再避免抄早，\"两者做到其一都是大升级\"；昨日提醒：\"人人找底，但我一只想做多的都没有——你们知道可以做空吧？\"",
+          "important": false
+        },
+        {
+          "actor": "MoistMango + Valckrie",
+          "actor_type": "KOL",
+          "text": "结构仍熊但存储一周+25%不意外，SNDK-50%可能反造短底",
+          "details": "MoistMango + Valckrie：结构上仍是熊市regime，但熊市有最大的反弹——\"存储一周+25%我不会意外\"；Valckrie：MU曾以beat见顶存储板块，SKHY的投降暴跌（SNDK自高点-50%）则可能反向制造短线底。",
+          "important": false
+        },
+        {
+          "actor": "RealSimpleAriel",
+          "actor_type": "KOL",
+          "text": "KOSPI隔夜洗盘构绝佳反弹setup，MU未失守$770",
+          "details": "RealSimpleAriel：KOSPI隔夜这样洗盘正构成绝佳反弹setup；MU未失守$770低点——若韩股稳在-6~7%/200日线附近，明天可操作。",
+          "important": false
+        },
+        {
+          "actor": "Bogachan_1971",
+          "actor_type": "KOL",
+          "text": "空KOSPI风险回报优于空美国半导体，美股被托市操纵得多",
+          "details": "Bogachan_1971：1) 峰值回撤-30%+，而\"史上最便宜\"的说法本身可疑——翻倍几个月后怎么会最便宜？老把戏：只看周期盈利最后一章，存储重演过无数次；2) 空KOSPI的风险回报优于空美国半导体——美国市场被联储等多方托市\"操纵得多\"，同样的赌注放海外执行更干净；美股会这样交易直到一场无法择时的巨崩。",
+          "important": false
+        },
+        {
+          "actor": "MacroMargin",
+          "actor_type": "KOL",
+          "text": "科技第二轮踩踏，监管\"救大盘不救科技\"",
+          "details": "MacroMargin：本周明显是科技第二轮踩踏——对上周\"止血\"持谨慎，企稳条件未满足；监管其实\"乐见\"挤科技泡沫，上周救市不发力、本周\"救大盘不救科技\"正是这种态度的体现。",
+          "important": false
+        },
+        {
+          "actor": "pequityresearch",
+          "actor_type": "KOL",
+          "text": "KOSPI已回吐4-5月整轮涨幅",
+          "details": "pequityresearch：KOSPI已回吐4月至5月底整轮暴涨的全部涨幅。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MU",
+        "SNDK",
+        "GOOGL"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "UBS PB"
+      ],
+      "date": "2026-07-29"
+    },
+    {
+      "id": "citi-fomc-oct29",
+      "topic": "卖方观点",
+      "topic_tag": "fed",
+      "title": "花旗：FOMC日风险资产历史正溢价，预计今年两次降息",
+      "summary": "花旗指FOMC会议日持有风险资产历史上获正溢价，市场定价30%加息概率但暂停加息将利好股市；美股现处\"好消息即坏消息\"模式；预计今年两次降息、明年初再降一次；国债日内反应后常均值回归，欧元兑美元则具持续性。",
+      "bullets": [
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "花旗预计今年两次降息、明年初再降一次，暂停加息利好股市",
+          "details": "Citi Fed：FOMC会议日持有风险资产historically获正溢价。尽管市场定价30%加息概率，但若美联储暂停加息将利好股市。美股现处\"好消息即坏消息\"模式，强劲数据引发紧缩担忧。花旗预计今年两次降息，明年初再降一次。国债日内反应后常均值回归，欧元兑美元则具持续性。",
+          "important": true
+        },
+        {
+          "actor": "买方@cissan_9984",
+          "actor_type": "KOL",
+          "text": "抄底日经和Kioxia后受不了反手做空",
+          "details": "买方 @cissan_9984：抄底日经和kioxia，然后受不了又反手zuo'kong。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Citi"
+      ],
+      "date": "2026-07-29"
+    },
+    {
+      "id": "other-2026-07-29",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "其他零散信息",
+      "bullets": [
+        {
+          "actor": "ISW",
+          "actor_type": "Analyst",
+          "text": "[美伊/霍尔木兹] 伊朗内部三派争谈判主导权，瓦希迪派主导且拒放弃海峡",
+          "details": "ISW：伊朗政权内部目前有三派争夺谈判主导权：以IRGC瓦希迪少将为首的主流派主张谈判但要求完全控制霍尔木兹海峡；以总统佩泽希齐扬、外长阿拉格希等为代表的亲妥协派也追求海峡控制但定义较宽松，主要分歧在手段；极端强硬的Paydari Front则完全反对与美谈判。当前瓦希迪派主导政策，伊朗因经济压力不愿无限期战争，但仍拒绝在与阿曼调解的谈判中放弃海峡控制权。",
+          "important": true
+        }
+      ],
+      "tickers": [],
+      "importance": 1,
+      "sources": [
+        "ISW"
+      ],
+      "date": "2026-07-29",
+      "image_urls": []
+    }
+  ]
+}
