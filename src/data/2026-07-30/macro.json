@@ -1,0 +1,268 @@
+{
+  "topics": [
+    {
+      "id": "fed-warsh-july-fomc",
+      "topic": "美联储7月FOMC",
+      "topic_tag": "fed",
+      "title": "Warsh首秀按兵不动引信誉争议，长端收益率飙升",
+      "summary": "美联储7月FOMC以9-3维持利率不变，主席Warsh发布会偏鸽，暗示市场利率上升可替代加息，但通胀框架模糊引发信誉担忧。30年美债收益率推上5.2%，市场定价9月加息概率60%，JPM将加息预测提前至2026年12月。",
+      "bullets": [
+        {
+          "actor": "Warsh",
+          "actor_type": "Central-Bank",
+          "text": "FOMC 9-3票维持利率不变，Warsh淡化AI通胀压力",
+          "details": "美联储7月未加息，预计2026年剩余时间维持利率不变。尽管会前市场加息预期高涨，但FOMC决定按兵不动，主席沃什表态偏鸽，淡化AI通胀压力并暗示市场利率上升可替代加息。目前债券市场定价9月加息概率为60%",
+          "important": true
+        },
+        {
+          "actor": "dampedspring",
+          "actor_type": "KOL",
+          "text": "Warsh是债券义警，乐见长端收益率上行",
+          "details": "Warsh 本人就是债券义警(bond market vigilante)——他要长端出问题来杀通胀；'容忍长端收益率上行是相对 Powell 联储的巨大转变'——他在 4–6 处发言中欢迎这种紧缩,且与其缩表(久期)展望一致,本身就是陡峭化立场",
+          "important": false
+        },
+        {
+          "actor": "Anna Wong",
+          "actor_type": "Analyst",
+          "text": "长端这波移动基本等于一次25bp加息",
+          "details": "①'很多人骂 Warsh 不加息导致长端飙升——但 Warsh 一直在说他乐见会间期长端上行。长端这波移动基本等于一次 25bp 加息,他大概是高兴而不是难过'；这将立即通过住房市场与金融条件挤压经济；②修辞学观察：'Kevin Warsh 是政治天才和有才华的修辞家——他成功地说了很多,却什么都没说'；若格林斯潘的名言是'如果你觉得听懂了我,那你就没听懂',Warsh 的版本是'如果你觉得我说了任何东西,那你就没理解我没说什么'；③'今天市场反应 vs Powell 过去两年降息时的市场反应,唯一区别是愤怒人群的政治属性翻转了'",
+          "important": false
+        },
+        {
+          "actor": "JPMorgan",
+          "actor_type": "Analyst",
+          "text": "JPM将加息预测从2027H2提前至2026年12月",
+          "details": "鉴于美联储主席沃什言论引发信誉担忧，JPM将下次加息时间从2027年下半年提前至2026年12月。FOMC以9-3维持利率不变，但沃什未明确抗通胀路径，甚至质疑PCE目标地位。预计政策利率随后维持在3.75%-4.0%，若通胀反弹，9月亦存加息风险",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "野村称通胀框架模糊损及信誉，加息风险增加",
+          "details": "7月FOMC会议维持利率不变，但内部出现3票加息 dissent。主席Warsh发布会偏鸽，暗示市场收益率上升可替代加息，但通胀框架模糊损及信誉。市场长期通胀预期跳升，30年美债收益率走高。野村认为加息风险增加，若通胀预期脱锚，美联储或被迫紧缩",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "高盛认为核心通胀放缓将支撑美联储继续暂停加息",
+          "details": "美联储7月未加息，预计2026年剩余时间维持利率不变。尽管会前市场加息预期高涨，但FOMC决定按兵不动，主席沃什表态偏鸽，淡化AI通胀压力并暗示市场利率上升可替代加息。目前债券市场定价9月加息概率为60%，但高盛认为核心通胀放缓将支撑美联储继续暂停加息",
+          "important": false
+        },
+        {
+          "actor": "super_macro",
+          "actor_type": "KOL",
+          "text": "泰勒规则理想利率5.34%，30Y推上5.2%",
+          "details": "①'Taylor 给 Warsh 指路'：按 1% 实际中性利率估算,泰勒规则理想政策利率 5.34%,对比当前 3.50–3.75%；②会后：'Hold My Beer——Warsh 认为市场在替联储干活,市场显然认为要干的活还多得多。交易员正在尽责：30Y 推上 5.2%。这不会有好结局'",
+          "important": false
+        },
+        {
+          "actor": "David Rosenberg",
+          "actor_type": "Analyst",
+          "text": "数据反驳加息叙事，用实时租金替换CPI后核心通胀仅1.4%",
+          "details": "数据反驳加息叙事：油价与工业品远离近高、美元强、工资零加速、需求增速失速至 1.5%、核心服务价格趋势良性减速、核心商品六个月零涨幅；用实时租金替换 CPI 住房分项后,核心通胀仅 1.4%——'有叙事,然后有事实。联储今天加息或认可两次加息预期,需要去检查脑子。WTI 还在 $100 上方吗?'；会后：Logan/Hammack/Kashkari 就是 4 月在 Powell 手下投反对票的同一批'三鹰帮','除了制造头条,零影响力'",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Goldman Sachs",
+        "JPMorgan",
+        "Nomura"
+      ],
+      "date": "2026-07-30"
+    },
+    {
+      "id": "kol-warsh-criticism",
+      "topic": "KOL批评Warsh",
+      "topic_tag": "fed",
+      "title": "市场人士猛批Warsh新闻发布会表现",
+      "summary": "多位KOL和分析师批评Warsh首场新闻发布会表现不佳，称其\"满嘴跑火车\"、\"毫无头绪\"。市场恐慌并非因Hold决定本身，而是对新主席能力的质疑，长端收益率飙升被视为债市对其表现的否决票。",
+      "bullets": [
+        {
+          "actor": "mark_dow",
+          "actor_type": "KOL",
+          "text": "'我们将交付价格稳定'这句话会埋葬他",
+          "details": "①'我们将交付价格稳定'这句话会埋葬他——联储对通胀没有那么大的控制力,Warsh 还没想明白这一点；②'满嘴 MBA/咨询腔'；两次提醒：对市场效率的过度信仰正是当年害了格林斯潘的东西；③会前：'今天加息是 Warsh 能买到的最便宜的信誉'→会后：'买信誉刚刚变贵了'；④历史仓位(4月旧帖被回补入库)：'认为 Warsh 缩表能压通胀或资产价格,是过去 20 年跟踪货币政策的人能想出的最荒谬命题'——GFC 后大扩表没造出通胀,2023 缩表以来标普创了上百次新高；准备金只对银行结算重要",
+          "important": true
+        },
+        {
+          "actor": "INArteCarloDoss",
+          "actor_type": "KOL",
+          "text": "市场恐慌因Warsh表现毫无头绪，长端是债市否决票",
+          "details": "'重复一遍：这场恐慌与 Hold 无关(FFF 曲线基本已定价)——市场恐慌是因为 Warsh 表现得毫无头绪、能力不足,这比单次决定严重得多'、'长端倒灌是债市对他 presser 表现的否决票……新主席展示出如此低的智识水平,很吓人'",
+          "important": false
+        },
+        {
+          "actor": "perkins",
+          "actor_type": "KOL",
+          "text": "人们不爽是因为他满嘴跑火车",
+          "details": "'人们不爽不是因为他没加息,是因为他满嘴跑火车(full of shit)'、'他怎么填满 45 分钟?现在知道了：靠讲彻底的废话'",
+          "important": false
+        },
+        {
+          "actor": "Dayan",
+          "actor_type": "KOL",
+          "text": "没有记者会好过胡言乱语的记者会",
+          "details": "'没有记者会 > 胡言乱语的记者会'；blackout 到周五才结束、6 周才有下次会议、三张异议票且其他人可能觉得今天是灾难——'信誉担忧的糟糕 setup,讲话会很乱,他们可能不想给他背书'",
+          "important": false
+        },
+        {
+          "actor": "mtkonczal",
+          "actor_type": "KOL",
+          "text": "这场presser是'我见过最律师脑的东西'",
+          "details": "曾嘲讽'法学院经济学'的经济学家们给 Warsh 点过赞,而这场 presser 是'我见过最律师脑的东西'(Powell 是律师,反而不律师脑)；Warsh 模糊性的三种可能：想紧 FCI 但怕 Trump 下狱、想要对冲基金重回宏观大赌注时代、想毁掉 SEP 因为它'woke'",
+          "important": false
+        },
+        {
+          "actor": "greg_ip",
+          "actor_type": "KOL",
+          "text": "收益率下行或上行都能自圆其说，框架不能两头都对",
+          "details": "月初 Sintra 上 Warsh 以收益率下行为安慰(债市懂低通胀将至),今天又以收益率上行为安慰(它们会交付低通胀)——同一框架不能两头都对",
+          "important": false
+        },
+        {
+          "actor": "josephwang",
+          "actor_type": "KOL",
+          "text": "30年期不喜欢有秘密通胀目标的联储主席",
+          "details": "'Kevin \"不完全亮出底牌\"、不肯说他怎么衡量通胀——30 年期不喜欢有秘密通胀目标的联储主席'；被问不伤就业降通胀的机制,'给了一段长长的词语沙拉'",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-30"
+    },
+    {
+      "id": "korea-leverage-etf-crash",
+      "topic": "韩国杠杆ETF崩盘",
+      "topic_tag": "macro-other",
+      "title": "韩国市场杠杆ETF引爆剧烈去杠杆，KOSPI自高点跌近40%",
+      "summary": "韩国KOSPI指数自6月22日高点累计下跌近40%，杠杆ETF放大波动。SK海力士杠杆ETF资产约$19B是日均成交额的4倍，三星对应约$12.4B。JPM判断杠杆ETF去杠杆已基本完成，对冲基金去杠杆进度约90%。韩国监管继续限制杠杆，未启动平准基金。",
+      "bullets": [
+        {
+          "actor": "JPMorgan",
+          "actor_type": "Analyst",
+          "text": "KOSPI自6月高点跌近40%，杠杆ETF去杠杆基本完成",
+          "details": "自6月中旬以来，韩国市场经历了剧烈去杠杆，KOSPI指数从6月22日高点已累计下跌近40%，波动极大。最初由基本面担忧和轮动资金触发，后被杠杆ETF放大，近期更明显呈现对冲基金仓位平仓特征。最新判断：杠杆ETF去杠杆已基本完成；对冲基金去杠杆进度约90%（均已降至可接受水平）",
+          "important": true
+        },
+        {
+          "actor": "Kobeissi/BurggrabenH",
+          "actor_type": "KOL",
+          "text": "SK海力士杠杆ETF资产$19B是日均成交额的4倍",
+          "details": "杠杆存量的惊人比例：追踪 SK 海力士的杠杆与反向 ETF 总资产约 $19B,是该股日均成交额($4.5B)的 4 倍；三星对应杠杆 ETF 资产约 $12.4B——ETF 尾巴大于狗身",
+          "important": false
+        },
+        {
+          "actor": "cis",
+          "actor_type": "KOL",
+          "text": "韩国指数异常下跌是对中国半导体项目的提前抛售",
+          "details": "①我认为 7 月以来韩国指数的异常下跌,是以 ETF 杠杆监管为伪装的、对中国半导体建设项目的提前抛售——所以我看好做空(卖出)；个人投资者在kioxia 80,000 一路下跌中每周大量接盘,'贝恩和 SK 那场短命的 30 倍拉高出货,最终变成向美国和韩国献上数万亿的\"贡品\"'",
+          "important": false
+        },
+        {
+          "actor": "ChinaMacroFacts",
+          "actor_type": "KOL",
+          "text": "韩国监管继续限制杠杆，未启动平准基金",
+          "details": "①'韩国这轮股灾,参考 2015 年 8 月(A股杠杆牛)足矣——若不救市,直接类比 15 年 8 月见底；若救市反而拉长。长期走势只跟基本面有关,15 年是主要市场中唯一因杠杆爆掉的大牛市,纯资金游戏'；②纠偏中文媒体：昨日韩国监管紧急会议完全没有救市意味——继续限制杠杆 ETF、提高散户交易成本,总统幕僚长明言'未到启动平准基金之时'；'韩国按兵不动甚至继续给杠杆抽水,对其他市场不是坏事——这轮杠杆牛很快出清,甚至没观察到系统性风险苗头'",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "JPMorgan"
+      ],
+      "date": "2026-07-30"
+    },
+    {
+      "id": "semi-ai-speedbump",
+      "topic": "半导体/AI板块回调",
+      "topic_tag": "ai",
+      "title": "半导体板块剧烈回调，SOX自动能顶跌28.6%",
+      "summary": "自6月22日动能顶以来，SOX跌28.6%、大摩动能指数跌38%、动能TMT指数跌53.5%，个别口径月度烈度史无前例。Niles认为这是speedbump而非周期终结，散户与杠杆对冲基金强平加速清洗，技术性底部或已出现。Agentic AI token需求是chat的10-100x。",
+      "bullets": [
+        {
+          "actor": "Niles",
+          "actor_type": "Analyst",
+          "text": "SOX自6月22日跌28.6%，动能TMT指数跌53.5%",
+          "details": "技术面：过去两周散户与杠杆对冲基金的强平'加速了清洗',prime broker 不想再来一次 Archegos——'技术性底部'；自 6月22日 动能顶：SPX 仅 -2.1%、纳指 -6.6%,但 SOX -28.6%、大摩动能指数 -38.0%、动能 TMT 指数 -53.5%——个别口径的月度烈度史无前例",
+          "important": true
+        },
+        {
+          "actor": "Niles",
+          "actor_type": "Analyst",
+          "text": "这是speedbump，1995/1997年半导体曾回撤50%+后大涨",
+          "details": "立场不变：这是 6月20日 以来一直说的 'speedbump'——但 speedbump 可以很丑：1995 与 1997 年半导体指数都曾回撤 50%+,而 1994 底到 2000 年 3 月顶指数仍涨约 850%；与当年不同：95 年是 Win95 不及预期+DRAM 库存(Intel 减记 $1B),97 年是亚洲金融危机压需求——今天资产负债表上没有超额存储库存,战争也未见压制终端需求",
+          "important": false
+        },
+        {
+          "actor": "Niles",
+          "actor_type": "Analyst",
+          "text": "Agentic AI token需求是chat的10-100x",
+          "details": "1月30日 OpenClaw 定型开启 Agentic AI,token 需求是 chat 的 10–100x；头部 1% 公司在做 token 最小化(其 speedbump 担忧的主因),但其余 99% 仍在放量；结论：'今天可能至少见到了短期底部,前方是受灾板块的强反弹——时间会证明'",
+          "important": false
+        },
+        {
+          "actor": "RealSimpleAriel",
+          "actor_type": "KOL",
+          "text": "MU仅5x前瞻PE，$770低点未失守",
+          "details": "①7/29 复盘'Warshed out'：SPY/QQQ/IWM 决定性下破；SNOW/DDOG 仍是软件领导；RSP 终于让位=全场皆弱；XBI/XLF 受罚,GS 远低于 50 日线、JPM 性格微变；'不急于加空也不急于抄底,存储或做均值回归但不与横盘的票较劲'；②盘中：'忘了说 MU 只有 5x 前瞻 PE——\"世代级反弹机会\"的基本面'(自嘲式)；MU $770 低点未失守；③'22 天来第一笔做多尝试(MU),市场立刻给了我反馈'(亏)；④纪律输出：激进就空反弹而非追杀连跌 3–5 天的票——让均值回归替你干活,等超卖反抽进下行均线再定义风险；'Martha Stewart 联合创办 AI 家居助手——我们在周期的哪一段?!'；对 SNDK 散户举报截图：'他没提同月还有 150 只票跌了 25%+——人们忘了股票也会跌吗?'",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "蒸馏结果可能是不加大capex也未必被淘汰",
+          "details": "①'Warsh 利率政策之我见,一字真经——拖。反正过俩月,core CPI 必掉'；②对'奶妈若跌、O 社与 A 社又不能上市、不加大 capex 又被淘汰,错在存储太贵?'的回应：'蒸馏的结果可能是：不加大 capex 也未必会被淘汰'；③'Lisa 是我的真神'(随后更正'打错了 是周老板')",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MU",
+        "SNOW",
+        "DDOG"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-07-30"
+    },
+    {
+      "id": "situational-awareness-fund",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "AI基金Situational Awareness使用杠杆后暴跌50%",
+      "summary": "FT报道AI概念基金Situational Awareness使用借贷资金放大投资回报，因近期AI概念股暴跌，基金自高点下跌50%、YTD跌30%，已开始向投资者寻求募集新资金。",
+      "bullets": [
+        {
+          "actor": "FT",
+          "actor_type": "新闻",
+          "text": "AI基金Situational Awareness用杠杆放大回报，高点-50%",
+          "details": "FT报道Situational Awareness使用了借贷资金，来放大投资回报，由于最近 AI 概念股暴跌，他已开始向投资者寻求募集新资金，基金高点-50%，YTD-30%",
+          "important": true
+        },
+        {
+          "actor": "RealSimpleAriel",
+          "actor_type": "KOL",
+          "text": "Martha Stewart联合创办AI家居助手——周期哪一段？",
+          "details": "'Martha Stewart 联合创办 AI 家居助手——我们在周期的哪一段?!'",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "FT"
+      ],
+      "date": "2026-07-30"
+    }
+  ]
+}
