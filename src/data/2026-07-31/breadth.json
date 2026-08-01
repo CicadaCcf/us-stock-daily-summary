@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-07-31T21:32:28+00:00",
+  "source": "polygon.io + yahoo",
+  "ref_date": "2026-07-31",
+  "universe_size": 12211,
+  "advancers": 5574,
+  "decliners": 6280,
+  "unchanged": 357,
+  "adUpPct": 45.6,
+  "adDownPct": 51.4,
+  "adUncPct": 2.9,
+  "volUpPct": 53.2,
+  "volDownPct": 46.8,
+  "vix": 15.99,
+  "new52wHigh": 335,
+  "new52wLow": 437,
+  "new52wApprox": false,
+  "pctAbove50dma": 45.1,
+  "pctAbove200dma": 53.9,
+  "putCall": 0.82
+}

@@ -1,0 +1,486 @@
+{
+  "topics": [
+    {
+      "id": "fed-hawkish-dissent-jul30",
+      "topic": "美联储鹰派分歧",
+      "topic_tag": "fed",
+      "title": "FOMC三票反对者发表鹰派加息言论",
+      "summary": "美联储7月FOMC以9-3投票维持利率，三位反对者Logan、Hammack、Kashkari发表鹰派言论，均倾向于近期加息以应对持续高通胀。Logan指出通胀趋向2.5%且有上行风险，Hammack认为当前政策不够紧缩，Kashkari倾向逐步收紧。",
+      "bullets": [
+        {
+          "actor": "Logan",
+          "actor_type": "Central-Bank",
+          "text": "倾向近期加息以避免未来更严重加息",
+          "details": "倾向于在近期加息（Inclined to raise interest rates）以避免未来更严重的加息；通胀不太可能持续回到2%目标，目前趋向2.5%左右区间，但有上行风险；不能指望意外冲击来压低通胀，需要主动政策行动；劳动力市场稳健甚至略强，消费和支出仍强劲，支持加息",
+          "important": true
+        },
+        {
+          "actor": "Hammack",
+          "actor_type": "Central-Bank",
+          "text": "当前政策不够紧缩，现在是进一步收紧时机",
+          "details": "通胀压力不仅来自供给端，需求端也有贡献；通胀持续高企的时间越长，后续降息成本越高；当前政策立场不够紧缩，通胀已经太高太久，现在是进一步收紧的时机",
+          "important": false
+        },
+        {
+          "actor": "Kashkari",
+          "actor_type": "Central-Bank",
+          "text": "通胀问题更紧迫，倾向逐步收紧政策",
+          "details": "通胀问题比劳动力市场更紧迫，更倾向于逐步收紧政策（prefer gradual tightening），小幅加息可以控制风险，同时保留暂停空间",
+          "important": false
+        },
+        {
+          "actor": "JPM Rates",
+          "actor_type": "Analyst",
+          "text": "7月FOMC 9-3维持利率，判断今年不会加息但9月是可能选项",
+          "details": "7月FOMC以9-3投票维持利率在3.50%-3.75%，三位官员反对加息25bps。主席Warsh继续强硬抗通胀，但对AI投资周期乐观。历史显示高通胀时内部分歧大，作者判断今年不会加息，但9月加息是可能选项，不会形成长期加息周期",
+          "important": false
+        },
+        {
+          "actor": "JPM Luis Oganes",
+          "actor_type": "Analyst",
+          "text": "美联储政策转向鹰派，预计2026年12月加息",
+          "details": "美联储政策转向鹰派，预计2026年12月加息，而非此前预期的2027Q3",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "JPM"
+      ],
+      "date": "2026-07-31",
+      "image_urls": []
+    },
+    {
+      "id": "warsh-communication-criticism-jul30",
+      "topic": "Warsh沟通风格争议",
+      "topic_tag": "fed",
+      "title": "Warsh前瞻指引策略引发市场与KOL批评",
+      "summary": "主席Warsh在FOMC后暗示可能调整通胀目标指标，引发市场担忧。JPM Feroli称其言论似乎是把通胀挑战重新定义掉的掩护。多位KOL批评Warsh未能有效塑造叙事，减少前瞻指引模糊了反应函数并推高风险溢价。",
+      "bullets": [
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "KOL",
+          "text": "Warsh暗示通胀指标可能改变，JPM称是重新定义通胀的掩护",
+          "details": "周三被问依据哪个通胀指标时，Warsh先给了\"恰当的标准答案\"——PCE物价指数，随即补充：\"谁知道明年1月之后我们对策略会怎么说。我猜任务小组可能会有补充\"。摩根大通Feroli在客户报告中称，这番话\"似乎印证了一种怀疑：任务小组只是把通胀挑战重新定义掉的掩护\"",
+          "important": true
+        },
+        {
+          "actor": "James Bullard",
+          "actor_type": "Central-Bank",
+          "text": "30年期收益率走高对央行官员相当伤神",
+          "details": "\"我认为这轮抛售、30年期收益率走高，对一个央行官员来说是相当伤神的\"；并指出Warsh\"本应为9月创造更多可选性，而他在这方面做得很少\"",
+          "important": false
+        },
+        {
+          "actor": "Diane Swonk",
+          "actor_type": "KOL",
+          "text": "问题不在于开不开记者会，而在于不愿塑造叙事",
+          "details": "问题不在于开不开记者会，而在于开了却不愿塑造叙事。记者们来参加了一场主席本人并不情愿开的发布会。\"美联储的沟通通常是渐进的，不是革命性的。会场里的挫败感很明显\"。不想塑造叙事就别开发布会。要么就把辩论的光谱与联储的关注点讲得更清楚",
+          "important": false
+        },
+        {
+          "actor": "Claudia Sahm",
+          "actor_type": "KOL",
+          "text": "Warsh绕来绕去的回答引出更多信誉问题",
+          "details": "几周前我问：2% of what? 这周Warsh回答了：现在是PCE，但也许不会太久。他绕来绕去的回答引出了更多关于其信誉的问题，市场也同意。这只是Warsh的第二次会议，还有时间纠偏。他不断援引第一性原理，那就给一条：认定PCE、坚持它、兑现它",
+          "important": false
+        },
+        {
+          "actor": "WarrenPies",
+          "actor_type": "KOL",
+          "text": "Warsh未理解前瞻指引与解释反应函数的区别",
+          "details": "前瞻指引与解释反应函数是两回事，Warsh还没有表现出他理解这个区别。减少或取消前瞻指引会模糊反应函数，并把更高的风险溢价引入资产定价",
+          "important": false
+        },
+        {
+          "actor": "markminervini",
+          "actor_type": "KOL",
+          "text": "Warsh减少前瞻指引是回归常态，对主动投资者是好事",
+          "details": "Warsh减少前瞻指引不是激进背离，而是回到我职业生涯大部分时间里的常态，而这对主动投资者是好事。1994年2月前联储通常不在FOMC后立即公告，市场靠观察公开市场操作推断；1994年2月4日首次会后立即公告；2000年2月起每次会议都发声明；2000年代初开始拥抱前瞻指引；2008年后前瞻指引成为核心政策工具。透明度降低了不确定性、改善了政策传导，但政策提前披露得越多，信息就越早嵌进价格，市场更有效、意外更少、错误定价带来的机会更难找。信息从来不产生超额收益，洞察才会",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "JPM",
+        "Nick Timiraos"
+      ],
+      "date": "2026-07-31",
+      "image_urls": []
+    },
+    {
+      "id": "us-iran-mideast-crisis-jul30",
+      "topic": "美伊/中东危机",
+      "topic_tag": "geo",
+      "title": "美伊谈判僵局与哈马斯解武协议",
+      "summary": "Trump宣布与哈马斯达成协议要求其解除武装并移交加沙控制权。参议院否决限制对伊战争权决议。多家媒体报道美军内部对伊军事方案存在分歧，CIA与摩萨德搜捕伊朗新领袖，Trump对谈判僵局情绪失控。内塔尼亚胡与万斯举行闭门会谈。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "宣布与哈马斯达成协议，要求解除武装并移交加沙控制权",
+          "details": "周四宣布，其\"和平委员会\"已与哈马斯达成协议，要求哈马斯解除武装，并将加沙的民事与安全控制权移交给一个新的巴勒斯坦技术官僚政府",
+          "important": true
+        },
+        {
+          "actor": "美国参议院",
+          "actor_type": "US-Congress",
+          "text": "以49-50否决限制对伊战争权决议",
+          "details": "参议院以49–50否决限制对伊战争权决议——共和党的Collins、Murkowski、Rand Paul倒戈支持",
+          "important": false
+        },
+        {
+          "actor": "半岛电视台",
+          "actor_type": "新闻",
+          "text": "报道美军内部出现\"两周计划\"瘫痪伊朗导弹能力方案分歧",
+          "details": "半岛电视台报道美军内部出现\"两周计划\"之争：一份旨在\"瘫痪伊朗导弹能力\"的方案在美军高层引发分歧，担忧导致无终点战争",
+          "important": false
+        },
+        {
+          "actor": "Times",
+          "actor_type": "新闻",
+          "text": "CIA与摩萨德正加紧搜捕伊朗新最高领袖",
+          "details": "Times报道CIA与摩萨德正加紧搜捕伊朗新最高领袖穆杰塔巴·哈梅内伊",
+          "important": false
+        },
+        {
+          "actor": "NBC",
+          "actor_type": "新闻",
+          "text": "Trump在安全会议上因谈判无进展情绪失控",
+          "details": "NBC新闻报道，特朗普在一次安全会议上情绪失控，因所看到的军事方案以及与伊朗的谈判毫无进展而怒不可遏，不断大喊大叫并出言辱骂，\"开战六个月，特朗普对对伊战争愈发沮丧\"",
+          "important": false
+        },
+        {
+          "actor": "AXIOS",
+          "actor_type": "新闻",
+          "text": "内塔尼亚胡与万斯在华盛顿举行闭门会谈",
+          "details": "AXIOS报道2026年7月29日（周二）晚，以色列总理本雅明·内塔尼亚胡与美国副总统JD·万斯在华盛顿布莱尔宫举行一对一闭门会谈，旨在当面解决双方近期不断升温的矛盾",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "半岛电视台",
+        "Times",
+        "NBC",
+        "AXIOS"
+      ],
+      "date": "2026-07-31",
+      "image_urls": []
+    },
+    {
+      "id": "salp-liquidation-jul30",
+      "topic": "SALP清仓事件",
+      "topic_tag": "ai",
+      "title": "Leopold Aschenbrenner基金巨亏清仓，疑为市场底部信号",
+      "summary": "前OpenAI研究员Leopold Aschenbrenner创立的Situational Awareness基金在AI股抛售中巨亏，净值从$45B降至$10B（-77%），已清空全部公开股票持仓，大部分卖给Citadel。多位KOL认为强制清算通常标记近期底部，昨日尾盘抛售或为该基金所致。",
+      "bullets": [
+        {
+          "actor": "pequityresearch",
+          "actor_type": "KOL",
+          "text": "SALP净值从$45B降至$10B（-77%），清仓卖给Citadel",
+          "details": "Situational Awareness（SALP，前OpenAI研究员Leopold Aschenbrenner创立）在AI股抛售中巨亏后，已清空全部公开股票持仓，大部分卖给Citadel。pequityresearch称净值自$45B降至$10B（-77%）",
+          "important": true
+        },
+        {
+          "actor": "DanielTNiles",
+          "actor_type": "KOL",
+          "text": "强制清算通常标记近期历史底部，昨日就是那个底",
+          "details": "强制清算通常标记近期历史底部，昨日就是那个底。过度杠杆导致的强制清算通常标记近期历史底部。Situational Awareness峰值约4倍杠杆、超$20B资产，现已清盘；\"我听说至少还有另外3家基金有麻烦，今天的反弹可能已经解决了它们的问题\"。基础判断不变：仍处在Agentic AI采用的早期，1月以来token需求相对聊天式AI增加10–100倍",
+          "important": false
+        },
+        {
+          "actor": "TheOneLanceB",
+          "actor_type": "KOL",
+          "text": "Citadel伪造加息报告逼清算的阴谋论是愚蠢的",
+          "details": "Citadel伪造加息报告以制造压力、逼Leopold把资产清算给自己——这个网上流行的看法是愚蠢的，和大多数阴谋论一样。SALP清空全部公开仓位，很可能就是昨日尾盘那波抛售的原因；而最后一个强制卖家出清，正是今天反弹的原因",
+          "important": false
+        },
+        {
+          "actor": "TheShortBear",
+          "actor_type": "KOL",
+          "text": "复刻Citadel组合今日一天赚约$1B",
+          "details": "按最新13F复刻其组合（覆盖93.25%持仓），若原样持有，今日一天为Citadel赚约$1B——且这还不含杠杆、不含接手的私募股权。类比Enron——\"Kenny当年也是这么干的：人到现场，找到alpha，据为己有\"，当时他把整个研究团队挖了过来，多年下来赚了约$30B。首家公开谈论可能加息的大公司（指Citadel Securities）→市场恐慌→Leopold被追保→随后被全部买走；而且清算发生在他婚礼当天",
+          "important": false
+        },
+        {
+          "actor": "Linda Raschke",
+          "actor_type": "KOL",
+          "text": "杠杆过高投资者被迫退出或为市场底部信号",
+          "details": "AI investor Leopold Aschenbrenner因巨额亏损而被迫抛售所有公开持有的股票，这或许是市场底部的信号。奇怪的是，每当市场走势出现反转之前，那些杠杆率过高的投资者总是会先被迫退出市场",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-07-31",
+      "image_urls": []
+    },
+    {
+      "id": "ai-pricing-war-jul30",
+      "topic": "AI定价战",
+      "topic_tag": "ai",
+      "title": "OpenAI大幅降价引发AI行业定价战担忧",
+      "summary": "OpenAI将Luna从$1/$6降价80%至$0.2/$1.20，目标碾压中国玩家。KOL担忧Anthropic算力与资金不足难以跟进，开源模型同时抢用户和供应。有观点认为AI基建与90年代互联网热潮财务基础根本不同。",
+      "bullets": [
+        {
+          "actor": "brandonjcarl",
+          "actor_type": "KOL",
+          "text": "OpenAI用降价占据帕累托前沿，Luna降价80%",
+          "details": "OpenAI在用降价占据帕累托前沿，这是我一个月前就说过的好策略。在降价80%之前，Luna由于token效率就已经比开放权重模型便宜；现在这根本不用想。配套判断：\"我们正从'一个模型'转向'一组模型的组合'\"",
+          "important": true
+        },
+        {
+          "actor": "tleilax",
+          "actor_type": "KOL",
+          "text": "OpenAI五倍降价目标碾压中国玩家",
+          "details": "\"跟中国人打价格战，就像跟爱尔兰橄榄球队比拼喝啤酒\"。所引原帖的判断：OpenAI把Luna从$1/$6降到$0.2/$1.20，五倍降价，目标是碾压中国玩家，还没有冲着Anthropic的利润率去",
+          "important": false
+        },
+        {
+          "actor": "ShanghaoJin",
+          "actor_type": "KOL",
+          "text": "严重担忧Anthropic会被打残，算力资金不足",
+          "details": "严重担忧Anthropic会被打残。OAI能加入降价是因为融资后钱多、锁定了更多算力。Anth没算力、不够钱怎么跟？开源模型还釜底抽薪，抢用户同时抢供应。ROI超过1的云厂想自卖token，可能不再愿意增加Anth算力",
+          "important": false
+        },
+        {
+          "actor": "markminervini",
+          "actor_type": "KOL",
+          "text": "AI基建与90年代互联网热潮财务基础根本不同",
+          "details": "AI基建与1990年代末互联网热潮的相似之处仅止于表面，财务基础从根本上更强。两个时代都有对数字基础设施的大规模投资；但今天的hyperscaler（亚马逊、微软、Alphabet、Meta）激进支出所依托的财务基础，比互联网泡沫破裂前那场靠债务驱动的电信扩张要坚实得多",
+          "important": false
+        },
+        {
+          "actor": "JPM Luis Oganes",
+          "actor_type": "Analyst",
+          "text": "Hyperscalers资本支出对标普500收益贡献将从10%升至54%",
+          "details": "Hyperscalers的资本支出正在推动半导体和上游基础设施公司的收益增长，预计这些公司对标普500指数收益增长的贡献将从2023年的10%上升至2026年的54%。尽管债务发行增加导致利差走阔，但这主要反映供应增加而非偿债能力问题",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MSFT",
+        "AMZN",
+        "GOOGL",
+        "META"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "JPM"
+      ],
+      "date": "2026-07-31",
+      "image_urls": []
+    },
+    {
+      "id": "japan-yen-intervention-jul30",
+      "topic": "日元干预",
+      "topic_tag": "rates",
+      "title": "日本财务省疑似干预日元，持续性存疑",
+      "summary": "日本财务省疑似于7月30日进行日元买入干预，美元/日元短暂跌破158。JPM指出今年累计干预可能已超15T日元接近上限，预计一个月左右恢复干预前水平。KOL质疑没有后续加息支撑的干预是烧钱烧信誉。",
+      "bullets": [
+        {
+          "actor": "JPM JP",
+          "actor_type": "Analyst",
+          "text": "日本疑似干预，累计规模可能已超15T日元接近上限",
+          "details": "日本财务省疑似于7月30日进行日元买入干预，美元/日元短暂跌破158。鉴于今年累计干预规模可能已超15T日元，接近当局承受上限，未来大规模干预可能性低。预计汇率走势将类似今年4-5月，在一个月左右恢复至干预前水平，日元结构性走弱难逆转",
+          "important": true
+        },
+        {
+          "actor": "El-Erian",
+          "actor_type": "KOL",
+          "text": "为什么当局花了这么久才干预？能否持续？",
+          "details": "关于JPY干预的两个追问：为什么当局花了这么久才干预？更重要的是，这会不会有能够持续对抗货币再度走弱的政策行动来支撑？",
+          "important": false
+        },
+        {
+          "actor": "acrossthespread",
+          "actor_type": "KOL",
+          "text": "没有后续加息的干预把钱和信誉一起烧掉了",
+          "details": "没有后续加息的干预，把钱和信誉一起烧掉了。MOF是在利用Warsh之后、植田之前这段美日\"信誉利差\"收窄的窗口动手；目标是把USDJPY明确压回160下方。并指出至少要到158才能触发市场自发的空头回补",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "JPM"
+      ],
+      "date": "2026-07-31",
+      "image_urls": []
+    },
+    {
+      "id": "korea-market-policy-jul30",
+      "topic": "韩国市场与政策",
+      "topic_tag": "policy",
+      "title": "韩国限制杠杆ETF并注资主权财富基金",
+      "summary": "韩国计划向主权财富基金注资约$14B用于AI数据中心投资。交易所评估临时禁止做空与收紧涨跌幅限制的技术可行性。监管会议继续限制杠杆ETF、提高散户交易成本，7月31日外资净买入7.2T韩元创历史纪录。",
+      "bullets": [
+        {
+          "actor": "韩国政府",
+          "actor_type": "Foreign-Gov",
+          "text": "计划向主权财富基金注资$14B用于AI数据中心投资",
+          "details": "韩国计划向其主权财富基金注资约$14B，用于AI数据中心与基础设施的战略投资",
+          "important": true
+        },
+        {
+          "actor": "韩国交易所",
+          "actor_type": "Foreign-Gov",
+          "text": "评估临时禁止做空与收紧涨跌幅限制的技术可行性",
+          "details": "韩国交易所已评估临时禁止做空与收紧每日涨跌幅限制的技术可行性；官方称尚未决定，属应急预案",
+          "important": false
+        },
+        {
+          "actor": "ChinaMacroFacts",
+          "actor_type": "KOL",
+          "text": "韩国监管会议继续限制杠杆而非救市",
+          "details": "昨日监管紧急会议完全没有救市意味，中文媒体的\"救市\"标题是误读。会议内容是继续限制杠杆ETF、提高散户交易成本；总统幕僚长明言未到启动平准基金之时。韩国按兵不动甚至继续给杠杆抽水不是坏事——这轮杠杆牛很快出清，甚至没观察到系统性风险苗头。韩国这轮股灾参考2015年8月（A股杠杆牛）足矣。不救市则直接类比15年8月见底，救市反而拉长。长期走势只跟基本面有关，15年是主要市场中唯一因杠杆爆掉的大牛市，纯资金游戏",
+          "important": false
+        },
+        {
+          "actor": "Citi KR",
+          "actor_type": "Analyst",
+          "text": "维持KOSPI目标10000点，7月31日外资净买入7.2T韩元创纪录",
+          "details": "维持KOSPI目标10,000点。7月31日外资净买入7.2T韩元创历史纪录，月度净抛售大幅收窄至9.8T韩元。监管收紧杠杆ETF准入，预计降低市场波动。韩国养老金7月净买入1.0T韩元，抵消NPS再平衡担忧。存储器基本面强劲及低估值提供支撑",
+          "important": false
+        },
+        {
+          "actor": "SK集团会长崔泰源",
+          "actor_type": "Corporate",
+          "text": "二级市场买入SK海力士3620股约$3.33M",
+          "details": "SK集团会长崔泰源在二级市场买入SK海力士3,620股，金额47.85亿韩元（约$3.33M）",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Citi"
+      ],
+      "date": "2026-07-31",
+      "image_urls": []
+    },
+    {
+      "id": "gold-outlook-jul30",
+      "topic": "黄金展望",
+      "topic_tag": "macro-other",
+      "title": "JPM预计黄金短期受压但长期看涨至$5000",
+      "summary": "JPM Luis Oganes预计美联储鹰派立场与实物需求冻结短期压制黄金，2026Q3均价$4300/oz，Q3目标$4500/oz。长期随着结构性央行购买和实物需求重新增强，2027年将回升至$5000/oz。",
+      "bullets": [
+        {
+          "actor": "JPM Luis Oganes",
+          "actor_type": "Analyst",
+          "text": "黄金短期受压，2027年预计回升至$5000/oz",
+          "details": "短期内，由于美联储维持鹰派立场以及实物需求的冻结，黄金价格受到压制，预计2026Q3平均价格为$4,300/oz，Q3为$4500/oz。然而，长期来看，随着结构性央行购买和实物需求的重新增强，预计2027年黄金价格将回升至$5000/oz",
+          "important": true
+        },
+        {
+          "actor": "GS Hui Shan",
+          "actor_type": "Analyst",
+          "text": "中国经济面临下行压力，决策层正处放松窗口期",
+          "details": "当前中国经济面临下行压力，科技行业增长放缓与出口动能减弱共同构成了政策调整的宏观背景。鉴于内部增长动力的分化以及外部环境的复杂性，决策层正处于一个关键的放松窗口期，需要采取更积极的财政和货币政策来稳定经济增长预期",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "JPM",
+        "GS"
+      ],
+      "date": "2026-07-31",
+      "image_urls": []
+    },
+    {
+      "id": "market-trading-views-jul30",
+      "topic": "市场交易观点",
+      "topic_tag": "macro-other",
+      "title": "KOL与分析师对市场反弹与个股观点",
+      "summary": "KOL对市场反弹看法分歧，bboczeng认为高IV反弹是假反弹。Jim Cramer看好亚马逊电话会，认为苹果问题在内存和汇率但股价已冲不动。历史数据显示中期选举后9个月标普500必涨。",
+      "bullets": [
+        {
+          "actor": "bboczeng",
+          "actor_type": "KOL",
+          "text": "高IV反弹是假反弹，8月肯定继续跌",
+          "details": "IV这么高的反弹是假反弹，今天追的人一点教训都没学会。8月肯定要继续跌",
+          "important": true
+        },
+        {
+          "actor": "Jim Cramer",
+          "actor_type": "KOL",
+          "text": "苹果问题在内存和汇率，亚马逊看起来惊人",
+          "details": "苹果的问题全在内存和汇率，继续持有。非常喜欢亚马逊那场电话会；亚马逊看起来惊人。苹果的股价已经涨太多、冲不动了。微软仍是主角",
+          "important": false
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "二战以来每次中期选举后9个月标普500必涨",
+          "details": "Figure 1显示二战以来中期选举后标普500平均表现，注释指出\"In every midterm election since WWII, the S&P 500 is higher after 9 months\"，选举后730天平均涨至约125（基准100）",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "AAPL",
+        "AMZN",
+        "MSFT"
+      ],
+      "image_indexes": [
+        0
+      ],
+      "importance": 1,
+      "sources": [
+        "Deutsche Bank"
+      ],
+      "date": "2026-07-31",
+      "image_urls": [
+        "/uploads/2026-07-31/e8870e74d048.png"
+      ]
+    },
+    {
+      "id": "other-news-jul30",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "特斯拉中国业务剥离传闻与其他新闻",
+      "summary": "WSJ报道特斯拉高管被告知为与SpaceX合并前剥离中国业务做准备，Musk随后辟谣。",
+      "bullets": [
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "特斯拉高管被告知准备剥离中国业务，Musk辟谣",
+          "details": "WSJ爆料，一些特斯拉高管已被告知要为公司与SpaceX可能合并前剥离中国业务做好准备，Musk随后辟谣",
+          "important": true
+        },
+        {
+          "actor": "韩国政府",
+          "actor_type": "Foreign-Gov",
+          "text": "韩国交易所评估临时禁止做空属应急预案",
+          "details": "韩国交易所已评估临时禁止做空与收紧每日涨跌幅限制的技术可行性；官方称尚未决定，属应急预案",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TSLA"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-07-31",
+      "image_urls": []
+    }
+  ]
+}
