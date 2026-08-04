@@ -1,0 +1,571 @@
+{
+  "topics": [
+    {
+      "id": "fed-policy-warsh-jul26",
+      "topic": "美联储政策与沃什表态",
+      "topic_tag": "fed",
+      "title": "沃什考虑减少FOMC会议次数，多位联储官员发声",
+      "summary": "据报道美联储主席沃什正考虑减少年度政策会议次数，引发市场对联储反应函数的重新解读。Williams和Cook分别就通胀与就业风险发表看法，KOL与卖方就会议改制展开激烈讨论。",
+      "bullets": [
+        {
+          "actor": "Warsh",
+          "actor_type": "Central-Bank",
+          "text": "据报道正考虑减少年度FOMC会议次数",
+          "details": "据报道Warsh正在考虑减少年度政策会议的次数。7月FOMC打乱了市场对\"Warsh联储\"的认知框架，Warsh暗示美联储\"部分退出对市场利率的引导\"，并示意收益率上行可以替代一次加息，短期内长端不稳定风险上升。",
+          "important": true
+        },
+        {
+          "actor": "Williams",
+          "actor_type": "Central-Bank",
+          "text": "预计下半年及明年通胀将下降，中东冲突不会引发通胀压力",
+          "details": "预计下半年通胀水平将会下降，明年将进一步走低，称曾推高通胀的一些主要因素……如今的影响力已大为减弱，预计中东冲突不会继续引发通胀压力。如果经济走势无法使通胀水平回落至2%以下，那么采取相应行动无疑是恰当之举。",
+          "important": false
+        },
+        {
+          "actor": "Cook",
+          "actor_type": "Central-Bank",
+          "text": "通胀风险已超过就业风险，支持维持利率不变",
+          "details": "通胀风险已超过就业风险。6月通胀同比上涨3.7%，较2%目标高1.7%；失业率4.2%显示就业市场稳定。2025年GDP增长2.0%，2026年预测2.2%。她支持维持利率不变，但若通胀未见回落，将采取行动实现2%目标。",
+          "important": false
+        },
+        {
+          "actor": "josephwang",
+          "actor_type": "KOL",
+          "text": "讥讽：如果Kevin说话少一点，对联储的信心也许会上升",
+          "details": "联储沟通改制的反应——josephwang(讥讽):如果Kevin说话少一点，对联储的信心也许会上升",
+          "important": false
+        },
+        {
+          "actor": "ernietedeschi",
+          "actor_type": "KOL",
+          "text": "临时会议因罕见，可能同时缓解和制造市场焦虑",
+          "details": "ernietedeschi(实质反驳):对\"有经济紧急情况时总可以开临时会议\"的回应——问题在于临时会议非常罕见，恰恰因为罕见，它在缓解市场焦虑的同时也可能制造焦虑",
+          "important": false
+        },
+        {
+          "actor": "nickgiva1",
+          "actor_type": "KOL",
+          "text": "减少会议将改变SOFR与债券期权卖方模型",
+          "details": "nickgiva1(交易结构影响):这意味着利率变动会非常贴近数据点与事件。又一个周六夜大屠杀在路上?这会改变SOFR与债券的整个期权卖方模型",
+          "important": false
+        },
+        {
+          "actor": "macropotamus",
+          "actor_type": "KOL",
+          "text": "逻辑归谬：市场替联储干活又想少开会，为何还需要他们",
+          "details": "macropotamus(逻辑归谬):既然市场在替他们干活、他们又想少开会，那我们到底为什么还需要他们?",
+          "important": false
+        },
+        {
+          "actor": "TruthGundlach",
+          "actor_type": "KOL",
+          "text": "猜测或许减少记者会的愿望也是其中一部分",
+          "details": "TruthGundlach的关联猜测:\"或许减少记者会的愿望也是其中一部分\"",
+          "important": false
+        },
+        {
+          "actor": "mark_dow",
+          "actor_type": "KOL",
+          "text": "Warsh的含糊是特朗普任命者的通病，除非通胀救他",
+          "details": "Warsh的含糊不是策略，是每个特朗普任命者都会掉进的同一个陷阱，必须在措辞上玩花样、躲闪，试图找到一条在现实与不激怒特朗普之间的路，除非未来几个月的通胀数据把他救出来(完全有可能)，否则他很快会被迫做出选择。他在记者会上如此闪躲、又想少开几场，是因为他不想谈这张清单上的任何东西。",
+          "important": false
+        },
+        {
+          "actor": "SteveMatthews12",
+          "actor_type": "KOL",
+          "text": "Warsh在Sintra称赞收益率下行有信誉，与现在矛盾",
+          "details": "SteveMatthews12: Warsh或许希望更紧的金融条件替联储干活\"这个解释说得通，但和他在Sintra说的正好相反，在Sintra他称赞收益率下行是联储在通胀上有信誉的证据。两者很难调和。",
+          "important": false
+        },
+        {
+          "actor": "MS",
+          "actor_type": "Analyst",
+          "text": "认为FOMC成员将强烈反对减少会议，调整最早2027年生效",
+          "details": "针对美联储主席沃什拟减少FOMC会议次数的报道，MS认为FOMC成员将强烈反对。目前美联储每年召开8次会议，法定最低为4次。减少会议虽符合沃什避免\"微调\"的偏好，但可能导致致政策滞后。任何调整最早将于2027年生效，今年日程不变。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "Bloomberg",
+        "Apollo",
+        "MS"
+      ],
+      "date": "2026-08-03",
+      "image_urls": [
+        "/uploads/2026-08-03/9a486db2943b.png"
+      ]
+    },
+    {
+      "id": "usdjpy-intervention-jul26",
+      "topic": "美日联合干预日元",
+      "topic_tag": "rates",
+      "title": "美财政部通过GS/MS卖欧元买日元干预汇市",
+      "summary": "美国财政部通过高盛和摩根士丹利代为出售欧元购入日元，贝森特便签显示计划买入50-100亿美元日元。日本财务省声明有多种工具应对流动性需求，包括使用美联储FIMA回购便利。KOL热议干预效果与策略。",
+      "bullets": [
+        {
+          "actor": "美国财政部",
+          "actor_type": "US-Executive",
+          "text": "通过GS和MS代为出售欧元购入日元",
+          "details": "NY Fed通过GS和MS，代表财政部出售欧元并购入日元。BBG报道美国财政部正在考虑在回购市场中运用TGA资金。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "称美国政府干预介入了日元汇率，美日关系很好",
+          "details": "美国政府干预介入了日元汇率，美国跟日本关系很好",
+          "important": false
+        },
+        {
+          "actor": "日本财务省",
+          "actor_type": "Foreign-Gov",
+          "text": "声明拥有广泛工具应对市场流动性，包括FIMA回购便利",
+          "details": "日本财务省官方声明：我们拥有广泛的工具来应对市场流动性需求。这些工具包括在适当情况下使用美联储的常设外国与国际货币当局(FIMA)回购便利，该便利可以以美国国债为抵押提供临时的美元流动性。我们随时准备在必要时动用可用工具以支持市场有序运行。",
+          "important": false
+        },
+        {
+          "actor": "贝森特",
+          "actor_type": "US-Executive",
+          "text": "便签写着\"To Do Buy Japanese Yen $5-10 bil\"",
+          "details": "贝森特便签照片写着\"To Do Buy Japanese Yen $5-10 bil\"",
+          "important": false
+        },
+        {
+          "actor": "Karl_Schamotta",
+          "actor_type": "KOL",
+          "text": "便签写购买金额显然是在传递信号",
+          "details": "Karl_Schamotta: 他给自己写了一张提醒去干预汇市、连购买金额都写上了，显然是在传递信号",
+          "important": false
+        },
+        {
+          "actor": "GavinSBaker",
+          "actor_type": "KOL",
+          "text": "这比真的去买还有效，有人以为是意外而非刻意",
+          "details": "GavinSBaker: 喜欢有人以为这是意外而不是刻意为之。这比真的去买还有效",
+          "important": false
+        },
+        {
+          "actor": "macropotamus",
+          "actor_type": "KOL",
+          "text": "天才战术：让交易员抢跑拉宽点差，50-100亿在薄流动性有超额影响",
+          "details": "macropotamus补充战术逻辑: 这其实很天才，因为交易员和做市商会试图抢跑并提前拉宽点差，而那些流量可能来、也可能不来，或者在系统性信号转空USDJPY与EURJPY的临界点才来，50–100亿的量在流动性薄的时段可能对价格有超额影响，而他们是在今天下午4点之后做的",
+          "important": false
+        },
+        {
+          "actor": "HedgieMarkets",
+          "actor_type": "KOL",
+          "text": "日本持有1.19万亿美债，美国选择卖欧元而非美元",
+          "details": "HedgieMarkets: 日本持有$1.19万亿美债，是全球最大的外国持有人。日元跌到这个位置时，日本会卖这些债券换美元来护盘，美国选择卖欧元而不是卖美元买日元，因为卖美元会削弱美元、与美国政策相悖。另一条路径日本可以使用美联储的FIMA回购便利，以其美债持仓抵押借入美元，而不是直接抛售。Bessent六个月前(1月)拒绝出手，周五通过高盛与摩根士丹利用欧元买了日元。",
+          "important": false
+        },
+        {
+          "actor": "TradetheMatrix",
+          "actor_type": "KOL",
+          "text": "干预不会有用，和过去15次一样，USDJPY还有上行空间",
+          "details": "TradetheMatrix: 这不会有用，就像过去15次都没用一样，此前在日本政府宣布释放一个月石油储备之后，日元仍然显著走弱，这是USDJPY更多上行空间的重要信号",
+          "important": false
+        },
+        {
+          "actor": "Bogachan_1971",
+          "actor_type": "KOL",
+          "text": "真正解法是日元短期利率高过美元利率",
+          "details": "Bogachan_1971: USDJPY由美日利差决定，阻止日元贬值只有一个真解，其余都是拖延，真正的解决办法是让日元短期利率高过美元利率——那会立刻击沉日本和其他股市的账面收益",
+          "important": false
+        },
+        {
+          "actor": "华创郭忠良",
+          "actor_type": "Analyst",
+          "text": "日元干预未违反IMF规则，但日元贬值是否属无序波动存疑",
+          "details": "华创郭忠良：进行日元干预的行为没有违反IMF规则，但是日元贬值是否是无序波动，这是一个值得商榷的问题，实际利率差异和国际收支赤字双重驱动的日元贬值，是否可以被视作背离基本面的无序波动…毕竟日本现在属于贸易收支和服务收支双重赤字，日本央行的加息也没有让实际利率由负转正",
+          "important": false
+        },
+        {
+          "actor": "BCA",
+          "actor_type": "Analyst",
+          "text": "通胀预期而非财政风险驱动日元走弱，需等BoJ转鹰",
+          "details": "BCA JP: Rising inflation expectations, not fiscal risk, are driving JPY weakness. JPY's decline has not tracked fiscal-risk proxies...it has followed Japan's inflation expectations relative to the US and Euro Area. JPY weakness should persist until the BoJ turns more hawkish. We continue to expect that shift toward year-end.",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Bloomberg",
+        "华创",
+        "BCA"
+      ],
+      "date": "2026-08-03",
+      "image_urls": []
+    },
+    {
+      "id": "us-rates-treasury-jul26",
+      "topic": "美债收益率与财政融资",
+      "topic_tag": "rates",
+      "title": "卖方上调美债收益率目标，关注Q3融资与QRA",
+      "summary": "多家卖方因Warsh言论及财政压力上调美债收益率预测。JPM将10年期年底目标上调至4.85%，30年期至5.40%。GS预计财政部Q3融资规模827B，DB上调赤字预测累计400B。Bofa建议做多5年5年通胀互换对冲脱锚风险。",
+      "bullets": [
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "10年期美债年底目标上调至4.85%，30年期至5.40%",
+          "details": "JPM Rates: 因美联储主席Warsh言论削弱政策信誉，12月加息预期升温。10年期美债年底目标上调至4.85%，30年期上调至5.40%。建议发起2s/10s曲线陡峭化交易及5Yx5Y通胀互换宽幅策略，以应对通胀预期重估及期限溢价上升风险。",
+          "important": true
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "预计财政部Q3融资规模827B，较5月高156B",
+          "details": "GS GRT: 预计财政部把三季度可流通融资规模上调至827B（较5月预测高156B），8月5日再融资公告中拍卖规模预计不变，但需关注\"未来几个季度\"指引措辞是否调整；预计2026三季度至2027一季度净短债供给约1.3T，货币基金规模下降令吸收能力存疑，基准假设是2027年5月起逐步扩大2-7年期拍卖规模。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "上调美国2026-2028财年赤字预测累计400B",
+          "details": "DB Fiscal: 上调美国2026-2028财年赤字预测累计400B，主因地缘冲突致国防支出增加。预计8月QRA将软化发行指引，为2027年增拍铺路。Q3私人净借款估730B，风险偏向收益率上升及互换利差收紧。",
+          "important": false
+        },
+        {
+          "actor": "Bofa",
+          "actor_type": "Analyst",
+          "text": "建议做多5年5年通胀互换对冲联储延迟加息风险",
+          "details": "Bofa Rates: 美联储依赖市场紧缩引发信誉风险，5年5年远期通胀率成关键观测指标。建议做多5年5年通胀互换（入场2.39%，目标2.65%），以对冲美联储延迟加息导致通胀预期脱锚的风险。7月FOMC后30年期美债大幅抛售，历史数据显示此类行情常伴随曲线陡峭化。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "JPM",
+        "GS",
+        "DB",
+        "Bofa"
+      ],
+      "date": "2026-08-03",
+      "image_urls": []
+    },
+    {
+      "id": "mideast-iran-hormuz-jul26",
+      "topic": "中东伊朗局势",
+      "topic_tag": "geo",
+      "title": "美国警告中东局势，伊朗疑发动网络攻击",
+      "summary": "美国国务院警告在中东的美国人应考虑离开。FBI称伊朗很可能是针对至少7个州水务系统网络攻击的幕后主使。KOL讨论霍尔木兹关闭对全球石油和氮肥供应的影响。",
+      "bullets": [
+        {
+          "actor": "美国国务院",
+          "actor_type": "US-Executive",
+          "text": "警告中东美国人保持警惕，应考虑在局势升级时离开",
+          "details": "身处中东的美国人应保持警惕并做好航班取消、周期性空域关闭和出行中断的准备…… 在该地区的美国人应考虑离开，或做好在局势升级时离开的准备(should consider departing, or be prepared to depart should there be escalation)（*属于国务院领事系统警示第三级，次于使馆人员撤离和非战斗人员撤离）",
+          "important": true
+        },
+        {
+          "actor": "FBI",
+          "actor_type": "US-Executive",
+          "text": "伊朗很可能是针对7个州水务系统网络攻击的幕后主使",
+          "details": "FBI称伊朗很可能是自周一以来针对至少7个州水务系统的协同网络攻击的幕后主使，部分活动正在实际降低供水运营能力",
+          "important": false
+        },
+        {
+          "actor": "tleilax",
+          "actor_type": "KOL",
+          "text": "提陆上封锁方案的人没看地图，没有可信收官路径",
+          "details": "tleilax: 提出陆上封锁方案的人没有看过地图，这说明没有可信的收官路径",
+          "important": false
+        },
+        {
+          "actor": "Bogachan_1971",
+          "actor_type": "KOL",
+          "text": "霍尔木兹关闭意味全球15-20%石油和35%氮肥供应离开市场",
+          "details": "Bogachan_1971: 霍尔木兹关闭意味着过去五个月全球15–20%的石油供应和35%的氮肥供应离开了市场，我们看了五个月的表演，美国财政部设法把油价大部分时间压在$100以下，而不是涨到$150以上",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-03",
+      "image_urls": []
+    },
+    {
+      "id": "ai-capex-adoption-jul26",
+      "topic": "AI行业投资与采用",
+      "topic_tag": "ai",
+      "title": "AI Capex预期上调至超1T，企业采用率升至21.5%",
+      "summary": "GS报告显示超大规模厂商Capex持续攀升，2027年预期超1T。AI硬件投资较2022年增463B。美国企业AI采用率升至21.5%，AI使生产率提升23%-32%。OpenAI下一代模型Astra解决了10个数学与理论计算机科学开放问题。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "2027年超大规模厂商Capex预期上调至超1T",
+          "details": "GS AI Tracker: 2026年7月美国企业AI采用率升至21.5%，预计半年内达24.3%。半导体收入预期强劲，2026年底将达834B。AI硬件投资较2022年增463B。尽管部分岗位裁员加速（上半年102K），但数据中心建设带动建筑业就业增290K。AI使生产率提升23%-32%，高采用行业生产力增长加速。",
+          "important": true
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "OpenAI下一代模型Astra解决10个数学与理论CS开放问题",
+          "details": "OpenAI下一代主力模型家族Astra的内部版本解决了数学、量子复杂性与理论计算机科学中的10个重要开放问题",
+          "important": false
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "AI基础设施股贡献1/3盈利增长，云收入增速加速至48%",
+          "details": "GS US Weekly Kickstart: SPX Q2盈利增长强劲，EPS同比增45%（剔除其他收入后为26%），64%公司超出一致预期至少一个标准差，属历史最高之列（仅次于上季度、2025三季度以及2020-21疫情复苏期）。但\"超预期奖励\"明显失灵。AI基础设施股贡献1/3盈利增长，云收入增速加速至48%。2027年Capex预期上调至超1T。",
+          "important": false
+        },
+        {
+          "actor": "brandonjcarl",
+          "actor_type": "KOL",
+          "text": "这一周是'足够好'的AI在很多用途上变得实际免费的时刻",
+          "details": "brandonjcarl: 这一周是'足够好'的AI在很多用途上变得实际上免费的时刻。这是整个周期里最大的进展之一",
+          "important": false
+        },
+        {
+          "actor": "AriDavidPaul",
+          "actor_type": "KOL",
+          "text": "LLM当初级研究分析师用，$200/月创造$20万/年价值",
+          "details": "AriDavidPaul: 我现在几乎把LLM当成一个优秀的初级研究分析师在用，那对我来说是每年$20万的价值，而我付$200/月。如果我不是个老古董、能更聪明地使用这项技术，我认为我可以在同样时间里多榨出10倍的工作量，再花$1000的token。不可思议",
+          "important": false
+        },
+        {
+          "actor": "bookwormengr",
+          "actor_type": "KOL",
+          "text": "内存危机会通过算法创新解决，不会靠魔法供给",
+          "details": "bookwormengr: 内存危机不会靠某处魔法般出现的供给解决，而会通过算法创新解决",
+          "important": false
+        },
+        {
+          "actor": "ShanghaoJin",
+          "actor_type": "KOL",
+          "text": "存储是唯一推高$/token的环节，AI扩张需其持续下降",
+          "details": "ShanghaoJin: 不是讨厌存储，而是它是唯一在推高$/token的环节，而AI的扩张需要$/token持续下降",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "AMZN",
+        "GOOGL",
+        "MSFT",
+        "META",
+        "ORCL"
+      ],
+      "image_indexes": [
+        5,
+        9
+      ],
+      "importance": 2,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-08-03",
+      "image_urls": [
+        "/uploads/2026-08-03/894b8a1fc4db.png",
+        "/uploads/2026-08-03/26b9d1332f6e.png"
+      ]
+    },
+    {
+      "id": "market-momentum-leverage-jul26",
+      "topic": "市场动量与杠杆",
+      "topic_tag": "macro-other",
+      "title": "动量因子波动率创新高，对冲基金去杠杆后轮动应减弱",
+      "summary": "GS指出近期AI股剧烈波动符合动量因子急涨后盘整规律，动量因子波动率创近几十年非衰退期最高。7月动量多空配对拥挤度达35年极值后出现史上最大反向平仓。对冲基金和ETF投资者已明显去杠杆，但gross leverage仍高。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "动量因子波动率创近几十年非衰退期最高，去杠杆后轮动应减弱",
+          "details": "GS US Weekly Kickstart: 近期AI股的剧烈波动，符合历史上动量因子（Momentum）急涨之后进入盘整的典型规律。高盛的多空动量因子波动率创下近几十年来非衰退期的最高水平，但考虑到对冲基金和ETF投资者已经明显去杠杆，未来几周轮动式波动应会减弱，行情方向最终仍取决于盈利。",
+          "important": true
+        },
+        {
+          "actor": "Burry",
+          "actor_type": "KOL",
+          "text": "7月动量多空拥挤度达35年极值，出现史上最大反向平仓",
+          "details": "Burry: 7月发生了什么：动量多空配对交易的拥挤度达到35年数据中的极值，随后出现史上最大规模的反向平仓。指数层面看似平静（因为多空两边互相抵消），但个股层面血流成河。跌完之后，波动率目标资金和pod都出清了，机械买盘继续托底，于是修复速度远快于历史。",
+          "important": false
+        },
+        {
+          "actor": "Burry",
+          "actor_type": "KOL",
+          "text": "市场被被动托底资金和杠杆风控减仓两股力量夹住",
+          "details": "Burry资金机制：市场被两股机械力量夹在中间：一边是不看价格、只管买入的被动托底资金（定投、指数ETF、回购、散户抄底），主要作用于权重股；另一边是被风控公式逼着同步减仓的杠杆资金（波动率目标策略和多策略平台的上千个pod），它们在跌幅刚到2–3%时抛压最猛，跌得更深反而卖不动了。前者让市场尤其指数层面跌不下去，后者让下跌一开始就拥挤交易就会剧烈反映、被迫大量换手。",
+          "important": false
+        },
+        {
+          "actor": "Burry",
+          "actor_type": "KOL",
+          "text": "过去15年美股回报靠盈利增长和估值扩张撑着，股息贡献最低",
+          "details": "Burry: 过去15年（2011–2026）美股非常反常——SPX年化实际总回报约12%，但股息贡献只有约1.76%，是145年历史中最低的百分位。回购和RSU预扣税这类\"给员工的现金转移\"实质上替代了股息，而它们既不体现在盈利里，也不体现在常规自由现金流里。于是回报几乎全靠盈利增长和估值扩张这两个\"可逆\"的部分撑着，这就把盈利质量和盈利可持续性推到了核心位置。",
+          "important": false
+        },
+        {
+          "actor": "Burry",
+          "actor_type": "KOL",
+          "text": "大跌日混乱程度近4倍于过去，但恐惧消散速度快2倍",
+          "details": "Burry对比1985–2000与2011至今两个时期。结论是：如今一个大跌日引发的混乱程度接近过去的4倍，但市场对这种混乱的\"记忆\"更短，恐惧消散速度约为过去的2倍，说明市场日内和跨日越来越自我反转、均值回归。此外日内波动率略有下降，而收盘到收盘的波动率反而上升——增量几乎全部发生在交易时段之外。",
+          "important": false
+        },
+        {
+          "actor": "ShanghaoJin",
+          "actor_type": "KOL",
+          "text": "不认同GS去杠杆接近尾声，gross leverage仍非常高",
+          "details": "ShanghaoJin: 不认同GS\"去杠杆接近尾声\"的结论，因为没爆仓的去杠杆不够彻底，gross leverage还是非常高的，而且net leverage却不高，意味着在系统内多空还是很多的",
+          "important": false
+        },
+        {
+          "actor": "elerianm",
+          "actor_type": "KOL",
+          "text": "KOSPI近18%急反弹，科技capex巨大但变现机会或扩大",
+          "details": "elerianm: KOSPI今日近18%的急反弹，跟在一系列财报之后，而这些财报显示科技capex依然巨大、但正伴随着可能随时间扩大的变现机会",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        2,
+        7,
+        8
+      ],
+      "importance": 2,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-08-03",
+      "image_urls": [
+        "/uploads/2026-08-03/e15e8e162b19.png",
+        "/uploads/2026-08-03/9a4817db96d1.png",
+        "/uploads/2026-08-03/669174fd453d.png",
+        "/uploads/2026-08-03/b7a5d80d061f.png"
+      ]
+    },
+    {
+      "id": "korea-market-jul26",
+      "topic": "韩国市场",
+      "topic_tag": "macro-other",
+      "title": "KOSPI录得历史最大单日涨幅，但月度表现仍为金融危机以来最差",
+      "summary": "KOSPI录得历史最大单日涨幅，但仍遭遇金融危机以来最差月度表现。远期市盈率降至4.7倍为2001年以来最低。韩国总统办公室政策室长金容范因杠杆ETF面临刑事指控。外资净买入，散户抛售。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "KOSPI远期市盈率降至4.7倍，为2001年以来最低",
+          "details": "GS KR: 尽管KOSPI录得历史最大单日涨幅，但仍遭遇自全球金融危机以来最差月度表现。当前KOSPI远期市盈率降至4.7倍，为2001年以来最低。即便假设盈利大幅下调，估值仍具吸引力。韩元兑美元本周升值1.0%，市场去杠杆化进程顺利，保证金贷款余额降至220亿美元。",
+          "important": true
+        },
+        {
+          "actor": "韩国总统办公室",
+          "actor_type": "Foreign-Gov",
+          "text": "政策室长金容范因杠杆ETF面临刑事指控",
+          "details": "韩国总统办公室政策室长金容范因杠杆ETF面临刑事指控",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3,
+        4
+      ],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "Bloomberg"
+      ],
+      "date": "2026-08-03",
+      "image_urls": [
+        "/uploads/2026-08-03/455b19577070.png",
+        "/uploads/2026-08-03/35a9eb05d36e.png"
+      ]
+    },
+    {
+      "id": "market-technicals-jul26",
+      "topic": "市场技术面与仓位",
+      "topic_tag": "macro-other",
+      "title": "买方观点：等待Follow-Through Day，关注10Y突破5%",
+      "summary": "markminervini认为周五没有翻转是鼓舞人心的，但需要Follow-Through Day和SPY收复高点才会转为看多，关注10Y突破5%的风险。Linda Raschke认为当前买入行情与3月底部类似，需保持开放心态。",
+      "bullets": [
+        {
+          "actor": "markminervini",
+          "actor_type": "KOL",
+          "text": "彻底看多需Follow-Through Day及SPY收复高点，盯10Y突破5%",
+          "details": "markminervini: 周五没有翻转是鼓舞人心的，但仓位基本没变，彻底看多需要两个条件：寻找一个Follow-Through Day，以及SPY收复高点，才会转为彻底看多并触发风险偏好环境。盯着10Y，突破5%可能对股票构成显著逆风，尤其如果它与历史上疲弱的9月重合。",
+          "important": true
+        },
+        {
+          "actor": "Linda Raschke",
+          "actor_type": "KOL",
+          "text": "当前行情与3月底部类似，先V形底后小幅下跌",
+          "details": "Linda Raschke: 目前这次买入行情的发展态势与3月的底部走势类似：先是出现\"V形\"底部（价格在较大范围内波动后反转），随后又有一段小幅下跌，这很容易让交易者误以为市场正在形成看跌趋势。不过……市场的走势从来不会重复，因此我们需要保持开放的心态。",
+          "important": false
+        },
+        {
+          "actor": "bboczeng",
+          "actor_type": "KOL",
+          "text": "股神集体陨灭不是反转时刻，是熊市真正开始",
+          "details": "bboczeng: 当股神们集体陨灭的时候，绝不是行情反转的时候，而是熊市真正无条件开始爆发的时候；只有清仓才能对冲下跌风险，买Put做空根本不可能；SNDK稍微反弹后，大概率继续暴跌、阴跌",
+          "important": false
+        },
+        {
+          "actor": "dampedspring",
+          "actor_type": "KOL",
+          "text": "4倍杠杆加3倍beta组合就是高回报来源，没有专长",
+          "details": "dampedspring论点: 4倍杠杆确实高，但对一个3倍beta的组合加4倍杠杆，就是serenity和situational awareness那种回报的来源，这就是beta和杠杆。没有'专长'。没有什么值得你追随和学习的东西",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "SNDK"
+      ],
+      "image_indexes": [
+        6
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-08-03",
+      "image_urls": [
+        "/uploads/2026-08-03/7f15152bcf31.png"
+      ]
+    },
+    {
+      "id": "trump-truthsocial-jul26",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "Trump推出付费Truth Social订阅服务",
+      "summary": "获取特朗普更快Truth Social推文的订阅服务正式发售，每月定价约10万美元。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "付费Truth Social订阅服务正式发售，每月约10万美元",
+          "details": "获取特朗普更快Truth Social推文的订阅服务，今天开始正式发售，每月定价约为100K",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "称Warsh希望看到更低的利率",
+          "details": "Trump: \"Warsh would love to see lower interest rates\"（图表时间戳15:26）",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "DJT"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-08-03",
+      "image_urls": []
+    }
+  ]
+}
