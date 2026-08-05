@@ -1,0 +1,317 @@
+{
+  "topics": [
+    {
+      "id": "trump-oil-tmtg-jul26",
+      "topic": "特朗普政策",
+      "topic_tag": "policy",
+      "title": "特朗普施压石油公司降价；TMTG推Truth API",
+      "summary": "特朗普称石油行业若无他的政策\"早已死亡\"，要求雪佛龙等石油公司立即调低零售油价。同时TMTG于2026年8月1日正式上线Truth API数据流服务。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "要求雪佛龙等石油公司立即调低零售油价",
+          "details": "石油行业若没有他的政策\"早已死亡\"，要求雪佛龙等石油公司立即调低零售油价",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "TMTG于2026年8月1日正式上线Truth API数据流服务",
+          "details": "特朗普媒体与科技集团（TMTG）于2026年8月1日正式上线了Truth API数据流服务",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "DJT",
+        "CVX"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-04",
+      "image_urls": []
+    },
+    {
+      "id": "iran-us-conflict-jul26",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊博弈升级：伊朗内政动荡、美军寻新施压方式",
+      "summary": "路透报道德黑兰对谈判变得警惕，认为美国领导层在冲突上存在分歧，伊朗决心将霍尔木兹海峡控制权重新定义为对地区和全球经济成本较低的\"压力点\"策略。CNN独家报道美中央司令部情报官员向军事分析人士征集对伊施压新点子。伊朗国内政治动荡，最高领袖向总统发出\"最后通牒\"。",
+      "bullets": [
+        {
+          "actor": "路透",
+          "actor_type": "新闻",
+          "text": "德黑兰对谈判警惕，认为美方领导层存在分歧",
+          "details": "RTRS报道德黑兰对谈判变得警惕，认为美国领导层在冲突上存在分歧。相反，伊朗决心采取\"压力点\"策略，将伊朗对霍尔木兹海峡的控制重新定义为对地区和全球经济成本较低",
+          "important": true
+        },
+        {
+          "actor": "CNN",
+          "actor_type": "新闻",
+          "text": "美中央司令部情报官员征集对伊施压新点子",
+          "details": "CNN独家美国中央司令部情报部门一名官员上周三向大批军事分析人士发送邮件,称我们正在寻找新的、有创意且非常规的方式来向伊朗施压和惩罚,因为我们需要点子",
+          "important": false
+        },
+        {
+          "actor": "伊朗媒体",
+          "actor_type": "新闻",
+          "text": "最高领袖向总统佩泽什基安发\"最后通牒\"，后者誓言坚持",
+          "details": "据伊朗媒体报道伊朗国内政治局势加剧动荡，据称最高领袖莫贾塔巴·哈梅内伊向总统佩泽什基安发出了\"最后通牒\"，并暗示支持IRGC总司令瓦希迪，佩泽什基安随后发布了一段罕见的公开视频讲话，否认辞职并誓言\"坚持立场\"",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Reuters",
+        "CNN"
+      ],
+      "date": "2026-08-04",
+      "image_urls": []
+    },
+    {
+      "id": "oil-market-dynamics-jul26",
+      "topic": "原油市场",
+      "topic_tag": "oil",
+      "title": "油价表面下跌但即期溢价飙升；期货持仓偏低",
+      "summary": "El-Erian引用Javier Blas文章指出全球油缓冲被消耗但未耗尽。KOL指出虽油价表面下跌约9%，但即期布伦特上涨20%，市场愿为即时实物原油支付约13美元溢价。伊朗战争后原油期货未平仓量反而更低，期货主要现金结算易被操控。",
+      "bullets": [
+        {
+          "actor": "ekwufinance",
+          "actor_type": "KOL",
+          "text": "油价表面跌9%但即期布伦特涨20%，溢价约13美元",
+          "details": "虽然油价表面下跌了约9%，但即期交付的布伦特原油价格却上涨了20%。市场目前愿意为\"马上能拿到的实物原油\"支付约13美元的溢价",
+          "important": true
+        },
+        {
+          "actor": "El-Erian/Javier Blas",
+          "actor_type": "KOL",
+          "text": "全球油缓冲被消耗但未耗尽，石油危机叙事含大量夸张",
+          "details": "引用文章标题为全球油缓冲被消耗但未耗尽,原文的关键判断:能源业最新的恐慌是即将触及库底,也就是维持油田到炼厂这条传送带运转所需的最低库存量。跟每一个金融叙事一样,即将到来的石油危机这个故事里包含一粒真相,以及大量的胡说",
+          "important": false
+        },
+        {
+          "actor": "Bogachan_1971",
+          "actor_type": "KOL",
+          "text": "伊朗战争后原油期货OI更低，现金结算易被操控",
+          "details": "伊朗战争开始后，原油期货未平仓量（OI）其实比之前更低，这些期货主要是现金结算，没有大规模实物交割压力，所以容易被操控",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-04",
+      "image_urls": []
+    },
+    {
+      "id": "japan-yen-intervention-jul26",
+      "topic": "日元干预与FIMA",
+      "topic_tag": "rates",
+      "title": "美日联合干预汇市80-100B；KOL质疑FIMA实际意义",
+      "summary": "野村确认美日7月31日联合干预汇市，规模估计80-100B，虽消耗大量现金储备但获准使用FIMA回购设施。KOL josephwang认为FIMA回购便利只是表演，日本早已在Fed外国回购池存数千亿美元，私人部门回购利率更低且无需公开披露。",
+      "bullets": [
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "美日确认7月31日联合干预汇市，规模80-100B",
+          "details": "美日确认7月31日联合干预汇市，估计规模达80-100B。虽消耗大量现金储备，但获准使用FIMA回购设施缓解市场担忧。短期美元/日元面临下行压力，交易区间看155-160，但长期日元走强仍需基本面显著改善",
+          "important": true
+        },
+        {
+          "actor": "josephwang",
+          "actor_type": "KOL",
+          "text": "FIMA回购便利只是表演，日本早有数千亿美元储备",
+          "details": "论点:贝森特力推FIMA回购便利只是表演,用来放大干预效果,对日本毫无实际意义，公开的秘密是日本早已在美联储的外国回购池里存了数千亿美元,那本质上是外国央行的活期账户。该便利取消上限后从公开数据可以推断出这一点。私人部门回购供给充裕,利率明显低于FIMA的报价利率,而且不必每周公开披露，日本还有常设的美联储互换额度，结论:日本从来不需要卖美债来拿美元",
+          "important": false
+        },
+        {
+          "actor": "BobEUnlimited",
+          "actor_type": "KOL",
+          "text": "现在已无日元套息交易，经常账户顺差主要来自投资收益",
+          "details": "现在已经没有日元套息交易了,所以干预即便改变方向,也不会出现过去那种升值浪潮，日本的经常账户顺差没有表面看起来那么结构性，近GDP 5%的经常账户顺差,但贸易项接近中性,主要来自巨额投资收益,而这部分通常是自动再投资的",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3
+      ],
+      "importance": 3,
+      "sources": [
+        "Nomura"
+      ],
+      "date": "2026-08-04",
+      "image_urls": [
+        "/uploads/2026-08-04/4c9ea10b84db.jpg"
+      ]
+    },
+    {
+      "id": "ai-hyperscaler-debt-jul26",
+      "topic": "AI/Hyperscaler",
+      "topic_tag": "ai",
+      "title": "Hyperscaler发债或超2500亿美元；AI价格战开启",
+      "summary": "UBS预计Hyperscaler债券发行2026年将超2500亿美元，占投资级发行约14%。KOL brandonjcarl认为上周一系列发布是AI超级周期最重要事件之一，全面价格战已开始，Luna缓存长系统提示词后自动化知识任务成本极低。",
+      "bullets": [
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "Hyperscaler 2026年发债或超2500亿美元，占IG发行14%",
+          "details": "Hyperscaler债券发行2026年将超2500亿美元，占投资级发行约14%。包括Amazon, Alphabet, Meta, Microsoft, Oracle",
+          "important": true
+        },
+        {
+          "actor": "brandonjcarl",
+          "actor_type": "KOL",
+          "text": "上周发布是AI超级周期最重要事件之一，价格战已开始",
+          "details": "上周的一系列发布是整个AI超级周期里最重要的事件之一,一场全面的价格战已经开始，如果给Luna缓存一个较长的系统提示词,自动化知识类任务的成本低得惊人",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "AMZN",
+        "GOOGL",
+        "META",
+        "MSFT",
+        "ORCL"
+      ],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [
+        "UBS"
+      ],
+      "date": "2026-08-04",
+      "image_urls": [
+        "/uploads/2026-08-04/dcae044c84b6.png"
+      ]
+    },
+    {
+      "id": "sellside-views-jul26",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "卖方：美股看涨、半导体ETF创纪录流入、60/40失效",
+      "summary": "UBS维持美股看涨，预测SPX 2026年target 8100点、2027年8900点，AI板块回调属健康修正。JPM报告半导体ETF单周净流入创纪录约94亿美元，韩国ETF录历史第二高流入。Apollo认为60/40组合已失效，股票回报由AI集中度驱动，债券回报受财政约束驱动。GS指出中国政策在大宗商品市场中扮演\"波动率调节者\"角色。",
+      "bullets": [
+        {
+          "actor": "UBS Macro",
+          "actor_type": "Analyst",
+          "text": "维持美股看涨，SPX 2026年target 8100、2027年8900",
+          "details": "维持美股看涨观点，预测SPX2026年target 8100点，2027年达8900点。报告指出AI板块回调属健康修正，半导体估值具吸引力，投资者倾向增持科技及非AI领域如金融、工业。预计标普500 EPS未来18个月增长25%，利率风险影响减弱",
+          "important": true
+        },
+        {
+          "actor": "JPM Delta-One",
+          "actor_type": "Analyst",
+          "text": "半导体ETF单周净流入创纪录约94亿美元",
+          "details": "半导体与韩国ETF获激进买入，CTA调整大宗与外汇持仓。本周全球风险偏好回升，股票与固收期货现强劲净买入。半导体ETF（SMH/SOXX/SOXL）单周净流入创纪录达~94亿美元，韩国ETF录得历史第二高流入。CTA策略方面，因原油回调抛售布伦特，并在美日联合干预后回补日元空头。科技板块ETF净流入109亿美元，金融板块亦获六个月最强资金注入",
+          "important": false
+        },
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "60/40组合已失效：股票由AI集中度驱动，债券受财政约束",
+          "details": "The 60/40 portfolio is broken because equity returns are driven by AI concentration rather than the business cycle, while bond returns are now driven by fiscal constraints rather than cycle dynamics.",
+          "important": false
+        },
+        {
+          "actor": "GS Commodity",
+          "actor_type": "Analyst",
+          "text": "中国政策在大宗商品市场中扮演\"波动率调节者\"角色",
+          "details": "中国政策在全球大宗商品市场中扮演着\"波动率调节者\"的角色。中国对油气与黄金通过价格敏感型需求抑制价格波动；而在关键金属领域，则凭借供应链主导地位放大价格波动",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SMH",
+        "SOXX",
+        "SOXL"
+      ],
+      "image_indexes": [
+        1,
+        2
+      ],
+      "importance": 2,
+      "sources": [
+        "UBS",
+        "JPM",
+        "Apollo",
+        "GS"
+      ],
+      "date": "2026-08-04",
+      "image_urls": [
+        "/uploads/2026-08-04/d572cb9a2e02.png",
+        "/uploads/2026-08-04/32e37e789af9.png"
+      ]
+    },
+    {
+      "id": "kol-earnings-rates-jul26",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "KOL：Q2财报超预期率创新高；曲线陡峭化最干净",
+      "summary": "LanceRoberts指出Q2预期处于高位且仍在上调，但标普成分股超预期比例却创新纪录。DannyDayan5称本季预期为2021年以来最高，可能看到永久空头投降。ShanghaoJin认为没人能靠加息走出供给冲击，陡峭化是盘面上最干净的交易。",
+      "bullets": [
+        {
+          "actor": "LanceRoberts",
+          "actor_type": "KOL",
+          "text": "Q2预期高位仍上调，但超预期率却创新纪录",
+          "details": "这比你以为的更惊人,因为这次不是靠下调预期换来的高超预期率，通常财报季开始前预期已被下调,从而容许高超预期率。而Q2的预期处于高位且仍在上调,标普成分股超预期的比例却创了新纪录",
+          "important": true
+        },
+        {
+          "actor": "DannyDayan5",
+          "actor_type": "KOL",
+          "text": "本季预期是2021年以来最高，或见永久空头投降",
+          "details": "本季预期是2021年以来最高,而我们目前正在击穿即便是最高的那些估计，如果在这里也能超预期,可能会看到永久空头投降",
+          "important": false
+        },
+        {
+          "actor": "ShanghaoJin",
+          "actor_type": "KOL",
+          "text": "无人能靠加息走出供给冲击，曲线陡峭化最干净",
+          "details": "没有人能靠加息走出供给冲击,前端很快会想明白这一点,大概就在杰克逊霍尔之后，陡峭化是盘面上最干净的东西,没有别的",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-04",
+      "image_urls": []
+    },
+    {
+      "id": "other-2026-08-04",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "其他零散信息",
+      "bullets": [
+        {
+          "actor": "Jefferson",
+          "actor_type": "Central-Bank",
+          "text": "[美联储] 中东冲突推升油价后回落，美国净出口国地位缓冲冲击",
+          "details": "中东冲突推升油价后回落，美国作为石油净出口国缓冲冲击；AI或提振生产率并影响R*。当前失业率4.2%，政策需平衡通胀与就业",
+          "important": true
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "[韩国央行] 重申韩国央行8月加息25bp，核心CPI或升至3.4%",
+          "details": "重申韩国央行8月加息25个基点预期。尽管7月整体CPI同比降至2.8%，但核心CPI升至2.6%创近年新高。预计8月核心CPI将进一步升至3.4%，受核心商品及个人服务通胀驱动，核心通胀将在2.8%-3.0%高位持续",
+          "important": true
+        }
+      ],
+      "tickers": [],
+      "importance": 1,
+      "sources": [
+        "Citi"
+      ],
+      "date": "2026-08-04",
+      "image_urls": []
+    }
+  ]
+}
