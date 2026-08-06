@@ -1,0 +1,372 @@
+{
+  "topics": [
+    {
+      "id": "fed-officials-policy-stance-jul27",
+      "topic": "美联储官员立场",
+      "topic_tag": "fed",
+      "title": "美联储官员分歧：Schmid认为需更紧政策，Paulson称当前温和限制性",
+      "summary": "美联储官员对货币政策立场存在分歧。无投票权委员Schmid认为当前政策非限制性，需更紧政策才能达成2%通胀目标。Paulson估计底层通胀在2.4%-2.8%，认为当前政策温和限制性但可能不足，AI建设带来的通胀压力更即时。",
+      "bullets": [
+        {
+          "actor": "Schmid",
+          "actor_type": "Central-Bank",
+          "text": "认为当前货币政策非限制性，需更紧政策达成2%目标",
+          "details": "Schmid（无投票权）：考虑到需求与投资的强度,我不认为当前的货币政策立场是限制性的。因此我相信把通胀降到 2% 的目标将需要更紧的政策",
+          "important": true
+        },
+        {
+          "actor": "Paulson",
+          "actor_type": "Central-Bank",
+          "text": "底层通胀2.4%-2.8%，当前政策温和限制性但可能不足",
+          "details": "Paulson估计底层通胀运行在 2.4% 到 2.8% 之间，当前联邦基金利率的设定是温和限制性的,这会在可接受的时间框架内把通胀带到 2%，另一种可能是当前政策的限制性不足以交付 2% 的目标。虽然 AI 的生产率好处最终可能有助于缓和通胀,但那些收益看起来更远,而建设带来的通胀压力更为即时。即便供给冲击消退且没有新冲击,这些信息表明政策可能需要更具限制性。支持上周维持利率稳定的决定，并表示对未来政策的走向持开放态度",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "剔除能源后核心通胀一直很平静，预计会继续如此",
+          "details": "Bessent：短端利率上升实际上能做什么,我们会看到。但底层数字非常温和、非常安静,剔除受能源影响的快速变动部分之后的核心通胀一直很平静,我认为会继续如此",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-08-05",
+      "image_urls": []
+    },
+    {
+      "id": "china-us-sanctions-export-controls-jul27",
+      "topic": "中国对美反制措施",
+      "topic_tag": "geo",
+      "title": "中国商务部将7家美企纳入反制清单，禁止无人机对美出口",
+      "summary": "中国商务部连发多篇通告，将美国合规性测试、应用DNA科学、阿尔塔纳技术等7家公司和组织纳入反制清单。同时加强无人机相关两用物项对美出口管制，禁止向美国出口无人机及相关零部件、技术。",
+      "bullets": [
+        {
+          "actor": "中国商务部",
+          "actor_type": "Foreign-Gov",
+          "text": "将7家美国公司和组织纳入反制清单",
+          "details": "中国商务部刚刚连发多篇通告，将美国合规性测试、应用DNA科学、阿尔塔纳技术等7家公司和组织，纳入反制清单",
+          "important": true
+        },
+        {
+          "actor": "中国商务部",
+          "actor_type": "Foreign-Gov",
+          "text": "禁止无人机及相关零部件、技术向美国出口",
+          "details": "商务部发表加强无人机，相关两用物项对美国出口管制，禁止将无人机和相关零部件、技术，向美国出口",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-08-05",
+      "image_urls": []
+    },
+    {
+      "id": "japan-consumption-tax-cut-jul27",
+      "topic": "日本消费税削减",
+      "topic_tag": "policy",
+      "title": "日本自民党批准高市早苗全面消费税削减计划",
+      "summary": "日本执政的自民党于周三批准了首相高市早苗力推的全面消费税削减计划，尽管人们对国家已经紧张的财政状况的担忧日益加剧。",
+      "bullets": [
+        {
+          "actor": "日本自民党",
+          "actor_type": "Foreign-Gov",
+          "text": "批准首相高市早苗全面消费税削减计划",
+          "details": "日本执政的自民党于周三批准了首相高市早苗力推的全面消费税削减计划，尽管人们对国家已经紧张的财政状况的担忧日益加剧",
+          "important": true
+        },
+        {
+          "actor": "野村",
+          "actor_type": "Analyst",
+          "text": "日本6月名义工资同比增3.4%，实际工资稳增1.6%",
+          "details": "野村分析日本2026年6月劳动数据：名义工资同比增3.4%，略高于5月的3.3%；实际工资同比稳增1.6%。结构上，大型企业薪资涨幅弱于往年，但中小企业夏季奖金强劲，推动特别现金收入同店数据大增6.4%。整体薪资增长基础稳固，但大企业动能需观察",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "野村"
+      ],
+      "date": "2026-08-05",
+      "image_urls": []
+    },
+    {
+      "id": "ny-fed-r-star-uncertainty-jul27",
+      "topic": "自然利率不确定性",
+      "topic_tag": "fed",
+      "title": "纽约联储研究：r-star估计存在±170bps宽泛置信区间",
+      "summary": "纽约联储最新研究显示，投资者对自然利率（r-star）的估计存在±170bps的宽泛置信区间。基于1961-2022年美国数据，名义利率趋势（i-star）估计为3.75%，但区间为1.55%-5.95%。研究提示政策制定者应重视r-star估计的不确定性。",
+      "bullets": [
+        {
+          "actor": "纽约联储",
+          "actor_type": "Central-Bank",
+          "text": "r-star估计存在±170bps置信区间，i-star估计3.75%",
+          "details": "纽约联储最新研究显示，投资者对自然利率（r-star）的估计存在±170bps的宽泛置信区间。基于1961-2022年美国数据，名义利率趋势（i-star）估计为3.75%，但区间为1.55%-5.95%。即便拥有全部历史信息，不确定性仅小幅收窄至±130bps。研究提示政策制定者应重视r-star估计的不确定性",
+          "important": true
+        },
+        {
+          "actor": "darioperkins",
+          "actor_type": "KOL",
+          "text": "市场替联储加息说法最终需联储兑付，否则通胀预期上升",
+          "details": "darioperkins：市场替他加了息这个说法,最终仍然需要联储去兑付那些预期，否则通胀预期会上升,而实际收益率会回落",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 2,
+      "sources": [
+        "NY Fed"
+      ],
+      "date": "2026-08-05",
+      "image_urls": [
+        "/uploads/2026-08-05/daccc96070c7.png"
+      ]
+    },
+    {
+      "id": "us-iran-conflict-ammunition-jul27",
+      "topic": "美伊冲突与军备消耗",
+      "topic_tag": "geo",
+      "title": "美军在美伊冲突中几乎耗尽高精度远程导弹，消耗近2/3爱国者拦截弹",
+      "summary": "路透社与CSIS报告指出，美军在美伊冲突中几乎耗尽了高精度远程导弹，并消耗了近三分之二的\"爱国者\"拦截弹。国防承包商正尝试通过重用其他行业零部件加速补给，但生产周期仍需数年。",
+      "bullets": [
+        {
+          "actor": "路透社/CSIS",
+          "actor_type": "新闻",
+          "text": "美军几乎耗尽高精度远程导弹，消耗近2/3爱国者拦截弹",
+          "details": "路透社与CSIS报告指出，美军在美伊冲突中几乎耗尽了高精度远程导弹，并消耗了近三分之二的\"爱国者\"拦截弹。国防承包商正尝试通过重用其他行业零部件加速补给，但生产周期仍需数年",
+          "important": true
+        },
+        {
+          "actor": "高盛",
+          "actor_type": "Analyst",
+          "text": "受伊朗战争及AI统计误差影响，通胀仍高于目标但冲击峰值已过",
+          "details": "高盛：美国6月核心PCE同比涨3.29%，呈现软化趋势。受伊朗战争及AI统计误差影响，通胀仍高于目标，但冲击峰值已过。预计核心PCE将于2026年底降至2.9%，2027年底降至2.2%。关税对通胀助推作用减弱，长期通胀预期保持稳定",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "LMT",
+        "RTX",
+        "NOC"
+      ],
+      "image_indexes": [
+        3
+      ],
+      "importance": 3,
+      "sources": [
+        "路透社",
+        "CSIS",
+        "Semafor"
+      ],
+      "date": "2026-08-05",
+      "image_urls": [
+        "/uploads/2026-08-05/5a2f0dda6780.webp"
+      ]
+    },
+    {
+      "id": "us-china-data-center-ban-jul27",
+      "topic": "美国拟禁中国数据中心零部件",
+      "topic_tag": "policy",
+      "title": "特朗普政府拟禁止进口中国产数据中心零部件，主要限制光模块",
+      "summary": "据路透社报道，特朗普政府正起草一项禁令，拟禁止美国所有企业进口中国生产的新型数据中心零部件，以保护当地AI基础设施。美国通信委员会正在制定相关措施，限制对象主要为光模块。",
+      "bullets": [
+        {
+          "actor": "特朗普政府",
+          "actor_type": "US-Executive",
+          "text": "起草禁令拟禁止进口中国产数据中心零部件，主要限制光模块",
+          "details": "RTRS称，特朗普政府正起草一项禁令，拟禁止美国所有企业，进口中国生产的新型数据中心零部件，以保护当地AI基础设施。美国通信委员会，正在制定相关措施，限制对象主要为光模块",
+          "important": true
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "Anthropic租用谷歌AI芯片建数据中心，黑石帮其借至少$36B",
+          "details": "BBG称Anthropic为了训练Claude，需要大量租用谷歌的AI芯片、建设数据中心，目前黑石正在帮它向投资者借至少36B",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GOOGL",
+        "BX"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "路透社",
+        "Bloomberg"
+      ],
+      "date": "2026-08-05",
+      "image_urls": []
+    },
+    {
+      "id": "kol-market-views-jul27",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "Burry警告市场接近重大顶部，多位KOL关注收益率与季节性风险",
+      "summary": "Michael Burry指出SPX创新高速度历史上仅出现三次（2000年科技泡沫、1999年dot-com崩溃前、2020年11月），维持市场可能接近重大顶部判断。多位KOL关注30年期收益率突破5%、季节性逆风及杠杆ETF买盘等因素。",
+      "bullets": [
+        {
+          "actor": "Burry",
+          "actor_type": "KOL",
+          "text": "SPX 4日涨5%创新高历史仅三次，警告接近重大顶部",
+          "details": "Burry：SPX创下新高（4个交易日内大涨5%创新高），历史上类似情况仅出现过三次（2000年3月科技泡沫顶峰、1999年4月dot-com崩溃前夕、2020年11月），维持市场可能接近重大顶部、甚至可能出现类似1987年式暴跌的判断，认为市场尚未走出困境",
+          "important": true
+        },
+        {
+          "actor": "Burry",
+          "actor_type": "KOL",
+          "text": "中国开源AI模型Token份额首超美国，对美AI CapEx发警告",
+          "details": "Burry：以阿里Qwen3.8-Max和月之暗面Kimi K3为代表的中国开源AI模型正在快速缩短与硅谷的差距，并在OpenRouter上的Token使用量份额首次超越美国模型。他认为这对美国巨头庞大的AI资本支出（CapEx）是一个明确的警告信号",
+          "important": false
+        },
+        {
+          "actor": "Scott Rubner",
+          "actor_type": "KOL",
+          "text": "技术重置已完成，7月未改变结构性牛市而是重置了它",
+          "details": "Scott Rubner (Citadel)：The technical reset we have been waiting for has largely occurred. July did not change the structural bull market. It reset it.",
+          "important": false
+        },
+        {
+          "actor": "Gavin Baker",
+          "actor_type": "KOL",
+          "text": "Claude可能造成投资界多样性崩塌，成拥挤交易来源",
+          "details": "Gavin Baker：Claude可能正在造成投资界的多样性崩塌，如果同一个模型成为市场参与者的共同前置过滤器,那么它的系统性偏好本身就会变成一个拥挤交易的来源,而这与模型是否准确无关",
+          "important": false
+        },
+        {
+          "actor": "markminervini",
+          "actor_type": "KOL",
+          "text": "空头被止损加多头，但警惕9月季节性逆风及10Y破5%",
+          "details": "markminervini：空头两日被全部止损,加了多头,但对季节性与利率仍保持警惕，判断:可能终于会有一轮可交易的反弹,但仍然注意进入9月的强大季节性与周期性逆风,尤其如果10年期收益率有力突破5%",
+          "important": false
+        },
+        {
+          "actor": "El-Erian",
+          "actor_type": "KOL",
+          "text": "市场给9月加息约58%概率，他认为概率更低",
+          "details": "El-Erian：市场给9月加息约58%的概率,我会给一个更低的概率",
+          "important": false
+        },
+        {
+          "actor": "Fullcarry",
+          "actor_type": "KOL",
+          "text": "30Y停留在5%上方为2007年来最长，若不打出5.5%浪费突破",
+          "details": "Fullcarry：这是2007年以来30Y停留在5%上方最长的一段时间，如果不打出个5.5%就浪费了这次突破",
+          "important": false
+        },
+        {
+          "actor": "DannyDayan5",
+          "actor_type": "KOL",
+          "text": "FFR相对GDP平减指数处于除新冠外历史最宽松立场",
+          "details": "DannyDayan5：FFR相对GDP平减指数,处于除新冠之外历史上最宽松的政策立场",
+          "important": false
+        },
+        {
+          "actor": "BobEUnlimited",
+          "actor_type": "KOL",
+          "text": "工资增长继续放缓，家庭支出激增越来越多靠动用储蓄支撑",
+          "details": "BobEUnlimited：上周晚间发布的最全面的工资增长数据显示继续放缓,并进一步确认家庭支出的激增越来越多由动用储蓄来支撑",
+          "important": false
+        },
+        {
+          "actor": "dampedspring",
+          "actor_type": "KOL",
+          "text": "杠杆ETF带来$200亿非弹性买盘，盘中更新为$27B",
+          "details": "dampedspring：又是一天来自杠杆ETF的$200亿非弹性买盘,当天盘中更新为$27B",
+          "important": false
+        },
+        {
+          "actor": "brandonjcarl",
+          "actor_type": "KOL",
+          "text": "心理区域已实现，正处于FOMO买入中间阶段",
+          "details": "brandonjcarl：那个心理区域已经实现,我们正处在FOMO买入的中间关键在于那些因为怕错过抄底而涌入的人的心理状态",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-05",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-inflation-views-jul27",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "高盛构建新通胀指标：多指标平均约2.9%，2%目标并不遥远",
+      "summary": "高盛经济研究构建新通胀指标，综合PCE权重与各类别相关性调整，建议使用多种指标平均值（约2.9%）。摩根士丹利预计美欧英日通胀低于预期，2027年底核心通胀近目标。汇丰分析美加核心通胀分歧源于统计方法论差异。",
+      "bullets": [
+        {
+          "actor": "高盛",
+          "actor_type": "Analyst",
+          "text": "构建新通胀指标：多指标平均约2.9%，2%目标并不遥远",
+          "details": "高盛：当前通胀衡量方式至关重要，不同指标差异显著：截尾均值PCE仅2.2%，核心PCE达3.3%。是否剔除关税、伊朗战争及统计误差的影响，也会大幅改变结论。构建了新通胀指标：默认采用PCE权重，但根据各类别与潜在趋势和通胀预期的相关性进行调整（提高食品、租金权重，降低能源、汽车权重）。该指标在2022年通胀飙升时高于核心PCE，2023年中后则略低。结合外国央行实践与研究，建议使用多种合理指标的平均值（核心、截尾均值、中位数、多变量核心趋势等），过去一年均值约2.9%。同时需结合宏观背景进行判断性调整，淡化一次性因素（关税、战争等）的影响。核心结论：在剔除或淡化这些临时冲击后，2%的通胀目标并不像核心PCE所暗示的那样遥远，支持更温和的通胀判断",
+          "important": true
+        },
+        {
+          "actor": "高盛",
+          "actor_type": "Analyst",
+          "text": "Warsh已成立特别工作组重新评估美联储通胀框架",
+          "details": "高盛：Warsh表示关注比PCE更广泛的通胀数据，并已成立特别工作组重新评估美联储通胀框架。通胀指标的目标可能相互冲突：既要衡量消费者实际支付的价格，又要作为GDP平减指数，还要捕捉潜在趋势和公众感知的通胀预期。美联储偏好的PCE存在缺陷——包含消费者不直接支付或未察觉的价格，且按支出份额加权，可能过度重视波动性大的类别",
+          "important": false
+        },
+        {
+          "actor": "摩根士丹利",
+          "actor_type": "Analyst",
+          "text": "预计美欧英日通胀低于预期，2027年底核心通胀近目标",
+          "details": "摩根士丹利FICC发布2026年8月全球固收展望：认为AI资本支出叙事intact，虽估值偏高但反弹可持续。预计美、欧、英、日通胀低于预期，2027年底核心通胀近目标，政策将比市场定价更温和，收益率曲线变陡",
+          "important": false
+        },
+        {
+          "actor": "汇丰",
+          "actor_type": "Analyst",
+          "text": "美加核心通胀分歧源于统计方法论差异，住房成分测算不同",
+          "details": "汇丰经济：美加核心通胀分歧主要源于统计方法论差异。美国采用租金等价法，加拿大采用用户成本法，导致住房成分测算显著不同。剔除住房因素后，两国实体经济价格压力相似。预计2027年加拿大核心通胀将上行至2.5%以上，而美国因租金滞后效应面临下行压力",
+          "important": false
+        },
+        {
+          "actor": "美银",
+          "actor_type": "Analyst",
+          "text": "提示FOMC会议频率调整风险，若仓促实施将加剧市场波动",
+          "details": "美银Fed：提示美联储会议频率调整风险：报道指美联储主席Warsh拟将FOMC会议减至每年6次利率决策+2次讨论。美银认为，若在高通胀下仓促实施且缺乏6个月以上提前通知，将削弱FOMC OIS及联邦基金期货短期流动性，加剧市场波动风险。建议参照全球央行惯例，给予充足过渡期",
+          "important": false
+        },
+        {
+          "actor": "花旗",
+          "actor_type": "Analyst",
+          "text": "预计8月美元融资条件适度收紧，SOFR可能接近或高于IORB",
+          "details": "花旗：受TGA余额高企及美债供应增加影响，预计8月美元融资条件适度收紧，SOFR可能接近或高于IORB。全球央行流动性指标近期回落，但与风险资产相关性仍高。预计9月流动性将暂时缓解，Q4可能再次趋紧，但不预期重现去年秋季资金压力",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        2
+      ],
+      "importance": 2,
+      "sources": [
+        "高盛",
+        "摩根士丹利",
+        "汇丰",
+        "美银",
+        "花旗"
+      ],
+      "date": "2026-08-05",
+      "image_urls": [
+        "/uploads/2026-08-05/9c9332b251b6.png",
+        "/uploads/2026-08-05/69957b3f5308.png"
+      ]
+    }
+  ]
+}
