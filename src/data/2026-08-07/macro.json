@@ -1,0 +1,304 @@
+{
+  "topics": [
+    {
+      "id": "fed-musalem-inflation-aug2026",
+      "topic": "美联储",
+      "topic_tag": "fed",
+      "title": "Musalem：通胀偏高，7月倾向加息",
+      "summary": "圣路易斯联储主席Musalem表示，基础通胀目前运行在2.5-3%之间，一年后可能维持在该水平或更高。他认为风险偏向高通胀，金融条件\"非常宽松\"，7月倾向于加息。",
+      "bullets": [
+        {
+          "actor": "Musalem",
+          "actor_type": "Central-Bank",
+          "text": "7月倾向加息，认为金融条件\"非常宽松\"",
+          "details": "7月我倾向于hike，目前金融条件\"非常宽松\"",
+          "important": true
+        },
+        {
+          "actor": "Musalem",
+          "actor_type": "Central-Bank",
+          "text": "基础通胀在2.5-3%，一年后可能维持或更高",
+          "details": "Underlying inflation目前运行在2.5-3%之间，一年后通胀可能落在2.5-3%或更高；回到2%的前提是冲击消退，风险平衡偏向高通胀",
+          "important": false
+        },
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "Bessent反应函数从\"降息\"漂移到\"别加息\"",
+          "details": "Bessent 的反应函数从\"降息\"漂移到\"别加息\"",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Nick Timiraos"
+      ],
+      "date": "2026-08-07",
+      "image_urls": []
+    },
+    {
+      "id": "trump-policy-aug2026",
+      "topic": "特朗普政策",
+      "topic_tag": "policy",
+      "title": "特朗普：关键矿产会晤、生育旅游禁令、习近平访美",
+      "summary": "白宫邀请关键矿产高管周五会面，展示摆脱中国供应链决心。特朗普签署两项行政命令限制生育旅游和代孕公民身份。特朗普评论Warsh称赞其\"出色\"但决定权在委员会。习近平预计未来几周访美。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "习近平预计未来几周访问美国",
+          "details": "中国主席习近平预计将在未来几周内访问美国",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "白宫周五会见关键矿产高管，展示摆脱中国供应链决心",
+          "details": "白宫已邀请美国关键矿产行业的顶尖高管于周五与总统会面，旨在展示政府决心摆脱由中国主导的供应链",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "签署行政命令限制生育旅游和代孕公民身份",
+          "details": "签署两项行政命令，指示美国政府，不得为母亲专门赴美生产，或在美使用代孕出来的小孩，签发或承认公民身份。同时还将生育旅游，上升到国土安全级别，协助代孕和赴美生育的经营者和机构，会被采取行动",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "评Warsh：出色，但加息由委员会决定",
+          "details": "当被问及Warsh是否应在中期选举前避免加息时，Trump表示:\"这在一定程度上取决于他，但不完全如此。他有一个非常政治化的委员会。这不完全由他决定，而是由委员会决定。我认为他很出色。我不会批评他\"",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-08-07",
+      "image_urls": []
+    },
+    {
+      "id": "nonfarm-payroll-forecast-aug2026",
+      "topic": "非农就业预测",
+      "topic_tag": "macro-other",
+      "title": "卖方预测7月非农：GS/JPM均看75k",
+      "summary": "高盛和摩根大通均预计7月非农新增就业75k，略低于市场共识80k。失业率预计回升至4.3%，时薪环比增长0.2-0.3%。世界杯带来约1万人增量，但替代指标显示就业动能放缓。初请失业金创1969年新低。",
+      "bullets": [
+        {
+          "actor": "GS Eco",
+          "actor_type": "Analyst",
+          "text": "预计7月非农+75k，失业率4.3%，时薪+0.3%",
+          "details": "预计美国7月非农就业增加75k，略低于市场共识的80k。失业率预计回升至4.3%，高于预期的4.2%。平均时薪环比增长0.3%，符合预期。世界杯招聘带来约1万人增量，但替代指标显示就业动能放缓",
+          "important": true
+        },
+        {
+          "actor": "JPM Eco",
+          "actor_type": "Analyst",
+          "text": "预计非农+75k，初请创1969年新低显示劳动力市场紧俏",
+          "details": "预计美国7月非农就业增75k，失业率微升至4.3%。尽管ADP数据疲软，但初请失业金人数创1969年以来新低，显示劳动力市场依然紧俏。时薪环比增速预计回落至0.2%，主要受工作日增多影响。NFIB招聘指数大幅改善，预示未来就业趋势乐观",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "JPM"
+      ],
+      "date": "2026-08-07",
+      "image_urls": []
+    },
+    {
+      "id": "ms-asia-strategy-aug2026",
+      "topic": "卖方策略观点",
+      "topic_tag": "macro-other",
+      "title": "MS上调韩泰至超配，SPX目标8000点",
+      "summary": "摩根士丹利上调韩国和泰国股市至超配，认为亚洲市场调整属技术性修正。韩国估值降至危机水平（前瞻PE<5倍），KOSPI目标9000点。澳大利亚因滞胀风险被下调至低配。美股年底SPX目标8000点。",
+      "bullets": [
+        {
+          "actor": "MS",
+          "actor_type": "Analyst",
+          "text": "上调韩国泰国至超配，KOSPI目标9000点，SPX年底8000点",
+          "details": "上调韩国和泰国股市至超配，认为亚洲市场调整属技术性修正。韩国估值降至危机水平（前瞻PE<5倍），KOSPI目标看至9,000点，复苏将扩展至工业和金融板块。澳大利亚因滞胀风险被下调至低配。美股风格向中期质量切换，SPX年底目标8,000点",
+          "important": true
+        },
+        {
+          "actor": "Citadel Rubner",
+          "actor_type": "Analyst",
+          "text": "7月末散户抛售半导体达两年均值20倍，牛市驱动因素仍稳固",
+          "details": "7月末散户抛售半导体与内存股达两年均值约20x，随杠杆与集中度下降，基本面重掌主导，预计低波动率式的震荡上行；并称\"牛市驱动因素依然稳固\"",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [
+        "MS",
+        "Citadel"
+      ],
+      "date": "2026-08-07",
+      "image_urls": [
+        "/uploads/2026-08-07/0520e76140f4.png"
+      ]
+    },
+    {
+      "id": "hyperscaler-capex-ai-aug2026",
+      "topic": "AI基建投资",
+      "topic_tag": "ai",
+      "title": "Apollo：超大规模厂商资本支出将达GDP的3%",
+      "summary": "Apollo首席经济学家数据显示，市场共识预期超大规模厂商（亚马逊、Meta、Oracle、微软、谷歌）资本支出将在未来三年维持在GDP的3%左右，高于2000年代电信投资峰值（1.2%），但低于金融危机前住宅投资峰值（6.6%）。",
+      "bullets": [
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "预期超大规模厂商资本支出2027-2029年维持GDP的3%",
+          "details": "Consensus expects hyperscaler capex at 3% of GDP every single year for the next three years. 2024年0.8%，2025年1.4%，2026年2.4%，2027年3.1%，2028年3.2%，2029年3.1%",
+          "important": true
+        },
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "超大规模厂商资本支出已超过2000年代电信投资峰值",
+          "details": "Hyperscaler capex as a share of GDP higher than telecom capex share of GDP in the 2000s. 2000年电信投资峰值1.2%，而2027年超大规模厂商资本支出预计达3.1%。超大规模厂商包括Amazon, Meta, Oracle, Microsoft and Google",
+          "important": false
+        },
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "但仍低于金融危机前住宅投资峰值6.6%",
+          "details": "Hyperscaler capex as a share of GDP lower than residential investment as a share of GDP before the GFC. 住宅投资2005年峰值达6.6%，2008年降至3.5%",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "AMZN",
+        "META",
+        "ORCL",
+        "MSFT",
+        "GOOGL"
+      ],
+      "image_indexes": [
+        3
+      ],
+      "importance": 2,
+      "sources": [
+        "Apollo"
+      ],
+      "date": "2026-08-07",
+      "image_urls": [
+        "/uploads/2026-08-07/a080ec4ec704.png"
+      ]
+    },
+    {
+      "id": "kol-views-aug2026",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "KOL：央行通胀预期管理与市场逢强卖出",
+      "summary": "Joseph评论央行家认为公众根据表态形成通胀预期，只要预期锚定通胀就会自动降至目标。ShanghaoJin指出好消息出来股价不涨，意味有人逢强卖出，可能是加杠杆持有人在降风险。",
+      "bullets": [
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "央行认为只要通胀预期锚定，通胀会自动降至目标",
+          "details": "中央银行家们认为，公众会根据他们的表态来形成通胀预期；只要通胀预期保持在目标水平，通胀率就会自动降至目标值。正因如此，凯文才会觉得，不断重复\"价格稳定\"这一口号就是在履行自己的职责",
+          "important": false
+        },
+        {
+          "actor": "ShanghaoJin",
+          "actor_type": "KOL",
+          "text": "好消息出来股价不涨，意味有人逢强卖出",
+          "details": "好消息出来股价不再涨，通常意味着有人在逢强卖出。补充:我不知道卖方是谁，很可能是加了杠杆的持有人在降风险",
+          "important": true
+        },
+        {
+          "actor": "Pequityresearch",
+          "actor_type": "KOL",
+          "text": "客户长期协议未带来预期的广泛重估",
+          "details": "客户长期协议至少到目前为止，并没有带来我们预期的广泛重估，如果市场充分给LTA定价，存储股的交易倍数会更高。SNDK的LTA覆盖率：长约现在覆盖明年约50%、后年约三分之二的量，毛利率下限约80%。这略低于市场，当前毛利率在80多的中段，但有价格上调机制，而且是双向保护",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SNDK"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-08-07",
+      "image_urls": []
+    },
+    {
+      "id": "other-news-aug2026",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "其他要闻：五角大楼调查、中国原油进口、俄罗斯内部担忧",
+      "summary": "WSJ报道特朗普下令调查五角大楼弹药库存披露。BBG报道中国原油进口从近十年低点反弹，霍尔木兹海峡流量增加。俄罗斯精英担心联邦安全局失控。SK Hynix扩大本地企业债投资管理现金储备。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "下令调查五角大楼弹药库存披露，打击伊朗战争信息泄露",
+          "details": "WSJ报道特朗普总统已下令对五角大楼弹药库存的披露展开新的调查，行政官员表示，这是他打击有关伊朗战争的破坏性信息披露努力的升级",
+          "important": true
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "中国原油进口从近十年低点反弹，霍尔木兹海峡流量增加",
+          "details": "BBG报道中国原油进口在上个月从近十年低点反弹，霍尔木兹海峡的流量增加，炼油商从包括俄罗斯在内的中东以外国家增加了采购",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "俄罗斯精英担心联邦安全局失控",
+          "details": "BBG报道许多俄罗斯精英担心联邦安全局已经失控，因为总统弗拉基米尔·普京要求该机构在他对乌克兰战争的日益不满中维持其对权力的掌控",
+          "important": false
+        },
+        {
+          "actor": "SK Hynix",
+          "actor_type": "Corporate",
+          "text": "扩大本地企业债投资以管理不断增长的现金储备",
+          "details": "BBG报道SK Hynix Inc.正扩大其对本地企业债券的投资，因为它管理着不断增长的现金储备",
+          "important": false
+        },
+        {
+          "actor": "JPM Eco",
+          "actor_type": "Analyst",
+          "text": "[通胀预测] 核心CPI与PCE差距将从-0.7%收窄，明年PCE或高于CPI",
+          "details": "预计美国核心CPI与核心PCE差距将从目前的-0.7%显著收窄。受住房通胀降温及PCE方法论调整影响，明年核心PCE料比核心CPI高0.1%（此前预测低0.2%）。尽管差距缩小，但受超级核心服务坚挺影响，可能无法完全回归历史常态，维持轻微负向或零附近波动",
+          "important": true
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "[世界杯消费] 世界杯主办城市信用卡消费同比增5%，非本地消费增超17%",
+          "details": "2026年世界杯期间主办城市信用卡消费同比增约5%，非本地消费增超17%，餐饮酒吧受益最大。堪萨斯城消费增7%领跑。6月全美信用卡支出环比增0.6%，但主办城市占GDP约三分之一，对整体经济提振温和",
+          "important": true
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "WSJ",
+        "Bloomberg",
+        "JPM",
+        "BofA"
+      ],
+      "date": "2026-08-07",
+      "image_urls": [
+        "/uploads/2026-08-07/8e9ae89f4e0e.png",
+        "/uploads/2026-08-07/e711aef24f86.png"
+      ]
+    }
+  ]
+}
