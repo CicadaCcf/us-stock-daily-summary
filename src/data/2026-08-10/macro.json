@@ -1,0 +1,456 @@
+{
+  "topics": [
+    {
+      "id": "fed-cook-removal-aug26",
+      "topic": "美联储人事与货币政策",
+      "topic_tag": "fed",
+      "title": "白宫考虑免职Fed理事Cook，通胀与加息预期分歧加剧",
+      "summary": "白宫副幕僚长Dan Scavino致函Fed理事Cook，表示总统正考虑将其免职，要求其就抵押贷款欺诈指控在约21天内作书面回应。与此同时，Fed官员认为核心通胀仍在2.5-3%区间，风险偏向高通胀，7月倾向加息且认为金融条件\"非常宽松\"。El-Erian评论称Cook是谨慎偏鸽的理事，Trump此举令人费解。",
+      "bullets": [
+        {
+          "actor": "Dan Scavino",
+          "actor_type": "US-Executive",
+          "text": "白宫副幕僚长致函Cook，称总统正考虑将其免职",
+          "details": "白宫副幕僚长Dan Scavino向Cook发出一封信函，表示总统正在\"考虑\"将其免职，并要求她在约21天内（截止日期约8月26日）就抵押贷款欺诈相关指控作出书面回应",
+          "important": true
+        },
+        {
+          "actor": "Fed官员",
+          "actor_type": "Central-Bank",
+          "text": "核心通胀运行在2.5-3%，风险偏向高通胀，7月倾向加息",
+          "details": "Underlying inflation目前运行在2.5-3%之间，一年后通胀可能落在2.5-3%或更高；回到2%的前提是冲击消退，风险平衡偏向高通胀。7月我倾向于hike，目前金融条件\"非常宽松\"",
+          "important": false
+        },
+        {
+          "actor": "El-Erian",
+          "actor_type": "KOL",
+          "text": "Cook是谨慎偏鸽理事，Trump想炒掉她令人费解",
+          "details": "Cook 是谨慎偏鸽的理事(投票维持,认为关税/战争/AI 建设的价格压力有回落空间,但门槛低),Trump 却想炒掉她，令人费解",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ社论为Warsh辩护：不应以政治联想判断其立场",
+          "details": "WSJ社论称Warsh过去长期以通胀鹰派著称，现在被贴上\"特朗普鸽派\"标签不公平。判断他的标准应看实际政策效果（能否压住通胀），而非政治联想或短期利率决定",
+          "important": false
+        },
+        {
+          "actor": "WarrenPies",
+          "actor_type": "KOL",
+          "text": "历史上Fed仅两次在负就业报告后加息",
+          "details": "历史上 Fed 在负就业报告后仅两次加息(1999/11、2005/11),89 次会议中仅此两次;9 月会议前还有一份 NFP",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "取消Fed前瞻指引不会改变华尔街预期共识",
+          "details": "即便取消所有 Fed 前瞻指引,华尔街经济学家也不会改预期(共识一贯是\"通胀两年内回目标\"),点阵图一向与 Blue Chip 共识同步,没了点阵图共识也不变——\"这是大事吗?我认为不是\"",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-08-10",
+      "image_urls": []
+    },
+    {
+      "id": "iran-us-crisis-aug26",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊紧张局势：军方寻求出口，伊朗或拖延至中期选举",
+      "summary": "美国联合参谋长私下表示需从与伊朗战争中\"找到出口\"，认为升级冲突军事选项可能适得其反。Guardian报道伊朗计划制造谈判障碍，将冲突拖延至美国中期选举。Bessent称未来两年霍尔木兹海峡将变得无关紧要，50-70%能源将通过地下管道。KOL分析称美国拦截弹库存消耗严重，政策导向转向外交解决。",
+      "bullets": [
+        {
+          "actor": "丹·凯恩将军",
+          "actor_type": "US-Executive",
+          "text": "联合参谋长私下表示美国需从与伊朗战争中\"找到出口\"",
+          "details": "联合参谋长丹·凯恩将军私下里已经向特朗普政府高级官员表明，美国需要从与伊朗的战争中\"找到一个出口\"，认为可用来升级冲突的军事选项可能会适得其反",
+          "important": true
+        },
+        {
+          "actor": "Guardian",
+          "actor_type": "新闻",
+          "text": "伊朗计划制造谈判障碍，将冲突拖延至美国中期选举",
+          "details": "Guardian报道，伊朗在计划为谈判制造障碍，把冲突拖延到美国中期选举，因为伊朗局势对Trump不利",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "未来两年霍尔木兹海峡将变得无关紧要",
+          "details": "海峡将永远不会回到过去的样子，因为伊朗人已经使用或试图将其作为一个瓶颈。在未来两年里，我们将看到海峡将变得无关紧要，通过海峡流动的能源中有超过 50%或 70%将通过地下管道",
+          "important": false
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "市场传美伊可能达成第二版MoU，原油价格走软",
+          "details": "市场传出美国与伊朗可能达成第二版谅解MoU的消息。由于美国拦截弹库存消耗严重、无意继续升级军事冲突，政策导向开始转向寻求外交解决，原油价格随之走软，缓解了利率上行的压力",
+          "important": false
+        },
+        {
+          "actor": "Short Bear",
+          "actor_type": "KOL",
+          "text": "沙特新协议和管道交易正在改变中东权力格局",
+          "details": "此前美国面临战略石油储备（SPR）和中期选举的时间压力，现在局势开始逆转。冲突结束反而可能让伊朗获得更多，否则它将面临被世界绕过、变得无关紧要的风险。沙特签署新协议以及近期出现的管道交易，正在缓慢改变权力格局，降低中东地区受攻击的可能性。这会让伊朗更有可能主动坐到谈判桌前寻求协议，否则可能在中东彻底孤立",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Guardian"
+      ],
+      "date": "2026-08-10",
+      "image_urls": []
+    },
+    {
+      "id": "us-labor-market-july-aug26",
+      "topic": "美国劳动力市场",
+      "topic_tag": "macro-other",
+      "title": "7月非农意外负增长，劳动参与率持续下降",
+      "summary": "美国7月非农就业意外-23K，远低于预期，前两月数据大幅下修。失业率降至4.09%，但主因劳动力规模缩减264k，劳动参与率持续下降。薪资环比仅增0.1%，同比降至3.15%。白宫经济顾问Hassett称世界杯造成数据失真，扣除后实际增加100K。",
+      "bullets": [
+        {
+          "actor": "GS Eco",
+          "actor_type": "Analyst",
+          "text": "7月非农意外-23K，失业率降至4.09%但因劳动力缩减",
+          "details": "美国7月非农就业人数意外-23K，远低于预期，且前两个月数据大幅下修。失业率降至4.09%，但主要因劳动力规模缩减264k所致，劳动参与率持续下降。薪资增长放缓，环比仅增0.1%，同比降至3.15%，显示劳动力市场显著降温，通胀压力减轻",
+          "important": true
+        },
+        {
+          "actor": "Hassett",
+          "actor_type": "US-Executive",
+          "text": "白宫顾问称世界杯造成数据失真，实际增加100K",
+          "details": "7月是因为世界杯的原因造成数据失真，扣除这个因素，实际增加100K，这是白宫经济顾问的观点",
+          "important": false
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "非农减少20K但失业率走低，劳动力供给系统性收缩",
+          "details": "5 月非农就业人数意外减少 20K，但失业率其实在继续走低（表明劳动力市场仍在收紧）。由于人口老龄化和婴儿潮一代因股市暴涨提前退休，劳动力供给正在系统性收缩，美联储对每月零就业增长甚至小幅负增长已有预期",
+          "important": false
+        },
+        {
+          "actor": "Barclays Eco",
+          "actor_type": "Analyst",
+          "text": "劳动参与率下滑尤其青年群体退出，强化Fed按兵不动预期",
+          "details": "7月美非农仅增-23K，失业率降至4.1%。因劳动力参与率下滑，尤其青年群体退出，致供给受限。薪资增长温和，强化美联储维持利率不变预期。关注后续通胀数据，基准情形为2026-2027年利率按兵不动",
+          "important": false
+        },
+        {
+          "actor": "GS GRT",
+          "actor_type": "Analyst",
+          "text": "7月就业疲软提高9月加息门槛，若通胀温和概率将显著下降",
+          "details": "美国7月就业疲软提高9月加息门槛。但招聘放缓意味着核心CPI需要达到更高水平才能使9月加息成为市场的明确共识。若通胀数据温和，加息概率将显著下降。尽管能源价格下跌，但实际利率居高不下，反映出市场对美联储反应函数的不确定性以及AI等因素带来的长期增长预期",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3
+      ],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs",
+        "Barclays"
+      ],
+      "date": "2026-08-10",
+      "image_urls": [
+        "/uploads/2026-08-10/1d0d3d77f562.png"
+      ]
+    },
+    {
+      "id": "us-equity-issuance-buyback-aug26",
+      "topic": "美股发行与回购",
+      "topic_tag": "macro-other",
+      "title": "美股增发创2021年来新高，回购强劲抵消供应压力",
+      "summary": "2026年至今美企增发筹资105B，创2021年来同期新高，其中40%与AI相关。GS预计全年回购达1.4T，远超700B的发行供应。Q2回购同比增11%，Capex同比增43%。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "2026年至今美企增发105B创同期新高，40%与AI相关",
+          "details": "美股增发回归常态，回购强劲抵消供应压力。2026年至今美企增发筹资105B，创2021年来同期新高，其中40%与AI相关。预计全年回购达1.4T，远超700B的发行供应。超大规模云服务商2027年Capex预计1.1T，债务与股权将共同融资。维持SPX年底8000点目标",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "Q2回购同比增11%，Capex同比增43%",
+          "details": "S&P 500 Q2 buyback growth is tracking at +11% year/year; Q2 Capex同比增43%, R&D同比增25%, Dividends同比增6%",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        5,
+        6,
+        8,
+        9
+      ],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs"
+      ],
+      "date": "2026-08-10",
+      "image_urls": [
+        "/uploads/2026-08-10/75dec5b13da8.png",
+        "/uploads/2026-08-10/db14df0674f2.png",
+        "/uploads/2026-08-10/354b0fa8ac6f.png",
+        "/uploads/2026-08-10/2cb2933df50f.png"
+      ]
+    },
+    {
+      "id": "ai-capex-compute-aug26",
+      "topic": "AI资本支出与算力",
+      "topic_tag": "ai",
+      "title": "SpaceX指引史上最激进算力爬坡，AI算力过剩争议加剧",
+      "summary": "SpaceX指引到2027年底建10GW算力，从2GW(YE26)升至约10GW(YE27)，12月$100B+ ARR，独家用Nvidia Vera Rubin。但Dr_Gingerballs认为NVIDIA+AMD已卖出20GW AI算力，相当于全球10亿知识工作者大脑总功耗，但生产力零提升。JPM预计AI资本支出2026年底达900B，同比增85%。",
+      "bullets": [
+        {
+          "actor": "Short Bear",
+          "actor_type": "KOL",
+          "text": "SpaceX指引史上最激进算力爬坡：2GW升至10GW到2027年底",
+          "details": "尽管 $ORCL CDS 处多年高位、AI/超大规模放缓担忧上升,SpaceX 仍指引史上最激进算力爬坡之一:2GW(YE26)→约 10GW(YE27),12 月 $100B+ ARR,独家用 Nvidia Vera Rubin。那种规模的增量 Nvidia 需求+融资,supercharge 了 OpenAI-ORCL-NVDA 的循环投资环，这会否给 AI 相关 CDS 打出局部顶(并给 ORCL 等打出底)?",
+          "important": true
+        },
+        {
+          "actor": "Dr_Gingerballs",
+          "actor_type": "KOL",
+          "text": "算力已过剩：20GW已售出≈全球10亿知识工作者大脑功耗",
+          "details": "算力已过剩：NVIDIA+AMD已卖出20GW AI算力 ≈ 全球10亿知识工作者大脑总功耗。但生产力零提升,企业利润率持平/下降，说明AI（本质是应用统计学）收益呈对数递减，而非线性/指数",
+          "important": false
+        },
+        {
+          "actor": "Dr_Gingerballs",
+          "actor_type": "KOL",
+          "text": "AI公司长期以低于成本价卖算力，靠\"免费资金\"维持",
+          "details": "AI公司长期以低于成本的价格卖算力（收1.25美元/kWh，真实成本3-5美元），靠\"免费资金\"和军备竞赛维持。真正目的不是新技术，而是广告战争：各方砸钱争夺Google/Meta的广告垄断，资本开支是\"战争弹药\"，不是投资",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "质疑SpaceX 10GW算力资金来源，按$50B/GW需$500B",
+          "details": "SemiAnalysis 称 SPCX 到 2027 年底建 10GW 算力——先不论 10GW 能否撑起 $2T 估值,按 $50B/GW,他要拿出 $500B,钱从哪来? Elon 大概觉得能用限制性股票(restricted shares)付账单",
+          "important": false
+        },
+        {
+          "actor": "JPMorgan",
+          "actor_type": "Analyst",
+          "text": "AI资本支出预计2026年底达900B，同比增85%",
+          "details": "上调SPX目标价至8,000点，2026年EPS预测上调至365美元。AI资本支出预计2026年底达900B，同比增85%",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "超大规模云服务商2027年Capex预计1.1T",
+          "details": "超大规模云服务商2027年Capex预计1.1T，债务与股权将共同融资",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "ORCL"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "JPMorgan",
+        "Goldman Sachs"
+      ],
+      "date": "2026-08-10",
+      "image_urls": []
+    },
+    {
+      "id": "memory-semiconductor-aug26",
+      "topic": "存储芯片/半导体",
+      "topic_tag": "macro-other",
+      "title": "SK海力士推100T韩元股东回报，Citi下调MU目标价",
+      "summary": "SK海力士预计推出约100T韩元（约71B）股东回报计划，含40T韩元股票回购。Citi将MU目标价从$1,400下调至$1,150，主要是估值倍数从10x降到8x，FY27/28 EPS仅下调约1%/2%。GS维持韩国股市超配，指出半导体内存短缺将持续。",
+      "bullets": [
+        {
+          "actor": "SK海力士",
+          "actor_type": "Corporate",
+          "text": "预计推出约100T韩元股东回报计划，含40T韩元股票回购",
+          "details": "SK海力士（SK Hynix）预计将推出约100T韩元（约71B）的股东回报计划，包括股票回购和现金分红。其中，股票回购规模预计达40T韩元（约28.4B），约占公司总股本的低2%左右，这一比例与其美国存托凭证（ADR）上市时新发行股份（占总股本约2.5%）的规模相近",
+          "important": true
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "下调MU目标价至$1,150，估值倍数从10x降到8x",
+          "details": "Citi 把 MU 目标价从 $1,400 下调至 $1,150,但关键是这主要是估值倍数重置:FY27/28 EPS 仅下调约 1%/2%,目标倍数从 10x 降到 8x。Citi 预计 DRAM/NAND 价格动能未来四个季度减速、约明年 2Q 见顶;但 Micron 明年毛利率仍守在 mid-70s、约 40% DRAM bits 在 LTA 下,价格见顶未必等于盈利滚落",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "维持韩国股市超配，半导体内存短缺将持续",
+          "details": "维持韩国股市超配评级，尽管KOSPI本周下跌5.1%且外资持续流出，但认为市场定价过度悲观。报告保留KOSPI 12个月12,000点目标，指出零售杠杆已显著降低，半导体内存短缺将持续，建议关注关键主题及买入评级股票",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "存储被砸因毛利率见顶+杠杆清理，基本面缺货叙事不变",
+          "details": "存储不该是增长故事,但也不该被 dump，应该坚持拿住筹码；存储被砸纯粹因为:① 毛利率即将到顶;② 过去毛利上升周期累积了太多杠杆;③ 要清理杠杆、回到合理的周期性价格。基本面缺货叙事不受 NVDA 改方案影响,大家应该希望负面消息尽快出、让杠杆恢复、市场就正常了",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MU"
+      ],
+      "image_indexes": [
+        2
+      ],
+      "importance": 2,
+      "sources": [
+        "Citi",
+        "Goldman Sachs"
+      ],
+      "date": "2026-08-10",
+      "image_urls": [
+        "/uploads/2026-08-10/bf3220231515.png"
+      ]
+    },
+    {
+      "id": "us-equity-market-outlook-aug26",
+      "topic": "美股展望与估值",
+      "topic_tag": "macro-other",
+      "title": "GS/JPM上调SPX目标至8000点，KOL警示非稳态挤压",
+      "summary": "GS维持SPX年底8000点目标，JPM上调SPX目标价至8,000点并将2026年EPS预测上调至365美元。Joseph指出近期美股出现\"指数上涨、隐含波动率同步上涨\"的非稳态挤压，由中东缓和、非农误读、AI轮动驱动。Jurrien Timmer分析当前股票与债券市盈率均在20倍左右。",
+      "bullets": [
+        {
+          "actor": "JPMorgan",
+          "actor_type": "Analyst",
+          "text": "上调SPX目标价至8,000点，2026年EPS预测365美元",
+          "details": "上调SPX目标价至8,000点，2026年EPS预测上调至365美元。AI资本支出预计2026年底达900B，同比增85%",
+          "important": true
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "美股出现指数涨+IV涨的非稳态挤压，三因素驱动",
+          "details": "近期美股出人意料的强劲反转，出现了\"指数上涨、隐含波动率同步上涨\"的非稳态挤压现象，主要是由以下三个短期关键因素驱动：中东地缘冲突的缓和预期、非农就业数据与降息定价的误读、AI 概念股的轮动",
+          "important": false
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "Mag 7获得第二风口，巨大指数权重抬升大盘",
+          "details": "尽管此前因供应过剩导致内存芯片（RAM）等硬核瓶颈交易走弱，但Mag 7获得了第二风口，其巨大的指数权重直接抬升了大盘",
+          "important": false
+        },
+        {
+          "actor": "Jurrien Timmer",
+          "actor_type": "KOL",
+          "text": "股票与债券市盈率均在20倍，若10Y升至5%对应18倍PE",
+          "details": "当前股票前瞻市盈率与债券\"市盈率\"（收益率倒数）都在20倍左右，如果10年期美债收益率升至5%，对应股票市盈率约18倍，若升至6%，则对应约16倍；当前资本成本（要求回报率）约9%，5y CAGR in payout（分红+回购）14%，得出估值约20倍前瞻EPS",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "预计\"金发姑娘\"市场难持续，下周股市疲软",
+          "details": "预计\"金发姑娘\"市场难以持续，下周股市疲软、债市收益率曲线陡峭化。因油价企稳及铜价创新高，通胀预期可能回升。若美联储与市场对CPI解读分歧，恐引发加息担忧。日本央行9月加息概率升至64%，若美元因数据走强，视为做多美元/日元时机",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        4
+      ],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs",
+        "JPMorgan",
+        "Nomura"
+      ],
+      "date": "2026-08-10",
+      "image_urls": [
+        "/uploads/2026-08-10/823f8b4b8689.png",
+        "/uploads/2026-08-10/9124c9b6947e.png"
+      ]
+    },
+    {
+      "id": "gold-liquidity-aug26",
+      "topic": "黄金与流动性",
+      "topic_tag": "macro-other",
+      "title": "黄金在4000美元附近横盘，全球货币供应回升至9%",
+      "summary": "Jurrien Timmer指出黄金全年一直在约4000美元附近横盘震荡，从图表形态看价格可能还会再低一点，但利好是全球货币供应量增速已从7%回升至9%。Andy提到黄金年内回正但仍跑输国债。",
+      "bullets": [
+        {
+          "actor": "Jurrien Timmer",
+          "actor_type": "KOL",
+          "text": "黄金在4000美元横盘，全球M2增速从7%回升至9%",
+          "details": "黄金全年一直在约4000美元附近横盘震荡。仅从三角形图表形态来看，价格可能还会再低一点。但利好因素是：全球货币供应量再次上升，增速已从7%回升至9%",
+          "important": true
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "黄金年内回正但仍跑输国债",
+          "details": "Gold back to up on the year but still lagging Tbills",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-08-10",
+      "image_urls": [
+        "/uploads/2026-08-10/a299e1ec0d03.png"
+      ]
+    },
+    {
+      "id": "other-macro-aug26",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "参议院批准司法部长、银行贷款占比持续下降",
+      "summary": "参议院以50票赞成、49票反对批准Todd Blanche担任司法部长。Apollo图表显示美国银行贷款占非金融企业债务比重已从1970年代约49%降至约18%。",
+      "bullets": [
+        {
+          "actor": "美国参议院",
+          "actor_type": "US-Congress",
+          "text": "参议院50:49批准Todd Blanche担任司法部长",
+          "details": "参议院以 50 票赞成、49 票反对的表决结果批准Todd Blanche 担任司法部长",
+          "important": true
+        },
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "美国银行贷款占比从1970年代49%降至约18%",
+          "details": "The financial system is changing: Bank lending playing smaller and smaller role. US: Bank lending share of total nonfinancial corporate debt从1970年代约49%降至Mar-26约18%",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        7
+      ],
+      "importance": 1,
+      "sources": [
+        "Apollo"
+      ],
+      "date": "2026-08-10",
+      "image_urls": [
+        "/uploads/2026-08-10/ed61be5cd86e.png"
+      ]
+    }
+  ]
+}
