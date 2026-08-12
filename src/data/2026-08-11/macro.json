@@ -1,0 +1,409 @@
+{
+  "topics": [
+    {
+      "id": "fed-hammack-rate-hike-aug2026",
+      "topic": "美联储",
+      "topic_tag": "fed",
+      "title": "Hammack：央行需尽早加息逾25bp",
+      "summary": "克利夫兰联储Hammack表示央行需要加息超过25bp，且宜早动手以避免日后被迫做更大调整。她强调目前没有看到通胀会自己回到目标水平的迹象。",
+      "bullets": [
+        {
+          "actor": "Hammack",
+          "actor_type": "Central-Bank",
+          "text": "央行需加息超25bp，宜早动手避免日后更大调整",
+          "details": "央行需要加息超过25bp,且宜早动手以避免日后被迫做更大调整；没什么比我看错更让我高兴——即需要改变政策立场把通胀带回目标;但从我的位置看,我就是没看到通胀会自己回来",
+          "important": true
+        },
+        {
+          "actor": "Fullcarry",
+          "actor_type": "KOL",
+          "text": "Fed已无法容忍供给冲击，本周CPI分量重",
+          "details": "Fed 已无法再容忍供给冲击,故本周 CPI 分量重;好在能源回落已内嵌部分去通胀,若核心也配合(如预期),9 月加息概率应从当前约 50% 进一步下降",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-08-11",
+      "image_urls": []
+    },
+    {
+      "id": "us-iran-hormuz-crisis-aug2026",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "霍尔木兹海峡危机持续，海湾国家陷入两难",
+      "summary": "WSJ报道波斯湾能源出口国认为伊朗对霍尔木兹海峡控制将成长期新常态。美伊谈判停滞，伊朗经济因封锁每天损失约435M美元。新领导人任命军队高层，市场担忧卡塔尔LNG供应中断。",
+      "bullets": [
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "海湾国家认为伊朗控制海峡将成\"新常态\"",
+          "details": "WSJ发文 波斯湾能源出口国逐渐认为，伊朗对霍尔木兹海峡的控制将成为长期\"新常态\"，虽然海湾国家不愿接受伊朗对入峡船只的监管，但相比重返全面战争并导致自身能源与基础设施面临毁灭性打击，签署开放海峡的协议是\"最不坏\"的选择；伊美分歧过大导致谈判停滞，美伊谈判缺乏明确策略，令海湾盟友深感不安；尽管全球需求疲软暂时压制了油价暴涨，但过去六个月全球石油库存减少了逾 400Mb，应对新一轮风险的缓冲空间极度有限",
+          "important": true
+        },
+        {
+          "actor": "WSJ编辑委员会",
+          "actor_type": "新闻",
+          "text": "美军部分远程导弹和拦截弹库存紧张",
+          "details": "WSJ编辑委员会发文称伊朗认为美方缺乏进一步军事升级的意愿，且有消息称美军部分远程导弹和拦截弹库存紧张。特朗普表示美方正在\"低调处理\"并采取半谈判状态，战略重点转向观察伊朗的经济困境；美国的军事封锁使伊朗政权每天面临约 435M的经济损失，封锁导致伊朗国内通胀飙升、失业率居高、工业基础受重创、本国货币大幅贬值，且难以支付军警薪酬，签署让步协议（如让出海峡控制权并提前解除制裁）是极其危险的，经济封锁是更好的选择",
+          "important": false
+        },
+        {
+          "actor": "Mojtaba Khamenei",
+          "actor_type": "Foreign-Gov",
+          "text": "伊朗新领导人任命6名军队高级指挥官",
+          "details": "Mojtaba Khamenei 任命 IRGC/武装部队总参/巴斯基 6 名军队高级指挥官员，任命综合考虑经验和连续性问题，并未出现大幅换血",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "因伊朗刺杀威胁，Trump秘密换乘返美",
+          "details": "Trump上月到土耳其参加北约峰会，回国时不但没坐卡塔尔送的专机、甚至也没坐原先的空军一号，而是乘地勤的送餐车、秘密登上旁边的C-32A，因为伊朗在实施刺杀计划，他的生命面临真实的威胁",
+          "important": false
+        },
+        {
+          "actor": "JPM Oil",
+          "actor_type": "Analyst",
+          "text": "卡塔尔LNG存储趋近饱和，1-2周内恐被迫减产",
+          "details": "因霍尔木兹海峡持续封闭，卡塔尔LNG陆上存储趋近饱和，上周装载量倍增至8艘以转为海上浮动存储。若海峡1-2周内未开通，卡塔尔恐被迫减产或停产，重启需数月，将严重冲击北半球冬季全球LNG供应。7月全球替代供应增速放缓，市场再度收紧",
+          "important": false
+        },
+        {
+          "actor": "BIS",
+          "actor_type": "Central-Bank",
+          "text": "中东冲突致全球石油供应收缩近15%，油价飙升超120%",
+          "details": "受中东冲突影响，全球石油供应收缩近15%，油价飙升超120%，成为自1990年代以来最显著能源冲击。通胀预期锚定是关键，未锚定状态下冲击影响加倍。预计美欧将面临更持久政策收紧，而日本反应温和。央行需权衡暂时性冲击与第二轮效应风险",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        5
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "BIS",
+        "JPM"
+      ],
+      "date": "2026-08-11",
+      "image_urls": [
+        "/uploads/2026-08-11/bea482517246.png"
+      ]
+    },
+    {
+      "id": "us-fiscal-defense-budget-aug2026",
+      "topic": "美国财政与国防预算",
+      "topic_tag": "policy",
+      "title": "特朗普政府提出1.5T国防预算蓝图",
+      "summary": "特朗普政府提出高达1.5T的国防预算蓝图，包含60B伊朗冲突补充资金。参议院以90:6通过临时拨款法案避免政府关门。Trump延长Jones Act航运豁免90天。",
+      "bullets": [
+        {
+          "actor": "特朗普政府",
+          "actor_type": "US-Executive",
+          "text": "提出1.5T国防预算，含60B伊朗冲突补充资金",
+          "details": "特朗普政府提出了高达 1.5T的国防预算 blueprint，包含建造新型战舰、打造\"金穹\"（Golden Dome）导弹防御系统，以及为伊朗冲突申请的60B补充资金。白宫计划再次利用党派性质的\"预算和解程序\"（Reconciliation），绕过民主党直接筹集其中的 350B增量资金，目前由于国会休会谈判停滞，Pete Hegseth 遭遇共和党内部较大阻力",
+          "important": true
+        },
+        {
+          "actor": "美国参议院",
+          "actor_type": "US-Congress",
+          "text": "参议院90:6通过临时拨款法案，资金维持至2026/12/11",
+          "details": "美国参议院以 90 比 6 的跨党派高票通过了一项临时拨款法案（CR），将联邦机构的资金维持在现有水平至 2026/12/11，以避免 10/1新财年开始时出现政府关门",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "延长Jones Act航运豁免90天，聚焦能源与化肥",
+          "details": "延长 Jones Act 航运豁免 90 天(聚焦能源商品与化肥)",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-11",
+      "image_urls": []
+    },
+    {
+      "id": "ai-investment-nvidia-financing-aug2026",
+      "topic": "AI基建投资",
+      "topic_tag": "ai",
+      "title": "NVDA牵头建立$500B AI基建融资平台",
+      "summary": "NVDA与Apollo、BlackRock等合作建立独立融资平台，调动超$500B第三方资本支持AI基建。高盛预计2026年美国AI投资将达600B。Anthropic正为IPO做准备，英特尔增发筹集200亿美元。",
+      "bullets": [
+        {
+          "actor": "NVDA",
+          "actor_type": "Corporate",
+          "text": "与六大金融机构合作建$500B AI基建融资平台",
+          "details": "NVDA与 Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs、KKR 合作,建立独立融资平台,调动超 $500B 第三方资本支持 AI 基建;Nvidia 的财务支持限于单个项目最高 25%(即设备日后租不出或贬值过快,NVDA 承担部分残值风险)",
+          "important": true
+        },
+        {
+          "actor": "GS Eco",
+          "actor_type": "Analyst",
+          "text": "预计2026年美国AI投资将达600B，占GDP近2%",
+          "details": "预计2026年美国AI投资将达600B，占GDP近2%。分析显示，AI对GDP增长的直接贡献仅为0.1%，真实影响约0.3%。尽管投资规模巨大，但通过替代其他科技支出、建筑资源再分配及有限的利率上行（约5bp），产生的挤出效应温和，总计约50B，未对宏观经济造成显著负面冲击",
+          "important": false
+        },
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "正与投资者接洽，为9-10月IPO做准备",
+          "details": "Anthropic 正与潜在投资者接洽，为最快于 9 月或 10 月初 启动的 IPO 做准备",
+          "important": false
+        },
+        {
+          "actor": "Intel",
+          "actor_type": "Corporate",
+          "text": "英特尔增发筹集200亿美元，高于预期三分之一",
+          "details": "英特尔通过这次增发股票筹集了 200 亿美元的资金。这一金额比其在周一上午宣布该计划时所预计的金额高出三分之一",
+          "important": false
+        },
+        {
+          "actor": "junkbondinvest",
+          "actor_type": "KOL",
+          "text": "$500B约为科技巨头今年债券融资总额的2倍",
+          "details": "500B约为亚马逊/Alphabet/Meta/甲骨文/英伟达/SpaceX 今年迄今债券融资总额的 2倍",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "NVDA是\"GE Capital与AIG的合体\"——打包信贷工具",
+          "details": "NVDA 是\"GE Capital 与 AIG 的合体\"——一个打包信贷工具",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "INTC"
+      ],
+      "image_indexes": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "importance": 3,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-08-11",
+      "image_urls": [
+        "/uploads/2026-08-11/77fbf76a3d72.png",
+        "/uploads/2026-08-11/102293ff349d.png",
+        "/uploads/2026-08-11/a79032ef6605.png",
+        "/uploads/2026-08-11/44963ee184d5.png"
+      ]
+    },
+    {
+      "id": "libya-oil-facility-attacks-aug2026",
+      "topic": "利比亚石油设施袭击",
+      "topic_tag": "oil",
+      "title": "利比亚宣布最高紧急状态，炼油厂或停运",
+      "summary": "利比亚国家石油公司表示若再次遭无人机袭击将宣布不可抗力并停止扎维耶炼油厂运营。利比亚已在第三起袭击后宣布最高紧急状态。",
+      "bullets": [
+        {
+          "actor": "利比亚国家石油公司",
+          "actor_type": "Corporate",
+          "text": "若再遭袭击将宣布不可抗力并停止炼油厂运营",
+          "details": "利比亚国家石油公司周二表示，如果周日和周一再次发生针对该市石油设施的无人机袭击，他们将宣布不可抗力状况，并彻底停止扎维耶炼油厂的运营。此前，该炼油厂已经报告了第三次此类袭击事件",
+          "important": true
+        },
+        {
+          "actor": "利比亚",
+          "actor_type": "Foreign-Gov",
+          "text": "利比亚在第三起无人机袭击后宣布最高紧急状态",
+          "details": "利比亚在第三起无人机袭击后宣布最高紧急状态，袭击目标为最大运营炼油厂",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-11",
+      "image_urls": []
+    },
+    {
+      "id": "us-cpi-preview-july-aug2026",
+      "topic": "美国CPI预览",
+      "topic_tag": "rates",
+      "title": "各机构预测7月核心CPI环比约+0.2%",
+      "summary": "高盛预计7月核心CPI环比+0.19%，略低于共识+0.2%，整体CPI环比+0.05%受能源下跌拖累。未来数月核心CPI预计维持+0.2%左右增速，上行风险主要来自油价。",
+      "bullets": [
+        {
+          "actor": "GS Eco",
+          "actor_type": "Analyst",
+          "text": "预计7月核心CPI环比+0.19%，同比+2.47%",
+          "details": "预计7月美国核心CPI环比+0.19%，略低于共识的+0.2%，同比+2.47%。整体CPI环比+0.05%，受能源价格下跌拖累。核心PCE因投资组合成分激增预计环比+0.26%。未来数月核心CPI预计维持+0.2%左右增速，上行风险主要来自油价",
+          "important": true
+        },
+        {
+          "actor": "各机构",
+          "actor_type": "Analyst",
+          "text": "各机构对7月核心CPI预测中位数为环比+0.22%",
+          "details": "各机构7月CPI预测：BoA核心+0.20%，Barclays+0.24%，BNP+0.25%，Citadel+0.20%，Citi+0.16%，DB+0.26%，Employ America+0.19%，GS+0.19%，JPM+0.22%，Moody's+0.25%，MS+0.24%，Nomura+0.18%，TD+0.20%，UBS+0.24%，Wells+0.24%。中位数+0.22%。上月（6月）核心环比-0.02%",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        6
+      ],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "WSJ"
+      ],
+      "date": "2026-08-11",
+      "image_urls": [
+        "/uploads/2026-08-11/8a13825db3e6.png"
+      ]
+    },
+    {
+      "id": "labor-market-participation-aug2026",
+      "topic": "美国劳动力市场",
+      "topic_tag": "macro-other",
+      "title": "老龄化主导劳动参与率下行",
+      "summary": "Employ America研究显示劳动参与率下降约三分之二可由人口权重变化解释，其余源于65岁以上老年工人参与率降低。KOL指出55岁以上人群自2025年以来有4.2M人离开劳动力市场。",
+      "bullets": [
+        {
+          "actor": "Employ America",
+          "actor_type": "Analyst",
+          "text": "劳动参与率下降三分之二由人口权重变化解释",
+          "details": "最新研究显示，美国劳动参与率下降中约三分之二可由人口权重变化解释，其余主要源于65岁及以上老年工人参与率降低。报告认为，老龄化与老年退休是劳动参与率下行的主要驱动因素",
+          "important": true
+        },
+        {
+          "actor": "Danny",
+          "actor_type": "KOL",
+          "text": "自2025年以来4.2M名55+离开劳动力，占总供给2.4%",
+          "details": "NFP 转负不是移民故事,是纯人口 + 财富效应。黄金年龄(prime-age)参与率在高位;下滑的是 55+ 自 2025 以来 4.2M 名 55+ 离开劳动力(占总劳动供给 2.4%),看似提前退休、大概率因财富效应",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Employ America"
+      ],
+      "date": "2026-08-11",
+      "image_urls": []
+    },
+    {
+      "id": "market-risk-correlation-aug2026",
+      "topic": "市场风险信号",
+      "topic_tag": "macro-other",
+      "title": "股债相关性转负，经济风险转向供给侧",
+      "summary": "旧金山联储研究显示股票-债券相关性近期由正转负，表明美国经济风险已从需求侧转向供给侧。油价不确定性指标与油价相关性自2025年起转为正。",
+      "bullets": [
+        {
+          "actor": "San Fed",
+          "actor_type": "Central-Bank",
+          "text": "股债相关性转负，经济风险从需求侧转向供给侧",
+          "details": "股票-债券相关性近期由正转负，表明美国经济风险已从需求侧转向供给侧。油价不确定性指标与油价相关性自2025年起转为正，油市波动与价格上涨并存，政策制定者或面临通胀高企与经济放缓的组合",
+          "important": true
+        },
+        {
+          "actor": "Barclay",
+          "actor_type": "Analyst",
+          "text": "小盘股表现与基本面脱节，建议IWM看跌对冲",
+          "details": "财报季重燃市场FOMO情绪，但小盘股表现与基本面严重脱节。Russell 2000年初至今涨21%，远超大盘，建议通过IWM看跌期权价差对冲",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "IWM"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "San Fed",
+        "Barclays"
+      ],
+      "date": "2026-08-11",
+      "image_urls": []
+    },
+    {
+      "id": "japan-boj-intervention-aug2026",
+      "topic": "日本央行与市场",
+      "topic_tag": "fed",
+      "title": "野村上调日股目标价，KOL质疑干预效果",
+      "summary": "野村将TOPIX 2026年底目标价上调至4,400点，日经225上调至70,000点。KOL Robin Brooks认为日本每次干预都给市场更多\"干预无效\"的证据。",
+      "bullets": [
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "上调TOPIX目标价至4,400，日经225至70,000",
+          "details": "上调日本股市展望：将TOPIX 2026年底目标价上调至4,400点，日经225上调至70,000点。主要驱动因素为TOPIX EPS预测上调（2026财年同比+19.2%）及强劲供需（年回购额预估20-22T日元）。推荐电气机械、机械板块，回避医药及汽车板块。长期预期回报率约7-8%",
+          "important": true
+        },
+        {
+          "actor": "Robin Brooks",
+          "actor_type": "KOL",
+          "text": "日本每次干预都给市场更多\"干预无效\"的证据",
+          "details": "日本的问题是每次干预(规模越来越大、现在还拉上美国)都给市场更多\"干预无效\"的证据,是自我拆台的策略,最终市场会完全无视干预",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "BOJ/MOF管理的是日本自身经济，对美债影响有限",
+          "details": "关于\"财政部要保护长端债市(压利率)、语言从'increases'改'changes'\"的一堆报道,基本是垃圾——BOJ/MOF 在管理的是日本自身经济(增长乏力+进口能源带来通胀脆弱),这比该政策对美债长端的影响重要几个数量级",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Nomura"
+      ],
+      "date": "2026-08-11",
+      "image_urls": []
+    },
+    {
+      "id": "other-macro-aug2026",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "其他宏观观点",
+      "summary": "包括KOL对利率政策本质的讨论以及半导体与医疗保健估值对比图。",
+      "bullets": [
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "利率轨迹始终是政治决定",
+          "details": "利率是美国经济系统的一个输入变量,政府通过控制隔夜利率、Fed 资产负债表、发行规模与监管框架来塑造曲线以达成经济目标，利率轨迹始终是政治决定",
+          "important": false
+        },
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "半导体板块前瞻P/E已从高点回落至约20倍",
+          "details": "Apollo图表显示S&P 500半导体板块前瞻P/E从2021年初近38倍高点回落至2026年9月约18-23倍区间，而医疗保健板块一直稳定在15-20倍区间",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        4
+      ],
+      "importance": 1,
+      "sources": [
+        "Apollo"
+      ],
+      "date": "2026-08-11",
+      "image_urls": [
+        "/uploads/2026-08-11/49a3a952e92f.png"
+      ]
+    }
+  ]
+}
