@@ -1,0 +1,453 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-aug2026",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "特朗普称完全控制霍尔木兹海峡，阿布扎比提议运输伊拉克原油",
+      "summary": "特朗普表示美国完全控制霍尔木兹海峡，处境非常好。阿布扎比国家石油公司提议利用其运输方案将伊拉克原油通过海峡运往亚洲炼油厂。UBS因霍尔木兹海峡中断风险上调油价预测。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "称美国完全控制霍尔木兹海峡，处境非常好",
+          "details": "伊朗的情况相当不错。\"我们完全控制着霍尔木兹海峡，\"特朗普在回答关于伊朗局势的提问时说。\"目前，我们的处境非常好\"",
+          "important": true
+        },
+        {
+          "actor": "阿布扎比国家石油公司",
+          "actor_type": "Corporate",
+          "text": "提议将伊拉克原油通过霍尔木兹海峡运往亚洲",
+          "details": "BBG报道阿布扎比国家石油公司提议利用其成熟的运输方案，将伊拉克的原油通过霍尔木兹海峡运输出去。该公司会用同样的方式，将巴士拉等地区的原油运送到亚洲的炼油厂",
+          "important": false
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "因霍尔木兹海峡中断风险上调油价预测至85美元/桶",
+          "details": "EIA因霍尔木兹海峡中断风险上调油价预测，2026年Q3布伦特原油均价看至85美元/桶。尽管中国需求拖累，但OECD需求韧性支撑2027年全球需求增长上调至2.2 Mb/d。7月OPEC+产量环比大增1Mb/d，伊拉克与沙特领涨",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3
+      ],
+      "importance": 3,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-08-12",
+      "image_urls": [
+        "/uploads/2026-08-12/8fd4cdfd077c.png"
+      ]
+    },
+    {
+      "id": "trump-policy-aug2026",
+      "topic": "特朗普政策动态",
+      "topic_tag": "policy",
+      "title": "特朗普拟推资本利得税减免，联邦法官阻止选票邮递令",
+      "summary": "特朗普正寻求新政策承诺以便中期选举前展示，包括呼吁国会降低资本利得税及房屋销售税收减免。联邦法官判定总统无权下令邮局停止递送选票。特朗普家族媒体公司放弃博彩加密业务，全力押注Truth Social。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "寻求国会降低资本利得税及房屋销售税收减免",
+          "details": "BBG称Trump正在寻求一些新的政策承诺，以便在中期选举之前向选民们展示。这些措施可能包括呼吁国会降低资本利得税，以及为某些房屋销售提供税收减免",
+          "important": true
+        },
+        {
+          "actor": "联邦法官",
+          "actor_type": "Unknown",
+          "text": "判总统无权下令邮局停止递送选票",
+          "details": "联邦法官判总统无权下令\"如果州政府不上交选民信息，邮局就不给这个州递送邮寄选票\"",
+          "important": false
+        },
+        {
+          "actor": "特朗普家族媒体公司",
+          "actor_type": "Corporate",
+          "text": "放弃博彩加密业务，全力押注Truth Social",
+          "details": "特朗普家族旗下的媒体公司，承认公司计划放弃网络博彩、加密货币等赛道业务，全力押注自家社交平台 Truth Social",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "DJT"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-08-12",
+      "image_urls": []
+    },
+    {
+      "id": "russia-ukraine-oil-aug2026",
+      "topic": "俄乌能源战",
+      "topic_tag": "geo",
+      "title": "乌克兰应美方请求暂停袭击俄港口油轮，俄罗斯开始进口汽油",
+      "summary": "应美国副总统JD Vance请求，乌克兰暂停对俄罗斯黑海港口新罗西斯克油轮的无人机袭击。由于乌克兰对俄炼油厂袭击导致汽油短缺，俄罗斯开始从印度等国进口汽油。",
+      "bullets": [
+        {
+          "actor": "JD Vance",
+          "actor_type": "US-Executive",
+          "text": "请求乌克兰暂停袭击俄港口油轮",
+          "details": "FT报道应美国副总统JD Vance的请求，乌克兰暂停了对使用俄罗斯黑海港口新罗西斯克的油轮的无人机袭击",
+          "important": true
+        },
+        {
+          "actor": "俄罗斯",
+          "actor_type": "Foreign-Gov",
+          "text": "因乌克兰袭击炼油厂致汽油短缺，开始从印度进口汽油",
+          "details": "BBG报道由于乌克兰对俄罗斯炼油厂的袭击，导致当地汽油严重短缺，俄罗斯开始从远至印度的国家进口汽油",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "FT",
+        "Bloomberg"
+      ],
+      "date": "2026-08-12",
+      "image_urls": []
+    },
+    {
+      "id": "cpi-inflation-aug2026",
+      "topic": "美国CPI通胀",
+      "topic_tag": "rates",
+      "title": "7月CPI即将公布，市场对通胀下行风险更敏感",
+      "summary": "多家卖方预计7月核心CPI环比+0.2%符合预期。高盛指出车险降价或拖低核心CPI。BLS局长去职后CPI仅1次高于预期。HSBC预计核心CPI同比降至2.5%。",
+      "bullets": [
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "预计7月CPI符合预期，市场对通胀下行风险更敏感",
+          "details": "预计美国7月CPI环比符合预期：整体+0.1%，核心+0.2%。报告指出市场对通胀下行风险更敏感，若数据疲软将重创9月加息预期并打压美元；若数据强劲，加息仍存疑。维持年内加息三次观点，建议关注做空2年期美债及美元下行风险",
+          "important": true
+        },
+        {
+          "actor": "trap_zack",
+          "actor_type": "KOL",
+          "text": "BLS局长去职后核心CPI仅1次高于预期",
+          "details": "自从Erika McEntarfer去年 8 月被免去 BLS 局长一职以来，核心 CPI 的数值只有 1 次高于预期",
+          "important": false
+        },
+        {
+          "actor": "Anna",
+          "actor_type": "KOL",
+          "text": "高盛预期核心CPI被车险降价拖低，Bloomberg有相似信号",
+          "details": "高盛预期核心 CPI 被\"新冠以来最大车险降价\"拖低，在 Bloomberg Price Project 里看到相似信号,且已在财报电话会与实际定价中见到",
+          "important": false
+        },
+        {
+          "actor": "HSBC",
+          "actor_type": "Analyst",
+          "text": "预计7月核心CPI同比降至2.5%",
+          "details": "黄金结构性看涨但短期需整固。受中东地缘风险及油价支撑，金价坚挺，但RSI高位及7月CPI发布在即，4500 $/oz阻力位前或现获利了结。白银估值偏高且依赖黄金，存在回调风险；铂族金属因需求低迷进入平淡期。预计7月核心CPI同比降至2.5%",
+          "important": false
+        },
+        {
+          "actor": "Valckrie",
+          "actor_type": "KOL",
+          "text": "SPY昨日波幅数月最低，CPI前市场不愿移动",
+          "details": "SPY昨日是数月来日内波幅最低/最窄的交易日之一——CPI 前市场不愿移动",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY"
+      ],
+      "image_indexes": [
+        5
+      ],
+      "importance": 3,
+      "sources": [
+        "BofA",
+        "HSBC"
+      ],
+      "date": "2026-08-12",
+      "image_urls": [
+        "/uploads/2026-08-12/2efccf40b352.png"
+      ]
+    },
+    {
+      "id": "memory-semiconductor-aug2026",
+      "topic": "存储半导体",
+      "topic_tag": "ai",
+      "title": "淡马锡拟直投三星SK海力士，存储股治理问题受关注",
+      "summary": "新加坡淡马锡计划直接投资三星电子和SK海力士，已与韩国政府接触。DRAM现货市场横盘整理，交易量低迷。KOL指出SK和三星公司治理问题，预计存储股明年毛利下行。",
+      "bullets": [
+        {
+          "actor": "淡马锡",
+          "actor_type": "Foreign-Gov",
+          "text": "计划直投三星电子和SK海力士，已与韩国政府接触",
+          "details": "据《亚洲商业日报》援引韩国政府内部人士的话报道，新加坡的淡马锡计划直接投资于三星电子和 SK 海力士。淡马锡最近决定对这两家芯片制造商进行投资，并已与韩国政府取得联系，以确定最佳的投资时机",
+          "important": true
+        },
+        {
+          "actor": "TrendForce",
+          "actor_type": "Analyst",
+          "text": "DRAM现货市场横盘整理，交易量低迷",
+          "details": "据 TrendForce 报道，与上周的情况类似，DRAM 现货市场依然处于横盘整理状态。由于买卖双方尚未就价格达成一致，交易量仍然较低",
+          "important": false
+        },
+        {
+          "actor": "ShanghaoJin",
+          "actor_type": "KOL",
+          "text": "SK和三星存在公司治理问题，存储股明年毛利下行",
+          "details": "储本身没问题,烂的是两家韩国公司的公司治理问题，SK 的 Chey 会长拿被低估的 HBM 去换 NV 卡,好把 SK 电信搭成韩国 CSP——而他在 SKHY 的持股远小于此,等于损公肥私。三星那边,中层把存储定价当成个人奖金池在跑。存储股明年毛利会下行,LTA(长约)是重要推手",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        4
+      ],
+      "importance": 2,
+      "sources": [
+        "亚洲商业日报",
+        "TrendForce"
+      ],
+      "date": "2026-08-12",
+      "image_urls": [
+        "/uploads/2026-08-12/2f3fe9036870.png"
+      ]
+    },
+    {
+      "id": "market-structure-aug2026",
+      "topic": "市场结构",
+      "topic_tag": "macro-other",
+      "title": "Burry：市场极端离散，182日无大幅抛售日创30年纪录",
+      "summary": "Michael Burry指出当前市场呈现极端离散，个股波动剧烈但大盘指数平稳。纽交所已连续182个交易日未出现单日80%以上成交量为下跌成交的大幅抛售日，刷新近30年最长纪录。",
+      "bullets": [
+        {
+          "actor": "Burry",
+          "actor_type": "KOL",
+          "text": "市场极端离散，182日无大幅抛售日创30年纪录，加空SOX",
+          "details": "当前市场呈现极端离散（个股波动剧烈，但大盘指数平稳）。截至当日，纽约证券交易所已连续 182 个交易日 未出现过\"单日 80% 以上成交量为下跌成交\"的大幅抛售日，刷新了近 30 年来的最长纪录。加空SOX",
+          "important": true
+        },
+        {
+          "actor": "MarioNawfal",
+          "actor_type": "KOL",
+          "text": "Bessent擅长稳市，每次成功压制市场反应",
+          "details": "Bessent 极擅长稳市:\"油过剩/谈判/降级\"的头条喂给算法;稀薄时段的大卖单触发动能算法压价，Bessent 太称职,每次成功压制市场反应,Trump 就再收到\"一切都好\"的信号",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SOX"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-12",
+      "image_urls": []
+    },
+    {
+      "id": "ai-software-datacenter-aug2026",
+      "topic": "AI软件与数据中心",
+      "topic_tag": "ai",
+      "title": "软件股不再被视为AI受害者，Coreweave电话会点燃neo-cloud",
+      "summary": "KOL指出市场此前将软件股视为AI受害者的偏见正被打破，买入逻辑刚开始在财务数据中显现。Coreweave电话会点燃所有neo-cloud，带动整个数据中心复合体。",
+      "bullets": [
+        {
+          "actor": "lord_fed",
+          "actor_type": "KOL",
+          "text": "软件股不再被视为AI受害者，行情可能才刚开始",
+          "details": "市场此前将软件股视为 AI 的\"受害者\"，这一偏见正被打破。买入该组合的核心驱动逻辑才刚开始在财务数据中显现，这一轮软件行情可能才刚刚开始",
+          "important": true
+        },
+        {
+          "actor": "Jimcramer",
+          "actor_type": "KOL",
+          "text": "Coreweave电话会点燃neo-cloud及数据中心复合体",
+          "details": "Coreweave 电话会点燃所有 neo-cloud、带动整个数据中心复合体",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "CRWV"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-12",
+      "image_urls": []
+    },
+    {
+      "id": "japan-fiscal-aug2026",
+      "topic": "日本财政",
+      "topic_tag": "policy",
+      "title": "高盛：日本难以覆盖5万亿日元消费税削减缺口",
+      "summary": "高盛指出日本难以通过非税收入及缩减特别税收措施完全覆盖5万亿日元的食品消费税削减缺口。2029年拟推出的永久性可退还税收抵免对财政可持续性挑战更大。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "日本难以覆盖5万亿日元消费税削减缺口",
+          "details": "日本难以通过非税收入及缩减特别税收措施完全覆盖5T日元的食品消费税削减缺口。预计2027财年外汇储备利息收入仅能额外提供1T日元资金，而特别税收措施缩减空间有限",
+          "important": true
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "2029年永久性税收抵免对财政可持续性挑战更大",
+          "details": "相较临时减税，2029年拟推出的永久性可退还税收抵免（年均3T日元）对财政可持续性挑战更大，需警惕长期国债发行总量增加风险",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-08-12",
+      "image_urls": []
+    },
+    {
+      "id": "carry-trade-aug2026",
+      "topic": "套利交易",
+      "topic_tag": "rates",
+      "title": "高盛：FX Carry表现突出，商品债券套利参差不齐",
+      "summary": "高盛报告指出尽管宏观环境不稳定，套利交易依然稳健。FX Carry过去1-2年表现最突出，风险调整后收益强劲。商品套利因现货溢价加深受限，债券期货套利受制于平坦收益率曲线。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "FX Carry过去1-2年表现最突出，风险调整后收益强劲",
+          "details": "尽管宏观环境更加不稳定，风险偏好也有所波动，但\"套利交易\"依然表现稳健，FX Carry过去 1–2 年表现最为突出，风险调整后收益强劲",
+          "important": true
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "商品债券套利表现参差，Credit风险调整后回报偏弱",
+          "details": "商品与债券套利表现参差不齐，商品套利因现货溢价加深而受限，债券期货套利受制于平坦的收益率曲线。Credit风险调整后的总回报与超额回报普遍偏弱",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-08-12",
+      "image_urls": []
+    },
+    {
+      "id": "precious-metals-aug2026",
+      "topic": "贵金属",
+      "topic_tag": "macro-other",
+      "title": "花旗看涨白银至90美元，汇丰称黄金短期需整固",
+      "summary": "花旗维持白银看涨，0-3个月目标价75美元/盎司，6-12个月目标价90美元/盎司，预计投资需求复苏主导行情。汇丰认为黄金结构性看涨但短期需整固，4500美元阻力位前或现获利了结。",
+      "bullets": [
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "白银0-3个月目标75美元，6-12个月目标90美元",
+          "details": "维持白银看涨观点，0-3个月目标价75 $/oz，6-12个月目标价90 $/oz。预计投资需求复苏将主导行情，尽管太阳能领域因BC技术普及面临结构性减量逆风。印度市场7%溢价及潜在需求释放提供支撑，预计2026年白银市场仍将保持64Moz赤字",
+          "important": true
+        },
+        {
+          "actor": "HSBC",
+          "actor_type": "Analyst",
+          "text": "黄金结构性看涨但短期需整固，4500美元阻力位前或获利了结",
+          "details": "黄金结构性看涨但短期需整固。受中东地缘风险及油价支撑，金价坚挺，但RSI高位及7月CPI发布在即，4500 $/oz阻力位前或现获利了结。白银估值偏高且依赖黄金，存在回调风险；铂族金属因需求低迷进入平淡期",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GLD",
+        "SLV"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Citi",
+        "HSBC"
+      ],
+      "date": "2026-08-12",
+      "image_urls": []
+    },
+    {
+      "id": "earnings-breadth-aug2026",
+      "topic": "财报季",
+      "topic_tag": "earnings",
+      "title": "S&P 500盈利超预期比例创历史新高",
+      "summary": "Deutsche Bank数据显示S&P 500盈利超预期比例创历史新高，盈利预期持续上修。Fidelity图表显示Q1 2026盈利增长预期达32%。",
+      "bullets": [
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "S&P 500盈利超预期比例创历史新高",
+          "details": "Figure 1: Earnings shattered the high bar, with the breadth of beats at a record high. Proportion of S&P 500 beating earnings estimate. 2006-19年平均为74%",
+          "important": true
+        },
+        {
+          "actor": "Fidelity",
+          "actor_type": "Analyst",
+          "text": "Q1 2026盈利增长预期达32%，季末持续上修",
+          "details": "Earnings Estimate Progression图表显示Q1 2026盈利增长预期达+32%，Q2 2025为+11%，Q1 2025为+14%/+15%，数据截至8/9/2026",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY"
+      ],
+      "image_indexes": [
+        0,
+        1
+      ],
+      "importance": 2,
+      "sources": [
+        "Deutsche Bank",
+        "Fidelity",
+        "Bloomberg"
+      ],
+      "date": "2026-08-12",
+      "image_urls": [
+        "/uploads/2026-08-12/bf78d2b60f90.png",
+        "/uploads/2026-08-12/342313193d2d.png"
+      ]
+    },
+    {
+      "id": "corporate-bond-supply-aug2026",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "美国非金融企业债券发行量持续上升",
+      "summary": "图表显示美国非金融企业债券发行量（排除金融行业）从2024年持续上升至2026年YTD，通信、科技、消费可选为主要发行板块。",
+      "bullets": [
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "美国非金融企业债券发行量2024-2026年持续上升",
+          "details": "US Corporate Bond Supply by Sector ex Financials (>$1bn Outstanding) — Annual 2016–2026 YTD (USD bn)。通信板块229.3bn，科技105.7bn，消费可选117.4bn，医疗60.2bn。2024年约433.2bn，2025年587.9bn，2026年YTD约610bn",
+          "important": true
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "通信、科技、消费可选为债券发行主要板块",
+          "details": "按板块分解：Communications 229.3bn, Consumer Discretionary 117.4bn, Technology 105.7bn, Health Care 60.2bn, Industrials 31.1bn, Utilities 22.0bn, Energy 16.6bn, Materials 10.9bn, Consumer Staples 9.7bn, Real Estate 6.9bn",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-08-12",
+      "image_urls": [
+        "/uploads/2026-08-12/5873823137e3.png"
+      ]
+    }
+  ]
+}
