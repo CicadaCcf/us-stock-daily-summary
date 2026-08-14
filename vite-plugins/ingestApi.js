@@ -862,10 +862,10 @@ async function handleUpdate(req, res) {
   const dateOk = targetDate && /^\d{4}-\d{2}-\d{2}$/.test(targetDate);
   const pyArgs = (script) => dateOk ? [script, '--date', targetDate] : [script];
   try {
-    write(`[info] step 1/3: polygon + yahoo + CNN PCR snapshot${dateOk ? ` · date=${targetDate}` : ''}\n`);
+    write(`[info] step 1/4: polygon + yahoo + CNN PCR snapshot${dateOk ? ` · date=${targetDate}` : ''}\n`);
     await spawnStep('python3', ['-u', ...pyArgs('server/polygon_snapshot.py')], write);
 
-    write(`\n[info] step 2/3: Finviz bubble screenshot\n`);
+    write(`\n[info] step 2/4: Finviz bubble screenshot\n`);
     try {
       await spawnStep('python3', ['-u', 'server/finviz_screenshot.py'], write);
     } catch (e) {
@@ -875,7 +875,7 @@ async function handleUpdate(req, res) {
       write(`[warn] keeping previous public/finviz_bubble.png\n`);
     }
 
-    write(`\n[info] step 3/3: Polygon news for Top Movers\n`);
+    write(`\n[info] step 3/4: Polygon news for Top Movers\n`);
     try {
       await spawnStep('python3', ['-u', ...pyArgs('server/movers_news.py')], write);
     } catch (e) {
@@ -884,6 +884,20 @@ async function handleUpdate(req, res) {
       write(`\n[warn] Movers news step failed: ${e.message}\n`);
       write(`[warn] keeping previous src/data/{date}/movers_news.json\n`);
     }
+
+    write(`\n[info] step 4/4: auto-fill industry/reason for highlighted movers\n`);
+    try {
+      // For newly-highlighted movers (no carried-forward tag), Claude drafts a
+      // catalyst tag + reason (earnings numbers via Longbridge) and writes them
+      // as suggestions into Supabase for the user to review. Also sets
+      // days_remaining=1 for one-shot catalysts (业绩/临床). Non-fatal — the
+      // cells just stay blank for manual entry if it fails.
+      await spawnStep('python3', ['-u', ...pyArgs('server/movers_autofill.py')], write);
+    } catch (e) {
+      write(`\n[warn] Auto-fill step failed: ${e.message}\n`);
+      write(`[warn] industry/reason left blank for manual entry\n`);
+    }
+
     const date = latestDataDate();
     write(`\n__STATUS__ ok=true date=${date}\n`);
   } catch (e) {

@@ -1,0 +1,420 @@
+{
+  "topics": [
+    {
+      "id": "white-house-press-secretary-departure",
+      "topic": "白宫人事",
+      "topic_tag": "policy",
+      "title": "白宫新闻秘书八月底离职",
+      "summary": "白宫新闻秘书将于八月底离职，属于美国行政部门人事变动。",
+      "bullets": [
+        {
+          "actor": "白宫",
+          "actor_type": "US-Executive",
+          "text": "白宫新闻秘书八月底离职",
+          "details": "白宫新闻秘书八月底离职",
+          "important": true
+        },
+        {
+          "actor": "WSJ编辑委员会",
+          "actor_type": "新闻",
+          "text": "WSJ称7月通胀数据反驳对Warsh抗通胀信誉的质疑",
+          "details": "WSJ编辑委员会发文称7月放缓的通胀数据有力地反驳了批评者对新任美联储主席Warsh抗通胀\"信誉\"的质疑，证明Fed在6月和7月维持利率不变的审慎决策是明智且合理的",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-08-13",
+      "image_urls": []
+    },
+    {
+      "id": "korea-markets-policy",
+      "topic": "韩国市场政策",
+      "topic_tag": "policy",
+      "title": "韩国加强散户监管并首购黄金资产",
+      "summary": "韩国将要求散户先做模拟交易才能交易2倍单股ETF，韩国央行13年来首次购买与黄金相关的资产。三星电子和SK海力士预计公布股东回报措施。",
+      "bullets": [
+        {
+          "actor": "韩国",
+          "actor_type": "Foreign-Gov",
+          "text": "散户须先做模拟交易才能碰2x单股ETF",
+          "details": "韩国将要求散户先做模拟交易才能碰2x单股ETF",
+          "important": true
+        },
+        {
+          "actor": "韩国央行",
+          "actor_type": "Central-Bank",
+          "text": "韩国央行13年来首次购买黄金相关资产",
+          "details": "韩国央行13年来首次购买了与黄金相关的资产",
+          "important": false
+        },
+        {
+          "actor": "三星电子",
+          "actor_type": "Corporate",
+          "text": "三星预计本月公布特别股息等股东回报措施",
+          "details": "韩国媒体报道称，三星电子预计会在本月公布具体的股东回报措施，包括特别股息等，同时还会公布其未来的三年发展计划",
+          "important": false
+        },
+        {
+          "actor": "SK海力士",
+          "actor_type": "Corporate",
+          "text": "SK海力士预计Q3公布发展计划",
+          "details": "SK海力士也预计会在第三季度内公布自己的计划",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "韩国媒体"
+      ],
+      "date": "2026-08-13",
+      "image_urls": []
+    },
+    {
+      "id": "china-property-fiscal-subsidy",
+      "topic": "中国地产政策",
+      "topic_tag": "policy",
+      "title": "A股传财政贴息地产政策小作文",
+      "summary": "市场传闻9月30日前将出台全国性地产政策，财政贴息20-50BP，地方贴息20-50BP，合计40-100BP。顶格贴息后首套房贷利率可降至2.05%左右，仅针对新房首次增量用户，存量用户大概率无，二套房贴息待定。",
+      "bullets": [
+        {
+          "actor": "市场传闻",
+          "actor_type": "Unknown",
+          "text": "传9.30前出台全国性地产贴息政策",
+          "details": "A股传财政贴息小作文，称9.30前会出台一个全国性的地产政策",
+          "important": true
+        },
+        {
+          "actor": "市场传闻",
+          "actor_type": "Unknown",
+          "text": "财政+地方贴息合计40-100BP，首套可降至2.05%",
+          "details": "财政贴息20-50BP，地方贴息20-50BP，结合起来就是能达到40-100个BP，如果按顶格来，现有的首套利率减去100个BP，首套房贷利率就是2.05%左右了",
+          "important": false
+        },
+        {
+          "actor": "市场传闻",
+          "actor_type": "Unknown",
+          "text": "仅针对新房首次增量用户，存量大概率无",
+          "details": "仅仅针对新房首次增量用户，存量用户大概率无。二套房目前在研究中，大概率也会贴，贴息bp待定。并且不是单指一线或深圳，这是全国性的政策",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-13",
+      "image_urls": []
+    },
+    {
+      "id": "ai-compute-bubble-burry",
+      "topic": "AI算力泡沫",
+      "topic_tag": "ai",
+      "title": "Burry警告AI算力市场现繁荣顶部特征",
+      "summary": "Burry认为Nebius现象展现繁荣顶部典型特征：短期算力合同单价$40-50M/GW，是中期合同$20-25M/GW的两倍，客户甘愿付2倍溢价反映FOMO。现货溢价暗示GPU硬件或客户在快速贬值，而Nebius却将服务器折旧年限从4年延长至5年掩盖真实衰减。",
+      "bullets": [
+        {
+          "actor": "Burry",
+          "actor_type": "KOL",
+          "text": "Nebius现象展现AI繁荣顶部典型特征",
+          "details": "AI概念交易目前依然强劲（主要由CoreWeave的亮眼营收推动），但他认为Nebius (NBIS)的现象展现了繁荣顶部的典型特征",
+          "important": true
+        },
+        {
+          "actor": "Burry",
+          "actor_type": "KOL",
+          "text": "短期算力合同溢价2倍，反映极度FOMO",
+          "details": "Nebius的1-3年期中期算力合同价格为$20-25M/GW,但Nebius故意保留部分2027年产能不卖，专门满足6个月以内的短期需求，以此索取高额溢价——短期合同单价高达$40-50M/GW,客户甘愿付2倍溢价购买短期算力，反映了极度的恐惧/错失恐惧（FOMO）与狂热",
+          "important": false
+        },
+        {
+          "actor": "Burry",
+          "actor_type": "KOL",
+          "text": "现货溢价暗示GPU或客户在快速贬值",
+          "details": "远期价格远低于近期价格现象在商品市场称为现货溢价，通常暗示该资产在快速贬值。由于电力（Power）本身不会贬值，因此在快速贬值的是GPU硬件，或是买算力的客户（甚至两者皆有）",
+          "important": false
+        },
+        {
+          "actor": "Burry",
+          "actor_type": "KOL",
+          "text": "Nebius将折旧年限从4年延至5年掩盖衰减",
+          "details": "尽管Nebius的交易条款隐含着算力资产每年约50%的衰减率，Nebius却在今年将服务器的折旧年限从4年延长到了5年，这种会计处理掩盖了真实的资产衰减速度",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NBIS"
+      ],
+      "image_indexes": [
+        3
+      ],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-08-13",
+      "image_urls": [
+        "/uploads/2026-08-13/cab60fd369bc.png"
+      ]
+    },
+    {
+      "id": "usmca-mexico-tariff",
+      "topic": "美墨加协议",
+      "topic_tag": "policy",
+      "title": "墨西哥敦促美国降低北美汽车关税",
+      "summary": "作为重新谈判美墨加协议的一部分，墨西哥正在敦促美国降低对北美汽车的关税。",
+      "bullets": [
+        {
+          "actor": "墨西哥",
+          "actor_type": "Foreign-Gov",
+          "text": "墨西哥敦促美国降低北美汽车关税",
+          "details": "作为重新谈判美墨加协议的一部分，墨西哥正在敦促美国降低对北美汽车的关税",
+          "important": true
+        },
+        {
+          "actor": "Swonk",
+          "actor_type": "KOL",
+          "text": "财年至今赤字$1.8T超去年全年，利息支出$1.2T",
+          "details": "财年至今赤字$1.8T(已超去年全年),利息支出$1.2T,企业税收入-18%,而财年还剩两个月",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-13",
+      "image_urls": []
+    },
+    {
+      "id": "boj-rate-hike",
+      "topic": "日本央行",
+      "topic_tag": "fed",
+      "title": "日本政府支持央行短期加息，或9-10月行动",
+      "summary": "彭博报道日本首相高市早苗的政府支持日本银行在短期内加息，下一次加息很可能在9月或10月发生。",
+      "bullets": [
+        {
+          "actor": "高市早苗政府",
+          "actor_type": "Foreign-Gov",
+          "text": "日本政府支持央行短期内加息",
+          "details": "BBG称日本首相高市早苗的政府支持日本银行在短期内加息",
+          "important": true
+        },
+        {
+          "actor": "日本央行",
+          "actor_type": "Central-Bank",
+          "text": "下一次加息很可能在9月或10月发生",
+          "details": "下一次加息很可能在9月或10月发生",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-08-13",
+      "image_urls": []
+    },
+    {
+      "id": "anthropic-ipo-acquisition",
+      "topic": "Anthropic动态",
+      "topic_tag": "ai",
+      "title": "Anthropic或10月以2T估值上市，洽购Decart AI",
+      "summary": "FT报道Anthropic投资者预计公司将在10月以2T或更高估值上市。同时Bloomberg消息称Anthropic正洽谈以约6B价格收购AI初创企业Decart AI，后者致力于开发物理世界模拟的\"世界模型\"及提高芯片效率的软件。",
+      "bullets": [
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic或10月以2T估值上市",
+          "details": "FT报道Anthropic的投资者预计，这家人工智能初创公司将在10月以2T或更高的估值进行上市",
+          "important": true
+        },
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic洽谈以6B收购Decart AI",
+          "details": "BBG的消息，Anthropic正在洽谈以约6B的价格收购这家人工智能初创企业Decart AI。Decart AI致力于开发能够模拟物理世界的\"世界模型\"，同时还开发出能够提高芯片效率的软件，从而降低人工智能训练的成本",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "FT",
+        "Bloomberg"
+      ],
+      "date": "2026-08-13",
+      "image_urls": []
+    },
+    {
+      "id": "china-ai-model-censorship",
+      "topic": "中国AI审查",
+      "topic_tag": "ai",
+      "title": "WSJ称美国AI模型无意中过滤政治内容",
+      "summary": "WSJ报道美国的AI模型在不知不觉中过滤了与政治相关的内容，同时无意中宣扬威权主义思想。用中文提出政治敏感问题时，更有可能得到支持北京的回应，而用英语提问则不会如此。",
+      "bullets": [
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "美国AI模型无意中过滤政治内容并宣扬威权思想",
+          "details": "WSJ美称国的AI模型在不知不觉中过滤了与政治相关的内容，同时也在无意中宣扬了威权主义思想",
+          "important": true
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "中文提问更易得到支持北京的回应",
+          "details": "用中文提出政治敏感问题时，更有可能得到支持北京的回应，而用英语提问则不会如此",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-08-13",
+      "image_urls": []
+    },
+    {
+      "id": "kol-views-macro",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "KOL观点汇总：CPI、加息、市场仓位",
+      "summary": "多位KOL发表宏观观点：Claudia Sahm认为CPI清过好数据门槛但需看PPI；WarrenPies认为38%加息概率被低估；Erian认为美债收益率高更多因供给压力；Andy和Timmer分析股票配置和市场动能。",
+      "bullets": [
+        {
+          "actor": "Claudia Sahm",
+          "actor_type": "KOL",
+          "text": "CPI清过好数据门槛，加息概率下降",
+          "details": "今日CPI\"清过了好数据的门槛\",加息概率今天有所下降;但两个月不够,还要看PPI能否映射成好的PCE",
+          "important": true
+        },
+        {
+          "actor": "WarrenPies",
+          "actor_type": "KOL",
+          "text": "38%的9月加息概率被低估，Hammack论据情绪化",
+          "details": "38%的9月加息概率被低估，Hammack论据情绪化+政治化,是产生政策错误的心态，油气自7月低点持续上行会加大FOMC政治压力",
+          "important": false
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "KOL",
+          "text": "美债收益率高更多因供给重压而非通胀担忧",
+          "details": "CPI温和+加息预期回落后的美债价格走势,支持\"收益率高更多因即将到来的政府与企业债供给的重压,而非通胀/Fed担忧\"",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "极度超配股票需信名义GDP超预期+融资便宜",
+          "details": "要极度超配股票,须信\"名义GDP远超预期 + 企业吃更大GDP份额且消费者保住工作 + 融资便宜易得\"",
+          "important": false
+        },
+        {
+          "actor": "Timmer",
+          "actor_type": "KOL",
+          "text": "半导体ETF资金流粘性强，盈利增速35%加速",
+          "details": "投机性半导体ETF资金流仍很粘(AUM大降但流入未反转)。盈利一年增逾$100/股、增速仍在35%加速——这就是动能;当二阶导见顶,会揭示市场到底多拥挤。标普仍在按1998-2000价格类比运行,半导体周期+盈利二阶导见顶,或成市场未来失去动能的催化",
+          "important": false
+        },
+        {
+          "actor": "TheShortBear",
+          "actor_type": "KOL",
+          "text": "$SPCX从做空狂热变成完全逼空",
+          "details": "$SPCX从对冲/做空狂热+解禁,变成完全逼空,内部人获利了结，后续看逼空到什么高度",
+          "important": false
+        },
+        {
+          "actor": "Citrini",
+          "actor_type": "KOL",
+          "text": "国防工业转入战时产能扩建，推荐军工股",
+          "details": "由于现代局部冲突（如中东及乌克兰）中导弹与无人机的消耗速度远超国防工业的年产能，美军及盟国库存（如爱国者PAC-3、萨德THAAD）遭遇严重消耗。随着美国防部（DoW）在FY2027预算中大幅增加导弹采购开支，国防工业正从\"peacetime维持\"转入\"wartime产能扩建\",推荐一系列军工股",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPCX"
+      ],
+      "image_indexes": [
+        2
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-13",
+      "image_urls": [
+        "/uploads/2026-08-13/6a70cef7cb81.png"
+      ]
+    },
+    {
+      "id": "sellside-views",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "卖方观点汇总：通胀、AI融资、韩国半导体",
+      "summary": "GS认为核心CPI符合预期，风险资产仍有上涨空间，AI融资推动债务发行激增。MS看好韩国AI驱动半导体超级周期。DB警示2026年存在加息风险。Citi解读央行偏好改革而非直接降息。Nomura认为通胀温和但警示AI投资中期风险。",
+      "bullets": [
+        {
+          "actor": "GS Eco",
+          "actor_type": "Analyst",
+          "text": "核心CPI符合预期，风险资产仍有上涨空间",
+          "details": "美国7月核心CPI符合预期，虽劳动力市场疲软，但预计美联储9月将维持利率不变。风险资产从7月底低点反弹后仍有上涨空间，低波动率环境支持股票及套息策略。AI融资需求推动债务发行激增，预计2027年科技巨头35%资本支出由债务支持，但挤出效应有限（约50B）。人民币债券发行激增为国际化带来机遇",
+          "important": true
+        },
+        {
+          "actor": "MS KR",
+          "actor_type": "Analyst",
+          "text": "AI驱动韩国半导体超级周期，GDP增长有上行空间",
+          "details": "看好韩国经济前景，认为AI驱动的半导体超级周期将通过财政、资本支出和工资三大渠道显著提振增长。预计未来3-5年韩国GDP增长每年有165-245bp的上行空间，2027年GDP增速预测达2.7%，高于共识的2.3%。半导体出口激增及巨头盈利创新高是关键驱动力",
+          "important": false
+        },
+        {
+          "actor": "DB Eco",
+          "actor_type": "Analyst",
+          "text": "核心PCE仍高于目标，存在2026年加息风险",
+          "details": "美国核心PCE通胀仍远高于2%目标，受需求强劲及AI短期通胀效应影响，去通胀进程受阻。尽管就业增速放缓，失业率降至4.09%，但AI adoption推高部分行业裁员率。鉴于实际中性利率升至1.6%及政策利率低于规则建议，美联储存在2026年加息风险，经济增长动能依然坚实",
+          "important": false
+        },
+        {
+          "actor": "Citi CN",
+          "actor_type": "Analyst",
+          "text": "央行偏好改革而非直接降息，建议财政贴息",
+          "details": "解读央行26Q2货政报告：偏好改革而非直接降息。报告未明确降准降息指引，但6月企业贷均利率降至3.05%，超半数贷款利率低于LPR。鉴于房贷利率3.05%仍显著高于10年国债1.7%，建议由财政部提供利息补贴。央行强化金融稳定基金等风险处置工具，并重申保持人民币汇率稳定",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "7月核心CPI受AI消费电子推动，通胀整体温和",
+          "details": "7月美核心CPI环比反弹至0.215%，主要受AI驱动的消费电子价格上涨影响，但核心PCE预测仅微调至0.219%。报告认为通胀整体温和，维持美联储无限期不加息判断，但警示AI投资潮带来的中期上行风险",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        1
+      ],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "Deutsche Bank",
+        "Citi",
+        "Nomura"
+      ],
+      "date": "2026-08-13",
+      "image_urls": [
+        "/uploads/2026-08-13/3c438b55ca53.png",
+        "/uploads/2026-08-13/fc31c0397fbd.png"
+      ]
+    }
+  ]
+}
