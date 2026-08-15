@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  launchd job: daily EVENTS pull (Notion 全球重点事件 -> events.json).
+
+  Fires TWICE, Tue-Sat (Asia/Shanghai): 08:05 and 08:10 BJT.
+    - alphapai_to_notion.py also fires at 08:05, so the 08:05 pull often races
+      it; notion_to_dashboard.py then exits non-zero (toggle not ready), no
+      marker is written, and the 08:10 pull retries and catches it.
+    - Once either fire succeeds, the per-BJT-date marker makes the other a
+      no-op. launchd Weekday: 1=Mon ... 6=Sat (0/7=Sun). Sun/Mon skipped
+      (the wrapper double-checks BJT_DOW too).
+  RunAtLoad=false on purpose: installing mid-day would target the CURRENT NY
+  date, which may already have hand-curated events — we don't want to clobber
+  it at install time. launchd still runs a missed 08:05/08:10 fire when the Mac
+  wakes, so catch-up is preserved; the job just starts cleanly at the next
+  scheduled window.
+
+  Install:
+    cp scripts/com.panoramichills.events-pull.plist ~/Library/LaunchAgents/
+    launchctl load -w ~/Library/LaunchAgents/com.panoramichills.events-pull.plist
+
+  Disable / remove:
+    launchctl unload -w ~/Library/LaunchAgents/com.panoramichills.events-pull.plist
+    rm ~/Library/LaunchAgents/com.panoramichills.events-pull.plist
+
+  Logs: ~/Library/Logs/events-pull.{out,err}.log
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.panoramichills.events-pull</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/future/us-stock-daily-summary/.claude/worktrees/awesome-hertz-8e0ae2/scripts/daily_events_pull.sh</string>
+    </array>
+
+    <!-- Tue-Sat at 08:05 AND 08:10 Asia/Shanghai. -->
+    <key>StartCalendarInterval</key>
+    <array>
+        <dict><key>Weekday</key><integer>2</integer><key>Hour</key><integer>8</integer><key>Minute</key><integer>5</integer></dict>
+        <dict><key>Weekday</key><integer>2</integer><key>Hour</key><integer>8</integer><key>Minute</key><integer>10</integer></dict>
+        <dict><key>Weekday</key><integer>3</integer><key>Hour</key><integer>8</integer><key>Minute</key><integer>5</integer></dict>
+        <dict><key>Weekday</key><integer>3</integer><key>Hour</key><integer>8</integer><key>Minute</key><integer>10</integer></dict>
+        <dict><key>Weekday</key><integer>4</integer><key>Hour</key><integer>8</integer><key>Minute</key><integer>5</integer></dict>
+        <dict><key>Weekday</key><integer>4</integer><key>Hour</key><integer>8</integer><key>Minute</key><integer>10</integer></dict>
+        <dict><key>Weekday</key><integer>5</integer><key>Hour</key><integer>8</integer><key>Minute</key><integer>5</integer></dict>
+        <dict><key>Weekday</key><integer>5</integer><key>Hour</key><integer>8</integer><key>Minute</key><integer>10</integer></dict>
+        <dict><key>Weekday</key><integer>6</integer><key>Hour</key><integer>8</integer><key>Minute</key><integer>5</integer></dict>
+        <dict><key>Weekday</key><integer>6</integer><key>Hour</key><integer>8</integer><key>Minute</key><integer>10</integer></dict>
+    </array>
+
+    <key>RunAtLoad</key>
+    <false/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/future/Library/Logs/events-pull.out.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/future/Library/Logs/events-pull.err.log</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    </dict>
+
+    <key>KeepAlive</key>
+    <false/>
+</dict>
+</plist>

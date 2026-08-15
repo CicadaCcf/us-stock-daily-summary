@@ -862,10 +862,10 @@ async function handleUpdate(req, res) {
   const dateOk = targetDate && /^\d{4}-\d{2}-\d{2}$/.test(targetDate);
   const pyArgs = (script) => dateOk ? [script, '--date', targetDate] : [script];
   try {
-    write(`[info] step 1/4: polygon + yahoo + CNN PCR snapshot${dateOk ? ` · date=${targetDate}` : ''}\n`);
+    write(`[info] step 1/5: polygon + yahoo + CNN PCR snapshot${dateOk ? ` · date=${targetDate}` : ''}\n`);
     await spawnStep('python3', ['-u', ...pyArgs('server/polygon_snapshot.py')], write);
 
-    write(`\n[info] step 2/4: Finviz bubble screenshot\n`);
+    write(`\n[info] step 2/5: Finviz bubble screenshot\n`);
     try {
       await spawnStep('python3', ['-u', 'server/finviz_screenshot.py'], write);
     } catch (e) {
@@ -875,7 +875,7 @@ async function handleUpdate(req, res) {
       write(`[warn] keeping previous public/finviz_bubble.png\n`);
     }
 
-    write(`\n[info] step 3/4: Polygon news for Top Movers\n`);
+    write(`\n[info] step 3/5: Polygon news for Top Movers\n`);
     try {
       await spawnStep('python3', ['-u', ...pyArgs('server/movers_news.py')], write);
     } catch (e) {
@@ -885,7 +885,7 @@ async function handleUpdate(req, res) {
       write(`[warn] keeping previous src/data/{date}/movers_news.json\n`);
     }
 
-    write(`\n[info] step 4/4: auto-fill industry/reason for highlighted movers\n`);
+    write(`\n[info] step 4/5: auto-fill industry/reason for highlighted movers\n`);
     try {
       // For newly-highlighted movers (no carried-forward tag), Claude drafts a
       // catalyst tag + reason (earnings numbers via Longbridge) and writes them
@@ -896,6 +896,21 @@ async function handleUpdate(req, res) {
     } catch (e) {
       write(`\n[warn] Auto-fill step failed: ${e.message}\n`);
       write(`[warn] industry/reason left blank for manual entry\n`);
+    }
+
+    write(`\n[info] step 5/5: pull 全球重点事件 from Notion → events.json\n`);
+    try {
+      // Reads today's Notion '全球重点事件' toggle (populated by
+      // alphapai_to_notion.py ~08:05 BJT), classifies via the same Claude tool
+      // as the manual Events tab, and writes events.json — replacing the
+      // manual copy/paste. Non-fatal & non-clobbering: if the toggle isn't
+      // there yet (Update run before alphapai) or is empty, it raises/skips
+      // and the previous events.json is preserved. Macro is intentionally NOT
+      // ingested here (still manual via the Macro tab) per user 2026-08-14.
+      await spawnStep('python3', ['-u', ...pyArgs('server/notion_to_dashboard.py'), '--kind', 'events'], write);
+    } catch (e) {
+      write(`\n[warn] Notion events ingest failed (non-fatal): ${e.message}\n`);
+      write(`[warn] keeping previous src/data/{date}/events.json — paste manually via Events tab if needed\n`);
     }
 
     const date = latestDataDate();

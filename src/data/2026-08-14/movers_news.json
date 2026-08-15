@@ -1,0 +1,68 @@
+{
+  "generated_at": "2026-08-14T21:32:27+00:00",
+  "date": "2026-08-14",
+  "since": "2026-08-12T20:00:00+00:00",
+  "by_ticker": {
+    "HTFL": [],
+    "UMAC": [],
+    "AAOI": [
+      {
+        "headline": "The Next Big AI Market Bottleneck Is Here: 8 Stocks to Play the Boom in Optics",
+        "url": "https://www.fool.com/investing/2026/08/13/the-next-big-ai-market-bottleneck-is-here-8-stocks/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-08-13T08:20:00Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F882788%2Fgettyimages-1483780995.jpg&w=1200&op=resize",
+        "description": "As AI innovation accelerates, data centers are shifting from copper wiring to optical connections for faster, more energy-efficient connectivity. This shift is creating a bottleneck in AI infrastructure, presenting investment opportunities in eight optical technology companies across chip design, laser manufacturing, transceiver infrastructure, and data routing systems."
+      }
+    ],
+    "NBIS": [
+      {
+        "headline": "Why Nebius Stock Skyrocketed Today",
+        "url": "https://www.fool.com/investing/2026/08/12/why-nebius-stock-skyrocketed-today/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-08-13T01:05:10Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883158%2Fnbis-stock.png&w=1200&op=resize",
+        "description": "Nebius Group shares surged 34.14% after reporting impressive growth metrics driven by exponential demand for AI computing capacity. The cloud computing provider narrowed its adjusted net loss to $33 million from $92 million year-over-year and generated $236 million in EBITDA, up from a $21 million loss previously. The rally was also fueled by short-sellers covering positions."
+      },
+      {
+        "headline": "Why IREN Stock Is Up Nearly 10% Today",
+        "url": "https://www.fool.com/investing/2026/08/12/why-iren-stock-is-up-nearly-10-today/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-08-12T20:14:16Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883102%2Frising-stock-charts.jpg&w=1200&op=resize",
+        "description": "IREN stock surged nearly 10% on Wednesday following strong quarterly earnings reports from competitors CoreWeave and Nebius Group. Both companies demonstrated robust revenue growth and improved profitability, suggesting the AI data center infrastructure opportunity is materializing as expected. Despite the gains, IREN remains down 36% from its May peak and trading at roughly half of analysts' consensus price target of $84.64, indicating potential for further upside amid continued volatility."
+      }
+    ],
+    "SMCI": [],
+    "HRB": [],
+    "ARX": [],
+    "CRWV": [
+      {
+        "headline": "I Think You Missed CoreWeave's Zero-Cost-Basis Engine",
+        "url": "https://www.fool.com/investing/2026/08/14/i-think-you-missed-coreweaves-zero-cost-basis-engi/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-08-14T15:24:00Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883189%2Fgemini_generated_image_uvnx1guvnx1guvnx.png&w=1200&op=resize",
+        "description": "CoreWeave's business model challenges the bear case that older GPUs become obsolete quickly. The company secured a multi-year renewal on 2020-era Nvidia A100 chips extending through 2029, demonstrating that older hardware can generate profitable revenue in subsequent contracts after initial debt is paid down. Debt markets are increasingly pricing in this residual value, with CoreWeave's new $2.6 billion facility having a longer maturity than underlying customer contracts, signaling lender confid"
+      },
+      {
+        "headline": "CoreWeave Has $104 Billion of Contracted Revenue and a $59 Billion Market Value",
+        "url": "https://www.fool.com/investing/2026/08/12/coreweave-has-104-billion-of-contracted-revenue-an/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-08-13T01:14:00Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883111%2Fcrwv.png&w=1200&op=resize",
+        "description": "CoreWeave reported a $104 billion revenue backlog as of June 30, 2026, up from $30.1 billion a year earlier, with Q2 revenue doubling 112% year-over-year to $2.6 billion. However, the company faces significant challenges: massive capital spending requirements ($35-39 billion in 2026), net losses widening to $626 million, and interest expenses ($2.6 billion annualized) exceeding projected operating income. While demand is strong, the stock's valuation at 56 cents per dollar of contracted revenue "
+      },
+      {
+        "headline": "Why IREN Stock Is Up Nearly 10% Today",
+        "url": "https://www.fool.com/investing/2026/08/12/why-iren-stock-is-up-nearly-10-today/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-08-12T20:14:16Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883102%2Frising-stock-charts.jpg&w=1200&op=resize",
+        "description": "IREN stock surged nearly 10% on Wednesday following strong quarterly earnings reports from competitors CoreWeave and Nebius Group. Both companies demonstrated robust revenue growth and improved profitability, suggesting the AI data center infrastructure opportunity is materializing as expected. Despite the gains, IREN remains down 36% from its May peak and trading at roughly half of analysts' consensus price target of $84.64, indicating potential for further upside amid continued volatility."
+      }
+    ],
+    "TEAM": [],
+    "QNT": []
+  }
+}

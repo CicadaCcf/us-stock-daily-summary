@@ -29,7 +29,9 @@ import argparse
 import json
 import os
 import re
+import ssl
 import sys
+import time
 import urllib.error
 import urllib.request
 from datetime import datetime
@@ -75,22 +77,47 @@ def make_opener(env: dict[str, str]) -> urllib.request.OpenerDirector:
     return urllib.request.build_opener()
 
 
-def notion_req(method: str, path: str, token: str, body=None):
+def notion_req(method: str, path: str, token: str, body=None, retries: int = 4):
+    """Notion API call. Retries transient network / VPN-proxy flakes
+    (SSL EOF, connection reset, timeouts) and 429/5xx with backoff — a single
+    hiccup used to kill the whole daily ingest mid-read."""
     url = f"https://api.notion.com/v1{path}"
     data = json.dumps(body).encode() if body is not None else None
-    req = urllib.request.Request(url, data=data, method=method)
-    req.add_header("Authorization", f"Bearer {token}")
-    req.add_header("Notion-Version", NOTION_VERSION)
-    if data is not None:
-        req.add_header("Content-Type", "application/json")
-    try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            text = resp.read().decode()
-            return json.loads(text) if text else {}
-    except urllib.error.HTTPError as e:
-        print(f"  Notion {method} {path} -> {e.code}: {e.read().decode()[:500]}",
-              file=sys.stderr)
-        raise
+    last_err = None
+    for attempt in range(retries):
+        req = urllib.request.Request(url, data=data, method=method)
+        req.add_header("Authorization", f"Bearer {token}")
+        req.add_header("Notion-Version", NOTION_VERSION)
+        if data is not None:
+            req.add_header("Content-Type", "application/json")
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                text = resp.read().decode()
+                return json.loads(text) if text else {}
+        except urllib.error.HTTPError as e:
+            # Retry rate-limit / transient server errors; fail fast on 4xx.
+            if e.code in (429, 500, 502, 503, 504) and attempt < retries - 1:
+                wait = float(e.headers.get("Retry-After", 0) or 0) or 1.5 * (attempt + 1)
+                print(f"  Notion {method} {path} -> {e.code}, retry in {wait:.1f}s "
+                      f"({attempt + 1}/{retries})", file=sys.stderr)
+                time.sleep(wait)
+                last_err = e
+                continue
+            print(f"  Notion {method} {path} -> {e.code}: {e.read().decode()[:500]}",
+                  file=sys.stderr)
+            raise
+        except (urllib.error.URLError, ssl.SSLError, ConnectionError, TimeoutError,
+                OSError) as e:
+            last_err = e
+            if attempt < retries - 1:
+                wait = 1.5 * (attempt + 1)
+                print(f"  Notion {method} {path} -> {type(e).__name__}: {e}; "
+                      f"retry in {wait:.1f}s ({attempt + 1}/{retries})", file=sys.stderr)
+                time.sleep(wait)
+                continue
+            raise
+    if last_err:
+        raise last_err
 
 
 # ---------- date helpers ----------
@@ -174,7 +201,14 @@ def block_to_text(block: dict, token: str, depth: int = 0) -> str:
         cap_rich = img.get("caption", [])
         cap = "".join(r.get("plain_text", "") for r in cap_rich).strip() or "image"
         if url:
-            lines.append(f"{indent}![{cap}]({url})")
+            # alphapai pushes chart images as inline `data:` URIs — a full
+            # base64 blob would bloat the text 10-100x and waste Claude tokens
+            # (this v1 ingest is text-only anyway). Collapse to a placeholder;
+            # keep real http(s) URLs since those are short references.
+            if url.startswith("data:"):
+                lines.append(f"{indent}[图片:{cap}]")
+            else:
+                lines.append(f"{indent}![{cap}]({url})")
     elif t == "divider":
         lines.append(f"{indent}---")
     elif t == "callout" and text:
@@ -411,7 +445,7 @@ def build_macro_dedup_context(date: str) -> str:
         return ""
     lines = []
     for t in topics:
-        if not t or not t.get("topic"):
+        if not isinstance(t, dict) or not t.get("topic"):
             continue
         tag = f" ({t['topic_tag']})" if t.get("topic_tag") else ""
         bullets = (t.get("bullets") or [])[:4]
@@ -430,6 +464,63 @@ def build_macro_dedup_context(date: str) -> str:
 {chr(10).join(lines)}
 
 **去重要求**：以上主题已在"宏观日览"区块展示。请从 events 结果中**剔除任何被以上主题完全覆盖的内容**（如地缘表态、央行政策、宏观商品走向等）。只保留真正独立的**行业/个股事件**（财报、并购、监管细项、产品发布、股东行动等）。如不确定某条是否独立，倾向于**剔除**。"""
+
+
+def _read_anthropic_stream(opener, req, model: str) -> dict:
+    """Consume Anthropic's SSE stream and reassemble a non-streaming-shaped
+    response: {"content": [{type, name, input|text}], "usage", "model"}.
+    Tool input arrives as `input_json_delta` fragments we concatenate + parse."""
+    blocks: dict[int, dict] = {}
+    usage: dict = {}
+    model_used = model
+    with opener.open(req, timeout=300) as resp:
+        for raw in resp:
+            line = raw.decode("utf-8", "replace").strip()
+            if not line or not line.startswith("data:"):
+                continue
+            data = line[5:].strip()
+            if not data or data == "[DONE]":
+                continue
+            try:
+                ev = json.loads(data)
+            except Exception:
+                continue
+            et = ev.get("type")
+            if et == "message_start":
+                msg = ev.get("message", {})
+                model_used = msg.get("model", model_used)
+                usage.update(msg.get("usage", {}) or {})
+            elif et == "content_block_start":
+                cb = ev.get("content_block", {})
+                blocks[ev.get("index")] = {"type": cb.get("type"),
+                                           "name": cb.get("name"), "parts": []}
+            elif et == "content_block_delta":
+                b = blocks.setdefault(ev.get("index"),
+                                      {"type": None, "name": None, "parts": []})
+                d = ev.get("delta", {})
+                if d.get("type") == "input_json_delta":
+                    b["parts"].append(d.get("partial_json", ""))
+                    b["type"] = b["type"] or "tool_use"
+                elif d.get("type") == "text_delta":
+                    b["parts"].append(d.get("text", ""))
+                    b["type"] = b["type"] or "text"
+            elif et == "message_delta":
+                usage.update(ev.get("usage", {}) or {})
+            elif et == "error":
+                raise RuntimeError(f"Anthropic stream error: {ev.get('error')}")
+    content = []
+    for idx in sorted(k for k in blocks if k is not None):
+        b = blocks[idx]
+        joined = "".join(b["parts"])
+        if b["type"] == "tool_use":
+            try:
+                inp = json.loads(joined) if joined else {}
+            except Exception:
+                inp = {}
+            content.append({"type": "tool_use", "name": b.get("name"), "input": inp})
+        elif b["type"] == "text":
+            content.append({"type": "text", "text": joined})
+    return {"content": content, "usage": usage, "model": model_used}
 
 
 def call_claude(env: dict, kind: str, text: str, date: str, opener) -> dict:
@@ -452,37 +543,99 @@ def call_claude(env: dict, kind: str, text: str, date: str, opener) -> dict:
     body = {
         "model": model,
         "max_tokens": 16000,
+        # Stream so the VPN proxy never sees the TLS tunnel go idle during a
+        # long (>60s) tool generation — a plain POST gets RemoteDisconnected.
+        # Mirrors the streaming fix in vite-plugins/ingestApi.js (8ebe45c).
+        "stream": True,
         "system": [{"type": "text", "text": sys_text,
                     "cache_control": {"type": "ephemeral"}}],
         "tools": [tool],
         "tool_choice": {"type": "tool", "name": tool["name"]},
         "messages": [{"role": "user", "content": [{"type": "text", "text": user_text}]}],
     }
-
     body_bytes = json.dumps(body).encode()
-    # DEBUG: dump request body for diagnostics
-    debug_path = REPO / f"/tmp/anthropic_req_{kind}.json"
-    try:
-        debug_path.write_bytes(body_bytes)
-        print(f"  [{kind}] body: {len(body_bytes):,} bytes -> {debug_path}")
-    except Exception:
-        pass
 
-    req = urllib.request.Request(
-        ANTHROPIC_API_URL,
-        data=body_bytes,
-        method="POST",
-    )
-    req.add_header("x-api-key", api_key)
-    req.add_header("anthropic-version", ANTHROPIC_VERSION)
-    req.add_header("content-type", "application/json")
+    last_err = None
+    for attempt in range(3):
+        req = urllib.request.Request(ANTHROPIC_API_URL, data=body_bytes, method="POST")
+        req.add_header("x-api-key", api_key)
+        req.add_header("anthropic-version", ANTHROPIC_VERSION)
+        req.add_header("content-type", "application/json")
+        try:
+            return _read_anthropic_stream(opener, req, model)
+        except urllib.error.HTTPError as e:
+            snippet = e.read().decode()[:500]
+            if e.code in (429, 500, 502, 503, 504, 529) and attempt < 2:
+                wait = 2.0 * (attempt + 1)
+                print(f"  [{kind}] Anthropic {e.code}, retry in {wait:.0f}s", file=sys.stderr)
+                time.sleep(wait)
+                last_err = e
+                continue
+            raise RuntimeError(f"Anthropic {e.code}: {snippet}") from None
+        except (urllib.error.URLError, ssl.SSLError, ConnectionError,
+                TimeoutError, OSError) as e:
+            last_err = e
+            if attempt < 2:
+                wait = 2.0 * (attempt + 1)
+                print(f"  [{kind}] {type(e).__name__}: {e}; retry in {wait:.0f}s",
+                      file=sys.stderr)
+                time.sleep(wait)
+                continue
+            raise RuntimeError(f"Anthropic stream failed: {e}") from None
+    if last_err:
+        raise RuntimeError(f"Anthropic failed after retries: {last_err}")
 
-    try:
-        with opener.open(req, timeout=180) as resp:
-            return json.loads(resp.read())
-    except urllib.error.HTTPError as e:
-        snippet = e.read().decode()[:500]
-        raise RuntimeError(f"Anthropic {e.code}: {snippet}") from None
+
+def _escape_inner_quotes(s: str) -> str:
+    """Port of escapeInnerQuotes in vite-plugins/ingestApi.js: repair a
+    stringified JSON array whose inner string values contain unescaped `"`
+    (the model's most common malformation for nested Chinese arrays)."""
+    out = []
+    in_string = False
+    escape = False
+    n = len(s)
+    for i, c in enumerate(s):
+        if not in_string:
+            out.append(c)
+            if c == '"':
+                in_string = True
+            continue
+        if escape:
+            out.append(c); escape = False; continue
+        if c == '\\':
+            out.append(c); escape = True; continue
+        if c == '"':
+            j = i + 1
+            while j < n and s[j].isspace():
+                j += 1
+            nxt = s[j] if j < n else None
+            if nxt in (None, ',', '}', ']', ':'):
+                out.append(c); in_string = False
+            else:
+                out.append('\\"')
+        else:
+            out.append(c)
+    return "".join(out)
+
+
+def _coerce_list(val, kind: str) -> list:
+    """Ensure the tool payload's array field is a real list. Handles the
+    'model stringified the nested array' quirk with a repair fallback, and
+    RAISES (rather than returning garbage) if it can't — so run_pipeline
+    never clobbers a good JSON file with a broken payload."""
+    if isinstance(val, list):
+        return val
+    if isinstance(val, str):
+        for attempt in (val, _escape_inner_quotes(val)):
+            try:
+                parsed = json.loads(attempt)
+            except Exception:
+                continue
+            if isinstance(parsed, list):
+                print(f"  [{kind}] unstringified array -> {len(parsed)} items")
+                return parsed
+    raise RuntimeError(f"[{kind}] could not parse array from Claude "
+                       f"(got {type(val).__name__}); refusing to write garbage")
 
 
 def extract_tool_payload(api_resp: dict, kind: str) -> dict:
@@ -495,15 +648,9 @@ def extract_tool_payload(api_resp: dict, kind: str) -> dict:
             continue
         inp = blk.get("input") or {}
         val = inp.get(key)
-        if isinstance(val, str):
-            try:
-                val = json.loads(val)
-                print(f"  [{kind}] unstringified {key} -> array of {len(val)}")
-            except Exception as e:
-                print(f"  [{kind}] WARNING: could not parse stringified {key}: {e}",
-                      file=sys.stderr)
         if val is None:
             raise RuntimeError(f"tool_use block missing '{key}' field")
+        val = _coerce_list(val, kind)
         return {key: val, "_usage": api_resp.get("usage", {}), "_model": api_resp.get("model")}
     raise RuntimeError("no tool_use block in Claude response")
 
@@ -528,20 +675,24 @@ def run_pipeline(args, env):
 
     macro_toggle = find_subtoggle(date_toggle["id"], "宏观日览", token)
     events_toggle = find_subtoggle(date_toggle["id"], "全球重点事件", token)
-    if not macro_toggle:
+    # Only require the sub-toggle(s) for the kind(s) we're actually ingesting,
+    # so `--kind events` still works on a day where 宏观日览 wasn't added.
+    need_macro = args.kind in ("both", "macro")
+    need_events = args.kind in ("both", "events")
+    if need_macro and not macro_toggle:
         raise RuntimeError("no '宏观日览' sub-toggle found")
-    if not events_toggle:
+    if need_events and not events_toggle:
         raise RuntimeError("no '全球重点事件' sub-toggle found")
 
-    # Render to text
+    # Render to text (only the toggles we need).
     macro_text = "\n".join(
         block_to_text(b, token, 0)
         for b in list_children(macro_toggle["id"], token)
-    ).strip()
+    ).strip() if macro_toggle else ""
     events_text = "\n".join(
         block_to_text(b, token, 0)
         for b in list_children(events_toggle["id"], token)
-    ).strip()
+    ).strip() if events_toggle else ""
 
     print(f"  宏观日览  text: {len(macro_text):,} chars")
     print(f"  全球重点事件 text: {len(events_text):,} chars")
@@ -556,6 +707,9 @@ def run_pipeline(args, env):
     opener = make_opener(env)
     out_dir = DATA_DIR / ny_date
     out_dir.mkdir(parents=True, exist_ok=True)
+
+    wrote_macro = False
+    wrote_events = False
 
     # Run macro FIRST so events ingest can dedup against it. Skip if user
     # passed --kind events and macro doesn't exist (warn but don't fail).
@@ -584,6 +738,7 @@ def run_pipeline(args, env):
             macro_path = out_dir / "macro.json"
             macro_path.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n")
             print(f"  wrote {macro_path.relative_to(REPO)} ({len(topics)} topic(s))")
+            wrote_macro = True
 
     if args.kind in ("both", "events"):
         if not events_text:
@@ -606,6 +761,19 @@ def run_pipeline(args, env):
             events_path = out_dir / "events.json"
             events_path.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n")
             print(f"  wrote {events_path.relative_to(REPO)} ({len(events)} event(s))")
+            wrote_events = True
+
+    # If the requested kind(s) produced nothing (toggle empty / not populated
+    # yet), exit non-zero so a scheduled wrapper knows to RETRY later. The
+    # 08:05 pull commonly hits this if alphapai hasn't finished — 08:10 catches.
+    requested = []
+    if args.kind in ("both", "macro"):
+        requested.append(wrote_macro)
+    if args.kind in ("both", "events"):
+        requested.append(wrote_events)
+    if requested and not any(requested):
+        raise RuntimeError(f"nothing ingested for --kind {args.kind} "
+                           f"(toggle empty / not ready yet) — exiting non-zero for retry")
 
     print("\n  done.")
 

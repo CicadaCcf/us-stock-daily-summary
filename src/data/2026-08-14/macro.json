@@ -1,0 +1,396 @@
+{
+  "topics": [
+    {
+      "id": "fed-officials-inflation-rates-aug26",
+      "topic": "美联储官员表态",
+      "topic_tag": "fed",
+      "title": "美联储官员：通胀改善但存隐患，维持利率观望",
+      "summary": "Barkin认为应维持利率不变，关税和伊朗战争带来的油价冲击是暂时的，但供应链挑战和AI投资热潮可能产生持久价格压力。Goolsbee称最新通胀数据\"稍有改善\"，期待关税和战争影响消退后通胀继续好转。",
+      "bullets": [
+        {
+          "actor": "Barkin",
+          "actor_type": "Central-Bank",
+          "text": "鉴于通胀下降迹象应维持利率不变，但存价格压力隐患",
+          "details": "鉴于通胀下降的迹象，应该维持利率不变，但他承认存在价格压力隐患，关税和伊朗战争带来的石油冲击是应该会过去的冲击，但他同时指出，供应链挑战和与人工智能相关的投资热潮可能会产生更持久的价格压力",
+          "important": true
+        },
+        {
+          "actor": "Goolsbee",
+          "actor_type": "Central-Bank",
+          "text": "最新美国通胀数据\"稍有改善\"，期待负面影响消退",
+          "details": "最新的美国通胀数据\"稍有改善\"。他希望，随着关税带来的影响以及伊朗战争导致的油价上涨带来的负面影响逐渐消退，通胀状况能继续好转",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-08-14",
+      "image_urls": []
+    },
+    {
+      "id": "trump-tariffs-iran-sanctions-aug26",
+      "topic": "Trump关税与伊朗制裁",
+      "topic_tag": "policy",
+      "title": "Trump宣布无人机关税，Bessent预告史无前例伊朗制裁",
+      "summary": "Trump宣布针对无人机及零部件的分级关税措施，大型军用无人机100%、小型25%，主要针对中国进口。Bessent表示美国将很快宣布针对伊朗的史无前例经济制裁，配合继续封锁伊朗港口的双管齐下策略。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "宣布无人机关税：大型军用100%、小型25%，针对中国",
+          "details": "宣布了一系列关税措施，旨在应对无人机及其零部件进口所带来的国家安全威胁，尤其是来自中国的进口产品。这些关税是分等级征收的：对于那些具有军事用途的大型无人机，将征收100%的关税；而对于小型无人机，则征收25%的关税",
+          "important": true
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "美国将宣布针对伊朗的史无前例经济制裁措施",
+          "details": "在接受Newsmax采访时说，美国很快将宣布针对伊朗的、堪称史无前例的经济制裁措施。贝森特表示，这些措施将是\"双管齐下\"的一部分，另一项措施则是继续封锁伊朗的港口",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump与马斯克关系疏远，但仍每月通话讨论AI和中国",
+          "details": "WSJ报道Trump表示他和马斯克再也不会像过去那样亲密了。不过，据了解这些通话的人士透露，他们仍然保持着联系，大约每月会通话一次，讨论人工智能、中国以及全球事务等问题",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "Newsmax"
+      ],
+      "date": "2026-08-14",
+      "image_urls": []
+    },
+    {
+      "id": "asia-korea-japan-boj-aug26",
+      "topic": "亚洲：韩国政局与日本央行",
+      "topic_tag": "fed",
+      "title": "韩国总统支持率新低，日本央行考虑9月加息",
+      "summary": "韩国总统李在明支持率跌至历史新低，主因房地产政策未能抑制过热市场及房地产税改革引发民众不满。日本央行计划最早9月上调利率，并考虑进一步加快加息节奏，目前频率约为每年两次。",
+      "bullets": [
+        {
+          "actor": "日本央行",
+          "actor_type": "Central-Bank",
+          "text": "计划最早9月加息，考虑加快加息节奏至每年两次以上",
+          "details": "RTRS报道计划最早在9月份上调利率。此外，日本银行还考虑进一步加快加息的节奏，目前的加息频率约为每年两次",
+          "important": true
+        },
+        {
+          "actor": "李在明",
+          "actor_type": "Foreign-Gov",
+          "text": "韩国总统支持率跌至历史新低，房地产政策引发不满",
+          "details": "BBG报道韩国总统李在明的支持率跌至历史新低。这一现象反映出人们对他房地产政策的日益不满——这些政策未能有效抑制该国过热的房地产市场。此外，他提议的房地产税改革也引发了民众的不满",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Bloomberg",
+        "Reuters"
+      ],
+      "date": "2026-08-14",
+      "image_urls": []
+    },
+    {
+      "id": "oil-market-gs-analysis-aug26",
+      "topic": "原油市场",
+      "topic_tag": "oil",
+      "title": "美国封锁后全球原油库存大幅去化，波斯湾海上原油领跌",
+      "summary": "高盛报告显示自7月13日美国宣布封锁以来，全球可见库存以6.2mb/d速度下降，同比减少0.7mb/d。去库主要集中在波斯湾海上原油(-3.4mb/d)和中国陆上库存(-1.8mb/d)。美国商业库存周环比增加2.5mb/d，因进口增加和SPR释放加速。",
+      "bullets": [
+        {
+          "actor": "高盛",
+          "actor_type": "Analyst",
+          "text": "美国封锁后全球原油库存以6.2mb/d速度下降",
+          "details": "全球大幅去库存：自7月13日美国宣布封锁以来，全球可见库存以6.2mb/d的速度下降，同比减少0.7mb/d。去库主要集中在波斯湾海上原油（-3.4mb/d）和中国陆上库存（-1.8mb/d）",
+          "important": true
+        },
+        {
+          "actor": "高盛",
+          "actor_type": "Analyst",
+          "text": "美国商业原油库存逆势增加2.5mb/d",
+          "details": "美国商业原油库存周环比增加了2.5mb/d，主要是因为进口增加（来自委内瑞拉和加拿大）、出口减少，以及战略石油储备（SPR）释放加速",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3,
+        4
+      ],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs"
+      ],
+      "date": "2026-08-14",
+      "image_urls": [
+        "/uploads/2026-08-14/0ca640b52400.png",
+        "/uploads/2026-08-14/7740d307421c.png"
+      ]
+    },
+    {
+      "id": "ai-capex-overbuild-kol-aug26",
+      "topic": "AI资本过度建设",
+      "topic_tag": "ai",
+      "title": "KOL警示AI融资进入资本过度建设期，ROI仅约10%",
+      "summary": "Doug O'Laughlin指出AI融资已进入急剧上升的资本过度建设期，类似历史上首条跨洲铁路建设。即使AI行业达500B ARR，所需资本高达4-5T，ROI仅约10%。当前阶段类似千禧年电信泡沫前期(1997-98)，科技巨头现金流支撑仍有余地。Austral Research指出超大规模商向AI实验室注入$46B股权并锁定$879B采购承诺形成闭环。",
+      "bullets": [
+        {
+          "actor": "Doug O'Laughlin",
+          "actor_type": "KOL",
+          "text": "AI融资进入资本过度建设期，500B ARR需4-5T资本，ROI仅~10%",
+          "details": "为了成为首个实现RSI的企业，各大公司开始大量通过债务等手段借贷资本。AI融资已从2025年初的起步阶段进入急剧上升的资本过度建设（Capital Overbuild）期，类似于历史上的第一条跨洲铁路建设。低投资回报率（ROI），即使未来AI行业能够达到500B的ARR（年度可重复收入），支撑这一收入所需的资本可能高达4~5T甚至更多，这意味着投资回报率仅有~10%左右",
+          "important": true
+        },
+        {
+          "actor": "Doug O'Laughlin",
+          "actor_type": "KOL",
+          "text": "当前类似千禧年电信泡沫前期(1997-98)，科技巨头现金流仍有支撑",
+          "details": "当前阶段类似于千禧年电信/互联网泡沫爆发的前期（1997-1998年），而非终局（1999-2000年）。与当年不同的是，当前的科技巨头拥有强大的现金流和EBITDA支撑，资本市场仍有足够资金支撑下一轮投入，但通往顶峰的最后冲刺将异常疯狂与惊险",
+          "important": false
+        },
+        {
+          "actor": "Austral Research",
+          "actor_type": "KOL",
+          "text": "超大规模商向AI实验室注入$46B股权，锁定$879B采购承诺形成闭环",
+          "details": "超大规模商向OpenAI/Anthropic/xAI等注入$46B股权,同时锁定$879B多年期采购承诺——买的正是这些实验室卖的云/芯片/服务。\"它们在给这些公司融资,再把东西全买回来,闭环一天天变大\"",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "AI热门票降波跌破基准，强制去杠杆已结束",
+          "details": "AI热门票都降波了，跌破近期基准,意味着强制去杠杆已经结束。对\"那我要买MU了\"。所有ROI、模型收入、capex资金本质都是\"折旧\"问题;解决折旧就能把整个金融体系的洪水引过来",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MU"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-14",
+      "image_urls": []
+    },
+    {
+      "id": "burry-options-positioning-aug26",
+      "topic": "买方动态",
+      "topic_tag": "macro-other",
+      "title": "Burry清仓SOXX看跌转QQQ看跌，加仓MU空头",
+      "summary": "Michael Burry清仓亏损的SOXX看跌期权，转为规模更大的QQQ看跌期权(展期至2027年6月，行权价$600中高位)，占组合6%。保留NVDA和PLTR看跌期权。MU接近$1000时加仓空头，SOXX正股空头占7%为最大空头。",
+      "bullets": [
+        {
+          "actor": "Burry",
+          "actor_type": "Corporate",
+          "text": "清仓SOXX看跌转QQQ看跌(展期至2027年6月)，占组合6%",
+          "details": "期权调仓：清仓了亏损的SOXX（半导体ETF）看跌期权，转换为规模更大的QQQ看跌期权（展期至2027年6月，行权价在$600中高位），目前QQQ看跌期权约占组合的6%。保留了英伟达（NVDA）和Palantir（PLTR）的看跌期权",
+          "important": true
+        },
+        {
+          "actor": "Burry",
+          "actor_type": "Corporate",
+          "text": "MU接近$1000时加仓空头，SOXX正股空头占7%为最大",
+          "details": "加仓与重仓空头：在美光（MU）接近$1000时加仓空头；SOXX正股空头仍是最大空头（约占7%），其次是MU，以及NBIS、NVDA、ORCL、PLTR",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "QQQ",
+        "SOXX",
+        "MU",
+        "NVDA",
+        "PLTR",
+        "NBIS",
+        "ORCL"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-14",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-views-gs-ms-citi-bofa-nomura-aug26",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "卖方：高盛预测7月PCE偏高，大摩Fed维持不变，花旗上调SPX目标",
+      "summary": "高盛预计7月CPCE MoM+0.23%因资产管理服务价格上涨4%贡献8bp，8月方法调整后YoY可能降0.2%。大摩预计Fed 2026年维持利率不变，日央行10月加息。花旗上调SPX EPS至365维持8100点目标。美银预计2026年核心债券久期供应达历史高位，隐含10年美债收益率上行30bp。野村上调TOPIX目标至4600点。",
+      "bullets": [
+        {
+          "actor": "高盛",
+          "actor_type": "Analyst",
+          "text": "预计7月CPCE MoM+0.23%，资管服务价格涨4%贡献8bp",
+          "details": "预计美国7月CPCE mom上涨0.23%，略高于CCPI的0.22%。关键来源是资产管理服务价格可能上涨4%，贡献约8个基点：旧方法使用与股市回报高度相关的PPI数据，而且季度末后的首月会同时受到前一个月和前一季度股票回报影响。7月将是旧方法最后一次使用。新方法从8月起以行业工资增速估算初值，随后在季度服务调查收入数据公布后修订，因此资产管理服务通胀将先因旧方法偏高、9月底下修、12月再上修。高盛认为决策者会接受7月读数，并等待8月CPI与PPI；方法调整还可能使CPCE yoy在下月降低约0.2%，从而令Fed在9月及年内维持利率不变",
+          "important": true
+        },
+        {
+          "actor": "高盛",
+          "actor_type": "Analyst",
+          "text": "日本15年最大外汇干预致日元套息空头骤降70%",
+          "details": "日本15年来最大规模外汇干预致使日元套息交易空头头寸骤降70%，但美元/日元已收复近半跌幅。鉴于当前宏观环境缺乏增长担忧，且日本央行9月加息概率达75%，若缺乏结构性资金回流，干预效应或将减弱，日元可能再次探底",
+          "important": false
+        },
+        {
+          "actor": "摩根士丹利",
+          "actor_type": "Analyst",
+          "text": "预计Fed 2026年维持不变，ECB 9月加息25bp，BOJ加息提前至10月",
+          "details": "预计Fed2026年维持利率不变，因就业降温及通胀回落；欧洲央行9月加息25bp至2.50%，应对能源引发的通胀风险；日本央行加息提前至10月，终端利率看至1.5%。中国2026年GDP增速下调至4.6%，出口预测上调至20%，呈现K型分化。印度央行12月启动加息。建议超配日本股票",
+          "important": false
+        },
+        {
+          "actor": "花旗",
+          "actor_type": "Analyst",
+          "text": "上调2026年SPX EPS至365，维持年末8100点目标",
+          "details": "将2026年SPX EPS预测从350上调至365，并维持年末8100点目标。销售增长、利润率扩张和AI基础设施投资仍构成基本面顺风，若市场逐步排除美联储加息并形成软着陆预期，涨势有望从科技权重股扩散。不过盈利质量需要打折：部分超大市值公司的资产重估显著抬升指数盈利，并非经营利润；年初以来标普500一致盈利从312美元升至361美元，其中20只股票贡献45美元，集中度很高；二季度后对下半年盈利的上修也较有限。因此，8100点路径依赖AI相关公司的收入底部、科技板块重置后的信心修复，以及更广泛行业盈利跟进",
+          "important": false
+        },
+        {
+          "actor": "美银",
+          "actor_type": "Analyst",
+          "text": "2026年美国核心债券久期供应达历史高位，隐含10Y美债上行30bp",
+          "details": "2026年美国核心债券久期供应将达历史高位，隐含10年期美债收益率上行压力约30bp。但需求偏向投资级企业债(IG)和MBS，挤压国债需求。目前大部分供应驱动的重新定价已发生，2027年供应预计企稳，主要风险来自AI相关发行超预期",
+          "important": false
+        },
+        {
+          "actor": "野村",
+          "actor_type": "Analyst",
+          "text": "上调TOPIX目标至4600点，日经225至73000点",
+          "details": "鉴于Q1财报强劲及供需稳固，野村将2027年底TOPIX目标上调至4,600点，日经225上调至73,000点。尽管AI驱动需求受宏观投资者质疑，但微观层面仍乐观。短期情绪指标显示轻微负面压力，VIX跌破15后市场或进入3-4个月震荡期。GPIF正常再平衡卖出日股，挪威主权基金超配日股6.6%",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        5
+      ],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "Citi",
+        "BofA",
+        "Nomura"
+      ],
+      "date": "2026-08-14",
+      "image_urls": [
+        "/uploads/2026-08-14/922f601d6dde.png",
+        "/uploads/2026-08-14/a89d12fe5a92.png"
+      ]
+    },
+    {
+      "id": "news-openai-apple-carrier-aug26",
+      "topic": "新闻汇总",
+      "topic_tag": "macro-other",
+      "title": "OpenAI年营收有望超40B，苹果与阿里合作开发中国AI模型",
+      "summary": "Bloomberg报道OpenAI有望实现年营收超40B，约为2025年底的两倍，得益于AI编程软件快速发展。Reuters报道苹果专门为中国市场开发LLM，与阿里巴巴合作，预计未来几个月推出。美国将派华盛顿号航母替换林肯号赴中东。Silver Lake或收购Workday。",
+      "bullets": [
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "OpenAI年营收有望超40B，约为2025年底两倍",
+          "details": "BBG报道从目前的业绩来看，OpenAI有望实现每年超过40B的营收。这一数字大约是2025年底时的两倍。近几个月来，该公司的营收增长势头强劲，这在一定程度上得益于其人工智能编程软件的快速发展",
+          "important": true
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "苹果与阿里合作为中国市场开发LLM，预计数月内推出",
+          "details": "RTRS报道苹果专门为中国市场开发了一个大型语言模型。这一举措与苹果以往的策略不同：过去，苹果一直依赖第三方模型来支持中国市场的AI功能。该AI模型是与阿里巴巴集团合作开发的，得到了这家中国科技巨头的支持。预计该模型将在未来几个月内在中国推出",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "美国华盛顿号航母将替换林肯号赴中东",
+          "details": "美国将派华盛顿号航母到中东，替换林肯号，林肯号已执行任务两百五十多天",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "Silver Lake或收购Workday，规模超$100B",
+          "details": "报道称Silver Lake(>$100B科技PE)或收购$WDAY",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "AAPL",
+        "BABA",
+        "WDAY"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Bloomberg",
+        "Reuters"
+      ],
+      "date": "2026-08-14",
+      "image_urls": []
+    },
+    {
+      "id": "other-misc-aug26",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "中国两融余额、ETF发行、实际收益率等图表信息",
+      "summary": "图表显示：ETF年度发行量2025-26年大幅增长，杠杆和期权收入类ETF增长显著。实际收益率方面，30年TIPS实际收益率3.04%、10年TIPS 2.45%。中国两融余额占A股市值比例在2025-26年波动，高点约3.0%。",
+      "bullets": [
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "ETF年度发行量2025年突破1000支，杠杆和期权收入类激增",
+          "details": "图表显示ETF年度发行量按敞口分类，2025年约1060支，2026年约900支，杠杆类(Levered)和期权收入类(Option Income)显著增长，Buffer类也有明显上升趋势",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "实际收益率：30年TIPS 3.04%，10年TIPS 2.45%",
+          "details": "图表显示实际收益率周度数据，当前30年TIPS实际收益率3.04%，10年TIPS实际收益率2.45%，real 10yr(core PCE) 1.08%",
+          "important": false
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "中国两融余额占A股市值比例约2.75%，高点3.0%",
+          "details": "图表显示中国两融余额占A股总市值比例，2025年1月约2.5-2.6%，2025年6-7月低点约2.4%，2026年7月高点约3.0%，8月回落至约2.75%",
+          "important": false
+        },
+        {
+          "actor": "markminervini",
+          "actor_type": "KOL",
+          "text": "[通胀数据] 核心CPI YoY降至2.5%，战争能源冲击暂无实质影响",
+          "details": "核心CPI +0.2%、Y/Y降至2.5%(前2.6%),与伊朗战争前持平、为2021/3以来最低——说明战争带来的高能源价格迄今对核心通胀无实质影响;短端利率仍在project加息,但数据表明Fed无需急于9月加息,若加也大概率0.25%(已price)",
+          "important": true
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        2
+      ],
+      "importance": 1,
+      "sources": [
+        "Baird Strategas",
+        "Bloomberg",
+        "Fidelity",
+        "UBS"
+      ],
+      "date": "2026-08-14",
+      "image_urls": [
+        "/uploads/2026-08-14/549157cb5cc1.png",
+        "/uploads/2026-08-14/fb42c3f8aedc.png"
+      ]
+    }
+  ]
+}

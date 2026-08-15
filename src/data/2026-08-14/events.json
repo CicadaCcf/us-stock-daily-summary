@@ -1,0 +1,143 @@
+{
+  "events": [
+    {
+      "tag": "AI融资",
+      "tagCls": "hot",
+      "title": "英伟达联合高盛启动5000亿美元AI融资平台",
+      "body": "Nvidia宣布与高盛等六家金融机构合作，推出计算能力融资平台，目标筹集超5000亿美元第三方资本。此举旨在解决AI基础设施建设的资本瓶颈，反映出AI算力需求远超当前供给的现状。",
+      "tickers": [
+        "NVDA",
+        "GS",
+        "AMD",
+        "AVGO",
+        "CORZ"
+      ]
+    },
+    {
+      "tag": "AI估值",
+      "tagCls": "hot",
+      "title": "Anthropic与OpenAI营收激增，积极筹备IPO",
+      "body": "Anthropic第二季度营收初值已超115亿美元，OpenAI年化营收突破400亿美元。两家公司均与顶级投行合作筹备上市，以获取资本在AI模型研发竞赛中保持领先。",
+      "tickers": [
+        "MSFT",
+        "AMZN",
+        "GOOGL",
+        "NVDA"
+      ]
+    },
+    {
+      "tag": "机构持仓",
+      "tagCls": "",
+      "title": "伯克希尔13F披露增持Alphabet 83%",
+      "body": "最新13F文件显示，伯克希尔哈撒韦将Alphabet持股增加83%，使其成为第三大重仓股。Thrive Capital披露持有Amazon约2.15亿美元头寸，凸显机构对科技巨头AI和云计算前景的看好。",
+      "tickers": [
+        "GOOGL",
+        "AMZN",
+        "BRK.B"
+      ]
+    },
+    {
+      "tag": "宏观数据",
+      "tagCls": "",
+      "title": "美国7月零售销售下滑0.6%，加息预期降温",
+      "body": "7月零售销售额环比下降0.6%，8月密歇根消费者信心指数初值降至51。数据公布后美债上涨、美元走弱，市场对美联储9月加息预期大幅回落。",
+      "tickers": []
+    },
+    {
+      "tag": "地缘风险",
+      "tagCls": "warn",
+      "title": "美国威胁对伊朗实施海上封锁，油价上涨超1美元",
+      "body": "美国威胁对伊朗实施无限期海上封锁，加剧中东地缘政治紧张。市场担忧霍尔木兹海峡原油供应中断，推动国际油价上涨超1美元/桶。",
+      "tickers": [
+        "XOM",
+        "CVX",
+        "LNG"
+      ]
+    },
+    {
+      "tag": "AI并购",
+      "tagCls": "hot",
+      "title": "SpaceX 600亿美元收购AI编程公司Cursor",
+      "body": "Elon Musk旗下SpaceX完成对AI编程初创公司Cursor的收购，交易价值600亿美元。此举旨在整合开发工具和人才增强AI实力，与OpenAI和Anthropic竞争。",
+      "tickers": [
+        "TSLA",
+        "GOOGL"
+      ]
+    },
+    {
+      "tag": "软件并购",
+      "tagCls": "hot",
+      "title": "银湖资本洽谈430亿美元收购Workday",
+      "body": "私募银湖资本据报正就收购Workday进行谈判，交易价值可能达430亿美元。在SaaS板块因AI颠覆担忧估值承压背景下，此举被视为私募资本对软件行业前景的信心信号。",
+      "tickers": [
+        "WDAY",
+        "CRM",
+        "NOW"
+      ]
+    },
+    {
+      "tag": "国防订单",
+      "tagCls": "",
+      "title": "五角大楼与波音、RTX签署导弹增产协议",
+      "body": "美国国防部与波音和RTX签署框架协议，提高SM-3系列导弹拦截器关键部件产量。在地缘政治紧张背景下，此举旨在加强国防工业基础，加速关键弹药生产。",
+      "tickers": [
+        "BA",
+        "RTX",
+        "LMT",
+        "NOC"
+      ]
+    },
+    {
+      "tag": "日本央行",
+      "tagCls": "",
+      "title": "日本央行或于9月加息，日元走强",
+      "body": "市场对日本央行9月加息预期升温，目前已消化约80%概率。日本前外汇高官称日元\"明显过弱\"，暗示可能干预，市场正为日本货币政策转向做准备。",
+      "tickers": []
+    },
+    {
+      "tag": "核能合作",
+      "tagCls": "",
+      "title": "盖茨旗下TerraPower与SK集团就SMR项目达成协议",
+      "body": "比尔·盖茨创立的TerraPower与韩国SK Innovation就全球小型模块化反应堆项目签署初步协议，为SK参与美国及海外先进核能项目铺路，标志着跨国核能合作加强。",
+      "tickers": [
+        "SMR",
+        "GE",
+        "CCJ"
+      ]
+    },
+    {
+      "tag": "贸易摩擦",
+      "tagCls": "warn",
+      "title": "美国就ESG法规向欧盟施压，威胁报复",
+      "body": "美国要求欧盟放宽ESG相关法规如CSRD，认为这些规则对美企构成不公平负担。美方威胁若欧盟不采取行动将予以回击，加剧跨大西洋贸易政策紧张。",
+      "tickers": []
+    },
+    {
+      "tag": "关税风险",
+      "tagCls": "warn",
+      "title": "美国威胁对加拿大200亿商品征50%关税",
+      "body": "美国警告若加拿大不取消报复性措施，将从8月19日起对200亿美元加拿大商品征收50%关税。Stellantis表示关税风险可能影响其加拿大生产布局。",
+      "tickers": [
+        "STLA"
+      ]
+    }
+  ],
+  "_archive": {
+    "source": "notion",
+    "fetched_at": "2026-08-15T00:10:40.969329+00:00",
+    "raw_text": "### 事件 英伟达联合高盛等机构启动5000亿美元AI融资\nNvidia宣布与六家主要金融机构（包括高盛）合作，推出计算能力融资平台，旨在筹集超过5000亿美元的第三方资本。此举旨在解决AI基础设施建设面临的巨大资本瓶颈，反映出AI算力需求远超当前供给的现状，以及为支撑这一轮技术竞赛而生的金融创新模式。\n- NVDA  Nvidia — 融资发起方\n- GS  Goldman Sachs — 关键合作投行\n- AMD  AMD — 同样为AI扩张而发债的竞争对手\n- AVGO  Broadcom — AI芯片核心供应商\n- CORZ  CoreWeave — 受益于算力需求的AI云服务商\n### 事件 Anthropic与OpenAI营收激增，积极筹备IPO\n头部AI初创公司报告收入爆炸式增长，为其大规模IPO计划提供了有力支撑。据报道，Anthropic第二季度营收初值已超过115亿美元，而OpenAI的年化营收（ARR）则突破了400亿美元。两家公司均在与顶级投行合作筹备上市，以获取充足资本在激烈的AI模型研发竞赛中保持领先地位。\n- MSFT  Microsoft — OpenAI的主要合作伙伴与投资者\n- AMZN  Amazon — Anthropic的主要投资者与云合作伙伴\n- GOOGL  Alphabet — Anthropic的投资者及AI领域的主要竞争者\n- NVDA  Nvidia — 所有AI公司的关键GPU供应商\n### 事件 伯克希尔哈撒韦等机构13F文件披露增持科技巨头\n最新披露的13F季度文件显示，大型投资机构在第二季度继续加码科技巨头。其中，伯克希尔哈撒韦将其对Alphabet的持股增加了83%，使其成为第三大重仓股；同时，Joshua Kushner的Thrive Capital也披露了对Amazon价值约2.15亿美元的持仓。这些操作凸显了机构投资者对大型科技公司，尤其是其在AI和云计算领域增长前景的持续看好。\n- GOOGL  Alphabet — 伯克希尔增持标的\n- AMZN  Amazon — Thrive Capital建仓标的\n- BRK.B  Berkshire Hathaway — 投资方\n### 事件 美国7月零售销售及消费者信心数据疲软，加息预期降温\n周五公布的关键经济数据指向美国经济正在降温，导致市场对美联储9月加息的预期大幅回落。数据显示，7月零售销售额意外环比下降0.6%，而8月密歇根大学消费者信心指数初值也降至51。数据公布后，美国国债价格上涨，美元走弱，交易员大幅削减了对未来货币政策进一步紧缩的押注。\n- TLT  iShares 20+ Year Treasury Bond ETF — 因加息预期降温而上涨\n- XLC  Communication Services Select Sector SPDR Fund\n- XLRE  Real Estate Select Sector SPDR Fund — 被认为是利率敏感型板块，可能受益于暂停加息\n### 事件 美国威胁对伊朗实施无限期海上封锁致油价上涨\n美国政府威胁将对伊朗实施无限期的海上封锁，旨在通过极限经济施压迫使伊朗让步，此举加剧了中东地缘政治的紧张局势。由于市场担忧霍尔木兹海峡的原油供应可能中断，该消息推动国际油价上涨超过1美元/桶，并使能源市场对地缘政治风险的敏感度显著提升。\n- XOM  Exxon Mobil\n- CVX  Chevron — 受益于油价上涨的综合性石油巨头\n- LNG  Cheniere Energy — 地缘政治紧张局势可能影响全球天然气供需格局\n### 事件 SpaceX完成对AI编程初创公司Cursor的600亿美元收购\nElon Musk旗下的SpaceX已完成对AI编程初创公司Cursor的收购，交易价值高达600亿美元。此次收购旨在整合Cursor的开发工具和人才，以增强SpaceX的AI实力，直接与OpenAI和Anthropic等领先者竞争。此举被视为SpaceX将AI作为未来核心业务的关键一步，预计将利用其庞大的算力资源加速AI模型研发。\n- TSLA  Tesla — 与Musk旗下其他公司存在潜在协同效应\n- GOOGL  Alphabet — 作为SpaceX的主要投资者，其持股价值因SpaceX的扩张而显著增长\n### 事件 银湖资本洽谈收购Workday，或提振软件板块估值\n私募股权公司银湖资本(Silver Lake)据报正就收购企业软件公司Workday进行谈判，交易价值可能高达430亿美元。在SaaS板块因AI颠覆担忧而估值承压的背景下，这一潜在的大型收购被市场解读为私募资本对软件行业前景依然充满信心的信号。该交易若能达成，可能为受挫的软件股估值提供一个底部支撑，并引发更多行业内的并购活动。\n- WDAY  Workday — 收购标的\n- CRM  Salesforce\n- NOW  ServiceNow — 同赛道的企业软件巨头，其估值可能受到提振\n### 事件 五角大楼与波音、RTX签署协议以提高导弹产量\n美国国防部宣布与波音(Boeing)和RTX公司签署了框架协议，旨在提高SM-3 Block IIA和SM-3 Block IB导弹拦截器关键部件的产量。在地缘政治紧张局势加剧的背景下，此举旨在加强美国国防工业基础，加速关键弹药的生产与交付。\n- BA  Boeing\n- RTX  RTX Corp — 协议的直接签署方\n- LMT  Lockheed Martin\n- NOC  Northrop Grumman — 其他导弹防御系统领域的主要承包商\n### 事件 日本央行或于9月加息，市场预期其将加快紧缩步伐\n市场对日本央行(BOJ)最早在9月会议上加息的预期正在迅速升温，有消息称其可能加快紧缩步伐。此前，日本前外汇事务高级官员表示日元“明显过弱”，暗示可能随时进行干预。目前，市场已消化了9月份加息约80%的概率，并在为日本货币政策的转向做准备，这导致日元汇率走强。\n### 事件 美国TerraPower与韩国SK集团就全球SMR项目达成初步协议\n由比尔·盖茨创立的核能公司TerraPower与韩国SK集团旗下的SK Innovation就全球小型模块化反应堆(SMRs)项目签署了初步协议。该协议为SK集团参与TerraPower在美国及海外的先进核能项目铺平了道路。这标志着在推动下一代核能技术商业化的过程中，跨国合作正日益加强。\n- SMR  NuScale Power — 美股SMR纯标的\n- GE  General Electric — 通过GE-Hitachi参与SMR开发\n- CCJ  Cameco — 核燃料供应商\n### 事件 美国就ESG法规向欧盟施压，威胁采取报复行动\n美国政府向欧盟发出信函，要求其放宽具有域外效力的ESG（环境、社会和治理）相关法规，如《企业可持续发展报告指令》(CSRD)。美方认为这些规则对美国企业构成了不公平的竞争负担，并威胁称若欧盟不采取行动，美方将采取必要措施予以回击，加剧了跨大西洋的贸易政策紧张关系。\n### 事件 美国威胁对加拿大200亿美元商品征收50%关税\n美国贸易代表警告称，如果加拿大不取消针对美国商品的报复性贸易措施，美国将从8月19日起对价值200亿美元的加拿大进口商品征收50%的关税。美方的核心诉求包括解决乳制品配额和美国酒类销售禁令等问题。Stellantis等公司已表示，关税风险可能影响其在加拿大的生产布局。\n- STLA  Stellantis — 其加拿大工厂运营受关税风险影响",
+    "model": "claude-opus-4-5-20251101",
+    "usage": {
+      "input_tokens": 3956,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1694,
+      "service_tier": "standard",
+      "inference_geo": "not_available"
+    }
+  }
+}
