@@ -204,8 +204,29 @@ function IngestTab({ kind, date }) {
 
   const canSubmit = (text.trim().length > 0 || images.length > 0) && !loading;
 
+  // Make it unmistakable which section this tab writes to — all three ingest
+  // tabs look alike, and a macro paste landing in the Theme tab silently wrote
+  // to themes.json. This banner + the color-coded left border prevent that.
+  const TARGET = {
+    macro:  { name: '宏观日览 Macro',  file: 'macro.json',  color: 'var(--gold)' },
+    themes: { name: '主题追踪 Theme',  file: 'themes.json', color: 'var(--blue)' },
+    events: { name: '全球事件 Events', file: 'events.json', color: 'var(--green)' },
+  }[kind] || { name: kind, file: `${kind}.json`, color: 'var(--border)' };
+
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
+      <div style={{
+        display: 'flex', alignItems: 'baseline', gap: 8,
+        padding: '8px 10px', borderLeft: `3px solid ${TARGET.color}`,
+        background: 'var(--card-alt)', borderRadius: 4,
+      }}>
+        <span style={{ fontSize: 13, fontWeight: 700, color: 'var(--text-bright)' }}>
+          {TARGET.name}
+        </span>
+        <span style={{ fontSize: 10, color: 'var(--text-dim)' }}>
+          → 保存到 {TARGET.file}
+        </span>
+      </div>
       <label style={{ fontSize: 11, color: 'var(--text-dim)' }}>
         粘贴文本 (中文 OK；可与图片同时)
       </label>
@@ -635,7 +656,9 @@ function PublishTab({ currentDate, availableDates }) {
 
 export default function AdminDrawer({ currentDate, availableDates }) {
   const [open, setOpen] = useState(false);
-  const [tab, setTab] = useState('themes');
+  // Default to Macro (the frequent manual ingest) — NOT Theme. Opening on the
+  // Theme tab caused macro pastes to be misclassified into themes.json.
+  const [tab, setTab] = useState('macro');
 
   return (
     <>

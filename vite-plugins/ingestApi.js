@@ -717,6 +717,16 @@ async function callClaude({ env, kind, text, images, imageUrls, date, modelOverr
       }
     }
   }
+  // If every repair failed, REFUSE to hand back a stringified array. Throwing
+  // here surfaces a clear error in the Admin UI so the user re-rolls (a fresh
+  // generation almost always produces a proper array) — instead of silently
+  // returning a string that Save would persist and blank the whole module.
+  if (typeof data[key] === 'string') {
+    throw Object.assign(
+      new Error(`模型把 "${key}" 序列化成了字符串且无法自动修复（内部引号未转义）。请重试 Classify（建议用 Opus 4.8），通常重跑一次即可正常。`),
+      { status: 502, kind: 'malformed' }
+    );
+  }
   // Inject the canonical ingest date server-side so it never depends on
   // whatever year the LLM hallucinates from the input text.
   if (date && Array.isArray(data[key])) {
@@ -1100,6 +1110,20 @@ export function ingestApiPlugin(env) {
             }
             if (data == null || typeof data !== 'object') {
               return sendJson(res, 400, { ok: false, error: 'data (object) is required' });
+            }
+            // Defense-in-depth: never persist a stringified top-level array
+            // (topics/events/themes). A string here would make the frontend's
+            // toArray() yield [] and blank the whole section. This should never
+            // happen now that /api/ingest throws on unrepairable output, but
+            // guard the write path too so a bad payload can't silently break a
+            // module.
+            for (const arrKey of ['topics', 'events', 'themes']) {
+              if (typeof data[arrKey] === 'string') {
+                return sendJson(res, 400, {
+                  ok: false,
+                  error: `拒绝保存：${arrKey} 是字符串而非数组（分类结果损坏）。请重新 Classify 后再 Save。`,
+                });
+              }
             }
             const dir = path.join(DATA_DIR, date);
             fs.mkdirSync(dir, { recursive: true });
