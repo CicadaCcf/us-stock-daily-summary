@@ -1,0 +1,654 @@
+{
+  "topics": [
+    {
+      "id": "china-us-summit-sep23",
+      "topic": "中美元首会晤",
+      "topic_tag": "geo",
+      "title": "中国国家主席9/24访白宫会晤特朗普",
+      "summary": "中国国家主席将于9/23晚间抵美，9/24与特朗普在白宫会晤，25日离境返回。同期韩国总统李在明呼吁加快推进核动力潜艇计划。",
+      "bullets": [
+        {
+          "actor": "中国国家主席",
+          "actor_type": "Foreign-Gov",
+          "text": "中国国家主席9/24白宫会晤特朗普",
+          "details": "中国国家主席将于9/23晚间抵达美国，9/24与特朗普举行白宫行程，25日则离境返回。",
+          "important": true
+        },
+        {
+          "actor": "李在明",
+          "actor_type": "Foreign-Gov",
+          "text": "韩国总统呼吁加快推进核潜艇计划",
+          "details": "韩国总统李在明呼吁，鉴于特朗普下令限制与美国的联合军事演习，韩国在争取拥有首艘核动力潜艇的计划上，应尽快与美国取得进展。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-18",
+      "image_urls": []
+    },
+    {
+      "id": "hormuz-red-sea-oil-aug20",
+      "topic": "霍尔木兹与红海航运",
+      "topic_tag": "oil",
+      "title": "红海袭船与霍尔木兹运输波动扰乱原油物流",
+      "summary": "也门胡塞持续袭击红海商船，沙特要求亚洲炼油厂改赴Yanbu港取油；沙特阿美恢复经霍尔木兹运输，但中远、中海两大中国航运巨头因中东冲突停止让油轮通过关键通道。",
+      "bullets": [
+        {
+          "actor": "中远集团/中海集团",
+          "actor_type": "Corporate",
+          "text": "中远中海停止油轮通过中东两大通道",
+          "details": "RTRS报道援引三位行业高管、油轮追踪机构和一家船舶经纪人的话说，由于中东地区的持续冲突，两家中国航运巨头——中远集团和中海集团已停止让油轮通过该地区的两个重要通道。取而代之的是，这些公司在海湾地区之外接收石油货物。",
+          "important": true
+        },
+        {
+          "actor": "沙特原油供应商",
+          "actor_type": "Corporate",
+          "text": "红海袭船致沙特要求亚洲客户自取油",
+          "details": "BBG报道也门胡塞不断袭击红海商船，沙特原油供应商要求亚洲炼油厂自己想办法，到沙特输油管道终端Yanbu港来取油，亚洲客户要求沙特提供红海以外的提货地点。",
+          "important": false
+        },
+        {
+          "actor": "沙特阿美",
+          "actor_type": "Corporate",
+          "text": "沙特阿美恢复经霍尔木兹石油运输",
+          "details": "RTRS援引的航运数据和贸易消息来源称，沙特阿美上周恢复了通过霍尔木兹海峡的石油运输业务。目前还有更多油轮正在等待装货。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Bloomberg",
+        "Reuters"
+      ],
+      "date": "2026-08-18",
+      "image_urls": []
+    },
+    {
+      "id": "china-property-path-aug20",
+      "topic": "中国房地产",
+      "topic_tag": "macro-other",
+      "title": "中国房价高点后路径分布：一线中原62.3",
+      "summary": "宏观边际图表显示中国房价高点后路径分布，NBS一线26/07为84.7、二线77.9、三线75.1、二手房77.0；中原一线跌至62.3、香港84.0。整体路径落入历史泡沫破裂分位带区间。",
+      "bullets": [
+        {
+          "actor": "宏观边际",
+          "actor_type": "Analyst",
+          "text": "中原一线房价高点后跌至62.3",
+          "details": "高点后路径分布（高点=100）：中国一线(NBS)26/07 84.7、中国香港(中原)84.0、中国二线(NBS)77.9、中国二手房(NBS)77.0、中国三线(NBS)75.1、中国一线(中原)26/07 62.3（低点60.8），路径落入大型泡沫与小型泡沫历史分位带之间，一蹶不振情形低点61.9。数据源Wind。",
+          "important": true
+        },
+        {
+          "actor": "宏观边际",
+          "actor_type": "Analyst",
+          "text": "路径落入历史泡沫破裂分位带",
+          "details": "历史分位带与当前重点经济体路径对比，涵盖大型泡沫、小型泡沫、常规周期、一蹶不振等情景，中国实际时间轴20/07至31/07。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [
+        "Wind",
+        "宏观边际"
+      ],
+      "date": "2026-08-18",
+      "image_urls": [
+        "/uploads/2026-08-18/1d60118377c4.png"
+      ]
+    },
+    {
+      "id": "anthropic-a16z-aug20",
+      "topic": "AI公司动态",
+      "topic_tag": "ai",
+      "title": "Anthropic年化营收超65B；司法部反垄断调查a16z",
+      "summary": "Anthropic 7月年化营收超65B、较去年底增超7倍，内部预计2028年营收达200B。美国司法部对a16z展开反垄断调查，核查其核心成员是否违规在多家竞争AI公司担任董事。",
+      "bullets": [
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic年化营收超65B，同比增超7倍",
+          "details": "Anthropic 7月年化营收超65B，较去年底增超7倍；内部预计2028年营收高达200B。图表显示Est. Annual Revenue自2025/12/31至2026/6/30持续攀升，4周增速3月见顶后回落。",
+          "important": true
+        },
+        {
+          "actor": "美国司法部",
+          "actor_type": "US-Executive",
+          "text": "司法部反垄断调查a16z董事任职",
+          "details": "BBG爆料称，美国司法部正在对投资机构a16z展开反垄断调查，调查其核心成员，是否违规在多家相互竞争的AI公司担任董事。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 2,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-08-18",
+      "image_urls": [
+        "/uploads/2026-08-18/80b1ae493677.png"
+      ]
+    },
+    {
+      "id": "buyside-cis-japan-aug20",
+      "topic": "买方观点",
+      "topic_tag": "macro-other",
+      "title": "cis加仓日经，看多全球第二轮通胀",
+      "summary": "买方cis继续加仓日经接近满仓，认为全球第二轮通胀加速即将开始，美国实际负利率借债享红利、日元失控贬值推动更猛通胀，将重创养老金却减轻政府债务压力。",
+      "bullets": [
+        {
+          "actor": "cis",
+          "actor_type": "KOL",
+          "text": "cis加仓日经至近满仓，看多二轮通胀",
+          "details": "今天继续加仓日经，已接近满仓。他观察超长期利率后认为，全球第二轮通胀加速即将开始。美国过去以实际负利率大量借债，正在享受借得越多越赚的红利；日本方面（提及高市相关政策）日元失控贬值，导致当前物价上涨只是开胃菜，未来通胀会更猛烈。这将重创养老金和现金储蓄，却让日本政府的债务压力大幅减轻。虽然期货下跌让他暂时很难受，但仍坚持看多。",
+          "important": true
+        },
+        {
+          "actor": "cis",
+          "actor_type": "KOL",
+          "text": "日元失控贬值致通胀将更猛烈",
+          "details": "日本方面日元失控贬值，导致当前物价上涨只是开胃菜，未来通胀会更猛烈，将重创养老金和现金储蓄，却让日本政府债务压力大幅减轻。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-08-18",
+      "image_urls": []
+    },
+    {
+      "id": "fed-natural-rate-japan-tic-aug20",
+      "topic": "美联储与外围政策",
+      "topic_tag": "fed",
+      "title": "旧金山联储论自然利率；Setser析日本汇市干预",
+      "summary": "旧金山联储称当前实际利率0.5%-0.75%低于1.5%的自然利率、政策略偏宽松。CFR的Brad Setser分析6月TIC数据显示日本5-6月汇市干预主要动用T-bills而非抛售长期美债，短期美债持仓降至约70B。",
+      "bullets": [
+        {
+          "actor": "旧金山联储",
+          "actor_type": "Central-Bank",
+          "text": "实际利率低于自然利率，政策略偏宽松",
+          "details": "旧金山联储：当前中期实际自然利率约为1.5%，联邦基金利率目标区间为3.5%-3.75%，通胀约3%，隐含实际利率0.5%-0.75%，低于自然利率，货币政策略显宽松。采用中期自然利率设定政策利率，可更有效稳定通胀与就业，并降低利率波动。",
+          "important": false
+        },
+        {
+          "actor": "Brad Setser",
+          "actor_type": "Analyst",
+          "text": "日本汇市干预靠T-bills而非抛长债",
+          "details": "CFR Brad Setser：6月TIC数据显示出，5月底至6月日本进行了汇市干预，导致外汇储备下降。但如果仔细看，日本持有的长期美债变动并不大。干预主要靠动用T-bills来融资，而非大规模抛售长期美债，5月底干预主要消耗了日本的短期美债持仓，到6月底已降至约70B左右。",
+          "important": true
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "CFR"
+      ],
+      "date": "2026-08-18",
+      "image_urls": []
+    },
+    {
+      "id": "kol-fed-longbond-aug20",
+      "topic": "KOL观点-美联储与长债",
+      "topic_tag": "rates",
+      "title": "KOL热议加息概率、长端拍卖与外储抛售",
+      "summary": "多位KOL讨论：软通胀数据后加息概率大降但Jackson Hole可能重校预期；全曲线carry诱人但8月IG创纪录发行与长端拍卖施压，30年盯5.28%周期高点；外储抛售冲击体现在未来拍卖而非即刻抛10Y；沃什讲话被批缺乏政策细节。",
+      "bullets": [
+        {
+          "actor": "Fullcarry",
+          "actor_type": "KOL",
+          "text": "全曲线carry诱人但长端拍卖施压，30年盯5.28%",
+          "details": "Fullcarry：全曲线carry诱人，所有coupon收益率都显著高于隔夜利率，剩余2026仅price出23bp加息；但8月IG发行有望创纪录（当日又12家发债）、叠加长端拍卖（20年及30年TIPS），压力仍在，30年盯周期高点5.28%。",
+          "important": true
+        },
+        {
+          "actor": "talmonsmith",
+          "actor_type": "KOL",
+          "text": "软通胀后加息概率降但JH或重校预期",
+          "details": "talmonsmith：近一周通胀数据偏软后加息概率大幅下降；但一句fedspeak或一场Jackson Hole演讲都能迅速重新校准预期。",
+          "important": false
+        },
+        {
+          "actor": "ericwallerstein",
+          "actor_type": "KOL",
+          "text": "加息门槛很高，可信度加息站不住脚",
+          "details": "ericwallerstein：加息门槛很高，鹰派论证更像动能追随而非前瞻；早在5月就写过加息门槛高，所谓可信度加息从来站不住脚。",
+          "important": false
+        },
+        {
+          "actor": "Dr_Gingerballs",
+          "actor_type": "KOL",
+          "text": "四年任期者难让长债持有人紧张",
+          "details": "Dr_Gingerballs：一个只有四年任期的人，凭什么让持10-30年债的人紧张？",
+          "important": false
+        },
+        {
+          "actor": "Claudia_Sahm",
+          "actor_type": "KOL",
+          "text": "回顾历任主席首讲，批沃什缺政策细节",
+          "details": "Claudia_Sahm：任美联储主席的首次演讲回顾，伯南克主题为全球经济一体化，展示对历史经验重视，为带领美联储应对次贷危机奠定基调。耶伦深度分析劳动力市场动态，体现对充分就业使命的重视与严谨风格。鲍威尔探讨不确定性下的风险管理，为后续应对疫情通胀及软着陆打下理论基础。沃什目前讲话过于强调流程、缺乏政策细节，需拿出具体替代方案、下沉到政策细节，明确解释他如何看待金融市场信息、新的财政部-美联储协议具体包含什么，以及如何通过缩表替代加息。",
+          "important": false
+        },
+        {
+          "actor": "EtraAlex",
+          "actor_type": "KOL",
+          "text": "外储抛售冲击体现在未来拍卖而非即刻抛10Y",
+          "details": "EtraAlex：外储抛售的冲击体现在未来拍卖（总持有下降→对新发on-the-run券竞标需求减少，通常更多是5年而非10年），通常不会导致即刻抛售10Y。",
+          "important": false
+        },
+        {
+          "actor": "brandonjcarl",
+          "actor_type": "KOL",
+          "text": "类比Druckenmiller，长债或到逆向布局点",
+          "details": "brandonjcarl：类比Druckenmiller在互联网泡沫时短暂休整回来后大举做多美债——暗示长债可能到了逆向布局的类似时点。",
+          "important": false
+        },
+        {
+          "actor": "ericwallerstein",
+          "actor_type": "KOL",
+          "text": "AI新供给迫使市场消化超长久期",
+          "details": "ericwallerstein：AI新供给正迫使市场消化超长久期、重置了清算这些券的成本；资管吸收供给、拉长组合WAM的同时，自然减少对美债久期（或期货）的需求。",
+          "important": false
+        },
+        {
+          "actor": "josephwang",
+          "actor_type": "KOL",
+          "text": "AI债并未挤出美债，收益率走高因政策不确定",
+          "details": "josephwang：AI债并未挤出美债，若真挤出应见交易商囤积更多美债，但交易商票息持仓没增加、掉期利差稳定；收益率走高更像政策不确定性所致。",
+          "important": false
+        },
+        {
+          "actor": "EconstratPB",
+          "actor_type": "KOL",
+          "text": "正向投资需求冲击，不会带来衰退崩盘",
+          "details": "EconstratPB：这是一次正向投资需求冲击，不会带来衰退或风险资产崩盘；实际利率上行源于真实经济活动；IG发行确实高、且会为AI建设更高，但供给推高收益率→衰退→崩盘逻辑该扔进垃圾桶，如今只是把UST换成IG再炒一遍；过去5年喊美债拖垮经济的那批人现在改喊IG。",
+          "important": false
+        },
+        {
+          "actor": "farrmacro",
+          "actor_type": "KOL",
+          "text": "全球主权债150T，AI债动不了整体",
+          "details": "farrmacro：全球主权债市场约150T，IG发行年内约1.5T，几万亿AI债动不了整体，叙事最多在美国边际成立。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        7
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-18",
+      "image_urls": [
+        "/uploads/2026-08-18/912da7363f2a.jpg"
+      ]
+    },
+    {
+      "id": "kol-ai-market-aug20",
+      "topic": "KOL观点-AI与行情",
+      "topic_tag": "ai",
+      "title": "KOL论AI循环融资、Alphabet表外义务与IV压缩",
+      "summary": "KOL批AI循环融资几乎同一笔钱绕圈、neocloud与AI为同一场骗局；Alphabet表外合同义务达811B、一年增超1000%；ShanghaoJin指IV压缩迫使vol target策略重新加杠杆，强制去杠杆已结束。",
+      "bullets": [
+        {
+          "actor": "JackFarley96",
+          "actor_type": "KOL",
+          "text": "Alphabet表外合同义务811B，一年增超1000%",
+          "details": "JackFarley96：Alphabet表外合同义务811B（含未起租租约、芯片/电力/土地采购承诺），过去一年增逾1000%。",
+          "important": true
+        },
+        {
+          "actor": "Dr_Gingerballs",
+          "actor_type": "KOL",
+          "text": "AI循环融资几乎是同一笔钱绕圈",
+          "details": "Dr_Gingerballs：AI循环融资几乎是同一笔钱在绕圈打转；neocloud与AI是同一场骗局，由同一个人（Jensen）推动以卖芯片。",
+          "important": false
+        },
+        {
+          "actor": "ShanghaoJin",
+          "actor_type": "KOL",
+          "text": "IV压缩迫使vol target策略重新加杠杆",
+          "details": "ShanghaoJin：IV压缩会迫使所有vol target策略重新加杠杆，自5月以来明显是不同的体制；剔除低波动个股（NVDA/TSM）后，个股vol下降本身就导致momentum加仓——意味着强制去杠杆已结束，IV下降正是其近期看多（含BTC）的主要理由之一。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GOOGL",
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-18",
+      "image_urls": []
+    },
+    {
+      "id": "kol-iran-commodities-aug20",
+      "topic": "KOL观点-伊朗与商品",
+      "topic_tag": "oil",
+      "title": "KOL论霍尔木兹迷你过剩、铜逆价差与中国囤油",
+      "summary": "CRUDEOIL231称霍尔木兹短暂重开造成亚洲迷你过剩、缓冲已烧光，LME铜近月逆价差飙升明确看多、矿山交期拉长至16年；shehzadhqazi指中国7月重返囤油、日盈余约21万桶入库令油市意外。",
+      "bullets": [
+        {
+          "actor": "shehzadhqazi",
+          "actor_type": "KOL",
+          "text": "中国7月重返囤油，日盈余约21万桶入库",
+          "details": "shehzadhqazi：中国7月重返囤油，进口8.41 MMbpd+本土4.3 MMbpd=可用12.72，炼厂加工12.51，约21万桶/日盈余入库——再度让油市意外。",
+          "important": true
+        },
+        {
+          "actor": "CRUDEOIL231",
+          "actor_type": "KOL",
+          "text": "霍尔木兹迷你过剩，缓冲已烧光",
+          "details": "CRUDEOIL231：暂时通畅是亚洲消化霍尔木兹短暂重开的迷你过剩，拖到年底是找麻烦；进口未断崖，但缓冲（春夏）已烧光，拖延则供应链裂缝；TACO基本只剩一招——照剧本向德黑兰/胡塞求降级（既已向北京平壤低头，再向伊朗服软够撑过中期选举）。",
+          "important": false
+        },
+        {
+          "actor": "CRUDEOIL231",
+          "actor_type": "KOL",
+          "text": "LME铜近月逆价差飙升明确看多",
+          "details": "CRUDEOIL231：LME铜近月逆价差飙升、如此幅度明确看多（投机多头重压Comex、LME滞后），铜矿商创伤后应激，基准价假设保守、矿山交期从90年代6.7年拉长到近16年，别指望真正供给回应。",
+          "important": false
+        },
+        {
+          "actor": "CRUDEOIL231",
+          "actor_type": "KOL",
+          "text": "黄金/油/收益率/美元宏观相关性破裂",
+          "details": "CRUDEOIL231：跨资产上黄金/油/收益率/美元宏观相关性正破裂（DXY不再线性搭油与收益率、黄金也不再一见油涨就被抛）。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-18",
+      "image_urls": []
+    },
+    {
+      "id": "bofa-fms-aug20",
+      "topic": "美银基金经理调查",
+      "topic_tag": "earnings",
+      "title": "美银FMS：现金降至3.5%触发卖出，股票配置创新高",
+      "summary": "美银8月FMS：现金水平降至3.5%为1998年来第6低触发卖出信号，全球股票配置升至净超配56%创2021年11月来新高，牛熊指标9.3处逆向卖出区。72%预计中期选举前不加息，最拥挤交易为做多全球半导体（53%），最大尾部风险为AI泡沫（32%）。",
+      "bullets": [
+        {
+          "actor": "美银FMS",
+          "actor_type": "Analyst",
+          "text": "现金降至3.5%触发卖出，股票配置净超配56%创新高",
+          "details": "投资者现金水平降至3.5%（前值3.6%），为1998年有记录以来的第6低水平，持续触发美银现金规则的卖出信号；全球股票配置升至净超配56%，创2021年11月以来新高；美银牛熊指标升至9.3，处于明确的逆向卖出区间。",
+          "important": true
+        },
+        {
+          "actor": "美银FMS",
+          "actor_type": "Analyst",
+          "text": "72%预计中期选举前不加息，沃什讲话53%预期中性",
+          "details": "72%的受访者预计美联储不会在11月美国中期选举前加息；对美联储主席沃什在杰克逊霍尔会议上的表态，53%预期偏中性，31%预期偏鹰派，仅7%预期偏鸽派；47%预计中期选举将形成民主党众议院+共和党参议院的割裂国会，若民主党横扫两院，37%预计市场表现为美债收益率上升、股市下跌。",
+          "important": false
+        },
+        {
+          "actor": "美银FMS",
+          "actor_type": "Analyst",
+          "text": "最拥挤做多全球半导体53%，最大尾部风险AI泡沫32%",
+          "details": "最拥挤的交易为做多全球半导体（53%），其次为做空日元（12%）和做多美股七姐妹（11%）；最大的尾部风险为AI泡沫（32%），其次是债券收益率无序上升（27%）；38%将AI超大规模厂商资本支出视为潜在系统性信用事件主要来源，但71%预计2026年不会有AI巨头削减资本支出。",
+          "important": false
+        },
+        {
+          "actor": "美银FMS",
+          "actor_type": "Analyst",
+          "text": "加仓美股与大宗商品，做空债券，无落地共识升至56%",
+          "details": "资产配置方面，投资者大幅加仓美股（净超配27%）与大宗商品（净超配24%），做空债券（净低配39%）；净16%认为黄金被低估，低估程度创2023年3月以来新高；行业轮动进入科技（净超配30%）、银行（净超配30%）及能源板块，空头回补必需与可选消费板块，从工业和医疗保健板块流出；无落地共识升至56%新高。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3
+      ],
+      "importance": 3,
+      "sources": [
+        "BofA Global Fund Manager Survey"
+      ],
+      "date": "2026-08-18",
+      "image_urls": [
+        "/uploads/2026-08-18/8d303893d012.png"
+      ]
+    },
+    {
+      "id": "sellside-rates-fx-aug20",
+      "topic": "卖方观点-利率与商品",
+      "topic_tag": "rates",
+      "title": "卖方：30年美债5.31%创07年新高，黄金站稳4400",
+      "summary": "摩根大通指30年美债升至5.31%创2007年来最高、维持做陡策略、目标5.50%，6月外资净买入长债6.8B创2月来新低、中国最大净卖家。HSBC称黄金站稳4400、9月加息概率降至33%。花旗预计8月核心PCE下修20-30bp。",
+      "bullets": [
+        {
+          "actor": "JPMorgan",
+          "actor_type": "Analyst",
+          "text": "30年美债5.31%创07年新高，维持做陡目标5.50%",
+          "details": "JPM Rates：受全球熊市陡峭化及日本国债收益率上升影响，30年期美债收益率升至5.31%，达2007年以来最高水平；6月外国投资者净买入长期美债6.8B，创2月以来新低，其中中国为最大净卖家；尽管2s/10s曲线做陡交易基本面支撑减弱，但鉴于技术面指向5.50%及全球看跌压力，建议继续持有该头寸。",
+          "important": true
+        },
+        {
+          "actor": "HSBC",
+          "actor_type": "Analyst",
+          "text": "黄金站稳4400，9月加息概率降至33%",
+          "details": "HSBC：黄金站稳4400/oz，受美元走弱及美联储9月加息概率降至33%支撑；尽管地缘局势推高油价金价仍坚挺，预计短期区间震荡，关注FOMC会议纪要；白银及铂族金属跟涨，但工业需求疲软限制上行空间。",
+          "important": false
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "预计8月数据致核心PCE下修20-30bp",
+          "details": "Citi Eco：预计8月数据将致核心PCE向下修正20-30bp；7月核心CPI环比+0.215%超预期，但核心PCE环比预估+0.21%符合预期；因方法论变更年度核心PCE有望下调；Zillow单户租金近6个月首次放缓，住房通胀持续降温；工资增长受基数影响波动，劳动力市场非通胀风险源。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        8
+      ],
+      "importance": 2,
+      "sources": [
+        "JPMorgan",
+        "HSBC",
+        "Citi"
+      ],
+      "date": "2026-08-18",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-asia-equities-aug20",
+      "topic": "卖方观点-亚洲股市",
+      "topic_tag": "earnings",
+      "title": "卖方：韩股KOSPI目标9000，日股盈利创纪录",
+      "summary": "摩根士丹利上调2026韩国GDP至3.4%、KOSPI目标9000点、新增三星电机与LG电子。美银日本称一季度盈利创纪录、TOPIX经常利润同比增50.7%、盈利惊喜比率72%创20年新高。",
+      "bullets": [
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "韩股KOSPI目标9000，上调GDP至3.4%",
+          "details": "MS KR：韩国股市渐进复苏，KOSPI目标9,000点；上调2026年韩国GDP增速至3.4%；焦点名单新增三星电机（目标262万韩元）和LG电子（目标26万韩元），看好MLCC涨价及B2B转型；市场期待三星与SK海力士宣布高达30T韩元的年度股东回报计划；非IT板块盈利修正向好，零售投资者仍保守，外资流向关键。",
+          "important": true
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "日股一季度盈利创纪录，TOPIX经常利润同比增50.7%",
+          "details": "Bofa JP：日本股市一季度盈利创纪录，TOPIX经常利润同比增50.7%，盈利惊喜比率达72%创20年新高；受美联储及日银利率政策影响，市场风格转向个股精选，建议关注上调指引及高业绩达成率标的，如索尼、本田等。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "Morgan Stanley",
+        "BofA"
+      ],
+      "date": "2026-08-18",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-macro-debt-aug20",
+      "topic": "卖方观点-宏观与债务",
+      "topic_tag": "macro-other",
+      "title": "卖方：金发姑娘均衡不可持续，美国债务破GDP100%",
+      "summary": "德银Multi Asset警告金发姑娘均衡不可持续、警惕股债双杀。嘉信理财指美国公众持有债务破GDP 100%约31.9T、年化利息超1.2T超国防支出。德银Fed组称将用替代数据提升时效，2025非农下调911k。",
+      "bullets": [
+        {
+          "actor": "嘉信理财",
+          "actor_type": "Analyst",
+          "text": "美国公众持有债务破GDP100%，利息超1.2T超国防",
+          "details": "嘉信理财：美国公众持有的债务占GDP比重突破100%，约31.9T；年化利息成本超1.2T，超过国防支出，未来十年付息总额预计达16T；报告警告持续结构性赤字和高利率正收窄财政空间，投资者需关注债务可持续性风险。",
+          "important": true
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "金发姑娘均衡不可持续，警惕股债双杀",
+          "details": "DB Multi Asset：市场金发姑娘均衡不可持续；当前全球股市创新高、VIX降至2026年低点，定价了强劲增长与有限加息；但若增长持续，通胀压力将迫使央行激进加息，美债收益率可能大幅上行；若增长放缓，风险资产将失去支撑并面临修正；叠加潜在供应冲击，市场容错空间极低，警惕股债双杀风险。",
+          "important": false
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "美联储数据工作组将用替代数据，2025非农下调911k",
+          "details": "DB Fed：美联储数据工作组将重点利用替代数据提升政策判断的时效性；鉴于传统调查响应率下降及年度基准修订幅度增大（2025年非农就业下调911k），工作组拟开发高频通胀指标以实时捕捉供需失衡；此举旨在弥补传统数据滞后缺陷，但面临数据历史短及沟通挑战。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2,
+        5
+      ],
+      "importance": 2,
+      "sources": [
+        "Schwab",
+        "Deutsche Bank"
+      ],
+      "date": "2026-08-18",
+      "image_urls": [
+        "/uploads/2026-08-18/e07f59acb324.png",
+        "/uploads/2026-08-18/51cff1c8ff74.jpg"
+      ]
+    },
+    {
+      "id": "positioning-charts-aug20",
+      "topic": "持仓与市场结构",
+      "topic_tag": "macro-other",
+      "title": "杠杆基金美债空头创极值，历史最大交易亏损榜",
+      "summary": "CFTC持仓图显示资管多头60391、杠杆基金空头达-84484创极端水平。历史最大交易亏损榜（2026年7月按美元排名）显示Situational Awareness以约35B居首，远超Morgan Stanley、JPMorgan Chase等。",
+      "bullets": [
+        {
+          "actor": "CFTC持仓数据",
+          "actor_type": "新闻",
+          "text": "杠杆基金美债空头达-84484创极端水平",
+          "details": "CFTC持仓图（2010-2026）：Asset manager positioning 60391，Leverage funds positioning -84484，杠杆基金空头持仓降至极端负值。",
+          "important": true
+        },
+        {
+          "actor": "历史交易亏损榜",
+          "actor_type": "新闻",
+          "text": "Situational Awareness约35B居史上最大亏损榜首",
+          "details": "Biggest trading losses of all time leaderboard（2026年7月按美元亏损排名，2026美元）：Situational Awareness约35B居首，其后为Morgan Stanley、JPMorgan Chase、Archegos Capital Management、Société Général、Amaranth Advisors、Long Term Capital Management、Tsingshan Holding Group、PFZW、Melvin Capital、Sumitomo、Three Arrows Capital、Hunt Brothers、Soros Fund Management、Tiger Management等，涵盖funds、financials、others三类。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MS",
+        "JPM"
+      ],
+      "image_indexes": [
+        6,
+        9
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-08-18",
+      "image_urls": [
+        "/uploads/2026-08-18/cf861afb28e9.png"
+      ]
+    },
+    {
+      "id": "us-debt-by-president-aug20",
+      "topic": "美国联邦债务",
+      "topic_tag": "macro-other",
+      "title": "各任总统联邦债务增幅：奥巴马逾9T居首",
+      "summary": "River图表按总统展示美国联邦债务增幅：奥巴马逾9T最高，拜登约8.5T、特朗普首任约7.4T、Trump II约4T，历史上民主党与共和党均大幅推高债务。",
+      "bullets": [
+        {
+          "actor": "River",
+          "actor_type": "新闻",
+          "text": "奥巴马任内联邦债务增逾9T居首",
+          "details": "US federal debt increase by president（来源U.S. Treasury）：奥巴马任内增幅逾9T居首，拜登约8.5T，特朗普首任约7.4T，Bush 43约4.3T，Trump II约4T，Reagan、Bush 41、Clinton约1-2T，早期总统增幅极小；财年归属自总统就职当年结束的财年起算。",
+          "important": true
+        },
+        {
+          "actor": "巴克莱资本",
+          "actor_type": "新闻",
+          "text": "国债净发行削减被企业债激增抵消",
+          "details": "Bloomberg/Barclays Capital：Treasury Supply Cuts Offset by Surge in Corporate Debt Sales；国债notes和bonds净发行2025约1600B、2026预估约1100B下降，而企业债2025约650B、2026预估约1150B大幅上升。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        4
+      ],
+      "importance": 1,
+      "sources": [
+        "River",
+        "Bloomberg",
+        "Barclays"
+      ],
+      "date": "2026-08-18",
+      "image_urls": [
+        "/uploads/2026-08-18/801ee0165b39.png"
+      ]
+    },
+    {
+      "id": "global-30y-yields-aug20",
+      "topic": "全球长债收益率",
+      "topic_tag": "rates",
+      "title": "全球30年期国债收益率齐升，日德意大幅上行",
+      "summary": "图表显示23-26年美日西意法德英30年期国债收益率齐升，美国升至约5.3、英国约5.7居高，日本从约1.5升至约4.0，德国、法国等亦大幅上行。",
+      "bullets": [
+        {
+          "actor": "全球国债市场",
+          "actor_type": "新闻",
+          "text": "全球30年期收益率齐升，日本自1.5升至约4.0",
+          "details": "30 Year Treasury Bond Mid Yield（% p.a.）23-26年：美国升至约5.3、英国约5.7、意大利约4.8、西班牙约4.3、法国约4.8、德国约3.7、日本从约1.5大幅升至约4.0，全球超长端收益率同步上行。",
+          "important": true
+        },
+        {
+          "actor": "全球国债市场",
+          "actor_type": "新闻",
+          "text": "日本与德国长端上行斜率最陡",
+          "details": "图中日本（蓝）与德国（紫）自低位持续攀升，斜率最陡，反映全球熊市陡峭化及日债收益率上升压力。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        8
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-18",
+      "image_urls": []
+    }
+  ]
+}
