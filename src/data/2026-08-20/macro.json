@@ -1,0 +1,335 @@
+{
+  "topics": [
+    {
+      "id": "fed-policy-aug21",
+      "topic": "美联储政策",
+      "topic_tag": "fed",
+      "title": "Fed官员分歧：通胀过高vs选举年观望",
+      "summary": "Fed理事Cook称6月PCE同比3.7%接近目标两倍，若通胀不回落准备支持加息。Nick暗示7月纪要或略偏鸽。高盛与野村分别就Warsh低透明度政策、选举年不加息倾向给出判断，Fed利率路径分歧显著。",
+      "bullets": [
+        {
+          "actor": "Cook",
+          "actor_type": "Central-Bank",
+          "text": "通胀过高，必要时准备支持加息",
+          "details": "Fed理事Cook称美国通胀仍然过高，6月PCE同比上涨3.7%，接近目标两倍。她指出就业市场稳定，失业率4.2%，但低招聘率影响新进入者。若通胀未持续回落，她准备支持加息，同时存在关税效应消退、油价回落等反通胀力量。",
+          "important": true
+        },
+        {
+          "actor": "Nick",
+          "actor_type": "Analyst",
+          "text": "7月纪要或略不那么鹰派",
+          "details": "Nick称7月纪要或许比预期略不那么鹰派，因近期数据走弱、且许多官员会后公开表态，不过Fed前瞻是不变的，还是关注通胀（AI和柴油）。",
+          "important": false
+        },
+        {
+          "actor": "高盛(GS Fed)",
+          "actor_type": "Analyst",
+          "text": "Warsh低透明度政策推升波动，维持2026利率不变判断",
+          "details": "高盛称美联储主席Warsh推动的低透明度政策虽意在减少政策僵化，但已导致市场波动性显著上升。7月FOMC会议出现近30年最大非降息日惊喜，利率市场不确定性加剧。高盛预计若缺乏清晰反应函数指引，高波动将持续并推高期限溢价。维持美联储2026年利率不变（3.5%-3.75%）判断，认为当前通胀上升多为暂时性因素，核心PCE将于2027年回归2%。",
+          "important": false
+        },
+        {
+          "actor": "野村(Nomura)",
+          "actor_type": "Analyst",
+          "text": "Fed将维持利率，选举年历来避免鹰派转向",
+          "details": "野村认为Fed近期将维持利率不变，理由有三：通胀数据温和（6月核心PCE环比仅0.132%，7月预测0.226%），就业与零售显示经济降温，且选举政治周期支持观望。自1990年以来选举年下半年从未出现鹰派转向，美联储倾向避免在选举前调整政策。市场定价10月加息25bp概率约55%，与野村观点存在分歧。野村预计随关税影响消退、通胀动能减弱，Fed可等到中期选举后再行动。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "高盛",
+        "野村"
+      ],
+      "date": "2026-08-20",
+      "image_urls": [
+        "/uploads/2026-08-20/dd614aa2cb77.png"
+      ]
+    },
+    {
+      "id": "treasury-buyback-usd-aug21",
+      "topic": "财政部回购与美元",
+      "topic_tag": "rates",
+      "title": "财政部意外增加长债回购，美元走弱",
+      "summary": "美国财政部意外宣布增加长期国债回购，被视为软性金融压抑/扭转操作，引发美元急剧走弱。多位KOL围绕Bessent压制长端收益率的意愿与手段展开讨论，德银认为此举利空美元。",
+      "bullets": [
+        {
+          "actor": "德银(DB Macro)",
+          "actor_type": "Analyst",
+          "text": "财政部增回购=软性金融压抑，利空美元",
+          "details": "德银称美国财政部意外宣布增加长期国债回购，引发美元急剧走弱。此举被视为抑制长端收益率的软性金融压抑政策，类似扭转操作。若美债价格无法自然调整，美元需通过贬值重定价。该操作可能放松金融条件，若Fed未对此进行抵消性收紧，将进一步利空美元。",
+          "important": true
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "财政部有杠杆行政性压制收益率",
+          "details": "Andy称真正影响金融条件的是私人部门持有的久期。只要财政部愿意容忍更高通胀和更弱美元，基本能把30Y定在它想要的水平（至少在当前±100bp内）——手上有杠杆，缺的只是承受后果的意愿。未来几个月$14B显然不是重点，重点是它愿意行政性压制收益率，下一步（11月4日QRA）可能延长扩大回购、或削减/取消某些拍卖；若届时债市继续试探，Bessent会\"不惜一切\"压低长端。",
+          "important": false
+        },
+        {
+          "actor": "@htsfhickey",
+          "actor_type": "KOL",
+          "text": "疑Bessent事先获知20年拍卖疲弱风声",
+          "details": "@htsfhickey疑Bessent事先从华尔街拿到当日20年拍卖订单簿疲弱的风声，才在拍卖前出手。",
+          "important": false
+        },
+        {
+          "actor": "@mark_dow",
+          "actor_type": "KOL",
+          "text": "这是扭转操作不是QE，对长端影响不可持续",
+          "details": "@mark_dow称这是扭转操作，不是QE，且不会对长端收益率产生可持续影响。",
+          "important": false
+        },
+        {
+          "actor": "Danny",
+          "actor_type": "KOL",
+          "text": "回购仅$14B，相对存量微不足道",
+          "details": "Danny称回购只是额外$14B的买入，而10y/30y合计存量规模$10万亿。",
+          "important": false
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "KOL",
+          "text": "公告后黄金回$4500、美元跌1%、比特币涨6%",
+          "details": "Erian就今日财政部公告的更广影响——黄金回到$4500、美元指数走弱约1%、比特币跳涨6%。",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "美国准备推出新经济措施",
+          "details": "财政部长Bessent称美国准备推出新的经济措施。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "德银"
+      ],
+      "date": "2026-08-20",
+      "image_urls": []
+    },
+    {
+      "id": "iran-hormuz-aug21",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "Trump对伊最严厉制裁，美军秘密护航走廊",
+      "summary": "Trump宣布对伊朗实施史上最严厉经济制裁，威胁援伊国家。同时Axios披露美军联合海湾伙伴在霍尔木兹海峡建立秘密护航走廊，每晚引导15-20艘油轮，日均石油运量恢复至近1000万桶，缓解油价飙升。",
+      "bullets": [
+        {
+          "actor": "美军",
+          "actor_type": "新闻",
+          "text": "美军建秘密护航走廊，日均运量恢复至近10M",
+          "details": "AXIOS报道，美军联合海湾伙伴在霍尔木兹海峡南部通道建立起秘密护航走廊，通过削弱伊朗海上监视能力并出动战机防空，每晚引导15-20艘油轮双向安全进出，使日均石油运量恢复至近10M，有效缓解了战事引发的全球原油短缺与油价飙升。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "对伊朗实施史上最严厉经济制裁",
+          "details": "Trump对伊朗实施有史以来最严厉的经济制裁，任何允许本国金融机构、企业、机场或政府机构向伊朗提供任何形式援助的国家，都将面临严重的经济后果。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Axios"
+      ],
+      "date": "2026-08-20",
+      "image_urls": []
+    },
+    {
+      "id": "gulf-oil-exports-aug21",
+      "topic": "海湾原油出口",
+      "topic_tag": "oil",
+      "title": "ADNOC招标出售原油，中东出口韧性与走弱并存",
+      "summary": "ADNOC第九次招标出售原油以绕道霍尔木兹运出，伊拉克原油被中国炼油商抢购显示出口韧性。但摩根士丹利数据显示截至8月16日当周中东原油出口大幅下降、海峡油轮通行走弱。",
+      "bullets": [
+        {
+          "actor": "摩根士丹利(MS oil)",
+          "actor_type": "Analyst",
+          "text": "中东原油出口周环比降2.2-6M b/d",
+          "details": "MS称截至8月16日当周，中东原油出口量环比大幅下降2.2-6M b/d。霍尔木兹海峡油轮通行量持续走弱，出港能源油轮日均4艘（上周6艘）。延布原油装载量维持在2M b/d，曼德海峡流量低于1M b/d。海峡以西海上原油库存环比增加15M b至119M b。",
+          "important": true
+        },
+        {
+          "actor": "ADNOC",
+          "actor_type": "Corporate",
+          "text": "ADNOC第九次招标出售原油绕道运出",
+          "details": "RTRS援引贸易消息人士称，作为阿联酋国家石油公司试图将石油从霍尔木兹海峡运出的一种举措，ADNOC正在通过招标方式出售原油。这是自6月初以来ADNOC第九次进行此类招标。",
+          "important": false
+        },
+        {
+          "actor": "中国炼油商",
+          "actor_type": "新闻",
+          "text": "中国炼油商抢购伊拉克原油，出口显韧性",
+          "details": "随着越来越多的伊拉克原油从波斯湾输出，中国的炼油商纷纷抢购这些原油。这一现象表明，尽管该地区的石油运输一直面临各种威胁，但石油出口依然具有很强的韧性。（BBG）",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "路透",
+        "彭博",
+        "摩根士丹利"
+      ],
+      "date": "2026-08-20",
+      "image_urls": []
+    },
+    {
+      "id": "korea-semi-shareholder-aug21",
+      "topic": "韩国科技与市场",
+      "topic_tag": "earnings",
+      "title": "三星回购计划、SK海力士调薪，瑞银上调KOSPI",
+      "summary": "三星拟宣布逾100万亿韩元（约717.5亿美元）股东回报计划，SK海力士与工会就工资上涨6.3%达成初步协议。瑞银上调KOSPI目标至8800点，看好股东回报改善与外资回流。",
+      "bullets": [
+        {
+          "actor": "三星电子",
+          "actor_type": "Corporate",
+          "text": "三星拟推逾100T韩元股东回报计划",
+          "details": "据媒体周四报道，三星电子计划在本月晚些时候宣布一项新的股东回报计划。该计划规模将超过100T（约合71.75B），由于人工智能技术推动芯片行业繁荣，三星希望借此机会与股东分享创纪录利润。",
+          "important": true
+        },
+        {
+          "actor": "SK海力士",
+          "actor_type": "Corporate",
+          "text": "SK海力士工资上涨6.3%，达成初步协议",
+          "details": "SK海力士与其工会已就工资和集体谈判事项达成初步协议。根据协议，员工工资将上涨6.3%，同时员工绩效奖金分配方式将发生重大变化，60%以股票形式支付，其余40%以现金支付。",
+          "important": false
+        },
+        {
+          "actor": "瑞银(UBS Asia)",
+          "actor_type": "Analyst",
+          "text": "KOSPI目标微调至8800点，看好股东回报",
+          "details": "UBS将KOSPI目标价微调至8800点。报告认为内存上行周期持续但增速放缓，市场驱动力将转向股东回报改善及非科技板块复苏。外资目前显著低配韩国股市，近期已开始回流，预计趋势将持续。建议关注三星电子、SK海力士等科技龙头及现代重工等工业股。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [
+        "瑞银"
+      ],
+      "date": "2026-08-20",
+      "image_urls": [
+        "/uploads/2026-08-20/318bab7984a9.png"
+      ]
+    },
+    {
+      "id": "boj-japan-aug21",
+      "topic": "日本央行",
+      "topic_tag": "fed",
+      "title": "野村：日本政府或支持BOJ提前加息",
+      "summary": "野村称日本政府可能支持BOJ在9月或10月提前加息以增强日元干预效果，市场预计9月加息概率超70%。7月CGPI同比涨7.1%，通胀压力仍存。",
+      "bullets": [
+        {
+          "actor": "野村(Nomura)",
+          "actor_type": "Analyst",
+          "text": "日本政府或支持BOJ 9/10月提前加息",
+          "details": "野村称日本政府可能支持BOJ在9月或10月提前加息，以增强日元干预效果。市场预计9月加息概率超70%。野村调整预测，预计2026年9月、2027年1月及4月各加息25bp。但2027年4月加息因消费税削减计划存在不确定性。7月CGPI同比涨7.1%，环比涨0.1%，通胀压力仍存。",
+          "important": true
+        },
+        {
+          "actor": "日本央行",
+          "actor_type": "Central-Bank",
+          "text": "市场预计9月加息概率超70%",
+          "details": "市场预计日本央行9月加息概率超70%。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "野村"
+      ],
+      "date": "2026-08-20",
+      "image_urls": []
+    },
+    {
+      "id": "us-politics-fiscal-aug21",
+      "topic": "美国政治与财政",
+      "topic_tag": "policy",
+      "title": "HSBC：2026中期选举后分裂政府概率85%",
+      "summary": "HSBC引博彩市场定价称2026中期选举后出现分裂政府概率高达85%，将影响债务上限及2028年税收条款谈判，加剧财政不确定性。Trump另呼吁国会通过加密法案。",
+      "bullets": [
+        {
+          "actor": "汇丰(HSBC)",
+          "actor_type": "Analyst",
+          "text": "博彩市场定价分裂政府概率85%",
+          "details": "HSBC称博彩市场定价显示2026年美国中期选举后出现分裂政府的概率高达85%。民主党赢得众议院多数概率为85%，但控制参议院需赢下15场关键竞选中的至少8场。若形成分裂政府，2027年起财政政策需两党共识，将影响债务上限提升及2028年税收条款延期谈判，加剧财政不确定性。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "呼吁国会通过加密法案",
+          "details": "Trump呼吁国会通过加密法案，为日益发展的加密货币行业制定更明确的规范。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "汇丰"
+      ],
+      "date": "2026-08-20",
+      "image_urls": []
+    },
+    {
+      "id": "kol-buyside-aug21",
+      "topic": "KOL/买方观点",
+      "topic_tag": "macro-other",
+      "title": "SemiAnalysis解读AI ARR，买方技术观点",
+      "summary": "SemiAnalysis称OpenAI/Anthropic的7月ARR\"低于预期\"实为IPO前审计要求主动切换统计口径所致，非收入失速。买方@markminervini提示$SPCX重现V型反弹撞套牢盘的经典形态。",
+      "bullets": [
+        {
+          "actor": "SemiAnalysis",
+          "actor_type": "KOL",
+          "text": "OpenAI/Anthropic ARR低于预期系口径切换",
+          "details": "SemiAnalysis称彭博社公布的7月ARR数据\"低于预期\"并非收入失速，而是OpenAI和Anthropic为满足IPO前SEC审计要求，主动将统计方法从\"期末运行率ARR\"切换为更保守的\"年化月度收入\"。",
+          "important": true
+        },
+        {
+          "actor": "@markminervini",
+          "actor_type": "KOL",
+          "text": "$SPCX重现V型反弹撞套牢盘形态",
+          "details": "@markminervini称$SPCX目前走势正在重现他之前强调的经典技术形态问题——快速V型反弹后撞上上方套牢盘（overhead supply），可对比的例子是meta和linkedin。",
+          "important": false
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "金价突破200MA",
+          "details": "Joseph称金正突破200MA。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPCX"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "SemiAnalysis"
+      ],
+      "date": "2026-08-20",
+      "image_urls": []
+    }
+  ]
+}
