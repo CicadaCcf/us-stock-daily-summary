@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-08-20T21:31:46+00:00",
+  "date": "2026-08-20",
+  "since": "2026-08-18T20:00:00+00:00",
+  "by_ticker": {
+    "MARA": [],
+    "PURR": [],
+    "AMLX": [],
+    "TWST": [],
+    "MRNA": [
+      {
+        "headline": "Why Moderna Stock Skyrocketed Today",
+        "url": "https://www.fool.com/investing/2026/08/19/why-moderna-stock-skyrocketed-today/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-08-20T00:07:33Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884317%2Fmedical-researchers-gettyimages-675577941.jpg&w=1200&op=resize",
+        "description": "Moderna and Merck announced positive Phase 3 clinical trial results for intismeran, an mRNA-based cancer therapy designed to activate anti-tumor immune responses in melanoma patients. The experimental treatment met its primary endpoint of recurrence-free survival when combined with Merck's Keytruda immunotherapy. The companies plan to present additional data and seek regulatory approval, positioning them to capture a larger share of the $275 billion global oncology market by 2030."
+      },
+      {
+        "headline": "Moderna and Merck Just Made History With the First mRNA Cancer Vaccine to Succeed in a Phase 3 Trial. Here's What That Means for Investors.",
+        "url": "https://www.fool.com/investing/2026/08/19/moderna-and-merck-just-made-history-with-the-first-mrna-cancer-vaccine-to-succeed-in-a-phase-3-trial-heres-what-that-means-for-investors/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-08-19T16:34:01Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F5a6c0225f8cc7c1842e718013b58581c008d82e7-5120x2880.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+        "description": "Moderna and Merck announced successful Phase 3 trial results for a personalized mRNA cancer vaccine combined with Merck's Keytruda immunotherapy. The treatment showed melanoma patients experienced longer periods before cancer recurrence and reduced spread compared to Keytruda alone. This marks the first Phase 3 success for mRNA cancer therapy and individualized neoantigen therapy, with both companies planning to present findings to regulators."
+      }
+    ]
+  }
+}

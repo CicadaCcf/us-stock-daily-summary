@@ -1,0 +1,87 @@
+{
+  "generated_at": "2026-08-20T21:31:30+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-08-20",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12415,
+    "partial_pass": 6,
+    "with_carryover": 13,
+    "after_full_check": 5
+  },
+  "rows": [
+    {
+      "tk": "MARA",
+      "nm": "MARA Holdings, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 15.5,
+      "w1": 21.1,
+      "market_cap_bn": 4.25,
+      "dollar_vol_bn": 0.89,
+      "w1_avg_dollar_vol_bn": 0.56,
+      "reason": "",
+      "main_business": "利用清洁能源进行比特币挖矿并提供矿机优化技术方案"
+    },
+    {
+      "tk": "PURR",
+      "nm": "Hyperliquid Strategies Inc Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 7.3,
+      "w1": 47.8,
+      "market_cap_bn": 2.02,
+      "dollar_vol_bn": 0.45,
+      "w1_avg_dollar_vol_bn": 0.24,
+      "reason": "",
+      "main_business": "专注积累HYPE代币的数字资产财务公司"
+    },
+    {
+      "tk": "AMLX",
+      "nm": "Amylyx Pharmaceuticals, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 2.7,
+      "w1": 76.4,
+      "market_cap_bn": 4.42,
+      "dollar_vol_bn": 0.34,
+      "w1_avg_dollar_vol_bn": 0.31,
+      "reason": "",
+      "main_business": "研发内分泌及神经退行性疾病创新疗法的临床阶段药企"
+    },
+    {
+      "tk": "TWST",
+      "nm": "Twist Bioscience Corporation Common Stock",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": -4.3,
+      "w1": 8.8,
+      "market_cap_bn": 8.55,
+      "dollar_vol_bn": 0.33,
+      "w1_avg_dollar_vol_bn": 0.25,
+      "reason": "",
+      "main_business": "基于半导体技术的DNA合成平台，规模化生产高质量合成DNA"
+    },
+    {
+      "tk": "MRNA",
+      "nm": "Moderna, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": -23.5,
+      "w1": 109.5,
+      "market_cap_bn": 53.23,
+      "dollar_vol_bn": 13.21,
+      "w1_avg_dollar_vol_bn": 9.76,
+      "reason": "",
+      "main_business": "基于mRNA技术研发疫苗与创新疗法"
+    }
+  ]
+}
