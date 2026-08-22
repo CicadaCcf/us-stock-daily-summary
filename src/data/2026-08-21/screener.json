@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-08-21T21:31:31+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-08-21",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12530,
+    "partial_pass": 8,
+    "with_carryover": 11,
+    "after_full_check": 4
+  },
+  "rows": [
+    {
+      "tk": "MRNA",
+      "nm": "Moderna, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 8.9,
+      "w1": 129.2,
+      "market_cap_bn": 57.94,
+      "dollar_vol_bn": 12.64,
+      "w1_avg_dollar_vol_bn": 12.24,
+      "reason": "",
+      "main_business": "基于mRNA技术研发疫苗与创新疗法"
+    },
+    {
+      "tk": "TWST",
+      "nm": "Twist Bioscience Corporation Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": 6.8,
+      "w1": 22.8,
+      "market_cap_bn": 9.13,
+      "dollar_vol_bn": 0.26,
+      "w1_avg_dollar_vol_bn": 0.27,
+      "reason": "",
+      "main_business": "基于半导体技术的DNA合成平台，规模化生产高质量合成DNA"
+    },
+    {
+      "tk": "PURR",
+      "nm": "Hyperliquid Strategies Inc Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 5.0,
+      "w1": 58.4,
+      "market_cap_bn": 2.12,
+      "dollar_vol_bn": 0.38,
+      "w1_avg_dollar_vol_bn": 0.31,
+      "reason": "",
+      "main_business": "专注积累HYPE代币的数字资产财务公司"
+    },
+    {
+      "tk": "MARA",
+      "nm": "MARA Holdings, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": 1.0,
+      "w1": 22.4,
+      "market_cap_bn": 4.29,
+      "dollar_vol_bn": 1.17,
+      "w1_avg_dollar_vol_bn": 0.73,
+      "reason": "",
+      "main_business": "利用清洁能源进行比特币挖矿并提供矿机优化技术方案"
+    }
+  ]
+}
