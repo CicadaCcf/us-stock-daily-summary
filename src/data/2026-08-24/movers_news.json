@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-08-24T21:31:48+00:00",
+  "date": "2026-08-24",
+  "since": "2026-08-22T20:00:00+00:00",
+  "by_ticker": {
+    "PURR": [
+      {
+        "headline": "Institutional Investors Are Buying Hyperliquid Strategies. Should You?",
+        "url": "https://www.fool.com/investing/2026/08/22/institutional-investors-are-buying-hyperliquid-str/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-08-22T21:30:00Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884164%2Ftwo-investors-consider-a-stock-with-laptop.jpg&w=1200&op=resize",
+        "description": "While institutional holdings in Hyperliquid Strategies (PURR) surged 122% to 202 institutions in Q3, much of this buying is driven by index inclusion requirements rather than conviction. The stock trades at a 0.84 net asset value multiple discount to its underlying Hyperliquid token holdings, but faces dilution risk from the company's $353M remaining equity facility. The article recommends buying the underlying Hyperliquid token directly instead of the treasury company stock."
+      }
+    ],
+    "MARA": [],
+    "MRNA": [
+      {
+        "headline": "Why Tempus AI Skyrocketed This Week",
+        "url": "https://www.fool.com/investing/2026/08/23/why-tempus-ai-skyrocketed-this-week/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-08-23T11:15:00Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884622%2Fgettyimages-1366942177-copy.jpg&w=1200&op=resize",
+        "description": "Tempus AI stock surged 39.5% this week following positive Phase 3 trial results from Merck and Moderna for a jointly developed mRNA cancer vaccine combined with Keytruda immunotherapy. The gains were driven by Tempus's pending acquisition of Personalis, which developed the genomic tumor-profiling technology central to the vaccine's development. Despite the rally, Tempus remains down roughly 10% over the past year."
+      }
+    ]
+  }
+}

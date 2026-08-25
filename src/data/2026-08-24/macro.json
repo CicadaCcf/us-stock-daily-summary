@@ -1,0 +1,470 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis-aug21",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "特朗普称霍尔木兹归美国 或动用美军干预债市",
+      "summary": "特朗普宣称霍尔木兹海峡现属美国领土，并称面对长债收益率回升的\"终极干预手段是美军\"。多家媒体与KOL就海峡实际油流量、伊朗对阿联酋经贸依赖及中国削减进口的应对进行报道。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普称霍尔木兹海峡现属美国领土，终极干预债市手段是美军",
+          "details": "特朗普称\"霍尔木兹海峡现在属于美国领土\"；本周并未指示Bessent干预债券市场。在被问及\"面对美国长期债券收益率再回升还有什么干预手段\"时，称\"终极干预手段是美军，如果需要，将出动美军\"。",
+          "important": true
+        },
+        {
+          "actor": "AXIOS",
+          "actor_type": "新闻",
+          "text": "周五夜间约40艘油轮经霍尔木兹南部深水航道，运出原油约16Mb",
+          "details": "AXIOS报道周五夜间，约40艘油轮经霍尔木兹海峡南部深水航道进出；当晚经南航道运出的原油约16Mb。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ：伊朗80%外汇流入及三分之一进口依赖阿联酋",
+          "details": "WSJ报道称伊朗政权高达80%的外汇流入、约三分之一的进口以及规避制裁的基础设施都严重依赖阿联酋。如果切断这条经贸通道，对伊朗的打击将比美国的海上禁运更加致命。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ：中国战后将原油进口削减近50%，靠煤化工与库存度过冲击",
+          "details": "WSJ报道指出，自伊朗战争爆发以来，中国将原油进口量削减了近50%，帮助平抑全球油价、遏制通胀，自身也成功度过能源冲击。战争开始后大力发展\"煤化工\"（将煤炭转化为汽柴油及其他化工产品），尽管进口量暴跌但国内实际需求降幅很小，原因是动用此前积累的商业和炼油厂库存，官方\"战略石油储备\"仍基本未受影响。",
+          "important": false
+        },
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "JH：Bessent说的16M b/d是嘴炮，真实流量至少5-6M b/d",
+          "details": "JH称中国在招标拿巴士拉和阿拉伯原油、各国复制ADNOC模式把油运到富查伊拉做STS转运，TD3C运费飙升和卫星数据都证实UAE、伊拉克、科威特终端在持续装船。Bessent说的16M b/d是嘴炮，但真实近期流量至少5-6M b/d、可向8M b/d爬升。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "AXIOS",
+        "WSJ"
+      ],
+      "date": "2026-08-24",
+      "image_urls": []
+    },
+    {
+      "id": "us-canada-trade-tariff-aug21",
+      "topic": "美加贸易",
+      "topic_tag": "policy",
+      "title": "美加谈判破裂 美对加征50%关税加方等额报复",
+      "summary": "美加贸易谈判8月21日晚破裂，美国对约20B加拿大商品加征50%关税，加总理卡尼暂停谈判并等额报复。特朗普抨击加拿大不愿成州却想享州的好处并对美农收巨额关税。",
+      "bullets": [
+        {
+          "actor": "美国/加拿大",
+          "actor_type": "新闻",
+          "text": "美加谈判破裂，美对约20B加商品加征50%关税，加方等额报复",
+          "details": "美加贸易谈判于8月21日晚最后一刻破裂，美国随即对约20B加拿大商品加征50%关税，加拿大总理卡尼宣布暂停谈判并将等额报复。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普：加拿大不想成州却要好处，还向美农收巨额关税",
+          "details": "特朗普称\"加拿大不想成为一个州，却又要当州的好处！他们还向我们伟大的农民收巨额关税，收了好多年。到此为止\"。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ：美内部关税分歧，要求将中重型卡车排除豁免",
+          "details": "WSJ报道美国内部在关税问题上存在分歧，部分官员坚持对铝制成品等维持高关税并设定钢铁配额。在汽车关税减免方面，美国在最后关头要求将中重型卡车排除在豁免范围之外。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-08-24",
+      "image_urls": []
+    },
+    {
+      "id": "fed-transparency-rates-aug22",
+      "topic": "美联储与透明度",
+      "topic_tag": "fed",
+      "title": "Kashkari淡化收益率上升 Warsh推动降透明度引担忧",
+      "summary": "Kashkari称收益率上升不太可能影响货币政策。GS Hatzius与前理事Miran就Warsh时代降低Fed透明度、取消点阵图policy dots等改革展开讨论，核心风险是Fed反应函数可预测性下降。",
+      "bullets": [
+        {
+          "actor": "Kashkari",
+          "actor_type": "Central-Bank",
+          "text": "Kashkari：收益率上升不太可能影响货币政策制定",
+          "details": "Kashkari称市场运行状况良好，最近的收益率上升不太可能影响货币政策的制定。",
+          "important": false
+        },
+        {
+          "actor": "GS Hatzius",
+          "actor_type": "Analyst",
+          "text": "Hatzius：Warsh推动Fed降低透明度大概率是负面变化",
+          "details": "Hatzius认为Warsh推动Fed降低透明度大概率是负面变化。过去30年央行透明化的核心价值在于让市场理解Fed的reaction function，使经济数据更快进入利率预期和金融条件。前瞻指引分Odyssean（较强政策路径承诺，数据变化难及时调整）和Delphic（基于当前预测的条件性路径，随数据变化）两类，Delphic在正常时期更合理。Warsh时代核心风险是Fed reaction function可预测性下降；交易层面应关注rates volatility、term premium和金融条件不确定性溢价上升。Hatzius甚至主张进一步提高SEP信息量，匿名公布每位官员对应的增长、通胀、失业率和政策利率预测。",
+          "important": true
+        },
+        {
+          "actor": "前联储理事Miran",
+          "actor_type": "Central-Bank",
+          "text": "Miran：主张取消点阵图policy dots但保留SEP预测",
+          "details": "前联储理事Miran称前瞻指引两类问题：让联储对经济变化反应过慢（疫情后房价已涨约20%仍在买MBS），以及扭曲市场风险定价（SVB因长期零利率指引放松了对久期风险的警惕）。主张取消点阵图中的policy dots但保留SEP的增长通胀预测，目标是缩小guidance范围而非停止沟通。承认减少指引后前端利率波动与term premium会上升，但更高波动意味着更高信息含量，金融条件边际收紧甚至可能意味着均衡政策利率略低。PCE有测量问题：portfolio management fees计入PCE不计入CPI，GS估计该单项贡献了7月core PCE的一半以上，联储需要裁量权过滤统计噪音。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-08-24",
+      "image_urls": []
+    },
+    {
+      "id": "long-bond-yield-selloff-aug22",
+      "topic": "长债收益率抛售",
+      "topic_tag": "rates",
+      "title": "30年美债收益率升至5.3% 财政回购难压波动",
+      "summary": "受能源涨价、Warsh通胀承诺动摇、科技巨头发债挤出及股市虹吸推动，30年美债收益率升至5.3%阶段高点。GS GRT认为财政部增加回购无法根本解决波动，多位分析师就债市信任危机与实际收益率危险升幅发声。",
+      "bullets": [
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "Joseph：30年美债收益率攀升至5.3%阶段历史高点",
+          "details": "Joseph称受伊朗战争推高全球能源价格、Warsh对通胀目标的承诺动摇、科技巨头大举发债对国债的挤出效应，以及股市暴利虹吸资金等多重因素推动，美国30年期国债收益率已攀升至5.3%的阶段性历史高点。",
+          "important": true
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "Joseph：政府仍有庞大\"替代工具箱\"封顶长债收益率",
+          "details": "Joseph强调尽管短期油价上涨令举措首秀效果受限，但政府仍拥有庞大的\"替代工具箱\"——包括削减超长端国债拍卖规模、引导商业银行\"爱国主义\"购债、指示房利美和房地美杠杆购债，以及利用Fed\"适度长期利率\"的第三法定使命施加政治压力等，有充足火力封顶长债收益率，而美债收益率真正回落最终仍有赖于中东局势的和平解决。",
+          "important": false
+        },
+        {
+          "actor": "GS GRT",
+          "actor_type": "Analyst",
+          "text": "GS GRT：财政部增加回购无法根本解决长债波动",
+          "details": "GS GRT称美国财政部增加长期国债回购规模的决定无法从根本上解决近期长期国债的波动。当前抛售主要驱动力是宏观风险（经济周期韧性、通胀风险和政策不确定性），而非单纯供需失衡。若潜在宏观因素得不到解决，试图通过供应调整压制长端利率波动只会将压力转移到收益率曲线中端（belly）或导致货币走弱。",
+          "important": false
+        },
+        {
+          "actor": "DianeSwonk",
+          "actor_type": "KOL",
+          "text": "DianeSwonk：本周债市大跌是信任与失去信任的代价",
+          "details": "DianeSwonk称本周债市大跌不是某个数据或讲话，而是信任与失去信任的代价；Jackson Hole让新主席的可信度测试变得即时。",
+          "important": false
+        },
+        {
+          "actor": "deerpointmacro",
+          "actor_type": "KOL",
+          "text": "deerpointmacro：短端利率波动大概率已过峰",
+          "details": "deerpointmacro称短端波动由\"到市场预期终端利率的距离\"驱动；联储示意市场应更看数据而非前瞻指引后，这个距离已经收窄，短端利率波动大概率已过峰。",
+          "important": false
+        },
+        {
+          "actor": "PeterBerezinBCA",
+          "actor_type": "KOL",
+          "text": "PeterBerezinBCA：10年实际收益率逼近75bp\"危险级\"升幅",
+          "details": "PeterBerezinBCA称美国10年期实际收益率的这轮上行正快速逼近75bp的\"危险级\"升幅——2018年、2022年与2025年初，同样的升幅三次击裂股市。",
+          "important": false
+        },
+        {
+          "actor": "Bofa Capital Market Outlook",
+          "actor_type": "Analyst",
+          "text": "美银：最大潜在风险是不断上升且脱锚的债券收益率",
+          "details": "Bofa Capital Market Outlook称尽管市场存在关税、地缘政治、通胀和油价等担忧，但当前最大潜在风险是\"不断上升且脱锚的债券收益率\"，高杠杆加收益率飙升会严重打击经济和企业利润。不过目前仍属\"尾部风险\"（发生概率较低），因企业基本面依然健康，且经济主要受AI建设周期强劲推动。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        5
+      ],
+      "importance": 3,
+      "sources": [
+        "GS",
+        "Bofa"
+      ],
+      "date": "2026-08-24",
+      "image_urls": [
+        "/uploads/2026-08-24/c0766c1f3072.png",
+        "/uploads/2026-08-24/58161ec3b76c.jpg"
+      ]
+    },
+    {
+      "id": "gold-safe-haven-aug22",
+      "topic": "黄金",
+      "topic_tag": "rates",
+      "title": "Dalio建议15%配黄金 GS维持4300美元预测",
+      "summary": "Ray Dalio建议投资者减债增金（15%配置）以对冲美国债务危机。GS称全球宏观基金黄金看涨期权需求大幅回升形成价格放大器，维持2026年底4300美元预测；美银Hartnett称金基金上周流入63亿美元创新高。",
+      "bullets": [
+        {
+          "actor": "Ray Dalio",
+          "actor_type": "KOL",
+          "text": "Dalio：减少债券持有，15%资金投入黄金对冲债务危机",
+          "details": "Ray Dalio称投资者应减少债券持有量，将15%的资金投入黄金领域，以应对可能在未来三年内爆发的美国债务危机带来的风险。",
+          "important": true
+        },
+        {
+          "actor": "GS Gold",
+          "actor_type": "Analyst",
+          "text": "GS：黄金看涨期权需求回升形成机械性价格放大器",
+          "details": "GS Gold称全球宏观基金对黄金看涨期权（Call Option）的需求再次大幅回升，形成机械性价格放大器，会同时放大金价上涨和下跌波动。随着金价接近关键行权价，卖方交易商需买入更多黄金对冲进一步推升价格；反之若金价急跌也会加剧下行压力。维持2026年底金价基准预测4300美元/盎司，但认为双向波动风险显著上升。",
+          "important": false
+        },
+        {
+          "actor": "Bofa Hartnett",
+          "actor_type": "Analyst",
+          "text": "Hartnett：金基金上周流入63亿美元创1月来最大",
+          "details": "Bofa Hartnett称黄金仍是对冲美元疲软、债券亏损与资产通胀的最佳工具；金基金上周流入6.3B美元，为2026年1月以来最大；其\"Anything But Dollar\"主题延续。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GLD"
+      ],
+      "image_indexes": [
+        7
+      ],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "Bofa"
+      ],
+      "date": "2026-08-24",
+      "image_urls": [
+        "/uploads/2026-08-24/43405553dfb1.png"
+      ]
+    },
+    {
+      "id": "hedge-fund-positioning-aug22",
+      "topic": "对冲基金持仓",
+      "topic_tag": "earnings",
+      "title": "GS：HF重仓做空NQ AI内部轮动 逼空风险升",
+      "summary": "GS对冲基金监测显示HF在AI风险敞口高于共同基金，7月降杠杆但空头仓位依然很重，NQ净空头接近历史纪录，最集中空头组合年内涨41%造成逼空压力，资金开始流向医疗、金融和能源。",
+      "bullets": [
+        {
+          "actor": "GS Hedge Fund Trend Monitor",
+          "actor_type": "Analyst",
+          "text": "GS：杠杆基金NQ持有接近历史纪录净空头，逼空风险升",
+          "details": "GS称HF虽然在7月降低了杠杆，但空头仓位依然很重。杠杆基金在NQ上持有接近历史纪录的净空头。SPX成分股空头占比中位数虽较6月下旬略降但仍处15年多以来最高水平。如果市场重新快速上涨，高空头仓位反而可能触发逼空，空头止损回补股票会进一步推高价格形成正反馈。由最集中的空头持仓构成的组合年初至今上涨41%，很多HF集中做空的股票不仅没跌反而大幅上涨，对空头端造成明显压力。",
+          "important": true
+        },
+        {
+          "actor": "GS Hedge Fund Trend Monitor",
+          "actor_type": "Analyst",
+          "text": "GS：HF从全面押注AI转向AI内部选择，资金流向医疗金融能源",
+          "details": "GS称HF并没有彻底离开AI，但已不再愿意用第二季度那样高的杠杆和拥挤度押注同一批热门股票，从全面押注AI转向在AI内部做选择，开始降低部分成熟、拥挤持仓的权重，同时寻找产业链内部尚未被充分交易的方向；AI交易正从少数超大市值平台公司向更广泛的基础设施和配套环节扩散；除AI外资金开始流向医疗保健、金融和能源板块。",
+          "important": false
+        },
+        {
+          "actor": "GS Hedge Fund Trend Monitor",
+          "actor_type": "Analyst",
+          "text": "GS：HF VIP组合年内约12%落后SPX",
+          "details": "GS称HF VIP组合年初至今回报约12%，相对市值加权SPX约13%的回报略有落后，相对等权重SPX约17%的回报落后幅度更明显。",
+          "important": false
+        },
+        {
+          "actor": "GS US WEEKLY KICKSTART",
+          "actor_type": "Analyst",
+          "text": "GS：HF在AI敞口仍高于共同基金，两者操作分化",
+          "details": "GS US WEEKLY KICKSTART称对冲基金在AI领域的风险敞口仍高于共同基金。上季度两者对AI股票操作出现分化：共同基金买入AMD、MU和SNDK，而对冲基金抛售这些股票。不过两者也共同买入了BE、FLEX和STX等AI相关股票。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "AMD",
+        "MU",
+        "FLEX",
+        "STX"
+      ],
+      "image_indexes": [
+        1,
+        4,
+        6
+      ],
+      "importance": 2,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-08-24",
+      "image_urls": [
+        "/uploads/2026-08-24/7b937697fe36.png",
+        "/uploads/2026-08-24/158ab64c8634.png",
+        "/uploads/2026-08-24/6ebfcd60e5f0.png"
+      ]
+    },
+    {
+      "id": "ai-sector-macro-aug22",
+      "topic": "AI行业宏观",
+      "topic_tag": "ai",
+      "title": "Anthropic或IPO募资超100B 英伟达服务器涨超15%",
+      "summary": "多条AI行业消息：Anthropic或IPO募资超100B估值2T、Fable 5支出占比仅11%；英伟达因内存芯片成本飙升服务器涨超15%，并谈判入股Perplexity；Burry加码做空CRWV/MU/SOXX/PLTR/NVDA。",
+      "bullets": [
+        {
+          "actor": "Michael Burry",
+          "actor_type": "KOL",
+          "text": "Burry加码做空CRWV/MU/SOXX/PLTR，看跌期权针对NVDA",
+          "details": "Michael Burry维持显著的做空比例，新增/加码做空CoreWeave (CRWV)、Micron (MU)、iShares半导体指数ETF (SOXX)以及Palantir (PLTR)。看跌期权(Puts)占投资组合的6.5%，主要针对Nvidia (NVDA)、Palantir和Invesco NASDAQ 100 ETF (QQQ)，且大多为2027年到期的远期期权。",
+          "important": true
+        },
+        {
+          "actor": "英伟达",
+          "actor_type": "Corporate",
+          "text": "英伟达最大客户被告知搭载其AI芯片的服务器涨超15%",
+          "details": "英伟达公司最大的客户已被告知，由于内存芯片成本飙升，许多情况下搭载其人工智能芯片的服务器价格将上涨超过15%。",
+          "important": false
+        },
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic或IPO募资超100B、估值2T，最强模型Fable 5支出占比仅11%",
+          "details": "Anthropic或需求IPO募资超100B、公司估值达2T；招股书可能把美国公众对AI的抵制情绪列为风险因素。FT报道Anthropic美国客户正用成本更低的替代品取代其最强大AI工具，最昂贵最强大的模型Fable 5支出比例仅为公司所有工具总支出的约11%，且发布两个多月后依然没有变化。",
+          "important": false
+        },
+        {
+          "actor": "Nvidia/Perplexity",
+          "actor_type": "Corporate",
+          "text": "Nvidia谈判入股Perplexity，估值将超30B",
+          "details": "Nvidia正在与Perplexity进行谈判，打算参与该公司的股权融资计划。据知情人士透露，此次融资将使这家人工智能初创公司的估值超过30B。",
+          "important": false
+        },
+        {
+          "actor": "Citadel/OpenAI/博通/三星",
+          "actor_type": "Corporate",
+          "text": "Citadel处理80%+SA股权敞口，博通债务交易超70B，三星回报计划79B",
+          "details": "Citadel称已处理从Situational Awareness获得的80%以上股权风险敞口；OpenAI全面开源CodexHarness；博通的债务交易预计将达70B美元以上；三星公布韩国史上最大股东回报计划，今年拟返还至多79B，占自由现金流五成。",
+          "important": false
+        },
+        {
+          "actor": "ShanghaoJin",
+          "actor_type": "KOL",
+          "text": "ShanghaoJin：ARR降速是没算力没芯片，不是需求问题",
+          "details": "ShanghaoJin称ARR降速更多不是需求问题，是没算力、没芯片——不是没人要，是没供应；算力长期缺，会卷也是卷labs。说AI coding需求到头的人应该先拿自己用的token数出来检讨；散户是labs要踢出去的无效流量，未来0.01%的人用99%的token。",
+          "important": false
+        },
+        {
+          "actor": "semivision",
+          "actor_type": "KOL",
+          "text": "semivision：AI时代产出=人力×AI×算力×资本，是财富分配问题",
+          "details": "semivision称传统经济学模型是\"产出=人力×时间\"，AI时代将演变为\"产出=人力×AI×算力×资本\"，AI可无限复制和并行工作，人类将更多扮演\"监督者\"。现代资本主义依赖工人赚工资消费，若AI大幅降低劳动力在国民收入中比重，系统将面临\"谁来购买海量商品\"的困境，因此AI最终不仅是生产力问题更是财富分配问题。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "CRWV",
+        "MU",
+        "SOXX",
+        "PLTR",
+        "QQQ",
+        "AVGO"
+      ],
+      "image_indexes": [
+        3
+      ],
+      "importance": 3,
+      "sources": [
+        "FT"
+      ],
+      "date": "2026-08-24",
+      "image_urls": [
+        "/uploads/2026-08-24/882d25888218.png"
+      ]
+    },
+    {
+      "id": "gs-macro-outlook-aug22",
+      "topic": "卖方宏观展望",
+      "topic_tag": "earnings",
+      "title": "GS：预计Fed 2026不加息 GDP增2.1% 炼油利润背离",
+      "summary": "GS Hatzius称美国通胀显著改善、预计2026年不加息、GDP增2.1%但下半年消费放缓。GS Oil指全球炼厂开工率同比降7M b/d但利润接近历史高位罕见背离，欧洲柴油远期价差已涨超30%。JPM看好日本央行继续加息。",
+      "bullets": [
+        {
+          "actor": "GS Hatzius",
+          "actor_type": "Analyst",
+          "text": "GS：通胀显著改善，预计Fed 2026年不加息，GDP增2.1%",
+          "details": "GS Hatzius称过去两个月美国通胀数据\"有了显著改善\"，导致通胀居高的临时性因素（关税、软件/配件、能源价格）都将逐渐消退，因此预计美联储在2026年不会上调美国利率。2026年下半年消费者支出增长预计放缓，此前退税增加令春季消费增加，经通胀调整后2026年下半年实际消费支出将增长1%-1.5%，低于上半年1.8%；强劲的企业投资及此前股市巨额财富效应应继续推动GDP增长，预计2026年美国实际GDP增长2.1%。",
+          "important": true
+        },
+        {
+          "actor": "GS Oil",
+          "actor_type": "Analyst",
+          "text": "GS Oil：炼厂开工率同比降7M b/d但利润近历史高位罕见背离",
+          "details": "GS Oil称全球炼厂开工率同比下降约7M b/d，但炼油利润却接近历史高位，出现罕见背离。主要原因是供应端约束空前严重，自7月底推荐以来欧洲柴油（gasoil）2026年12月-2027年3月远期价差已上涨超过30%。若停产持续，预计还有50-60%的上行空间。",
+          "important": false
+        },
+        {
+          "actor": "JPM JP",
+          "actor_type": "Analyst",
+          "text": "JPM：日本7月核心商品CPI跳升，基本面支持日央行继续加息",
+          "details": "JPM JP称日本7月CPI显示上游石油产品成本正加速向终端消费传导。当月核心商品（剔除食品和能源）同比增速从6月1.4%大幅跳升至2.2%，食品同比回升至3.0%；剔除生鲜食品和能源的核心CPI同比上涨1.9%。油价上涨与日元贬值叠加坚实内需将推动通胀进一步扩散并抬升通胀预期，基本面上支持日本央行继续加息。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "JPM"
+      ],
+      "date": "2026-08-24",
+      "image_urls": [
+        "/uploads/2026-08-24/2c084952f6de.jpg"
+      ]
+    },
+    {
+      "id": "other-misc-aug22",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "特朗普账户6月千次交易 发改委拟规范个人境外投资",
+      "summary": "特朗普投资账户6月进行超1000次股票交易采用直接指数化策略。中国发改委发布对外投资管理办法修订征求意见稿，涵盖个人境外直接投资需先备案。rektcapital称BTC仍处宏观Lower Highs。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普账户6月超1000次股票交易，采用直接指数化策略",
+          "details": "特朗普的投资账户在6月份进行了超过1000次股票交易（包含550多次买入和450多次卖出）。其中规模较大的交易包括买入至少1M的伯克希尔哈撒韦、Visa和万事达卡股票，该账户目前采用基于计算机模型的\"直接指数化\"策略（如自动追踪Schwab 1000指数）。",
+          "important": true
+        },
+        {
+          "actor": "国家发改委",
+          "actor_type": "Foreign-Gov",
+          "text": "发改委发布对外投资管理办法修订稿，涵盖个人境外直接投资需备案",
+          "details": "国家发改委发布对外投资管理办法的修订征求意见稿，其中包括个人境外直接投资，需要先办手续，包括在境外设立公司、收购资产、购买经营性房地产等，而未备案的，银行应不予办理汇款、担保等业务。",
+          "important": false
+        },
+        {
+          "actor": "rektcapital",
+          "actor_type": "KOL",
+          "text": "rektcapital：BTC仍处宏观Lower Highs，本轮为Relief Rally",
+          "details": "rektcapital称技术上BTC仍处宏观Lower Highs，未破宏观下行趋势线之前，这波可解读为Relief Rally。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "BRK.B",
+        "V",
+        "MA"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-08-24",
+      "image_urls": []
+    }
+  ]
+}
