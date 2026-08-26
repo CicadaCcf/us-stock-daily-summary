@@ -1,0 +1,488 @@
+{
+  "topics": [
+    {
+      "id": "iran-hormuz-crisis-sep25",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美国对伊制裁施压与霍尔木兹海峡解封谈判",
+      "summary": "美国财长Bessent威胁对任何支持伊朗的国家实施制裁并移出美元体系，本周将有大型金融机构因伊朗问题被制裁。同时美国提出若伊朗重开霍尔木兹并停止代理攻击将解除海上封锁和制裁，由巴基斯坦陆军参谋长带话德黑兰，伊朗正在磋商。市场层面油轮通过Fujairah等海峡外港口做离岸STS转运绕行。",
+      "bullets": [
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "任何帮助伊朗的国家将被移出美元体系，本周将制裁一家大型金融机构",
+          "details": "Bessent：任何支持伊朗的国家都应准备好面对美国制裁，任何帮助伊朗的国家将被移出美元体系；关于中国-伊朗：没有人在美国制裁的触及范围之外；本周结束前你们会看到一家大型金融机构因伊朗问题被制裁。里亚尔对美元汇率已跌破200万里亚尔兑1美元的水平。",
+          "important": true
+        },
+        {
+          "actor": "Al Arabiya",
+          "actor_type": "新闻",
+          "text": "美国提议若伊朗重开霍尔木兹并停止代理攻击将解除封锁和制裁",
+          "details": "中东媒体Al Arabiya报道：美国提出，如果伊朗同意重新开放霍尔木兹海峡并停止各种代理攻击行为，美国将解除对伊朗的海上封锁和制裁。巴基斯坦陆军参谋长阿西姆·穆尼尔将这一提议带到德黑兰。德黑兰正在继续磋商，预计很快答复。伊朗国家安全委员会秘书莫森·雷扎伊告诉阿西姆·穆尼尔，伊朗最高领袖希望找到解决这一危机的永久性办法。",
+          "important": false
+        },
+        {
+          "actor": "林建",
+          "actor_type": "Foreign-Gov",
+          "text": "中国外交部反对单边制裁，称或使冲突进一步恶化",
+          "details": "中国外交部发言人林建表示反对单边制裁，单边制裁有可能使冲突进一步恶化。",
+          "important": false
+        },
+        {
+          "actor": "AXIOS",
+          "actor_type": "新闻",
+          "text": "对伊制裁要见效需动员西方盟友共同执法",
+          "details": "AXIOS发文称，尽管美国已存在相关制裁措施，但要取得成效，本届政府必须动员西方盟友共同执法，并直接施压那些仍在与伊朗进行贸易的国家。",
+          "important": false
+        },
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "中国招标拿下Basrah/阿拉伯原油，油轮海峡外Fujairah做STS",
+          "details": "JH：各家都在照ADNOC的playbook发即期招标，中国刚通过招标拿下可观的Basrah与阿拉伯原油——在海峡外装货；SOMO与Aramco都在把原油摆渡到Fujairah做离岸STS。",
+          "important": false
+        },
+        {
+          "actor": "M_McDonough",
+          "actor_type": "KOL",
+          "text": "Fujairah与Sohar港成绕行霍尔木兹的转运枢纽",
+          "details": "M_McDonough：Fujairah与Sohar位于海峡之外，两港原油离港量激增，说明它们日益充当绕行、转运与船对船(STS)中转枢纽，承接历史上直接走霍尔木兹的石油。",
+          "important": false
+        },
+        {
+          "actor": "BurggrabenH",
+          "actor_type": "KOL",
+          "text": "伊朗已失去对霍尔木兹控制，柴油裂解价差更贵",
+          "details": "BurggrabenH：dark loadings持续，quietly not quickly，目前伊朗已失去对霍尔木兹的控制；炼厂产能跟不上原油可得性，因此柴油裂解价差比WTI本身更贵。",
+          "important": false
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "美国也高度依赖进口，大规模制裁只是一场戏",
+          "details": "Joseph：Don't fight the Treasury。世界高度依赖美元体系，但美国也高度依赖进口商品，所以大规模制裁只是一个戏。",
+          "important": false
+        },
+        {
+          "actor": "ericwallerstein",
+          "actor_type": "KOL",
+          "text": "二级制裁威胁必须敢点名中国，否则没人当真",
+          "details": "ericwallerstein：要威胁对某家银行搞大规模二级制裁，就必须敢把中国说出口；说不出口，没人会把威胁当真。若制裁一家非中资银行、尤其是大型西方银行，则冒着再来一轮外汇/美债抛售的风险。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        6,
+        4,
+        5
+      ],
+      "importance": 3,
+      "sources": [
+        "Al Arabiya",
+        "AXIOS",
+        "Bloomberg",
+        "bonbast.co"
+      ],
+      "date": "2026-08-25",
+      "image_urls": [
+        "/uploads/2026-08-25/42bd9607033b.png",
+        "/uploads/2026-08-25/7985ab552952.png",
+        "/uploads/2026-08-25/7985ab552952.png"
+      ]
+    },
+    {
+      "id": "trump-canada-tariff-sep25",
+      "topic": "美加贸易战",
+      "topic_tag": "policy",
+      "title": "特朗普将加拿大汽车钢铁关税提至50%",
+      "summary": "特朗普宣布明年起将加拿大汽车、零部件和钢铁关税提高至50%，美加贸易战进一步升级。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "明年起加拿大汽车零部件钢铁关税提高至50%",
+          "details": "特朗普宣布明年起将加拿大汽车、零部件和钢铁关税提高至50%，美加贸易战进一步升级。",
+          "important": true
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "美加贸易战进一步升级",
+          "details": "此举标志着美加贸易战进一步升级。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GM",
+        "F",
+        "STLA"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-25",
+      "image_urls": []
+    },
+    {
+      "id": "us-regulation-sec-h1b-sep25",
+      "topic": "美国监管/移民政策",
+      "topic_tag": "policy",
+      "title": "SEC查对冲基金 国土安全部H-1B加费10万",
+      "summary": "SEC向华尔街各大银行发出传票，索取与对冲基金Situational Awareness相关信息。国土安全部计划对每个新H-1B签证申请收取约10万美元费用。",
+      "bullets": [
+        {
+          "actor": "国土安全部",
+          "actor_type": "US-Executive",
+          "text": "计划对每个新H-1B签证申请收取约10.03万美元",
+          "details": "国土安全部发文计划向每一个新H-1B工作签证申请收取$100.3K费用，新规设计成收管理费，H-1B项目总成本除以每年批准85k，平均每张$100.3K。",
+          "important": true
+        },
+        {
+          "actor": "SEC",
+          "actor_type": "US-Executive",
+          "text": "向华尔街各大银行发出传票查对冲基金Situational Awareness",
+          "details": "SEC已向华尔街各大银行发出传票，要求他们提供与对冲基金Situational Awareness相关的信息。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-25",
+      "image_urls": []
+    },
+    {
+      "id": "china-macro-alibaba-pboc-sep25",
+      "topic": "中国宏观/市场",
+      "topic_tag": "macro-other",
+      "title": "PBOC缩量续作MLF 阿里800亿港元配售投AI",
+      "summary": "PBOC 8月25日开展500B MLF操作，本月净回笼100B，为近四个月来首次缩量续作。阿里巴巴完成800亿港元配售创港股增发纪录，募资全部投向AI。中石化上半年公路燃料需求暴跌。",
+      "bullets": [
+        {
+          "actor": "阿里巴巴",
+          "actor_type": "Corporate",
+          "text": "完成800亿港元配售创港股增发纪录，全部投向AI",
+          "details": "阿里巴巴完成80B港元配售，创香港史上最大上市公司增发纪录，募资全部投向AI。",
+          "important": true
+        },
+        {
+          "actor": "PBOC",
+          "actor_type": "Central-Bank",
+          "text": "8月25日开展500B MLF，本月净回笼100B首次缩量续作",
+          "details": "PBOC公告8月25日开展500B MLF操作，本月净回笼100B，为近四个月来首次缩量续作。",
+          "important": false
+        },
+        {
+          "actor": "中石化",
+          "actor_type": "Corporate",
+          "text": "上半年汽油消费降7.9%、柴油降12%",
+          "details": "BBG报道中国最大炼油商中石化表示，由于消费者不愿支付更高价格并转向电动汽车，上半年公路燃料需求暴跌，汽油消费量下降7.9%，柴油下降12%。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "BABA"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-08-25",
+      "image_urls": []
+    },
+    {
+      "id": "us-fiscal-treasury-yields-sep25",
+      "topic": "美债/财政赤字",
+      "topic_tag": "rates",
+      "title": "赤字担忧与财政部债市干预叙事",
+      "summary": "Druckenmiller认为唯一能降长期利率的是解决财政赤字，30年期收益率5.5%不算危机。围绕财政部是否守价、TGA能否为美债回购提供资金的争论持续，多位KOL指Bessent未给增量信息、TGA不会被抽干。Barclays看空债市。",
+      "bullets": [
+        {
+          "actor": "Druckenmiller",
+          "actor_type": "Analyst",
+          "text": "唯一能降长期利率的做法是解决财政赤字",
+          "details": "Druckenmiller：在市场运行正常情况下，利用股票回购来应对收益率上升的做法不可取；如果30年期债券收益率必须达到5.5%才能实现交易，那并不算什么危机，那只是正常市场现象。此时唯一能真正降低长期利率的做法就是解决财政赤字问题。",
+          "important": true
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "美国赤字峰值难现，2026年赤字占GDP升至6.4%",
+          "details": "Barclays：美国赤字峰值难现，财政整合前景渺茫。美国债务超40万亿美元，30年期国债收益率创2007年以来新高。尽管财长暗示赤字见顶，但强制性支出占GDP比重升至14%，且两党无意削减权益项目。预计2026年赤字占GDP 6.4%，高于去年的5.8%。政治僵局下实质性财政整合难以实现。",
+          "important": false
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "当前非买债时机，10Y向4.65%-4.95%公允价值靠拢",
+          "details": "Barclays：当前并非买入债券时机。尽管估值修复，但受长期中性利率预期上调至3.65%驱动，10Y美债收益率仍向4.65%-4.95%的公允价值靠拢。加之美日欧财政恶化及日本资金回流削弱需求，债市面临持续抛压。",
+          "important": false
+        },
+        {
+          "actor": "elerianm",
+          "actor_type": "KOL",
+          "text": "Bessent未给债市干预增量信息，TGA至多动用十分之一",
+          "details": "elerianm：关于债市干预，Bessent没有给出增量信息（包括TGA，即今晨CNBC援引一名高级官员的报道）；财政部至多只能动用其一般账户的约十分之一来帮助为美债买回提供资金。",
+          "important": false
+        },
+        {
+          "actor": "greg_ip",
+          "actor_type": "KOL",
+          "text": "市场一旦相信财政部守价，操作必须不断变大",
+          "details": "greg_ip：一旦市场相信财政部在守一个价格，每次收益率上行都成为对官方决心的测试，操作必须不断变大才能扛过测试。",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "TGA不会被抽干，是媒体标题叙事；Druck或替Warsh发声",
+          "details": "Andy：TGA不会被抽干，这是媒体标题制造的叙事。另：Druck或是在替还不能自己发声的Warsh说话。",
+          "important": false
+        },
+        {
+          "actor": "htsfhickey",
+          "actor_type": "KOL",
+          "text": "财政部几乎总在选举前压低TGA余额刺激经济",
+          "details": "htsfhickey：没什么新东西，财政部几乎总在选举前压低TGA余额来刺激经济。",
+          "important": false
+        },
+        {
+          "actor": "brandonjcarl",
+          "actor_type": "KOL",
+          "text": "Druck公开发声恰说明他多恨政府支出问题",
+          "details": "brandonjcarl：研究过Druck就知道两件事：1)他一直在巡回演讲政府支出问题；2)他讨厌曝光——愿意公开发声，恰恰说明他多恨这个支出问题。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TLT"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "CNBC"
+      ],
+      "date": "2026-08-25",
+      "image_urls": []
+    },
+    {
+      "id": "gs-inflation-outlook-sep25",
+      "topic": "通胀预期",
+      "topic_tag": "fed",
+      "title": "GS：通胀预期未脱锚，2027年底回归目标",
+      "summary": "GS经济团队认为尽管美国经历五年高通胀，通胀预期并未立即脱锚，长期家庭预期已回落至金融危机前水平。预计2027年底通胀回归目标。",
+      "bullets": [
+        {
+          "actor": "GS Eco",
+          "actor_type": "Analyst",
+          "text": "通胀预期未脱锚，2027年底通胀回归目标",
+          "details": "GS Eco：尽管美国经历五年高通胀，但通胀预期并未立即脱锚。模型显示长期家庭预期已回落至金融危机前水平，仅略高于理想状态。随着油价稳定及关税效应消化，预计2027年底通胀回归目标，明年预期将承压下行。公众关注度回归正常，短期预期虽受冲击但风险可控。",
+          "important": true
+        },
+        {
+          "actor": "GS Eco",
+          "actor_type": "Analyst",
+          "text": "短期预期受冲击但风险可控",
+          "details": "GS Eco：公众关注度回归正常，短期预期虽受冲击但风险可控。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs"
+      ],
+      "date": "2026-08-25",
+      "image_urls": []
+    },
+    {
+      "id": "copper-commodity-sep25",
+      "topic": "铜/商品",
+      "topic_tag": "oil",
+      "title": "Citi：2026年底铜价看至15000美元/吨",
+      "summary": "Citi预计2026年底铜价达15K美元/吨、牛市情景17K，核心逻辑为矿山供应受限及废铜回收成本上升，叠加能源转型与AI数据中心需求。图1为Brent/WTI/黄金/铜的1个月条件性资金流预测。",
+      "bullets": [
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "2026年底铜价看15K美元/吨，牛市情景17K",
+          "details": "Citi Copper：预计2026年底铜价达15K美元/吨（牛市情景17K美元/吨）。核心逻辑为矿山供应受限及废铜回收成本上升，叠加能源转型与AI数据中心需求支撑。尽管全球可见库存创新高，但主要为向美国转移所致，非实质性过剩。战略性库存积累构成重大上行风险。建议逢低买入。",
+          "important": true
+        },
+        {
+          "actor": "Analyst",
+          "actor_type": "Analyst",
+          "text": "Brent/WTI/黄金/铜1个月条件性资金流预测",
+          "details": "图1显示Brent、WTI、黄金、铜的1个月条件性净头寸($bn)预测：各品种在Down Big情景下净头寸大幅下滑（Brent降至约-2.5、WTI约-4、黄金约-7、铜约-3），而Up情景下黄金升至约12-13、铜升至约17。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "FCX",
+        "COPX"
+      ],
+      "image_indexes": [
+        1
+      ],
+      "importance": 2,
+      "sources": [
+        "Citi"
+      ],
+      "date": "2026-08-25",
+      "image_urls": [
+        "/uploads/2026-08-25/3836d350df50.png"
+      ]
+    },
+    {
+      "id": "private-credit-pimco-sep25",
+      "topic": "私人信贷/信用周期",
+      "topic_tag": "macro-other",
+      "title": "PIMCO警示私人信贷影子违约率升至19%",
+      "summary": "PIMCO指直接贷款影子违约率已从2022年约14%升至19%，信用压力累积快于高收益债市场，投资者需警惕私人信贷信用周期形成。图0显示低于3%的抵押贷款占比在2020年后激增。",
+      "bullets": [
+        {
+          "actor": "PIMCO",
+          "actor_type": "Analyst",
+          "text": "直接贷款影子违约率从约14%升至19%",
+          "details": "PIMCO：直接贷款违约可见度低，但影子违约率已从2022年的约14%升至19%，近期趋稳；直接贷款信用压力累积速度快于高收益债市场，违约多表现为债务转股、期限延长等软性事件。投资者需警惕私人信贷领域正在形成的信用周期。",
+          "important": true
+        },
+        {
+          "actor": "Analyst",
+          "actor_type": "Analyst",
+          "text": "美国低于3%利率抵押贷款占比2020年后激增",
+          "details": "图0（FHFA）显示，2020年初随疫情期间抵押贷款利率大幅下降，低于3%的一留置权抵押贷款占比激增，2021年首次出现<3%占比约50%。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [
+        "PIMCO",
+        "FHFA"
+      ],
+      "date": "2026-08-25",
+      "image_urls": [
+        "/uploads/2026-08-25/65e0950c3e04.png"
+      ]
+    },
+    {
+      "id": "kol-markets-crypto-sep25",
+      "topic": "KOL观点/市场技术面",
+      "topic_tag": "macro-other",
+      "title": "黄金交易拥挤 BTC勉强站上50周EMA",
+      "summary": "KOL观点：黄金交易看着有点拥挤但若平稳过完Jackson Hole仍能延伸，仓位尚未极端。BTC实际完成勉强高于50周EMA的周线收盘，技术看多但回踩空间极小，可能是假突破。",
+      "bullets": [
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "黄金交易开始拥挤但仓位尚未极端，可延伸",
+          "details": "JH：黄金交易开始看着有点拥挤，但若平稳过完Jackson Hole——假设Warsh没突然鹰派起来，肯定还能延伸；仓位尚未打到最大拉伸的极端。",
+          "important": true
+        },
+        {
+          "actor": "rektcapital",
+          "actor_type": "KOL",
+          "text": "BTC勉强站上50周EMA，可能是假突破",
+          "details": "rektcapital：BTC实际完成了勉强高于50周EMA的周线收盘，技术上看多；但因为只是勉强，回踩空间极小，需要非常强的市况才能回测成功；可能就是假突破。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GLD",
+        "IBIT"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-08-25",
+      "image_urls": []
+    },
+    {
+      "id": "china-offshore-wealth-barclays-sep25",
+      "topic": "中国离岸财富监管",
+      "topic_tag": "policy",
+      "title": "Barclays：中国加强离岸财富监管缓解财政压力",
+      "summary": "Barclays认为中国加强离岸财富监管旨在缓解财政压力及管理资本外流而非逆转开放，2025年中国净资本外流近780B，受影响离岸资产约500B，对香港冲击可控。图2为万得全A与罗素3000盈利能力对比。",
+      "bullets": [
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "中国净资本外流近7800亿，受影响离岸资产约5000亿",
+          "details": "Barclays：中国加强离岸财富监管旨在缓解财政压力及管理资本外流，而非逆转开放。2025年中国净资本外流近780B，财政收入占GDP比重降至20%。预计受影响内地相关离岸资产约500B，对香港金融市场冲击可控。未来监管或扩展至海外收入及遗产税。",
+          "important": true
+        },
+        {
+          "actor": "Analyst",
+          "actor_type": "Analyst",
+          "text": "万得全A ROE降至7.8% 落后罗素3000的18.6%",
+          "details": "图2显示2016-2025年万得全A与罗素3000对比：万得全A销售净利率从9.0%降至7.6%、ROE从10.6%降至7.8%；罗素3000销售净利率升至11.5%、ROE升至18.6%，杠杆系数万得全A约6.1倍高于罗素3000约3.8倍。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 1,
+      "sources": [
+        "Barclays"
+      ],
+      "date": "2026-08-25",
+      "image_urls": [
+        "/uploads/2026-08-25/4eb9077e457d.png"
+      ]
+    },
+    {
+      "id": "ai-credit-cds-sep25",
+      "topic": "AI板块信用/其他",
+      "topic_tag": "ai",
+      "title": "AI大厂CDS利差：Oracle显著走阔",
+      "summary": "科技大厂5年期CDS利差对比显示Oracle(ORCLCP)波动与水平最高，从2025年10月约20升至2026年中约200+，SPCX与AMD亦有走阔，其余META/AMZN/MSFT/GOOGL/AVGO保持低位。",
+      "bullets": [
+        {
+          "actor": "ICE Data",
+          "actor_type": "新闻",
+          "text": "Oracle 5Y CDS利差从约20飙升至200+",
+          "details": "图3（ICE Data Services/Bloomberg）显示美元5年期高级CDS对比：ORCLCP（Oracle）波动与水平最高，从2025年10月约20升至2026年1月120-180区间，2026年7月飙至约200+；SPCX自2026年7月起急升至150-180；AMD末端升至约75-100；META/AMZN/MSFT/GOOGL/AVGO保持在50以下低位平稳。",
+          "important": true
+        },
+        {
+          "actor": "ICE Data",
+          "actor_type": "新闻",
+          "text": "多数科技大厂CDS保持低位直至2026年7月分化",
+          "details": "多数大厂CDS利差在2026年7月前贴近底部，之后部分线条急剧向上分化。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "ORCL",
+        "AMD",
+        "META",
+        "AMZN",
+        "MSFT",
+        "GOOGL",
+        "AVGO"
+      ],
+      "image_indexes": [
+        3
+      ],
+      "importance": 2,
+      "sources": [
+        "ICE Data Services",
+        "Bloomberg"
+      ],
+      "date": "2026-08-25",
+      "image_urls": [
+        "/uploads/2026-08-25/2631696995e1.png"
+      ]
+    }
+  ]
+}

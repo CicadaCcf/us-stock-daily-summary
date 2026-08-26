@@ -734,7 +734,13 @@ def main():
             'last_updated': ref_date.isoformat(),
             'closes_1y': y.get('closes_1y', []),
         })
-        print(f'  {sym:<7s}  {close_display:>8}  d1={y["d1_pct"]:+.2f}% d5={y["d5_pct"]:+.2f}%')
+        # None-safe log line — a missing d1/d5/close for one index must never
+        # crash the whole snapshot (this is just progress output).
+        _d1, _d5 = y.get("d1_pct"), y.get("d5_pct")
+        _d1s = f'{_d1:+.2f}%' if _d1 is not None else '   n/a'
+        _d5s = f'{_d5:+.2f}%' if _d5 is not None else '   n/a'
+        _cd = f'{close_display:>8}' if close_display is not None else '     n/a'
+        print(f'  {sym:<7s}  {_cd}  d1={_d1s} d5={_d5s}')
         time.sleep(0.1)
 
     # VIX for breadth section
