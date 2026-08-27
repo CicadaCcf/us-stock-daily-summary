@@ -1,0 +1,366 @@
+{
+  "topics": [
+    {
+      "id": "fed-officials-jackson-hole-aug23",
+      "topic": "美联储官员表态",
+      "topic_tag": "fed",
+      "title": "美联储官员分歧：债务清算风险与通胀观望",
+      "summary": "Barkin警告若美国债务持续攀升，投资者最终可能抵制购债，届时将出现'清算'，但难判何时发生。Collins支持暂时按兵不动，但前提是通胀回升至2%目标有更多进展，若通胀持续下降证据缺失则应尽快收紧。",
+      "bullets": [
+        {
+          "actor": "Barkin",
+          "actor_type": "Central-Bank",
+          "text": "Barkin警告美债持续攀升终将出现'清算'",
+          "details": "Barkin表示，只要公众继续购买政府债券，政府就可以继续借贷，但投资者可能会开始抵制，如果美国债务继续上升，这件事最终将会出现'清算'，但很难知道这种情况何时会发生。",
+          "important": true
+        },
+        {
+          "actor": "Collins",
+          "actor_type": "Central-Bank",
+          "text": "Collins支持暂维持利率，前提是通胀回升有进展",
+          "details": "Collins支持暂时维持利率不变，但前提是看到通胀率在回升至央行2%的目标水平方面取得更多进展；如果通胀持续下降的证据没有出现，就应该尽快收紧政策。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-26",
+      "image_urls": []
+    },
+    {
+      "id": "canada-retaliatory-tariffs-aug23",
+      "topic": "加拿大报复性关税",
+      "topic_tag": "policy",
+      "title": "加拿大宣布对美报复性关税，涉200亿美元",
+      "summary": "加拿大宣布对美'报复性'关税，覆盖钢铁铝制品、乳制品、水产海鲜、木材、纺织品、纸制品等七百多种商品，价值约200亿美元，税率15%-50%不等，9月8日起实施。",
+      "bullets": [
+        {
+          "actor": "加拿大政府",
+          "actor_type": "Foreign-Gov",
+          "text": "加拿大对美七百多种商品征15%-50%报复性关税",
+          "details": "加拿大宣布对美'报复性'关税：钢铁和铝制品、乳制品、水产海鲜、木材制品、纺织品、纸制品等，共七百多种，价值约$20B，加15%-50%不等，9月8日起实施。",
+          "important": true
+        },
+        {
+          "actor": "加拿大政府",
+          "actor_type": "Foreign-Gov",
+          "text": "关税9月8日起实施，价值约200亿美元",
+          "details": "关税总价值约$20B，税率15%-50%不等，实施日期为9月8日。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-26",
+      "image_urls": []
+    },
+    {
+      "id": "us-iran-hormuz-pressure-aug23",
+      "topic": "美伊危机",
+      "topic_tag": "geo",
+      "title": "美国转向海军封锁与制裁向伊朗施压",
+      "summary": "AXIOS报道Rubio向盟友透露，美国当前重点是通过海军封锁和新的财政部制裁向伊朗施加经济压力以取代军事行动（除非伊朗先发制人），该政策预计至少持续到中期选举后。相关观察者指出美国虽制裁但仍回避中资银行，且中国购买伊朗80%以上石油出口。",
+      "bullets": [
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "美国转向海军封锁+财政部制裁替代对伊军事行动",
+          "details": "AXIOS报道Rubio向盟友透露，美国目前的重点是通过海军封锁和新的财政部制裁向伊朗施加经济压力，以取代军事行动（除非伊朗先发制人）。该政策预计至少会持续到中期选举之后。",
+          "important": true
+        },
+        {
+          "actor": "unusual_whales",
+          "actor_type": "KOL",
+          "text": "尽管中国购买伊朗80%石油，美国回避中资银行",
+          "details": "unusual_whales：尽管中国购买伊朗80%以上的石油出口，美国回避了主要中资银行与公司。",
+          "important": false
+        },
+        {
+          "actor": "@TankerTrackers",
+          "actor_type": "KOL",
+          "text": "阿曼湾至少15组STS转运，清点2500万桶原油",
+          "details": "@TankerTrackers：阿曼湾繁忙的一天，至少15组STS转运作业同时进行，清点到25M桶原油、外加一些成品油；油来自区域内几乎每个国家，除伊朗外。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Axios"
+      ],
+      "date": "2026-08-26",
+      "image_urls": []
+    },
+    {
+      "id": "ai-sector-macro-aug23",
+      "topic": "AI行业宏观",
+      "topic_tag": "ai",
+      "title": "AI估值争议：Anthropic 30T市场与泡沫辩论",
+      "summary": "Anthropic将向IPO投资者宣称其总可服务市场价值超过30T（几乎相当于美国GDP），但有观察者质疑其留存率崩塌。Moonshot AI洽谈与微软、亚马逊、谷歌云的收益分享协议托管Kimi K3。Bill Gates警告AI对就业与人类构成严重威胁，应成全球最优先事项。多位KOL就AI泡沫、资金轮动展开辩论。",
+      "bullets": [
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic将向IPO投资者宣称TAM超30T，近美国GDP",
+          "details": "Anthropic会告诉IPO的投资者，其总可服务市场价值超过30T。这一数字几乎相当于美国的国内生产总值。ShanghaoJin反驳：30T绝对是喝了，Anthropic留存率实际上在崩。",
+          "important": true
+        },
+        {
+          "actor": "Moonshot AI",
+          "actor_type": "Corporate",
+          "text": "Moonshot AI洽谈微软/亚马逊/谷歌云托管Kimi K3",
+          "details": "RTRS报道中国的Moonshot AI正在与微软、亚马逊以及Alphabet旗下的谷歌洽谈收益分享协议。根据这些协议，美国的这些云服务巨头将能够托管Moonshot AI的Kimi K3模型。如果这些协议能够达成，这将是中国的AI公司与美国的知名云服务公司之间首次达成重大的收益分享协议。",
+          "important": false
+        },
+        {
+          "actor": "Bill Gates",
+          "actor_type": "Corporate",
+          "text": "盖茨警告AI对就业与人类构成严重威胁",
+          "details": "Bill Gates强烈警告称，人工智能对就业和人类生活构成了严重威胁。他强调，应对这些风险应成为'全球最优先的事项'。盖茨指出，科技行业故意淡化这些威胁，因为其中涉及巨额利益。",
+          "important": false
+        },
+        {
+          "actor": "kashyap286",
+          "actor_type": "KOL",
+          "text": "AI经济需每年1T消费者支出流向前沿模型",
+          "details": "kashyap286：AI经济需要每年$1T的消费者支出，全部流向前沿模型、再上溯到数据中心、Nvidia与存储层；Apple在edge inference速推进，'Mac Studio提供从实验、训练到部署的端到端AI开发平台'，Apple一向擅长Fast Second打法。",
+          "important": false
+        },
+        {
+          "actor": "Dr_Gingerballs",
+          "actor_type": "KOL",
+          "text": "AI以创纪录速度速通'这绝对是泡沫'",
+          "details": "Dr_Gingerballs：我们以创纪录的速度速通了'这不是泡沫'→'这是泡沫吗?'→'这绝对是泡沫'。TimmerFidelity：AI的价格行为里现在看不到多少利多，AI资金轮动进入市场其余部分的行情将继续。",
+          "important": false
+        },
+        {
+          "actor": "mtkonczal",
+          "actor_type": "KOL",
+          "text": "Opus 5跑题绕弯，暂换Gemini",
+          "details": "mtkonczal：Opus 5对小项目overtorqued，绕路分叉太狠、既太聪明又不聚焦，Claude太努力想显得human，跑题、绕弯、对冲一切，暂换Gemini。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MSFT",
+        "AMZN",
+        "GOOGL",
+        "NVDA",
+        "AAPL"
+      ],
+      "image_indexes": [
+        0,
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "Reuters"
+      ],
+      "date": "2026-08-26",
+      "image_urls": [
+        "/uploads/2026-08-26/ce65c2cc0bdf.png",
+        "/uploads/2026-08-26/fddfd33c6b35.png"
+      ]
+    },
+    {
+      "id": "buyside-wellington-aug23",
+      "topic": "买方观点",
+      "topic_tag": "macro-other",
+      "title": "Wellington：科技股通胀对冲吸引力减弱",
+      "summary": "Wellington指出科技股作为通胀对冲工具的吸引力正在减弱，大型科技为AI基建举债、预计今年投资级债券发行近2T，杠杆率上升削弱资产负债表优势。叠加财政刺激消退、实际收入下降及美联储支持减弱，债券因地缘风险缓解而重现配置价值。",
+      "bullets": [
+        {
+          "actor": "Wellington",
+          "actor_type": "Analyst",
+          "text": "Wellington：科技股通胀对冲吸引力减弱，债券重现价值",
+          "details": "Wellington：科技股作为通胀对冲工具的吸引力正在减弱。随着大型科技公司为AI基建举债，预计今年投资级债券发行近2T，杠杆率上升削弱其资产负债表优势。加之财政刺激消退、实际收入下降及美联储政策支持减弱，债券因地缘风险缓解而重现配置价值。",
+          "important": true
+        },
+        {
+          "actor": "Wellington",
+          "actor_type": "Analyst",
+          "text": "AI基建举债推升今年投资级债券发行近2T",
+          "details": "大型科技公司为AI基建举债，预计今年投资级债券发行近2T，杠杆率上升削弱其资产负债表优势。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-26",
+      "image_urls": []
+    },
+    {
+      "id": "kol-rates-crypto-aug23",
+      "topic": "KOL观点",
+      "topic_tag": "rates",
+      "title": "KOL论利率、比特币与半导体",
+      "summary": "多位KOL围绕长端利率、比特币技术面、对华制裁可行性及半导体展开评论。JH称做空长久期已成拥挤交易，国家干预曲线读起来像教科书式收益率局部顶。Nick认为收益率回落与Bessent关系不大，3%实际收益率值得持有。josephwang质疑对华制裁是空谈。rektcapital解读BTC 50周EMA支撑。",
+      "bullets": [
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "JH：做空长久期已成终极拥挤交易，像收益率局部顶",
+          "details": "JH：做空/嘲讽长久期已成终极共识拥挤交易，经典的wash-rinse-repeat洗盘设定，国家干预曲线'不是新闻'——读起来更像教科书式的收益率局部顶；身边的反指在买DAT股票和黄金ETF。",
+          "important": true
+        },
+        {
+          "actor": "Nick",
+          "actor_type": "KOL",
+          "text": "Nick：收益率回落与Bessent关系很小，3%实际收益值得持有",
+          "details": "Nick：收益率回落与Bessent关系很小、甚至没有；长端此前已跌到显著的价值水平，至少一个暂停本就该预期；3%实际收益率是值得持有的体面水平。",
+          "important": false
+        },
+        {
+          "actor": "josephwang",
+          "actor_type": "KOL",
+          "text": "josephwang：制裁中国是空谈，美国高度依赖进口",
+          "details": "josephwang：高调谈制裁中国是空谈——美国高度、高度依赖进口商品，不止稀土，基本是一切；商品贸易逆差超$1T；没有这些进口，通胀会飙升、生活水平会骤降。",
+          "important": false
+        },
+        {
+          "actor": "rektcapital",
+          "actor_type": "KOL",
+          "text": "rektcapital：BTC以50周EMA为支撑但上攻受阻",
+          "details": "rektcapital：BTC以50周EMA为支撑，但至今自该位的上攻都被拒；看多的目标是价格在50周EMA上方形成稳定；若这是熊市Relief Rally，价格无法在这些高位维持太久。",
+          "important": false
+        },
+        {
+          "actor": "bboczeng",
+          "actor_type": "KOL",
+          "text": "bboczeng：等NVDA财报带半导体爆炸，美债已完了",
+          "details": "bboczeng：等NVDA财报带半导体一起爆炸、美债已经完了。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-26",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-fed-jacksonhole-aug23",
+      "topic": "卖方观点-美联储",
+      "topic_tag": "fed",
+      "title": "卖方看Jackson Hole：Warsh料避免前瞻指引",
+      "summary": "GS/JPM/DB就美联储Jackson Hole及政策展开分析。GS预计Warsh重申2%承诺但不给明确指引，9月及年底前维持利率不变，8月核心CPI/PCE环比约0.2%，9月底方法论变更将使同比核心PCE至少降0.2%。JPM指出Warsh有意避免前瞻指引，市场反应或接近Greenspan时代般温和。DB分析TGA资助国债回购不会显著影响前端融资。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS：Warsh料重申2%但不给指引，9月及年底前按兵不动",
+          "details": "GS预计Warsh将重申对2%通胀目标的承诺，但不会提供明确政策指引。预计美联储9月及年底前将维持利率不变。随着6、7月通胀改善，预计8月核心CPI与PCE环比约0.2%，叠加9月底方法论变更将使同比核心PCE至少降低0.2%，连续好转的数据支持政策按兵不动。此外，年会聚焦的金融创新与稳定币议题对短期货币政策影响有限。",
+          "important": true
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "JPM：Jackson Hole讲话历史上并不显著推动市场",
+          "details": "JPM：虽然每年8月下旬Jackson Hole研讨会周五上午主席开场讲话获市场高度关注，但往往并不明显推动走势。自2000年以来2年期收益率单日变动标准差约5.5bp，多数Jackson Hole期间的收益率变化并不算异常大。主席开场讲话通常讨论货币政策更宏观长期问题；由于Warsh有意避免forward guidance，今年市场反应可能更接近Greenspan时代——整体较温和、有限。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "DB：TGA资助国债回购不会显著影响前端融资",
+          "details": "DB：美财政部若通过TGA资助长期国债回购，虽初期增加准备金，但美联储将减少RMPs对冲，功能等同票据发行。历史数据显示票据发行与SOFR-RRP利差扩大相关，但长期端供应减少将降低杠杆需求。综合来看，预计该政策转变不会对前端融资动态产生显著影响。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3
+      ],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs",
+        "JPMorgan",
+        "Deutsche Bank"
+      ],
+      "date": "2026-08-26",
+      "image_urls": [
+        "/uploads/2026-08-26/6b6ca71b6bf0.png"
+      ]
+    },
+    {
+      "id": "sellside-boj-japan-aug23",
+      "topic": "卖方观点-日本央行",
+      "topic_tag": "rates",
+      "title": "GS上调BOJ加息路径，首次加息提前至2026年9月",
+      "summary": "GS将日本央行首次加息时点从2027年1月提前至2026年9月，加息25bps至1.25%，终端利率上调至1.75%，理由是美元兑日元逼近160-164干预敏感区且中长期通胀预期趋近2%。Nomura指出政策利率每升25bps，三菱UFJ与三井住友年度净利息收入或各增约1000亿日元，利好金融板块。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS：BOJ首次加息提前至2026年9月，终端利率升至1.75%",
+          "details": "GS调整日本央行政策利率预测，将首次加息时点从2027年1月提前至2026年9月，预计加息25bps至1.25%。高盛指出美元兑日元汇率已逼近160-164的干预敏感区间，若推迟加息恐加剧贬值与输入性通胀。基于中长期通胀预期趋近2%，高盛同时将本轮周期的终端利率预测上调至1.75%，预计后续于2027年1月和7月各加息一次，而12月因财政预算编制阻力大概率跳过。",
+          "important": true
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "Nomura：政策利率每升25bps，两大行净利息收入各增约1000亿日元",
+          "details": "Nomura：BOJ利率正常化持续利好金融板块。三菱UFJ与三井住友估计，政策利率每升25bps，年度净利息收入或各增约100B日元。银行与保险盈利前景改善，日本股市吸引力上升，主动选股机会增多。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs",
+        "Nomura"
+      ],
+      "date": "2026-08-26",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-nvidia-china-aug23",
+      "topic": "卖方观点-英伟达与中国",
+      "topic_tag": "earnings",
+      "title": "MS首覆英伟达信用债建议观望，HSBC看淡中国刺激预期",
+      "summary": "MS中性评级首次覆盖英伟达信用债建议观望，指其通过残值支持与租赁担保将资产负债表转化为AI融资工具，预计2028年底全口径信用敞口约200B（含约170B或有负债），CDS利差较同行宽约25bp，但基本面极强、调整后净现金约3500亿美元、全口径杠杆仅0.4倍。HSBC认为中国坚持微调与增量支持，否定'大规模刺激'预期。",
+      "bullets": [
+        {
+          "actor": "MS",
+          "actor_type": "Analyst",
+          "text": "MS中性首覆英伟达信用债，2028年信用敞口约200B",
+          "details": "MS中性评级首次覆盖英伟达信用债，建议投资者保持观望。大摩指出英伟达通过残值支持和租赁担保等模式将资产负债表转化为战略AI融资工具，预计到2028年底全口径信用敞口达约200B（含约170B或有负债）。不过公司基本面依然极强，调整后净现金仍达约3500亿美元，全口径杠杆率仅0.4倍。尽管CDS利差较同行宽约25个基点，但鉴于生态融资不透明，大摩建议等待更佳介入时机。",
+          "important": true
+        },
+        {
+          "actor": "HSBC",
+          "actor_type": "Analyst",
+          "text": "HSBC：中国坚持微调，否定大规模刺激预期",
+          "details": "HSBC：中国宏观政策坚持微调与增量支持，否定了市场关于'大规模刺激'的预期。7月广义财政赤字缩窄至641亿元，支出节奏待加速。上海跟进北京出台楼市放松政策，但行业整体仍承压。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "image_indexes": [
+        2
+      ],
+      "importance": 2,
+      "sources": [
+        "Morgan Stanley",
+        "HSBC"
+      ],
+      "date": "2026-08-26",
+      "image_urls": [
+        "/uploads/2026-08-26/a1b72887c1b1.png"
+      ]
+    }
+  ]
+}

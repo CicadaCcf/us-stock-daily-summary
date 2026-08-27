@@ -636,7 +636,22 @@ export default function App() {
     const m = await fetchEditsForDate(CURRENT_DATE);
     setEdits(m);
   };
-  useEffect(() => { reload(); /* eslint-disable-next-line react-hooks/exhaustive-deps */ }, []);
+  useEffect(() => {
+    reload();
+    // The daily autofill writes industry/reason suggestions to Supabase at
+    // ~05:32 BJT. A tab left open overnight loaded its overlay before that, so
+    // the fills look "missing" until a manual refresh. Re-fetch the overlay
+    // whenever the tab regains focus / becomes visible, so returning to it in
+    // the morning shows the day's fills without a manual reload.
+    const onWake = () => { if (document.visibilityState === 'visible') reload(); };
+    window.addEventListener('focus', onWake);
+    document.addEventListener('visibilitychange', onWake);
+    return () => {
+      window.removeEventListener('focus', onWake);
+      document.removeEventListener('visibilitychange', onWake);
+    };
+    /* eslint-disable-next-line react-hooks/exhaustive-deps */
+  }, []);
   return (
     <LightboxProvider>
       <ScreenerEditsCtx.Provider value={{ edits, reload }}>
