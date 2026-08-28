@@ -1,0 +1,101 @@
+{
+  "generated_at": "2026-08-27T21:31:54+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-08-27",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12498,
+    "partial_pass": 8,
+    "with_carryover": 11,
+    "after_full_check": 6
+  },
+  "rows": [
+    {
+      "tk": "OKTA",
+      "nm": "Okta, Inc. Class A Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 28.6,
+      "w1": 28.9,
+      "market_cap_bn": 30.05,
+      "dollar_vol_bn": 2.83,
+      "w1_avg_dollar_vol_bn": 0.96,
+      "reason": "",
+      "main_business": "提供云原生身份认证与访问管理安全解决方案"
+    },
+    {
+      "tk": "CRM",
+      "nm": "Salesforce, Inc.",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 22.6,
+      "w1": 22.7,
+      "market_cap_bn": 206.43,
+      "dollar_vol_bn": 13.97,
+      "w1_avg_dollar_vol_bn": 4.63,
+      "reason": "",
+      "main_business": "提供客户关系管理与企业云计算服务"
+    },
+    {
+      "tk": "CRWD",
+      "nm": "CrowdStrike Holdings, Inc. Class A Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 20.5,
+      "w1": 19.8,
+      "market_cap_bn": 232.12,
+      "dollar_vol_bn": 5.33,
+      "w1_avg_dollar_vol_bn": 2.48,
+      "reason": "",
+      "main_business": "提供云原生终端安全防护平台Falcon"
+    },
+    {
+      "tk": "VEEV",
+      "nm": "Veeva Systems Inc.",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 15.2,
+      "w1": 12.6,
+      "market_cap_bn": 45.83,
+      "dollar_vol_bn": 1.81,
+      "w1_avg_dollar_vol_bn": 0.65,
+      "reason": "",
+      "main_business": "为生命科学行业提供云端软件解决方案"
+    },
+    {
+      "tk": "PURR",
+      "nm": "Hyperliquid Strategies Inc Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": 11.0,
+      "w1": 27.3,
+      "market_cap_bn": 2.57,
+      "dollar_vol_bn": 0.54,
+      "w1_avg_dollar_vol_bn": 0.36,
+      "reason": "",
+      "main_business": "专注积累HYPE代币的数字资产财务公司"
+    },
+    {
+      "tk": "ASST",
+      "nm": "Strive, Inc. Class A Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 7.5,
+      "w1": 43.3,
+      "market_cap_bn": 2.07,
+      "dollar_vol_bn": 0.31,
+      "w1_avg_dollar_vol_bn": 0.27,
+      "reason": "",
+      "main_business": ""
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "topics": [
+    {
+      "id": "boj-hikes-2025-08",
+      "topic": "日本央行",
+      "topic_tag": "fed",
+      "title": "BOJ副行长冰见野呼应植田：必要时加快加息",
+      "summary": "日本央行副行长冰见野良三认同行长植田和男观点，如有必要将加快加息步伐。野村维持9月加息预期，市场已定价85%概率。",
+      "bullets": [
+        {
+          "actor": "冰见野良三",
+          "actor_type": "Central-Bank",
+          "text": "副行长认同植田：必要时加快加息",
+          "details": "日本央行副行长冰见野良三：认同植田和男关于如有必要将加快加息步伐的观点。",
+          "important": true
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "野村维持9月加息预期，市场定价85%",
+          "details": "野村维持日本央行9月加息预期。尽管日央行副行长冰见野瑞三讲话未为加息做明显铺垫，但其强调中东局势、AI需求及日元疲软带来的通胀上行风险，整体语调偏鹰派。市场已定价85%的9月加息概率，未明确信号或因待政府协调及预期已充分反映。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Nomura"
+      ],
+      "date": "2026-08-27",
+      "image_urls": []
+    },
+    {
+      "id": "warsh-jh-fed-2025-08",
+      "topic": "Warsh/美联储",
+      "topic_tag": "fed",
+      "title": "Warsh杰克逊霍尔首秀：赌注更高，联储框架受质疑",
+      "summary": "Nick Timiraos指出Warsh在杰克逊霍尔的首个主旨演讲赌注更高，7月记者会已令人怀疑其\"交付去通胀\"承诺；财政部非常规债务管理调整增加、少数派同事称政策已不够紧。多位KOL围绕核心PCE、9月降息定价与AI生产率展开辩论。",
+      "bullets": [
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "Warsh JH演讲赌注更高，去通胀承诺存疑",
+          "details": "Nick Timiraos：Warsh在JH的首个主旨演讲赌注比几周前更高：7月记者会已让人怀疑他如何兑现\"交付去通胀\"的承诺；财政部一次计划外、非常规周期的债务管理调整，越来越多的少数派同事称，政策已不够紧，联储无法可信地宣称有挤出最后一个百分点通胀的计划。",
+          "important": true
+        },
+        {
+          "actor": "elerian",
+          "actor_type": "KOL",
+          "text": "Elerian：9月降息约40%定价仍太高",
+          "details": "elerian：核心PCE符合共识、9月加息约40%的定价在他看来仍太高。",
+          "important": false
+        },
+        {
+          "actor": "EconstratPB",
+          "actor_type": "KOL",
+          "text": "回到2%需月均0.16——\"不会发生\"",
+          "details": "EconstratPB：核心PCE月均：2022年 0.4、2023年 0.26、2024年 0.25、2025年 0.24、2026年YTD 0.31。要在明年6月前回到 2% 目标，需要从现在起月均 0.16——\"不会发生\"。",
+          "important": false
+        },
+        {
+          "actor": "Diane Swonk",
+          "actor_type": "KOL",
+          "text": "Swonk：7月PCE仍太热，年底前两次降息",
+          "details": "DianeSwonk：7月PCE仍太热：核心服务通胀几乎两倍于 2% 目标，9月加息在桌上且概率上升、仍预计年底前两次。",
+          "important": false
+        },
+        {
+          "actor": "colbyLsmith",
+          "actor_type": "KOL",
+          "text": "Warsh JH机会：阐明框架与AI生产率评估",
+          "details": "colbyLsmith：Warsh赴JH，有机会阐明他思考经济的框架、联储面对高通胀的政策选择、以及他如何评估AI生产率增益这类可能改变增长前景的巨变。",
+          "important": false
+        },
+        {
+          "actor": "DerivativesDon",
+          "actor_type": "KOL",
+          "text": "价格干预压短端最终传导回长端",
+          "details": "DerivativesDon：价格干预压低短期价格（收益率），这会导致更高的长期价格（收益率）；对价格的短期冲击影响总需求，最终又传导回长期价格。Nothing is free。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Nick Timiraos"
+      ],
+      "date": "2026-08-27",
+      "image_urls": []
+    },
+    {
+      "id": "ust-long-end-flows-2025-08",
+      "topic": "美债长端",
+      "topic_tag": "rates",
+      "title": "买方转向看多长端：CTA空头拥挤+财政削减发行预期",
+      "summary": "Citadel Securities的Frank Flight转向看多长端美债，CTA长端空头拥挤度达-2.28σ；MS Vishal Khanduja因Bessent计划缩减做空押注。美银美林测算11月再融资会议前存在削减20/30年发行规模的风险，或压降10Y收益率约20-50bp，建议做多30Y互换利差及20Y蝶式。",
+      "bullets": [
+        {
+          "actor": "Frank Flight (Citadel Securities)",
+          "actor_type": "Analyst",
+          "text": "Citadel转多长债：CTA空头达-2.28σ，历史胜率100%",
+          "details": "Citadel Securities Frank Flight转向看多长端债券，认为收益率风险不对称下行。核心逻辑三点：一是基本面数据转弱（CPCE mpm回落至0.2%出头），美联储按兵不动已足以印证偏鸽反应；二是CTA模拟显示长端持仓空头拥挤度已达-2.28个标准差，极易触发逼空；三是跨资产模型测算，在当前增长/政策估值且起始收益率≥4.5%的历史样本中，美债收益率在后120天平均下行67bp（胜率100%）。",
+          "important": true
+        },
+        {
+          "actor": "Vishal Khanduja (MS FICC)",
+          "actor_type": "Analyst",
+          "text": "MS因Bessent计划缩减做空长债押注",
+          "details": "MS FICC Vishal Khanduja：因Bessent计划缩减做空美国长债的押注。",
+          "important": false
+        },
+        {
+          "actor": "BofA Rates",
+          "actor_type": "Analyst",
+          "text": "美银：削减20/30Y发行或压10Y收益率20-50bp",
+          "details": "BofA Rates：美国财政部正转向更积极的债务管理以降低长端利率，11月再融资会议前存在削减20年和30年期美债发行规模的风险。美银美林测算，类似2021-22年周期的长端削减可为10年期收益率带来约20bp的压降效果，若完全消除20年和30年期发行影响或达50bp。但历史表明供应缩减未必能持续压低基准利率，美银美林建议放弃单边做多久期，转为做多30年期互换利差及20年期蝶式交易。",
+          "important": false
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "巴克莱：预计Fed 10月恢复RMPs购买100-200亿",
+          "details": "Barclays：美国财政部扩大股票回购计划必然导致向私营部门发行的短期国库券（T-bills）增加，即便通过降低TGA融资，美联储也会通过调整RMPs抵消准备金影响。T-bill市场吸收能力充足，非主要约束。预计美联储10月恢复RMPs购买，规模达10-20B，但2027年受债务上限及资产负债表审查影响，前景高度不确定。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TLT"
+      ],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "Citadel Securities",
+        "MS",
+        "BofA",
+        "Barclays"
+      ],
+      "date": "2026-08-27",
+      "image_urls": [
+        "/uploads/2026-08-27/61bf40ce9b8a.png"
+      ]
+    },
+    {
+      "id": "hormuz-oil-flows-2025-08",
+      "topic": "霍尔木兹/原油",
+      "topic_tag": "oil",
+      "title": "霍尔木兹过境放量，海湾产油国加大发运",
+      "summary": "Kpler数据显示周三霍尔木兹可见商品船过境10艘，海湾小产油国科威特和卡塔尔加大出口压制油价，伊拉克首次提供波斯湾外提货选项，中石油购入约400万桶沙特原油9月在霍尔木兹外侧装货。Jefferies指美国原油+成品油合计去化4.67Mb远超预期，SPR降至1982年以来最低。",
+      "bullets": [
+        {
+          "actor": "Jefferies Oil",
+          "actor_type": "Analyst",
+          "text": "美原油+成品油去库4.67Mb远超预期，SPR最低",
+          "details": "Jefferies Oil：美国原油与主要成品油库存合计减少约4.67Mb，大幅超出市场预期的1.42Mb降幅。其中，商业原油库存仅微增10万桶（预期增1.58Mb），战略石油储备（SPR）进一步降至289.7Mb，为1982年以来最低水平，持续限制供应端弹性。下游消费表现强劲，汽油与馏分油库存分别超预期去化2.57Mb和2.23Mb桶，馏分油隐含需求同比增6%，炼油利用率维持在97.4%的高位。杰富瑞认为成品油超预期去库强化了油价基本面。",
+          "important": true
+        },
+        {
+          "actor": "Kpler",
+          "actor_type": "新闻",
+          "text": "周三霍尔木兹过境10艘，低于10日均值约15",
+          "details": "Kpler数据：周三霍尔木兹可见商品船过境10艘，略高于周二的8艘，低于10日均值约15艘。",
+          "important": false
+        },
+        {
+          "actor": "科威特/卡塔尔",
+          "actor_type": "Foreign-Gov",
+          "text": "科威特与卡塔尔加大经海峡原油发运压制油价",
+          "details": "科威特和卡塔尔这两个海湾较小产油国正加大经霍尔木兹的原油发运，出口增加压制全球油价。",
+          "important": false
+        },
+        {
+          "actor": "伊拉克",
+          "actor_type": "Foreign-Gov",
+          "text": "伊拉克首提波斯湾外提货选项",
+          "details": "伊拉克开战以来首次向买家提供在波斯湾以外提货的选项，凸显经霍尔木兹出口仍有韧性。",
+          "important": false
+        },
+        {
+          "actor": "PetroChina",
+          "actor_type": "Corporate",
+          "text": "中石油购400万桶沙特原油，9月海峡外装货",
+          "details": "PetroChina 购入约 4mln 桶沙特原油，9月在霍尔木兹外侧地点装货（彭博援引贸易商）。（BBG）",
+          "important": false
+        },
+        {
+          "actor": "BurggrabenH",
+          "actor_type": "KOL",
+          "text": "KOL：维持战前出口需2x VLCC+3x大成品油轮",
+          "details": "BurggrabenH：维持战前经海峡的出口量需要多得多的船，因为船舶使用效率更低——可能需要2倍的VLCC与3倍的大型成品油轮。",
+          "important": false
+        },
+        {
+          "actor": "CRUDEOIL231",
+          "actor_type": "KOL",
+          "text": "卫星图：Basra与Jubail装货队列罕见饱满",
+          "details": "CRUDEOIL231：更高流量=更重装载，不用盯Fujairah的STS也看得到：海峡过境明显在放量；不记得Basra与Jubail的装货队列何时这么满过（卫星图），看来整个波斯湾地区都开始照着阿布扎比国家石油公司的做法来行事了。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "USO",
+        "XLE"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Kpler",
+        "Bloomberg",
+        "Jefferies"
+      ],
+      "date": "2026-08-27",
+      "image_urls": []
+    },
+    {
+      "id": "ai-hardware-hyperscaler-2025-08",
+      "topic": "AI 硬件/超大规模",
+      "topic_tag": "ai",
+      "title": "Nvidia收购Hugging Face、Amazon加购200万GPU、CXMT追赶",
+      "summary": "Nvidia以129亿美元收购Hugging Face；Amazon未来两年数据中心再增加200万块Nvidia GPU；智谱GLM 5.3 Flash跑在国产芯片；CXMT在最新量产DRAM应用high-k介电材料；Kioxia和Sandisk投入超5万亿日元($31.4b)扩日本产能。",
+      "bullets": [
+        {
+          "actor": "Nvidia / Hugging Face",
+          "actor_type": "Corporate",
+          "text": "Nvidia以129亿美元收购Hugging Face",
+          "details": "Nvidia 已同意以 12.9B 的价格收购 Hugging Face。",
+          "important": true
+        },
+        {
+          "actor": "Amazon",
+          "actor_type": "Corporate",
+          "text": "亚马逊未来两年再采购200万块Nvidia GPU",
+          "details": "Amazon 未来两年将在数据中心再增加 2m块 Nvidia GPU，显示其在自研芯片竞争下仍坚持采购。",
+          "important": false
+        },
+        {
+          "actor": "智谱",
+          "actor_type": "Corporate",
+          "text": "智谱GLM 5.3 Flash均跑在国产芯片",
+          "details": "智谱承认，此前免费爆火的神秘 AI 模型 Ox Alpha，现正式命名 GLM 5.3 Flash，均跑在国产芯片上。",
+          "important": false
+        },
+        {
+          "actor": "CXMT",
+          "actor_type": "Corporate",
+          "text": "CXMT最新量产DRAM应用high-k介电材料",
+          "details": "韩媒：DRAM 后进者 CXMT 快速缩小与头部厂商的技术差距，据报已在最新量产 DRAM 中应用 high-k 介电材料，该技术此前基本是头部厂商专属。",
+          "important": false
+        },
+        {
+          "actor": "Kioxia / Sandisk",
+          "actor_type": "Corporate",
+          "text": "Kioxia+Sandisk投5万亿日元扩日本NAND产能",
+          "details": "Kioxia 和 Sandisk 计划投入超 ¥5t($31.4b)扩大日本产能，增产供应紧张的 AI 数据中心关键部件。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "AMZN"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-08-27",
+      "image_urls": []
+    },
+    {
+      "id": "meta-states-settlement-2025-08",
+      "topic": "Meta监管",
+      "topic_tag": "policy",
+      "title": "Meta与29州\"不保护儿童\"案和解，罚171亿",
+      "summary": "Meta被美国29个州状告\"不保护儿童\"案达成和解，罚款171亿美元并采取措施。",
+      "bullets": [
+        {
+          "actor": "Meta / 美国29州",
+          "actor_type": "Corporate",
+          "text": "Meta与29州和解，罚171亿美元",
+          "details": "Meta被美国29个州状告\"不保护儿童\"案，达成和解，罚款$17.1B，并采取措施。",
+          "important": true
+        },
+        {
+          "actor": "其他",
+          "actor_type": "Unknown",
+          "text": "补记：家庭杠杆降至1960年代初低位",
+          "details": "配图：Household Liabilities as Percent of Total Assets 降至10.8%，除2025 Q4外，上一次更低读数是1963 Q2。数据源Carson Investment Research/Federal Reserve。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "META"
+      ],
+      "image_indexes": [
+        1
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-08-27",
+      "image_urls": [
+        "/uploads/2026-08-27/045233984d3f.png"
+      ]
+    }
+  ]
+}

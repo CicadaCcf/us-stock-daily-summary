@@ -1,0 +1,56 @@
+{
+  "generated_at": "2026-08-27T21:32:06+00:00",
+  "date": "2026-08-27",
+  "since": "2026-08-25T20:00:00+00:00",
+  "by_ticker": {
+    "OKTA": [
+      {
+        "headline": "Why Palo Alto Networks Stock Just Popped",
+        "url": "https://www.fool.com/investing/2026/08/27/why-palo-alto-networks-stock-just-popped/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-08-27T14:22:44Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885212%2Fai-face-looming-over-a-man-at-a-computer-screen.jpg&w=1200&op=resize",
+        "description": "Palo Alto Networks stock surged 11.1% on reports the cybersecurity company is shifting into acquisition mode. After failed attempts to acquire Okta and Datadog at lower valuations, Palo Alto is now targeting smaller companies Cribl and ClickHouse for potential acquisition."
+      }
+    ],
+    "CRM": [
+      {
+        "headline": "Why ServiceNow Rallied Today",
+        "url": "https://www.fool.com/investing/2026/08/27/why-servicenow-rallied-today/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-08-27T19:09:18Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885285%2Fgettyimages-2226339419.jpg&w=1200&op=resize",
+        "description": "ServiceNow stock rallied 9.2% following Salesforce's strong earnings report, which alleviated fears of a 'SaaS-pocalypse' from agentic AI. Salesforce reported 10.8% revenue growth, beat EPS estimates by 80%, and showed its AI-infused Agentforce features growing at 210% annualized revenue run rate. Both companies are positioned as platforms that will collaborate with AI rather than be disrupted by it, with Salesforce announcing a partnership with Anthropic called 'Claudeforce.'"
+      },
+      {
+        "headline": "Why Salesforce Stock Is Soaring This Week",
+        "url": "https://www.fool.com/investing/2026/08/27/why-salesforce-stock-is-soaring-this-week/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-08-27T18:36:22Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885241%2Finvestor-works-on-laptop.jpg&w=1200&op=resize",
+        "description": "Salesforce stock surged 22% this week after beating Q2 2027 earnings expectations with $11.35B in revenue versus $11.32B expected, and posting $4.29 diluted EPS versus $3.27 anticipated. The company raised its fiscal 2027 revenue guidance to $46.1-$46.4B and EPS guidance to $10.21-$10.25, prompting analysts to raise price targets. At 12.1x operating cash flow versus its five-year average of 18.3x, the stock is considered undervalued."
+      },
+      {
+        "headline": "Agentic AI Adoption Boosts NOW's Growth Prospects Against MSFT & CRM",
+        "url": "https://www.zacks.com/stock/news/2981296/agentic-ai-adoption-boosts-now-s-growth-prospects-against-msft-crm?cid=CS-ZC-FT-analyst_blog|quick_take-2981296",
+        "source": "Zacks Investment Research",
+        "published_at": "2026-08-27T16:04:00Z",
+        "image": "https://staticx-tuner.zacks.com/images/articles/main/95/133950.webp",
+        "description": "ServiceNow's AI annual contract value surpassed $1 billion in Q2 2026 with net new AI ACV growing over 40% sequentially, driven by rapid agentic AI adoption and new AI-native pricing models. However, the company faces intensifying competition from Microsoft and Salesforce, which are aggressively expanding their own AI agent offerings and monetization strategies."
+      }
+    ],
+    "CRWD": [],
+    "VEEV": [
+      {
+        "headline": "Veeva Systems Q2 Earnings and Revenues Beat Estimates, Stock Up",
+        "url": "https://www.zacks.com/stock/news/2981162/veeva-systems-q2-earnings-and-revenues-beat-estimates-stock-up?cid=CS-ZC-FT-analyst_blog|earnings_article-2981162",
+        "source": "Zacks Investment Research",
+        "published_at": "2026-08-27T15:31:00Z",
+        "image": "https://staticx-tuner.zacks.com/images/articles/main/d8/160841.webp",
+        "description": "Veeva Systems (VEEV) reported Q2 fiscal 2027 adjusted EPS of $2.35, up 18.1% YoY and beating consensus by 5.9%, with revenues rising 17.6% to $928 million. The company raised its fiscal 2027 revenue guidance to $3.682-$3.687 billion and EPS to $9.21. Vault CRM momentum continued with over 180 customers live including five top 20 biopharmas, while the company advanced its AI strategy with Veeva Falcon."
+      }
+    ],
+    "PURR": [],
+    "ASST": []
+  }
+}
