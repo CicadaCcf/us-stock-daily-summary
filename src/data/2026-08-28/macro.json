@@ -1,0 +1,284 @@
+{
+  "topics": [
+    {
+      "id": "fed-speakers-aug26",
+      "topic": "美联储官员表态",
+      "topic_tag": "fed",
+      "title": "Goolsbee/Collins/Hammack 表态分化",
+      "summary": "多位联储官员表态口径分化：Goolsbee 认为3%利率+2%通胀是可预期路径，Collins 认为利率略偏紧但正在抑制经济，Hammack 偏鹰、主张维持限制性以拉回通胀。",
+      "bullets": [
+        {
+          "actor": "Goolsbee",
+          "actor_type": "Central-Bank",
+          "text": "认为3%利率+2%通胀是未来大致方向",
+          "details": "Goolsbee：虽然政策制定者必须密切关注关税和其他价格冲击是否会持续存在，但最新数据显示情况并不\"糟糕\"，大致认为3%的利率加上2%的通胀率大概就是未来的发展方向。",
+          "important": true
+        },
+        {
+          "actor": "Collins",
+          "actor_type": "Central-Bank",
+          "text": "认为利率略偏紧，正在抑制小企业和地产",
+          "details": "Collins：仍然认为利率略微偏低，但目前的政策设置正在抑制美国经济，利率会抑制小型企业和房地产市场的发展，并有助于减缓通货膨胀；最新的通胀数据喜忧参半，总体通胀数据高于预期，但实际通胀指标与预期更为一致。",
+          "important": false
+        },
+        {
+          "actor": "Hammack",
+          "actor_type": "Central-Bank",
+          "text": "偏鹰：应维持限制性政策以压回通胀",
+          "details": "Hammack：为了帮助通胀回落到目标水平，采取一些限制措施是合适的，因为通胀持续高于目标水平的时间越长，就越难将其降下来。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-28",
+      "image_urls": []
+    },
+    {
+      "id": "iran-hormuz-aug26",
+      "topic": "美伊/霍尔木兹",
+      "topic_tag": "geo",
+      "title": "Trump 宣示霍尔木兹已开放，Bessent 制裁 60 实体",
+      "summary": "Trump 称美国在\"霍尔木兹之战\"取得优势、伊朗回应\"非常温和\"、海峡已开放；Bessent 披露过去14天有130Mb石油输出，OFAC 制裁约60个个人/实体/公司及6艘油气油轮涉伊朗关联。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "宣布霍尔木兹海峡已开放，美国占优",
+          "details": "Trump：霍尔木兹海峡已开放，美国在\"霍尔木兹之战\"中取得优势，伊朗的回应\"非常温和/轻微\"，伊朗人害怕美方打击，\"不希望我们回去再打他们，这才是要害\"。",
+          "important": true
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "OFAC制裁约60实体+6艘涉伊朗油轮",
+          "details": "Bessent：过去14天内共有130Mb石油被输送到国外市场；OFAC制裁约60个个人/实体/公司，外加6艘油气油轮，指控其与伊朗政权有关联。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-08-28",
+      "image_urls": []
+    },
+    {
+      "id": "treasury-fed-boundary-aug26",
+      "topic": "财政部/联储职权边界",
+      "topic_tag": "policy",
+      "title": "Miran 论关税收入与久期，Warsh 遭前顾问批评",
+      "summary": "Nick 报道政策转向引发对Warsh的批评，前联储顾问称在 Jackson Hole 前夕做此事\"打脸\"；Miran 认为净关税收入回流将显著影响长端、当下不 term out 是合适政策。",
+      "bullets": [
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "前联储顾问：Warsh 在JH前夕遭打脸",
+          "details": "Nick：债务管理向来是财政部的职权；用政策去塑造长期利率与广义信用条件，向来是Fed的。一位前联储顾问称，这个政策转向\"对Warsh是实打实的麻烦\"；\"选在Jackson Hole前夕做，说轻了是欠考虑，说重了是打脸\"。",
+          "important": true
+        },
+        {
+          "actor": "Miran",
+          "actor_type": "US-Executive",
+          "text": "净关税收入回流将显著影响长端",
+          "details": "Miran：净关税收入的回流会对长端产生重大影响；在当前时点，不做 term out（不拉长发行久期）是合适的政策。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-28",
+      "image_urls": [
+        "/uploads/2026-08-28/8553334fb557.png"
+      ]
+    },
+    {
+      "id": "buyside-news-aug26",
+      "topic": "买方与新闻",
+      "topic_tag": "rates",
+      "title": "PIMCO看多债券入场，JPM/Apollo施压Warsh",
+      "summary": "PIMCO 认为 AI 资本开支债务融资令固收\"消化不良\"、但当前收益率为长期投资者提供绝佳入场时机；JPM/Apollo 等敦促 Warsh 强硬抗通胀；WSJ 报道 Trump 大金主 CEO 担忧中期选举后被国会传唤；卡塔尔能源本周售出至少 7Mb 原油。",
+      "bullets": [
+        {
+          "actor": "PIMCO",
+          "actor_type": "Corporate",
+          "text": "AI债务融资令固收消化不良，但入场时机绝佳",
+          "details": "PIMCO：用于人工智能相关资本支出的大量债务融资正在导致固定收益市场出现\"消化不良\"的现象，同时推高了债券收益率。不过，这种状况从长期来看应该能为投资者带来不错的回报。目前的债券收益率为长期投资者提供了\"绝佳的入场时机\"。",
+          "important": true
+        },
+        {
+          "actor": "JPM/Apollo等",
+          "actor_type": "Corporate",
+          "text": "众多投资者敦促Warsh对高通胀强硬",
+          "details": "JPM、Apollo 等众多投资者敦促 Warsh 对高通胀采取强硬措施，以提振美国国债市场的长期走势。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "Trump金主CEO担忧中期后被国会传唤",
+          "details": "WSJ 报道很多给 Trump 巨额捐款、保持密切联系的公司，管理层担心共和党在中期选举丢掉众议院多数席位，明年会被国会调查、CEO 会接到传票必须作证。",
+          "important": false
+        },
+        {
+          "actor": "卡塔尔能源",
+          "actor_type": "Corporate",
+          "text": "本周招标售出至少7Mb原油，10月装运",
+          "details": "卡塔尔能源公司本周通过招标方式，至少售出了 7Mb 各种品级的卡塔尔原油，这些原油将于 10 月装运。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-08-28",
+      "image_urls": []
+    },
+    {
+      "id": "kol-views-aug26",
+      "topic": "KOL 观点",
+      "topic_tag": "macro-other",
+      "title": "KOL 聚焦 Warsh/JH、AI 资本开支与移民",
+      "summary": "多位 KOL 围绕 Warsh 领导力与 Jackson Hole 发言、AI hyperscaler 折旧压力、以及移民政策对失业率的影响发表看法。",
+      "bullets": [
+        {
+          "actor": "PeterBerezinBCA",
+          "actor_type": "KOL",
+          "text": "Hyperscaler折旧2030年前将破5000亿美元",
+          "details": "PeterBerezinBCA：hyperscaler 折旧费用 2030 年前将跳到 500B 以上，相当于五家公司 2026 年全部预期营业利润，只能寄希望于 EBITDA 利润率会飙升。",
+          "important": true
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "批评 Kevin Warsh 提议改通胀指标暴露能力不足",
+          "details": "Joseph：Kevin 要想降低利率，最好的做法就是重申美联储将致力于让 PCE 通胀率达到 2% 的目标。他在上次会议中提议修改通胀指标，这一做法令人震惊，也暴露出他能力不足。Kevin 因在全球金融危机期间及之后仍坚持强硬的货币政策而臭名昭著，显然是个判断力欠佳的人。",
+          "important": false
+        },
+        {
+          "actor": "TraderBillyAU",
+          "actor_type": "KOL",
+          "text": "市场厌倦猜测JH是否会讲清降息条件",
+          "details": "TraderBillyAU：Jackson Hole 说到底就是 Warsh 会不会终于讲清什么才会让他动利率，市场已经有点厌倦猜测。",
+          "important": false
+        },
+        {
+          "actor": "Claudia Sahm",
+          "actor_type": "KOL",
+          "text": "Warsh是想法型不是细节型，政策看细节",
+          "details": "Claudia Sahm：Warsh 是想法型的人……他不是细节型的人。而政策取决于细节。",
+          "important": false
+        },
+        {
+          "actor": "Swonk",
+          "actor_type": "KOL",
+          "text": "圣路易斯联储：关税传导完但服务通胀仍热",
+          "details": "Swonk：圣路易斯联储发现关税初始效应大体已传导完毕、但通胀仍太热且服务残余通胀更偏需求驱动、自己偏向鹰派。",
+          "important": false
+        },
+        {
+          "actor": "EconstratPB",
+          "actor_type": "KOL",
+          "text": "移民政策将令U3跌破4%",
+          "details": "EconstratPB：由于移民政策，U3 的表现肯定会跌穿 4% 的目标。",
+          "important": false
+        },
+        {
+          "actor": "Bob",
+          "actor_type": "KOL",
+          "text": "实体公司生产率提升不足以证成AI支出",
+          "details": "Bob：如果实体经济公司真的看到了巨大的生产率提升，资本从来不是问题；问题是他们看到的提升，远不足以证成未来预期的那种 AI 支出规模。",
+          "important": false
+        },
+        {
+          "actor": "mtkonczal",
+          "actor_type": "KOL",
+          "text": "Opus 5对多数办公向AI需求可能过头",
+          "details": "mtkonczal：觉得\"Opus 5 的水平对多数职业办公向命令行 AI 的需求来说过头了(too much)\"可能是真事；自己做中等复杂度的经济数据挖掘。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MSFT",
+        "GOOGL",
+        "META",
+        "AMZN",
+        "ORCL"
+      ],
+      "image_indexes": [
+        1,
+        3
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-28",
+      "image_urls": [
+        "/uploads/2026-08-28/6467fc7ff1a1.png",
+        "/uploads/2026-08-28/a7398ea7f976.png"
+      ]
+    },
+    {
+      "id": "sellside-views-aug26",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "GS/JPM/DB/Citi/MS 观点合集",
+      "summary": "GS 修正波斯湾出口约 15-16mb/d 仍低于战前 7-8mb/d，看好欧洲天然气与成品油上行；JPM 认为 Warsh JH 演讲波动性有限；DB 认为美国租金通胀下行风险缓解；Citi 认为收益率上行主因实际利率；MS 看好三星电子/SK 海力士。",
+      "bullets": [
+        {
+          "actor": "GS Oil",
+          "actor_type": "Analyst",
+          "text": "波斯湾出口约15-16mb/d，仍低战前7-8mb/d",
+          "details": "GS Oil：受\"暗船\"运输及船对船转移增多影响，波斯湾实际石油出口数据被显著低估。高盛通过 Kpler 数据修正与原油平衡表两套方法测算，近期波斯湾总石油出口量约为 15-16mb/d，虽较 3 月低点回升 5-6mb/d，但仍比战前低 7-8mb/d。航运运费暴涨显示市场已在定价长期中断风险，但高盛认为若中东局势持续扰动，欧洲天然气和特定成品油的上行潜力将显著大于原油本身。",
+          "important": true
+        },
+        {
+          "actor": "JPM Fed",
+          "actor_type": "Analyst",
+          "text": "Warsh JH演讲引发大幅波动的可能性有限",
+          "details": "JPM Fed：美联储主席沃什在杰克逊霍尔会议的讲话引发大幅波动的可能性有限。因会议主题非短期政策，且无问答环节，加之市场头寸均衡，未现极端押注。5 年期美债收益率受压于 4.30% 阻力位，技术面呈看跌趋势，若突破失败或上行测试 4.48%-4.53%。",
+          "important": false
+        },
+        {
+          "actor": "DB Eco",
+          "actor_type": "Analyst",
+          "text": "美国租金通胀下行风险正在缓解",
+          "details": "DB Eco：美国租金通胀下行风险正在缓解。尽管公寓供应增加曾压低租金，但近期新租金动能自春季起回升。租金占核心 CPI 权重 43%，此前拖累核心通胀约 45bp。若改善持续，将消除 2027/28 年通胀关键下行风险，维持短期 CPI 观点不变。",
+          "important": false
+        },
+        {
+          "actor": "Citi Rates",
+          "actor_type": "Analyst",
+          "text": "美债收益率上升主因实际利率而非财政",
+          "details": "Citi Rates：报告认为美债收益率上升主因实际利率而非财政危机，受地缘政治及 AI 驱动增长影响。预计油价回落及劳动力市场软化。",
+          "important": false
+        },
+        {
+          "actor": "MS KR",
+          "actor_type": "Analyst",
+          "text": "看好三星/SK海力士普通股与滞后金融股",
+          "details": "MS KR：韩国企业改革进程曲折但持续，关键在于企业行动。维持对三星电子和 SK 海力士普通股的偏好，优于其代理股。看好滞后金融股（如新韩金融、DB 保险）及深度折价控股公司。预计 2026 年 KOSPI 派息比率将恢复，三星电子 3 季度股息约 30T 韩元。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-08-28",
+      "image_urls": [
+        "/uploads/2026-08-28/c0b1a255b65b.png"
+      ]
+    }
+  ]
+}
