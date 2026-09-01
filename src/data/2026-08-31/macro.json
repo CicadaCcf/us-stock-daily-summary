@@ -1,0 +1,589 @@
+{
+  "topics": [
+    {
+      "id": "warsh-jackson-hole-hawkish-2026-08-27",
+      "topic": "Warsh杰克逊霍尔鹰派讲话",
+      "topic_tag": "fed",
+      "title": "Warsh杰克逊霍尔首秀鹰派转向 9月加息概率跳升",
+      "summary": "新任Fed主席Warsh在杰克逊霍尔发表极鹰派讲话，重申2% PCE通胀目标不动摇、指出金融条件非限制性、54%的PCE分项通胀超3%。市场剧烈反应，2Y收益率跳升7bp、9月加息概率升至50-60%以上、美元走强、金价大跌。WSJ编委会与多方KOL/卖方对其真实意图（真鹰派 vs 控长端 vs 变色龙）出现明显分歧。",
+      "bullets": [
+        {
+          "actor": "Warsh",
+          "actor_type": "Central-Bank",
+          "text": "Warsh鹰派首秀：焦点应放在价格上",
+          "details": "Warsh在杰克逊霍尔首次以主席身份发表讲话，强调Fed当前的\"首要焦点应放在价格上\"，重申2% PCE通胀目标不动摇，指出现有金融条件非限制性。讲稿结论页前最后一句：\"我们必须对潜在通胀走向目标有信心，否则我们就有工作要做。\"",
+          "important": true
+        },
+        {
+          "actor": "Nick",
+          "actor_type": "新闻",
+          "text": "Nick：Warsh改变Fed默认惯例",
+          "details": "Nick Timiraos指出：Fed惯常做法是保持现有利率不变，除非有数据表明有必要上调利率。Warsh改变了这一惯例：现在，必须要有数据表明Fed没有理由在下个月采取行动。",
+          "important": false
+        },
+        {
+          "actor": "WSJ编委会",
+          "actor_type": "新闻",
+          "text": "WSJ编委会：应关注Warsh的Fed改革议程",
+          "details": "WSJ编辑委员会：Warsh在其上任的前100d内展现了清晰的鹰派立场，外界应停止纠结他是否\"太鸽派\"，而应将注意力转移到他正在大力推动的美联储运作方式和经济模型的改革议程上。",
+          "important": false
+        },
+        {
+          "actor": "Mark Sobel",
+          "actor_type": "Analyst",
+          "text": "Sobel：Warsh鹰派若不兑现将坐实Trump acolyte标签",
+          "details": "Mark Sobel：若Warsh说得鹰、抬高预期然后不兑现，是否开局就打光信用、坐实Trump acolyte标签、被市场惩罚?反过来，一次真加息会不会比按兵不动更能把长端压下来。",
+          "important": false
+        },
+        {
+          "actor": "Gundlach",
+          "actor_type": "Analyst",
+          "text": "Gundlach：Warsh谴责前瞻性指引却又变相使用",
+          "details": "Jeffrey Gundlach：chair谴责\"前瞻性指引\"的举动，会因为他在这次首次以主席身份发表的重要演讲中，实际上还是变相地使用了前瞻性指引而被人记住。",
+          "important": false
+        },
+        {
+          "actor": "Mark Minervini",
+          "actor_type": "KOL",
+          "text": "Minervini：下次会议加息概率约55%",
+          "details": "Mark Minervini：美联储似乎越来越有可能采取紧缩政策，未来可能会有一次或两次加息。下次会议加息的概率目前约为55%，而这一风险很可能已经体现在市场行情中了。更重要的问题是：Fed倾向于采取紧缩政策而非宽松政策。Don't Fight the Fed与Don't Fight the Tape正在打架。市场结构越来越碎片化，AI领军企业（尤其数据中心相关）开始遇到阻力，关于数据中心的负面政治言论不断增加，与此同时资金仍会流向规模最大最成熟的公司。",
+          "important": false
+        },
+        {
+          "actor": "LindaRaschke",
+          "actor_type": "KOL",
+          "text": "Raschke：Fed主席工作本质就是管理预期",
+          "details": "@LindaRaschke：如果你在金融市场中待得足够久，就会明白：Fed主席的大部分工作其实就是管理人们的预期。不过，从长远来看，口头表态其实毫无意义。",
+          "important": false
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "Joseph：Warsh几乎已承诺9月加息",
+          "details": "Joseph：Warsh在杰克逊霍尔央行年会上发表了极其鹰派的演讲，几乎等同于承诺了9月份的加息。从政治考量看，Fed若要加息，选择在9月远比拖延到临近11月中期选举的10月更为明智。如果他食言，就已经彻底破坏了未来的政策指引。股市尚未完全消化转向：短端利率市场和金价（周五大跌）均已对鹰派转向做出反应，但受制于当前较低的隐含波动率等机械性因素，股市投资者尚未充分重定价。劳工节后市场极可能迎来剧烈再定价与波动率飙升。",
+          "important": false
+        },
+        {
+          "actor": "El-Erian",
+          "actor_type": "Analyst",
+          "text": "Erian：9月概率60%太高，AI供给侧改善",
+          "details": "El-Erian：当日2s10s平约7bp、2s30s平约10bp，读作短端对通胀承诺的鹰派重定价+长端对Fed信用的背书；9月概率60%（Kalshi 49%）都太高，三个理由：市场化通胀预期锚定良好、AI带来供给侧改善理由需求侧担忧会消退、加息将砸在住房等本已挣扎的利率敏感部门。他还认为讲话中最核心且最应被重视的部分是Warsh探讨AI作为\"新生产要素\"对经济运行、货币政策和金融稳定的深远影响，标志着Fed正在摆脱\"被动回应数据\"的模式。",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "Andy：整体形势需要收紧但可暂时暂停",
+          "details": "Andy：整体形势需要收紧。他可以暂时暂停行动而不会因此失去信誉，更重要的是他强行让自己承受着越来越大的压力。下周的就业数据会令人失望，很有可能出现负增长的情况。",
+          "important": false
+        },
+        {
+          "actor": "Anna Wong",
+          "actor_type": "Analyst",
+          "text": "Anna Wong：Warsh像变色龙",
+          "details": "Anna Wong：Warsh的声音简直就像7月份FOMC会议上那三位持反对意见的成员一样，他既不是鹰派也不是鸽派，就像一只变色龙。",
+          "important": false
+        },
+        {
+          "actor": "mark_dow",
+          "actor_type": "KOL",
+          "text": "mark_dow：市场不会信Warsh抗通胀决心",
+          "details": "mark_dow：市场现在不会相信Warsh抗通胀的决心是真的，除非他做点什么。",
+          "important": false
+        },
+        {
+          "actor": "Warren Pies",
+          "actor_type": "Analyst",
+          "text": "Warren Pies：加息将是政策错误",
+          "details": "Warren Pies：Fed存在以下非共识：FOMC核心成员Waller、Williams、Powell掌控着局面，Warsh则在思考如何应对这一情况；30Y的收益率信号较弱（10Y才是关键指标）；Hiking will be a policy mistake。",
+          "important": false
+        },
+        {
+          "actor": "Robin Brooks",
+          "actor_type": "Analyst",
+          "text": "Robin Brooks：Warsh鹰派是为抑制长端上升",
+          "details": "Robin Brooks：关于AI如何推高长期利率的讨论很多，但数据上并没有体现。21世纪初IT行业投资热潮表现为企业储蓄的减少，现在并没有类似情况，我们只是面临着巨大的财政赤字。Warsh昨天不得不采取强硬立场，这并非意味着9月份会加息，而是为了抑制长期利率上升。7月29日Warsh表现较为温和，此后长期利率大幅上涨。美国财政部和Fed的共同目标就是控制长期利率的水平。",
+          "important": false
+        },
+        {
+          "actor": "Alex",
+          "actor_type": "KOL",
+          "text": "Alex：Fed三条路径 基准年底加息25bp",
+          "details": "Alex：Fed只有三条路：1)年底加息25bps，明年年中后再不慌不忙降25bps（基准情形）；2)今年加2次（含即将召开的那次），然后很快降回来两次；3)政策利率长时间按住不动。会不会加息要看工资和财富效应能不能把需求续上，目前AI和非AI部门冰火两重天，劳动力市场和股市财富效应衰退值得警惕。Q3市场把财政/发债主导演绎的过于绝对，不健康。",
+          "important": false
+        },
+        {
+          "actor": "Ernie",
+          "actor_type": "Analyst",
+          "text": "Ernie：30Y上涨几乎全部来自期限溢价",
+          "details": "Ernie：30Y的上涨几乎全部来自期限溢价，市场不是突然认为\"未来短端政策利率会高一截\"，而是认为\"锁住30年国债要额外多收一笔风险补偿\"，本质原因是AI长期投资预期冲击下市场意识到30Y和短债不是一个东西。",
+          "important": false
+        },
+        {
+          "actor": "Ben Chabot",
+          "actor_type": "Analyst",
+          "text": "Ben Chabot：期限溢价驱动10Y抬升30-40bp",
+          "details": "Ben Chabot：2026年6月下旬起10Y大约抬升了30-40bps。拆解后几乎整段上涨都来自期限溢价，不是市场突然认为Fed会把政策利率路径抬得更高。财政和Warsh发布会失败都不足以解释（期权、隐含波动里对未来加息路径的恐慌其实还缓和了一点）。真实的组合很可能是AI相关投资需求很热，叠加\"外国人可能少买美债\"，但过去8周市场发债并没有异常放大，更本质的驱动是害怕未来会发很多债（赤字、AI基建以后要借的钱）以及传染式抛售/自我实现的利率螺旋。",
+          "important": false
+        },
+        {
+          "actor": "freearkshaw",
+          "actor_type": "KOL",
+          "text": "freearkshaw：Warsh嘴硬手软",
+          "details": "@freearkshaw：讲稿结论页前最后一句\"我们必须对潜在通胀走向目标有信心，否则我们就有工作要做\"不是说要采取行动让通胀到2%，是典型的嘴硬手软。",
+          "important": false
+        },
+        {
+          "actor": "SpecialSitsNews",
+          "actor_type": "KOL",
+          "text": "SpecialSitsNews：10月71%、12月90%定价荒谬",
+          "details": "@SpecialSitsNews：中期选举前加息不太可能，Trump会气疯但谁知道呢。10月71%、12月90%的定价荒谬。",
+          "important": false
+        },
+        {
+          "actor": "PmQuant",
+          "actor_type": "KOL",
+          "text": "PmQuant：Warsh想反向配重让分布对中",
+          "details": "@PmQuant：Warsh想要每次会议都live。FOMC整体偏鸽，他今天的目标可能是反向配重，把分布重新对中。",
+          "important": false
+        },
+        {
+          "actor": "aRishisays",
+          "actor_type": "KOL",
+          "text": "aRishisays：熊平讲话降低9月加息门槛",
+          "details": "@aRishisays：这是一篇熊平(bear flattener)讲话，实质性降低了9月加息门槛。",
+          "important": false
+        },
+        {
+          "actor": "ShanghaoJin",
+          "actor_type": "KOL",
+          "text": "ShanghaoJin：利率停不住AI 只会饿死AI周围一切",
+          "details": "ShanghaoJin：\"鹰派是为了控长端\"的说法不合理，有的是办法。所以只有两种解释：他是真信通胀理念的ideologue，或者他笃定弱数据将至、现在嘴硬不用付代价。AI是唯一的例外，因为它是唯一融资成本相对ROI可忽略的部门。像癌症一样，它在高收益率环境里把其他所有部门的资本挤出，利率停不住AI，只会饿死AI周围的一切。",
+          "important": false
+        },
+        {
+          "actor": "MacroMargin",
+          "actor_type": "KOL",
+          "text": "MacroMargin：鹰派稿是围魏救赵",
+          "details": "MacroMargin：这篇鹰派稿子是当下联储+财政部的最优解，估计Warsh找Bessent一起打磨过。本质是围魏救赵：牺牲短端，救长端。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        9
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "Bloomberg"
+      ],
+      "date": "2026-08-31",
+      "image_urls": [
+        "/uploads/2026-08-31/767fdc2ecd11.png",
+        "/uploads/2026-08-31/4cf7695670ce.png"
+      ]
+    },
+    {
+      "id": "sell-side-fed-views-2026-08-27",
+      "topic": "卖方对Fed路径判断",
+      "topic_tag": "fed",
+      "title": "卖方分裂：GS/Citi看不加 DB/Nomura偏鹰",
+      "summary": "Warsh鹰派讲话后卖方判断出现分裂。GS/JPM/Citi预计9月按兵不动，DB则明确预计9月加息25bp、全年加50bp；Nomura上调Q3 GDP至3.6%。JPM技术分析显示30Y美债现动量背离买入信号。",
+      "bullets": [
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "DB：预计9月加息25bp 10Y目标4.80%",
+          "details": "DB Fed：受Warsh鹰派讲话影响，预计9月加息25bp，全年累计加息50bp。维持看空美债观点，10年期美债收益率年底目标上调至4.80%。推荐SOFR互换利差做陡策略，目标-20bp。通胀下行风险减弱，租金通胀现反弹迹象。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS Hatzius：9月大概率维持利率不变",
+          "details": "GS Jan Hatzius：Warsh强调通胀高于2%目标，首要焦点仍是价格稳定。尽管经济强劲、就业稳定，但若8月CPI/PPI数据坚挺，9月加息仍有可能。市场反应剧烈，2年期美债收益率跳升7bp，9月加息概率升至50%以上。但GS预计核心通胀环比仅0.2%，维持原判断预计8月核心通胀mom约0.2%，因此Fed在9月会议上大概率将维持利率不变。",
+          "important": false
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "JPM Feroli：仍预计12月加息",
+          "details": "JPM Michael Feroli：Warsh鹰派信号，重申2% PCE通胀目标不动摇。他总结\"虽然今年夏天的PCE和CPI读数好于预期，但它们并未告诉我潜在趋势已出现有意义的改善\"，聚焦于涨幅超过3%的PCE分项占比（仍明显高于GFC前常态）。市场9月加息预期激增，JPM仍预计12月加息，但更早行动也非不合理。预计下周就业报告显示就业增加50K、失业率保持4.1%。如果通胀率维持在0.2%左右水平，Fed可能暂时按兵不动。",
+          "important": false
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "Citi：9月维持不变 维持做多20Y美债",
+          "details": "Citi Rates：Warsh虽鹰派但非9月加息信号，维持做多20年期美债策略。CPI分项数据显示通胀趋缓，且长端债券受养老金需求支撑，风险回报比优于前端。预测9月Fed维持利率不变。预计8月非农就业仅增20K，失业率升至4.2%，核心PCE因修订将下调30bp。Q3 GDP增速预计为1.8%，数据走弱不支持加息。",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "BofA：9月加息概率升至60%以上",
+          "details": "BofA Fed：Warsh明确2% PCE为固定通胀目标，立场显著鹰派。他指出54%的PCE分项通胀超3%，失业率降至4.1%，强调短期利率为主要工具。市场反应剧烈，9月加息概率升至60%以上，美债曲线趋平，美元对G10货币上涨0.2%-0.6%，风险资产反弹。",
+          "important": false
+        },
+        {
+          "actor": "JPM Rates Technical",
+          "actor_type": "Analyst",
+          "text": "JPM技术：30Y美债现动量背离买入信号",
+          "details": "JPM Rates Technical：美债长端空头现疲态，30年期美债周线触发动量背离买入信号。历史数据显示该信号预示未来三个月收益率大概率均值回归下行。2年期美债跌破4.25%支撑，或上探4.42%。5s/30s曲线趋平，陡峭化趋势终结。",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "Nomura：上调Q3 GDP至3.6% 通胀风险偏上",
+          "details": "Nomura：Warsh鹰派转向提升政策敏感度。预计8月非农增60K，失业率降至4.0%。资本支出加速推动Q3 GDP预测上调至3.6%。尽管预计政策暂按兵不动，但通胀风险偏向上行，核心PCE年底料为3.3%。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TLT",
+        "TBT"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "JPM",
+        "Citi",
+        "DB",
+        "BofA",
+        "Nomura"
+      ],
+      "date": "2026-08-31",
+      "image_urls": []
+    },
+    {
+      "id": "us-venezuela-oil-deal-2026-08-27",
+      "topic": "美委石油协议",
+      "topic_tag": "oil",
+      "title": "Trump宣布与委内瑞拉签百年石油租约",
+      "summary": "Trump宣布与委内瑞拉达成历史性石油协议，美国占55%成立合资公司，签订百年租约有权开采65B桶已知储备。Rubio和Hegseth共同参与谈判。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：与委内瑞拉达成历史性石油协议",
+          "details": "Trump：美国已经与委内瑞拉就石油问题达成了一项具有历史意义的协议，掌控超过65B桶的已探明石油储备，Rubio和Hegseth共同参与了这项协议的谈判。",
+          "important": true
+        },
+        {
+          "actor": "美国政府",
+          "actor_type": "US-Executive",
+          "text": "美委合资公司美方占55% 签百年租约",
+          "details": "美国政府与委内瑞拉最大私营石油企业组成合资公司，美国占55%，与委内瑞拉政府签一百年租约，有权开采已知储备中的65B桶；美国油企会向这家新成立的合资公司投资。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "XOM",
+        "CVX"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-31",
+      "image_urls": []
+    },
+    {
+      "id": "us-iran-hormuz-crisis-2026-08-27",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美国封锁伊朗港口 阿曼侧开辟新航道",
+      "summary": "美国海上封锁令伊朗最大港口拉贾伊码头停摆（81M吨/年），日石油短缺15-20M升，德黑兰美元黑市汇率超206,000托曼，通胀近70-90%。财政部承诺切断伊朗剩余全部经济联系，卫星图显示美军在霍尔木兹阿曼侧秘密疏浚新航道。俄情报显示克宫认为伊朗战争削弱美国。",
+      "bullets": [
+        {
+          "actor": "美军",
+          "actor_type": "US-Executive",
+          "text": "卫星图：美军在阿曼侧秘密开辟新航道",
+          "details": "最新的卫星图像显示，美国军方秘密进行了疏浚作业，旨在霍尔木兹海峡的阿曼一侧开辟一条前所未有的航道。",
+          "important": true
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "Bessent：财政部切断伊朗一切经济联系",
+          "details": "Bessent：财政部承诺要切断德黑兰所剩的一切经济联系，从而彻底消除伊朗政权的威胁，取消阿联酋的Banque Misr UAE与美国金融机构之间的代理银行业务关系。",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "伊朗拉贾伊码头停摆 石油日短缺15-20M升",
+          "details": "由于美国的海上封锁，伊朗的主要商业港口——阿巴斯港的拉贾伊码头完全处于停摆状态，这导致每年81M tonnes的货物运输能力被扼杀。此外，一名伊朗议员透露，该国每天石油短缺15–20 million litres。同时，美元在自由市场上的汇率超过了206,000 tomans，而年度通货膨胀率则接近70%-90%。",
+          "important": false
+        },
+        {
+          "actor": "国务院",
+          "actor_type": "US-Executive",
+          "text": "国务院允许中东使领馆人员及家属返岗",
+          "details": "国务院本周开始允许派驻中东使领馆的工作人员及其家属返回岗位。",
+          "important": false
+        },
+        {
+          "actor": "RTRS",
+          "actor_type": "新闻",
+          "text": "俄情报：克宫认为伊朗战争削弱美国",
+          "details": "RTRS报道最新的美国情报显示，克里姆林宫认为伊朗战争削弱了美国的实力，这为俄罗斯提供了进一步打击美国及其在欧洲的盟友的机会。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Reuters"
+      ],
+      "date": "2026-08-31",
+      "image_urls": []
+    },
+    {
+      "id": "gs-oil-refining-2026-08-27",
+      "topic": "全球炼油利润率",
+      "topic_tag": "oil",
+      "title": "GS上调2027柴油利润率至$63 高溢价或长期持续",
+      "summary": "受中东及俄罗斯炼油厂罢工影响，全球炼油产能受限，柴油和汽油利润率创历史新高。GS将2027年美国/欧洲柴油利润率预测上调至63/49美元/桶。全球成品油出口同比降6M b/d，其中波斯湾和俄罗斯占降幅75%。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS：2027年美欧柴油利润率上调至$63/$49",
+          "details": "GS Oil：受中东及俄罗斯炼油厂罢工影响，全球炼油产能受限，柴油和汽油利润率创历史新高。将2027年美国/欧洲柴油利润率预测上调至63/49美元/桶，高于市场远期水平。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS：全球成品油出口同比降6M b/d",
+          "details": "全球成品油出口量同比下降6M b/d（25%），其中波斯湾和俄罗斯占降幅的75%。全球炼油厂非计划停工率比季节性正常水平高出60%，导致全球炼油开工量同比下降7M b/d。尽管亚洲需求有所破坏，但长达六个月的低供应导致库存持续下降，美国柴油和汽油库存同比分别下降9%和7%，高溢价状态或将长期持续。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "VLO",
+        "MPC",
+        "PSX",
+        "XLE"
+      ],
+      "image_indexes": [
+        2
+      ],
+      "importance": 2,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-08-31",
+      "image_urls": [
+        "/uploads/2026-08-31/249fe4a4c84e.png"
+      ]
+    },
+    {
+      "id": "china-property-policy-2026-08-27",
+      "topic": "中国地产政策",
+      "topic_tag": "policy",
+      "title": "中国八项文件组合拳 拟取消预售制度延长房贷至40年",
+      "summary": "中国监管层发布八项文件组合拳，核心是拟逐步取消预售制度、优先推行现房销售、预售资金全额监管至竣工。政策包括将按揭贷款最长年限从30年延长至40年，并允许困难借款人延期还款。",
+      "bullets": [
+        {
+          "actor": "中国监管层",
+          "actor_type": "Foreign-Gov",
+          "text": "拟逐步取消预售 优先现房销售",
+          "details": "中国监管层发布八项文件组合拳，核心是拟逐步取消预售制度，优先推行现房销售，并要求预售资金全额监管至竣工，政策包括将按揭贷款最长年限从30年延长至40年，并允许困难借款人延期还款。",
+          "important": true
+        },
+        {
+          "actor": "MacroMargin",
+          "actor_type": "KOL",
+          "text": "MacroMargin：房贷延长至40年等同降首付加杠杆",
+          "details": "MacroMargin：房贷最长30年延到40年和降首付一样，让继续加杠杆。",
+          "important": false
+        },
+        {
+          "actor": "ChinaTaxTruth",
+          "actor_type": "KOL",
+          "text": "ChinaTaxTruth：新政基本没什么用",
+          "details": "ChinaTaxTruth：能吃到多出来十年的只有刚工作没首付的25岁年轻人，新政基本没什么卵用。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-08-31",
+      "image_urls": []
+    },
+    {
+      "id": "us-h1b-h4-2026-08-27",
+      "topic": "H-4签证工作授权",
+      "topic_tag": "policy",
+      "title": "国土安全部拟取消H-4配偶工作授权",
+      "summary": "国土安全部正在讨论取消H-1B工作签证持有者的配偶（H-4签证）在美合法工作的授权。",
+      "bullets": [
+        {
+          "actor": "国土安全部",
+          "actor_type": "US-Executive",
+          "text": "DHS拟取消H-4配偶工作授权",
+          "details": "国土安全部正在讨论取消H-1B工作签证持有者的配偶（H-4签证）在美合法工作的授权。",
+          "important": true
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "涉及H-1B配偶就业前景",
+          "details": "该政策讨论若落地将影响H-1B工作签证持有人配偶（H-4签证）在美合法工作能力，为科技行业外籍人才家庭带来不确定性。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-08-31",
+      "image_urls": []
+    },
+    {
+      "id": "ai-infra-openai-robots-2026-08-27",
+      "topic": "AI基建与OpenAI机器人",
+      "topic_tag": "ai",
+      "title": "Sam Altman：OpenAI计划自研类人机器人造机器人",
+      "summary": "Sam Altman表示OpenAI计划自行研发类人机器人，最初用途是用来制造更多机器人，进而用于建造未来的数据中心。MS数据显示AI相关债务发行8月中旬同比暴增519%。",
+      "bullets": [
+        {
+          "actor": "Sam Altman",
+          "actor_type": "Corporate",
+          "text": "Altman：OpenAI自研机器人造机器人建数据中心",
+          "details": "Sam Altman表示OpenAI计划自行研发类人机器人。这些机器人的最初用途可能是用来制造更多的机器人，进而用于建造未来的数据中心。",
+          "important": true
+        },
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "MS：AI相关债务发行YTD同比+519%",
+          "details": "Morgan Stanley Research：AI相关债务发行2026年1-8月月度发行额（8月截至8月19日MTD）显示，6月单月112亿为峰值，8月中旬41亿比7月中旬27高51.9%。累计YTD 2026年445亿 vs 2025年72亿，同比+519%。构成包括Hyperscalers（25亿）、Semiconductors、Secd Data Center Const.、REITs、SpaceX等。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MSFT",
+        "GOOGL",
+        "META",
+        "AMZN"
+      ],
+      "image_indexes": [
+        5
+      ],
+      "importance": 2,
+      "sources": [
+        "Morgan Stanley"
+      ],
+      "date": "2026-08-31",
+      "image_urls": [
+        "/uploads/2026-08-31/5757ad3532e9.png"
+      ]
+    },
+    {
+      "id": "other-markets-2026-08-27",
+      "topic": "其他市场信号",
+      "topic_tag": "macro-other",
+      "title": "波动率抬升/短仓拥挤/BTC隐性熊背离",
+      "summary": "多项市场结构信号汇总：单股与跨行业波动率Z分数上抬、S&P 500中位数个股空头仓位达3.2%历史高位、10Y滚动股债溢价、BTC $80,000形成隐性熊背离、金价多头形态在Warsh讲话前结束。",
+      "bullets": [
+        {
+          "actor": "Wellington/Daily Shot",
+          "actor_type": "新闻",
+          "text": "水面下波动率抬升：单股与跨行业Z分数上行",
+          "details": "The Daily Shot（Wellington Management）：股市波动率、单股波动率、跨行业波动率Z-score对比。数据自2017年，采用60日滚动指标。VIX仍低但单股和跨行业波动率Z分数明显上抬，显示水面下波动率正在上升。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS：S&P 500中位数股空头仓位达3.2%",
+          "details": "GS图表：S&P 500 short interest as % of market cap，中位数股票达3.2%（历史高位），90th百分位股票达8%。显示单股拥挤空头。",
+          "important": false
+        },
+        {
+          "actor": "Ned Davis Research",
+          "actor_type": "Analyst",
+          "text": "NDR：10Y滚动股债回报差 长期均值参照",
+          "details": "Ned Davis Research/Ted Seides：Rolling 10-Year Total Returns: Stocks vs Bonds，S&P 500减国债滚动10年回报差与长期均值对照，1880-2020数据。",
+          "important": false
+        },
+        {
+          "actor": "Ariston_Macro",
+          "actor_type": "KOL",
+          "text": "Ariston：黄金多头形态在Warsh前已结束",
+          "details": "@Ariston_Macro：黄金形态上的多头结束发生在Warsh发言之前。",
+          "important": false
+        },
+        {
+          "actor": "Rekt Capital",
+          "actor_type": "KOL",
+          "text": "Rekt：BTC $80,000阻力现隐性熊背离",
+          "details": "Rekt Capital：BTC在约$80,000的汇合阻力前出现隐性熊背离，月收盘是关键技术锚定点。",
+          "important": false
+        },
+        {
+          "actor": "NDR",
+          "actor_type": "Analyst",
+          "text": "NDR：NASDAQ 2026年周期综合走势",
+          "details": "NDR：NASDAQ Cycle Composites for 2026及4年总统周期综合走势。适用于Dow和S&P。",
+          "important": false
+        },
+        {
+          "actor": "BEA/JPM",
+          "actor_type": "Analyst",
+          "text": "JPM：PCE分项12m涨幅>3%占比仍偏高",
+          "details": "JPM/BEA图表：Share of PCE components with 12m change > 3%，加权与非加权比例，涵盖191个PCE子指数。当前占比仍显著高于GFC前常态水平。",
+          "important": false
+        },
+        {
+          "actor": "BLS",
+          "actor_type": "新闻",
+          "text": "过去12月Top 10涨价品类：燃料油+39.1%居首",
+          "details": "Top 10 Price-Inflating Categories (Past 12 Months, Ending July 2026)：Fuel Oil +39.1%、Airline Fares +25.5%、Gasoline +24.6%、Tobacco +6.7%、Motor Vehicle Maintenance +6.6%、Hospital Services +6.2%、Fruits & Vegetables +5.1%、Natural Gas +4.3%、Electricity +4.2%、Nonalcoholic Beverages +4.1%。",
+          "important": false
+        },
+        {
+          "actor": "Haver Analytics",
+          "actor_type": "Analyst",
+          "text": "美国部门储蓄投资余额：政府/企业赤字对比IT泡沫",
+          "details": "US saving-investment balance by sector, in % GDP (4qma)。Households、Corporates、Financials、Government、C/A deficit分部门储蓄vs借入。当前情形与IT泡沫时期企业储蓄减少不同，主要体现为政府巨额财政赤字。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "QQQ",
+        "GLD",
+        "IBIT"
+      ],
+      "image_indexes": [
+        0,
+        3,
+        4,
+        6,
+        7,
+        8
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-08-31",
+      "image_urls": [
+        "/uploads/2026-08-31/5410244b01a5.png",
+        "/uploads/2026-08-31/67cee50327be.png",
+        "/uploads/2026-08-31/dd4fa9a5f6a1.png",
+        "/uploads/2026-08-31/f715288d5ceb.png",
+        "/uploads/2026-08-31/5530827893b8.png",
+        "/uploads/2026-08-31/d76d40047e50.png"
+      ]
+    }
+  ]
+}
