@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-09-01T21:31:38+00:00",
+  "date": "2026-09-01",
+  "since": "2026-08-30T20:00:00+00:00",
+  "by_ticker": {
+    "FRVO": [
+      {
+        "headline": "Google Just Locked Up the Largest Geothermal Power Deal Ever Made.",
+        "url": "https://www.fool.com/investing/2026/09/01/google-just-locked-up-the-largest-geothermal-power-deal-ever-made/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-09-01T18:12:01Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ff3d3812d26dc2fa95285355d101b05bd52fe6715-5500x2976.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+        "description": "Fervo Energy signed a massive geothermal power deal with Google to supply 396 MW of electricity from its Cape Station project in Utah starting in 2028, with an option to expand to 1 GW by mid-2030. The agreement addresses the critical need for reliable, clean power to support AI data center expansion and validates Fervo's enhanced geothermal technology model."
+      },
+      {
+        "headline": "Fervo Energy Company (FRVO) Faces Investor Scrutiny Amid Post-IPO Transmission Curtailment Revelation – HBSS",
+        "url": "https://www.globenewswire.com/news-release/2026/09/01/3353759/32716/en/fervo-energy-company-frvo-faces-investor-scrutiny-amid-post-ipo-transmission-curtailment-revelation-hbss.html",
+        "source": "GlobeNewswire Inc.",
+        "published_at": "2026-09-01T00:00:00Z",
+        "image": "https://ml.globenewswire.com/Resource/Download/2c81cd72-0ffb-43c9-9d0f-b622c3e44e43",
+        "description": "Fervo Energy Company's stock plummeted 16% after revealing on its Q2 2026 earnings call that it expects temporary transmission infrastructure shutdowns affecting its Cape Station project, reducing 2027 revenue estimates to $60-80 million. Shareholders rights firm Hagens Berman has opened an investigation into whether Fervo adequately disclosed this curtailment risk in its IPO documents filed in May 2026."
+      }
+    ]
+  }
+}

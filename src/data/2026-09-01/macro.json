@@ -1,0 +1,338 @@
+{
+  "topics": [
+    {
+      "id": "trump-fed-warsh-rates",
+      "topic": "Trump/Fed政策",
+      "topic_tag": "fed",
+      "title": "Trump施压降息+Bessent淡化关税通胀 Warsh鹰派转向",
+      "summary": "Trump表态尊重Warsh、认为利率过高,Bessent将关税定性为供给冲击、不应影响货币政策,并要求BOJ加息。同时Warsh和Collins鹰派转向,市场9月加息定价升至60%。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump:很尊重Warsh,利率太高了",
+          "details": "Trump表示很尊重Warsh,他会做他必须做的事;认为我们的利率太高了。",
+          "important": true
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "Bessent:关税是供给冲击,不该加息",
+          "details": "Bessent称我们看到的是一次供给冲击,传统上你不会对着供给冲击加息,除非看到二阶、三阶效应;不考虑能源价格,核心通胀很克制,一般情况下供给冲击不影响货币政策。",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "Bessent批Druckenmiller做空债券巨亏,并喊话BOJ加息",
+          "details": "Bessent称Druckenmiller像Citadel Securities那样做空债券,结果损失了巨额资金;如果他还是从前的自己,那么他和Soros、Druckenmiller肯定会反对他现在在债券市场上的所作所为。并告诉BOJ他们需要提高利率。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "DB:Warsh/Collins鹰派转向,9月加息成基准",
+          "details": "DB Fed观察:近期美联储官员言论呈现明显鹰派转向。主席Warsh及波士顿联储主席Collins强调潜在通胀未明显改善,若缺乏持续去通胀证据,将迅速收紧政策。目前市场定价9月加息概率升至60%,12月二次加息概率为50%。只要数据无显著下行意外,9月加息成基准情景。",
+          "important": false
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "Citi:7月核心PCE环比0.25%,后续修订将下调30bp",
+          "details": "Citi Eco:7月美国核心PCE环比升0.25%,同比3.34%。因投资组合服务费异常激增,预计后续修订将使年化核心PCE下调30bp。花旗预测四季度核心PCE同比降至2.8%,低于市场预期,支持美联储9月维持利率不变。",
+          "important": false
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "JPM:10Y美债飙3.6bp至4.76%,创年内新高",
+          "details": "JPM Rates:受Trump威胁打击伊朗的地缘政治风险及Warsh鹰派言论影响,美债收益率曲线呈现熊陡。10年期美债收益率飙升3.6bp至4.76%,创2025年1月以来新高。预计制造业数据稳健,ISM指数或为55.0,但劳动力市场中期可能趋紧。",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "Andy:Warsh没承诺9月加息,但把自己框死了",
+          "details": "Andy:Warsh根本没承诺9月加息,说他承诺了的人幼稚且错误。但他把自己框进了'数据热就必须加'的角落,若9月CPI、PPI火热,弱就业救不了他,不加就彻底失去信用。",
+          "important": false
+        },
+        {
+          "actor": "Steve Matthews",
+          "actor_type": "KOL",
+          "text": "Steve Matthews:9月加息数据依赖,非板上钉钉",
+          "details": "Steve Matthews:9月加息是数据依赖的,绝不是板上钉钉。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "JPM",
+        "DB",
+        "Citi"
+      ],
+      "date": "2026-09-01",
+      "image_urls": [
+        "/uploads/2026-09-01/b84473cda98c.png"
+      ]
+    },
+    {
+      "id": "venezuela-oil-deal",
+      "topic": "美委原油协议",
+      "topic_tag": "oil",
+      "title": "白宫公布委内瑞拉独家原油协议细节",
+      "summary": "白宫披露与委内瑞拉原油协议:美方免费获得委第二大原油巨头NABEP母公司35%股权,按成本价获取20%产量,并有80%产量优先购买权及董事会一票否决权。",
+      "bullets": [
+        {
+          "actor": "白宫",
+          "actor_type": "US-Executive",
+          "text": "美国免费获NABEP母公司35%股权+20%产量成本价",
+          "details": "白宫公布与委内瑞拉独家原油协议内容:美国政府免费获得委内瑞拉第二大原油巨头NABEP母公司35%的股份;美国按开采成本价获取现在及以后全部产量的20%,剩下80%产量有优先购买权;美国拥有该公司董事会一票否决权,董事会过半必须是美国人。",
+          "important": true
+        },
+        {
+          "actor": "白宫",
+          "actor_type": "US-Executive",
+          "text": "计划投资最多$100B扩产,委方25年获约$200B收入",
+          "details": "该公司计划往委内瑞拉油田设施投资最多$100B提高产能;协议的头25年内,委内瑞拉能从特许权使用费和税收拿到约$200B收入。",
+          "important": false
+        },
+        {
+          "actor": "@CRUDEOIL231",
+          "actor_type": "KOL",
+          "text": "KOL:委超重质油回填SPR物理上不可行",
+          "details": "@CRUDEOIL231:用委内瑞拉超重质油回填SPR是彻底的non-starter,物理上不可行,规格不一致。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-01",
+      "image_urls": []
+    },
+    {
+      "id": "korea-fiscal-ai",
+      "topic": "韩国财政/AI",
+      "topic_tag": "policy",
+      "title": "韩国公布史上最激进财政计划 押注AI科技",
+      "summary": "韩国公布2027年政府总支出821T韩元(约$596.92B),同比增12.8%创历史最大年增,拟发行接近历史纪录的$162.7B债券以支持AI竞争。",
+      "bullets": [
+        {
+          "actor": "韩国政府",
+          "actor_type": "Foreign-Gov",
+          "text": "韩国2027财政支出$596.92B,同比+12.8%创纪录",
+          "details": "韩国公布了有史以来最激进的财政支出计划:2027年的政府总支出将达到821T韩元(约合$596.92B)。此举旨在帮助韩国在全球人工智能竞争中的科技优势。与2026年相比,这一支出计划增长了12.8%,是历史上最大的年度增长幅度。",
+          "important": true
+        },
+        {
+          "actor": "韩国政府",
+          "actor_type": "Foreign-Gov",
+          "text": "拟2027年发行$162.7B债券,接近历史纪录",
+          "details": "韩国计划在2027年发行规模接近历史纪录的$162.7B债券。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-01",
+      "image_urls": []
+    },
+    {
+      "id": "iran-hormuz-strike",
+      "topic": "美伊/霍尔木兹",
+      "topic_tag": "geo",
+      "title": "美空袭伊朗火箭发射装置 或涉水雷投放",
+      "summary": "NYT报道美军周一夜空袭伊朗两处火箭发射装置,可能用于投放小型水雷,暗示伊朗有新手段在霍尔木兹海峡制造混乱。中东供油相对稳定,但已较战前-10mln bbl/d。",
+      "bullets": [
+        {
+          "actor": "NYT",
+          "actor_type": "新闻",
+          "text": "美军空袭伊朗两处火箭发射装置",
+          "details": "NYT报道周一夜间,美国对伊朗发动了空袭,袭击目标是两处伊朗的火箭发射装置。军方称,这些装置可能用于发射小型水雷。不过,这种通过火箭将水雷投放到水中的武器相当罕见。这可能意味着伊朗又找到了一种在霍尔木兹海峡制造混乱的手段。",
+          "important": true
+        },
+        {
+          "actor": "Bob",
+          "actor_type": "KOL",
+          "text": "Bob:中东供油稳定,但较伊朗战前-10mln bbl/d",
+          "details": "Bob:尽管噪音大,石油供给其实相当稳定,中东供给较伊朗战争前的发运水平约-10mln bbl/d。",
+          "important": false
+        },
+        {
+          "actor": "GS CEO",
+          "actor_type": "Corporate",
+          "text": "GS CEO:主要不稳定因素是中东局势",
+          "details": "GS CEO:借贷、信贷市场目前没有太多风险,高盛在密切关注,现阶段不是特别担心;生产力有大幅提高,但发展不是一条直线;主要不稳定因素是中东局势。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        6
+      ],
+      "importance": 3,
+      "sources": [
+        "NYT"
+      ],
+      "date": "2026-09-01",
+      "image_urls": [
+        "/uploads/2026-09-01/d6b7e48b1a5e.png"
+      ]
+    },
+    {
+      "id": "russia-ukraine-odesa",
+      "topic": "俄乌/欧洲防务",
+      "topic_tag": "geo",
+      "title": "俄袭乌敖德萨港口 Hegseth裁欧洲无人机部队",
+      "summary": "乌克兰称俄夜袭敖德萨港口设施和罗马尼亚边境通道;WSJ独家:Hegseth下令逐步裁撤欧洲新建的无人机部队。",
+      "bullets": [
+        {
+          "actor": "乌克兰官员",
+          "actor_type": "Foreign-Gov",
+          "text": "俄夜袭乌敖德萨港口及罗马尼亚边境通道",
+          "details": "乌克兰官员周二表示,俄罗斯在夜间袭击了乌克兰位于黑海南部的敖德萨地区的港口设施以及与罗马尼亚的边境通道。",
+          "important": false
+        },
+        {
+          "actor": "Hegseth",
+          "actor_type": "US-Executive",
+          "text": "WSJ:Hegseth下令裁撤欧洲新建无人机部队",
+          "details": "WSJ独家:Hegseth下令逐步裁撤欧洲新建的无人机部队(原本任务是消化乌克兰战争经验)。",
+          "important": true
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-09-01",
+      "image_urls": []
+    },
+    {
+      "id": "ai-financing-circular",
+      "topic": "AI融资/就业",
+      "topic_tag": "ai",
+      "title": "SoftBank$10-20B债券再融资 Anthropic-Lambda-NVDA循环融资",
+      "summary": "SoftBank洽谈发行$10-20B债券为OpenAI过桥贷款再融资;Anthropic与Lambda签$35B云协议,NVIDIA同时是Anthropic股东、Lambda金主、芯片供应商和租约担保方,循环融资新样本。",
+      "bullets": [
+        {
+          "actor": "First Squawk",
+          "actor_type": "KOL",
+          "text": "Anthropic与Lambda签$35B云协议,NVDA全链条兜底",
+          "details": "First Squawk:NVIDIA持有少数股权的Anthropic,与NVIDIA注资的Lambda签$35B云协议,芯片由NVIDIA供应,租约由NVIDIA担保兜底,循环融资新样本。",
+          "important": true
+        },
+        {
+          "actor": "SoftBank",
+          "actor_type": "Corporate",
+          "text": "SoftBank洽谈发$10-20B债券,为OpenAI $40B过桥再融资",
+          "details": "SoftBank洽谈发行$10-20B债券,为年初投资OpenAI借的$40B过桥贷款再融资。",
+          "important": false
+        },
+        {
+          "actor": "Ernie Tedeschi",
+          "actor_type": "KOL",
+          "text": "Ernie:软件业实际工资近3年+10%,仍未破2015前高",
+          "details": "Ernie Tedeschi:AI经济影响仍早的另一证据:软件业非管理岗实际工资近3年涨10%,但(还)没突破约2015年的前高,涨势也(还)不如90年代末陡。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-01",
+      "image_urls": []
+    },
+    {
+      "id": "rates-supply-pension",
+      "topic": "利率供给/仓位",
+      "topic_tag": "rates",
+      "title": "8月refunding+养老金buy 30Y 月末selloff偏大",
+      "summary": "8月是refunding月,新10Y/20Y/30Y供给;养老金资金充足率20多年新高,主动卖股买30Y做匹配。EconstratPB解读Bessent:摆脱债务只能靠增长。",
+      "bullets": [
+        {
+          "actor": "@Fullcarry",
+          "actor_type": "KOL",
+          "text": "8月refunding新债供给,久期selloff偏大启动早",
+          "details": "@Fullcarry:8月是refunding月,有全新的10y、20y、30y,所以今天4点的久期selloff偏大。月末selloff历来是为9月初公司债供给洪峰做铺垫的好时机,抢跑的凶猛程度不意外,只是启动比预期早了些。",
+          "important": true
+        },
+        {
+          "actor": "Danny",
+          "actor_type": "KOL",
+          "text": "Danny:养老金资金充足率20多年新高,卖股买30Y",
+          "details": "Danny:养老金的资金充足率(funding rate)创20多年新高。这意味着他们在主动卖股票、买30y债做匹配。",
+          "important": false
+        },
+        {
+          "actor": "EconstratPB",
+          "actor_type": "KOL",
+          "text": "EconstratPB:Bessent暗示唯一出路是'grow our way out'",
+          "details": "EconstratPB:Bessent的讲话说明摆脱债务的唯一办法是增长出去(grow our way out)。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2,
+        3
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-01",
+      "image_urls": [
+        "/uploads/2026-09-01/ccb58262e024.png",
+        "/uploads/2026-09-01/820665327667.png"
+      ]
+    },
+    {
+      "id": "equity-positioning-cycle",
+      "topic": "股市季节性/仓位",
+      "topic_tag": "macro-other",
+      "title": "Minervini:8月中-10月初脆弱期 之后转好",
+      "summary": "Mark Minervini:标普周期组合(1年季节+4年总统+10年周期)指向8月中到10月初脆弱期,之后转好入年末。美国企业利润占GDP比重升至~18%历史高,员工薪酬占比降至~60%低位。",
+      "bullets": [
+        {
+          "actor": "Mark Minervini",
+          "actor_type": "KOL",
+          "text": "标普周期组合指向8月中-10月初脆弱期,之后转好",
+          "details": "Mark Minervini:周期组合(cycle composite)正进入年内最难的一段,标普周期组合(1年季节+4年总统+10年周期)指向8月中到10月初的脆弱期,之后转好入年末。",
+          "important": true
+        },
+        {
+          "actor": "FT",
+          "actor_type": "新闻",
+          "text": "美企利润占GDP升至~18%,员工薪酬占比降至~60%",
+          "details": "FT图表:美国企业利润(含库存估值调整和资本消耗调整)占国民收入比重从战后8-14%区间飙升至2025年约18%;员工薪酬占国民收入比重从1980年代初约68%高点降至2026年约60%。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        4,
+        5
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-09-01",
+      "image_urls": [
+        "/uploads/2026-09-01/ad052da73909.png",
+        "/uploads/2026-09-01/1b46e4e60df4.png",
+        "/uploads/2026-09-01/019dae7f27ba.png"
+      ]
+    }
+  ]
+}

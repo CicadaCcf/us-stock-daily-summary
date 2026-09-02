@@ -1,0 +1,77 @@
+{
+  "events": [
+    {
+      "tag": "AI芯片投资",
+      "tagCls": "hot",
+      "title": "英伟达以可转债形式向联发科投资35亿美元",
+      "body": "NVIDIA宣布通过可转债形式向台湾联发科投资35亿美元，为其在美国以外最大一笔直接投资。双方将合作为大型科技公司提供定制化AI芯片，联发科正式跻身顶级AI基础设施供应商行列，对Broadcom、Marvell等定制芯片对手构成竞争压力。",
+      "tickers": [
+        "NVDA",
+        "AVGO",
+        "MRVL"
+      ],
+      "date": "2026-09-01"
+    },
+    {
+      "tag": "CEO交接",
+      "tagCls": "hot",
+      "title": "苹果完成CEO交接 John Ternus接任并预告新iPhone",
+      "body": "苹果正式完成领导层交接，John Ternus接任CEO，Tim Cook转任执行董事长。Ternus在上任备忘录中预告下周将有\"非凡\"的新iPhone发布，并将AI列为未来工作的重中之重，市场关注新领导层的AI战略与产品创新节奏。",
+      "tickers": [
+        "AAPL",
+        "QCOM",
+        "GOOGL"
+      ],
+      "date": "2026-09-01"
+    },
+    {
+      "tag": "地热供电",
+      "tagCls": "hot",
+      "title": "Fervo与谷歌签下近400MW地热供电协议",
+      "body": "地热开发商Fervo Energy与Google达成协议，从犹他州Cape Station项目为其数据中心提供近400兆瓦全天候地热电力，Google另拥有追加600兆瓦产能的选择权。该协议是迄今全球最大的增强型地热购电协议，验证了该技术在满足AI数据中心巨量电力需求方面的商业可行性。",
+      "tickers": [
+        "GOOGL",
+        "ORA",
+        "NEE"
+      ],
+      "date": "2026-09-01"
+    },
+    {
+      "tag": "稳定币",
+      "tagCls": "",
+      "title": "高盛美银等21家金融机构拟联合发行美元稳定币",
+      "body": "高盛、美国银行、花旗、德意志银行等21家金融机构组建联盟，计划于2027年上半年合作发行一种与美元挂钩的稳定币，用于机构间结算与交易。这标志着华尔街主流金融机构加速布局数字资产基础设施，可能对Coinbase旗下USDC等现有稳定币生态形成竞争。",
+      "tickers": [
+        "GS",
+        "BAC",
+        "C",
+        "COIN"
+      ],
+      "date": "2026-09-01"
+    },
+    {
+      "tag": "AI模型迭代",
+      "tagCls": "",
+      "title": "Anthropic发布新版Claude 提升编程能力并降价",
+      "body": "Anthropic发布Claude 3.5 Sonnet更新版本（部分材料称Fable 5.1），在编程和科学任务处理上显著提升，并大幅下调重复处理数据的价格。此举意在通过性价比与OpenAI争夺企业客户，反映AI模型竞争正从单纯追求性能转向兼顾成本效益。",
+      "tickers": [
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+      ],
+      "date": "2026-09-01"
+    },
+    {
+      "tag": "SaaS融资",
+      "tagCls": "",
+      "title": "Salesforce领投HR SaaS公司HiBob 估值超32亿美元",
+      "body": "Salesforce领投人力资源软件公司HiBob超过1.6亿美元新一轮融资，HiBob估值突破32亿美元。HiBob专注中型企业HR管理平台，将用融资进行平台开发和业务扩张，反映垂直SaaS在AI时代仍受战略投资者青睐，直接挑战Workday、Oracle在HR软件领域的地位。",
+      "tickers": [
+        "CRM",
+        "WDAY",
+        "ORCL"
+      ],
+      "date": "2026-09-01"
+    }
+  ]
+}
