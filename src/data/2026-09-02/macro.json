@@ -1,0 +1,430 @@
+{
+  "topics": [
+    {
+      "id": "bessent-g20-china-iran-ai-sep02",
+      "topic": "Bessent发言",
+      "topic_tag": "policy",
+      "title": "Bessent：中国阻G20公报，美中在伊朗立场趋近，AI将带来通缩",
+      "summary": "美财长Bessent称中国阻止G20联合公报，反对涉及霍尔木兹海峡、主权债务可持续性及批评非市场经济体的措辞。他指出中国造成的全球失衡已是G7-plus共同问题；美中俄就伊朗低调私下沟通，中方同意海峡必须开放且伊朗不应拥核。Bessent还强调AI资本开支未来6个月开始显现生产率收益，中期将带来明显反通胀甚至通缩效应，但短期对美债不利。",
+      "bullets": [
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "中国阻止G20公报，反对霍尔木兹、主权债务、非市场经济体表述",
+          "details": "中国阻止了G20发表联合公报，中国反对的内容包括：霍尔木兹海峡相关表述；主权债务可持续性相关表述；对'非市场经济体'和非市场政策的批评。",
+          "important": true
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "全球贸易处于不可持续均衡，中国失衡是G7-plus问题",
+          "details": "当前国际贸易处于一种'不可持续的均衡'，非市场经济体依靠政策支持形成出口激增，不可持续；中国造成的全球失衡已经不仅是美国的问题，而是整个'G7-plus'的问题；存在过多且持续性外部盈余的国家应消除限制国内消费并导致过度依赖出口实现增长的扭曲因素。",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "美中俄就伊朗私下沟通，中方同意海峡必须开放",
+          "details": "美国还与中国、俄罗斯就伊朗进行了低调的私下沟通；美国和中国在伊朗问题上的共同点多于分歧；中国同意霍尔木兹海峡必须保持开放，也同意伊朗不应拥有核武器。",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "伊朗不控制海峡，美国控制；前日已运出约17M桶原油",
+          "details": "伊朗并不控制霍尔木兹海峡，'美国控制海峡'；前一日已有约 17M桶原油运出。伊朗目前在海上的原油只有约30M桶。",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "伊朗经济破产加速，人民币无法转美元使其缺国际支付能力",
+          "details": "伊朗经济破产进入加速阶段；人民币如果不能转换成美元，伊朗仍然得不到其真正需要的国际支付能力。",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "未来几天伊朗可能更多空袭，但已准备达成协议",
+          "details": "未来几天伊朗可能还会发动更多空袭；他们可能会采取更激烈的行动，但他们会做好达成协议的准备；未来将绕过霍尔木兹航线。",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "AI约6个月后见真实经济收益，中期带来通缩与降息力量",
+          "details": "必须确保AI带来的生产率收益能够较为广泛地分配，而不是只集中在资本和少数企业手中；未来大约六个月开始看到AI投资的真实经济收益；目前庞大的资本开支将逐步转化为生产率；AI支出最终会带来非常明显的反通胀、甚至通缩效应；AI投资短期可能对美债不利，中期则通过生产率提高转为明显的通缩和降息力量。",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "愿接受更强增长带来的高收益率，真正利率下行要等AI落地",
+          "details": "更强增长是解决其他经济和财政问题的重要前提；AI投资和企业融资短期仍会增加资金需求；他愿意接受一部分由更强增长造成的高收益率；真正的利率下行，需要等到AI资本开支转化为生产率和通缩。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-09-02",
+      "image_urls": []
+    },
+    {
+      "id": "china-tax-law-sep02",
+      "topic": "中国税收征管法",
+      "topic_tag": "policy",
+      "title": "李强主持国常会，原则通过税收征收管理法修订草案",
+      "summary": "李强主持国务院常务会议，讨论并原则通过《中华人民共和国税收征收管理法（修订草案）》，决定提请全国人大常委会审议，强调依法组织税收征管、规范税务执法行为。",
+      "bullets": [
+        {
+          "actor": "李强",
+          "actor_type": "Foreign-Gov",
+          "text": "国常会原则通过税收征管法修订草案，将提请人大审议",
+          "details": "李强主持召开国务院常务会议，会议讨论并原则通过《中华人民共和国税收征收管理法（修订草案）》，决定将草案提请全国人大常委会审议。会议指出，要依法组织税收征管，规范税务执法行为。",
+          "important": true
+        },
+        {
+          "actor": "国务院常务会议",
+          "actor_type": "Foreign-Gov",
+          "text": "强调规范税务执法行为",
+          "details": "会议指出，要依法组织税收征管，规范税务执法行为。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-09-02",
+      "image_urls": []
+    },
+    {
+      "id": "oil-war-fed-complication-sep02",
+      "topic": "油价与伊朗战争对Fed影响",
+      "topic_tag": "oil",
+      "title": "油价与伊朗战争复杂化Fed下一步，柴油创历史新高",
+      "summary": "12月Brent合约回到伊朗战争高点、柴油今日创历史新高；亚洲柴油裂解价差飙升，8月均值$64.71/bbl。多位KOL认为油价在当前位置下Fed难降息，Trump或考虑禁止美国成品油出口以压油价，同时Bogachan认为Trump在伊朗战争中已输且MoU只是推迟热战至中期选举。",
+      "bullets": [
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "油价此位置下没有任何CPI/PPI/NFP能拦住加息",
+          "details": "Warren Pies：油在这个位置，没有任何现实的CPI/PPI/NFP数字能拦住加息。",
+          "important": true
+        },
+        {
+          "actor": "Nick",
+          "actor_type": "KOL",
+          "text": "一场打不完的战争正在复杂化Fed的下一步",
+          "details": "Nick：一场打不完的战争，正在使Fed的下一步复杂化。",
+          "important": false
+        },
+        {
+          "actor": "Bob",
+          "actor_type": "KOL",
+          "text": "12月Brent回到伊朗战争高点，柴油今日创历史新高",
+          "details": "Bob：12月Brent合约回到伊朗战争高点，柴油今日创历史新高。",
+          "important": false
+        },
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "亚洲柴油裂解8月均$64.71/bbl，航煤裂解2026翻倍",
+          "details": "JH：亚洲柴油裂解价差在飙：8月均值 $64.71/bbl，2025年全年均值 $18.16。航煤裂解2026 YTD均值 $44.74，是2025年($17.32)的两倍多。",
+          "important": false
+        },
+        {
+          "actor": "Alexander Stahel",
+          "actor_type": "KOL",
+          "text": "Trump或考虑禁止美国成品油出口以压油价",
+          "details": "Alexander Stahel：Trump可能考虑禁止美国成品油出口。他必须做点什么压油价，又不会直接从战争里走开。这是唯一能打的牌。",
+          "important": false
+        },
+        {
+          "actor": "Bogachan",
+          "actor_type": "KOL",
+          "text": "Trump在4月8日弹药告急时已输掉伊朗战争，MoU仅推迟热战",
+          "details": "Bogachan：Trump在4月8日弹药告急恐慌时就已输掉伊朗战争，MoU只是把热战推迟到中期选举。",
+          "important": false
+        },
+        {
+          "actor": "Mark Dow",
+          "actor_type": "KOL",
+          "text": "真正的政策错误是Trump的Max Pump把通胀顶回3%以上",
+          "details": "Mark Dow：真正的政策错误是Trump的Max Pump：财政猛灌+货币施压，配上战争与保护主义，是这些把通胀从下行轨道顶回3以上；Fed可以做的有限。",
+          "important": false
+        },
+        {
+          "actor": "Jim Cramer",
+          "actor_type": "KOL",
+          "text": "Warsh入场+Trump停不了战+油股回升，看不到降息可能",
+          "details": "Jim Cramer：I don't see how rates can go down now that we see Warsh as a serious practitioner, the president unable to stop the war, the allies in the region depending almost entirely on us, and oil stocks headed back up quickly. Unholy developments.",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-09-02",
+      "image_urls": []
+    },
+    {
+      "id": "kol-buyside-views-sep02",
+      "topic": "买方/KOL观点",
+      "topic_tag": "macro-other",
+      "title": "买方与KOL：日本套息、通胀实际利差、ECB能源、AI变现周期",
+      "summary": "cissan_9984认为BOJ 0.9%放贷等于超有良心利差，日元套息本质是日本财富经BOJ加杠杆输送外资；fwred指出ECB承认HICP上行全部来自能源，需求端零贡献；Eric Wallerstein称1y1y通胀减实际利率之差为全年最紧；ShanghaoJin指出CSP企业AI变现周期需6-10个月。",
+      "bullets": [
+        {
+          "actor": "Eric Wallerstein",
+          "actor_type": "KOL",
+          "text": "1y1y通胀-实际利率差为全年最紧，比6月FOMC鹰派期还紧",
+          "details": "Eric Wallerstein：1y1y通胀减1y1y实际利率之差，现在是全年最紧，比6月FOMC后的鹰派反应期还紧。含义三选一：通胀预期太低、利率预期太高、或者战后中性利率确实抬高了。",
+          "important": true
+        },
+        {
+          "actor": "cissan_9984",
+          "actor_type": "KOL",
+          "text": "BOJ 0.9%放贷=超有良心利差，日本财富经加杠杆输送外资",
+          "details": "cissan_9984：大家对加息大惊小怪，但真正要紧的是实际利率=名义-通胀。2027财年通胀预期在高2%区间，日本银行以0.9%放贷等于白送利差，全球尺度上算超有良心。过去'0.9%借款梭哈美债稳赚'的策略，本质是日本人的财富经BOJ加杠杆输送给投资者与外资。",
+          "important": false
+        },
+        {
+          "actor": "fwred",
+          "actor_type": "KOL",
+          "text": "ECB博客承认HICP上行全部来自能源，需求端零贡献",
+          "details": "fwred：ECB博客承认HICP上行全部来自能源，需求端零贡献，supply not demand，支持迄今克制的政策响应。",
+          "important": false
+        },
+        {
+          "actor": "ShanghaoJin",
+          "actor_type": "KOL",
+          "text": "CSP企业AI从收到钱到把卡赚回来需6-10个月",
+          "details": "ShanghaoJin：CSP企业AI业务：从企业端实际收到钱、把卡赚回来的周期是 6-10个月(10个月已是最保守口径)。而且现在几家全在筛选客户，根本来不及赚钱。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-02",
+      "image_urls": [
+        "/uploads/2026-09-02/29d6d1b09191.png"
+      ]
+    },
+    {
+      "id": "gs-ai-adoption-sep02",
+      "topic": "GS AI采用",
+      "topic_tag": "ai",
+      "title": "GS：2026年8月美国企业AI采用率22.4%，信息行业近50%",
+      "summary": "高盛数据显示2026年8月美国企业AI采用率升至22.4%，预计未来半年将达25.9%，信息行业采用率近50%。全球半导体年收入预计2026年底达863B。AI推动生产力提升23%-32%，但导致部分岗位裁员，2026年至今累计113k受影响。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "美国企业AI采用率升至22.4%，未来半年将达25.9%",
+          "details": "GS：2026年8月美国企业AI采用率升至22.4%，预计未来半年将达25.9%。信息行业采用率近50%。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "全球半导体2026年底年收入预计达863B",
+          "details": "全球半导体年收入预计2026年底达863B。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "AI推动生产力+23%~32%，2026年至今累计113k岗位受影响",
+          "details": "AI推动生产力提升23%-32%，但导致部分岗位裁员，2026年至今累计113k受影响。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-09-02",
+      "image_urls": []
+    },
+    {
+      "id": "gs-eco-us-overheating-sep02",
+      "topic": "GS美经济过热评估",
+      "topic_tag": "macro-other",
+      "title": "GS Eco：美经济未见广泛过热，仅AI相关领域零星偏热",
+      "summary": "高盛经济组认为美国经济在2026年8月底并未出现宏观层面的广泛过热，劳动力市场、制造业和服务业多数指标处于历史中枢附近；偏热主要集中在AI基础设施建设及AI转型专业服务，不足以构成经济范围内的普遍性瓶颈。",
+      "bullets": [
+        {
+          "actor": "GS Eco",
+          "actor_type": "Analyst",
+          "text": "美经济未见广泛过热，AI相关领域零星偏热",
+          "details": "GS Eco：美国经济在2026年8月底并没有出现宏观层面的广泛过热。从劳动力市场、制造业和服务业三个层面拆解资源约束，发现无论是职位空缺与失业人口缺口、工资增速广度，还是制造业与服务业的产能利用率，大多都只处在历史中枢附近，而不是逼近全面紧绷状态。少数偏热领域主要集中在与AI基础设施建设相关的制造环节，以及帮助企业推进AI转型的专业服务活动，但这些压力仍不足以构成经济范围内的普遍性瓶颈。",
+          "important": true
+        },
+        {
+          "actor": "GS Eco",
+          "actor_type": "Analyst",
+          "text": "服务业替代性产能对价格有领先意义，但仅温和推力",
+          "details": "服务业替代性产能指标确实对价格压力有一定领先解释力，但当前只显示出温和的额外通胀推力。综合各项指标后结论是，美国经济存在零星过热点，但尚未形成会显著推升整体通胀的广泛性过热。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-09-02",
+      "image_urls": []
+    },
+    {
+      "id": "jpm-jolts-sep02",
+      "topic": "JPM就业分析",
+      "topic_tag": "macro-other",
+      "title": "JPM：7月JOLTS V/U升至1.05，工资减速或将结束",
+      "summary": "JPM经济组指出美国7月JOLTS数据显示职位空缺/失业比率（V/U）升至1.05，为2024年底以来最高。工资增速虽放缓至3.2%周期低点，但V/U比率上升预示工资减速即将结束；招聘率降至3.2%、辞职率降至1.9%，市场正逐步平衡。",
+      "bullets": [
+        {
+          "actor": "JPM Eco",
+          "actor_type": "Analyst",
+          "text": "7月V/U升至1.05为2024底以来最高，工资减速将结束",
+          "details": "JPM Eco：美国7月JOLTS数据显示职位空缺/失业比率（V/U）升至1.05，为2024年底以来最高。尽管工资增速放缓至3.2%的周期低点，但V/U比率上升预示工资减速即将结束。",
+          "important": true
+        },
+        {
+          "actor": "JPM Eco",
+          "actor_type": "Analyst",
+          "text": "招聘率降3.2%、辞职率降1.9%，劳动力流动趋缓",
+          "details": "同时，招聘率降至3.2%，辞职率降至1.9%，显示劳动力流动趋缓，市场正逐步平衡。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "JPM"
+      ],
+      "date": "2026-09-02",
+      "image_urls": []
+    },
+    {
+      "id": "global-cb-outlook-sep02",
+      "topic": "全球央行展望",
+      "topic_tag": "fed",
+      "title": "UBS/Barclays/Nomura：ECB 9月加息、BOJ 9月加息、美日收益率上行",
+      "summary": "UBS预测ECB 9月加息25bp至2.5%并结束紧缩，BOE长期持币下次动作为2027年降息，瑞士央行2026维持0%，瑞典央行首次加息提前至2026年12月。Barclays日本预计BOJ 9月加息已成定局至1.25%，随后1月和7月连续加息。Nomura指出美日收益率上升主因是美国终端利率预期上调而非供需恶化，美财政部敦促日本放弃再通胀政策，美元/日元跌至160.0-160.5。",
+      "bullets": [
+        {
+          "actor": "Barclays JP",
+          "actor_type": "Analyst",
+          "text": "BOJ 9月加息成定局至1.25%，随后1月和7月连续加息",
+          "details": "Barclay JP：日本央行9月加息已成定局，政策利率将升至1.25%。市场焦点转向后续节奏，预计9月、明年1月及7月将连续加息。行长植田和男强调需评估累计影响，平衡日元走弱与通胀压力。",
+          "important": true
+        },
+        {
+          "actor": "UBS EU",
+          "actor_type": "Analyst",
+          "text": "ECB 9月加息25bp至2.5%后结束紧缩，BOE 2027年降息",
+          "details": "UBS EU：预测ECB9月加息25bp至2.5%并结束紧缩，认为通胀二次效应风险有限。BOE预计长期持币，下次动作为2027年降息。瑞士央行2026年维持0%利率，瑞典央行首次加息提前至2026年12月。中东局势及能源价格为关键变量。",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "美日收益率上升主因美国终端利率预期上调，非供需恶化",
+          "details": "Nomura：美日收益率上升主因是美国终端利率预期上调，而非债券供需恶化。预计日本5年期/10年期国债收益率将分别升至2.5%/3.25%。美财政部敦促日本放弃再通胀政策以提振日元，美元/日元跌至160.0-160.5。全球风险资产承压，日本股市面临下行风险。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        4
+      ],
+      "importance": 3,
+      "sources": [
+        "UBS",
+        "Barclays",
+        "Nomura"
+      ],
+      "date": "2026-09-02",
+      "image_urls": [
+        "/uploads/2026-09-02/11fbd8d91489.png"
+      ]
+    },
+    {
+      "id": "misc-charts-sep02",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "9月债市发行、期权保护、季节性与半导体波动率",
+      "summary": "Bloomberg数据显示9月美债发行预测约$200B，或成为2026年第二繁忙月份，全年已有两个月超过$200B。Citadel数据显示SPX下行保护极为便宜，1M 25-delta skew接近一年最平、位于第1百分位；VIX收14.4为2026年12月以来第二低。半导体隐含波动率仅用20个交易日就吐还全部涨幅，30日后跌至46.0，较峰值下跌31.2 vol点或40%。季节性图显示中期选举年9月OpEx后至11月存在+4.6%的季节性上涨。",
+      "bullets": [
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "9月美债发行预测约$200B，或为2026年第二繁忙月份",
+          "details": "9月美债发行预测约$200B，2026年已有两个月（3月约$220B，1月约$200B）超过$200B门槛。",
+          "important": false
+        },
+        {
+          "actor": "Citadel Securities",
+          "actor_type": "Analyst",
+          "text": "SPX下行保护极便宜，1M 25-delta skew位于第1百分位",
+          "details": "SPX Put/Call Skew：1-Month 25-Delta Skew一年回看位于第1百分位，接近过去一年最平水平。周五1M 25-delta下行保护跌至2024年12月以来最便宜水平，VIX收14.4为2026年12月以来第二低。",
+          "important": true
+        },
+        {
+          "actor": "Citadel Securities",
+          "actor_type": "Analyst",
+          "text": "半导体隐含波动率30日吐还全部涨幅，跌至46.0",
+          "details": "Semiconductor Volatility：30 sessions after the peak, implied volatility sits at 46.0, down 31.2 vol points, or 40%, and already below where the run-up began. 仅用20个交易日就吐还全部涨幅。",
+          "important": false
+        },
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "美国期限溢价过去12个月横盘，长端利率反映Fed预期",
+          "details": "Apollo：The US term premium has moved sideways over the past 12 months, suggesting higher long rates reflect Fed expectations, not worries about fiscal sustainability or Fed credibility.",
+          "important": false
+        },
+        {
+          "actor": "季节性图",
+          "actor_type": "Analyst",
+          "text": "中期选举年9月OpEx后至11月存在+4.6%季节性上涨",
+          "details": "季节性图：All Years / Midterm 从9月OpEx（9月30日为低点）至中期选举日Midterm Election Day，中期选举年历史涨幅+4.6%，全年+4.0%。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        2,
+        3,
+        5
+      ],
+      "importance": 1,
+      "sources": [
+        "Bloomberg",
+        "Citadel Securities",
+        "Apollo"
+      ],
+      "date": "2026-09-02",
+      "image_urls": [
+        "/uploads/2026-09-02/1a3cea31e3f6.png",
+        "/uploads/2026-09-02/98cd8adb21fb.png",
+        "/uploads/2026-09-02/604ffed76cdb.png",
+        "/uploads/2026-09-02/887958230efb.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-09-02T21:31:29+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-09-02",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12529,
+    "partial_pass": 4,
+    "with_carryover": 5,
+    "after_full_check": 2
+  },
+  "rows": [
+    {
+      "tk": "DELL",
+      "nm": "Dell Technologies Inc.",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 15.8,
+      "w1": 6.1,
+      "market_cap_bn": 318.03,
+      "dollar_vol_bn": 17.95,
+      "w1_avg_dollar_vol_bn": 6.45,
+      "reason": "",
+      "main_business": "企业级PC、服务器及数据中心存储硬件供应商"
+    },
+    {
+      "tk": "FRVO",
+      "nm": "Fervo Energy Company Class A common stock",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": -9.0,
+      "w1": 16.5,
+      "market_cap_bn": 5.3,
+      "dollar_vol_bn": 0.35,
+      "w1_avg_dollar_vol_bn": 0.25,
+      "reason": "",
+      "main_business": "开发建设并运营地热能发电设施"
+    }
+  ]
+}

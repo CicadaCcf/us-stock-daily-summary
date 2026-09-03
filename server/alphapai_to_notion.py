@@ -39,7 +39,10 @@ NOTION_PAGE_ID = "350cd422-cbff-80b3-b74a-c7b81f80b9cc"  # "Daily Summary"
 NOTION_VERSION = "2022-06-28"
 
 ALPHAPAI_HOMEPAGE = "https://alphapai-web.rabyte.cn/reading/home/my-focus"
-GLOBAL_CARD_SELECTOR = ".blue-book-card.global"
+# The 蓝宝书 row on my-focus shows two cards — 国内 (晨会/晚间版) and 全球版.
+# We click the one labelled 全球版 (global edition). alphapai retired the old
+# `.blue-book-card.global` CSS class, so we locate it by text now.
+GLOBAL_CARD_TEXT = "全球版"
 
 
 # ---------- env / notion HTTP ----------
@@ -188,12 +191,19 @@ async def fetch_global_report() -> dict:
         preexisting = set(ctx.pages)
 
         async def on_response(resp):
-            if "report/detail/v2" in resp.url and "isUs=true" in resp.url:
+            # The report data API is `.../report/detail/v2`. alphapai dropped the
+            # old `isUs=true` query param, and several detail/v2 calls can fire —
+            # so capture only the one whose payload title is the 全球版 (global)
+            # edition, regardless of order.
+            if "report/detail/v2" in resp.url:
                 try:
-                    captured["body"] = await resp.text()
-                    captured["url"] = resp.url
+                    txt = await resp.text()
+                    title = ((json.loads(txt).get("data") or {}).get("title")) or ""
+                    if "全球版" in title:
+                        captured["body"] = txt
+                        captured["url"] = resp.url
                 except Exception as e:
-                    captured["err"] = str(e)
+                    captured.setdefault("err", str(e))
 
         ctx.on("response", lambda r: asyncio.create_task(on_response(r)))
 
@@ -205,7 +215,9 @@ async def fetch_global_report() -> dict:
             closed = await dismiss_blocking_modals(page)
             if closed:
                 print(f"  dismissed {closed} blocking modal(s) before card click")
-            await page.click(GLOBAL_CARD_SELECTOR, timeout=10000)
+            # alphapai's my-focus 蓝宝书 row no longer uses `.blue-book-card.global`
+            # — click the 全球版 (global edition) card by its label text instead.
+            await page.get_by_text(GLOBAL_CARD_TEXT).first.click(timeout=10000)
             for _ in range(30):
                 if "body" in captured:
                     break
