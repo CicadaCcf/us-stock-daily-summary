@@ -114,6 +114,18 @@ async def run(cdp_url: str, target_url: str, out_path: Path,
             print(f'[info] waiting {wait_seconds}s for canvas render')
             await asyncio.sleep(wait_seconds)
 
+            # Park the cursor in the top-left page corner (off the bubble
+            # canvas) BEFORE capturing. Finviz shows a tooltip that follows the
+            # mouse while it hovers a bubble; if the cursor happened to sit over
+            # the canvas, that tooltip got baked into the screenshot (seen
+            # 2026-09-02). Moving out fires mouseout so the tooltip clears; the
+            # short settle lets it disappear before we shoot.
+            try:
+                await page.mouse.move(0, 0)
+                await asyncio.sleep(0.4)
+            except Exception:
+                pass
+
             out_path.parent.mkdir(parents=True, exist_ok=True)
             # If the user wants just the map, try to locate the canvas and
             # screenshot that bounding box only.

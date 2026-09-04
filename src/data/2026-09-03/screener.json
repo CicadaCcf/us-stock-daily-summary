@@ -1,0 +1,87 @@
+{
+  "generated_at": "2026-09-03T21:31:40+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-09-03",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12495,
+    "partial_pass": 6,
+    "with_carryover": 8,
+    "after_full_check": 5
+  },
+  "rows": [
+    {
+      "tk": "MSTR",
+      "nm": "Strategy Inc Common Stock Class A",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 17.6,
+      "w1": 5.4,
+      "market_cap_bn": 57.53,
+      "dollar_vol_bn": 6.43,
+      "w1_avg_dollar_vol_bn": 3.65,
+      "reason": "",
+      "main_business": "比特币储备公司兼企业智能分析软件提供商"
+    },
+    {
+      "tk": "HOOD",
+      "nm": "Robinhood Markets, Inc. Class A Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 16.6,
+      "w1": 13.6,
+      "market_cap_bn": 112.13,
+      "dollar_vol_bn": 6.4,
+      "w1_avg_dollar_vol_bn": 2.79,
+      "reason": "",
+      "main_business": "面向零售客户的互联网证券经纪与金融服务平台"
+    },
+    {
+      "tk": "SNOW",
+      "nm": "Snowflake Inc.",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 16.6,
+      "w1": 8.3,
+      "market_cap_bn": 123.55,
+      "dollar_vol_bn": 7.77,
+      "w1_avg_dollar_vol_bn": 3.02,
+      "reason": "",
+      "main_business": "提供云原生数据仓库和数据湖平台，支持集中分析与治理"
+    },
+    {
+      "tk": "CRCL",
+      "nm": "Circle Internet Group, Inc.",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 16.5,
+      "w1": 9.5,
+      "market_cap_bn": 26.21,
+      "dollar_vol_bn": 2.53,
+      "w1_avg_dollar_vol_bn": 1.54,
+      "reason": "",
+      "main_business": "基于区块链的数字货币支付与金融科技平台"
+    },
+    {
+      "tk": "FRVO",
+      "nm": "Fervo Energy Company Class A common stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -4.6,
+      "w1": 7.5,
+      "market_cap_bn": 5.06,
+      "dollar_vol_bn": 0.15,
+      "w1_avg_dollar_vol_bn": 0.27,
+      "reason": "",
+      "main_business": "开发建设并运营地热能发电设施"
+    }
+  ]
+}
