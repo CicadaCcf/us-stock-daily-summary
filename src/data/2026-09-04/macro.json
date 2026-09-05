@@ -1,0 +1,470 @@
+{
+  "topics": [
+    {
+      "id": "vance-fed-pressure",
+      "topic": "白宫施压美联储",
+      "topic_tag": "fed",
+      "title": "Vance公开喊话美联储降息",
+      "summary": "副总统Vance公开向美联储施压要求降息，称这是应对通胀数据的正确回应，并有助于压低住房借贷成本。白宫对Fed独立性持续施压。",
+      "bullets": [
+        {
+          "actor": "Vance",
+          "actor_type": "US-Executive",
+          "text": "Vance公开要求美联储降息",
+          "details": "副总统Vance公开向美联储施压要求降息，称这是应对通胀数据的正确回应，并能压低住房借贷成本。",
+          "important": true
+        },
+        {
+          "actor": "白宫",
+          "actor_type": "US-Executive",
+          "text": "白宫延续对Fed独立性施压叙事",
+          "details": "Vance发言延续了特朗普政府对Fed持续施压要求降息、干预货币政策独立性的整体叙事。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-04",
+      "image_urls": []
+    },
+    {
+      "id": "trump-usps-mail-voting",
+      "topic": "邮寄投票新规",
+      "topic_tag": "policy",
+      "title": "特朗普政府紧急上诉推行USPS邮寄投票新规",
+      "summary": "特朗普政府向最高法院提出紧急上诉，要求在11月中期选举前立即实施USPS新邮寄投票规则，涉及各州须获邮政局审批、个性化条形码信封及联邦数据库上传等要求。",
+      "bullets": [
+        {
+          "actor": "特朗普政府",
+          "actor_type": "US-Executive",
+          "text": "紧急上诉最高法院推行邮寄投票新规",
+          "details": "特朗普政府向最高法院提出紧急上诉，要求允许USPS在11月中期选举前立即实施新的邮寄投票规则。",
+          "important": true
+        },
+        {
+          "actor": "USPS",
+          "actor_type": "US-Executive",
+          "text": "新规要求州级选票需获邮政局批准",
+          "details": "新规要求各州在寄出选票前必须获得邮政局的批准，选票信封需包含个性化条形码等特定设计，且各州须将接收邮寄选票的选民信息上传至联邦数据库。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-04",
+      "image_urls": []
+    },
+    {
+      "id": "asia-pboc-china-usd-deposits",
+      "topic": "中国货币金融",
+      "topic_tag": "rates",
+      "title": "PBOC传降PSL利率+中资行加吸美元存款购美债",
+      "summary": "传PBOC将下调PSL利率（现存量约￥800B）；路透报道中国多家银行加码吸收美元存款以购买美债，有助于缓解人民币升值步伐。",
+      "bullets": [
+        {
+          "actor": "PBOC",
+          "actor_type": "Central-Bank",
+          "text": "传PBOC将下调PSL利率",
+          "details": "传PBOC将下调PSL（抵押补充贷款）利率，目前PSL工具存量约￥800B。",
+          "important": true
+        },
+        {
+          "actor": "中资银行",
+          "actor_type": "Corporate",
+          "text": "中资行加吸美元存款购美债缓人民币升值",
+          "details": "路透（RTRS）报道中国多家银行加码吸收美元存款以购买美债，助力缓解人民币升值步伐。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [
+        "Reuters"
+      ],
+      "date": "2026-09-04",
+      "image_urls": [
+        "/uploads/2026-09-04/f9773f3418ec.png"
+      ]
+    },
+    {
+      "id": "nbim-cut-govt-bond-benchmark",
+      "topic": "挪威主权基金减持政府债",
+      "topic_tag": "rates",
+      "title": "NBIM建议政府债权重从70%降至50%，或减持美债近$80B",
+      "summary": "FT报道挪威主权基金NBIM建议财政部将债券基准中政府债权重从70%砍到50%，预计减持约$106B全球政府债，其中拟削减美债近$80B。",
+      "bullets": [
+        {
+          "actor": "NBIM",
+          "actor_type": "Foreign-Gov",
+          "text": "拟砍全球政府债权重70%→50%，减持约$106B",
+          "details": "FT报道全球最大主权基金NBIM（挪威主权基金）建议财政部将债券基准中政府债权重从70%砍到50%，预计减持约$106B全球政府债。",
+          "important": true
+        },
+        {
+          "actor": "NBIM",
+          "actor_type": "Foreign-Gov",
+          "text": "其中拟削减美债近$80B",
+          "details": "在建议减持的约$106B全球政府债中，拟削减美债近$80B。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "FT"
+      ],
+      "date": "2026-09-04",
+      "image_urls": []
+    },
+    {
+      "id": "ai-macro-news-cluster",
+      "topic": "AI行业动向",
+      "topic_tag": "ai",
+      "title": "OpenAI发布GPT-6 Astra；AI集体宕机；Anthropic谈算力浪潮",
+      "summary": "OpenAI深夜发布新一代旗舰GPT-6 Astra，同时ChatGPT/Claude/Grok/Cursor集体宕机；Anthropic首席计算官Tom Brown在G20场合称AI基建浪潮将超19世纪铁路，需求以每年4倍扩张（6个月翻倍）；特斯拉Cybercab在得州投放、成本较Uber便宜56-62%；苹果折叠屏iPhone日产仅几百台，量产推迟。",
+      "bullets": [
+        {
+          "actor": "Tom Brown (Anthropic)",
+          "actor_type": "Corporate",
+          "text": "Anthropic：AI基建将超19世纪铁路，需求每年4倍扩张",
+          "details": "Anthropic首席计算官Tom Brown在G20相关场合表示，当前算力基建浪潮将超过19世纪铁路建设规模，最大瓶颈在电力、审批和劳动力；AI需求每年4倍速度扩张（每6个月翻倍），获取一年前顶级模型能力的成本已降至约1/20。他预计未来12个月前沿模型会在关键科学领域取得突破，5年内在癌症等重大疾病研究上取得实质进展。",
+          "important": true
+        },
+        {
+          "actor": "OpenAI",
+          "actor_type": "Corporate",
+          "text": "OpenAI深夜发布GPT-6 Astra",
+          "details": "OpenAI于深夜发布新一代旗舰模型GPT-6 Astra。",
+          "important": false
+        },
+        {
+          "actor": "各AI服务商",
+          "actor_type": "Corporate",
+          "text": "ChatGPT/Claude/Grok/Cursor集体宕机",
+          "details": "AI集体宕机，包括ChatGPT、Claude、Grok和Cursor，均出现大规模无法访问和请求。",
+          "important": false
+        },
+        {
+          "actor": "Tesla",
+          "actor_type": "Corporate",
+          "text": "Cybercab在得州投放，成本比Uber便宜56-62%",
+          "details": "特斯拉的无人出租车Cybercab正在美国得克萨斯州投放运营，后续将向更多地区扩展。该车没有方向盘、踏板、后视镜，零件数量仅Model 3一半，目标每公里运营成本仅$0.12（约￥0.8/公里），大幅低于网约车。实测显示Cybercab比Uber便宜约56%（小费前价格），若算上15-20%小费，则便宜至少62%。",
+          "important": false
+        },
+        {
+          "actor": "Apple",
+          "actor_type": "Corporate",
+          "text": "苹果折叠屏iPhone日产仅几百台，量产推迟",
+          "details": "日经亚洲援引知情人士，受屏幕平整度和铰链等严苛品控影响，苹果首款折叠屏iPhone目前日产量仅几百台，8月新增的验证程序已推迟量产计划。对比今年800万至1000万台的全年目标，开售初期面临严重缺货。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TSLA",
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+      ],
+      "image_indexes": [
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "日经亚洲"
+      ],
+      "date": "2026-09-04",
+      "image_urls": [
+        "/uploads/2026-09-04/e9ce2585c76f.png"
+      ]
+    },
+    {
+      "id": "blackrock-ai-duration-view",
+      "topic": "买方观点",
+      "topic_tag": "macro-other",
+      "title": "BlackRock：AI仍在构建期早期，低配美长债",
+      "summary": "BlackRock认为AI处于'构建期'早期而非泡沫，美科技板块PE与剔除科技后美股相当，有盈利和资本开支支撑；宏观配置上最具分歧的观点是低配美国长久期国债、偏好短端和腹部，核心担忧是债务/GDP升至危机前两倍带来财政风险与通胀溢价。",
+      "bullets": [
+        {
+          "actor": "BlackRock",
+          "actor_type": "Analyst",
+          "text": "AI处于构建期早期非泡沫，美科技PE与非科技相当",
+          "details": "BlackRock：AI当前处于'构建期'早期而非泡沫，美国科技板块市盈率与剔除科技后的美股相当，有盈利和资本开支支撑，但要警惕叙事跑赢实际营收带来的再定价风险。",
+          "important": true
+        },
+        {
+          "actor": "BlackRock",
+          "actor_type": "Analyst",
+          "text": "最具分歧观点：低配美长债，偏好曲线短端和腹部",
+          "details": "宏观配置上，BlackRock目前最具分歧的观点是低配美国长久期国债、偏好收益率曲线短端和腹部，核心担忧是美国债务/GDP升至危机前两倍带来的财政风险与通胀溢价。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-04",
+      "image_urls": []
+    },
+    {
+      "id": "kol-views-ai-fx",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "KOL：AI两lab斗法、云moat重构、疑BOJ TWAP干预、韩国BOP大摆动",
+      "summary": "Shanghao Jin谈OpenAI/Anthropic上市前互相斗法；Gavin Baker指AI使用季节性今夏加速；The Short Bear拆解GrokBot类代理如何重构hyperscaler云moat与推理经济学；@acrossthespread怀疑BOJ以TWAP干预日元；@eastasiaecon披露韩国7月外资由净卖出$30B转净买入$6B。",
+      "bullets": [
+        {
+          "actor": "The Short Bear",
+          "actor_type": "KOL",
+          "text": "GrokBot类代理重构云moat：推理才是钱",
+          "details": "The Short Bear：GrokBot类后端代理让hyperscaler的云收入换了质地，bot把后端开放给世界，数亿人拿到等价AWS账号（存储、远程计算机、cron、过夜浏览器）；用户routine、登录态、文件与记忆住在一台持久机器上后，切换=迁移运行中的系统，企业级锁定应用到消费者。沙盒约$4/用户/月（批发），250M用户约$12B/年（仅4%增量，moat故事）；推理才是钱：重度用户$8-20/月×250M用户约$36B/年，当前以50-70%毛利出售（规模故事）。谁赚推理钱取决于'获胜外壳'背后的算力归谁：Grok在Colossus，OpenAI在Azure/Oracle/CoreWeave，Anthropic在AWS/GCP，Google和Meta用自己的；但几十亿EBIT增量相对$2T市值不算大。",
+          "important": true
+        },
+        {
+          "actor": "Shanghao Jin",
+          "actor_type": "KOL",
+          "text": "Anthropic上市前两lab互丢法宝斗法",
+          "details": "Shanghao Jin：Anthropic准备上市前，两家labs互丢法宝斗法开始：1) 前代模型在训练Astra时承担了重要角色（large role）；2) sama称OpenAI内部还有超过Astra的模型，发布速度取决于对齐情况而不是模型能力。",
+          "important": false
+        },
+        {
+          "actor": "Gavin Baker",
+          "actor_type": "KOL",
+          "text": "AI使用季节性：今年7/8月异常加速",
+          "details": "Gavin Baker：AI使用在2024-2025是季节性的（暑期减速、Labor Day后再加速），今年7/8月由OpenAI、Grok与开源带动直接加速，'今天是我第一次见到这个'。",
+          "important": false
+        },
+        {
+          "actor": "@acrossthespread",
+          "actor_type": "KOL",
+          "text": "疑BOJ以TWAP指令从现货开盘干预日元",
+          "details": "@acrossthespread：眼下这波下行大概率不是yentervention（瞬时爆砸），而是有序线性下移——对做过销售交易的人来说，这就是BOJ从日本现货开盘起执行的TWAP指令的样子。",
+          "important": false
+        },
+        {
+          "actor": "@eastasiaecon",
+          "actor_type": "KOL",
+          "text": "韩国7月外资由净卖$30B转净买$6B",
+          "details": "@eastasiaecon：韩国7月BOP确认巨幅摆动，外资从6月净卖出国内股票$30B转为7月净买入$6B。6月外资卖出几乎抵消了整个经常账户顺差，现在转为叠加流入，解释了KRW反弹。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        4
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-04",
+      "image_urls": [
+        "/uploads/2026-09-04/b0c6dffa041b.png"
+      ]
+    },
+    {
+      "id": "sellside-us-payrolls-preview",
+      "topic": "卖方观点：美国非农预览",
+      "topic_tag": "macro-other",
+      "title": "GS/JPM预览8月非农：40-50K，失业率4.1%",
+      "summary": "GS预计8月非农+40K（低于共识55K但高于近3月均值），失业率维持4.1%；JPM预计+50K，失业率4.1%。整体劳动力市场温和降温但具韧性。",
+      "bullets": [
+        {
+          "actor": "GS Eco",
+          "actor_type": "Analyst",
+          "text": "GS预计8月非农+40K，替代性就业指标从65K放缓至31K",
+          "details": "GS Eco预计美国8月非农就业人口新增40K，略低于市场共识55K，但高于近三个月均值；失业率预计维持4.1%。高盛追踪的替代性就业指标均值从7月的65K放缓至8月的31K，招聘需求趋弱，但7月JOLTS裁员率降至1.0%，整体裁员压力不大。历史数据显示8月初值往往存在系统性偏弱的偏差。",
+          "important": true
+        },
+        {
+          "actor": "JPM Eco",
+          "actor_type": "Analyst",
+          "text": "JPM预计+50K，PMI就业指数升至53.3",
+          "details": "JPM Eco预计8月美国非农就业增加50K，失业率持稳于4.1%。尽管受季节性因素及海地TPS终止影响，但PMI就业指数升至53.3，显示劳动力市场具韧性。平均时薪环比预增0.25%，失业率长期仍有下行压力。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-04",
+      "image_urls": []
+    },
+    {
+      "id": "gs-global-sov-bond-selloff",
+      "topic": "卖方观点：全球主权债",
+      "topic_tag": "rates",
+      "title": "GS：全球主权债抛售有序，AI资本开支吸走全球GDP 1%储蓄",
+      "summary": "高盛认为这轮全球主权债抛售整体有序，本质是增长韧性、财政赤字与AI投资潮推升均衡利率。AI相关融资每年约吸纳全球GDP 1%的储蓄，与政府发债争资本，推高出清利率；美日英缩短发债久期或回购只能边际改善供求。",
+      "bullets": [
+        {
+          "actor": "GS Macro",
+          "actor_type": "Analyst",
+          "text": "AI资本开支每年吸GDP 1%储蓄，推高出清利率",
+          "details": "GS Macro：这轮全球主权债抛售整体有序，本质是增长韧性、财政赤字与AI投资潮推升均衡利率，而非单纯市场错杀。高盛测算AI相关融资每年约吸纳相当于全球GDP 1%的储蓄，与政府发债争夺资本，推高了出清利率。",
+          "important": true
+        },
+        {
+          "actor": "GS交易主管",
+          "actor_type": "Analyst",
+          "text": "AI基建投资仍偏通胀性，二级模型token成本趋零才通缩",
+          "details": "高盛交易主管表示，当前AI基建投资仍偏通胀性，需等到二级模型Token边际成本趋零、生产率实质释放后才会带来通缩效应。",
+          "important": false
+        },
+        {
+          "actor": "GS Macro",
+          "actor_type": "Analyst",
+          "text": "缩短久期/回购只能边际改善供求",
+          "details": "美日英缩短发债久期或回购只能边际改善供求，无法扭转利率中枢。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3
+      ],
+      "importance": 3,
+      "sources": [
+        "Goldman Sachs"
+      ],
+      "date": "2026-09-04",
+      "image_urls": [
+        "/uploads/2026-09-04/9895c55f7a94.png"
+      ]
+    },
+    {
+      "id": "nomura-jpy-jgb-view",
+      "topic": "卖方观点：野村看日元/日股",
+      "topic_tag": "rates",
+      "title": "野村：USDJPY或下探130-140；10y JGB破3%不改日股上行",
+      "summary": "野村认为若市场焦点转向美日利差及日资回流，USDJPY有望下探130-140（实际利差对应140、名义对应130）；投机性日元空头已降至2024年峰值35%。10年期JGB破3%非日股顶部信号，关键在G>R；维持TOPIX 2026年底达4,400点乐观预期。",
+      "bullets": [
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "若焦点转向利差与日资回流，USDJPY或下探130-140",
+          "details": "Nomura：美元/日元走势取决于市场交易逻辑的切换。若焦点仍是美债收益率水平，汇率将在150附近震荡；但若转向美日利差及日资回流，美元/日元有望下探至130-140区间（实际利差对应约140，名义利差对应约130）。目前投机性日元空头已降至2024年峰值的35%，日元升值预期下日股内需板块相对跑赢。",
+          "important": true
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "警告GPIF大规模抛美债或引发日美政治摩擦",
+          "details": "对于市场热议的GPIF资产重组，野村认为若大规模抛售美债回流日资或引发日美政治摩擦。",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "10y JGB破3%不改日股上行，TOPIX 2026年底看4,400",
+          "details": "针对10年期日债收益率突破3%引发的市场担忧，野村指出利率走高并非日股上涨趋势终结的信号，关键在于宏观政策管理及G>R（名义增长>名义利率）环境。4-6月日本大型企业销售额同比增长8.9%，远高于1.6%的借贷利率，具备承受利率上升的韧性；不过中型企业与纺织、医疗等行业依然承压。维持对日股乐观展望，预计TOPIX在2026年底将达到4,400点。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Nomura"
+      ],
+      "date": "2026-09-04",
+      "image_urls": []
+    },
+    {
+      "id": "china-828-property-reform",
+      "topic": "中国房地产828现房销售新政",
+      "topic_tag": "policy",
+      "title": "巴克莱/高盛评'828'现房销售新政：项目IRR从15-20%骤降至个位数",
+      "summary": "GS认为若严格执行现房销售，项目IRR将从15%-20%+骤降至个位数中低水平，极端情景下土地销售缩水超2/3、新开工或降至<2亿平米；中海地产防御性最强。Barclays测算10家主要房企若债股各半填补缺口，平均净负债率升5%至70%；若全靠债务则升41%至111%。",
+      "bullets": [
+        {
+          "actor": "GS CN",
+          "actor_type": "Analyst",
+          "text": "GS：现房销售严格执行下项目IRR从15-20%+骤降至个位数",
+          "details": "GS CN：'828'现房销售新政将彻底改变房企周转逻辑。若严格执行现房销售，项目IRR将从15%-20%+骤降至个位数中低水平，极端情景下土地销售额可能缩水超2/3，新开工面积或降至2亿平方米以下。中海地产凭借59%的一线城市可售资源、低杠杆与低融资成本具备最强防御性。目前板块隐含2026年P/B仅0.4倍，高盛维持华润置地、中海地产、中国金茂和绿城中国的买入评级。",
+          "important": true
+        },
+        {
+          "actor": "Barclays CN",
+          "actor_type": "Analyst",
+          "text": "Barclays：10家房企平均净负债率或升至70%（债股各半）或111%（全债务）",
+          "details": "Barclays CN：改革长期有助于项目交付、购房者信心与金融稳定，短期却会拉长房企现金回收周期、降低项目IRR并抬高杠杆，因此对开发商和债券持有人构成信用压力，对银行影响利弊互见。基准情景（销售无明显复苏）下，10家主要房企若以债务和股权各承担一半资金缺口，平均净负债率将上升约5%至70%，总杠杆增幅约25%；若缺口全部靠债务填补，平均净负债率将上升约41%至111%，总杠杆增幅约49%。中期结果取决于交付保障和按揭减负能否带动足够强的销售回升，强央企、融资充足的民企及持有经营性物业的开发商更有条件扩大份额。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "Goldman Sachs",
+        "Barclays"
+      ],
+      "date": "2026-09-04",
+      "image_urls": [
+        "/uploads/2026-09-04/f9773f3418ec.png"
+      ]
+    },
+    {
+      "id": "misc-charts-commodities-ig-ai-labor",
+      "topic": "其他图表数据",
+      "topic_tag": "macro-other",
+      "title": "BofA商品10y滚动回报回升至11%；DB IG净供给2026创纪录；Apollo AI就业调整",
+      "summary": "BofA图表显示大宗商品10年滚动年化回报于2026年8月回升至11%（1933、2018曾触底）；DB预计2026年美IG净供给创纪录约$900-950B、需求也创纪录；Apollo/纽约联储调查显示AI用户企业倾向于'再培训'而非'裁员'。",
+      "bullets": [
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "商品10年滚动年化回报回升至11%（2026年8月）",
+          "details": "BofA Global Investment Strategy图表：大宗商品10年滚动年化回报率在1933年2月约-12%、2018年6月/2020年4月约-8%触底后，2026年8月回升至11%。",
+          "important": true
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "DB：2026年美IG净供给或创纪录约$900-950B，需求同创纪录",
+          "details": "DB图1：美IG企业债净供给预计2026年创纪录（约$900-950B，仅次于2021年约$1000B）；累计资金流入2025年约$95-100B、接近2021年纪录，2026年需求亦有望创纪录。",
+          "important": false
+        },
+        {
+          "actor": "Apollo/NY Fed",
+          "actor_type": "Analyst",
+          "text": "AI用户企业倾向再培训而非裁员",
+          "details": "Apollo首席经济学家援引纽约联储区域商业调查（2024/2025/2026年8月）：服务业AI用户中2026年'Retain（再培训保留）'占比35%，'Layoff'仅4%；制造业2026年'Retain'31%，'Layoff'7%。显示AI用户企业倾向再培训而非裁员。",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg Economics",
+          "actor_type": "Analyst",
+          "text": "AI调整后美非住宅私人投资增速远高于BEA统计",
+          "details": "Bloomberg Economics图：AI调整后（结合Epoch AI软件与硬件平减指数）美国非住宅私人固定投资同比增速约10%，显著高于BEA原始数据；投资繁荣可能比统计显示更明显。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 1,
+      "sources": [
+        "BofA",
+        "Deutsche Bank",
+        "Apollo",
+        "Bloomberg Economics"
+      ],
+      "date": "2026-09-04",
+      "image_urls": [
+        "/uploads/2026-09-04/8c1ae79c87dd.png"
+      ]
+    }
+  ]
+}

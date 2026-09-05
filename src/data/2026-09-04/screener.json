@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-09-04T21:31:25+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-09-04",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12498,
+    "partial_pass": 2,
+    "with_carryover": 7,
+    "after_full_check": 2
+  },
+  "rows": [
+    {
+      "tk": "MSTR",
+      "nm": "Strategy Inc Common Stock Class A",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": -1.4,
+      "w1": 12.2,
+      "market_cap_bn": 56.73,
+      "dollar_vol_bn": 3.8,
+      "w1_avg_dollar_vol_bn": 3.64,
+      "reason": "",
+      "main_business": "比特币储备公司兼企业智能分析软件提供商"
+    },
+    {
+      "tk": "HOOD",
+      "nm": "Robinhood Markets, Inc. Class A Common Stock",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": -2.1,
+      "w1": 17.1,
+      "market_cap_bn": 109.79,
+      "dollar_vol_bn": 2.89,
+      "w1_avg_dollar_vol_bn": 3.04,
+      "reason": "",
+      "main_business": "面向零售客户的互联网证券经纪与金融服务平台"
+    }
+  ]
+}
