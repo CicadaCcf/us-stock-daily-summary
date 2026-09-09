@@ -1,0 +1,495 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis-sep7",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "特朗普放话+伊朗高超音速导弹瞄准航母 霍海航运恢复中",
+      "summary": "特朗普高调宣称美国弹药充足、赢得对伊战争后油价将跌破$2/加仑；美军在霍尔木兹海峡持续四个月排雷、主航道基本清除但残余数十枚；伊朗首次对USS George Washington编队发射Qassem Bassir中程高超音速反舰弹道导弹（马赫5-8），被视为重大升级。美国财政部制裁土耳其Golden Global银行，指其为伊朗影子银行节点。",
+      "bullets": [
+        {
+          "actor": "tleilax___",
+          "actor_type": "KOL",
+          "text": "伊朗首次对美航母发射高超音速\"航母杀手\"",
+          "details": "tleilax___：伊朗对USS George Washington编队发射的不是短程反舰弹道导弹，而是中程高超音速\"航母杀手\"Qassem Bassir（马赫5-8），系开战以来首次，若属实是重大升级。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普：赢下对伊战争 油价将跌破$2/加仑",
+          "details": "Trump指责媒体在伊朗事务报道中撒谎；表示美国各类中高级弹药数量远超此战所需，工厂运转效率处历史最高；并称\"当我们赢得与伊朗的战争时，油价将急剧下跌，最终会降到每加仑2美元以下，这一切都会迅速发生，而伊朗永远不会有核武器\"。",
+          "important": false
+        },
+        {
+          "actor": "citrinowicz",
+          "actor_type": "KOL",
+          "text": "德黑兰跨过\"不打美航母\"红线 CENTCOM回应受关注",
+          "details": "citrinowicz：开战以来德黑兰一直刻意不用Khalij Fars反舰弹道导弹打美国航母，怕触发重大回应，昨日攻击说明其决策又跨过一道门槛，越来越愿意接受以前回避的风险，高度怀疑CENTCOM的回应能恢复威慑。",
+          "important": false
+        },
+        {
+          "actor": "美国财政部",
+          "actor_type": "US-Executive",
+          "text": "财政部制裁土耳其Golden Global银行",
+          "details": "美国财政部制裁土耳其投资银行Golden Global，指控其充当伊朗影子银行中转节点，列入黑名单切断美元体系联系。",
+          "important": false
+        },
+        {
+          "actor": "FT",
+          "actor_type": "新闻",
+          "text": "美军霍海排雷四个月 主航道基本清除",
+          "details": "FT报道美军在霍尔木兹海峡排雷已经四个月，真人潜水员+水上无人机+水下自动设备配合进行；美国强调主要航道已基本清除，国际航运组织认为还残余数十个。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ揭伊朗用香港/迪拜空壳公司走美元",
+          "details": "WSJ报道伊朗利用复杂的空壳公司和影子银行网络（如在香港和迪拜），通过那些与美国银行拥有\"代理行关系\"的外国合作伙伴来处理美元交易。",
+          "important": false
+        },
+        {
+          "actor": "CNN",
+          "actor_type": "新闻",
+          "text": "CNN：伊朗冲突结束后美军拟削减中东永久驻军",
+          "details": "据CNN报道，美国军方和情报机构正在讨论：一旦伊朗冲突结束，美国应减少在中东的永久性军事存在，可能削减驻中东人员和设施数量，更多依靠从美国本土调派的部队和装备执行任务。",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg (Vitol)",
+          "actor_type": "Corporate",
+          "text": "Vitol CEO：霍海油运量在增加 原油稳定",
+          "details": "BBG报道Vitol的CEO表示，石油制品市场出现供应紧张迹象，而原油方面形势相对稳定，霍尔木兹海峡的石油运输量也在增加。",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg (Kuwait)",
+          "actor_type": "新闻",
+          "text": "科威特原油出口恢复至去年均值的2/3",
+          "details": "BBG报道科威特每天出口约1Mb原油，其中一部分通过霍尔木兹海峡以外方式运输；随着越来越多油轮成功通过霍尔木兹海峡，科威特原油出口量已恢复到去年平均每天1.6Mb的三分之二左右。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "FT",
+        "CNN",
+        "Bloomberg",
+        "Reuters"
+      ],
+      "date": "2026-09-08",
+      "image_urls": []
+    },
+    {
+      "id": "trump-fed-pressure-sep7",
+      "topic": "特朗普施压Fed",
+      "topic_tag": "fed",
+      "title": "特朗普再喊话Fed降息 威胁停贸易",
+      "summary": "特朗普要求美国利率维持全球最低水平，威胁若Fed不cut将停止对美有逆差国家的贸易；点名Fed新领导必须\"爱国一次\"，不允许高利率损害美国。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普：Fed必须降息 否则停贸易",
+          "details": "Trump呼吁美国将利率维持在全球\"最低水平\"，Fed要cut，否则我会停止贸易，美国有逆差的国家都停…Fed有新领导了，必须精明起来，要终于爱国一次…高利率对美国不利，我不允许这种事发生！",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "背景：与压油价、赢对伊战争叙事挂钩",
+          "details": "特朗普同期将高利率、油价、对伊战争胜利捆绑叙事，声称赢下伊朗后油价跌破$2/加仑，进一步为降息造势。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-08",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-fed-cpi-sep7",
+      "topic": "卖方Fed路径观点",
+      "topic_tag": "fed",
+      "title": "9月加降息大分歧：BofA看加息 Nomura看按兵",
+      "summary": "JPM/BofA强调核心通胀粘性支持加息，BofA预计9月加息25bp、年底利率4.25-4.50%；Nomura预计9月按兵不动，核心PCE降至0.205%；JPM Outlook预计Fed12月加息25bp，ECB与BOJ 9/12月各加息25bp。华创指长端利率上行源自科技企业与政府争夺久期需求，脉冲式非持续。",
+      "bullets": [
+        {
+          "actor": "BofA Rates",
+          "actor_type": "Analyst",
+          "text": "BofA：9月加息25bp 年底4.25-4.50%",
+          "details": "Bofa Rates预计美联储9月加息25bp，因8月核心PCE同比或升至3.4%，远超2%目标；警告财政利息支出超国防与医保总和，高利率与赤字负反馈循环风险加剧，维持全年加息75bp预测，年底联邦基金利率4.25%-4.50%。",
+          "important": true
+        },
+        {
+          "actor": "JPM Eco",
+          "actor_type": "Analyst",
+          "text": "JPM：核心PCE 3.3%、超级核心4.1% 降息门槛高",
+          "details": "JPM Eco：尽管近期美国通胀数据放缓，但核心PCE仍处3.3%高位，超级核心通胀升至4.1%，显示潜在趋势未实质性改善；美联储降息门槛仍高，需核心通胀月均涨幅控制在0.22%以实现年底目标。",
+          "important": false
+        },
+        {
+          "actor": "BofA Macro",
+          "actor_type": "Analyst",
+          "text": "BofA：8月核心CPI+0.22% 核心PCE+0.24%",
+          "details": "Bofa Macro预测8月美国核心CPI环比+0.22%，核心PCE环比+0.24%，年化约2.9%；能源价格回升推动整体CPI环比预计+0.4%，坚挺通胀预计支撑9月加息决策。",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "Nomura：9月按兵不动 Waller偏鸽",
+          "details": "Nomura预计美联储9月按兵不动。尽管主席Warsh言论偏鹰，但Waller等官员表态鸽派，且8月核心CPI预计持平0.224%，核心PCE降至0.205%，通胀动能减弱；8月非农+162K，失业率4.1%，劳动力市场稳健，支持Fed观望。",
+          "important": false
+        },
+        {
+          "actor": "JPM Outlook",
+          "actor_type": "Analyst",
+          "text": "JPM：Fed 12月加25bp ECB/BOJ 9与12月各加25bp",
+          "details": "JPM Outlook重申年底前全球央行加息路径，预计Fed 12月加息25bp，新增预测ECB与BOJ 9月、12月各加息25bp；风险资产具韧性，超配欧元区股票、科技股及黄金、铜；建议做多德债相对美债，做多美元兑SEK/CAD；AI资本支出激增削弱股票回购支撑。",
+          "important": false
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "UBS：Fed 9/12月加息 2027Q2或降息",
+          "details": "UBS Outlook：Fed或因通胀粘性在9月、12月加息，但2027年Q2有望转向降息；霍尔木兹海峡石油供应缺口缩窄至4M b/d，得益于\"暗船\"运输及中国需求克制；欧洲冬季天然气库存恐降至25%；AI投资贡献美国约80%增长，需警惕内存价格虚高；中国实现4.5-5%目标面临风险。",
+          "important": false
+        },
+        {
+          "actor": "UBS JP",
+          "actor_type": "Analyst",
+          "text": "UBS：日银9月加息25bp几成定局",
+          "details": "UBS JP：日银9月加息25bp几成定局，年内再加息概率低；除非美元兑日元升至160，否则12月再次加息可能性不大，下次加息或延至2027年1月；日本7月零售销售环比+2.4%，工业生产环比+0.1%；2027年度预算概算143T日元，国债发行额或控制在40T。",
+          "important": false
+        },
+        {
+          "actor": "华创 郭忠良",
+          "actor_type": "Analyst",
+          "text": "长债利率上行源自科技企业挤占久期需求",
+          "details": "华创郭忠良：长期美债利率上行压力源自久期供给冲击——加息预期抑制债市久期需求下，科技企业能承受更高融资成本、投资级公司发债期限较长，政府需与科技企业争夺有限久期需求，影响脉冲式非持续；5Y5Y OIS升至4.5%达2023年峰值，剔除通胀后实际中性利率破2%触及2010年高位；30Y-5Y5Y OIS利差升至80bps，30Y-10Y利差走阔至60bps，短期通胀+久期供给冲击已充分定价。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        6
+      ],
+      "importance": 3,
+      "sources": [
+        "JPM",
+        "BofA",
+        "Nomura",
+        "UBS",
+        "华创"
+      ],
+      "date": "2026-09-08",
+      "image_urls": [
+        "/uploads/2026-09-08/0732392c1831.jpg",
+        "/uploads/2026-09-08/2a28e85af8a7.png"
+      ]
+    },
+    {
+      "id": "kol-fed-rates-sep7",
+      "topic": "KOL利率观点",
+      "topic_tag": "rates",
+      "title": "KOL：非农162K偏强 加息或反压长端",
+      "summary": "Daniel认为天平倒向9/16加息，非农162K vs 55K、上修+55K，即便CPI偏软，加息反能压住长端；Peter Berezin指剔除医疗教育私营3月均值仅48K，报告夸大强度；Andy预计加息对10Y仅3-5bps影响；WarrenPies观察到SOFR加息概率上升即10Y熊平；JH持长端仓位亏9pips但等CPI。",
+      "bullets": [
+        {
+          "actor": "Daniel",
+          "actor_type": "KOL",
+          "text": "Daniel：天平倒向9/16加息 加息或压长端",
+          "details": "Daniel：天平倒向9/16加息。162K vs 55K加上两个月+55K上修，即便9/11 CPI低于预期，通胀高于2%目标已65个月，加息反而可能帮助压住走高的10y30y，长期看这更重要；中期选举11/3联储不想被迫在10/28加息，政治反弹更大，加息有利于重建Fed信誉。",
+          "important": true
+        },
+        {
+          "actor": "Peter Berezin",
+          "actor_type": "KOL",
+          "text": "Berezin：剔除医疗教育私营3月均48K 报告夸大",
+          "details": "Peter Berezin：私营部门3个月均值75K；剔除医疗教育后3个月均值48K，2025年多数时间为负；扩散指数升至2024年来最高，临时用工回升，初请续请低于去年；时薪增速降至5年低点；报告夸大了强度，但底层就业增长确已回升，工资调查领先指标暗示未来数月工资增速回升。",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "Andy：即使加息 10Y仅3-5bps波动",
+          "details": "Andy：即使加息，10年期美债收益率大概也就波动3-5bps，幅度很小；这次既不是加息周期开始，也不是明显政策错误，对长端影响有限，不值得重仓押注。",
+          "important": false
+        },
+        {
+          "actor": "WarrenPies",
+          "actor_type": "KOL",
+          "text": "SOFR加息概率↑=10Y熊平已成共识",
+          "details": "WarrenPies：近几周只要SOFR期货的加息概率上升，10y每次都是熊平；共识正在形成——短端加息会立刻压低长端。",
+          "important": false
+        },
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "JH：Warsh幻想破灭 长端仓位亏9pips",
+          "details": "JH：之前对Warsh\"会不一样\"的幻想在7月FOMC后已破灭，现在就是普通\"中间派美联储\"；长端仓位目前亏约9pips，觉得值得等到CPI数据出来再看。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-08",
+      "image_urls": [
+        "/uploads/2026-09-08/c60a5e1e144e.png"
+      ]
+    },
+    {
+      "id": "ai-industry-sep7",
+      "topic": "AI行业",
+      "topic_tag": "ai",
+      "title": "Anthropic争投资级 谷歌Astra引爆新叙事",
+      "summary": "Anthropic与OpenAI争取IPO后投资级评级以降低AI基建融资成本，Anthropic计划10月中上市估值$2T且ARR核算从毛额改净额剔除Meta及中国蒸馏收入；Astra被KOL视为打开AI估值天花板的新奇点叙事，首个让\"岗位消失\"变得显而易见的模型；BofA数据显示Claude Opus 5、GPT-5.6、Kimi K3等旗舰模型基准与定价对比。",
+      "bullets": [
+        {
+          "actor": "Gavin Baker",
+          "actor_type": "KOL",
+          "text": "Anthropic ARR改净额 剔除Meta与中国蒸馏收入",
+          "details": "Gavin Baker：Anthropic把ARR核算从毛额改成净额，并从65B ARR中剔除了Meta和中国蒸馏相关收入。外界猜测Meta贡献超过5B ARR，剔除后即使Meta在Anthropic上市后很快停止合作公司也能承受；同时降低Meta立刻切断合作的可能性。",
+          "important": true
+        },
+        {
+          "actor": "FT",
+          "actor_type": "新闻",
+          "text": "Anthropic/OpenAI争IPO后投资级评级",
+          "details": "FT报道Anthropic和OpenAI的财务团队正在努力争取在即将进行的IPO之后获得投资级信用评级，有助于降低推进雄心勃勃的AI基础设施计划时的借贷成本。",
+          "important": false
+        },
+        {
+          "actor": "Reuters",
+          "actor_type": "新闻",
+          "text": "Anthropic计划10月中上市 估值$2T",
+          "details": "RTRS报道Anthropic计划十月中上市，估值2T。",
+          "important": false
+        },
+        {
+          "actor": "freearkshaw",
+          "actor_type": "KOL",
+          "text": "freearkshaw：Astra是AI牛市等的新奇点叙事",
+          "details": "freearkshaw：Astra可能就是这轮AI牛市一直在等的新故事。AI链近期等的不是业绩，不是前景，而是能重新打开估值天花板的新突破新叙事。这是一个奇点，现在它来了。",
+          "important": false
+        },
+        {
+          "actor": "brandonjcarl",
+          "actor_type": "KOL",
+          "text": "Astra首次让\"岗位消失\"变得显而易见",
+          "details": "brandonjcarl：Astra感受完全不同，这是第一个让\"很多岗位要消失\"变得显而易见的模型；但注意游戏通关演示大概率训练过完整通关视频；攒够token也许能让Astra造世界级GTA式游戏。",
+          "important": false
+        },
+        {
+          "actor": "Short Bear",
+          "actor_type": "KOL",
+          "text": "Grok/Claude/Astra方向：agentic commerce按任务付费",
+          "details": "Short Bear：Grok bot、Claude更新与Astra基准正在打开护城河动态与工具使用方式的变局之门，方向是agentic commerce，按任务按服务付费。",
+          "important": false
+        },
+        {
+          "actor": "Dr_Gingerballs",
+          "actor_type": "KOL",
+          "text": "Astra 3D能力来自token化3D模型 计算机操作靠机械土耳其人",
+          "details": "Dr_Gingerballs：Astra 3D能力来自爬取token化各3D模型，计算机操作大概率是机械土耳其人式采集跟踪真人执行任务。",
+          "important": false
+        },
+        {
+          "actor": "DigiTimes",
+          "actor_type": "新闻",
+          "text": "英特尔10月初再上调CPU价格10%",
+          "details": "据DigiTimes报道，由于需求强劲和成本上升，英特尔计划在10月初再次将CPU价格上调10%，这是自2025年底以来英特尔为应对成本压力进行的多次涨价中的最新一轮。",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "月之暗面拟赴港IPO 筹资至多$5B",
+          "details": "BBG报道月之暗面据悉拟赴香港IPO筹资至多5B。",
+          "important": false
+        },
+        {
+          "actor": "BofA Global Research",
+          "actor_type": "Analyst",
+          "text": "BofA旗舰模型对比：Claude Opus 5智能指数63最高",
+          "details": "BofA Global Research模型基准对比（2026-08-28）：中国7款开源模型（DeepSeek V4.0、Qwen-3.8 Max、Minimax-M3.0、GLM-5.3、Hy4 preview、Kimi K3、Seed2.1 Pro）vs 美国3款闭源（Gemini 3.7、GPT-5.6 Sol、Claude Opus 5）；AA Intelligence Index：Claude Opus 5=63、GPT-5.6=61、Kimi K3与GLM-5.3=60；Coding Index：Claude 67、GPT-5.6 65、Kimi K3 63、Qwen 61；输入价格从$0.3-$5.0/1M不等，Claude Opus 5输入$5/输出$25最贵；Context窗口除Seed2.1 Pro 256k外均为1mn。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "INTC",
+        "META",
+        "GOOGL"
+      ],
+      "image_indexes": [
+        3,
+        4
+      ],
+      "importance": 3,
+      "sources": [
+        "FT",
+        "Reuters",
+        "Bloomberg",
+        "DigiTimes",
+        "BofA"
+      ],
+      "date": "2026-09-08",
+      "image_urls": [
+        "/uploads/2026-09-08/add327f96565.png",
+        "/uploads/2026-09-08/dc30f9c3b5b1.png"
+      ]
+    },
+    {
+      "id": "russia-ukraine-sep7",
+      "topic": "俄乌战争",
+      "topic_tag": "geo",
+      "title": "Witkoff/Kushner会晤普京 俄轰炸基辅",
+      "summary": "Witkoff与Kushner周六在克里姆林宫与普京会谈美国结束乌战方案，俄方态度悲观和平前景黯淡；同期俄罗斯对基辅发动数周来最猛烈导弹袭击，致2死10伤。",
+      "bullets": [
+        {
+          "actor": "Witkoff/Kushner",
+          "actor_type": "US-Executive",
+          "text": "Witkoff与Kushner克宫会普京 俄方悲观",
+          "details": "Steve Witkoff和Jared Kushner于周六在克里姆林宫与俄罗斯总统普京举行了会谈，重点讨论美国关于结束乌克兰战争的提案，俄方态度悲观，和平协议前景依然黯淡。",
+          "important": true
+        },
+        {
+          "actor": "俄罗斯",
+          "actor_type": "Foreign-Gov",
+          "text": "俄发动数周来最猛烈袭击基辅 2死10伤",
+          "details": "俄罗斯对基辅发动了数周来最猛烈的导弹袭击。就在美国特使前往该城试图推动和平谈判之际，俄罗斯中断了对乌克兰首都的攻击。据该市当局和应急部门称，这些袭击始于周二凌晨，导致两人死亡、十人受伤。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-08",
+      "image_urls": []
+    },
+    {
+      "id": "oil-diesel-supply-sep7",
+      "topic": "原油/柴油",
+      "topic_tag": "oil",
+      "title": "全球柴油紧张 现货买家接受高油价",
+      "summary": "Reuters引行业高管指炼油能力不足、俄禁柴油出口叠加冬季需求，全球柴油供应仍将紧张；Attractor-CAS观察8月油价涨而隐含波动率降，现货买家接受高油价、库存过低。",
+      "bullets": [
+        {
+          "actor": "Reuters",
+          "actor_type": "新闻",
+          "text": "行业高管：柴油供应将持续紧张",
+          "details": "RTRS报道行业高管们周二表示，由于炼油能力不足、俄罗斯禁止柴油出口，再加上冬季需求高峰即将来临，全球柴油供应状况仍将十分紧张。",
+          "important": true
+        },
+        {
+          "actor": "Attractor-CAS",
+          "actor_type": "KOL",
+          "text": "8月油价涨而IV降 现货买家接受高价",
+          "details": "Attractor-CAS：8月，油价上涨，而隐含波动率却下降，现货买家已经接受高油价，毕竟库存太低，冬天也要来了。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Reuters"
+      ],
+      "date": "2026-09-08",
+      "image_urls": []
+    },
+    {
+      "id": "china-macro-sep7",
+      "topic": "中国宏观",
+      "topic_tag": "policy",
+      "title": "8家央金增资¥360B 习近平将率CEO团访美",
+      "summary": "8家中央金融企业同日公告增资计划合计约¥360B，其中财政部¥300B（特别国债用于银行资本金补充）+烟草¥60B；习近平将率大型CEO代表团访问华盛顿，罕见带动商界展示对美投资意愿但预期峰会成果有限。",
+      "bullets": [
+        {
+          "actor": "中国财政部/央金企业",
+          "actor_type": "Foreign-Gov",
+          "text": "8家央金企业增资¥360B 财政部注资¥300B",
+          "details": "8家中央金融企业同日公告增资计划，合计约¥360B，财政部¥300B（今年两会宣告并已发行的特别国债，用途既定就是银行资本金补充），烟草¥60B。",
+          "important": true
+        },
+        {
+          "actor": "Reuters",
+          "actor_type": "新闻",
+          "text": "习近平将率大型CEO团访美 峰会预期有限",
+          "details": "RTRS报道习近平将率领大型CEO代表团访问华盛顿，罕见带动商界以展示对美投资意愿，但预期峰会成果有限。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Reuters"
+      ],
+      "date": "2026-09-08",
+      "image_urls": []
+    },
+    {
+      "id": "misc-sep7",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "加拿大反制关税、德国AfD胜选、Millennium AUM $97B",
+      "summary": "加拿大对数百种美国产品征收15%-50%关税；德国萨克森-安哈尔特州议会选举AfD以43.8%得票率取得39席但未过半；Millennium AUM达$97B。",
+      "bullets": [
+        {
+          "actor": "加拿大政府",
+          "actor_type": "Foreign-Gov",
+          "text": "加拿大对数百种美国产品征15%-50%关税",
+          "details": "加拿大将对数百种美国产品征收15%-50%的关税，其中包括钢铁制品、摩托车、化妆品、奶酪等等。",
+          "important": true
+        },
+        {
+          "actor": "德国AfD",
+          "actor_type": "Foreign-Gov",
+          "text": "德国萨-安州选举AfD得票43.8%取39席",
+          "details": "德国东部的萨克森-安哈尔特州6日举行州议会选举，极右翼政党\"另类选择党（AfD）\"以43.8%的得票率，在该州议会取得39席。不过AfD未取得能单独执政的绝对多数，仍需寻找合作伙伴才能组成联合政府执政。",
+          "important": false
+        },
+        {
+          "actor": "Millennium",
+          "actor_type": "Corporate",
+          "text": "Millennium AUM达$97B",
+          "details": "Millennium管理公司的资产已达到97B。",
+          "important": false
+        },
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "Apollo：Fed加息后PE价值创造更多来自收入增长",
+          "details": "Apollo数据（PE按退出年份的价值创造驱动力）：2018-2021年收入增长46%/利润率扩张14%/估值扩张40%；2022年52%/15%/32%；2023年63%/17%/20%；2024年73%/11%/15%；2025年75%/17%/8%——Fed加息后倍数扩张贡献大幅下降，收入增长成主导。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        5
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-09-08",
+      "image_urls": [
+        "/uploads/2026-09-08/132b4183acca.jpg",
+        "/uploads/2026-09-08/91241a9a5d3c.png"
+      ]
+    }
+  ]
+}

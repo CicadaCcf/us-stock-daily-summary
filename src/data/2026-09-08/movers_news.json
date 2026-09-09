@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-09-08T21:31:49+00:00",
+  "date": "2026-09-08",
+  "since": "2026-09-06T20:00:00+00:00",
+  "by_ticker": {
+    "ROIV": [
+      {
+        "headline": "Dr. Gillian Cannon Joins Lindus Therapeutics’ Board as a Non-Executive Director",
+        "url": "https://www.globenewswire.com/news-release/2026/09/08/3357552/0/en/dr-gillian-cannon-joins-lindus-therapeutics-board-as-a-non-executive-director.html",
+        "source": "GlobeNewswire Inc.",
+        "published_at": "2026-09-08T12:00:00Z",
+        "image": "https://www.globenewswire.com/news-release/2026/09/08/3357552/0/en/dr-gillian-cannon-joins-lindus-therapeutics-board-as-a-non-executive-director.html",
+        "description": "Lindus Therapeutics, a drug development company focused on in-licensed assets, has appointed Dr. Gillian Cannon as a non-executive director. Cannon brings over 30 years of biopharmaceutical commercial leadership experience from roles at Merck and Roivant Sciences. She will help shape the company's commercial strategy as it builds its portfolio of clinical-stage assets."
+      }
+    ],
+    "SEI": [],
+    "SMR": [
+      {
+        "headline": "NuScale Power Stock Broke Out in August. Is It a Buy?",
+        "url": "https://www.fool.com/investing/2026/09/08/nuscale-power-stock-broke-out-in-august-is-it-buy/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-09-08T16:19:58Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886654%2Fgettyimages-1358273542.jpg&w=1200&op=resize",
+        "description": "NuScale Power gained 10.1% in August following a brutal July, driven by announcements of AI tools for nuclear design and strong demand from data centers seeking carbon-free energy. However, the company reported a 99% revenue decline in Q2 to just $75,000, continues to burn cash, and remains years away from deploying its first reactor. Commercial execution remains unproven, with the stock trading on speculation pending signed power purchase agreements."
+      },
+      {
+        "headline": "Can Hydrogen Become a Key Growth Driver for NuScale Power?",
+        "url": "https://www.zacks.com/stock/news/2986459/can-hydrogen-become-a-key-growth-driver-for-nuscale-power?cid=CS-ZC-FT-analyst_blog|quick_take-2986459",
+        "source": "Zacks Investment Research",
+        "published_at": "2026-09-08T13:29:00Z",
+        "image": "https://staticx-tuner.zacks.com/images/articles/main/e9/63913.jpg",
+        "description": "NuScale Power is leveraging its small modular reactors to produce carbon-free hydrogen for industrial applications. A six-module plant could generate 250-270 metric tons of hydrogen daily, with reactors positioned near industrial users to reduce transportation costs. The technology offers flexibility to shift between electricity and hydrogen production while complementing renewable energy sources."
+      },
+      {
+        "headline": "Small Modular Reactors (SMRs) Market Demand Insights Innovation",
+        "url": "https://www.globenewswire.com/news-release/2026/09/07/3357040/0/en/small-modular-reactors-smrs-market-demand-insights-innovation.html",
+        "source": "GlobeNewswire Inc.",
+        "published_at": "2026-09-07T09:59:00Z",
+        "image": "https://ml.globenewswire.com/Resource/Download/2ccda42e-1f09-4fb0-8cba-e9aaafc0fd04",
+        "description": "The SMR market has fundamentally shifted from proving technological feasibility to securing manufacturing capacity, fuel supply, and regulatory approval. Non-utility buyers like hyperscalers and industrial operators are now driving demand, with fabrication slots and HALEU fuel supply emerging as critical bottlenecks. The market is projected to reach $11.7 billion by 2033 at 9.2% CAGR, but only a narrow set of approved designs will capture disproportionate market share as latecomers face structur"
+      }
+    ]
+  }
+}

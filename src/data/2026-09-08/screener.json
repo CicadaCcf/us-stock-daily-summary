@@ -1,0 +1,59 @@
+{
+  "generated_at": "2026-09-08T21:31:34+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-09-08",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12520,
+    "partial_pass": 5,
+    "with_carryover": 5,
+    "after_full_check": 3
+  },
+  "rows": [
+    {
+      "tk": "ROIV",
+      "nm": "Roivant Sciences Ltd. Common Shares",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 18.8,
+      "w1": 20.2,
+      "market_cap_bn": 29.96,
+      "dollar_vol_bn": 1.02,
+      "w1_avg_dollar_vol_bn": 0.38,
+      "reason": "",
+      "main_business": "研发商业化创新药物并孵化生物医药初创企业"
+    },
+    {
+      "tk": "SEI",
+      "nm": "Solaris Energy Infrastructure, Inc.",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 16.3,
+      "w1": 28.8,
+      "market_cap_bn": 4.21,
+      "dollar_vol_bn": 0.32,
+      "w1_avg_dollar_vol_bn": 0.16,
+      "reason": "",
+      "main_business": "为油气井完井作业提供模块化电力与物料管理解决方案"
+    },
+    {
+      "tk": "SMR",
+      "nm": "NuScale Power Corporation",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 15.3,
+      "w1": 21.4,
+      "market_cap_bn": 4.59,
+      "dollar_vol_bn": 0.6,
+      "w1_avg_dollar_vol_bn": 0.3,
+      "reason": "",
+      "main_business": "研发小型模块化核反应堆技术，提供安全可扩展的清洁核能发电方案"
+    }
+  ]
+}
