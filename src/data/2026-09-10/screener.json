@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-09-10T21:31:23+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-09-10",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12570,
+    "partial_pass": 1,
+    "with_carryover": 3,
+    "after_full_check": 1
+  },
+  "rows": [
+    {
+      "tk": "SMR",
+      "nm": "NuScale Power Corporation",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -5.6,
+      "w1": 4.7,
+      "market_cap_bn": 4.19,
+      "dollar_vol_bn": 0.23,
+      "w1_avg_dollar_vol_bn": 0.31,
+      "reason": "",
+      "main_business": "研发小型模块化核反应堆技术，提供安全可扩展的清洁核能发电方案"
+    }
+  ]
+}
