@@ -1,0 +1,439 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊冲突升级：Trump不悔战、伊朗恢复导弹产、海峡通航骤降",
+      "summary": "Trump称不后悔对伊开战，暗示中期选举后停战、油价将跌破$2；伊朗在地下设施恢复弹道导弹生产；霍尔木兹海峡日通航从11艘降至7艘（10日均值15艘）；美方情报称伊朗备好让胡塞封锁曼德海峡的经济\"核选项\"。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "预计战争\"很快\"结束，中期选举后油价跌破$2",
+          "details": "Trump称中期选举一结束就会降，跌到两块以下；选举完了会立刻停战，伊朗在拼命干涉选举；提到油价上涨，称他预计战争将\"很快\"结束。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "不后悔对伊朗开战，若重来会做完全相同决定",
+          "details": "Trump不后悔对伊朗伊斯兰共和国发动战争的决定，如果再次面临同样处境会做完全相同的决定；若伊朗获得核武器\"肯定会使用它\"，会摧毁中东并瞄准美国城市，但美国会以截然不同方式与他们打交道。",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "对伊制裁将持续，下周一制裁一家大型银行",
+          "details": "Bessent称对伊制裁会持续到所有人都停止与该政权打交道；下周一将对一家\"大型银行\"实施制裁；美国有全世界最佳债券市场，能度过能源供应冲击难关。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "伊朗在地下设施用库存零件恢复弹道导弹生产",
+          "details": "WSJ报道伊朗已利用库存零部件在地下设施恢复弹道导弹生产，侵蚀美以宣称的核心战果；美方与中东官员称在多处地下场址侦测到生产活动，且伊朗同时在做液体与固体燃料两种导弹。",
+          "important": false
+        },
+        {
+          "actor": "路透",
+          "actor_type": "新闻",
+          "text": "霍尔木兹周四过境船舶降至7艘，远低于10日均值15艘",
+          "details": "RTRS报道周四通过霍尔木兹海峡的船舶数量从前一日的11艘降至7艘，周五公布的初步船舶追踪数据显示，远低于10日均值15艘。",
+          "important": false
+        },
+        {
+          "actor": "CNN",
+          "actor_type": "新闻",
+          "text": "美情报：伊朗备好经济\"核选项\"让胡塞封锁曼德海峡",
+          "details": "CNN报道美方情报认为伊朗早已备好一个经济\"核选项\"——一旦对美谈判破裂就让胡塞封锁曼德海峡；目前美方相信数百名伊斯兰革命卫队军官在也门推进这件事。",
+          "important": false
+        },
+        {
+          "actor": "James Jeffrey/外交事务",
+          "actor_type": "Analyst",
+          "text": "主张美国维持霍尔木兹封锁以逼伊朗回谈判桌",
+          "details": "《外交事务》刊出James Jeffrey文章，主张美国维持霍尔木兹封锁形成僵局、以此把伊朗逼回谈判桌。",
+          "important": false
+        },
+        {
+          "actor": "NYT",
+          "actor_type": "新闻",
+          "text": "Vance私下向指挥官索取伊朗战争\"未修饰\"评估",
+          "details": "NYT报道Vance私下向美军指挥官索取\"未经修饰\"的伊朗战争评估，听到的内容远比政府对外口径严峻。",
+          "important": false
+        },
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "切断伊朗行为体利用Claude做情报搜集",
+          "details": "Anthropic威胁报告：发现并切断伊朗行为体利用Claude做情报搜集与影响力行动，包括研究美国海军设施、编制美国人的详细档案。",
+          "important": false
+        },
+        {
+          "actor": "shortbear",
+          "actor_type": "KOL",
+          "text": "升级由约10艘油轮被炸驱动，运费指数将最先见顶",
+          "details": "shortbear：升级是通过约10艘油轮被炸出来的，这个指数会最先给出答案——航运改善或恐惧见顶，它大概率第一个转向。",
+          "important": false
+        },
+        {
+          "actor": "citrinowicz",
+          "actor_type": "KOL",
+          "text": "沙特无法独自对抗胡塞，需更广泛国际联盟",
+          "details": "citrinowicz：沙特无法单独对抗胡塞，这场冲突已不只是沙特-胡塞对决，胡塞对地区安全、海上贸易和航行自由构成更广泛威胁；利雅得需要更广泛的国际联盟分担作战、情报和政治负担。",
+          "important": false
+        },
+        {
+          "actor": "tleilax___",
+          "actor_type": "KOL",
+          "text": "东西向管道遭至少3次无人机袭击，火功率升至350MW",
+          "details": "tleilax___：今天东西向管道泵站至少遭到了三次无人机袭击。火灾最初于GMT上午9:37被探测到，总功率100MW，随后下午1:25飙升至200MW，下午3:30达到350MW；此后火势一直减弱。这与管道紧急泄压情况一致，意味着在完成维修之前管道将一直关闭。后续消息称管道可尽早重启，因为可绕过受损泵站；胡塞武装正在控制红海中部岛屿，从而获得对航运的火力控制权。",
+          "important": false
+        },
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "胡塞可能直接命中东西向管道，FRP超70MW",
+          "details": "JH：看起来胡塞武装可能真的直接命中了东西向管道，置信度标记为最高，FRP打印超过70MW，远远超过常规火灾；在管道沿线相距仅数公里的多个点位同时进行如此大规模的常规维护或控制性燃烧不可能，肯定出事了。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        4
+      ],
+      "importance": 3,
+      "sources": [
+        "路透",
+        "WSJ",
+        "CNN",
+        "NYT",
+        "BBG",
+        "外交事务"
+      ],
+      "date": "2026-09-11",
+      "image_urls": [
+        "/uploads/2026-09-11/83ec85c65570.png"
+      ]
+    },
+    {
+      "id": "oil-market-supply",
+      "topic": "原油市场",
+      "topic_tag": "oil",
+      "title": "沙特产量创1990年来新低，迪拜升水飙至$21.82，亚洲炼厂弃迪拜转布伦特",
+      "summary": "沙特产量跌至1990年来最低，OPEC内部裂痕加深；迪拜实物升水从6月-$5升至9月$21.82；亚洲炼厂要求沙特阿美将定价基准由迪拜改为ICE布伦特；中国上调汽柴油价格；Gundlach称布油逼近$100，SPR从750M降至287M。",
+      "bullets": [
+        {
+          "actor": "OPEC月报",
+          "actor_type": "Foreign-Gov",
+          "text": "8月DoC总产38.05mb/d环比+0.30，伊朗骤降399kb/d",
+          "details": "OPEC月报：8月DoC crude oil production averaged 38.05 mb/d，环比+0.30 mb/d。伊朗-399kb/d至2,086；沙特-76kb/d至7,276；伊拉克+664kb/d至3,378；哈萨克斯坦+159kb/d至1,807；俄罗斯-160kb/d至8,718；OPEC合计24,081kb/d(+346)；Non-OPEC DoC 13,973(-49)。",
+          "important": true
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "沙特石油产量跌至1990年来最低",
+          "details": "沙特石油产量跌至1990年来最低，OPEC内部裂痕加深。",
+          "important": false
+        },
+        {
+          "actor": "路透",
+          "actor_type": "新闻",
+          "text": "亚洲炼厂要求沙特阿美从迪拜基准改用ICE布伦特",
+          "details": "RTRS消息，至少两家亚洲炼油商已要求沙特阿美将其长期原油合同中的定价基准从迪拜基准改为ICE布伦特；自8月以来，由于美伊紧张局势升级，中东价格指标飙升并超过布伦特，围绕迪拜基准的担忧再度浮现。",
+          "important": false
+        },
+        {
+          "actor": "FinoOffGuide",
+          "actor_type": "KOL",
+          "text": "迪拜实物升水从6月-$5飙升至9月$21.82",
+          "details": "Dubai Physical Premium从4月均值$13.92一路回落，6月低至约-$5，7月末$3.61，8月$8.66，9月9日升至$21.82。",
+          "important": false
+        },
+        {
+          "actor": "BBG",
+          "actor_type": "新闻",
+          "text": "中国9月12日上调汽油260元/吨、柴油250元/吨",
+          "details": "BBG报道中国将在9月12日实施临时管控后，将汽油和柴油价格每吨分别上调260元和250元；此次涨价幅度低于现行定价机制所要求的水平。",
+          "important": false
+        },
+        {
+          "actor": "Gundlach",
+          "actor_type": "Analyst",
+          "text": "布伦特逼近$100，美国SPR从750M降至287M",
+          "details": "Gundlach：通胀远未达标，CPCE同比3.3%、整体3.7%，进出口价格均值约7%。布伦特原油逼近100美元，美国战略石油储备降至287M（此前750M），油价下方支撑极强。",
+          "important": false
+        },
+        {
+          "actor": "JPM Oil",
+          "actor_type": "Analyst",
+          "text": "冲突已持续3个月，市场为长期冲突定价",
+          "details": "JPM Oil：尽管地区重要，但部分市场高估了能源市场中断规模和冲突升级为全面战争的可能性，双方都有避免全面战争的激励。关键变量是冲突持续时间，摩根大通原先预期只持续2-3wk，但现在已持续3mo，市场正在为更长期冲突定价；如果冲突不能很快解决，意外升级的风险正在上升。历史类比包括1973年石油禁运约5个月、1979年伊朗革命影响更长；原油期货曲线（相对10年平均）显示市场已计入较长时间供应紧张预期，市场目前处于供应短缺状态。JPM新预测：Brent 2Q26 avg $98(旧$103)、EoP 1Q26 $118；WTI 2Q26 avg $92(旧$95)；2027年后回落至$60左右。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        3,
+        5
+      ],
+      "importance": 3,
+      "sources": [
+        "OPEC",
+        "路透",
+        "BBG",
+        "JPM"
+      ],
+      "date": "2026-09-11",
+      "image_urls": [
+        "/uploads/2026-09-11/b59e09e30e21.png",
+        "/uploads/2026-09-11/68db604582b1.png",
+        "/uploads/2026-09-11/ecf67c1f4359.png"
+      ]
+    },
+    {
+      "id": "boj-hike-sept",
+      "topic": "日本央行",
+      "topic_tag": "fed",
+      "title": "路透：BOJ下周将加息25bp",
+      "summary": "路透报道BOJ下周将加息，最可能25bp，若通胀超调风险加大可能暗示未来加快紧缩步伐；植田将避免承诺具体时间框架，但可能重复7月表态。",
+      "bullets": [
+        {
+          "actor": "路透",
+          "actor_type": "新闻",
+          "text": "BOJ下周将加息25bp，可能暗示加快紧缩",
+          "details": "RTRS报道BOJ下周将加息，最可能是25bps，并且如果价格压力加大通胀超调风险，可能暗示未来将加快紧缩步伐。",
+          "important": true
+        },
+        {
+          "actor": "植田",
+          "actor_type": "Central-Bank",
+          "text": "将避免承诺具体加息时间框架",
+          "details": "植田将避免承诺未来加息的具体时间框架，不过他可能会重复7月时的表态，即如果BOJ认为金融条件过于宽松，可能会加快加息步伐。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "路透"
+      ],
+      "date": "2026-09-11",
+      "image_urls": []
+    },
+    {
+      "id": "us-treasury-buyback",
+      "topic": "美国财政部",
+      "topic_tag": "rates",
+      "title": "财政部长债回购$5.18B未达上限",
+      "summary": "Bessent确认财政部实际回购$5.18B长债，未达此前所说上限；称美国有全世界最佳债券市场，可度过能源供应冲击。",
+      "bullets": [
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "实际回购$5.18B长债，未达之前所说上限",
+          "details": "Bessent：实际回购5.18B，没想之前说的回购那么多；我们有全世界最佳的债券市场，我们可以度过能源供应冲击难关。",
+          "important": true
+        },
+        {
+          "actor": "财政部",
+          "actor_type": "US-Executive",
+          "text": "超$5B长债回购落地但未达上限目标",
+          "details": "美财政部超5B长债回购落地未达上限目标。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-11",
+      "image_urls": []
+    },
+    {
+      "id": "cpi-preview-fed-call",
+      "topic": "8月CPI预览与Fed路径",
+      "topic_tag": "fed",
+      "title": "8月CPI预测中值0.38%/3.4%，卖方分歧BAML/BarCap看9月加息",
+      "summary": "华尔街对8月CPI预测中值：Headline 0.38% m/m/3.4% y/y，Core 0.22% m/m/2.4% y/y；卖方对Fed路径高度分化，BAML/Barclays/DB/GS(部分)/UBS/SocGen看9月加息，摩根大通看12月加息，Citi/GS/MS/MUFG/Oxford等看2027降息。",
+      "bullets": [
+        {
+          "actor": "华尔街调查",
+          "actor_type": "Analyst",
+          "text": "8月CPI Headline中值0.38%/3.4%，Core 0.22%/2.4%",
+          "details": "8月CPI预测中值：Headline 0.38% m/m、3.4% y/y；Core 0.22% m/m、2.4% y/y；7月为0.07%/3.4%/0.22%/2.5%。Moody's最低(Headline 0.29%/3.2%)，MS/WF/EmployAmerica最高(0.40-0.41%)。",
+          "important": true
+        },
+        {
+          "actor": "卖方Fed调查",
+          "actor_type": "Analyst",
+          "text": "Fed路径分歧：BAML+75bp vs Citi/GS 2027才降",
+          "details": "9/10 Fed call：Sept hike阵营（BAML +75bp、Barclays +50bp、DB +50bp、SocGen +50bp、UBS +50bp）；Dec hike（BNPP +25bp、JPM +25bp）；Dec cut（Jefferies -25bp）；2027 cut（Citi、GS、MS、MUFG、Oxford）；无限期观望（HSBC、PNC、Nomura、Pantheon、TD、WF）。",
+          "important": false
+        },
+        {
+          "actor": "EconstratPB",
+          "actor_type": "KOL",
+          "text": "核心PCE 0.3是Waller线，超过则不加息愿望破灭",
+          "details": "EconstratPB：折算核心PCE的Waller线是0.3，高于它他的不加息愿望就tits up（所有预测都没超过0.25的Waller线）。",
+          "important": false
+        },
+        {
+          "actor": "华创郭忠良",
+          "actor_type": "Analyst",
+          "text": "2Y美债比FFR下限高100bp，加息定价到极致",
+          "details": "华创郭忠良：2年期美债利率比联邦基金利率下限要高100个基点，对于二轮加息的定价可谓到了一个极致水平；9月议息会议Warsh面临3个问题：一是是否以货币紧缩政策回应通胀担忧和加息预期；二是何种货币紧缩政策对经济增长冲击最小；三是货币紧缩政策能否强化财政纪律。对于美债市场而言最重要的是第三个问题。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        2
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-09-11",
+      "image_urls": [
+        "/uploads/2026-09-11/5746e56196bd.png",
+        "/uploads/2026-09-11/4a716dc102fa.png"
+      ]
+    },
+    {
+      "id": "buyside-druck-gundlach",
+      "topic": "买方观点",
+      "topic_tag": "macro-other",
+      "title": "Druckenmiller：Fed无需再降息；Gundlach：10Y模型合理值4.71%",
+      "summary": "Druckenmiller抨击认为利率有限制性的Fed官员\"荒谬\"，称Fed无需再降息，做空欧元英镑、不敢做空美元，警告AI基建晚期存在盈利泡沫；Gundlach称长端仍在上行周期，10Y模型合理值4.71%(实4.78%)、30Y自27bp低点升至5.24%亏超50%。",
+      "bullets": [
+        {
+          "actor": "Druckenmiller",
+          "actor_type": "Analyst",
+          "text": "Fed无需再降息，AI基建到晚期需担心盈利泡沫",
+          "details": "Druckenmiller：称认为当前利率有限制性的Fed官员是\"荒谬的\"，考虑到当前经济和资本支出热潮，债券收益率上涨由基本面驱动，完全不令人担忧；尽管近期收益率飙升，美国借贷成本仍\"偏低\"，闭门会议直言Fed无需再降息。整个AI旅程精彩，但基建已到较晚阶段，得开始担心；对华尔街\"高盈利让市场无限上涨\"叙事不满，认为存在盈利泡沫可能，AI基建终将结束，银行做AI交易推公司上市能赚数亿美元。由于美国在AI上全球统治地位（欧洲\"毫无建树\"），\"不敢做空美元\"，今年一直做空欧元和英镑。",
+          "important": true
+        },
+        {
+          "actor": "Gundlach",
+          "actor_type": "Analyst",
+          "text": "10Y模型合理值4.71%，30Y自低点亏超50%",
+          "details": "Gundlach：长端利率仍在上行周期，10年美债模型合理值4.71%（实际4.78%），30Y自27bp低点升至5.24%已亏超50%；若美联储下周不加息，长端利率恐显著上冲。通胀远未达标，CPCE同比3.3%、整体3.7%，进出口价格均值约7%。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-11",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-macro",
+      "topic": "卖方宏观",
+      "topic_tag": "macro-other",
+      "title": "GS：美债务/GDP 2035升至123%；JPM：科技从通缩源变通胀推力",
+      "summary": "GS预计美债务/GDP从100%升至2035年123%，稳定需削赤3pp但政治不可行；JPM Eco指AI基建热潮令科技CPI由年均-2.5%转为+2.5%，DRAM一年+280%，对全球核心通胀贡献转正，2027H1累计+0.3%达峰。",
+      "bullets": [
+        {
+          "actor": "GS Macro",
+          "actor_type": "Analyst",
+          "text": "美债务/GDP 2035年升至123%，AI提振无法替代财政整顿",
+          "details": "GS Macro：受庞大基本赤字及利率反弹影响，美国债务占GDP比率预计从目前100%攀升至2035年123%。虽然AI提升生产力或推动名义GDP至4.5%，但基本赤字平均仍占GDP的3%，名义利息支出占GDP比重将大幅超越1990年代峰值。稳定债务比率需在非衰退期削减约3个百分点的赤字实现基本预算平衡，但在权益性支出上升背景下政治可行性极低，AI提振也无法完全替代财政整顿。",
+          "important": true
+        },
+        {
+          "actor": "JPM Eco",
+          "actor_type": "Analyst",
+          "text": "AI热潮让科技从通缩源变通胀推力，DRAM一年+280%",
+          "details": "JPM Eco：AI基础设施投资热潮正推动科技部门从长期\"通缩源\"转为通胀推动力。全球科技CPI 7月同比+2.5%，扭转此前年均-2.5%常态；受高带宽内存等核心硬件供应紧缺推动（DRAM过去一年暴涨280%），科技对全球核心通胀贡献已由负拖累转正，预计到2027年上半年累计提振约0.3%达峰值，价格压力正从硬件向订阅软件与数字服务扩散。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        6
+      ],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "JPM"
+      ],
+      "date": "2026-09-11",
+      "image_urls": [
+        "/uploads/2026-09-11/469bfc61c16a.png"
+      ]
+    },
+    {
+      "id": "china-battery-halt",
+      "topic": "中国电池产能审查",
+      "topic_tag": "policy",
+      "title": "中国暂停新动力/储能电池项目建设",
+      "summary": "财新报道中国已暂时叫停新的动力及储能电池制造项目建设，等待年底对行业产能进行审查。",
+      "bullets": [
+        {
+          "actor": "财新",
+          "actor_type": "新闻",
+          "text": "中国暂停新动力/储能电池项目，年底产能审查",
+          "details": "据财新报道，中国已暂时叫停新的动力及储能电池制造项目建设，等待年底对行业产能进行审查。",
+          "important": true
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "KOL",
+          "text": "全球收益率飙升有社会政治后果：美30Y房贷破7%",
+          "details": "Erian：全球收益率飙升不只是市场问题，有立竿见影的社会政治后果——美国30年房贷利率刚破7%。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "财新"
+      ],
+      "date": "2026-09-11",
+      "image_urls": []
+    },
+    {
+      "id": "ai-openai-slowdown",
+      "topic": "AI行业",
+      "topic_tag": "ai",
+      "title": "OpenAI考虑放缓前沿AI开发，暂停$200 Pro订阅",
+      "summary": "BBG报道OpenAI CEO Altman正考虑放缓前沿AI开发，并希望其他AI公司也这样做；OpenAI同时暂停$200 Pro订阅。",
+      "bullets": [
+        {
+          "actor": "BBG",
+          "actor_type": "新闻",
+          "text": "OpenAI考虑放缓前沿AI开发，Altman希望同行跟进",
+          "details": "BBG报道OpenAI正在考虑放缓前沿人工智能的开发，这家ChatGPT制造商的首席执行官萨姆·奥尔特曼希望其他AI公司也能这样做。",
+          "important": true
+        },
+        {
+          "actor": "OpenAI",
+          "actor_type": "Corporate",
+          "text": "暂停$200 Pro订阅",
+          "details": "OpenAI暂停$200 Pro订阅。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MSFT",
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "BBG"
+      ],
+      "date": "2026-09-11",
+      "image_urls": []
+    }
+  ]
+}
