@@ -1,0 +1,394 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-houthi-crisis-sep11",
+      "topic": "美伊/胡塞危机",
+      "topic_tag": "geo",
+      "title": "特朗普称伊朗急于达成协议 胡塞喊话不愿开战 习近平愿斡旋",
+      "summary": "Trump 声称胡塞武装主动致电美方表示不愿开战、伊朗急于达成协议，暗示中期选举前后战争或结束。中国国家主席习近平表态愿在美伊之间发挥调解作用。伊朗战争成本据穆迪估计已达 2150 亿美元。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "胡塞致电美方称不愿与美战斗 伊朗急于达成协议",
+          "details": "Trump：胡塞武装致电美方并表示不愿与美方战斗，也不希望美方卷入冲突；伊朗急于达成协议，伊朗战争或许会在中期选举前或中期选举后不久结束，我一向信守承诺。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "要求泽连斯基停止打击俄柴油燃料",
+          "details": "Trump：泽连斯基必须做一件事——他必须停止打击俄罗斯的柴油燃料。",
+          "important": false
+        },
+        {
+          "actor": "习近平",
+          "actor_type": "Foreign-Gov",
+          "text": "习近平愿在美伊和平谈判中发挥作用",
+          "details": "中国国家主席习近平提出愿在美国与伊朗之间的和平谈判中发挥作用。",
+          "important": false
+        },
+        {
+          "actor": "穆迪",
+          "actor_type": "Analyst",
+          "text": "伊朗战争成本估计已达 2150 亿美元",
+          "details": "根据穆迪的数据，伊朗战争的成本现在估计为 215B。",
+          "important": false
+        },
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "伊朗筹码在涨 周一阿曼会谈难达协议 但可能走出降温路径",
+          "details": "short bear：伊朗筹码在涨，各方利益可能对上，从而走出一条'降温、油价回落、美国借坡下驴'的路，但周一阿曼会谈还谈不成协议。北京既有稳航运的经济动机，也有借调解扩大影响力的机会，不必取代美军也能在外交上更重要。中期选举临近，能源通胀、加息压力让这场冲突在国内越来越贵。如果海湾主导谈出能改善能源流动的协议，特朗普可以讲：是地区国家自己选择和伊朗妥协，美国不必替他们把仗打大；把让步算在海湾头上，把收缩说成尊重它们的决定。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Trump",
+        "穆迪"
+      ],
+      "date": "2026-09-14",
+      "image_urls": []
+    },
+    {
+      "id": "fed-sep-hike-debate-sep11",
+      "topic": "美联储9月加息辩论",
+      "topic_tag": "fed",
+      "title": "白宫反对加息 卖方GS/JPM/Citi/Barclays集体上调至加息25bp",
+      "summary": "白宫经济顾问 Hassett 称 Trump 与其均认为无理由加息、支持 Fed 独立性；但市场已定价 90% 加息概率，高盛、摩根大通、花旗、巴克莱纷纷改口预测 9 月加息 25bp 至 3.75%-4.00%。WSJ 社论亦呼吁加息，KOL 观点分化。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "高盛改口预测9月加息25bp 因市场已定价90%",
+          "details": "GS 调整对美联储9月会议的基准预测，由此前的按兵不动改为加息25bps。高盛指出，从经济基本面看加息理由并不充分，过去三个月核心PCE年化增速已改善至约2.5%，通胀超标主要受一次性因素驱动且经济并未过热。此次调整主因市场已定价近90%的加息概率，美联储为维护央行信誉并避免引发市场波动而选择顺应预期，但后续进一步加息并非基准情景。",
+          "important": true
+        },
+        {
+          "actor": "Hassett",
+          "actor_type": "US-Executive",
+          "text": "Trump 与我都认为无理由加息 但百分百尊重Fed独立性",
+          "details": "Hassett：Trump和我都认为没有理由加息。Trump百分之百尊重沃什的独立性。Fed在选举前保持现状很重要。我们将百分之百支持美联储的任何决定。",
+          "important": false
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "摩根大通预测9月及12月各加息25bp",
+          "details": "JPM Eco：8月美国核心CPI环比升0.29%超预期，受无线电话服务涨5.4%驱动。预计8月PCE 0.32%，CPCE 0.25%，鉴于核心PCE预计全年维持3.3%，上调美联储政策路径，预计9月及12月各加息25bp。虽整体CPI低于互换定价，但通胀粘性仍存，维持2Yx3Y通胀互换收窄观点。",
+          "important": false
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "花旗：9月加息25bp 或为年内最后一次 2027年中重启降息",
+          "details": "Citi Fed：预测Fed 9月加息25bp至3.75%-4.00%，因8月核心CPI环比升0.29%及油价回升。但鉴于核心CPI同比降至2.4%及住房等服务通胀冷却，预计此为年内最后一次加息，2027年中将重启降息。经济方面，8月零售销售预计反弹0.7%，Q3 GDP增速看淡至1.8%，失业率稳守4.1%-4.2%。",
+          "important": false
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "巴克莱：9月及12月各加25bp Waller或投反对票",
+          "details": "Barclays Fed：预计美联储9月加息25bp至3.75%-4.00%，12月再加息25bp。受WTI原油飙升至100美元及就业强劲影响，通胀下行受阻。预计2026年GDP增速下调至2.1%，失业率维持4.1%。点阵图显示2026年加息一次，2028年起降息。理事Waller或投反对票。",
+          "important": false
+        },
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "月核心PCE预测集中在0.25-0.28% 略低于核心CPI",
+          "details": "Nick：月核心PCE预测集中在0.25-0.28% 与7月持平 略低于核心CPI的0.29。",
+          "important": false
+        },
+        {
+          "actor": "WSJ 社论",
+          "actor_type": "新闻",
+          "text": "WSJ社论支持Fed加息25bp以锚定通胀预期",
+          "details": "WSJ社论称8月份实际平均时薪下降了0.1%。如旁边的图表所示，过去一年里实际平均时薪下降了0.3%，让实际工资上涨的最佳方式是特朗普给沃什足够的空间，让他将通胀降至美联储2%的目标。这可能需要从下周FOMC会议上的四分之一个百分点的加息开始，这将向市场发出信号，表明央行对通胀是认真的。",
+          "important": false
+        },
+        {
+          "actor": "fcastofthemonth",
+          "actor_type": "KOL",
+          "text": "全年8个核心PCE读数中7个≥0.25% 同比仍在3.1-3.3%",
+          "details": "fcastofthemonth：全年8个核心PCE读数中7个>=0.25% 即3%年化以上 新方法论下同比核心仍在3.1-3.3%。",
+          "important": false
+        },
+        {
+          "actor": "Anna",
+          "actor_type": "KOL",
+          "text": "2017年10月Yellen称无线话费是一次性降通胀 如今同项反向封印加息",
+          "details": "Anna：2017年10月Yellen就讲过无线话费是一次性降通胀项 如今同一分项反向封印加息 a big mistake。",
+          "important": false
+        },
+        {
+          "actor": "mark_dow",
+          "actor_type": "KOL",
+          "text": "供给冲击驱动通胀 Fed应控预期而非机械加息",
+          "details": "@mark_dow：终于到了加息的时候了。当通胀源于供给冲击或多次供给冲击时，美联储无法阻止通胀。但它必须做的是控制通胀预期。因此，他们的反应函数应该是给供给冲击时间，让其自行消退，并随时准备在通胀预期失控的风险过大时介入。",
+          "important": false
+        },
+        {
+          "actor": "ShanghaoJin",
+          "actor_type": "KOL",
+          "text": "市场已完全打向另一边 消费/工资/房租无持续加息基础",
+          "details": "ShanghaoJin：加息也不是问题：一方面市场预期已完全打向另一边（定价一年3.5次 而消费信贷 工资 房租全都不通胀 没有持续加息基础）；另一方面过去二十年惯性以为增长靠赢钱 联储一收全掉——现在是40年来宏观第一次真提效 不能低估这本质变化。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        7
+      ],
+      "importance": 3,
+      "sources": [
+        "GS",
+        "JPM",
+        "Citi",
+        "Barclays",
+        "WSJ"
+      ],
+      "date": "2026-09-14",
+      "image_urls": [
+        "/uploads/2026-09-14/738d7e7d762e.png"
+      ]
+    },
+    {
+      "id": "oil-saudi-eastwest-pipeline-sep11",
+      "topic": "油市/沙特东西管道",
+      "topic_tag": "oil",
+      "title": "沙特东西管道遭袭 库存4天见底 Brent近月107 现货升水暴涨",
+      "summary": "沙特东西向输油管道疑遭胡塞袭击停运，tankertracker 估计延布/穆阿吉兹储罐 4 天内见底否则触发不可抗力，将同时推高原油近月价差与成品油裂解价差。Brent 近月 107.63、Dated Brent 120.28 美元，Dubai 物理升水均值飙至 22.62，全球可见油库以创纪录速度下降。",
+      "bullets": [
+        {
+          "actor": "tankertracker",
+          "actor_type": "KOL",
+          "text": "沙特东西管道储罐 4 天见底 否则触发不可抗力",
+          "details": "tankertracker：东西向的'石油线'实际上由两条实体管道组成。一条专门输送每日500万桶的原油，另一条输送每日200万桶NGL或作为备用原油管道。同时延布和穆阿吉兹岸上还有储油罐。预计沙特能在未来几天内以降级模式重启该管道，也预计胡塞会再尝试几次使其瘫痪。在东西管道已瘫痪的假设下，沙特西海岸储罐见底时间——长话短说，他们最好在4d或更短时间内修好，否则将出现大量不可抗力，届时我们将同时推高原油近月价差和成品油裂解价差。封锁线（阿曼湾-阿拉伯海交界）外六国（科、伊拉克、沙、卡、UAE、阿曼）原油出口两个月来首次回到10mbpd上方，伊朗出口保持零，阿联酋出口已恢复至战前基线，伊拉克南部出口目前下降33%（4月曾降95%）。",
+          "important": true
+        },
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "更像打中泵站而非整条管道 延布靠库存顶一阵",
+          "details": "JH：不是整条管道被扫几百公里，更像是打中了某座泵站。所以问题从'有没有被打中'变成了'会停多久'。他认为这次不一定会变成长期大停输，技术上应急办法很多，就算把应急手段都用上，运力还是会打折。延布这边会先吃库存顶一阵。只要没有后续再打，沙特有能力维持相当一部分输送，同时抢修。真正的风险是再遭到打击。",
+          "important": false
+        },
+        {
+          "actor": "tleilax___",
+          "actor_type": "KOL",
+          "text": "距成品油定价基准触底/批发市场恐慌约3周",
+          "details": "@tleilax___：5月的预期已然明朗，如今已到摊牌时刻。距离部分成品油定价基准触及油罐底部、批发市场恐慌开始，大约还有3周时间。过去4周他们的净盈余为3.62M b/d，目前预计将放缓。他们已经在动用原油库存，只要东西管道仍处于停运状态就会继续这样做。如前所述，红海出口相当脆弱。",
+          "important": false
+        },
+        {
+          "actor": "Rory_Johnston",
+          "actor_type": "KOL",
+          "text": "此轮尖峰比2022更慢更持续 Dated-Frontline价差继续推高",
+          "details": "Rory_Johnston：这轮与2022和今年3-4月的尖峰式不同（更慢更持续）；盘面结构：Brent近月从夜高回落，但Dated-to-Frontline价差继续推高。",
+          "important": false
+        },
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "汽油贡献8月环比涨幅1/3以上 油是供给问题却定价多次加息",
+          "details": "short bear：汽油一项占8月环比涨幅1/3以上；12个月口径能源贡献约1.08pp（约占3.4%总通胀的32%），汽油单项约0.87pp（约1/4），而能源在篮子里只占7.3%。核心CPI为一年多来最低。油是供给问题却在为一个瞬时问题定价多次加息。",
+          "important": false
+        },
+        {
+          "actor": "JPM Commodities",
+          "actor_type": "Analyst",
+          "text": "全球可见油库以创纪录速度下降 2026年6月触及运营应力线",
+          "details": "图表：World Oil Inventories Are Falling at a Record Pace。2020年3月Covid期间峰值9.0B桶，2026年6月伊朗战争后触及Operational stress level 7.6B，9月触及Operational floor 6.8B（假设无解决、需求减少560万桶/日）。来源：JPMorgan Commodities Research 使用 Kpler/IEA/EIA/OilChem/PAJ/JODI 数据。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "USO",
+        "XOM",
+        "CVX"
+      ],
+      "image_indexes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9
+      ],
+      "importance": 3,
+      "sources": [
+        "tankertracker",
+        "Bloomberg",
+        "JPM Commodities"
+      ],
+      "date": "2026-09-14",
+      "image_urls": [
+        "/uploads/2026-09-14/eaf1e00126a0.png",
+        "/uploads/2026-09-14/cb5516b1dda0.png",
+        "/uploads/2026-09-14/f3e029074bc3.png",
+        "/uploads/2026-09-14/0c8c2b7335f7.png",
+        "/uploads/2026-09-14/050b7db00cb3.png",
+        "/uploads/2026-09-14/2473047ac68f.png",
+        "/uploads/2026-09-14/6d430ea567cd.png",
+        "/uploads/2026-09-14/012f97d1eaa3.jpg"
+      ]
+    },
+    {
+      "id": "gs-macro-notes-sep11",
+      "topic": "高盛宏观（美债/黄金）",
+      "topic_tag": "rates",
+      "title": "高盛：美债长债供应无失衡 金价2026年底看4900美元",
+      "summary": "高盛评估美国长期美元债券供应虽升至历史高位但占 GDP 仍属常态，收益率主要由基本面驱动。黄金维持 2026 年底 4900 美元/盎司公允价值预测，中期风险偏上；若加息预期重燃可能回撤至 4440 美元。",
+      "bullets": [
+        {
+          "actor": "GS GRT",
+          "actor_type": "Analyst",
+          "text": "美债长债2026/27净供应升至2.6T/2.85T 但占GDP仍常态",
+          "details": "GS GRT：尽管美国长期美元债券净供应量预计在2026和2027年分别升至2.6T和2.85T的历史高位，但经名义GDP调整后（占比8%-8.5%）仍处常态，未出现明显的期限供应失衡。近期美债收益率走高主要由美联储政策路径、经济增长预期等基本面主导，而非供应消化问题。大额投资级债券发行对30年期收益率的影响仅限单日且不具持续性。高盛对MBS基差维持中性，短期风险偏向利差走阔。",
+          "important": false
+        },
+        {
+          "actor": "GS Gold",
+          "actor_type": "Analyst",
+          "text": "维持金价2026年底4900美元预测 中期风险偏上行",
+          "details": "GS Gold：维持对2026年底金价4,900美元/盎司的公允价值预测，并认为中期风险偏向上行。数据显示7月全球央行购金达44吨（中国贡献35吨），三个月季调后月均达91吨，远超历史常态。除央行托底与G10财政担忧外，高盛提示需警惕做市商对冲带来的双向波动放大：若ETF流入与看涨期权共振，涨势可能被机械推升远超预期；若美联储加息预期重燃，金价可能回撤至4,440美元/盎司。",
+          "important": true
+        }
+      ],
+      "tickers": [
+        "GLD",
+        "TLT"
+      ],
+      "image_indexes": [
+        8
+      ],
+      "importance": 2,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-09-14",
+      "image_urls": [
+        "/uploads/2026-09-14/8733cd197daf.png"
+      ]
+    },
+    {
+      "id": "ai-safety-anthropic-sep11",
+      "topic": "AI安全与行业动态",
+      "topic_tag": "ai",
+      "title": "Anthropic CEO警告AI风险 Altman/Musk附议 25位菲尔兹奖得主批AI公司",
+      "summary": "Anthropic CEO 呼吁全球协调、引入第三方安全评估，Altman、Musk 加入主张；Altman 称 OpenAI 今年不会 IPO。菲尔兹奖得主联名批评 AI 公司把数学难题当刷榜工具。SemiAnalysis 预测英伟达 FY31 现金 1.4T、表外负债 2.5T。",
+      "bullets": [
+        {
+          "actor": "Anthropic CEO",
+          "actor_type": "Corporate",
+          "text": "Anthropic CEO警告AI风险太大 Altman/Musk附议加强协调",
+          "details": "Anthropic CEO周六在一篇博文中发起了讨论，称当前最前沿工具所带来的风险实在太大，并警告称否则可能在几个月内带来潜在的毁灭性后果。不应继续以如此惊人的速度推进开发，建议采取新措施，包括民主国家之间加强全球协调，以及引入嵌入式第三方安全评估人员。Altman和Musk加入主张。",
+          "important": true
+        },
+        {
+          "actor": "Altman",
+          "actor_type": "Corporate",
+          "text": "OpenAI 今年不会上市 需完成安全工作",
+          "details": "Altman表示鉴于所有需要完成的安全工作，OpenAI 今年不会上市。",
+          "important": false
+        },
+        {
+          "actor": "财新",
+          "actor_type": "新闻",
+          "text": "财新：Anthropic 指控7家中国企业蒸馏是为绑定中美博弈",
+          "details": "财新认为，Anthropic 在这个时间点发布指控 7 家中国企业蒸馏，是想进一步把商业竞争和中美博弈绑在一起，确保自己的地位。",
+          "important": false
+        },
+        {
+          "actor": "陶哲轩等25位菲尔兹奖得主",
+          "actor_type": "Analyst",
+          "text": "25位菲尔兹奖得主批AI公司把数学难题当刷榜工具",
+          "details": "陶哲轩、邓煜等25位菲尔兹奖得主联合发布了一篇声明，批评AI公司把著名数学问题当成能力榜、公关和竞赛项目，只追求批量产出，导致出现严重的归属和剽窃问题。",
+          "important": false
+        },
+        {
+          "actor": "SemiAnalysis",
+          "actor_type": "Analyst",
+          "text": "预测英伟达 FY31 现金 1.4T 表外负债 2.5T",
+          "details": "SemiAnalysis 预测，到 FY31，英伟达的现金余额将增长至 1.4T，表外负债将增长至 ~$2.5T。半导体研究公司 SemiAnalysis 收购 Citrini Research。",
+          "important": false
+        },
+        {
+          "actor": "Larry Ellison",
+          "actor_type": "Corporate",
+          "text": "Ellison拟抛售75亿ORCL股票后取消",
+          "details": "Oracle Founder Larry Ellison将抛售价值高达7.5B的 $ORCL 股票，这是该公司历史上规模最大的内部人士出售，随后又已取消其抛售。",
+          "important": false
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Corporate",
+          "text": "摩根大通终止与Leopold Situational Awareness对冲基金贷款关系",
+          "details": "JPM终止与 Leopold 的 Situational Awareness 对冲基金的贷款关系。",
+          "important": false
+        },
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "AI公司炒'自我递归改进'因赶IPO 且份额输给中国模型",
+          "details": "short bear：各家开始大谈'模型能自我递归改进、能力很吓人'的时候，正好赶上多数实验室都在准备上市。它们正把大量份额输给中国模型，需要新故事来撑财报和估值。",
+          "important": false
+        },
+        {
+          "actor": "Dr_Gingerballs",
+          "actor_type": "KOL",
+          "text": "Dr_Gingerballs讽刺Dario：不拦我犯罪 也别让中国犯罪",
+          "details": "Dr_Gingerballs：把Dario话术翻译成'你们不拦着我 我就继续犯罪 拦我又会让中国多犯罪 最优解是让我限量犯罪'。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "ORCL",
+        "NVDA",
+        "MSFT"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "财新",
+        "SemiAnalysis"
+      ],
+      "date": "2026-09-14",
+      "image_urls": []
+    },
+    {
+      "id": "us-congress-datacenter-sep11",
+      "topic": "美国国会/数据中心",
+      "topic_tag": "policy",
+      "title": "众院拟就限制数据中心成本法案投票 Lunick否认5K支票来自税收",
+      "summary": "众议院拟于周二就限制数据中心成本的法案进行投票。Lunick 澄清 Trump 承诺的每人 5000 美元支票不来自税收。",
+      "bullets": [
+        {
+          "actor": "US House",
+          "actor_type": "US-Congress",
+          "text": "众院周二拟就限制数据中心成本法案投票",
+          "details": "众院拟于周二就限制数据中心成本的法案进行投票。",
+          "important": true
+        },
+        {
+          "actor": "Lunick",
+          "actor_type": "US-Executive",
+          "text": "Trump 承诺的每人5000美元支票不来自税收",
+          "details": "Lunick：Trump许诺的5K/人支票不来自税收。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-09-14",
+      "image_urls": []
+    }
+  ]
+}

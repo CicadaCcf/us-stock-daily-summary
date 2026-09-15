@@ -1,0 +1,59 @@
+{
+  "generated_at": "2026-09-14T21:31:39+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-09-14",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12523,
+    "partial_pass": 6,
+    "with_carryover": 7,
+    "after_full_check": 3
+  },
+  "rows": [
+    {
+      "tk": "ZS",
+      "nm": "Zscaler, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 16.5,
+      "w1": 12.9,
+      "market_cap_bn": 31.26,
+      "dollar_vol_bn": 1.44,
+      "w1_avg_dollar_vol_bn": 0.69,
+      "reason": "",
+      "main_business": "提供云原生企业网络安全SaaS解决方案"
+    },
+    {
+      "tk": "TENB",
+      "nm": "Tenable Holdings, Inc.",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 16.5,
+      "w1": 2.4,
+      "market_cap_bn": 3.86,
+      "dollar_vol_bn": 0.42,
+      "w1_avg_dollar_vol_bn": 0.27,
+      "reason": "",
+      "main_business": "提供漏洞管理与网络安全暴露管理解决方案"
+    },
+    {
+      "tk": "RBRK",
+      "nm": "Rubrik, Inc.",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 15.6,
+      "w1": 7.0,
+      "market_cap_bn": 20.77,
+      "dollar_vol_bn": 0.54,
+      "w1_avg_dollar_vol_bn": 0.3,
+      "reason": "",
+      "main_business": "提供企业数据安全与网络恢复解决方案"
+    }
+  ]
+}

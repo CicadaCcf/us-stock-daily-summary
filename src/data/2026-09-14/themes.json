@@ -1,0 +1,254 @@
+{
+  "themes": [
+    {
+      "id": "ai-infoflow-0907-0913",
+      "theme": "AI",
+      "title": "AI信息流总结 9/7-9/13",
+      "date_range": "9/7-9/13",
+      "date": "2026-09-14",
+      "tickers": [
+        "META",
+        "GS",
+        "MS"
+      ],
+      "summary": "本周ARR延续缓慢增长，Anthropic与OAI就控制模型发展速度达成共识引发训练投入放缓担忧；供给端DS发布更便宜模型、OAI推出金融agent并解决NS问题打开AI4S想象，同时Ramp数据显示高支出档位AI消费下滑，加剧对能力过线后workload不再迁移SOTA的担忧。",
+      "groups": [
+        {
+          "label": "ARR",
+          "entries": [
+            {
+              "source": "FundAI",
+              "source_type": "口径trailing 28d ARR",
+              "points": [
+                "预计Anth $82.5B, OAI $44.3B"
+              ],
+              "important": true,
+              "important_reason": ""
+            },
+            {
+              "source": "SA/Yipit/Tickertrend",
+              "source_type": "",
+              "points": [
+                "本周暂无更新"
+              ],
+              "important": false
+            },
+            {
+              "source": "OAI CFO Sarah Friar",
+              "source_type": "GS Communacopia",
+              "points": [
+                "发言tone乐观，但数据方面无增量"
+              ],
+              "important": false
+            }
+          ]
+        },
+        {
+          "label": "需求-训练需求",
+          "entries": [
+            {
+              "source": "训练需求综述",
+              "source_type": "",
+              "points": [
+                "Anthropic和OAI达成共识应该控制模型发展速度，引发市场对模型训练投入放缓的担忧，实际落地目前仅有引入第三方评估员，但是因为多层竞争关系，实际节奏上很难真的放缓训练投入。详细分析见post"
+              ],
+              "important": true
+            }
+          ]
+        },
+        {
+          "label": "需求-企业应用",
+          "entries": [
+            {
+              "source": "综述",
+              "source_type": "",
+              "points": [
+                "暂无增量信息，企业仍然在意ROI，未见因astra产生新需求"
+              ],
+              "important": false
+            },
+            {
+              "source": "FundaAI",
+              "source_type": "企业调研第三期 / 多头",
+              "points": [
+                "企业广泛提供AI基础模型，控制仅部分高级员工可以使用SOTA模型来控制成本",
+                "用量分布不均衡，用量主要来自工程师等一小群重度用户",
+                "自动Routing进展缓慢，更多依靠workflow设计时选择默认模型",
+                "企业AI应用的回报主要来自收入增长、避免招聘以及外部服务成本降低"
+              ],
+              "important": false
+            },
+            {
+              "source": "Ramp",
+              "source_type": "8 月，美国企业样本 / 空头",
+              "points": [
+                "最高1%支出档位-9.7%，但最高 10% 和中位数仍分别 +4.8%、+5.2%",
+                "*加剧AI收入下降的担忧，现有性价比模型能力过线后workload不再迁移到SOTA模型，同能力模型单价平均3个月下降一半"
+              ],
+              "important": true
+            }
+          ]
+        },
+        {
+          "label": "供给-模型能力",
+          "entries": [
+            {
+              "source": "综述",
+              "source_type": "",
+              "points": [
+                "本周企业应用层未见模型能力提升，主要是DS发布更便宜模型。应用上OAI金融agent产品化"
+              ],
+              "important": false
+            },
+            {
+              "source": "DS V4.1 Flash",
+              "source_type": "",
+              "points": [
+                "KV cache降低到上一版的1/4，降低幅度和前几代幅度类似，PB上也脱敏了，对存储影响不大"
+              ],
+              "important": false
+            },
+            {
+              "source": "OAI financial agent service",
+              "source_type": "金融",
+              "points": [
+                "workflow上接入金融专业数据和公司模版（MS，Evercore），提升可用性。产品化更明确，但对adoption来说暂时认为意义不大，因为卡点在内部workflow的梳理和权限的合规开放"
+              ],
+              "important": true
+            },
+            {
+              "source": "法律/医疗",
+              "source_type": "",
+              "points": [
+                "暂无变化"
+              ],
+              "important": false
+            }
+          ]
+        },
+        {
+          "label": "供给-AI4S",
+          "entries": [
+            {
+              "source": "综述",
+              "source_type": "",
+              "points": [
+                "本周OAI解决NS问题热度极高，打开市场对AI应用增加科研领域收入的想象。但同时也引发了数学从业者的抵制",
+                "NS分析见post"
+              ],
+              "important": true
+            },
+            {
+              "source": "陶哲轩",
+              "source_type": "",
+              "points": [
+                "AI解决前沿问题不能让数学家在解决问题的过程中感知领域难度地形图，长久不利于数学发展"
+              ],
+              "important": false
+            }
+          ]
+        },
+        {
+          "label": "供给-2C Personal Agent",
+          "entries": [
+            {
+              "source": "综述",
+              "source_type": "",
+              "points": [
+                "Meta发布Muse，能够完成日常任务，叙事上提振市场对Meta AI ROI的信心，虽然实际上产品完成度较差"
+              ],
+              "important": false
+            },
+            {
+              "source": "扎克伯格",
+              "source_type": "Meta",
+              "points": [
+                "Muse的商业模式长期预期从交易中小比例抽成，费用可来自合作商户",
+                "实际上Muse完成度不太好，实测定餐厅等简单任务都难以完成"
+              ],
+              "important": true
+            }
+          ]
+        },
+        {
+          "label": "供给-网安/数据安全",
+          "entries": [
+            {
+              "source": "综述",
+              "source_type": "",
+              "points": [
+                "叙事热度高，暂无实际dp",
+                "Anthropic发布claude滥用报告，多起用例涉及有非常严重后果的主权数据泄漏，详情见post",
+                "安全治理和数据安全需求叙事上热度很高，但AI labs合作对象目前更多是独立评估机构，暂未和服务提供商合作"
+              ],
+              "important": true
+            }
+          ]
+        },
+        {
+          "label": "供给-RSI",
+          "entries": [
+            {
+              "source": "综述",
+              "source_type": "",
+              "points": [
+                "热度高，实际进展目前仍是在标准明确的任务上辅助 researcher，未见突变证据"
+              ],
+              "important": false
+            },
+            {
+              "source": "Dario",
+              "source_type": "Anthropic",
+              "points": [
+                "AI 帮助研发下一代 AI 的速度在加快, 这是主张 pacing 的理由之一"
+              ],
+              "important": true
+            },
+            {
+              "source": "Dwarkesh Patel",
+              "source_type": "",
+              "points": [
+                "RSI 仍卡在目标定义、验证和样本效率，还不是闭环自我改进"
+              ],
+              "important": false
+            }
+          ]
+        },
+        {
+          "label": "竞争与定价",
+          "entries": [
+            {
+              "source": "综述",
+              "source_type": "",
+              "points": [
+                "暂无边际变化"
+              ],
+              "important": false
+            }
+          ]
+        },
+        {
+          "label": "监管",
+          "entries": [
+            {
+              "source": "综述",
+              "source_type": "",
+              "points": [
+                "政府层面强制AI放缓投入的概率较低"
+              ],
+              "important": false
+            },
+            {
+              "source": "Trump",
+              "source_type": "",
+              "points": [
+                "不认可本周大肆渲染的AI末日伦，他需要确保US在AI方面的领先地位"
+              ],
+              "important": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
