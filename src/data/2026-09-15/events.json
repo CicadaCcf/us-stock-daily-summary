@@ -1,0 +1,155 @@
+{
+  "events": [
+    {
+      "tag": "油价冲击",
+      "tagCls": "hot",
+      "title": "沙特东西向管道停运，WTI逼近106美元",
+      "body": "中东冲突升级与沙特关键能源设施遇袭后，东西向输油管道停运，供应中断担忧升温。WTI一度升至约105–106美元、Brent靠近或超过107美元，柴油裂解与成品油紧张同步加剧。全球商业库存与战略储备缓冲有限，能源冲击已向美债收益率、通胀预期与风险资产贴现率传导。",
+      "tickers": [
+        "XOM",
+        "CVX",
+        "VLO"
+      ]
+    },
+    {
+      "tag": "美联储",
+      "tagCls": "hot",
+      "title": "美联储决议前加息25bps概率逾90%",
+      "body": "联邦基金期货显示加息25bps至3.75%–4.00%区间的概率约90%以上，市场同时交易年内或还有一次跟进加息。10年期美债收益率一度升至约5.0%上方、创2007年以来高位，油价上行与通胀黏性强化紧缩定价。焦点转向点阵图、通胀预测及主席会后表述。",
+      "tickers": [
+        "SPY",
+        "QQQ"
+      ]
+    },
+    {
+      "tag": "AI安全",
+      "tagCls": "hot",
+      "title": "OpenAI、Anthropic与英伟达就AI安全节奏交锋",
+      "body": "Anthropic、OpenAI等就放缓前沿模型节奏与安全合作密集发声，英伟达CEO黄仁勋则强调无需新法、市场可约束安全创新，并出现以安全合作为名寻求反垄断豁免的争议。安全叙事短期压制高估值算力链风险偏好，却强化网络安全、身份与Agent权限治理需求，资本开支指引尚未系统性下修。",
+      "tickers": [
+        "NVDA",
+        "PANW",
+        "CRWD"
+      ]
+    },
+    {
+      "tag": "加密监管",
+      "tagCls": "warn",
+      "title": "参议院CLARITY加密法案程序投票失败",
+      "body": "美国参议院对加密监管框架CLARITY法案的程序投票未能通过，关键推动者称短期推进基本结束，行业更可能等到明年再争取立法清晰度。投票失败后加密资产与相关美股流动性溢价回吐，监管回到由SEC/CFTC既有框架推进的路径，中期选举临近进一步降低短期立法窗口。",
+      "tickers": [
+        "COIN",
+        "HOOD",
+        "CRCL"
+      ]
+    },
+    {
+      "tag": "利率",
+      "tagCls": "warn",
+      "title": "美国10年期国债收益率升破5%创多年新高",
+      "body": "受油价上涨、通胀再定价与国债供给压力推动，美国10年期收益率升破5%，创约二十年来最高水平附近，全球债市同步承压。长端利率上行抬升股权风险贴现与地产/成长估值压力，也使增长能否消化债务成本的讨论重回定价核心。",
+      "tickers": [
+        "TLT",
+        "SPY"
+      ]
+    },
+    {
+      "tag": "自研芯片",
+      "tagCls": "",
+      "title": "Meta计划2027上半年部署MTIA450推理芯片",
+      "body": "Meta披露计划在2027年上半年于数据中心部署自研MTIA 450推理芯片，并在随后12个月承诺超过1GW相关产能，后续Astrid节点指向2027年底。公司重心放在低成本、高能效通用推理，以降低规模化阶段对外部加速器依赖，影响后续GPU/定制ASIC采购结构。",
+      "tickers": [
+        "META",
+        "AVGO",
+        "TSM"
+      ]
+    },
+    {
+      "tag": "国防财政",
+      "tagCls": "",
+      "title": "CBO估算对伊军事行动五个月成本380亿美元",
+      "body": "国会预算办公室相关研究显示，相关军事行动前五个月直接成本约380亿美元，并可能在明年初对通胀产生约0.5个百分点的上拉。弹药库存消耗与补给周期拉长，使财政支出、通胀黏性与国防工业产能成为中期宏观约束。",
+      "tickers": [
+        "LMT",
+        "RTX",
+        "GD"
+      ]
+    },
+    {
+      "tag": "AI基建",
+      "tagCls": "",
+      "title": "OpenAI布局加拿大数据中心并收购Glass Imaging",
+      "body": "OpenAI高管在加拿大投资场合表态，正评估当地能源与土地资源以布局数据中心，并对加方AI产业规划给予正面评价。同时公司同意收购影像/相机初创Glass Imaging，交易估值超过3亿美元，显示头部模型公司在算力选址与端侧硬件双线扩张。",
+      "tickers": [
+        "VRT",
+        "EQIX",
+        "SMCI"
+      ]
+    },
+    {
+      "tag": "HBM",
+      "tagCls": "",
+      "title": "SK海力士向英伟达Rubin出货16层HBM4",
+      "body": "行业信息显示SK Hynix已就Nvidia Rubin平台进入16层HBM4出货/放量阶段，Micron仍偏样品进度，三星相关节点落后，先进封装产能仍是共同瓶颈。HBM供需紧张与价格周期被进一步坐实，存储龙头盈利弹性与交期能力成为AI硬件链条关键定价变量。",
+      "tickers": [
+        "MU",
+        "NVDA",
+        "AMKR"
+      ]
+    },
+    {
+      "tag": "人形机器人",
+      "tagCls": "",
+      "title": "Agility发布Digit5人形机器人，估值约25亿美元",
+      "body": "Agility Robotics发布新一代人形机器人Digit 5，强调无需物理隔离即可与人协作，负载提升至50磅，并规划通过SPAC上市、估值约25亿美元。人形机器人从演示向可安全部署的工业协作推进，执行器、传感与产线集成环节订单能见度成为后续观察点。",
+      "tickers": [
+        "TSLA",
+        "ROK",
+        "NVDA"
+      ]
+    },
+    {
+      "tag": "半导体IPO",
+      "tagCls": "",
+      "title": "英特尔支持的Altera秘密提交IPO申请",
+      "body": "由Silver Lake与Intel支持的FPGA厂商Altera已秘密提交IPO申请，业务聚焦AI、工业自动化与机器人可编程芯片。AI资本开支热度仍在向半导体设计与可重构计算细分传导，美国IPO窗口对AI基础设施相关资产保持开放。",
+      "tickers": [
+        "INTC",
+        "AMD",
+        "LSCC"
+      ]
+    },
+    {
+      "tag": "AI基建",
+      "tagCls": "warn",
+      "title": "黑石警告数据中心阻力将使AI集中于大公司",
+      "body": "黑石CEO拉里·芬克警告，公众对数据中心建设的反对与审批延误，将使AI能力更集中于少数拥有资本、电力与合规资源的大公司。地方阻力、电力接网与选举周期正成为AI资本开支的软约束，项目落地速度与融资结构分化料将加剧。",
+      "tickers": [
+        "BX",
+        "EQIX",
+        "DLR"
+      ]
+    }
+  ],
+  "_archive": {
+    "source": "notion",
+    "fetched_at": "2026-09-16T00:10:48.655558+00:00",
+    "raw_text": "### 沙特东西向管道停运推升油价与全球燃料紧张\n中东冲突升级与沙特关键能源设施遇袭后，东西向输油管道停运，供应中断担忧升温，WTI一度升至约105–106美元、Brent靠近/超过107美元，柴油裂解与成品油紧张同步加剧。全球商业库存与战略储备缓冲有限，能源冲击已向美债收益率、通胀预期与风险资产贴现率传导，短线定价高度依赖管道修复与航运风险边际变化。\n- XOM  Exxon Mobil\n- CVX  Chevron\n- VLO  Valero Energy\n### 美联储决议前市场定价25bps加息概率逾90%\n美联储议息会议临近，联邦基金期货显示加息25bps至3.75%–4.00%区间的概率约90%以上，市场同时交易年内或还有一次跟进加息。10年期美债收益率一度升至约5.0%上方、创2007年以来高位，油价上行与通胀黏性强化了紧缩定价；交易焦点转向点阵图、通胀预测以及主席沃什会后表述对后续路径的约束。\n- SPY  SPDR S&P 500 ETF\n- QQQ  Invesco QQQ Trust\n### OpenAI Anthropic英伟达就AI安全节奏公开交锋\nAnthropic、OpenAI等就放缓前沿模型节奏与安全合作密集发声，英伟达CEO黄仁勋则强调无需新法、市场可约束安全创新；同时出现以安全合作为名寻求反垄断豁免的争议。交易层面，安全叙事短期压制高估值算力链风险偏好，却强化网络安全、身份与Agent权限治理需求；资本开支指引尚未系统性下修，市场更多以对冲而非退出处理。\n- NVDA  Nvidia\n- PANW  Palo Alto Networks\n- CRWD  CrowdStrike\n### 参议院CLARITY法案程序投票失败\n美国参议院对加密监管框架CLARITY法案的程序投票未能通过，关键推动者称短期推进基本结束，行业更可能等到明年再争取立法清晰度。投票失败后加密资产与相关美股流动性溢价回吐，监管不确定性回到“由SEC/CFTC既有框架推进”的路径，中期选举临近进一步降低短期立法窗口。\n- COIN  Coinbase\n- HOOD  Robinhood\n- CRCL  Circle\n### 美国10年期国债收益率升破5%创多年新高\n受油价上涨、通胀再定价与国债供给压力推动，美国10年期收益率升破5%，创约二十年来最高水平附近，全球债市同步承压。长端利率上行抬升股权风险贴现与地产/成长估值压力，也使“增长能否消化债务成本”的讨论重新回到定价核心。\n- TLT  iShares 20+ Year Treasury Bond ETF\n- SPY  SPDR S&P 500 ETF\n### Meta计划2027上半年部署MTIA450推理芯片\nMeta披露计划在2027年上半年于数据中心部署自研MTIA 450推理芯片，并在随后12个月承诺超过1GW相关产能，后续Astrid节点指向2027年底。公司明确将重心放在低成本、高能效通用推理，以降低规模化阶段对外部加速器的依赖；这被视作超大规模云/平台自研硅推进的新验证，也影响后续GPU/定制ASIC采购结构。\n- META  Meta\n- AVGO  Broadcom\n- TSM  Taiwan Semiconductor\n### CBO估算美对伊军事行动五个月直接成本380亿美元\n国会预算办公室相关研究显示，相关军事行动前五个月直接成本约380亿美元，并可能在明年初对通胀产生约0.5个百分点的上拉。弹药库存消耗与补给周期拉长，使财政支出、通胀黏性与国防工业产能成为中期宏观约束，而非单一地缘新闻冲击。\n- LMT  Lockheed Martin\n- RTX  RTX\n- GD  General Dynamics\n### OpenAI关注加拿大数据中心并推进硬件并购\nOpenAI高管在加拿大投资场合表态，正密切评估当地能源与土地资源以布局数据中心，并对加方AI产业规划给予正面评价；同时公司同意收购影像/相机初创Glass Imaging，交易估值超过3亿美元。这显示头部模型公司在“算力选址+端侧/硬件能力”双线扩张，资本开支与供应链外延仍在继续，而非停留在模型发布节奏本身。\n- VRT  Vertiv\n- EQIX  Equinix\n- SMCI  Super Micro Computer\n### SK海力士向英伟达Rubin出货16层HBM4\n行业信息显示SK Hynix已就Nvidia Rubin平台进入16层HBM4出货/放量阶段，Micron仍偏样品进度，三星相关节点落后，先进封装产能仍是共同瓶颈。HBM供需紧张与价格周期被进一步坐实，存储龙头盈利弹性与交期能力成为AI硬件链条的关键定价变量。\n- MU  Micron Technology\n- NVDA  Nvidia\n- AMKR  Amkor Technology\n### Agility发布可与人近距离协作的Digit5人形机器人\nAgility Robotics发布新一代人形机器人Digit 5，强调无需物理隔离即可与人协作，负载提升至50磅，并规划通过SPAC上市、估值约25亿美元。人形机器人从演示向“可安全部署的工业协作”推进，执行器、传感与产线集成环节的订单能见度成为后续观察点。\n- TSLA  Tesla\n- ROK  Rockwell Automation\n- NVDA  NVIDIA\n### 英特尔支持的Altera秘密提交IPO申请\n由Silver Lake与Intel支持的FPGA厂商Altera已秘密提交IPO申请，业务聚焦AI、工业自动化与机器人可编程芯片。AI资本开支热度仍在向半导体设计与可重构计算细分传导，美国IPO窗口对AI基础设施相关资产保持开放。\n- INTC  Intel\n- AMD  AMD\n- LSCC  Lattice Semiconductor\n### 黑石警告数据中心地方阻力将使AI集中于大公司\n黑石CEO拉里·芬克警告，公众对数据中心建设的反对与审批延误，将使AI能力更集中于少数拥有资本、电力与合规资源的大公司。地方阻力、电力接网与选举周期正在成为AI资本开支的“软约束”，项目落地速度与融资结构分化料将加剧。\n- BX  Blackstone\n- EQIX  Equinix\n- DLR  Digital Realty",
+    "model": "claude-opus-4-8",
+    "usage": {
+      "input_tokens": 3569,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 2315,
+      "service_tier": "standard",
+      "inference_geo": "global",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      }
+    }
+  }
+}

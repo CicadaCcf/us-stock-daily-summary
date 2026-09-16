@@ -1,0 +1,396 @@
+{
+  "topics": [
+    {
+      "id": "trump-ai-no-guardrails-sep16",
+      "topic": "Trump AI监管",
+      "topic_tag": "ai",
+      "title": "Trump明确反对AI设护栏 坚持加速商业化",
+      "summary": "Trump明确表态AI不需要设安全护栏、反对踩刹车，坚持宽松监管加速商业化部署。黄仁勋周一小组讨论现场接到Trump电话，Trump借机将AI风险斥为\"骗局\"。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "明确反对AI监管护栏 坚持加速商业化",
+          "details": "Trump明确表态AI不需要设安全护栏、反对踩刹车，坚持加速商业化部署的宽松监管立场",
+          "important": true
+        },
+        {
+          "actor": "黄仁勋",
+          "actor_type": "Corporate",
+          "text": "黄仁勋小组讨论现场接Trump电话 后者斥AI危险为\"骗局\"",
+          "details": "NVDA黄仁勋在周一的一场小组讨论中接到了唐纳德·特朗普的实时电话，让这位美国总统得以将人工智能的危险斥为\"骗局\"",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-15",
+      "image_urls": []
+    },
+    {
+      "id": "us-iran-hormuz-sep16",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美沙推南部航运替代路线 Trump私下要求谈判重回核问题",
+      "summary": "以色列报援引外交消息称美国和沙特打算扩大经霍尔木兹海峡的南部航运路线以应对胡塞对曼德海峡的封锁；CNN报道Trump政府私下告知海湾方面，未来美伊谈判要重新聚焦德黑兰核计划而非重开海峡。",
+      "bullets": [
+        {
+          "actor": "CNN",
+          "actor_type": "新闻",
+          "text": "Trump政府私下要求美伊谈判重回核问题 而非重开海峡",
+          "details": "CNN报道Trump政府私下告诉海湾方面，未来美伊谈判要重新聚焦德黑兰核计划，而不是重开海峡",
+          "important": true
+        },
+        {
+          "actor": "以色列报",
+          "actor_type": "新闻",
+          "text": "美沙拟扩大经霍尔木兹南部航运路线 应对曼德海峡封锁",
+          "details": "以色列报援引地区外交消息人士的话报道称，美国和沙特阿拉伯打算扩大经霍尔木兹海峡的南部航运路线，以应对胡塞武装对曼德海峡的封锁",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        7
+      ],
+      "importance": 3,
+      "sources": [
+        "CNN",
+        "以色列报"
+      ],
+      "date": "2026-09-15",
+      "image_urls": [
+        "/uploads/2026-09-15/d521f1d8f13b.png"
+      ]
+    },
+    {
+      "id": "russia-ukraine-energy-truce-sep16",
+      "topic": "俄乌能源停火",
+      "topic_tag": "geo",
+      "title": "克宫称Trump能源停火提议是好主意 泽连斯基宣布袭击俄炼厂",
+      "summary": "克里姆林宫认为Trump关于在能源目标上停火的提议是好主意，称若制裁解除全球能源价格将下降，并表示若符合俄利益且供应充足可讨论向欧洲供气。泽连斯基周二称乌方袭击了俄锡兹兰炼油厂、塔甘罗格无人机生产设施、奥廖尔无人机发射场及黑海未具名目标。",
+      "bullets": [
+        {
+          "actor": "克里姆林宫",
+          "actor_type": "Foreign-Gov",
+          "text": "克宫称Trump能源停火提议是好主意 制裁解除油价将降",
+          "details": "克里姆林宫：我们认为特朗普关于在能源目标上与乌克兰停火的提议是个好主意，如果制裁解除，全球能源价格将会下降；如果符合俄罗斯的利益且有足够的供应量，可以讨论向欧洲供应俄罗斯天然气的问题",
+          "important": true
+        },
+        {
+          "actor": "泽连斯基",
+          "actor_type": "Foreign-Gov",
+          "text": "乌方袭击俄锡兹兰炼油厂、塔甘罗格无人机厂、奥廖尔发射场",
+          "details": "乌克兰总统泽连斯基周二表示，乌克兰袭击了俄罗斯锡兹兰市的一座炼油厂。泽连斯基还报告称，乌方袭击了俄罗斯塔甘罗格市的一处无人机生产设施，以及奥廖尔地区的一处无人机准备和发射场地。他说，黑海地区也有未具名目标遭到打击",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-15",
+      "image_urls": []
+    },
+    {
+      "id": "oil-supply-shock-sellside-sep16",
+      "topic": "原油供应冲击",
+      "topic_tag": "oil",
+      "title": "GS/UBS/HSBC齐指海湾中断 布伦特上行至120美元情景概率上升",
+      "summary": "GS/UBS/HSBC三家卖方一致指出海湾供应中断超预期。GS称若2027年海湾均产较战前低4Mb/d布伦特将超120，8月缺口约3Mb/d；UBS将2026赤字预测扩至2.3Mb/d、Q4从盈余转赤字2.7Mb/d；HSBC称沙特东西向管道停运3-5周，9月中至10月中隐含赤字达约6Mb/d，为冲突以来最大。",
+      "bullets": [
+        {
+          "actor": "HSBC",
+          "actor_type": "Analyst",
+          "text": "沙特东西向管道停运3-5周 9-10月隐含赤字或达6Mb/d",
+          "details": "HSBC：沙特阿拉伯的东西向原油管道（从海湾到红海的关键bypass路线）在遭受袭击后，预计将在维修期间大部分停运3-5wk。若沙特3Mb/d的出口量被移除一个月，将导致90Mb的供应损失，使全球石油市场在9月中旬至10月中旬期间暂时出现约6Mb/d的赤字，这是冲突开始以来最大的隐含赤字。基准情景原本嵌入海湾出口缓慢复苏，而\"僵局\"情景假设霍尔木兹出口和bypass量稳定，报告认为基准情景价格假设有上行潜力，\"僵局\"情景（布伦特可能升至120美元/桶）概率有所增加。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs Oil Tracker",
+          "actor_type": "Analyst",
+          "text": "GS：袭击可能比4月更严重 布伦特上行至120情景概率上升",
+          "details": "GS Oil Tracker：尽管受影响的具体油量和中断持续时间仍高度不确定，但此次袭击可能比4月份更为严重，威胁到延布港剩余的2Mb/d出口量，修复时间评估从\"很快\"到八周不等，对石油基础设施的袭击标志着冲突的重大升级，增加了价格上行情景的概率，即如果2027年海湾平均产量保持在战前水平以下4Mb/d，布伦特将超过120",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "沙特8月出口环比降2.8Mb/d 已通过东部港口改道恢复至6月均值",
+          "details": "GS：尽管沙特8月的石油出口量环比下降了2.8Mb/d，但过去两周已恢复至6月的平均水平。这主要得益于沙特将受阻的红海港口出口成功改道至东部港口（如通过霍尔木兹海峡及其他东部港口增加出口）。目前估计波斯湾的石油总出口量约为16-17Mb/d（约为战前水平的70%），因冲突导致的净出口损失约为6.7Mb/d。GS估计综合外部估算得出8月缺口约为3Mb/d。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "OECD SPR释放放缓至0.3Mb/d 中国进口同比降0.4Mb/d",
+          "details": "GS：OECD战略石油储备（SPR）的释放速度已放缓至0.3Mb/d，且全部由美国消耗，而日本和韩国已开始重建其储备，中国原油进口量同比大幅下降（0.4Mb/d），但出于补充国内汽柴油库存（同比下降9%）和高炼油利润的经济动机，未来进口可能会有所增加",
+          "important": false
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "UBS：符合\"100美元+\"上行情景 进一步破坏或逼近120",
+          "details": "UBS：当前的供应中断水平符合瑞银此前预测的\"100美元/桶以上\"的上行风险情景。如果能源基础设施遭到进一步破坏，油价可能逼近120美元/桶",
+          "important": false
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "UBS将2026赤字预测扩至2.3Mb/d Q4由盈转赤2.7Mb/d",
+          "details": "UBS：随着海湾地区供应中断的持续，瑞银将2026年的供需赤字预测从之前的1.9Mb/d扩大至2.3Mb/d。虽然第二季度和第三季度的平衡因中东供应的韧性而相对宽松，但第四季度的平衡因中断持续而显著收紧，从之前的盈余转为2.7Mb/d的赤字。2027年的surplus也因正常化延迟而收窄至3.5Mb/d",
+          "important": false
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "UBS下调2026全球需求增速0.7Mb/d至-1.8Mb/d 中国降0.6Mb/d",
+          "details": "UBS：持续的霍尔木兹海峡中断和高燃料价格正在损害需求。瑞银将2026年全球石油需求增长预测下调0.7Mb/d至-1.8Mb/d（收缩），其中中国需求同比下降0.6Mb/d，主要受交通燃料替代效应影响。预计2027年需求将从较低基数反弹至2.8Mb/d的增长",
+          "important": false
+        },
+        {
+          "actor": "HSBC",
+          "actor_type": "Analyst",
+          "text": "HSBC：能源休战可信度存疑 中东冲击是炼油紧张主导因素",
+          "details": "HSBC：尽管特朗普声称俄乌已同意停止攻击能源目标，且柴油利润率创下新高，但任何\"能源休战\"的可信度均存疑。从平衡角度看，成品油供应紧缩更多是由中东冲击结构性驱动。自冲突以来，该地区产品供应量估计比冲突前下降3-4Mb/d，其中超过2Mb/d为柴油和汽油。相比之下，自2026年初以来俄罗斯成品油出口（主要是柴油）仅下降0.7-0.8Mb/d。中东冲击是当前炼油紧张的主导因素，俄罗斯中断和中国成品油出口疲软加剧了这一局面。",
+          "important": false
+        },
+        {
+          "actor": "Javier Blas",
+          "actor_type": "KOL",
+          "text": "IEA：俄+中东柴油出口同比约-75% 影响profound",
+          "details": "JavierBlas引用IEA口径：俄罗斯+中东柴油出口同比约-75%，影响profound，其中近半直接来自俄罗斯",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "USO",
+        "XOM",
+        "CVX"
+      ],
+      "image_indexes": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6,
+        8
+      ],
+      "importance": 3,
+      "sources": [
+        "Goldman Sachs",
+        "UBS",
+        "HSBC"
+      ],
+      "date": "2026-09-15",
+      "image_urls": [
+        "/uploads/2026-09-15/5e5dff153c86.png",
+        "/uploads/2026-09-15/6c421bda761a.png",
+        "/uploads/2026-09-15/0b27743f81ec.png",
+        "/uploads/2026-09-15/3012eff5b14b.png",
+        "/uploads/2026-09-15/c84e82a0ddb5.png",
+        "/uploads/2026-09-15/3fe9c1825c8e.png",
+        "/uploads/2026-09-15/b7c59e1f87d4.png"
+      ]
+    },
+    {
+      "id": "fed-hike-debate-sep16",
+      "topic": "美联储加息辩论",
+      "topic_tag": "fed",
+      "title": "BofA/DB押注9月加息25bp 花旗平掉黄金多头 KOL多数不同意加息",
+      "summary": "BofA称市场已price 9月加息25bp概率约85%，若意外按兵不动30年美债或飙至5.75%；DB调研显示56%投资者视通胀为10y上升主因、70%预期财长口头干预、固收61%押注加息；花旗因鹰派转向平掉黄金现货多头。KOL阵营多数（Fullcarry/ShanghaoJin/Claudia Sahm）认为供给冲击+劳动力脆弱，不需激进。",
+      "bullets": [
+        {
+          "actor": "BofA Rates",
+          "actor_type": "Analyst",
+          "text": "BofA：市场price 9月加息25bp概率85% 不加则30y或飙至5.75%",
+          "details": "BofA Rates：市场目前对9月美联储加息25bps的定价概率已飙升至约85%。美银认为加息是维护政策正统性的必然选择；若意外按兵不动，长端利率将面临无序飙升风险，30年期美债收益率或迅速上探5.75%。美银预计点阵图将显示2026年累计加息50个基点，主席讲话亦将延续鹰派基调，推动美债收益率曲线呈现扭曲式变平。",
+          "important": true
+        },
+        {
+          "actor": "DB Survey",
+          "actor_type": "Analyst",
+          "text": "DB调研：56%视通胀为10y上升主因 70%预期财长口头干预",
+          "details": "DB Survey：56%投资者视通胀为美债收益率上升主因。70%预期财长口头干预。固收人士61%押注加息，若成真标普500或跌0.5%，曲线熊市平坦化。若持稳，SPX或涨1.0%。年底衰退概率仍为15%。",
+          "important": false
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "花旗平掉黄金现货多头 因鹰派转向做多逻辑不再成立",
+          "details": "Citi Gold：宣布平仓黄金现货多头头寸并削减黄金敞口。花旗指出，杰克逊霍尔会议后美联储政策预期转向鹰派，叠加能源价格反弹，其经济学家目前预计美联储将加息；在利率预期上行的背景下，黄金做多逻辑不再成立",
+          "important": false
+        },
+        {
+          "actor": "Fullcarry",
+          "actor_type": "KOL",
+          "text": "供给冲击为主+劳动力脆弱 Fed不需激进",
+          "details": "Fullcarry：供给冲击为主+劳动力市场仍脆弱，FED不需要激进",
+          "important": false
+        },
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "\"加息后10y回落\"说法历史复盘不支持",
+          "details": "WarrenPies：流行说法是Fed加息10y反而回落，但是历史复盘不支持",
+          "important": false
+        },
+        {
+          "actor": "SpreadThread1",
+          "actor_type": "KOL",
+          "text": "2000与2006从首加到末加10y仅涨约50bp 现在已上行100bp可能price够",
+          "details": "SpreadThread1：那些多数是成规模的加息周期。2000与2006从首加到末加10y也就涨约50bp，现在10s已较年内低点上行约100bp——如果只加几次也许已经price够了",
+          "important": false
+        },
+        {
+          "actor": "Claudia Sahm",
+          "actor_type": "KOL",
+          "text": "温和加息只有温和目标 解释与决策同等重要",
+          "details": "Claudia_Sahm：温和加息只有温和目标，决策只是第一步，解释与决策同等重要——7月发布会留下太多没答的问题",
+          "important": false
+        },
+        {
+          "actor": "Shanghao Jin",
+          "actor_type": "KOL",
+          "text": "工资/消费/房租/信贷都不过热 Warsh想制造衰退要小心双重使命",
+          "details": "ShanghaoJin：工资、消费、房租、信贷增速都不过热，Warsh若想engineer a recession要小心双重使命，JPow喊H4L时身边HF全在做空，感觉与现在一模一样(SPX multiple离关税战低点还有约5%)，HF全在避险，刚经历7月史诗级去杠杆，AI path又明显，此时非要压一个大回撤没有意义",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TLT",
+        "GLD",
+        "SPY"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "BofA",
+        "Deutsche Bank",
+        "Citi"
+      ],
+      "date": "2026-09-15",
+      "image_urls": []
+    },
+    {
+      "id": "boj-nomura-sep16",
+      "topic": "日本央行",
+      "topic_tag": "fed",
+      "title": "野村：BOJ 9月加息25bp 政策利率终值看至1.75%",
+      "summary": "野村预计BOJ 9月加息25bp，焦点转向政策解释及未来节奏；下调FY27日本GDP增速至0.7%（公共投资减少+油价抑制消费），核心CPI于2027Q1见顶达3.7%，政策利率终值1.75%，FY27新发国债40T日元、总发行量升至190T日元。",
+      "bullets": [
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "野村预计BOJ 9月加息25bp 终值利率1.75%",
+          "details": "Nomura：预计BOJ 9月加息25bp，焦点转向政策解释及未来节奏。下调FY27日本GDP增速预期至0.7%，主因公共投资减少及油价上涨抑制消费。预计核心CPI于2027Q1见顶达3.7%，政策利率终值看至1.75%。",
+          "important": true
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "野村：FY27新发国债40T日元 总发行量升至190T",
+          "details": "野村财政方面：预计FY27新发国债40T日元，总发行量升至190T日元",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "EWJ"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Nomura"
+      ],
+      "date": "2026-09-15",
+      "image_urls": []
+    },
+    {
+      "id": "memory-supply-samsung-ymtc-sep16",
+      "topic": "存储供应",
+      "topic_tag": "ai",
+      "title": "三星拟对苹果等移动DRAM/NAND涨价 长江存储FAB3年底投产",
+      "summary": "据韩媒三星正推动对苹果及全球智能手机厂供应的移动DRAM和NAND闪存进行新一轮涨价。中国最大NAND厂长江存储已开始在武汉FAB3连接生产设备，年底前初步运营指日可待。",
+      "bullets": [
+        {
+          "actor": "三星电子",
+          "actor_type": "Corporate",
+          "text": "三星拟对苹果等移动DRAM/NAND新一轮涨价",
+          "details": "据韩国媒体报道，三星电子正在推动对供应给苹果及其他全球智能手机制造商的移动DRAM和NAND闪存进行新一轮涨价",
+          "important": true
+        },
+        {
+          "actor": "长江存储",
+          "actor_type": "Corporate",
+          "text": "长江存储武汉FAB3连接生产设备 年底前初步运营",
+          "details": "中国最大的NAND闪存制造商长江存储已开始在其武汉第三座晶圆厂（FAB3）连接生产设备。随着该晶圆厂投产准备进入最后阶段，年底前初步运营已指日可待",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "AAPL",
+        "MU"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-15",
+      "image_urls": []
+    },
+    {
+      "id": "other-sep16",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "高法邮寄选票判决 Anthropic金融顾问版Claude FT成本压力 市场轮动",
+      "summary": "高法7-2判决邮政不能拒绝投递邮寄选票。Anthropic 9/14推出金融顾问版Claude，接入贝莱德/先锋/嘉信/iCapital。FT称制造商在伊朗战争+关税+AI电子需求下艰难应对成本上涨。Mark Minervini：非普跌，科技内部轮动，网络安全相对强。",
+      "bullets": [
+        {
+          "actor": "美国最高法院",
+          "actor_type": "US-Executive",
+          "text": "高法7-2判决：美国邮政不能拒绝投递邮寄选票",
+          "details": "高法7-2判决：美国邮政不能拒绝投递邮寄选票",
+          "important": true
+        },
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic 9/14推出金融顾问版Claude 接入贝莱德/先锋/嘉信/iCapital",
+          "details": "Anthropic在9月14日推出了金融顾问版Claude，直接接入了贝莱德、先锋、嘉信理财和iCapital等机构的分析及风控工具",
+          "important": false
+        },
+        {
+          "actor": "FT",
+          "actor_type": "新闻",
+          "text": "FT：制造商在伊朗战争+关税+AI需求下艰难应对成本上涨",
+          "details": "FT报道受伊朗持续战争、新进口关税以及AI相关电子产品需求旺盛的推动，制造商正艰难应对原材料、能源和运费成本的上涨",
+          "important": false
+        },
+        {
+          "actor": "Mark Minervini",
+          "actor_type": "KOL",
+          "text": "非普跌是科技内部轮动 网络安全相对强",
+          "details": "markminervini：不是普跌，是科技内部轮动，网络安全相对强——市场在激进质疑最拥挤的领导主题，同时寻找新sponsorship",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SCHW",
+        "BLK"
+      ],
+      "image_indexes": [
+        2
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-09-15",
+      "image_urls": [
+        "/uploads/2026-09-15/90602ffed5cb.png"
+      ]
+    }
+  ]
+}
