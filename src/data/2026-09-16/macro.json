@@ -1,0 +1,274 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis-oct26",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊冲突持续：拦截弹告急、海湾求援英国",
+      "summary": "美伊战争已开销约380亿美元，月支出约30亿，防空拦截弹消耗严重需5年补库存。CBS曝光伊朗袭击沙特/科威特美军基地造成重大破坏（含E-3预警机），沙特紧急求助英国防空协防。国会Thune对柴油出口禁令持开放态度。",
+      "bullets": [
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "美军上周发70+高端拦截弹应对伊朗导弹袭约旦",
+          "details": "WSJ报道美军上周发射了70多枚高端防空拦截弹，以应对伊朗对约旦的导弹袭击。伊朗成功击中了约旦穆瓦法克·萨尔蒂空军基地的飞机。拦截弹的大量消耗凸显出美军对战略库存短缺和供应瓶颈日益加剧的担忧。",
+          "important": true
+        },
+        {
+          "actor": "美国国会",
+          "actor_type": "US-Congress",
+          "text": "伊朗战争累计花费约380亿美元，月支出30亿",
+          "details": "伊朗战争的花费大约$38B；目前每月开销大约$3B；消耗的防空拦截导弹需要至少五年才能补充。"
+        },
+        {
+          "actor": "CBS News",
+          "actor_type": "新闻",
+          "text": "CBS曝光照片：伊朗击伤美军E-3预警机及基地",
+          "details": "哥伦比亚广播公司新闻获得的照片显示，伊朗对沙特阿拉伯和科威特美军基地的袭击造成大面积破坏，包括一架严重受损的E-3\"哨兵\"预警机、建筑物和车辆。匿名分享这些照片的军人批评了基地防御，并表示破坏规模并未向公众通报。"
+        },
+        {
+          "actor": "沙特/英国",
+          "actor_type": "Foreign-Gov",
+          "text": "沙特紧急求助英国，Starmer考虑协防利雅得领空",
+          "details": "EU方面消息：沙特紧急求助英国，首相在考虑提供何种支持（Sunak同意直接打击胡塞目标、Starmer同意协防利雅得领空）。"
+        },
+        {
+          "actor": "Thune",
+          "actor_type": "US-Congress",
+          "text": "Thune对柴油出口禁令持\"开放考虑\"态度",
+          "details": "参议院多数党领袖Thune称对柴油出口禁令持\"开放考虑\"态度。"
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "CBS News"
+      ],
+      "date": "2026-09-16",
+      "image_urls": [
+        "/uploads/2026-09-16/d1853dea33d4.png"
+      ]
+    },
+    {
+      "id": "oil-market-hormuz-oct26",
+      "topic": "油市与霍尔木兹供应",
+      "topic_tag": "oil",
+      "title": "海峡供应中断，Dated溢价重回panic mode",
+      "summary": "Barclays数据显示霍尔木兹原油净出口回升至8.8M b/d，但战争爆发62天以来仍较战前下降47%。Citi指沙特东西向管道关闭令地缘溢价重现，短期看涨；Gundlach称油破100美元后CPI同比将进4字头。北海实货竞价重回panic，传闻沙特取消欧洲装船至11月。",
+      "bullets": [
+        {
+          "actor": "Citi Oil",
+          "actor_type": "Analyst",
+          "text": "Citi：短期看涨油市，海峡重启或需待2026Q4",
+          "details": "Citi Oil：尽管此前因GCC与伊朗会谈预期及IEA需求展望减弱导致油价回落，但随着会谈取消及沙特东西向管道（East-West pipeline）关闭，市场关注点已从外交headlines转向实质性的供应风险，地缘政治风险溢价再次显现。预计短期内原油及成品油bullish，虽然区域外交努力最终可能促成霍尔木兹海峡在2026年第四季度重新开放，但去escalation过程并非线性，伊朗可能通过逐步升级施压以结束封锁。",
+          "important": true
+        },
+        {
+          "actor": "Barclays Oil",
+          "actor_type": "Analyst",
+          "text": "霍尔木兹净出口回升至8.8M b/d，仍较战前降47%",
+          "details": "根据Kpler数据，截至9月7日一周内通过霍尔木兹海峡的原油和成品油净出口量平均为8.8M b/d，高于前一周的5.4M b/d和再前一周的7.6M b/d。尽管包括通过沙特、阿联酋和伊拉克管道以及阿曼湾船对船转移的增量绕过海峡措施，该地区在美伊战争升级新阶段的前62天内，原油和成品油净出口量平均为11.2M b/d，较战前水平下降47%。维持布伦特2026年96美元/桶、2027年85美元/桶的预测。"
+        },
+        {
+          "actor": "Gundlach",
+          "actor_type": "Analyst",
+          "text": "Gundlach：油破100美元，下期CPI将进4字头",
+          "details": "Gundlach：油价超过每桶100美元，通胀短期内不会下降。DoubleLine的通胀模型显示，下一份报告中CPI同比将进入4字头。"
+        },
+        {
+          "actor": "FluxOfficials",
+          "actor_type": "KOL",
+          "text": "Dated突破所有极值，传闻沙特取消欧洲装船至11月",
+          "details": "FluxOfficials：Dated is surpassing all superlatives。Orlen代表欧洲抢油，传闻沙特取消欧洲装船直到11月。"
+        },
+        {
+          "actor": "TankerTrackers",
+          "actor_type": "KOL",
+          "text": "沙特9/15东岸单日装载8.7M b/d，红海事件后大幅回升",
+          "details": "TankerTrackers：沙特今日(9/15)东岸码头单日装载8.7M b/d；红海出事后东岸出口大幅回升。"
+        },
+        {
+          "actor": "BurggrabenH",
+          "actor_type": "KOL",
+          "text": "北海实货重回panic mode，实货对纸货再blow out",
+          "details": "BurggrabenH：北海实货竞价重回panic mode，实货对纸货再度blow out（与4月同款）——这不是健康市场，只差中国茶壶进场竞价加几单Aramco延误，一切就会爆。"
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "Barclays",
+        "Citi",
+        "Kpler"
+      ],
+      "date": "2026-09-16",
+      "image_urls": [
+        "/uploads/2026-09-16/3351d7d76ed3.png",
+        "/uploads/2026-09-16/ec718c5772ff.png"
+      ]
+    },
+    {
+      "id": "fed-hike-debate-oct26",
+      "topic": "美联储加息辩论",
+      "topic_tag": "fed",
+      "title": "Miran反对加息，市场博弈one-and-done",
+      "summary": "Fed理事Miran力挺不加息：核心CPI/PCE走弱、加息控长端逻辑不成立，真正理由只是atmospherics。Hassett称特朗普尊重沃什决定。市场只定价约1.5次加息，KOL围绕鹰派按兵/鸽派加息/鹰派加息三选项激辩，Sahm则支持基于风险管理加息。",
+      "bullets": [
+        {
+          "actor": "Miran",
+          "actor_type": "Central-Bank",
+          "text": "Miran：数据全线支持不加息，加息理由只是atmospherics",
+          "details": "Miran：数据一直支持不加：核心CPI是2021年3月以来最低，核心PCE即将被修订向更少误差的CPI靠拢，春季就是一次性能源冲击，特里谢教训——对着油冲击加息没有好下场。反应函数不自洽：6月7月按兵不动，通胀数据回落反而转鹰，这更接近随机而非从数据到政策的映射，尘埃落定后是更大的信誉问题。用加息控制长端前提无效：期限溢价与通胀预期表现良好，长端上行源于增长预期改善是good increase；提高短端融资成本只会被转嫁，推高而非压低长端。真实理由是什么：atmospherics——市场定价，以及不想制造波动。通胀已高x个月是向后看，政策要为2027Q4-2028Q1设定，按2023-2026设政策是弗里德曼说的淋浴间里的傻瓜。",
+          "important": true
+        },
+        {
+          "actor": "Hassett",
+          "actor_type": "US-Executive",
+          "text": "Hassett：特朗普尊重沃什决定，AI风险交私营部门",
+          "details": "Hassett：特朗普尊重沃什决定，AI风险应由私营部门解决。"
+        },
+        {
+          "actor": "ericwallerstein",
+          "actor_type": "KOL",
+          "text": "三选项框架：最小阻力是按兵+年内点1-2次加息",
+          "details": "ericwallerstein：三选项框架——鹰派按兵（不动但SEP鹰）、鸽派加息（25bp+暗示1-3次调整后收手=重新上forward guidance枷锁）、鹰派加息（开启全新周期=被市场suckered）。最小阻力路径是按兵+年内点1-2次加息+鹰派修增长失业+上调2028与长期中性利率——市场对2028的定价(4.63%)与联储(3.38%)差130bp，longrun估计还钉在3.1%。明天重要的不是25bp，是联储对经济理解的重校准。"
+        },
+        {
+          "actor": "WarrenPies",
+          "actor_type": "KOL",
+          "text": "2y高于FFR 85bp，市场仅定价约1.5次加息",
+          "details": "WarrenPies：2y高于FFR 85bp，明天后剩60，市场只定价了约1.5次加息，完整周期没有priced；债券是不是空头取决于时间框架，但赌利率在首次加息见顶没有道理，除非one and done。"
+        },
+        {
+          "actor": "lord_fed",
+          "actor_type": "KOL",
+          "text": "lord_fed：或许就是one and done",
+          "details": "lord_fed：也许这就是one and done，除了验证市场定价，很难找到明天加息的特别好理由。"
+        },
+        {
+          "actor": "Claudia Sahm",
+          "actor_type": "KOL",
+          "text": "Sahm：支持加息理由是风险管理，非atmospherics",
+          "details": "Claudia_Sahm：支持加息的理由既不是atmospherics也不是向后看，是风险管理。"
+        },
+        {
+          "actor": "Citi Rates",
+          "actor_type": "Analyst",
+          "text": "Citi：首次加息当日历史上4/7次美股上涨",
+          "details": "Citi Rates：Fed首次加息当日未必利空，因市场已提前消化紧缩风险。历史数据显示，美股在7次首次加息中有4次上涨；日内走势常现\"声明后涨、发布会后跌\"的逆转模式。债市反应具多日延续性，黄金在鹰派惊喜下可能大跌超3%。"
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-09-16",
+      "image_urls": []
+    },
+    {
+      "id": "us-china-bessent-heliufeng-oct26",
+      "topic": "中美经贸",
+      "topic_tag": "policy",
+      "title": "贝森特周日纽约会何立峰，为特习会铺路",
+      "summary": "美国财长贝森特将于周日在纽约会见中国对口官员何立峰，为下周特朗普与习近平在华盛顿峰会弥合分歧，预计将讨论AI议题。",
+      "bullets": [
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "贝森特周日纽约会何立峰，议题含AI",
+          "details": "美国财政部长贝森特将于周日在纽约会见中国对口官员何立峰，双方试图在下周唐纳德·特朗普与习近平在华盛顿举行峰会之前弥合分歧。预计贝森特与何立峰将在纽约讨论人工智能问题。",
+          "important": true
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "贝森特支持\"5K支票\"，称不会增加赤字",
+          "details": "Bessent支持\"5K支票\"，不会增加赤字。"
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-16",
+      "image_urls": []
+    },
+    {
+      "id": "ai-macro-openai-msai-oct26",
+      "topic": "AI宏观与融资",
+      "topic_tag": "ai",
+      "title": "OpenAI洽1.2万亿估值Pre-IPO，亚洲基金转谨慎",
+      "summary": "FT报道OpenAI已洽谈以1.2T美元估值进行IPO前私募融资。BofA亚洲基金经理9月调查显示80%投资者要求看到AI货币化证据，55%认为AI利好已充分定价。MS估中国消费级AI 2030年可货币化市场约300B人民币，99%来自广告和交易佣金。",
+      "bullets": [
+        {
+          "actor": "FT/OpenAI",
+          "actor_type": "新闻",
+          "text": "OpenAI洽Pre-IPO融资，估值1.2T美元",
+          "details": "FT报道OpenAI已与投资者就其计划IPO前以1.2T美元估值再进行一轮私募融资进行了初步洽谈。与投资者的洽谈尚处于早期阶段，该数字在未来几个月内可能发生变化。",
+          "important": true
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "BofA亚洲调查：80%要求AI货币化证据，55%称已充分定价",
+          "details": "BofA Asia PM Survey：9月亚洲基金经理调查显示，市场对AI叙事的态度正转向审慎——80%投资者要求看到切实的AI货币化证据才愿增加相关股票敞口，55%认为AI利好已被充分或过度定价。近80%受访者预计日本央行本月加息，政策正常化已取代盈利增长成为日股主导主题，推动日本银行股配置比例创下历史新高。"
+        },
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "MS：中国消费级AI 2030市场约300B人民币",
+          "details": "MS AI：中国C端AI个人每周使用率达80%，普及速度显著领先美国，但商业化并非依赖订阅费。预计到2030年中国消费级AI可货币化市场规模约为300B人民币，其中99%来自广告和交易佣金等商家端意图货币化。"
+        }
+      ],
+      "tickers": [
+        "MSFT",
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "FT",
+        "BofA",
+        "Morgan Stanley"
+      ],
+      "date": "2026-09-16",
+      "image_urls": []
+    },
+    {
+      "id": "us-policy-court-clarity-oct26",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "高法裁定邮政不得拒投选票，Clarity法案未过",
+      "summary": "美国最高法院7-2判决邮政不能拒绝投递邮寄选票。Clarity加密监管法案今日未通过参议院程序票。",
+      "bullets": [
+        {
+          "actor": "US Supreme Court",
+          "actor_type": "Unknown",
+          "text": "高法7-2判决：邮政不能拒投邮寄选票",
+          "details": "高法7-2判决：美国邮政不能拒绝投递邮寄选票。",
+          "important": true
+        },
+        {
+          "actor": "US Senate",
+          "actor_type": "US-Congress",
+          "text": "Clarity法案今日未通过参议院程序票",
+          "details": "Clarity法案今天没通过参议院程序票。"
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-09-16",
+      "image_urls": []
+    }
+  ]
+}
