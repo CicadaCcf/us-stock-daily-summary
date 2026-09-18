@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-09-17T21:31:37+00:00",
+  "date": "2026-09-17",
+  "since": "2026-09-15T20:00:00+00:00",
+  "by_ticker": {
+    "GNRC": [
+      {
+        "headline": "Generac Lands $2.4 Billion Generator Deal With Amazon",
+        "url": "https://www.fool.com/investing/2026/09/17/generac-lands-24-billion-generator-deal-with-amazon/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-09-17T17:10:07Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F90b7aa76e60efd23e20986247672d77905305e52-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+        "description": "Generac signed a long-term agreement with Amazon to supply backup generators for its data centers, with initial deliveries totaling $2.4 billion in 2027-2028 and potential additional purchases reaching $8 billion through 2033. Amazon received a warrant for up to 1.69 million Generac shares. The deal supports Amazon's expanding AI infrastructure needs, with Generac stock surging 20% on the announcement."
+      },
+      {
+        "headline": "Generac Signs Amazon Generator Deal With $2.4B of Initial Deliveries",
+        "url": "https://www.zacks.com/stock/news/2991217/generac-signs-amazon-generator-deal-with-2-4b-of-initial-deliveries?cid=CS-ZC-FT-analyst_blog|quick_take-2991217",
+        "source": "Zacks Investment Research",
+        "published_at": "2026-09-17T13:21:00Z",
+        "image": "https://staticx-tuner.zacks.com/images/default_article_images/default329.jpg",
+        "description": "Generac Holdings has secured a major long-term supply agreement with Amazon to provide backup power generators for data centers, with initial deliveries totaling $2.4 billion expected in 2027-2028. The deal includes warrant provisions extending up to $8 billion in qualifying payments. Generac's data center backlog reached $1.6 billion as of July 2026, positioning the company to capitalize on accelerating AI and cloud computing infrastructure demand."
+      }
+    ],
+    "VICR": [
+      {
+        "headline": "Buy 3 Needham Mutual Funds for Long-Term Gains",
+        "url": "https://www.zacks.com/stock/news/2991063/buy-3-needham-mutual-funds-for-long-term-gains?cid=CS-ZC-FT-mutual_fund_commentary-2991063",
+        "source": "Zacks Investment Research",
+        "published_at": "2026-09-17T11:02:00Z",
+        "image": "https://staticx-tuner.zacks.com/images/articles/main/6a/353.jpg",
+        "description": "The Federal Reserve raised interest rates as anticipated and reported modestly higher inflation expectations. Despite the rate hike, the Fed raised its GDP growth outlook and characterized the labor market as solid, suggesting economic resilience."
+      },
+      {
+        "headline": "Vicor licenses VPD to a leading AI OEM",
+        "url": "https://www.globenewswire.com/news-release/2026/09/16/3363526/0/en/vicor-licenses-vpd-to-a-leading-ai-oem.html",
+        "source": "GlobeNewswire Inc.",
+        "published_at": "2026-09-16T20:00:00Z",
+        "image": "https://ml.globenewswire.com/Resource/Download/55117480-366f-4254-a0c3-1c89d863eb54",
+        "description": "Vicor has granted a non-exclusive license to a new OEM licensee for Vertical Power Delivery (VPD) modules, enabling high-performance AI compute and network processors. The licensing model provides multi-source flexibility and supply chain redundancy, with lower royalty rates for early adopters. Vicor also announced plans to acquire sites for additional ChiP fabs to expand manufacturing capacity in response to AI demand."
+      }
+    ]
+  }
+}

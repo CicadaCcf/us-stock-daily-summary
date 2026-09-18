@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-09-17T21:31:26+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-09-17",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12539,
+    "partial_pass": 4,
+    "with_carryover": 7,
+    "after_full_check": 2
+  },
+  "rows": [
+    {
+      "tk": "GNRC",
+      "nm": "GENERAC HOLDINGS INC",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 18.3,
+      "w1": 14.1,
+      "market_cap_bn": 12.23,
+      "dollar_vol_bn": 1.66,
+      "w1_avg_dollar_vol_bn": 0.48,
+      "reason": "",
+      "main_business": "设计制造家用商用工业备用发电机及清洁能源设备"
+    },
+    {
+      "tk": "VICR",
+      "nm": "Vicor Corp",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 17.7,
+      "w1": 21.5,
+      "market_cap_bn": 9.98,
+      "dollar_vol_bn": 0.36,
+      "w1_avg_dollar_vol_bn": 0.17,
+      "reason": "",
+      "main_business": "研发制造模块化电源转换器及电源系统集成方案"
+    }
+  ]
+}

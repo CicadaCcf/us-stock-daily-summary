@@ -105,6 +105,21 @@ def ny_date_from_report(api: dict) -> str:
         return ny_trading_date_iso()
 
 
+def _report_is_stale(api: dict) -> bool:
+    """True if the report's updateTime is from an EARLIER Beijing day than today
+    — i.e. today's 全球版 hasn't been published yet and we picked up yesterday's
+    edition. Such a report must not be pushed (it would land on a date toggle a
+    day behind what the events-pull job reads). Best-effort: unparseable/blank
+    updateTime → treat as fresh (don't block)."""
+    update_str = (api.get("data") or {}).get("updateTime") or ""
+    try:
+        ut = datetime.strptime(update_str, "%Y-%m-%d %H:%M:%S").replace(
+            tzinfo=ZoneInfo("Asia/Shanghai")).date()
+    except ValueError:
+        return False
+    return ut < datetime.now(ZoneInfo("Asia/Shanghai")).date()
+
+
 def fmt_date_label(iso: str) -> str:
     """2026-04-27 -> 2026/4/27 to match user's existing toggle convention."""
     y, m, d = iso.split("-")
@@ -450,9 +465,22 @@ async def main_async(args):
     fetch_err: str | None = None
     try:
         api = await fetch_global_report()
-        _publish_date, events = extract_global_events(api)
-        if not events:
-            fetch_err = "zero events parsed (alphapai returned no '全球重点事件梳理' section)"
+        # Freshness guard: on Beijing day D the fresh 全球版 carries updateTime on
+        # day D. If we grabbed an OLDER edition (updateTime a prior BJT day),
+        # today's report isn't published yet and we got yesterday's. Pushing it
+        # would (a) land on the wrong date toggle — its updateTime→NY date is a
+        # day behind what the events-pull job looks for, silently breaking the
+        # chain (seen 2026-09-17) — so treat it as "not ready" and let the
+        # wrapper retry later, exactly like the skeleton path.
+        if api and _report_is_stale(api):
+            ut = (api.get("data") or {}).get("updateTime")
+            fetch_err = f"stale report (updateTime {ut}); today's 全球版 not published yet"
+            print(f"  [warn] {fetch_err} — NOT pushing, wrapper will retry")
+            api = None
+        else:
+            _publish_date, events = extract_global_events(api)
+            if not events:
+                fetch_err = "zero events parsed (alphapai returned no '全球重点事件梳理' section)"
     except Exception as e:
         fetch_err = f"{type(e).__name__}: {e}"
         print(f"  [warn] alphapai fetch failed: {fetch_err}")
