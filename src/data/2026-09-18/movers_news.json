@@ -1,0 +1,34 @@
+{
+  "generated_at": "2026-09-18T21:31:41+00:00",
+  "date": "2026-09-18",
+  "since": "2026-09-16T20:00:00+00:00",
+  "by_ticker": {
+    "MSTR": [],
+    "VICR": [
+      {
+        "headline": "Vicor (VICR) Surges 17.7%: Is This an Indication of Further Gains?",
+        "url": "https://www.zacks.com/stock/news/2991752/vicor-vicr-surges-17-7-is-this-an-indication-of-further-gains?cid=CS-ZC-FT-fundamental_analysis|daily_price_change_3%-2991752",
+        "source": "Zacks Investment Research",
+        "published_at": "2026-09-18T11:06:00Z",
+        "image": "https://staticx-tuner.zacks.com/images/articles/main/a9/209.jpg",
+        "description": "Vicor shares surged 17.7% to $216.39 on strong volume, driven by growth in advanced product sales and increased demand for high-efficiency power solutions in AI, industrial, and aerospace markets. The company expects quarterly earnings of $0.75 per share (+19.1% YoY) and revenues of $160 million (+44.9% YoY). However, unchanged earnings estimate revisions over the past 30 days suggest caution about sustained momentum."
+      },
+      {
+        "headline": "Buy 3 Needham Mutual Funds for Long-Term Gains",
+        "url": "https://www.zacks.com/stock/news/2991063/buy-3-needham-mutual-funds-for-long-term-gains?cid=CS-ZC-FT-mutual_fund_commentary-2991063",
+        "source": "Zacks Investment Research",
+        "published_at": "2026-09-17T11:02:00Z",
+        "image": "https://staticx-tuner.zacks.com/images/articles/main/6a/353.jpg",
+        "description": "The Federal Reserve raised interest rates as anticipated and reported modestly higher inflation expectations. Despite the rate hike, the Fed raised its GDP growth outlook and characterized the labor market as solid, suggesting economic resilience."
+      },
+      {
+        "headline": "Vicor licenses VPD to a leading AI OEM",
+        "url": "https://www.globenewswire.com/news-release/2026/09/16/3363526/0/en/vicor-licenses-vpd-to-a-leading-ai-oem.html",
+        "source": "GlobeNewswire Inc.",
+        "published_at": "2026-09-16T20:00:00Z",
+        "image": "https://ml.globenewswire.com/Resource/Download/55117480-366f-4254-a0c3-1c89d863eb54",
+        "description": "Vicor has granted a non-exclusive license to a new OEM licensee for Vertical Power Delivery (VPD) modules, enabling high-performance AI compute and network processors. The licensing model provides multi-source flexibility and supply chain redundancy, with lower royalty rates for early adopters. Vicor also announced plans to acquire sites for additional ChiP fabs to expand manufacturing capacity in response to AI demand."
+      }
+    ]
+  }
+}

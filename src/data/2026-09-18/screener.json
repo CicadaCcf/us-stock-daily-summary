@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-09-18T21:31:28+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-09-18",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12577,
+    "partial_pass": 5,
+    "with_carryover": 7,
+    "after_full_check": 2
+  },
+  "rows": [
+    {
+      "tk": "MSTR",
+      "nm": "Strategy Inc Common Stock Class A",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 16.4,
+      "w1": 17.5,
+      "market_cap_bn": 61.15,
+      "dollar_vol_bn": 8.36,
+      "w1_avg_dollar_vol_bn": 3.84,
+      "reason": "",
+      "main_business": "比特币储备公司兼企业智能分析软件提供商"
+    },
+    {
+      "tk": "VICR",
+      "nm": "Vicor Corp",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": 2.9,
+      "w1": 12.5,
+      "market_cap_bn": 10.27,
+      "dollar_vol_bn": 0.38,
+      "w1_avg_dollar_vol_bn": 0.22,
+      "reason": "",
+      "main_business": "研发制造模块化电源转换器及电源系统集成方案"
+    }
+  ]
+}
