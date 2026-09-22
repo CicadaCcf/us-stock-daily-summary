@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-09-21T21:32:13+00:00",
+  "date": "2026-09-21",
+  "since": "2026-09-19T20:00:00+00:00",
+  "by_ticker": {
+    "CRML": [],
+    "GRAL": [],
+    "ARM": [
+      {
+        "headline": "Tech Stocks Break Out: The Next Leg of the Bull Market",
+        "url": "https://www.zacks.com/commentary/2993193/tech-stocks-break-out-the-next-leg-of-the-bull-market?cid=CS-ZC-FT-investment_ideas-2993193",
+        "source": "Zacks Investment Research",
+        "published_at": "2026-09-21T18:03:00Z",
+        "image": "https://staticx-tuner.zacks.com/images/articles/main/f2/176046.webp",
+        "description": "After four and a half months of consolidation, technology stocks are breaking out to the upside, led by semiconductor and AI-related companies. Despite concerns about AI safety and higher interest rates, the underlying economics of AI infrastructure investment remain strong, with demand for computing power continuing to expand beyond GPUs to CPUs, memory, and networking equipment. Bitcoin's rally signals returning risk appetite among investors."
+      },
+      {
+        "headline": "Better Artificial Intelligence Stock: Arm Holdings vs. NVIDIA",
+        "url": "https://www.fool.com/coverage/better-buy/2026/09/21/better-artificial-intelligence-stock-arm-holdings-vs-nvidia/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-09-21T16:33:07Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F232304ef0caa6d6d9809b270afde92b613c990f1-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+        "description": "The article compares Arm Holdings and NVIDIA as AI investment options. Arm powers 99% of smartphones with 22.8% revenue growth and strong financials, while NVIDIA dominates AI infrastructure with $215.9 billion in revenue and 55.6% net margins. Despite Arm's solid fundamentals, the author recommends NVIDIA due to its superior valuation (24.5x Forward P/E vs. 125x), stronger leadership under CEO Jensen Huang, and greater upside potential in emerging areas like quantum computing."
+      },
+      {
+        "headline": "2 Cryptocurrencies Worth Buying Over AI Stocks Right Now",
+        "url": "https://www.fool.com/investing/2026/09/21/2-cryptocurrencies-worth-buying-over-ai-stocks-rig/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-09-21T10:30:00Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886857%2Finvesting-team-chart-graph-stock-investor-finance-business.jpg&w=1200&op=resize",
+        "description": "The article argues that AI and semiconductor stocks are trading at expensive valuations with uncertain growth prospects. Instead, the author recommends Zcash and Solana as better investment alternatives. Zcash benefits from regulatory acceptance through selective disclosure features and institutional adoption via ETFs, while Solana is positioned to grow through tokenized assets and AI agents on its network."
+      }
+    ],
+    "AXTI": [],
+    "MSTR": [],
+    "VICR": []
+  }
+}

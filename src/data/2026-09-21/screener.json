@@ -1,0 +1,101 @@
+{
+  "generated_at": "2026-09-21T21:31:54+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-09-21",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12612,
+    "partial_pass": 13,
+    "with_carryover": 15,
+    "after_full_check": 6
+  },
+  "rows": [
+    {
+      "tk": "CRML",
+      "nm": "Critical Metals Corp. Ordinary Shares",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 38.6,
+      "w1": 44.4,
+      "market_cap_bn": 1.37,
+      "dollar_vol_bn": 0.54,
+      "w1_avg_dollar_vol_bn": 0.15,
+      "reason": "",
+      "main_business": "专注锂矿及稀土关键金属勘探开发的矿业公司"
+    },
+    {
+      "tk": "GRAL",
+      "nm": "GRAIL, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 33.7,
+      "w1": 42.9,
+      "market_cap_bn": 4.82,
+      "dollar_vol_bn": 0.38,
+      "w1_avg_dollar_vol_bn": 0.2,
+      "reason": "",
+      "main_business": "研发多癌种早期检测血液筛查技术"
+    },
+    {
+      "tk": "ARM",
+      "nm": "Arm Holdings plc American Depositary Shares",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 17.2,
+      "w1": 35.1,
+      "market_cap_bn": 344.86,
+      "dollar_vol_bn": 4.17,
+      "w1_avg_dollar_vol_bn": 1.86,
+      "reason": "",
+      "main_business": "全球领先的芯片架构设计与IP授权商，广泛应用于智能手机处理器"
+    },
+    {
+      "tk": "AXTI",
+      "nm": "AXT Inc",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 14.1,
+      "w1": 40.1,
+      "market_cap_bn": 5.24,
+      "dollar_vol_bn": 1.0,
+      "w1_avg_dollar_vol_bn": 0.75,
+      "reason": "",
+      "main_business": "研发生产化合物半导体衬底晶圆材料"
+    },
+    {
+      "tk": "MSTR",
+      "nm": "Strategy Inc Common Stock Class A",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": 9.5,
+      "w1": 23.0,
+      "market_cap_bn": 66.94,
+      "dollar_vol_bn": 7.0,
+      "w1_avg_dollar_vol_bn": 4.74,
+      "reason": "",
+      "main_business": "比特币储备公司兼企业智能分析软件提供商"
+    },
+    {
+      "tk": "VICR",
+      "nm": "Vicor Corp",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": 0.5,
+      "w1": 21.2,
+      "market_cap_bn": 10.32,
+      "dollar_vol_bn": 0.23,
+      "w1_avg_dollar_vol_bn": 0.24,
+      "reason": "",
+      "main_business": "研发制造模块化电源转换器及电源系统集成方案"
+    }
+  ]
+}
