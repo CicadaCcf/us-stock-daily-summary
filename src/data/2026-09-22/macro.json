@@ -1,0 +1,481 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis-sep21",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊冲突升级：白宫提议50亿基金、海湾国家转向自保",
+      "summary": "特朗普提议注资50亿美元设立海湾能源基础设施重建基金，寻求8国配资至100亿；马克龙访白宫讨论保护中东能源设施及海峡通航；FT报道海湾国家意识到美国安全保障不再可靠，正呼吁与伊朗\"重启\"关系，探讨区域安全框架。沙特阿美部分恢复东西输油管道并改用霍尔木兹海峡运输原油。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "白宫提议注资50亿美元设立海湾能源设施重建基金",
+          "details": "特朗普政府提议注资 5B，设立一项用于重建海湾地区受损管道、炼油厂和能源设施的基金，并寻求该地区 8 个国家提供类似出资，将基金规模扩大至 10B，作为开辟减少对霍尔木兹海峡依赖的出口路线努力的一部分。",
+          "important": true
+        },
+        {
+          "actor": "Macron",
+          "actor_type": "Foreign-Gov",
+          "text": "马克龙会晤特朗普谈能源与海峡通航",
+          "details": "马克龙会晤特朗普，主要谈能源。中东关键设施要受到保护、霍尔木兹海峡航运要畅通；想办法让乌克兰不再炸俄炼油厂、也让俄停止炸乌克兰民用设施。马克龙呼吁欧盟委员会主席冯德莱恩放宽对柴油和煤油等石油产品的规定，原因是美伊战争可能导致供应短缺。法新社报道法国已准备好通过\"严格防御性\"方式，帮助保护沙特在延布以及东西输油管道沿线的能源基础设施。",
+          "important": false
+        },
+        {
+          "actor": "海湾国家",
+          "actor_type": "Foreign-Gov",
+          "text": "海湾国家呼吁与伊朗\"重启\"关系、探讨区域安全框架",
+          "details": "FT报道海湾国家正呼吁与伊朗\"重启\"关系，冲突暴露了海湾国家的安全脆弱性，并削弱了美国在中东的信誉。海湾国家意识到美国作为外部安全保障已不那么可靠，因此必须主导自身的安全安排；卡塔尔首相将当前的冲突称为\"警钟\"，呼吁海湾国家作为一个地区负责任地共同行动，并主张建立一个包含海湾国家和伊朗在内的区域\"安全框架\"；阿联酋总统外交顾问呼吁以\"新思维\"对待地区未来，主张除了美伊谈判外，还应开展\"阿拉伯-伊朗层面\"的对话；沙特在考虑与中东国家和伊朗签订互不侵犯条约的想法。",
+          "important": false
+        },
+        {
+          "actor": "沙特阿美",
+          "actor_type": "Corporate",
+          "text": "沙特阿美通过霍尔木兹重新运输原油，红海装货归零",
+          "details": "WSJ报道在红海绕行路线因袭击而关闭后，沙特阿美正通过霍尔木兹海峡重新运输原油，并要求亚洲买家在阿曼附近装载货物。过去两周，约有2.4Mb/d的沙特原油和凝析油通过霍尔木兹海峡；红海装货量已降至零。",
+          "important": false
+        },
+        {
+          "actor": "沙特阿美",
+          "actor_type": "Corporate",
+          "text": "东西输油管道数日内部分恢复，9-10月交付或延迟",
+          "details": "WSJ报道沙特阿美可能在几天内部分恢复东西输油管道运营，但技术障碍依然存在。一些欧洲和亚洲客户已收到警告，9月和10月的交付可能延迟或取消。",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "地缘正面消息：无也门袭击、特朗普愿会伊朗总统",
+          "details": "Andy: Geopolitical good news 1. No Yemen Attack 2. Trump willing to meet Iran President at UN 3. Extend Trade Truce with China 4. Happy talk ahead of Xi Trump meeting",
+          "important": false
+        },
+        {
+          "actor": "@tleilax___",
+          "actor_type": "KOL",
+          "text": "特朗普有30天时间宣布对华买俄能源关税",
+          "details": "@tleilax___：特朗普有 30 天时间宣布针对中国进口俄罗斯能源的相关关税",
+          "important": false
+        },
+        {
+          "actor": "Hormuz Strait Tracker",
+          "actor_type": "新闻",
+          "text": "霍尔木兹海峡7日均流量从战前20MBPD降至9-10MBPD",
+          "details": "Hormuz Strait Tracker（更新于Sep 21, 2026）：日流量从3月的3-4 MBPD逐步回升至7月峰值约13 MBPD，9月回落至约9-10 MBPD；战前正常水平为20.0 MBPD（虚线标记）。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        9
+      ],
+      "importance": 3,
+      "sources": [
+        "FT",
+        "WSJ",
+        "AFP"
+      ],
+      "date": "2026-09-22",
+      "image_urls": [
+        "/uploads/2026-09-22/ff1085d99567.png"
+      ]
+    },
+    {
+      "id": "fed-hawkish-musalem-sep21",
+      "topic": "美联储",
+      "topic_tag": "fed",
+      "title": "Musalem放鹰：需进一步加息；理事会内部沟通分歧",
+      "summary": "圣路易斯联储Musalem表示核心通胀高出目标1个百分点，通胀压力已从供应端扩展到需求端，暗示需要进一步加息、更早渐进收紧扰动更小。Miran反对加息，Claudia Sahm认同加息但严厉质疑Warsh的沟通方式和框架偏离美联储传统\"宏观稳定\"目标。",
+      "bullets": [
+        {
+          "actor": "Musalem",
+          "actor_type": "Central-Bank",
+          "text": "核心通胀高出目标1%，可能需进一步加息",
+          "details": "Musalem：核心通胀比目标高出1%，美国通胀压力已经从能源和关税等供应端冲击扩展至更广泛的需求领域，持续的需求和反复出现的供应压力都在继续推高通胀风险，表示可能需要进一步提高利率才能实现央行的通胀目标，并补充说，本月加息后，货币政策可能仍在刺激经济，与其等待通胀进一步固化后采取幅度更大的行动，更早、渐进地收紧政策造成的经济扰动可能更小。",
+          "important": true
+        },
+        {
+          "actor": "Miran",
+          "actor_type": "Central-Bank",
+          "text": "Miran反对加息，认为加息制造可信度问题",
+          "details": "Miran：美联储不应加息，加息的唯一论据是氛围（市场定价与不想制造波动），加息会造成更大的可信度问题。",
+          "important": false
+        },
+        {
+          "actor": "Claudia Sahm",
+          "actor_type": "Analyst",
+          "text": "Sahm质疑Warsh沟通方式与货币政策框架",
+          "details": "Claudia Sahm认同加息的决定，但对Warsh的沟通方式和货币政策框架提出了严重质疑：Warsh过度强调长期\"经济增长\"，偏离了美联储传统的\"宏观经济稳定\"目标，市场解读为鹰派信号；Warsh否认降通胀需以削弱劳动力市场或压低经济增长为代价，但未清晰解释高利率究竟将如何发挥降通胀作用；委员会其他成员使用\"中性利率\"作基准，Warsh却公开否定这一概念、认为其缺乏实操意义；Warsh拒绝提供前瞻性指引，与同事们点阵图划清界限，导致外界缺乏判断加息周期何时结束的明确标准；发布会仅30分钟、不允许记者追问，Warsh没有像前任那样传达委员会集体共识，而是选择性地表达观点，缺乏透明度。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-09-22",
+      "image_urls": []
+    },
+    {
+      "id": "us-diesel-export-pressure-sep21",
+      "topic": "美国柴油出口",
+      "topic_tag": "policy",
+      "title": "农业州共和党施压限制柴油出口，价格创$6.51纪录",
+      "summary": "由于柴油价格飙升至创纪录的每加仑6.51美元，农业州共和党人向特朗普政府施压要求限制或禁止柴油出口，而石油天然气生产商强烈反对。KOL指出柴油短缺短期难替代，成本传导拖慢整体经济。",
+      "bullets": [
+        {
+          "actor": "农业州共和党",
+          "actor_type": "US-Congress",
+          "text": "农业州共和党施压限制柴油出口",
+          "details": "由于柴油价格飙升至创纪录的每加仑6.51美元，农业州共和党人正向特朗普政府施压，要求限制或禁止柴油出口；而传统的政府盟友——石油和天然气生产商对此表示强烈反对。",
+          "important": true
+        },
+        {
+          "actor": "@Rory_Johnston",
+          "actor_type": "KOL",
+          "text": "柴油需求破坏难，成本上升\"很像加息\"",
+          "details": "@Rory_Johnston：柴油短缺短期内更难实现完全替代/需求破坏（相比汽油等），因此需求破坏的冲动正通过更高的成本结构拖慢整个经济——很像加息。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-22",
+      "image_urls": []
+    },
+    {
+      "id": "gs-energy-shock-inflation-sep21",
+      "topic": "高盛能源冲击与通胀",
+      "topic_tag": "oil",
+      "title": "GS：更广泛能源冲击，核心PCE 2026Q4达3.1%",
+      "summary": "布伦特已从6-7月均价$85反弹至$100，高盛预计年底回落至$85、2027年底至$75；成品油价格年底前均降10%。能源与商品价格将使核心PCE通胀每月+3-5bp，占2026Q4核心PCE 3.1%超出2%目标部分的近一半。头条PCE年底约3.5%，2027年5月降至2%。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "布伦特已从$85反弹至$100，年底料回落至$85",
+          "details": "GS ECO A Broader Energy Shock：布伦特原油价格已从6月和7月的平均85美元/桶反弹至目前的100美元/桶。此外，由于炼油能力中断，柴油和航空燃油等精炼产品的价格不成比例地上升，进一步增加了消费者价格的压力。高盛大宗商品策略师预计，假设海湾地区供应适应持续，到2027年下半年产量逐渐恢复至战前水平，原油价格将在年底前降至85美元/桶，到2027年底降至75美元/桶。精炼产品价格预计在年底前平均下降10%，到2027年底再平均下降10-15%。",
+          "important": true
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "能源+商品价格拉高核心PCE，累计已+35bp、未来再+15bp",
+          "details": "预计较高的能源和其他商品成本将在年底前每月使核心PCE通胀增加3-5bps，低于春季的峰值影响。据估计，较高的能源和其他商品价格迄今已使同比核心PCE通胀增加了约35bps，在高盛基线能源预测下，未来还将增加15bps。这意味着能源和其他商品成本的传导将占高盛预测的2026年底核心PCE通胀率（3.1%）超出2%目标部分的近一半。",
+          "important": false
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "同比PCE能源年底15%，headline PCE年底3.5%、2027年5月2%",
+          "details": "预计同比PCE能源通胀在年底前将保持在15%左右，随后基数效应导致其在2027年3月急剧下降至3%。较高的柴油价格预计将在未来几个月累计推动食品价格上涨0.2-0.4%。综合来看，这些因素将使同比headline PCE通胀在年底前保持在3.5%左右，然后在2027年3月 easing 至2.5%，到5月降至2.0%。",
+          "important": false
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS商品价格传导模型：核心PCE峰值影响0.5pp在2026Q4",
+          "details": "Exhibit 7：GS Commodity Price Passthrough模型显示，商品价格对月度核心通胀的推动在年底前为3-5bp，低于春季，年同比核心PCE峰值影响0.5pp出现在2026Q4。分项包括Energy、Refined Product Spreads、Other Gulf Commodities、Agriculture/Livestock、Precious/Industrial Metal、Lumber、Goods Transportation、Foreign Spillovers。",
+          "important": false
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS基线：核心PCE 2027年中2.3%、明年底2.2%",
+          "details": "Exhibit 10：GS预计核心PCE通胀在2027年中降至2.3%、明年底2.2%；headline PCE在2027年中降至2%，反映能源价格贡献消退及核心贡献缩小。基线与上行情景对比显示核心PCE从伊朗战开始的约3.5%峰值回落。",
+          "important": false
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "OECD战略石油储备与全球可见库存偏低，但短期不至断油",
+          "details": "Exhibit 3：尽管OECD战略石油储备水平和全球可见石油库存按历史标准偏低（从82-83天降至74天），高盛大宗商品策略师认为短期没有耗尽石油风险。全球陆基油库存2026年2月末约9B桶、8月末约8.5B桶，接近历史最低（2022年3月约8.5B），远高于全球运营最低约4.3B桶。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        3,
+        5
+      ],
+      "importance": 3,
+      "sources": [
+        "Goldman Sachs"
+      ],
+      "date": "2026-09-22",
+      "image_urls": [
+        "/uploads/2026-09-22/085b86c7b2cf.png",
+        "/uploads/2026-09-22/c67aa33bcb1c.png",
+        "/uploads/2026-09-22/f0678368dfa8.png"
+      ]
+    },
+    {
+      "id": "ai-capex-hyperscaler-sep21",
+      "topic": "AI资本开支与超大规模云厂商",
+      "topic_tag": "ai",
+      "title": "Apollo/MS：Hyperscaler FCF暴跌至-265B，赌2030反弹",
+      "summary": "Apollo警告hyperscalers信贷故事依赖运营现金流从600B增至2T的单一假设。MS Mauboussin测算五大云厂商合并FCF将从2024Q1的170B暴跌至2027Q3的-265B、共识预期2030年反弹超500B；Alphabet/Meta/Oracle因资本开支激增从成熟期倒退回成长期，ROIIC远超资本成本。图1显示Applied Digital/CoreWeave等对少数客户高度依赖。",
+      "bullets": [
+        {
+          "actor": "Apollo",
+          "actor_type": "Analyst",
+          "text": "Hyperscaler信贷押注运营现金流从600B涨至2T",
+          "details": "Apollo：hyperscalers的信贷故事建立在一个单一的共识假设之上，即运营现金流将从 600B增长两倍至 2T。如果这没有发生，那么风险在于 AI 交易走弱，信贷利差扩大，资本支出计划被削减，最终导致美国 GDP 增长放缓。",
+          "important": true
+        },
+        {
+          "actor": "MS Mauboussin",
+          "actor_type": "Analyst",
+          "text": "五大云厂商合并FCF将在2027Q3触底-265B，2030反弹超500B",
+          "details": "MS Michael J. Mauboussin：亚马逊、Alphabet、微软、Meta和甲骨文这五大\"超大规模云厂商\"合并自由现金流预计将从2024年第一季度的约170B暴跌至2027年第三季度的 -265B（触底），但市场共识预测其FCF将在2030年强势反弹至超过 500B。",
+          "important": false
+        },
+        {
+          "actor": "MS Mauboussin",
+          "actor_type": "Analyst",
+          "text": "Alphabet/Meta/Oracle因资本支出激增从成熟期倒退回成长期",
+          "details": "巨额的资本支出改变了部分公司的生命周期定位。Alphabet、Meta和甲骨文均因为资本支出的激增，从\"成熟期\"倒退回了\"成长期\"。亚马逊则一直保持在成长期，微软维持在成熟期。",
+          "important": false
+        },
+        {
+          "actor": "MS Mauboussin",
+          "actor_type": "Analyst",
+          "text": "ROIIC远超WACC，AI军备赛能创造实际价值",
+          "details": "增量投资资本回报率（ROIIC）远超成本：尽管投入了千亿美元级别的资金，云巨头的边际投资回报率预期依然远高于资本成本。华尔街分析师同步上调了资本支出预期（Alphabet、亚马逊和微软上调绝对值最大），同时上调了EBIT和销售额预期。Exhibit 8显示Amazon ROIIC 2031E约45%、Alphabet约30-35%、Microsoft峰值65%、Meta回落至15-20%、Oracle 2030E约50%，WACC均维持10%左右。",
+          "important": false
+        },
+        {
+          "actor": "MS Mauboussin",
+          "actor_type": "Analyst",
+          "text": "Apple资本开支占销售2-3%；Nvidia/Micron ROIIC爆发式增长",
+          "details": "Apple没有直接参与高资本密度的AI数据中心军备竞赛，其资本支出占销售额比例极低（2-3%），FCF持续保持稳定且充裕；Nvidia与Micron 作为这场资本支出狂潮的最大受益者（\"卖铲人\"），这两家公司的FCF和投资回报率预期均呈现出爆发式的抛物线增长。Exhibit 9显示Nvidia ROIIC峰值约620%(Q1 2026)、Micron峰值约1000%(Q1 2027E)。",
+          "important": false
+        },
+        {
+          "actor": "FT/Sona",
+          "actor_type": "新闻",
+          "text": "需求侧依赖：CoreWeave 70%依赖微软、Applied Digital 55%靠Oracle",
+          "details": "Top 5 demand-side reliance（Sona estimates via FT）：Applied Digital对Oracle约55%、Meta约35%；CoreWeave对微软约70%、Amazon约5%、Meta约15%；SK Hynix对NVIDIA约25%、微软10%、Apple 10%、Google 10%、Amazon 15%；NVIDIA对微软约25%、Amazon约25%、SMCI约15%；TSMC对NVIDIA 20%、Apple 20%、AMD 10%、Qualcomm 15%。",
+          "important": false
+        },
+        {
+          "actor": "郭忠良",
+          "actor_type": "KOL",
+          "text": "高利率+高油价加剧K型分化，美股上涨再集中到科技股",
+          "details": "郭忠良：对于美股而言, 美联储加息, 促成了高利率+高能源价格的双重压力, 这可能导致科技行业和非科技行业的营收增速差异继续拉大, 也就是加剧美国经济现有的K型分化, 这将压低美股的市场宽度, 美股上涨再次集中到科技股。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GOOGL",
+        "META",
+        "MSFT",
+        "AMZN",
+        "ORCL",
+        "NVDA",
+        "MU",
+        "AAPL",
+        "CRWV"
+      ],
+      "image_indexes": [
+        1,
+        2,
+        7,
+        8
+      ],
+      "importance": 3,
+      "sources": [
+        "Apollo",
+        "Morgan Stanley",
+        "FT"
+      ],
+      "date": "2026-09-22",
+      "image_urls": [
+        "/uploads/2026-09-22/68872b5e9631.png",
+        "/uploads/2026-09-22/1fc1aedc1d69.png",
+        "/uploads/2026-09-22/5cfe61513027.png",
+        "/uploads/2026-09-22/331b94c0a4bd.png"
+      ]
+    },
+    {
+      "id": "sellside-strategy-sep21",
+      "topic": "卖方策略",
+      "topic_tag": "earnings",
+      "title": "MS/DB看SPX 8000点；DB预计再加息50bp至4.375%",
+      "summary": "MS维持SPX年底8000点目标，但能源价格上涨可能带来7000-7100战术下行；DB SPX目标同为8000，Q3 EPS同比约30%，中期选举年Q4历史胜率21/23。DB Fed预计再加息50bp（12月+明年3月各25bp）到2027Q1的4.375%，若中性利率上修可能到4.5-4.75%。野村将BOJ下次加息推迟至2026年12月与2027年3月，终端1.75%不变。",
+      "bullets": [
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "DB Fed：再加息50bp至4.375%，中性利率上修或至4.75%",
+          "details": "DB维持基准预期：Fed还会再加息50bps（12月和明年3月各25bps），到2027年第一季度末把联邦基金利率推到4.375%。同时认为，如果中性利率（r-star）被上修，利率还有大约40bps的上行空间，可能到4.5%–4.75%。沃什主席对加息的三种可能表述，报告认为沃什更倾向于第三种开放式、偏鹰的表述。风险管理：经济前景没变但通胀上行风险加大需要买保险；收回去年降息：去年降了75bp现在只是收回过度宽松；转向足够限制性立场（最鹰派）：政策已经无意中变得太宽松，需要把利率升到真正限制性水平。",
+          "important": true
+        },
+        {
+          "actor": "MS",
+          "actor_type": "Analyst",
+          "text": "MS维持SPX 8000点，短期或战术下行至7000-7100",
+          "details": "MS Weekly Warm-up：原油价格的进一步上涨或产品价格缺乏缓解，可能会给预期的政策路径、后端收益率和债券波动性带来压力。目前物理市场正吸收广泛的干扰，且库存缓冲正在变薄。维持标普500指数年底8,000点的目标，但如果能源价格大幅上涨或金融条件收紧，短期内可能出现7,000-7,100点的战术性下行案例，但这不会阻止市场在年底前达到目标。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "DB SPX目标8000，Q3 EPS同比约30%，中期选举年Q4胜率21/23",
+          "details": "DB Equity Strategy：SPX目标8000点可期，上行风险大于下行风险，指出了几个潜在的积极催化剂：首先，预计Q3 EPS yoy约30%，继Q2强劲表现后继续保持高增长；其次，尽管债券收益率上升，但并未伴随波动率的增加，且债券市场的空头头寸接近极端水平；最后，较高的收益率在一定程度上反映了更强的增长预期。此外，历史数据显示，在美国中期选举年，Q4通常表现良好，过去23个中期选举年中有21年第四季度回报为正，平均涨幅为7%。",
+          "important": false
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS Banks and AI：超配银行、低配科技信用",
+          "details": "GS Banks and AI：AI将为银行带来积极的信用影响，银行可通过咨询、承销、银团贷款、资产管理和选择性 lending 收入从AI资本支出周期中获利，且可在内部部署AI以支持自动化和成本纪律。美元IG供应增加构成技术性逆风但被费用/融资/效率收益抵消。科技公司利用资产负债表灵活性为AI资本支出融资，导致债务发行大幅增加，科技行业在美元投资级总供应中的占比从2024年的约5%激增至目前的约20%。GS重申相对于非金融行业（特别是科技行业）超配银行的建议。银行主要通过建设性融资、过桥融资和项目打包等方式参与AI基础设施融资，将长期风险分销给机构和私募市场。芝加哥联储数据显示大型美国银行对AI相关行业的直接敞口仅占总资产的0.8%。",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "野村：BOJ加息推迟至2026年12月与2027年3月，终端1.75%",
+          "details": "Nomura BOJ：BOJ 9月如期加息至1.25%左右，但行长表态未显露进一步鹰派倾向。受外部油价及美联储政策影响，野村将主情景下的后续加息时点提前至2026年12月与2027年3月，但终端利率预测维持1.75%不变。基本面上，AI需求带动2026财年企业资本支出计划增速大幅上修至+11.0%，仍是复苏主引擎，但需警惕日元升值对盈利构成的压力。",
+          "important": false
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "JPM：中国房贷1%利率补贴对高额贷款效果有限",
+          "details": "JPM CN：1%的利率补贴为例，虽能将有效利率从3.05%降至2.05%，但若每套房源封顶仅为2-5万元人民币（非每年），则对高额贷款的实际节省非常有限。例如在上海贷款500万元，5万元的封顶仅相当于4个月的利息节省。若补贴提高至2%或封顶提至10万元，也仅相当于约8个月的利息节省。",
+          "important": false
+        },
+        {
+          "actor": "MSCI/GS",
+          "actor_type": "Analyst",
+          "text": "YTD美元回报：韩国+92.7%、中国+66.5%、SPX +11.7%",
+          "details": "MSCI YTD绝对回报（USD）：US 11.7%、Canada 10.8%、UK 6.7%、Germany -1.2%、France -2.9%、Japan 19.7%、Korea 92.7%、China 66.5%、Taiwan 21.9%、EM 21.8%、AC World 12.1%。分行业：Energy美股+42.2%、Semiconductor+40.2%、韩国科技硬件+132.8%、台湾半导体+87.3%、韩国半导体+195.2%等。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        6
+      ],
+      "importance": 3,
+      "sources": [
+        "Morgan Stanley",
+        "Deutsche Bank",
+        "Goldman Sachs",
+        "Nomura",
+        "JPMorgan"
+      ],
+      "date": "2026-09-22",
+      "image_urls": [
+        "/uploads/2026-09-22/81903df524bf.png"
+      ]
+    },
+    {
+      "id": "kol-buyside-views-sep21",
+      "topic": "买方与KOL观点",
+      "topic_tag": "macro-other",
+      "title": "Marks谈市场乐观主导；Pies看好科技引领反弹",
+      "summary": "Howard Marks警告2022年10月以来SPX涨超一倍、乐观主导需谨慎，AI公司内在价值\"太难\"估算，建议成立AI影响特别工作组。Warren Pies认为核心PCE SEP预测未考虑下修，加息为股市\"扫清障碍\"，反弹由科技（超大规模+半导体）引领。BLS：软件开发人员2025-2035仍增170K/+10%。",
+      "bullets": [
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "加息是股市扫清障碍事件，反弹由科技引领",
+          "details": "Warren Pies：核心 PCE 的 SEP 预测未考虑未来的修正（预计将下修），这可能意味着在通胀方面有望迅速取得胜利。债券仍然低配，但指出 2Y估值合理，10Y可能还有 10-15bps的空间。对股而言加息是扫清障碍的事件，反弹应由科技股引领（超大规模云厂商排第一，半导体紧随其后排第二）。",
+          "important": true
+        },
+        {
+          "actor": "Howard Marks",
+          "actor_type": "KOL",
+          "text": "Marks：2022年10月以来SPX涨超一倍，乐观主导需谨慎",
+          "details": "Edward/Howard Marks：马克斯不期待Fed主席告诉他该做什么；央行若少透露未来行动，市场参与者就不得不让组合和业务更具反脆弱性，这整体上更安全。自2022年10月1日以来市场总体上由乐观者主导，SPX涨幅超过一倍；当乐观者主导时价格往往高于内在价值应保持谨慎。美国经济与TINA交易：美国经济总量表现是发达国家中最好的，\"别无选择\"交易与AI兴奋共同构成乐观来源；自2009年3月股市见底以来市场没有经历真正糟糕的时期，人们习惯外推美好时光。纯AI公司可能尚未盈利，其商业模式完全依赖AI，未来五年盈利潜力难以量化，因此内在价值难以估算；巴菲特式的\"太难\"可能适合此类标的；马克斯认为应成立AI影响特别工作组；如果AI取代工人，失业者不再缴税，那么AI是否也会取代纳税人、政府收入将受何影响，值得提前思考。",
+          "important": false
+        },
+        {
+          "actor": "BLS",
+          "actor_type": "新闻",
+          "text": "BLS：软件开发人员2025-2035仍增170K/+10%",
+          "details": "BLS OUTLOOK：AI coding的替代效应, 可能因为从业人员转向更高附加值的工作, 而大幅削弱。在BLS的分类中Computer Programmers（SOC 15-1251），2025年就业总数110k，其就业展望是2025-2035年减少8100，降幅7%。不过和AI coding密切相关的还有一个分类：Software Developers, Quality Assurance Analysts, and Testers（SOC 15-1252、15-1253），其中15-1252代表Software developers，是通常所说被AI coding冲击最大的部分，2025年就业总数1.72M，其就业展望是2025-2035年增加170K，增幅10%。BLS解释：传统的编程人员本来一直就被替代，同时AI、物联网和机器人等对于软件开发人员的需求十分强劲。",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "ACM模型受期限溢价Kim背离，隐含波动率/信用利差/基本面同样背离",
+          "details": "Andy：ACM 是一个 PCA 模型，基本上完全由其前两个主成分驱动，即水平和曲线陡峭度，坦率地说，与仅仅观察曲线相比，它并没有提供任何有用的洞见。Kim 加入了分析师对利率路径的预期。由于分析师预期的是温和或不存在、随后反转的加息周期，而市场定价的是中等且持续的加息周期，ACM 和曲线陡峭度就与 Kim 出现了背离。另一方面，许多因素都与 Kim 背离，包括隐含波动率和信用利差、基本面经济强度和股票价格。相对于其他衡量当前期限溢价所在的指标，Kim 可能是最大的背离。",
+          "important": false
+        },
+        {
+          "actor": "@OddStats",
+          "actor_type": "KOL",
+          "text": "QQQ单日+2.75%且VXN上涨1点后1个月表现统计",
+          "details": "@OddStats：当天纳指ETF（QQQ）大涨至少+2.75%，同时纳指波动率指数VXN也上涨至少1个点。作者列出了过去所有符合这两个条件的日子，并统计了之后2周和1个月的QQQ表现。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "QQQ"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-22",
+      "image_urls": []
+    },
+    {
+      "id": "misc-other-sep21",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "白宫推Trump TV；SpaceX停售猎鹰9拼单；Shopify接入Meta Muse",
+      "summary": "白宫正式推出Trump TV国家媒体频道24小时直播；SpaceX停止出售猎鹰9拼单发射转向星舰，2028+客户无法锁定；Shopify将Meta Muse AI代理与Shop Pay整合。图4显示Dubai Physical Premium从3月$15波动至6月末峰值$30后回落。",
+      "bullets": [
+        {
+          "actor": "White House",
+          "actor_type": "US-Executive",
+          "text": "白宫推出Trump TV国家媒体频道24小时直播",
+          "details": "白宫正式推出国家媒体频道特朗普 TV，它被描述为获取特朗普伟大时刻的一种方式，24 小时不间断直播。",
+          "important": false
+        },
+        {
+          "actor": "SpaceX",
+          "actor_type": "Corporate",
+          "text": "SpaceX停售猎鹰9拼单发射，转向星舰",
+          "details": "WSJ报道SpaceX 已停止出售猎鹰 9 号拼单发射任务，转而向星舰过渡；部分客户无法锁定 2028 年之后的猎鹰火箭发射。预计至少到本十年末，发射需求都将超过运力。",
+          "important": true
+        },
+        {
+          "actor": "Shopify",
+          "actor_type": "Corporate",
+          "text": "Shopify整合Meta Muse AI代理与Shop Pay",
+          "details": "Shopify 将把 Meta 的 Muse AI 代理与 Shop Pay 整合，使其能够代表用户在参与该计划的 Shopify 商店中完成购买。两家公司未提供更多推广细节。",
+          "important": false
+        },
+        {
+          "actor": "@FluxOfficials",
+          "actor_type": "KOL",
+          "text": "Dubai Physical Premium从3月$15波动至6-7月峰值$30",
+          "details": "Dubai Physical Premium图表：3月起约$15，多次冲高至6月末/7月初峰值约$30（标注Aug $23.71），期间数值包括$23.907、$13.96、$8.56、$2.525、$1.41、$23.71；图末回落至约$23-25。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SHOP",
+        "META"
+      ],
+      "image_indexes": [
+        4
+      ],
+      "importance": 1,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-09-22",
+      "image_urls": [
+        "/uploads/2026-09-22/dd060e229539.png"
+      ]
+    }
+  ]
+}

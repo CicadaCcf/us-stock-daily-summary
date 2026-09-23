@@ -1,0 +1,152 @@
+{
+  "events": [
+    {
+      "tag": "Agentic电商",
+      "tagCls": "hot",
+      "title": "Meta个人智能体Muse上线，下载超ChatGPT同期",
+      "body": "Meta个人智能体Muse延续高热度，早期下载节奏被指快于ChatGPT同期，并推进与Shopify、PayPal的购物/结账合作，Amazon则屏蔽Muse自动购物访问。公司还在测试由人工承包商悄然承接部分电话任务的\"human concierge\"模式，华尔街将Muse视为潜在新收入引擎（订阅/商业智能体/交易层）。",
+      "tickers": [
+        "META",
+        "SHOP",
+        "PYPL",
+        "AMZN"
+      ]
+    },
+    {
+      "tag": "AI降本",
+      "tagCls": "hot",
+      "title": "Anthropic发布Claude Opus 5.5，成本降约40%",
+      "body": "Anthropic发布Claude Opus 5.5，性能接近顶级Fable 5.1，运行成本较前代低约40%，并提升速度与输出清晰度，未来数周还将推出Sonnet/Haiku 5.5。降本加剧前沿模型API价格战，利好调用成本敏感的应用层，对高价旧模型形成替代压力，市场同时将其与IPO筹备一并定价。",
+      "tickers": [
+        "PANW",
+        "AMZN",
+        "MSFT"
+      ]
+    },
+    {
+      "tag": "AI降本",
+      "tagCls": "hot",
+      "title": "OpenAI推GPT-6低价Sol与Luna，价格约为前代半价",
+      "body": "OpenAI扩展GPT-6产品线，推出定价约为前代促销价一半的Sol与Luna，主打降本，并计划在训练与发布更早阶段引入METR、Redwood Research等外部机构做安全评估。竞争从\"唯性能\"转向性能/美元与治理可信度，应用与云厂商推理成本有望再下台阶。",
+      "tickers": [
+        "MSFT",
+        "NET",
+        "DDOG"
+      ]
+    },
+    {
+      "tag": "AI融资",
+      "tagCls": "hot",
+      "title": "软银筹备110亿美元垃圾债投OpenAI",
+      "body": "软银筹备大规模垃圾债券发行，规模约110亿美元，用于支持对OpenAI的投资，初步认购兴趣超过200亿美元。AI私有巨头融资从股权延伸到杠杆债务，成为高收益债市场对AI风险偏好的试金石，也抬升连锁杠杆与再融资敏感度。",
+      "tickers": [
+        "MSFT",
+        "NVDA"
+      ]
+    },
+    {
+      "tag": "油价",
+      "tagCls": "",
+      "title": "沙特重启东西向管道，油价连续回落",
+      "body": "沙特东西向原油管道进入重启进程，延布港装船与出口恢复预期升温，油价结算走低并连续多日回调。能源成本预期缓和，美债收益率与风险溢价同步松动，利好航空、运输与部分消费，并支撑成长/纳指风险偏好。",
+      "tickers": [
+        "AAL",
+        "CCL",
+        "DAL"
+      ]
+    },
+    {
+      "tag": "监管",
+      "tagCls": "warn",
+      "title": "特朗普拒签国际AI监管协议",
+      "body": "特朗普在联合国明确拒绝签署国际AI风险管控协议，称美国现有机制足够；联合国秘书长呼吁防止\"杀手机器人\"与权力过度集中。美国与多边监管路线分歧固化，短线降低全球统一严监管落地概率，但各国单边规则差异可能上升，合规与安全工程投入成常态成本。",
+      "tickers": [
+        "NVDA",
+        "META",
+        "MSFT"
+      ]
+    },
+    {
+      "tag": "稳定币",
+      "tagCls": "",
+      "title": "币安1亿美元投资Circle并延长USDC五年",
+      "body": "币安向Circle投资1亿美元（约每股80.84美元），并将USDC合作延长五年，Circle按月支付推广费，币安把USDC接入储蓄与投资产品。股权+渠道绑定提升USDC渗透，稳定币竞争从发行转向交易所分发；另有报道称美方仍在调查币安是否涉及伊朗制裁相关交易。",
+      "tickers": [
+        "CRCL",
+        "COIN",
+        "PYPL"
+      ]
+    },
+    {
+      "tag": "货币政策",
+      "tagCls": "warn",
+      "title": "联储官员重申限制性利率与通胀风险",
+      "body": "里士满联储Barkin称经济或走强、通胀不只限于能源与关税；波士顿联储Collins支持上周加息并警告通胀风险仍高；纽约联储强调准备金与国债购买将随市场条件调整。交易员同时加大对加息路径更浅、甚至2027年转向的期权对冲。",
+      "tickers": [
+        "JPM",
+        "SCHW"
+      ]
+    },
+    {
+      "tag": "监管处罚",
+      "tagCls": "warn",
+      "title": "DoorDash就纽约薪资调查赔付1.315亿美元",
+      "body": "DoorDash同意支付约1.315亿美元了结纽约市对其违反外卖骑手最低工资规定的调查，包括向约26.4万名工人补偿及约1670万美元罚款，并承认计薪问题、承诺整改。一次性现金成本与合规加码冲击零工平台利润模型。",
+      "tickers": [
+        "DASH",
+        "UBER"
+      ]
+    },
+    {
+      "tag": "AI硬件",
+      "tagCls": "",
+      "title": "苹果推本地AI Mac并研无屏健身设备",
+      "body": "苹果新款Mac开始出货，强调本地运行AI、\"无per-token云成本\"，对比租用GPU云经济性；消息称公司早期研发对标Whoop的无屏织物表带健身追踪器，时点或不早于2028年。本地AI降低推理边际成本叙事利好硬件升级周期。",
+      "tickers": [
+        "AAPL",
+        "NVDA"
+      ]
+    },
+    {
+      "tag": "网络安全",
+      "tagCls": "",
+      "title": "Palo Alto推基于Claude与GPT的安全服务",
+      "body": "Palo Alto Networks宣布推出面向企业的新网络安全服务，调用Anthropic Claude与OpenAI GPT等模型，帮助识别企业系统中的安全漏洞与风险。安全厂商把前沿模型嵌入产品，验证\"AI应用层+网络安全\"双赢家定价，安全与观测有望获得更稳的预算优先级。",
+      "tickers": [
+        "PANW",
+        "CRWD",
+        "ZS"
+      ]
+    },
+    {
+      "tag": "裁员重组",
+      "tagCls": "",
+      "title": "微软Xbox裁员268人并重组工作室归属",
+      "body": "微软Xbox部门裁员268人并重组，Activision将接管《光环》《帝国时代》等IP的开发监督，Bethesda并入Obsidian相关架构，旨在改善利润率，属更大规模裁员计划一部分。游戏业务从内容扩张转向利润与工作室效率，AI capex高企背景下非核心业务降本仍是主线。",
+      "tickers": [
+        "MSFT"
+      ]
+    }
+  ],
+  "_archive": {
+    "source": "notion",
+    "fetched_at": "2026-09-23T00:10:47.335870+00:00",
+    "raw_text": "### Meta Muse上线并拓展购物与人工兜底\nMeta个人智能体Muse延续高热度：早期下载节奏被指快于ChatGPT同期，并推进与Shopify、PayPal的购物/结账合作；同时Amazon屏蔽Muse自动购物访问，平台与智能体之间的流量与交易入口争夺升温。公司还在测试由人工承包商悄然承接部分电话任务的“human concierge”模式。华尔街已将Muse视为潜在新收入引擎（订阅/商业智能体/交易层），并上调对Meta AI变现路径的权重；短期交易上，相关“Agentic赢家”与被分流的电商、OTA、传统软件之间的相对定价仍会剧烈波动。\n- META  Meta\n- SHOP  Shopify\n- PYPL  PayPal\n- AMZN  Amazon\n### Anthropic发布低成本Claude Opus 5.5\nAnthropic发布Claude Opus 5.5：在性能接近其顶级Fable 5.1的同时，运行成本较前代显著下降（报道称约低40%），并提升速度与输出清晰度；未来数周还将推出Sonnet/Haiku 5.5。模型发布前接受外部安全测试，并加入限制网络与生物风险的防护。降本直接加剧前沿模型API价格战，并强化“同等能力更低推理成本”的采购逻辑；市场将其与公司IPO筹备、企业份额争夺一并定价，利好调用成本敏感的应用层，对高价旧模型形成替代压力。\n- PANW  Palo Alto Networks\n- AMZN  Amazon\n- MSFT  Microsoft\n### OpenAI推GPT-6低价Sol与Luna并扩评估\nOpenAI扩展GPT-6产品线，推出定价约为前代促销价一半的Sol与Luna，在保留部分旗舰能力的同时主打降本；并计划在训练与发布更早阶段引入METR、Redwood Research等外部机构做安全评估。市场同时在为OpenAI Dev Day做仓位准备。降价与更早第三方评估并行，说明竞争已从“唯性能”转向性能/美元与治理可信度；应用与云厂商推理成本有望再下台阶，模型层份额与毛利叙事则更卷。\n- MSFT  Microsoft\n- NET  Cloudflare\n- DDOG  Datadog\n### 沙特重启东西向管道油价回落\n沙特东西向原油管道进入重启进程，红海延布港装船与出口恢复预期升温，霍尔木兹相关流通改善的信号增多，油价结算走低并连续多日回调。能源成本预期缓和，美债收益率与风险资产风险溢价同步松动。油价从高位回落直接改善短线通胀与加息路径定价，利好对油价敏感的航空、运输与部分消费，并支撑成长/纳指风险偏好；若供应恢复不及预期，波动仍会迅速回到利率与股指联动中。\n- AAL  American Airlines\n- CCL  Carnival\n- DAL  Delta Air Lines\n### 特朗普拒签国际AI监管协议\n特朗普在联合国明确拒绝签署国际AI风险管控协议，称美国现有机制足够且不愿扼杀增长；联合国秘书长等则呼吁防止“杀手机器人”与权力过度集中，OpenAI、Anthropic等高管亦参与安理会AI议题简报。美国与多边监管路线分歧固化，短线降低“全球统一严监管”落地概率，成长科技的政策折价受限；但各国单边规则与安全审查差异可能上升，合规与安全工程投入会成为大型云与模型商的常态成本。\n- NVDA  Nvidia\n- META  Meta\n- MSFT  Microsoft\n### 币安投资Circle1亿美元延长USDC\n币安向Circle投资1亿美元（约合每股80.84美元），并将USDC合作延长五年：Circle按月支付推广费，币安把USDC接入储蓄与投资产品并提供交易费激励。另有报道称美方仍在调查币安是否涉及伊朗制裁相关交易。股权+渠道绑定提升USDC流动性与场景渗透，稳定币竞争从发行转向交易所分发与合规；若制裁调查升温，则会对加密基础设施风险溢价构成扰动。\n- CRCL  Circle\n- COIN  Coinbase\n- PYPL  PayPal\n### 联储官员重申通胀与限制性利率\n里士满联储Barkin称经济或在走强、通胀不只限于能源与关税冲击；波士顿联储Collins支持上周加息并警告通胀风险仍高；纽约联储官员强调准备金与国债购买将随市场条件调整，国债中央清算进展快于预期。交易员同时加大对“加息路径更浅、甚至2027年转向”的期权对冲。官方表述维持限制性利率与数据依赖，与油价回落带来的温和定价并存，收益率曲线与金融股、长久期成长之间的相对交易仍会反复。\n- JPM  JPMorgan\n- SCHW  Charles Schwab\n### DoorDash就纽约薪资调查赔1.315亿\nDoorDash同意支付约1.315亿美元，了结纽约市对其违反外卖骑手最低工资规定的调查，包括向约26.4万名工人补偿及向市消费者与劳工保护局支付约1670万美元罚款，并承认计薪方式问题、承诺整改。一次性现金成本与合规加码冲击零工平台利润模型，强化市场对本地监管成本的定价；同业若在其他城市面临类似审查，费用率与运力策略可能被动调整。\n- DASH  DoorDash\n- UBER  Uber\n### 苹果推AI向Mac并研无屏健身设备\n苹果新款Mac开始出货，硬件层强调本地运行AI、“无per-token云成本”，对企业侧对比租用GPU云的经济性；同时消息称公司早期研发对标Whoop的无屏织物表带健身追踪器，若成正式产品时点或不早于2028年。Beats亦推出可高度定制的新款头戴耳机。本地AI降低推理边际成本的叙事利好苹果硬件升级周期，并对“一切推理上云”的单位经济假设形成对照；健康硬件则意在应对Whoop/Oura等形态创新。\n- AAPL  Apple\n- NVDA  Nvidia\n### 软银筹备百亿级垃圾债投OpenAI\n软银筹备大规模垃圾债券发行，规模约110亿美元，用于支持对OpenAI的投资，初步认购兴趣超过200亿美元。交易成为高收益债市场对AI股权/附属融资风险偏好的试金石。AI私有巨头融资从股权延伸到杠杆债务，说明公开与私募信用仍愿为AI成长支付溢价，但也抬升连锁杠杆与再融资敏感度；若定价顺利，将强化“AI capex/投资不被信用市场卡脖子”的风险偏好。\n- MSFT  Microsoft\n- NVDA  Nvidia\n### Palo Alto推基于Claude与GPT的安全服务\nPalo Alto Networks宣布推出面向企业的新网络安全服务，调用Anthropic Claude与OpenAI GPT等模型，帮助识别企业系统中的安全漏洞与风险。安全厂商把前沿模型嵌入产品，验证“AI应用层+网络安全”双赢家定价；企业在部署Agent的同时必须加码防护，安全和观测有望获得比普通应用软件更稳的预算优先级。\n- PANW  Palo Alto Networks\n- CRWD  CrowdStrike\n- ZS  Zscaler\n### 微软Xbox裁员并重组工作室归属\n微软Xbox部门裁员268人并重组：Activision将接管《光环》《帝国时代》等IP的开发与监督，Bethesda并入Obsidian相关架构，旨在改善利润率，属更大规模裁员计划的一部分。游戏业务从内容扩张转向利润与工作室效率，短线利于成本叙事，但大作管线执行与员工士气是后续验证点；在AI capex高企背景下，非核心或低ROI业务的降本仍会是大科技主线。\n- MSFT  Microsoft",
+    "model": "claude-opus-4-8",
+    "usage": {
+      "input_tokens": 4090,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 2407,
+      "service_tier": "standard",
+      "inference_geo": "global",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      }
+    }
+  }
+}
