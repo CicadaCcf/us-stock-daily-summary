@@ -1,0 +1,233 @@
+{
+  "themes": [
+    {
+      "id": "ai-app-infoflow-0914-0920",
+      "theme": "AI应用",
+      "title": "AI应用信息流总结 9/14-9/20",
+      "date_range": "9/14-9/20",
+      "date": "2026-09-23",
+      "tickers": [
+        "MSFT",
+        "NVDA",
+        "TSLA",
+        "GOOGL"
+      ],
+      "summary": "本周OAI ARR加速使两家月净增可能达$15B；训练需求narrative由\"安全监管放缓训练\"转向\"更好的对齐手段边际增加算力需求\"；Anthropic放宽生物医疗护栏加速垂直变现，Muse重新打开2C Personal Agent想象空间；美国政府对AI监管态度偏消极，FINRA式监管机构提案被搁置。",
+      "groups": [
+        {
+          "label": "ARR",
+          "entries": [
+            {
+              "source": "ARR综述",
+              "source_type": "",
+              "important": true,
+              "points": [
+                "目前实际节奏上OAI加速，两家本月net Add可能达到$15B。第三方口径依然按照此前缓慢增长线性外推，无增量信息",
+                "实际节奏上（按翟啸口径), Anthropic $75B增速平缓, OAI $50B边际加速，两家net Add本月因OAI加速可能达到$15B",
+                "FundaAI：看板估算目前Anthropic $81B、OpenAI $44B；9月末预测分别为$84B、$45B。口径为trailing 28 days",
+                "Yipit：9/17发布截至8/31的估计 Anthropic约 $70B，月增约$5B，OpenAI约 $43B，月增约$5B，口径为月度平均",
+                "Tickertrends未更新",
+                "NYT：报道Anthropic知情人士预计年底 ARR 超 $100B，FT报道投资人预计年底 ARR $100 -120B"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "需求",
+          "entries": [
+            {
+              "source": "训练需求 (AI安全相关)",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "本周 narrative由\"安全监管减缓投入训练\"转向\"在不会显著减少训练投入的同时，安全对齐边际上增加对算力的需求\", KOL都认为存在更好的安全对齐手段，而不是一刀切放缓训练"
+              ]
+            },
+            {
+              "source": "FundaAI",
+              "source_type": "researcher访谈报告",
+              "important": false,
+              "points": [
+                "三家 researcher 称，训练未放缓，新增评估更可能影响的是拉长新模型发布流程"
+              ]
+            },
+            {
+              "source": "Jensen Huang",
+              "source_type": "All in Summit",
+              "important": false,
+              "points": [
+                "AI doomer是骗局, 监管应针对具体可验证的工程问题, 而非放缓整体训练",
+                "超级智能已在窄域到来：自动驾驶、蛋白质合成等领域 AI 已超人类专家；赢 AI 竞赛靠的是国家能否把技术转化为生产力与再工业化"
+              ]
+            },
+            {
+              "source": "Satya Nedella",
+              "source_type": "All in Summit",
+              "important": false,
+              "points": [
+                "安全要区分\"普通 DevOps 故障\"和\"reward hacking 等新型高风险\"，靠严格第三方测试而非一刀切放缓"
+              ]
+            },
+            {
+              "source": "Elon Musk",
+              "source_type": "All in Summit",
+              "important": false,
+              "points": [
+                "Musk 主推\"AI 实验室互相测试对方模型\"的 peer-review 安全框架，比中心化监管更快发现欺骗性行为"
+              ]
+            },
+            {
+              "source": "推理-企业需求",
+              "source_type": "",
+              "important": true,
+              "points": [
+                "企业整体仍然看重ROI，简单任务用routing压成本、复杂任务愿意溢价购买SOTA模型能力，但占比仅为个位数。边际上更多预算偏向OAI"
+              ]
+            },
+            {
+              "source": "Yipit",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "8月数据报告中，OpenAI B2B支出增速连续第二个月回升，同时购买两家的客户钱包份额向OpenAI移动；Anthropic B2B客户支出中位数环比约持平，token支出增速受价格与用量共同拖累"
+              ]
+            },
+            {
+              "source": "Databricks",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "更强模型能拿到预算，但因高昂成本优先用于复杂任务。 Databricks将Astra开放给约3,500名工程师，试点使用者coding总支出增加约60%，因此单设预算，优先用于复杂任务"
+              ]
+            },
+            {
+              "source": "TickerTrends",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "截至9/13的一周，Codex的Reddit发帖与评论量均超过Claude Code约两倍，体现codex目前更受欢迎"
+              ]
+            },
+            {
+              "source": "Satya Nadella",
+              "source_type": "All in Summit",
+              "important": false,
+              "points": [
+                "现在大部分价值归模型层的经济模型不可持续，产品公司长期靠开源竞争 + 互操作标准避免 vendor lock-in"
+              ]
+            },
+            {
+              "source": "Vercel",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "低成本任务开始由专门模型承接。 Jev上线24小时内，被近13%的AI Gateway付费团队使用"
+              ]
+            },
+            {
+              "source": "金融/法律/医疗",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "暂无更新"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "供给",
+          "entries": [
+            {
+              "source": "企业应用综述",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "coding/金融边际无变化，法律与生命科学AI labs积极投入产品化，但收入方面尚早"
+              ]
+            },
+            {
+              "source": "法律",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "ChatGPT发布Astra for Law, 将模型、专业法律检索与专用指令组合交付，初期向部分律所提供Trusted Access，API尚待开放。Harvey与Legora仍可在其上构建产品",
+                "前沿labs为垂直领域产品化模型能力，目前态度是和领域垂直应用公司合作而非替代"
+              ]
+            },
+            {
+              "source": "医疗",
+              "source_type": "",
+              "important": true,
+              "points": [
+                "Anthropic的生物医疗能力以beta面向机构开放，通过资质审核减少科研误拦截，出于安全考虑相关流量要求保留30天。另外Reuters确认Anthropic已建立湿实验室，意图是为医药行业提供工具",
+                "Anthropic放宽对生物医疗的护栏，意图增加此垂直领域变现速度。生科/pharma 是最愿意付费、最受\"误拦截\"折磨的高价值客群，目前放宽护栏主要是把\"因安全过严而流失的科研付费需求\"接回来。审核机制从\"一刀切拦截\"转向\"分层验证 + 事后监控\"."
+              ]
+            },
+            {
+              "source": "Anthropic",
+              "source_type": "RSI",
+              "important": false,
+              "points": [
+                "截至8月，Claude在人类监督下主导26%的AI研发工作，没有被测工作子集达到完全自主的层级"
+              ]
+            },
+            {
+              "source": "Noam Brown",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "RSI实际研发提速仍受可并行任务、串行实验与GPU资源制约"
+              ]
+            },
+            {
+              "source": "2C综述",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "Muse火爆，重新打开市场对Personal Agent空间的想象。Codex下周dev day预计也发布2C助手，会进一步提高市场关注度"
+              ]
+            },
+            {
+              "source": "Zhiqing sun",
+              "source_type": "Meta researcher",
+              "important": false,
+              "points": [
+                "Muse为消费端优化的computer use得到好评，团队称自MS 1.1起通过端到端训练在脚本和点击间选择，以降低延迟"
+              ]
+            },
+            {
+              "source": "竞争与定价",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "本周无新进展，重点关注Anthropic 9月初因为竞争压力放宽对数据留存的要求，企业应用收入是否能重新加速"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "监管",
+          "entries": [
+            {
+              "source": "WSJ",
+              "source_type": "",
+              "important": true,
+              "points": [
+                "扎克伯格、马斯克、黄仁勋等说服Trump 搁置FINRA式的AI监管机构，整体政府对AI监管态度偏消极",
+                "该机构由 GDM Demis Hassabis 牵头、白宫部分官员支持的，功能是模型部署前做审查测试"
+              ]
+            },
+            {
+              "source": "Anthropic",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "Anthropic除了和此前METR的评估合作，宣布另外与Accenture开展嵌入式评估合作，未来五年投入至少$1B建设相关能力"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

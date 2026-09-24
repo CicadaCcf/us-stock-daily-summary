@@ -1,0 +1,87 @@
+{
+  "generated_at": "2026-09-23T21:31:30+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-09-23",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12592,
+    "partial_pass": 6,
+    "with_carryover": 10,
+    "after_full_check": 5
+  },
+  "rows": [
+    {
+      "tk": "VICR",
+      "nm": "Vicor Corp",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 5.5,
+      "w1": 54.0,
+      "market_cap_bn": 13.06,
+      "dollar_vol_bn": 0.46,
+      "w1_avg_dollar_vol_bn": 0.4,
+      "reason": "",
+      "main_business": "研发制造模块化电源转换器及电源系统集成方案"
+    },
+    {
+      "tk": "VKTX",
+      "nm": "Viking Therapeutics, Inc",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 2.0,
+      "w1": 41.1,
+      "market_cap_bn": 4.86,
+      "dollar_vol_bn": 0.63,
+      "w1_avg_dollar_vol_bn": 0.52,
+      "reason": "",
+      "main_business": "研发治疗代谢及内分泌疾病的生物药物"
+    },
+    {
+      "tk": "ARM",
+      "nm": "Arm Holdings plc American Depositary Shares",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -0.2,
+      "w1": 36.3,
+      "market_cap_bn": 355.17,
+      "dollar_vol_bn": 2.31,
+      "w1_avg_dollar_vol_bn": 2.5,
+      "reason": "",
+      "main_business": "全球领先的芯片架构设计与IP授权商，广泛应用于智能手机处理器"
+    },
+    {
+      "tk": "ALAB",
+      "nm": "Astera Labs, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": -0.8,
+      "w1": 33.9,
+      "market_cap_bn": 62.53,
+      "dollar_vol_bn": 1.19,
+      "w1_avg_dollar_vol_bn": 1.73,
+      "reason": "",
+      "main_business": "为云计算和AI基础设施提供半导体连接解决方案及智能连接平台"
+    },
+    {
+      "tk": "AXTI",
+      "nm": "AXT Inc",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -6.2,
+      "w1": 13.5,
+      "market_cap_bn": 4.79,
+      "dollar_vol_bn": 0.39,
+      "w1_avg_dollar_vol_bn": 0.74,
+      "reason": "",
+      "main_business": "研发生产化合物半导体衬底晶圆材料"
+    }
+  ]
+}
