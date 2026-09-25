@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-09-25T03:41:25+00:00",
+  "date": "2026-09-24",
+  "since": "2026-09-22T20:00:00+00:00",
+  "by_ticker": {
+    "TWST": [],
+    "ALAB": [
+      {
+        "headline": "Zacks Investment Ideas feature highlights: Astera Labs, SpaceX, Cloudflare, NVIDIA and Meta Platforms",
+        "url": "https://www.zacks.com/stock/news/2994475/zacks-investment-ideas-feature-highlights-astera-labs-spacex-cloudflare-nvidia-and-meta-platforms?cid=CS-ZC-FT-press_releases-2994475",
+        "source": "Zacks Investment Research",
+        "published_at": "2026-09-23T13:05:00Z",
+        "image": "https://staticx-tuner.zacks.com/images/articles/main/58/1952.jpg",
+        "description": "Zacks highlights Astera Labs as a Zacks Rank #1 Strong Buy, emphasizing its role as an essential connectivity chip provider for AI data centers. The company has demonstrated triple-digit earnings and revenue growth since 2024 and has beaten analyst expectations every quarter since its IPO. Investor Gavin Baker supports the thesis that Astera Labs provides irreplaceable bottleneck assets as hyperscalers develop custom silicon and AI infrastructure scales toward larger rack-based systems."
+      }
+    ],
+    "VICR": [
+      {
+        "headline": "Company News for Sep 23, 2026",
+        "url": "https://www.zacks.com/stock/news/2994317/company-news-for-sep-23-2026?cid=CS-ZC-FT-corporate_summary-2994317",
+        "source": "Zacks Investment Research",
+        "published_at": "2026-09-23T13:32:00Z",
+        "image": "https://staticx-tuner.zacks.com/images/articles/main/71/1915.jpg",
+        "description": "Several companies reported earnings results with mixed outcomes. AutoZone beat earnings expectations and gained 3.3%, while THOR Industries surpassed revenue estimates with a 5.6% jump. MillerKnoll missed revenue targets and declined slightly. Vicor Corporation surged 19.9% after raising its third-quarter revenue growth outlook to over 20%."
+      }
+    ],
+    "GRAL": []
+  }
+}
