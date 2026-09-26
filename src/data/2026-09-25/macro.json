@@ -1,0 +1,383 @@
+{
+  "topics": [
+    {
+      "id": "fed-warsh-regime-shift",
+      "topic": "美联储/Warsh新框架",
+      "topic_tag": "fed",
+      "title": "Warsh上任后转鹰，官员分歧显现",
+      "summary": "新任Fed主席Warsh上任后判断通胀已连续62个月偏高，暗示需采取行动，油价/加拿大关税/AI基建被视为持续性成本推手。Barkin强调政策同时通过物理层面(利率敏感部门)和形而上层面(信号)作用；Williams则持鸽派，认为关税和劳动力市场不会引发持续通胀。Erian预计Warsh改革（含前瞻指引批判）或成为全球央行蓝图。",
+      "bullets": [
+        {
+          "actor": "Warsh",
+          "actor_type": "Central-Bank",
+          "text": "Warsh判断通胀连续62个月偏高，需采取行动",
+          "details": "Warsh上任后做了几个深刻的判断，其中之一是通胀已经连续62个月偏高，我们大概该做点什么了，夏天发生的事让这一点清晰起来：油价这事要持续一阵，加拿大关税要持续一阵，AI buildout在推高成本。",
+          "important": true
+        },
+        {
+          "actor": "Barkin",
+          "actor_type": "Central-Bank",
+          "text": "Barkin：政策既在物理层面也在形而上层面起作用",
+          "details": "政策既在物理层面起作用（压制利率敏感部门传导到通胀，有长而多变的滞后），也在形而上层面起作用——Fed会对通胀滞留做出反应这件事本身，向全经济的定价者发信号。",
+          "important": false
+        },
+        {
+          "actor": "Williams",
+          "actor_type": "Central-Bank",
+          "text": "Williams：关税不会导致持续性通胀",
+          "details": "Williams表示关税不会导致持续性通胀，劳动力市场并非持久压力来源，Fed应该确保供给不会根深蒂固。",
+          "important": false
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "Analyst",
+          "text": "Erian：Warsh改革或成全球央行蓝图",
+          "details": "美联储五个工作组的产出加上Warsh主导的更广泛改革，若成为全球央行的蓝图不会让我意外。Warsh对前瞻指引异化的批判已经在海外获得响应。",
+          "important": false
+        },
+        {
+          "actor": "Robert Kaplan",
+          "actor_type": "Analyst",
+          "text": "Kaplan：9月加息正确，但市场可能定价过多",
+          "details": "美联储在9月加息是正确举措，因通胀仍处中3%且月环比接近3%，高于2.5%的年化合意水平；但市场可能正在定价过多加息。倾向9月后跳过一次会议，再在12月视数据决定；9月30日PCE、10月中旬CPI是关键；若两次加息落地，政策利率将接近4%-4.25%，可能仅需再加一次达到轻度限制性水平。10年期美债收益率已升破5%，长端更多受财政赤字、缺乏财政收敛计划及油价冲击影响，AI基建和国防支出对利率不敏感。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        3
+      ],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-09-25",
+      "image_urls": [
+        "/uploads/2026-09-25/eca00ba22365.png",
+        "/uploads/2026-09-25/2502ebcee575.png"
+      ]
+    },
+    {
+      "id": "ust-yields-curve-sep24",
+      "topic": "美债收益率/曲线",
+      "topic_tag": "rates",
+      "title": "10Y破5%，曲线走陡，卖方买方分歧",
+      "summary": "10Y美债破5%、曲线整体走陡（5s30s 44bp, 2s10s 31bp）。Citi认为鹰派Fed推升实际收益率，怀疑Fed是否有市场隐含的激进加息意愿；Timmer称5%票息垫改善债券风险回报；@Fullcarry认为整条曲线已计入不确定性溢价；Andy称短券融资是财政部'扭曲操作'。",
+      "bullets": [
+        {
+          "actor": "Citi Andrew Hollenhorst",
+          "actor_type": "Analyst",
+          "text": "花旗：市场自由定价鹰派加息，怀疑Fed意愿",
+          "details": "美联储主席Warsh上周表示美国经济对高利率具有韧性，并暗示不会\"忽略\"能源价格上涨的影响。由于缺乏进一步的政策路径指引，市场自由定价了更为鹰派的加息预期，推动短期和长期收益率均显著上升。花旗认为，市场此前认为鹰派美联储会导致长期国债收益率下降的观点存在误解，实际上收益率上升是因为投资者定价了更高的政策利率导致的实际收益率上升。花旗不赞同Warsh关于高利率不会伤害劳动力市场的观点，鉴于各种\"潜在\"通胀指标正在降温且接近目标水平，怀疑美联储官员是否有像市场目前隐含的那样进行激进加息的意愿。目前市场似乎相信金融条件的收紧不会导致增长放缓，昨日强劲的PMI读数支持了这一评估，但花旗指出利率敏感sector受抑制后劳动力市场终将受冲击。",
+          "important": true
+        },
+        {
+          "actor": "Jurrien Timmer",
+          "actor_type": "KOL",
+          "text": "Timmer：5%票息垫改善债券风险回报数学",
+          "details": "5%会是名义收益率的顶吗？未必，但债券投资者的风险回报数学已好看得多：5%的票息垫使得10Y若下行100bp赚11.9%，升到6%只亏1.9%。10年期实际收益率已升破经济的实际潜在增速（CBO口径2.5%且未来几年降到2%以下），债务可持续的前提是增长高于融资利率，这个前提现在不成立，除非AI让CBO的预测显得太低。上几次实际收益率升到或越过实际潜在增速是2007、2000、1994——不是利率冲击就是增长冲击。",
+          "important": false
+        },
+        {
+          "actor": "@Fullcarry",
+          "actor_type": "KOL",
+          "text": "@Fullcarry：整条曲线已计入不确定性溢价",
+          "details": "取消前瞻性指引，在交易商、对冲基金、自营交易员等杠杆参与者适应新美联储的过程中，注定会经历一些波折。感觉美债现在处于一个很好的位置，整条收益率曲线都计入了相当程度的不确定性溢价。",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "Andy：财政部靠短券融资是'扭曲操作'",
+          "details": "通过回购和供给变化来操纵名义收益率的一个巧妙之处在于，通胀盈亏平衡率被压缩。取消10至30年期债券作为赤字融资和债务再融资工具，转而使用短期国库券，我将其称为\"财政部扭曲操作\"，但它100%是在试图控制收益率曲线。",
+          "important": false
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "Joseph：能源价格推动全球利率上升",
+          "details": "利率上升是全球性的，因为这是由全球能源价格飙升所推动的。世界各地的市场正在定价越来越陡峭的加息周期。在美国，市场在过去一周定价了另一次25个基点的加息。在战争结束之前，情况只会变得更糟。",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "美债曲线走陡：9/24收盘5s30s 44bp",
+          "details": "9/24收盘：2s5s 16bp、2s10s 31bp、5s10s 15bp、10s30s 29bp、5s30s 44bp。曲线自9/8以来先扁平后大幅走陡。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TLT",
+        "TBT"
+      ],
+      "image_indexes": [
+        0,
+        2,
+        6
+      ],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-09-25",
+      "image_urls": [
+        "/uploads/2026-09-25/7ebb019ed1d4.png",
+        "/uploads/2026-09-25/4a2845331edc.png",
+        "/uploads/2026-09-25/b634163a0cc4.png"
+      ]
+    },
+    {
+      "id": "ubs-fed-balance-sheet",
+      "topic": "美联储资产负债表",
+      "topic_tag": "fed",
+      "title": "UBS：Fed资负渐进演变，QT重启概率低",
+      "summary": "瑞银预计美联储资产负债表渐进演变，快速重启QT概率极低，充足准备金框架大概率保留。",
+      "bullets": [
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "瑞银：Fed月度10B恢复准备金管理购买",
+          "details": "美联储资产负债表将呈现渐进式演变而非剧烈变革，快速重启量化紧缩（QT）的可能性极低，充足准备金框架大概率保留。目前准备金余额接近3T，因TGA升至957B抵消了扩表影响。瑞银预计年底前美联储将以每月约10B恢复准备金管理购买，2027年总资产增长约150B。此外，美联储或通过再投资短券加速缩短SOMA持仓久期；若未来监管改革承认贴现窗口借贷能力，有望降低100-400B的准备金结构性需求。",
+          "important": true
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "CCC级高收益债收益率回升至15%",
+          "details": "Apollo/Bloomberg Caa US High Yield Yield To Worst显示CCC级高收益债收益率2026年回升至约15%，接近历史危机期水平（2002年约30%、2009年约33%）。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        5
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-09-25",
+      "image_urls": [
+        "/uploads/2026-09-25/b0b1c5dac03d.png"
+      ]
+    },
+    {
+      "id": "us-iran-hormuz-oil",
+      "topic": "美伊/霍尔木兹与油市",
+      "topic_tag": "oil",
+      "title": "海峡受阻，Aramco寻新路线，出口禁令传闻",
+      "summary": "美伊冲突升级后霍尔木兹地区净出口较战前下降45%，沙特东西输油管遇袭恢复中但延布出口未复。能源部长Wright接触美国炼厂评估自愿限制柴油出口，作为短期禁令替代方案。沙特Aramco CEO称正研究第4、5条出口路线（含阿曼Ras Markaz）。阿曼湾船对船过驳已饱和。Barclays维持Brent 2026年96、2027年85美元预测且风险偏上。",
+      "bullets": [
+        {
+          "actor": "JPM ECO",
+          "actor_type": "Analyst",
+          "text": "JPM：海峡地区净出口较战前降45%",
+          "details": "截至9月17日的一周，通过霍尔木兹海峡的原油及成品油净出口平均为8.7Mb/d，若计入沙特、阿联酋和伊拉克管道的增量bypass以及阿曼湾的船对船转移，该地区在新升级的美伊战争阶段前72天的平均净出口量为11.5Mb/d，较战前水平下降了45%。基于2014年以来的数据，上周布伦特和WTI原油的合并净管理资金持仓处于第47百分位，显示投机性持仓并未极端化。",
+          "important": true
+        },
+        {
+          "actor": "Chris Wright",
+          "actor_type": "US-Executive",
+          "text": "能源部长接触炼厂评估自愿限制柴油出口",
+          "details": "能源部长克里斯·赖特已联系多家美国主要炼油企业的高管，以评估他们对自愿限制柴油出口的支持程度。特朗普政府正在寻找短期出口禁令的替代方案。",
+          "important": false
+        },
+        {
+          "actor": "Aramco CEO",
+          "actor_type": "Corporate",
+          "text": "Aramco研究第4、5条出口路线，含阿曼Ras Markaz",
+          "details": "沙特阿美CEO称除了现有的3条主要路线[霍尔木兹海峡、红海和苏伊士-地中海管道]之外，阿美正在研究\"第4条和第5条路线\"用于原油出口，沙特、科威特和伊拉克应当探索的一个解决方案，是将石油通过管道输送到阿曼的拉斯马尔卡兹，那里濒临阿拉伯海。这是一个相对较新的石油码头，而对于一个可能在短短13年内耗尽石油的国家来说，阿曼或许会乐于看到过境收入。",
+          "important": false
+        },
+        {
+          "actor": "路透",
+          "actor_type": "新闻",
+          "text": "阿曼湾船对船过驳已饱和，沙特出口升向3.6M B/d",
+          "details": "RTRS报道阿曼湾的船对船过驳已达饱和：沙特东西输油管遇袭后被迫大幅转走海峡，Kpler数据显示沙特经海峡原油出口正升向3.6M B/d。沙特东西向输油管在9月11日无人机袭击停运后正在恢复原油输送，但延布的油轮出口尚未恢复。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ：马来西亚200+艘油轮成伊朗规避制裁生命线",
+          "details": "WSJ报道马来西亚停泊着一支由200多艘油轮和货轮组成的庞大船队，正在成为逃避美国制裁的伊朗船只的\"生命线\"。",
+          "important": false
+        },
+        {
+          "actor": "CNN",
+          "actor_type": "新闻",
+          "text": "CNN：中国卫星情报支持伊朗威胁海峡与打击美军基地",
+          "details": "CNN报道多份美国情报评估，中国方面提供的卫星图像与情报支持，帮助伊朗威胁霍尔木兹海峡航运、并对美军中东基地实施精确打击；伊朗目标定位能力数月来大幅提升。",
+          "important": false
+        },
+        {
+          "actor": "马克龙",
+          "actor_type": "Foreign-Gov",
+          "text": "法国将向沙特延布部署军事资源保护能源设施",
+          "details": "法国总统埃马纽埃尔·马克龙宣布，法国将向沙特阿拉伯部署军事资源，以保护红海沿岸关键的延布能源设施；强调法国军队不会参与战斗或介入冲突，而只是在那里保护该设施。",
+          "important": false
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "巴克莱：维持Brent 2026年96、2027年85美元，风险偏上",
+          "details": "尽管市场对达成协议抱有希望，但基本面的持续收紧以及美国可能实施柴油出口禁令的媒体报道，加剧了近期油价的波动性。加热油裂解价差承压，而RBOB汽油裂解价差反向走高，表明价格压力难以通过单一手段缓解。分析师维持对布伦特原油2026年96美元/桶和2027年85美元/桶的预测，且认为当前风险偏向更高。",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "Herman Jin：美国裂解差飙至70-100，中国炼厂全线亏损",
+          "details": "美国裂解差从战前$20/bbl涨到70-100，这是个人对大宗输入型通胀体感如此强烈的主因。中国入场会往最缺的柴油和汽油里注入一大块闲置供给。当下中国的问题不是产能最大化，而是能不能放慢产能的闲置。因为进口配额，中国炼厂现在全线亏损或勉强保本，而全球价差已经起飞——新加坡裂解差60-90对中国20（中东原油更稀缺）。若油轮真的没法开到中国做转口加工，那就真无解。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "XOM",
+        "CVX",
+        "USO",
+        "VLO",
+        "MPC"
+      ],
+      "image_indexes": [
+        4,
+        7
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "CNN",
+        "Reuters"
+      ],
+      "date": "2026-09-25",
+      "image_urls": [
+        "/uploads/2026-09-25/2211d602051a.png",
+        "/uploads/2026-09-25/20309cff7bba.png"
+      ]
+    },
+    {
+      "id": "global-inflation-sync",
+      "topic": "全球通胀同步",
+      "topic_tag": "macro-other",
+      "title": "JPM：全球通胀从分化走向同步",
+      "summary": "JPM指出全球通胀正在同步回归，受能源冲击、供应链瓶颈和科技硬件需求驱动，全球央行同步紧缩风险上升。Alpine Macro分解显示核心PCE贡献主要来自关税、AI基建和能源冲击三大供给冲击。",
+      "bullets": [
+        {
+          "actor": "JPM ECO",
+          "actor_type": "Analyst",
+          "text": "JPM：全球核心商品通胀未来6月将加速至2.5%",
+          "details": "全球通胀正从分化走向同步。受地缘冲突引发的能源冲击（年化涨16%）、供应链瓶颈及科技硬件需求激增驱动，摩根大通预计未来六个月全球核心商品通胀将加速至年化2.5%。同时，9月发达市场服务业PMI升至55.7创四年新高，企业定价能力阻断了服务业去通胀进程。共同通胀压力回归下，全球货币政策同步紧缩的风险显著上升。",
+          "important": true
+        },
+        {
+          "actor": "Alpine Macro",
+          "actor_type": "Analyst",
+          "text": "Alpine：三大供给冲击推动核心PCE，2026年顶峰约1pp",
+          "details": "Alpine Macro/Oxford Economics将美国核心PCE通胀分解为三大供给冲击贡献：关税传导（Tariff Pass-Through）、AI基建（AI Buildout）、能源供给冲击（Energy Supply Shock）。2026年三者合计贡献峰值接近1个百分点，2027年逐步回落但AI和能源仍是主要贡献项。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-25",
+      "image_urls": []
+    },
+    {
+      "id": "ai-buildout-oracle-jupiter",
+      "topic": "AI基建",
+      "topic_tag": "ai",
+      "title": "Oracle Project Jupiter触发不可抗力",
+      "summary": "Oracle对2.45GW新墨西哥数据中心Project Jupiter（Stargate组成部分）发出不可抗力通知，因新墨西哥州两次拒批17英里燃气管线许可。Ackman质疑Fed加息在AI/能源需求不敏感的时代反而会推高通胀。",
+      "bullets": [
+        {
+          "actor": "Oracle",
+          "actor_type": "Corporate",
+          "text": "Oracle对Project Jupiter发不可抗力通知",
+          "details": "Oracle对Project Jupiter（新墨西哥2.45GW数据中心，Stargate组成部分）发出不可抗力通知。项目需要17英里天然气管线为Bloom燃料电池供电，新墨西哥州两次拒批管线许可。",
+          "important": true
+        },
+        {
+          "actor": "Bill Ackman",
+          "actor_type": "KOL",
+          "text": "Ackman：Fed可能刚犯了一个错误",
+          "details": "Fed提高短期利率会降低通胀的假设是基于这样一种信念：更高的利率会减少需求和投资。但是，如果更高的利率并没有减少需求和投资，因为对智能和能源的需求不受更高利率的影响，因为赢得超级智能竞赛的ROI几乎是无限的，而且对计算资源的需求将保持不可估量呢？因此，在历史上这个独特时刻，为什么更高的利率不会因为利息成本嵌入到一切事物中而导致更多通胀呢？而且问题会进一步加剧，因为Fed越是提高利率，我们就会有越多的通胀，而美联储就需要进一步提高利率，以此类推。但是，如果旧的模型不适用于当前的范式，而Fed错了呢？我认为Fed可能刚刚犯了一个错误。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "ORCL",
+        "BE"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-25",
+      "image_urls": []
+    },
+    {
+      "id": "china-us-xi-trump",
+      "topic": "中美关系/PBOC",
+      "topic_tag": "geo",
+      "title": "习特会形式大于实质，PBOC警示羊群效应",
+      "summary": "WSJ报道习特会形式大于实质，习私下敦促美方反对台独，双方讨论AI但未达实质进展。PBOC货币政策委员会季度公告多年来首次使用'防范羊群效应和非理性预期自我强化'表述。",
+      "bullets": [
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "习特会形式大于实质，习敦促反对台独",
+          "details": "WSJ报道中美会晤形式大于实质，贸易谈判进展微弱，习近平在私下会晤中敦促美方反对\"台独\"，并警告美国对台湾的支持可能会使未来的双边关系复杂化，两国领导人讨论了AI技术。习近平强调发展AI必须始终处于人类控制之下，而特朗普似乎并未对此感到不安，倾向于维持两国在AI领域的竞争现状。",
+          "important": true
+        },
+        {
+          "actor": "PBOC",
+          "actor_type": "Central-Bank",
+          "text": "PBOC罕见警示'羊群效应和非理性预期'",
+          "details": "PBOC周四在货币政策委员会季度例会后的公告中表示，要\"防范市场'羊群效应'和非理性预期的自我强化\"，这是该委员会季度声明多年来首次使用这一表述。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-09-25",
+      "image_urls": []
+    },
+    {
+      "id": "market-tone-misc",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "市场情绪与前动量股观察",
+      "summary": "Minervini指出前高成长股因估值回落重新获得PEG视角关注但已拉伸；TheShortBear认为最坏消息集中释放后往往形成底部；Wallerstein对AI Agent普及持怀疑。",
+      "bullets": [
+        {
+          "actor": "Mark Minervini",
+          "actor_type": "KOL",
+          "text": "Minervini：前动量股用PEG视角审视，易回调",
+          "details": "一批经历深度调整的前高成长股开始重新吸引兴趣——不是因为市场重新拥抱激进成长，而是价格跌到让估值相对盈利和预期增长变得有吸引力，前动量股正越来越多地被用相对价值或PEG的镜头审视。结果是这批票已经拉伸，容易回调。",
+          "important": true
+        },
+        {
+          "actor": "TheShortBear",
+          "actor_type": "KOL",
+          "text": "TheShortBear：市场惩罚的是不确定性而非风险本身",
+          "details": "一周内塞满最坏消息，市场惩罚的是风险的不确定而非风险本身。风险落地带来清晰，最好的底往往逆着共识、在深度恐惧中、在最坏消息引发显著正向价格反应之后形成。",
+          "important": false
+        },
+        {
+          "actor": "Wallerstein",
+          "actor_type": "KOL",
+          "text": "Wallerstein：95%人不在乎优化生活，AI Agent或是B2B机会",
+          "details": "很确定95%的人不在乎优化自己的生活。要么Gen Alpha真的把agent用起来（超出拿ChatGPT做泛搜索），要么这是个巨大的B2B机会。正常人不干这事。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-09-25",
+      "image_urls": []
+    }
+  ]
+}

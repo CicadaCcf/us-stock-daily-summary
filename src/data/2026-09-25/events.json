@@ -1,0 +1,147 @@
+{
+  "events": [
+    {
+      "tag": "AI云订单",
+      "tagCls": "hot",
+      "title": "Anthropic与Akamai达成116亿美元云基础设施协议",
+      "body": "Anthropic与Akamai敲定约7年、116亿美元云基础设施合作，特定条件下规模可能进一步扩大。收入贡献预计2027年中起逐步体现、2028年接近全年化，被视作CDN/云安全厂商切入大模型托管的订单验证。",
+      "tickers": [
+        "AKAM",
+        "AMD",
+        "CRWD"
+      ]
+    },
+    {
+      "tag": "Agent AI",
+      "tagCls": "hot",
+      "title": "Meta Muse推动Agentic AI进入消费级任务执行",
+      "body": "Meta消费级AI代理Muse上线后采用速度高于预期，交易主线从聊天模型切向代用户执行任务的Agent负载。分析上修数据中心CPU/GPU配比、边缘分发与存储带宽需求，并对可能被中间层冲击的软件重新估值。",
+      "tickers": [
+        "META",
+        "AMD",
+        "AMZN",
+        "DDOG",
+        "MU"
+      ]
+    },
+    {
+      "tag": "AI估值",
+      "tagCls": "hot",
+      "title": "AMD市值站上1万亿美元并上修CPU市场展望",
+      "body": "AMD市值进入1万亿美元俱乐部，机构将Agent推理带来的服务器CPU需求视为下一阶段弹性来源，讨论2030年服务器CPU市场约2110亿美元路径。短线已部分计入份额与ASP提升，焦点转向订单转化与2027年后利润兑现。",
+      "tickers": [
+        "AMD",
+        "INTC",
+        "ARM"
+      ]
+    },
+    {
+      "tag": "利率风险",
+      "tagCls": "warn",
+      "title": "美债收益率升至多年高位压制长久期资产",
+      "body": "10年期美债收益率升至约5.16%–5.2%区间，30年期升破5.5%，TLT创纪录低位。长端实际利率上行成为跨资产定价核心约束，AI债务供给与财政融资结构进一步放大波动。",
+      "tickers": [
+        "TLT"
+      ]
+    },
+    {
+      "tag": "信用风险",
+      "tagCls": "warn",
+      "title": "AI相关债券发行规模超过5000亿美元",
+      "body": "截至2026年，AI相关债务发行已超过5000亿美元，其中超大规模云厂商约占40%。供给冲击叠加财政赤字与粘性通胀，使信用市场更强调资产负债表强度与AI敞口可控的发行人筛选。",
+      "tickers": []
+    },
+    {
+      "tag": "财报",
+      "tagCls": "",
+      "title": "Costco超预期季报并提示存储成本上涨",
+      "body": "Costco交出EPS 6.75美元、营收约957亿美元的超预期成绩，会员费与数字渠道仍是质量信号。公司明确存储涨价向电子消费品传导，出现约1.52亿美元费用影响讨论，市场在韧性与估值已price-in间双向定价。",
+      "tickers": [
+        "COST",
+        "MU",
+        "WDC"
+      ]
+    },
+    {
+      "tag": "IPO治理",
+      "tagCls": "",
+      "title": "Anthropic拟IPO前推动创始人投票控制权结构",
+      "body": "Anthropic寻求股东批准一种在公开上市后仍由创始人掌握投票控制权的股权结构。该安排影响IPO治理溢价、流通盘与长期战略独立性定价，并关系到已持股上市公司的退出与债务置换节奏。",
+      "tickers": [
+        "CRM"
+      ]
+    },
+    {
+      "tag": "商业航天",
+      "tagCls": "",
+      "title": "Blue Origin完成100亿美元融资估值达1400亿",
+      "body": "Blue Origin完成约100亿美元融资、估值约1400亿美元，资金用于运载火箭、卫星与政府合同能力扩张，对标SpaceX竞争位势。一级市场定价抬升强化商业航天资产稀缺性交易。",
+      "tickers": [
+        "RKLB"
+      ]
+    },
+    {
+      "tag": "AI变现",
+      "tagCls": "",
+      "title": "Cognition年化经常性收入运行率突破10亿美元",
+      "body": "AI编码创业公司Cognition年化收入运行率超过10亿美元，为应用层AI变现提供新的第三方数据点。该进展强化编程代理/开发工具可快速形成规模化ARR的认知，提高对相关云资源消耗与开发者入口的跟踪权重。",
+      "tickers": [
+        "MSFT",
+        "AMZN",
+        "CRM"
+      ]
+    },
+    {
+      "tag": "数据中心电力",
+      "tagCls": "",
+      "title": "Eaton约8.1亿欧元收购欧洲数据中心电力产能",
+      "body": "Eaton通过约8.10亿欧元交易获取COL Group欧洲电力相关产能，估值约合2027年销售额的3.2倍。交易直接对应数据中心用电与配电设备缺口，是算力资本开支向电网/配电硬件配置的最新落地。",
+      "tickers": [
+        "ETN",
+        "CMI",
+        "VST"
+      ]
+    },
+    {
+      "tag": "存储合约",
+      "tagCls": "",
+      "title": "Sandisk锁定超940亿美元多年期存储合约",
+      "body": "Sandisk披露通过新商业模式锁定超过940亿美元、覆盖至2028年的合约收入，对2027年芯片销售超50%、2028年约三分之二提供最低价格与采购量约束。合同结构显著降低收入不确定性，估值讨论转向执行与客户集中度。",
+      "tickers": [
+        "SNDK",
+        "MU",
+        "WDC"
+      ]
+    },
+    {
+      "tag": "生物医药",
+      "tagCls": "",
+      "title": "Prime Medicine获FDA批准PM647体内基因编辑IND",
+      "body": "FDA批准Prime Medicine针对AATD的体内Prime Editor项目PM647的IND，允许推进人体试验；管线中PM359等项目指向2027年上半年BLA路径讨论。监管进展提高平台型基因编辑走向临床数据的事件密度。",
+      "tickers": [
+        "PRME"
+      ]
+    }
+  ],
+  "_archive": {
+    "source": "notion",
+    "fetched_at": "2026-09-26T00:30:42.566287+00:00",
+    "raw_text": "### Anthropic与Akamai达成116亿美元云基础设施协议\nAnthropic与Akamai(AKAM)敲定约7年、116亿美元云基础设施合作，部分分析称在特定条件下规模可进一步扩大，收入贡献预计2027年中起逐步体现、2028年接近全年化影响。合约被视作CDN/云安全厂商切入大模型训练推理托管的订单验证，同时强化对前置资本开支、稀释与客户集中度的定价权重。\n- AKAM  Akamai\n- AMD  AMD\n- CRWD  CrowdStrike\n### Meta Muse推动Agentic AI进入消费级任务执行\nMeta(META)消费级AI代理Muse上线后采用速度高于预期，交易主线从“聊天模型”切到“代用户执行任务”的Agent负载。分析普遍上修数据中心CPU/GPU配比、边缘分发、可观测性与存储带宽需求，并对可能被中间层分发/订阅模式冲击的软件重新估值。\n- META  Meta\n- AMD  AMD\n- AMZN  Amazon\n- DDOG  Datadog\n- MU  Micron\n### AMD市值站上1万亿美元并上修CPU总市场展望\nAMD(AMD)市值进入1万亿美元俱乐部，机构将Agent推理带来的服务器CPU需求作为下一阶段弹性来源，并讨论2030年服务器CPU市场约2110亿美元的路径。短线交易已部分计入份额与ASP提升，后续焦点转向订单转化速度与2027年后利润表兑现。\n- AMD  AMD\n- INTC  Intel\n- ARM  Arm\n### 美债收益率升至多年高位并压制长久期资产\n10年期美债收益率升至约5.16%–5.2%区间，30年期升破5.5%，TLT创纪录低位，长端实际利率上行成为跨资产定价核心约束。资金在高名义收益率下提高权益折现率要求，AI债务供给与财政融资结构（短端国债发行占比偏高）进一步放大波动。\n### AI相关债券发行规模超过5000亿美元\n截至2026年，AI相关债务发行已超过5000亿美元，其中超大规模云厂商约占40%。供给冲击与财政赤字、粘性通胀叠加，使信用市场更强调资产负债表强度与AI敞口可控的发行人筛选，而非单看主题贝塔。\n### Costco公布超预期季报并提示存储成本上涨\nCostco(COST)交出EPS 6.75美元、营收约957亿美元的超预期成绩，会员费与数字渠道仍是质量信号；同时公司明确存储涨价向电子消费品传导，并出现约1.52亿美元费用影响讨论。市场将其拆成“商业模式韧性”与“估值已price-in卓越”的双向定价。\n- COST  Costco\n- MU  Micron\n- WDC  Western Digital\n### Anthropic拟在上市前推动创始人投票控制权结构\nAnthropic寻求股东批准一种在公开上市后仍由创始人掌握投票控制权的股权结构。该安排直接影响IPO治理溢价、流通盘与长期战略独立性定价，并关系到已持有其股权的上市公司退出与债务置换节奏。\n- CRM  Salesforce\n### Blue Origin完成100亿美元融资估值达1400亿\nBlue Origin完成约100亿美元融资、估值约1400亿美元，资金用于运载火箭、卫星与政府合同能力扩张，对标SpaceX在发射与星座的竞争位势。一级市场定价抬升强化商业航天资产稀缺性交易，并对关联发射、卫星与ETF波动率产生影响。\n- RKLB  Rocket Lab\n### Cognition年化经常性收入运行率突破10亿美元\nAI编码创业公司Cognition年化收入运行率超过10亿美元，为应用层AI变现提供新的第三方数据点。该进展强化“编程代理/开发工具可快速形成规模化ARR”的认知，并提高市场对相关云资源消耗与开发者生态入口的跟踪权重。\n- MSFT  Microsoft\n- AMZN  Amazon\n- CRM  Salesforce\n### Eaton以约8.1亿欧元收购欧洲数据中心电力产能\nEaton(ETN)通过约8.10亿欧元交易获取COL Group欧洲电力相关产能，估值约合2027年销售额的3.2倍。交易直接对应数据中心用电与配电设备缺口，是“算力资本开支→电网/配电硬件”资本配置的最新落地。\n- ETN  Eaton\n- CMI  Cummins\n- VST  Vistra\n### Sandisk锁定超940亿美元多年期存储合约\nSandisk(SNDK)披露通过新商业模式锁定超过940亿美元、覆盖至2028年的合约收入，对2027年芯片销售超50%与2028年约三分之二提供最低价格与采购量约束。合同结构显著降低收入不确定性，使估值讨论更聚焦执行与客户集中度而非传统存储价格周期。\n- SNDK  Sandisk\n- MU  Micron\n- WDC  Western Digital\n### Prime Medicine获FDA批准PM647体内基因编辑IND\nFDA批准Prime Medicine(PRME)针对AATD的体内Prime Editor项目PM647的IND，允许推进人体试验；公司管线中另有PM359等项目指向2027年上半年BLA路径讨论。监管进展提高平台型基因编辑从概念验证走向临床数据的事件密度。\n- PRME  Prime Medicine",
+    "model": "claude-opus-4-8",
+    "usage": {
+      "input_tokens": 3156,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1982,
+      "service_tier": "standard",
+      "inference_geo": "global",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      }
+    }
+  }
+}
