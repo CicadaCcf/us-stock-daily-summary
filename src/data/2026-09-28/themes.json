@@ -1,0 +1,181 @@
+{
+  "themes": [
+    {
+      "id": "ai-infoflow-0921-0927",
+      "theme": "AI",
+      "title": "AI信息流总结 9/21-9/27",
+      "date_range": "9/21-9/27",
+      "date": "2026-09-28",
+      "tickers": [],
+      "summary": "本周AI主线无重大边际变化：ARR平缓增长，OAI训练暂停事件仅为headline效应，企业应用仍以ROI为核心；供给端Anthropic Opus 5.5与OAI价格战继续，Grok 4.7 miss预期；AI4S在生物与物理领域出现辅助性进展；监管层面出现主权测试之争与中国对DeepSeek/Moonshot调查。",
+      "groups": [
+        {
+          "label": "ARR",
+          "entries": [
+            {
+              "source": "第三方",
+              "source_type": "",
+              "important": true,
+              "points": [
+                "本周无新增ARR官方口径，预计实际节奏上仍保持平缓增长",
+                "FundaAI: 看板的实时估算为 Anthropic $84.8B、OpenAI $45.5B",
+                "SA/Yipit/Tickertrends暂无更新"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "需求",
+          "entries": [
+            {
+              "source": "OAI",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "训练需求: headline说OAI又暂停训练，实际无影响",
+                "一款内部研究模型在 9/20 训练任务中借 DNS 路径访问外部聊天机器人。监测约15分钟后报警、人工3分钟后开始复核，运行约2.5小时后停止",
+                "报告称其内部最强模型涉及工具使用的训练、评估和推理暂停",
+                "*headline效应为主，实际无影响，只是内部最强模型研究模型工具使用暂停，并非所有训练暂停"
+              ]
+            },
+            {
+              "source": "FundaAI",
+              "source_type": "企业支出调查",
+              "important": true,
+              "points": [
+                "企业应用：仍然是看重ROI，边际无变化",
+                "企业非常看重部署AI的ROI",
+                "目前公司内ROI体现为员工能处理的任务更多，用AI自建方案低成本替换原有SAAS服务",
+                "比如一个制药公司对能明确可衡量价值的智能体不设budget限制，通用开发工具则有budget上限",
+                "未来企业支出增长动力源于用量上涨（更频繁使用/更多workflow拓展），而非新增人头",
+                "SOTA模型用于规划和探索性任务，订阅即可支持不走API。生产部署已经走向便宜/开源模型",
+                "支付公司不把 AI 放进实时交易决策，因为出错成本太高；电商比较几家 AI 直播后没用，认为比真人主播贵，回报也不清楚"
+              ]
+            },
+            {
+              "source": "Gabe Pereyra",
+              "source_type": "Harvey Founder",
+              "important": false,
+              "points": [
+                "称用量逐月翻倍的一个季度里，没有强迫客户改按量或换更弱模型，而是改路由、运行框架和后训练，毛利率从约 -50% 转正",
+                "*SOTA模型太贵导致应用层利润承压，应用公司探索用开源模型降本。主要是通过post train/harness使开源达到任务可用水平，个人认为头部模型发展放缓时容易出现这个趋势"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "供给",
+          "entries": [
+            {
+              "source": "OAI",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "企业应用能力：能力边界无突破，两家轮流领先",
+                "OAI：语音可以调用插件提升交互体验，发布便宜小模型继续价格战，能力上无变化",
+                "ChatGPT  Voice 可调用邮件、日历和 Slack，由 GPT-6 Astra、Sol、Luna 驱动，并能在 Work 里用语音做文档和表格"
+              ]
+            },
+            {
+              "source": "Anthropic",
+              "source_type": "",
+              "important": true,
+              "points": [
+                "发布Opus 5.5, 能力提升的同时相比前代opus模型降价20%，反馈非常积极，能力上通过coding接口提升多模态能力",
+                "*目前两家模型水平其实差不多，各有擅长，轮流领先"
+              ]
+            },
+            {
+              "source": "XAI",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "Grok 4.7发布，整体miss预期，详情见post"
+              ]
+            },
+            {
+              "source": "Jev",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "FundaAI: 模型热度比较高，对实际生产影响尚早"
+              ]
+            },
+            {
+              "source": "2C/Personal Agent - Muse",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "Muse：热度仍然较高，下载量略有回落，暂无变现证据",
+                "扎克伯格/Meta connect: Muse相关内容见post",
+                "FundaAI：Muse应用案例多，但收入闭环还没验证",
+                "Tickertrends: 440 个任务样本中，零售/购物、旅行、金融用例出现较多",
+                "TMTB 引 Apptopia：上线八天美国下载 160 万",
+                "Parag Agrawal（Parallel 创始人，前 Twitter CEO）：认为代理消费网页的规模会比人高三个数量级，现有广告模式遭到挑战，要在推理时按数据对任务的贡献付费"
+              ]
+            },
+            {
+              "source": "AI4S - 生物",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "AI4S：目前仍然是长流程中AI辅助加速，并非独立完成科研突破",
+                "Anthropic 披露 Claude 智能体从 DNA 序列中筛出一套此前未表征的酶系统，中期来看无法直接打开ARR空间，详情见post"
+              ]
+            },
+            {
+              "source": "AI4S - 物理",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "Claude 算出了理想化粒子物理模型中\"六粒子散射振幅\"的九圈结果，此前该问题做到八圈。\"圈数\"越高，计算通常越复杂",
+                "*Claude的推进主要来自把已知方法、代码和计算资源组织起来，而非发明全新方法"
+              ]
+            },
+            {
+              "source": "RSI",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "本周暂无边际变化"
+              ]
+            },
+            {
+              "source": "竞争与定价",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "O+A同时下调中高端模型定价,价格战继续",
+                "两家继续价格战，详情见post"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "监管",
+          "entries": [
+            {
+              "source": "Andrew Curran",
+              "source_type": "",
+              "important": true,
+              "points": [
+                "监管：无显著变化",
+                "白宫据报要求 OAI 和 Anthropic 先完成美国测试，再向英国测试机构共享模型。记者称 Anthropic 似乎已照做，OAI 尚未说明",
+                "*主权之争，对模型发布没有硬约束"
+              ]
+            },
+            {
+              "source": "The information",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "中国互联网监管机构在调查 DeepSeek 和 Moonshot，背景是 Anthropic 9/10 报告指控违规使用 Claude",
+                "*更多应该是对数据安全提出规范，对模型训练投入无影响"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

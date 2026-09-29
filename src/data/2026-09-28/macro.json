@@ -1,0 +1,418 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis-sep27",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "特朗普拒绝伊朗海峡开放方案 财政部封锁战果扩大",
+      "summary": "特朗普公开拒绝伊朗提出的立即重开霍尔木兹海峡协议，宣称美国已完全控制海峡并实施\"军事史上最大规模封锁\"。Bessent同步公布Operation Economic Outcast成果，土耳其/阿曼/阿联酋切断与伊航空银行往来，里亚尔跌至历史新低。伊朗方面把MoU 30天窗口压缩到7天以博取谈判空间，但内部预期被拒绝概率更高。海峡实际流量维持13-14M b/d，但伊朗份额已归零。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "拒绝伊朗协议 宣称完全控制霍尔木兹海峡",
+          "details": "Trump：我拒绝了他们的协议。他们想达成一项协议，立即开放海峡……我们正取得巨大胜利。我们完全控制着霍尔木兹海峡……那项协议不可接受。他们想立即开放霍尔木兹海峡，他们把自己算计进去了。特朗普称伊朗想关闭海峡\"给世界制造麻烦\"，而美国的回应是\"军事史上最大规模的封锁\"。",
+          "important": true
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "Operation Economic Outcast切断伊朗航空/银行通道",
+          "details": "Bessent官宣Operation Economic Outcast的成果：土耳其和阿曼停飞Mahan Air，阿联酋停飞所有伊朗航空公司，阿联酋和土耳其的头部商业银行停止与伊朗交易。财政部对银行和航空服务商实施定向金融措施，派团队赴全球逐国施压。伊朗里亚尔已跌至纪录低点，连伊朗领导层也承认战争的经济代价。",
+          "important": false
+        },
+        {
+          "actor": "HamidRezaAz",
+          "actor_type": "KOL",
+          "text": "伊朗把MoU 30天窗口压缩到7天快速通道",
+          "details": "@HamidRezaAz：Iran领导层清楚，如果达成协议有可能，那更可能是在中期选举之前而非之后。因此才有了这份提案的快速通道打包。然而在内容方面没有任何变化，实际上是压缩时间线，将MoU的30天窗口缩短至七天。除此之外，它完全就是那份MoU。伊朗核谈判说法应在此背景下理解：MoU规定第一阶段实施并核实之后，开始讨论核问题。伊朗人已知晓，被特朗普接受的概率远低于被拒绝。他们利用联合国大会展示已准备好外交，若美国第三次在外交轨道中途发动攻击——这是伊朗战略界过去几天一直预料的。",
+          "important": false
+        },
+        {
+          "actor": "JavierBlas",
+          "actor_type": "KOL",
+          "text": "海峡流量13-14M b/d 但伊朗份额归零",
+          "details": "@JavierBlas：霍尔木兹海峡的流量徘徊在~13-14M b/d（7日均值），与7月短暂峰值大致相同。但有两个显著差异：a) 伊朗流量为零（而非~2M b/d）；b) 所有流量均为新装载，而非预先装载的油轮。",
+          "important": false
+        },
+        {
+          "actor": "CRUDEOIL231",
+          "actor_type": "KOL",
+          "text": "伊朗出口再度崩塌 现金余额一个月内受冲击",
+          "details": "@CRUDEOIL231：伊朗原油出口在MoU后立即跌回谷底。追踪伊朗原油被洗白并与伊拉克近海巴士拉油种混合的传闻，这种操作也有硬性物理上限。考虑实物交付周期和哈瓦拉/影子银行管道，德黑兰的现金余额将在一个月内受到冲击。他们已在4-6月经历过一次残酷出口暴跌，由于重新开放如此短暂，伊朗浮动缓冲几乎完全耗尽。GCC国家的保护费和回扣或许缓解一些冲击，但仍不足。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        2,
+        3,
+        8
+      ],
+      "importance": 3,
+      "sources": [
+        "Trump",
+        "US Treasury",
+        "Twitter/X"
+      ],
+      "date": "2026-09-28",
+      "image_urls": [
+        "/uploads/2026-09-28/719540b5fe3b.png",
+        "/uploads/2026-09-28/dde396b5e8d8.png",
+        "/uploads/2026-09-28/55ed9ce18487.png",
+        "/uploads/2026-09-28/b12c3f575d0a.png"
+      ]
+    },
+    {
+      "id": "us-diesel-export-ban-sep27",
+      "topic": "美国柴油出口",
+      "topic_tag": "oil",
+      "title": "Cruz向炼厂高管透露白宫不会实施柴油出口禁令",
+      "summary": "参议员Ted Cruz在私下向炼厂高管传递白宫立场——不会实施柴油出口禁令。当前美国馏分油出口约1.3-1.6 M b/d，库存107 mb，尚有约56 mb储罐空间。",
+      "bullets": [
+        {
+          "actor": "Ted Cruz",
+          "actor_type": "US-Congress",
+          "text": "私下告诉炼厂高管白宫不会禁柴油出口",
+          "details": "参议员Ted Cruz在私下对话中告诉炼厂高管，白宫不会实施柴油出口禁令。",
+          "important": true
+        },
+        {
+          "actor": "Sparta Commodities",
+          "actor_type": "Analyst",
+          "text": "美国馏分油出口1.3-1.6mbd 储罐还有56mb空间",
+          "details": "Sparta Commodities：当前美国馏分油（柴油等）出口约1.3-1.6 M b/d，炼厂加工量（CDU）16.81 M b/d，馏分油产5.16 mb。当前馏分油库存107.43 mb，历史最高约163.66 mb，意味着现有储罐还有约56 mb空间。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "XOM",
+        "CVX",
+        "MPC",
+        "VLO",
+        "PSX"
+      ],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [
+        "Ted Cruz",
+        "Sparta Commodities"
+      ],
+      "date": "2026-09-28",
+      "image_urls": [
+        "/uploads/2026-09-28/b11c723d75ab.png"
+      ]
+    },
+    {
+      "id": "russia-refinery-attacks-sep27",
+      "topic": "俄罗斯炼油厂",
+      "topic_tag": "oil",
+      "title": "乌军无人机重创俄炼厂 加工量同比腰斩",
+      "summary": "截至9/26俄罗斯炼油日加工量约2.6M b/d、较年初下降51%，14家炼厂停产、9家减产，年初至今97次袭击（过去4周17次）。分析师认为2026年剩余时间俄柴油出口无望。",
+      "bullets": [
+        {
+          "actor": "BurggrabenH",
+          "actor_type": "KOL",
+          "text": "俄炼油日加工降至2.6mbd 同比-51% 14厂停产",
+          "details": "@BurggrabenH：俄罗斯炼油业，今日与1月对比：截至26/9/26，日加工量为~2.6M b/d，下降51%；14家炼油厂停产，9家减产；年初至今97次袭击，过去4周17次；在那些大型炼油厂中，少数仍在运转的已超出无人机航程（目前而言）。乌克兰正在赢得炼油厂战争，2026年剩下的时间里，别指望柴油出口了。乌克兰摧毁炼油厂的速度比俄罗斯修复它们的速度还快。",
+          "important": true
+        },
+        {
+          "actor": "俄罗斯炼厂数据",
+          "actor_type": "新闻",
+          "text": "炼厂逐一状态：Ryazan/Kirishi/Moscow等全停产",
+          "details": "9/26 European Analysis数据：Omsk -24% Online；Kirishi -100% Offline；Volgograd -42% Reduced；Ryazan -100% Offline；Nizhegorodneft -74% Reduced；TANECO -50% Online；Yanos -100% Offline；Perm -100% Offline；Moscow -100% Offline；Salavat -100% Offline；Angarsk -61% Online；Komsomolsk +97% Online；Tuapse Offline。全俄合计输出从Jan26 5,368 kbpd降至最新2,644 kbpd（-50.7%）。年初至今全俄袭击总数190次，最近17次。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        9
+      ],
+      "importance": 2,
+      "sources": [
+        "Twitter/X"
+      ],
+      "date": "2026-09-28",
+      "image_urls": [
+        "/uploads/2026-09-28/bd7b7d612387.png"
+      ]
+    },
+    {
+      "id": "china-pboc-q3-sep27",
+      "topic": "中国央行",
+      "topic_tag": "fed",
+      "title": "PBOC Q3例会：汇率强调市场决定性作用",
+      "summary": "PBOC Q3货币政策例会在汇率表述上开始强调\"市场的决定性作用\"，对结构性工具提出\"不断完善工具设计\"。",
+      "bullets": [
+        {
+          "actor": "PBOC",
+          "actor_type": "Central-Bank",
+          "text": "汇率表述强调市场决定性作用",
+          "details": "PBOC Q3货币政策例会。汇率表述变化开始强调\"市场的决定性作用\"，对于结构性工具，提出\"不断完善工具设计\"。",
+          "important": true
+        },
+        {
+          "actor": "华创 郭忠良",
+          "actor_type": "Analyst",
+          "text": "长端利率反弹反映名义GDP增速加速",
+          "details": "华创郭忠良：现在加息抑制名义GDP增长，现在的长期利率反弹，其实反应的是去年下半年以来名义GDP增长的加速。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "PBOC"
+      ],
+      "date": "2026-09-28",
+      "image_urls": []
+    },
+    {
+      "id": "fed-supply-shock-narrative-sep27",
+      "topic": "Fed辩论",
+      "topic_tag": "fed",
+      "title": "Fed官员辩去监管创造供给 vs 市场重定价加息100bp",
+      "summary": "Fed官员援引ECB 2008年在供应冲击下加息的教训，主张对增长保持开放心态、去监管带来的供给正在吸收私营部门需求冲击。KOL观察一周内市场额外定价1次25bp加息，累计重定价近100bp，理由是能源冲击叠加通胀目标使全球央行集体转鹰。",
+      "bullets": [
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "一周内累计重定价近100bp 收益率上行唯一主线",
+          "details": "Joseph：负面能源冲击叠加央行通胀目标，促使全球央行集体处于加息模式，这才是推动收益率走高的唯一主线。市场一周内额外定价了一次25bps的加息，并显著抬高了高利率维持的时间（higher for longer）。从几周前市场讨论沃勒的鸽派信号至今，市场对加息路径的累计重定价已达近100 bps，美国就业和经济数据依然强劲，柴油等精炼油价格创历史新高推动通胀担忧加剧，迫使美联储转向更鹰派立场。",
+          "important": true
+        },
+        {
+          "actor": "Fed理事",
+          "actor_type": "Central-Bank",
+          "text": "去监管创造供给 央行不应重演ECB 2008错误",
+          "details": "Fed理事会和投票成员都应对经济增长保持开放的心态，因为这是去监管的成果。我们通过去监管创造了供给。我们是私营部门的需求冲击，而由于我们放松了监管，这一冲击正被更多的供给所满足；央行历史上最大的错误之一，就是08年夏天，ECB加息，当时油价超过140美元，所以他们在供应冲击之际加息，然后我们就看到了金融危机发生了什么。",
+          "important": false
+        },
+        {
+          "actor": "Mark Dow",
+          "actor_type": "KOL",
+          "text": "Trump Max Pump+AI热潮 Fed可能被迫持续加息",
+          "details": "Mark Dow：过去几年每次债市恐慌都能等来一阵经济放缓的风声逆转动量。现在有Trump的Max Pump经济策略加AI投资潮，连放缓的假动作都难有。如果通胀黏住，而现代经济里货币政策不太管用（何况这轮通胀很大一块来自供给冲击和价格不敏感的AI潮），Fed可能面临别无选择、只能一直加下去的局面。这是中期最大的风险。",
+          "important": false
+        },
+        {
+          "actor": "DerivativesDon",
+          "actor_type": "KOL",
+          "text": "利率需高到打破某些东西才能走低",
+          "details": "@DerivativesDon：需要利率上升到足够高以打破某些东西，然后它们才能走低。",
+          "important": false
+        },
+        {
+          "actor": "Swonk",
+          "actor_type": "Analyst",
+          "text": "CPI-PCE缺口为1983年以来最大",
+          "details": "Swonk：CPCE和CCPI缺口是1983年以来最大。三个原因：降温的住房在CPI里权重更大、BEA的测量问题（将在下周基准修订中削掉约0.2%）、最重要的是PCE更好地捕捉医疗成本——它涨得太快，很多雇主已经放慢加薪来消化。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        10
+      ],
+      "importance": 3,
+      "sources": [
+        "Fed",
+        "Twitter/X"
+      ],
+      "date": "2026-09-28",
+      "image_urls": []
+    },
+    {
+      "id": "ai-capex-revenue-gap-sep27",
+      "topic": "AI资本开支",
+      "topic_tag": "ai",
+      "title": "多份研究质疑AI基建收入缺口 GS称59%已在订单簿",
+      "summary": "BPEA新论文测算未来8年AI建设10.3万亿美元、2032年需3.7万亿美元/年收入（约GDP 9%）；weakinstrument/econJaredB估算超大规模企业十年需13.1-18.7万亿美元回收；高盛测算2028-30 AI基建需1.42万亿美元收入达到15% ROIC、59%已在订单簿。Lee Roach部署10K个Muse实例做空Meta测试算力开支的商业模式压力测试。",
+      "bullets": [
+        {
+          "actor": "Van Nieuwerburgh (BPEA)",
+          "actor_type": "Analyst",
+          "text": "AI 8年花10.3万亿 2032年需3.7万亿/年收入",
+          "details": "BPEA新论文（Van Nieuwerburgh）：AI buildout未来8年花$10.3T，要拿到10%回报，投资方到2032年需要$3.7T/年收入（约GDP的9%）。Herman补历史刻度：1880年代初铁路建设高峰接近GDP的6%——而且铁路数字不含机车车辆，AI数字里68%是算力和网络设备。",
+          "important": true
+        },
+        {
+          "actor": "weakinstrument + econJaredB",
+          "actor_type": "Analyst",
+          "text": "超大规模企业需十年13.1-18.7万亿美元回收",
+          "details": "weakinstrument + econJaredB新文：探讨需要多少收入才能证明超大规模企业AI资本支出的合理性。估计超大规模企业目前的增量AI收入在86-188.1B之间，但他们未来十年需要13.1-18.7 T才能让这笔账算得过来。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS：2028-30 AI基建需1.42万亿 59%已在订单簿",
+          "details": "GS：2028-30年AI基建相关业务需要约$1.42T收入（每GW约$11.6B）才能达到15% ROIC——59%已在云厂商订单簿里，管理层声称回收期1-3年。",
+          "important": false
+        },
+        {
+          "actor": "Lee Roach",
+          "actor_type": "KOL",
+          "text": "扩Muse到1万实例 建立Meta可观空头",
+          "details": "Lee Roach把Muse扩到10K个持续满载的工作实例后建立了Meta的可观空头。每部署一个实例只花约$300一次性成本，此后持续运行产生的、理论上没有上限的算力开支由Meta承担。争议：聪明的商业模式压力测试，还是为做空刻意制造资源消耗。",
+          "important": false
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "AI公司发债规模不足以撼动国债市场",
+          "details": "Joseph：从久期等效计算看，AI公司的发债规模不足以撼动国债市场；更重要的是，掉期利差（Swap Spreads）并没有走阔变负，说明金融体系吸收国债的仓储能力并未过载。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "META",
+        "MSFT",
+        "GOOGL",
+        "AMZN",
+        "ORCL",
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "BPEA",
+        "GS",
+        "Twitter/X"
+      ],
+      "date": "2026-09-28",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-views-sep27",
+      "topic": "卖方观点",
+      "topic_tag": "earnings",
+      "title": "GS/MS/UBS/Citi周报：仓位低迷 ERP压至25年3分位",
+      "summary": "GS指股票情绪已降至3月低点、中位股距52周高点-16%，SPX远期PE从22降至19；MS维持全球股跑赢核心固收、2027年中期SPX目标8300、ERP已压至25年第3分位；UBS认为r*概念在AI失衡经济中失效；Citi预计11/4再融资公告或削减20年/30年拍卖各3B转向短债。",
+      "bullets": [
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "MS：SPX 2027中期目标8300 ERP压至25年3分位",
+          "details": "MS Weekly：美债收益率高企对经济的拖累真实存在，但摩根士丹利依然维持全球股票跑赢核心固定收益的判断。模型测算显示100bps的期限溢价冲击会在八个季度内拉低美国GDP约1.5%–2.0%，不过由AI驱动的资本支出对利率并不敏感，正持续为企业提供强劲的盈利增长动能。目前美国股权风险溢价（ERP）已被压缩至过去25年的第3百分位，大摩认为在坚韧盈利支撑下高估值仍能维持，并将标普500指数2027年中期目标定在8300点。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS：SPX前瞻PE从22降至19 情绪回3月低点",
+          "details": "GS US WEEKLY KICKSTART：股票投资者的持仓情绪已降至与3月份持平的低点。尽管在AI推动下SPX整体保持韧性，但指数内中位数股票较52周高点下跌了16%，市场广度降至互联网泡沫以来的最低水平。SPX今年迄今上涨14%，远期市盈率已从22倍降至19倍，与10年平均水平持平。估值下降主要归因于利率上升，以及投资者担忧AI投资热潮导致企业目前处于\"过度盈利\"（Over-earning）状态。19倍市盈率对应约22%的ROE，仍处于历史高位。企业ROE差异极大程度上解释了目前各板块之间的估值差异。由于市场估值分散度大幅收窄，价值因子未来超额收益空间可能会缩小。投资者对1年短期盈利信号依赖降低，转而为3年长期销售增长预期支付更高溢价。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs GRT",
+          "actor_type": "Analyst",
+          "text": "GRT：5y5y高于公允1σ 未来3月10Y或下行10bp",
+          "details": "GS GRT：尽管基本面风险（如能源价格）未减，但市场抛售已转向技术面。估值显示5y5y利率高于模型公允价值1个标准差，且资金positioning显示久期低配达到阈值，通常预示未来三个月10年期美债收益率下降10bp。缺乏催化剂是持续时间压力的关键，但估值和仓位不对称性支持收益率下行。",
+          "important": false
+        },
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "MS：柴油而非原油是紧张核心 美国出口升至1.56mbd",
+          "details": "MS Weekly能源部分：当前石油市场紧张的核心在柴油而非原油。柴油深度嵌入陆运、工业及农业，其价格上涨对生产者价格（PPI）的冲击更为显著。美国作为关键的边际供应方，2026年第二季度柴油出口已升至约1.56M b/d。由于欧洲炼油结构面临\"汽油过剩、柴油不足\"的错配，高度依赖进口且传导直接，欧洲燃料通胀自年初以来已上升约25%，承受的冲击明显大于具备炼油缓冲的亚洲及采取补贴的拉美。",
+          "important": false
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "UBS：r*在AI失衡经济中可能失效",
+          "details": "UBS ECO Weekly：中性利率r*概念在当前极端失衡的经济中可能不存在或失效，美国经济面临严重的部门失衡：AI投资驱动的增长与对利率敏感的sector（如房地产、非AI制造业）的疲软并存。加息增加了高收入群体的利息收入，却未显著抑制其消费，而低收入群体虽受高利率压制但并非通胀主要驱动力。SEP显示联邦基金利率的中位数预测在长期仍高于通胀目标，且远高于历史长期的中性利率估计，FOMC成员可能不再依赖具体r*估计值，而是通过猜测名义利率水平来将通胀压回2%。当前GDP增长几乎完全由AI相关资本支出及其溢出效应驱动，若没有AI投资的支撑，美国经济可能已处于衰退边缘。9月就业报告受季节性调整因素（劳动节日历效应）影响较大，存在上行惊喜的历史倾向，但基本面hiring动力依然不足。",
+          "important": false
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "Citi：11/4再融资或削20Y/30Y各3B转短债",
+          "details": "Citi Short-End Notes：尽管TGA余额本周升至1T以上，但SOFR利率仍低于IORB。美联储SOMA经理Perli表示监管机构密切关注回购市场并准备在必要时增加定期回购协议（RMPs）。财政部越来越可能将部分TGA余额投资于回购市场以产生投资回报并维持审慎风险管理。虽然定义\"过剩\"现金存在挑战（建议定义为超过未来5天流出量的部分），且由于财政流出的波动性，实际投资规模可能有限，但此举有助于平滑准备金波动。实施可能需要数月，可能在2027年完成。鉴于本周长期国债回购操作再次未达上限、长端曲线持续抛售，Citi认为11月4日再融资公告调整长期国债发行的风险增加，预计财政部可能将20年期和30年期国债拍卖规模各削减3B，并将这些发行量转向短期国库券（T-bills）。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "TLT"
+      ],
+      "image_indexes": [
+        4,
+        7,
+        11
+      ],
+      "importance": 3,
+      "sources": [
+        "GS",
+        "MS",
+        "UBS",
+        "Citi"
+      ],
+      "date": "2026-09-28",
+      "image_urls": [
+        "/uploads/2026-09-28/822b73dbdf22.png",
+        "/uploads/2026-09-28/d61be72cfca4.png"
+      ]
+    },
+    {
+      "id": "kol-market-sep27",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "短空派：龙头股缺位市场近乎投降 BTC双多头喊话",
+      "summary": "short bear描述反向顶部——龙头股缺位、市场接近投降、催化剂被无视；Joseph预警若海峡缓和NQ可迎10%反弹、若Blue Tsunami则AI监管加税；Rekt Capital和Timmer分别给出BTC宏观下降趋势线翻转支撑和挑战80k阻力目标100k的技术信号。",
+      "bullets": [
+        {
+          "actor": "short bear",
+          "actor_type": "KOL",
+          "text": "去掉AI能源股市要低10-20% 龙头股缺位近投降",
+          "details": "short bear：很难解释战争和相关收益率造成了多大伤害——去掉AI和能源，股市要低10-20%（当然那样yield也不会这么高）。第一次交易这种环境：龙头股缺位、市场在其映衬下接近投降、若干催化剂被无视。如果市场顶部出现在巅峰狂热、人人做多、大幅上冲的话，现在正好相反。",
+          "important": true
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "海峡缓和NQ或反弹10% 蓝潮或冲击AI交易",
+          "details": "Joseph：其他资产类别对高收益率和强美元的反应极其冷漠——SPX基本横盘耸肩，企业信用利差依然极窄，新兴市场与黄金亦未受明显拖累，这种长端收益率暴涨而风险资产全然不理的现象极其罕见；市场充斥着对美联储或地缘局势突然释出利好（Taco）的条件反射式追高心理，若霍尔木兹海峡局势迎来实质缓和，NQ可能迅速迎来10%级别的反弹。若中东局势持续恶化，11月中期选举若出现民主党控制国会两院（Blue Tsunami），新国会可能通过加税并加强对AI数据中心能耗与模型的监管，届时将对当前热门的AI交易形成政治风向上的实质冲击。",
+          "important": false
+        },
+        {
+          "actor": "Rekt Capital",
+          "actor_type": "KOL",
+          "text": "BTC宏观下降趋势线翻转为支撑",
+          "details": "Rekt Capital：BTC宏观下降趋势线（Macro Downtrend）和4–5月高点约76,330美元已被翻转为支撑，为这标志着宏观下跌趋势结束、新宏观上升趋势可能开始。",
+          "important": false
+        },
+        {
+          "actor": "Timmer",
+          "actor_type": "KOL",
+          "text": "BTC幂律指向2029年30万 挑战80k关键阻力",
+          "details": "Timmer：BTC的幂律数学继续显示守住$60k后新一轮周期性牛市已在途，目标2029年$300k。当下挑战$80k关键阻力，突破则确认双底、目标$100k。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "QQQ",
+        "SPY"
+      ],
+      "image_indexes": [
+        5,
+        6
+      ],
+      "importance": 2,
+      "sources": [
+        "Twitter/X"
+      ],
+      "date": "2026-09-28",
+      "image_urls": [
+        "/uploads/2026-09-28/3a4321dab540.png",
+        "/uploads/2026-09-28/c79c4a437951.png"
+      ]
+    }
+  ]
+}
