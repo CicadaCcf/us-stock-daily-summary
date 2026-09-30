@@ -1,0 +1,380 @@
+{
+  "topics": [
+    {
+      "id": "fed-cook-hike-2025-09-29",
+      "topic": "美联储",
+      "topic_tag": "fed",
+      "title": "Cook：未来数月通胀压力持续 劳动力市场可承受一次加息",
+      "summary": "美联储理事Cook表示，AI建设与中东冲突相关油价上涨及供应链扰动的传导将持续对通胀施压，且劳动力市场完全能承受一次加息。这是Fed内部转向鹰派的重要信号。",
+      "bullets": [
+        {
+          "actor": "Cook",
+          "actor_type": "Central-Bank",
+          "text": "Cook：劳动力市场能承受一次加息",
+          "details": "美联储理事Cook表示：未来数月，我预计AI建设、以及中东冲突相关的油价上涨和供应链扰动的传导，将继续对通胀施压。劳动力市场看起来完全能承受一次加息。",
+          "important": true
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "DB：Fed内部越来越多官员指出需求侧推高通胀",
+          "details": "DB Fed报告：越来越多的官员（包括Cook、Paulson、Goolsbee等）指出，需求侧因素正在推动通胀压力，具体表现为消费者支出的韧性和AI领域资本支出的激增。Williams认为AI目前更像是一种传统的需求冲击，尚未显现出生产力影响，但长期可能带来类似1996-2005年的收益；多位官员强调潜在通胀率仍在2.5%-3%之间，近期进展甚微。Barr指出货币政策此前'定位不当'，需要进一步调整以确保通胀及时回归目标。Collins认为未来通胀显著高于2%的可能性增加，偏好略微更restrictive的政策立场。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "DB基线：12月与明年3月各加息25bp 10月加息为选项",
+          "details": "DB维持基线预测，即12月和明年3月各加息25bps。然而，如果劳动力市场进一步收紧、潜在通胀顽固或AI相关资本支出扩大需求，10月加息也可能成为选项。反之，金融条件急剧收紧或通胀/劳动力市场意外软化则支持较低的路径。",
+          "important": false
+        },
+        {
+          "actor": "市场定价",
+          "actor_type": "新闻",
+          "text": "市场定价2026年9月至2028年底各央行加息路径",
+          "details": "从2026年9月至2028年底期间，市场定价的最大25bp加息次数：UK 4.3次，US 4.6次（含已实现9月加息），Europe 4.9次（含已实现9月加息），Canada 5.4次，Japan 5.8次（含已实现9月加息）。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        5
+      ],
+      "importance": 3,
+      "sources": [
+        "Fed",
+        "DB"
+      ],
+      "date": "2026-09-29",
+      "image_urls": [
+        "/uploads/2026-09-29/ed70e2aaa9dd.png"
+      ]
+    },
+    {
+      "id": "iran-us-nuclear-2025-09-29",
+      "topic": "美伊核谈判",
+      "topic_tag": "geo",
+      "title": "AXIOS/CNN：特朗普政府拟以解冻资金换伊朗核让步 Trump否认",
+      "summary": "美国官员向AXIOS和CNN透露，特朗普政府拟通过减轻制裁和解冻资金换取伊朗在核项目上的实质性让步，Trump随后在社交平台否认。伊朗展现一定弹性，但双方在时间表和承诺兑现顺序上仍未达成一致。",
+      "bullets": [
+        {
+          "actor": "AXIOS/CNN",
+          "actor_type": "新闻",
+          "text": "美方拟以解冻资金换伊朗核让步 Trump公开否认",
+          "details": "AXIOS和CNN等媒体报道，据美国官员透露，特朗普政府有意通过减轻制裁和解冻资金，来换取伊朗在核项目上的实质性让步。Trump本人随后在社交平台上否认了这一报道。据称伊朗在核问题上展现出了一定弹性。但双方在承诺兑现的时间表和先后顺序上仍未达成一致，白宫对伊朗的诚意持怀疑态度。",
+          "important": true
+        },
+        {
+          "actor": "Burggraben",
+          "actor_type": "KOL",
+          "text": "伊朗经济全面崩坏 UAE切断贸易将成致命打击",
+          "details": "Burggraben：伊朗通胀估68.9%，里亚尔240万兑1美元，出口收入-78%，贫困率36.2%。UAE是伊朗贸易的金融命脉，UAE切断对伊贸易若全面执行，冲击力堪比美国封锁加经济制裁之和。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "AXIOS",
+        "CNN"
+      ],
+      "date": "2026-09-29",
+      "image_urls": []
+    },
+    {
+      "id": "hormuz-oil-flows-2025-09-29",
+      "topic": "霍尔木兹与油市",
+      "topic_tag": "oil",
+      "title": "霍尔木兹白昼过境常态化 但实物缓冲耗尽 原油理论价$120",
+      "summary": "TankerTrackers观察到白昼过境已成常态，6mb/d原油卡在STS转运，已出现跳过STS的直航。CRUDEOIL231指出实物体系比以前脆弱得多，SPR和陆上商业罐容缓冲已烧光，更高的霍尔木兹流量正是原油还留在当前价位的唯一原因。",
+      "bullets": [
+        {
+          "actor": "CRUDEOIL231",
+          "actor_type": "KOL",
+          "text": "SPR和商业罐容缓冲耗尽 原油理论价该$120",
+          "details": "CRUDEOIL231：霍尔木兹过境量和平价不是互斥的谎言。过去几个月我们啃掉了2025年累积过剩的一大块，不只是SPR，还有陆上商业罐容。缓冲烧光了，实物体系比以前脆弱得多。以前1mb/d的季度平衡位移就能引发暴力价格发现，那么从4mb/d缺口收窄到2mb/d缺口不意味着平价必须回$50。也许原油本来就该$120，更高的霍尔木兹流量正是它还留在这里的唯一原因。",
+          "important": true
+        },
+        {
+          "actor": "TankerTrackers",
+          "actor_type": "KOL",
+          "text": "白昼过境常态化 6mb/d卡在STS 直航成下一增量",
+          "details": "TankerTrackers：白昼过境已成常态，过去一个月，出峡原油中有6mb/d卡在STS转运环节——这道工序吃掉太多带宽。已开始出现跳过STS的直航，STS的延迟意味着直航是下一个增量来源。",
+          "important": false
+        },
+        {
+          "actor": "Hormuz Strait Tracker",
+          "actor_type": "新闻",
+          "text": "海湾总出口恢复至战前85% 当前7日均17.0 MBPD",
+          "details": "Hormuz Strait Tracker：波斯湾+增量红海装载+Fujairah等抵消后的总有效出口，当前7日估计17.0 MBPD，为战前正常水平（20.0 MBPD）的85%。3月起从~10 MBPD逐步回升至7-9月的16-18 MBPD。8月6日观测数据：Hormuz流7日均5.0 MBPD、当日3.7 MBPD。数据源Sentinel-1/2、MarineTraffic AIS、EIA/IEA/Kpler基线。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "海事咽喉：霍尔木兹占全球石油贸易21% 马六甲23%",
+          "details": "DB图表：全球石油贸易中霍尔木兹海峡占~21%，马六甲海峡占~23%；世界贸易占比中马六甲~25%、台湾海峡~20%、多佛/苏伊士/好望角各~15%、霍尔木兹~11%。",
+          "important": false
+        },
+        {
+          "actor": "Dubai Physical Premium",
+          "actor_type": "新闻",
+          "text": "迪拜实物溢价9月冲至~$30/桶 均值$23.94",
+          "details": "Dubai Physical Premium 4月至9月走势：4-5月均值$1.41-$8.06区间波动，6-7月一度跌至负值区间（阶段均值$2.129），8-9月强劲反弹，9月初高点近$30/桶，最新阶段均值$23.94。",
+          "important": false
+        },
+        {
+          "actor": "Red Sea Export Tracker",
+          "actor_type": "新闻",
+          "text": "红海日出口走弱 从峰值~10M降至~2-3M",
+          "details": "红海（除埃及、也门、苏丹外）按原产国的原油日出口：2月峰值近10M，随后逐步下滑，最新水平约6M，橙色趋势线降至2-3M区间。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        1,
+        7,
+        8
+      ],
+      "importance": 3,
+      "sources": [
+        "TankerTrackers",
+        "Hormuz Strait Tracker",
+        "DB"
+      ],
+      "date": "2026-09-29",
+      "image_urls": [
+        "/uploads/2026-09-29/e24a583b7622.png",
+        "/uploads/2026-09-29/af57a90c9d12.png",
+        "/uploads/2026-09-29/36d64b636719.png",
+        "/uploads/2026-09-29/0eef99a2fe41.png"
+      ]
+    },
+    {
+      "id": "ai-industry-2025-09-29",
+      "topic": "AI 行业",
+      "topic_tag": "ai",
+      "title": "AMD 82亿美元收购李飞飞公司；Anthropic IPO估值或超2万亿",
+      "summary": "AMD以约82亿美元全股票收购李飞飞的World Labs，李飞飞出任首席科学家向苏姿丰汇报。Anthropic IPO估值可能超2万亿美元，成为史上估值最高IPO。英伟达发布Open Agent Safety Platform。",
+      "bullets": [
+        {
+          "actor": "AMD/World Labs",
+          "actor_type": "Corporate",
+          "text": "AMD 82亿全股票收购李飞飞公司 出任首席科学家",
+          "details": "World Labs CEO李飞飞宣布，她的AI公司已被AMD以约82亿美元的全股票交易方式全面收购，她本人将加入AMD担任首席科学家，向苏姿丰汇报。",
+          "important": true
+        },
+        {
+          "actor": "Reuters/Anthropic",
+          "actor_type": "新闻",
+          "text": "Anthropic IPO估值或超2万亿 史上最大",
+          "details": "路透报道：Anthropic的IPO估值可能超过2T（2万亿美元），有望成为人类历史上估值最高的IPO。",
+          "important": false
+        },
+        {
+          "actor": "NVIDIA/Jensen",
+          "actor_type": "Corporate",
+          "text": "英伟达携100+伙伴发布Open Agent Safety Platform",
+          "details": "Jensen携100+伙伴发布NVIDIA Open Agent Safety Platform。",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "BofA：AI Big 10集中度已达44% 逼近历史泡沫峰值",
+          "details": "BofA图表：历史主要泡沫峰值集中度——1835铁路63%、1920公用电信53%、1972 Nifty Fifty 41%、1985日本占MSCI ACWI 44%、1999 TMT 40%、2006约36%、AI Big 10（Magnificent 7 + Broadcom, AMD, Micron）2023-2030年区间达41%。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "AMD",
+        "NVDA"
+      ],
+      "image_indexes": [
+        2
+      ],
+      "importance": 2,
+      "sources": [
+        "Reuters",
+        "AXIOS"
+      ],
+      "date": "2026-09-29",
+      "image_urls": [
+        "/uploads/2026-09-29/c487219407cc.png"
+      ]
+    },
+    {
+      "id": "kol-macro-2025-09-29",
+      "topic": "KOL 观点",
+      "topic_tag": "macro-other",
+      "title": "Erian等：财政缺失下Fed独自对抗价格冲击 长端无买家",
+      "summary": "Erian警告财政缺乏整固，政策组合越来越像80年代初，推升美元压制利率敏感部门。DerivativesDon指出Fed资产负债表现状下长端收益率对机构无吸引力。勃勃OC引用Warsh观点，通胀来自投资与需求非油价。",
+      "bullets": [
+        {
+          "actor": "Erian",
+          "actor_type": "KOL",
+          "text": "Erian：Fed独自对抗价格冲击 政策组合像80年代初",
+          "details": "Erian：没有实质财政整固的迹象，市场越来越指望联储独自对抗价格冲击。这种动态持续越久，政策组合越像80年代初：过度依赖货币紧缩、缺乏财政约束——推升美元、压制利率敏感部门，都是均衡增长的逆风。",
+          "important": true
+        },
+        {
+          "actor": "DerivativesDon",
+          "actor_type": "KOL",
+          "text": "长端收益率对机构无吸引力 没人想当第一个买家",
+          "details": "DerivativesDon：只要Fed资产负债表维持现状、财政部继续放任未融资债务膨胀，长端收益率对机构就没有吸引力——没人想当第一个买家，而供给不会消失。",
+          "important": false
+        },
+        {
+          "actor": "勃勃OC",
+          "actor_type": "KOL",
+          "text": "勃勃OC：通胀与油价无关 来自投资和需求",
+          "details": "勃勃OC：通胀和油价真没啥关系。通胀来自投资和需求，这是Warsh自己在FOMC写下的结论。",
+          "important": false
+        },
+        {
+          "actor": "Danny",
+          "actor_type": "KOL",
+          "text": "Danny：股市已通过时间完成调整 PE回撤14%",
+          "details": "Danny：股市已通过时间而非价格完成调整。虽然市场横盘整理，但每股收益预期持续上升，因此市盈率已回调14%。",
+          "important": false
+        },
+        {
+          "actor": "Andy",
+          "actor_type": "KOL",
+          "text": "Andy：贴现率升75bp 过去半年横盘净效果是股票贵了6%",
+          "details": "Andy：贴现率上行75bp'应该'值大约8-10%的股价。价格不动等于2%的横盘修正加8%的变贵——过去六个月的横盘净效果是股票贵了6%。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-29",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-views-2025-09-29",
+      "topic": "卖方观点",
+      "topic_tag": "earnings",
+      "title": "GS/MS/Citi：SPX目标上修 但情绪进入'狂热' 广度大幅恶化",
+      "summary": "GS认为市场定价的央行加息（7-8次）远高于其基本预测（2-3次），远期利率对冲机会浮现，将黄金2026目标下调至4650美元。MS青睐大盘质量+AI杠铃。Citi将2026年底SPX基准目标从7700上调至8100，但Levkovich指数达0.90'狂热'水平，历史后续一年中位数回报-12.5%。",
+      "bullets": [
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "Citi上调SPX 2026目标至8100 但情绪指标已'狂热'",
+          "details": "Citi Equity Strategy：将2026年底SPX的基准情景目标从7700点上调至8100点，主要得益于上半年由AI基础设施cohort驱动的超预期盈利增长。牛市情景目标维持8300点不变，周期与防御板块预计2026恢复至高个位数至中双位数增长。对通信服务、医疗保健、公用事业和可选消费板块给予'超配'，对能源、金融和必需消费品板块'低配'。关键情绪/持仓指标Levkovich指数目前处于0.90的'狂热'水平。历史数据显示，从此类起点开始，未来一年的中位数回报为-12.5%，上涨概率仅为14%。",
+          "important": true
+        },
+        {
+          "actor": "GS Global Market Views",
+          "actor_type": "Analyst",
+          "text": "GS：市场定价央行加息远超GS预测 远期利率对冲机会",
+          "details": "GS Global Market Views：尽管利率、能源价格和AI仍是主要风险因素，但市场定价已向不利方向调整，使得风险收益比转向建设性一侧。能源价格上涨推高了前端利率定价，若能源价格回落，将为债券、股票和新兴市场套息交易带来最直接的缓解。市场目前定价的美联储、欧洲央行和英国央行累计加息幅度远高于高盛基本预测。高盛认为核心通胀压力有限，实际加息次数可能少于市场预期（2-3次而非7-8次），这为远期利率对冲提供了机会。",
+          "important": false
+        },
+        {
+          "actor": "GS US Daily",
+          "actor_type": "Analyst",
+          "text": "GS：美国经济2026超预期韧性 Q3增速3.4% 全年2.2%",
+          "details": "GS US Daily：美国经济在2026年展现出超预期韧性，Q3增速估计为3.4%，全年预测为2.2%，仅比年初预测下调0.3%，且接近其估计的2.3%潜在GDP增速。这种韧性主要得益于金融条件的净变化较小以及消费者支出的意外强劲。虽然利率显著上升，但金融资产价格上涨和信贷环境宽松对冲了紧缩效应，GS金融条件指数框架表明这些因素对2026年GDP增长的净拖累仅为0.1%。FRB/US模型显示高利率对住宅投资造成有意义打击，但对消费和企业投资有轻微提振。虽预测消费增长因油价冲击放缓至2.0%，但实际数据显示消费增长2.2%，出现0.2个百分点上行惊喜。",
+          "important": false
+        },
+        {
+          "actor": "GS GOAL",
+          "actor_type": "Analyst",
+          "text": "GS GOAL：黄金2026目标下调至4650 建议前端receiver掉期期权对冲",
+          "details": "GS GOAL：美国10Y攀升至5.25%（2007年7月以来最高），欧洲债券因能源和财政担忧表现不佳，但大型科技（纳斯达克）和动量股得益于AI持续顺风表现超其贝塔隐含风险调整回报。策略团队建议未来3个月中性（N），12个月内适度看好风险资产（OW股票，N债券/商品/现金，UW信用）。由于实际利率上升暂时压倒央行需求和宏观对冲角色对黄金的结构性支撑，将2026年黄金目标价下调至4,650美元/盎司。建筑商、黄金矿工、房地产、公用事业和罗素2000遭最大回撤。对平衡型组合建议通过前端receiver swaptions作为严重增长冲击的凸性对冲，或通过看涨期权暴露于利率缓解情景。",
+          "important": false
+        },
+        {
+          "actor": "Michael Wilson (MS)",
+          "actor_type": "Analyst",
+          "text": "MS Wilson：SPX远期PE回落至19倍 广度需与指数收敛",
+          "details": "MS Michael J Wilson：SPX远期市盈率回落至19倍左右，与3月低点持平，中位数股票EPS增长保持中等两位数。市场已充分计价高能源价格、Fed紧缩及地缘政治风险，估值压缩是典型中周期动态。自JH会议以来市场广度显著收窄，超过50%的罗素3000成分股自6月以来回撤至少20%。若债券波动率不能平息，预计广度和价格将在未来一个月'折中'收敛，随后年底强势收官；若债券波动率早日subsides，广度有望追上指数价格。策略上继续青睐大盘质量股，10月若指数回调时增加风险股票配置。AI Adopters利润率和盈利趋势强于共识预期，形成'杠铃策略'：保留部分高估值但盈利持久的Enablers，同时增加估值已重置的Adopters敞口。",
+          "important": false
+        },
+        {
+          "actor": "MS/GS图表",
+          "actor_type": "Analyst",
+          "text": "罗素3000: 51%成分股自6月回撤>20% 半导体最惨96%回撤>20%",
+          "details": "自6月1日以来各板块股票最大回撤占比：Russell 3000：>10%回撤87%、>15%回撤69%、>20%回撤51%、>30%回撤27%、>40%回撤14%、>50%回撤7%。半导体板块最惨：>10%回撤99%、>15%回撤99%、>20%回撤96%、>30%回撤93%、>40%回撤69%、>50%回撤34%。汽车100%成分股回撤>10%，软件98%回撤>10%、75%回撤>20%。银行相对最抗跌，仅41%成分股回撤>10%。",
+          "important": false
+        },
+        {
+          "actor": "SPX广度指标",
+          "actor_type": "新闻",
+          "text": "SPX成分股50DMA上方比例仅29.89% 200DMA上方45.20%",
+          "details": "$SPX S&P 500最新7646.45附近整理。成分股在50日均线上方比例29.89%、100日均线上方36.00%、200日均线上方45.20%，显示指数创新高的同时广度显著恶化。",
+          "important": false
+        },
+        {
+          "actor": "JNK信用指标",
+          "actor_type": "新闻",
+          "text": "JNK 60.68 A/D HY USA降至0.9586",
+          "details": "JNK US Equity最新60.6833，价格从2023年起持续走高至~93.61峰值。A/D HY USA指标0.9586，SMAVG(50) NTMBHA为1.0767并向下。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "QQQ",
+        "GLD",
+        "JNK"
+      ],
+      "image_indexes": [
+        3,
+        4,
+        6
+      ],
+      "importance": 3,
+      "sources": [
+        "GS",
+        "MS",
+        "Citi"
+      ],
+      "date": "2026-09-29",
+      "image_urls": [
+        "/uploads/2026-09-29/71eb6c2d3d13.png",
+        "/uploads/2026-09-29/cad27aca1b86.png",
+        "/uploads/2026-09-29/52e51aaeaacf.png"
+      ]
+    },
+    {
+      "id": "china-state-council-2025-09-29",
+      "topic": "中国政策",
+      "topic_tag": "policy",
+      "title": "李强主持国常会 提出'一批务实管用的增量政策'",
+      "summary": "李强召开国务院常务会议，提出'推出一批务实管用的增量政策'，释放稳增长政策信号。",
+      "bullets": [
+        {
+          "actor": "李强",
+          "actor_type": "Foreign-Gov",
+          "text": "李强国常会：推出一批务实管用的增量政策",
+          "details": "李强召开国常会，提出'推出一批务实管用的增量政策'。",
+          "important": true
+        },
+        {
+          "actor": "中国宏观",
+          "actor_type": "新闻",
+          "text": "亚洲宏观：中国增量政策预期升温",
+          "details": "亚洲宏观补充：李强讲话被市场解读为稳增长政策空间打开，具体政策细节待披露。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "FXI",
+        "KWEB"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-09-29",
+      "image_urls": []
+    }
+  ]
+}
