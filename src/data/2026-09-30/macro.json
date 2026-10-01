@@ -1,0 +1,311 @@
+{
+  "topics": [
+    {
+      "id": "fed-speakers-oct",
+      "topic": "美联储官员发言",
+      "topic_tag": "fed",
+      "title": "Williams/Barr/Goolsbee：年内或再加一次，通胀缓慢回落",
+      "summary": "纽约联储Williams称9月加息后无紧迫感，若经济符合预期年内可再加一次；他点名中东冲突和AI投资为通胀主驱动。Barr认为基线情形需进一步政策调整，Goolsbee警告央行可能需应对持续性供应冲击。",
+      "bullets": [
+        {
+          "actor": "Williams",
+          "actor_type": "Central-Bank",
+          "text": "9月加息后不急于行动，年内或再加一次",
+          "details": "纽约联储Williams：潜在经济增长势头似乎还在增强；预计今年通胀收在3.5%，2027年降至略高于2%，2028年达标。通胀主驱动点名两个：中东冲突加AI投资，AI投资问题对通胀是一个越来越大的议题。9月加息后，没有必要立即采取行动（There is no need for urgency），它给了我们时间收集更多信息；若经济符合预期，今年晚些时候再加息一次以支持通胀率更及时地回到目标水平。",
+          "important": true
+        },
+        {
+          "actor": "Barr",
+          "actor_type": "Central-Bank",
+          "text": "Barr：基线情形下仍需进一步政策调整",
+          "details": "Barr：基础情形下，可能需要进一步的政策调整，以确保通胀及时回到目标。",
+          "important": false
+        },
+        {
+          "actor": "Goolsbee",
+          "actor_type": "Central-Bank",
+          "text": "Goolsbee：央行或须应对连续供应冲击",
+          "details": "Goolsbee：美国央行可能需要对不会自行消失的、连续出现的供应冲击做出反应。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-09-30",
+      "image_urls": []
+    },
+    {
+      "id": "iran-hormuz-crisis",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "霍尔木兹流量恢复但平价仍紧，白宫谋求柴油应对",
+      "summary": "特朗普称伊朗情况很差但未直接回应IRGC公开信；白宫敦促欧盟削减应急柴油库存并与顾问磋商柴油出口禁令选项。阿布扎比3000亿美元L'imad基金拟在富查伊拉等绕开海峡的港口投资数百亿。KOL与卖方普遍认为海峡流量已回到战前约89%水平，但保险与运费极高，伊朗转向低成本消耗战略。",
+      "bullets": [
+        {
+          "actor": "白宫/Trump政府",
+          "actor_type": "US-Executive",
+          "text": "白宫就柴油出口禁令等选项举行危机磋商",
+          "details": "FT报道特朗普已就实施柴油出口禁令或采取其他措施与顾问举行危机磋商，助手们向总统提出了包括限制国际柴油销售在内的多种选项，政府官员也已向外国盟友通报其供应可能受到干扰。白宫已敦促欧盟削减应急柴油库存，以压低全球价格。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump称伊朗情况很差，转发海峡失控文章",
+          "details": "截至美东时间周二深夜，Trump还没有针对'IRGC公开信'发表直接评论；白天回答记者关于'中东局势'的广泛提问，称'伊朗现在情况很差，不知他们准备什么时候放弃抵抗'。Trump在Truth Social转发Burggraben的《Iran Has Lost Control of The Strait》。",
+          "important": false
+        },
+        {
+          "actor": "阿联酋L'imad基金",
+          "actor_type": "Foreign-Gov",
+          "text": "阿布扎比300B基金拟投富查伊拉绕开海峡",
+          "details": "BBG报道知情人士告诉彭博社，阿布扎比规模300B的L'imad基金可能会在霍尔木兹海峡以外的港口，尤其是富查伊拉，投入数百亿美元。这笔投资支持阿联酋推动摆脱对该海峡依赖的努力。",
+          "important": false
+        },
+        {
+          "actor": "JPM Oil",
+          "actor_type": "Analyst",
+          "text": "JPM：沙特东西管道恢复，出口回到战前89%",
+          "details": "JPM Oil：随着沙特东西向管道（East-West pipeline）的恢复，该地区石油出口动脉重新畅通。过去五天，石油出口总量的10日平均值保持在20.5 mb/d，相当于2025年水平的89%。原油流量已反弹至17.5 mb/d，达到战前水平的98%；但成品油出口仍仅为300万桶/天，仅占战前水平的58%。印度9月从中东及'未知来源'进口的原油升至2.8 mb/d，较8月增加1.2 mb/d。霍尔木兹相关VLCC租船费率接近每天1.27M，船东有效地对安全风险进行定价和货币化；沙特Bahri船队等区域生产商控制了有意义的货运能力。",
+          "important": false
+        },
+        {
+          "actor": "TankerTrackers",
+          "actor_type": "KOL",
+          "text": "沙特原油出口7日均值接近9mb/d",
+          "details": "TankerTrackers：过去完整7天沙特原油出口的目视识别均值近9mb/d——且这只是可用卫星影像能看到的部分。",
+          "important": false
+        },
+        {
+          "actor": "Rory",
+          "actor_type": "KOL",
+          "text": "Rory：伊朗执行精确消耗战略，无人机袭击边际影响已降至10-20%",
+          "details": "Rory：伊朗战争已变成一场围城胆小鬼博弈：伊朗赌被封锁经济能熬下去，美国在用不断上涨的燃料价格押上全球经济。华盛顿令人印象深刻但代价高昂地改善了霍尔木兹流量，但缩小后仍不小的缺口撞上缓冲耗尽、冬季前柴油急缺的全球油市。德黑兰执行精确消耗战略——每周几架无人机就让整个CENTCOM疲于奔命，烧的是美国纳税人和商业船东的钱；但海湾船东风险容忍度上来后，单次无人机袭击对流量的影响可能只剩几个月前的10-20%。",
+          "important": false
+        },
+        {
+          "actor": "@citrinowicz",
+          "actor_type": "KOL",
+          "text": "citrinowicz：军事优势未转化为战略/经济结果",
+          "details": "@citrinowicz：石油是实物商品——油价仍居高不下，表明华盛顿在海峡的重大作战成果尚未转化为战略和经济成果。保险费率仍极高，油轮运力受限，商业航运面临重大风险，维持大量石油通过海峡的美国军事存在财政和作战成本极高。真正考验在于华盛顿能否将军事优势转化为持久局面——石油正常流通、保险/运输成本下降、美军异常部署得以缩减、伊朗切实失去霍尔木兹的战略胁迫作用。目前双方都未完全控制该海峡，伊朗筹码已被大幅削弱但未被消除。",
+          "important": false
+        },
+        {
+          "actor": "CRUDEOIL231",
+          "actor_type": "KOL",
+          "text": "CRUDEOIL231：平价为何仍钉在此位",
+          "details": "CRUDEOIL231：多数观察者一个多月前就标记了过境回升，独立船只追踪者几周前就把这波画得清清楚楚。真正问题是：平价为什么还钉在这个位置？有没有足够的黑油船队去扩大穿梭运力、让这波不沦为临时峰值。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        6
+      ],
+      "importance": 3,
+      "sources": [
+        "FT",
+        "Bloomberg"
+      ],
+      "date": "2026-09-30",
+      "image_urls": [
+        "/uploads/2026-09-30/375779aabcf7.png",
+        "/uploads/2026-09-30/56cd1f456de3.png"
+      ]
+    },
+    {
+      "id": "rates-credit-divergence",
+      "topic": "利率与信用市场",
+      "topic_tag": "rates",
+      "title": "债油脱钩、短端国库券估值恶化、空头持仓创新高",
+      "summary": "Erian指出主权债收益率与油价脱钩频率上升，利差走阔风险累积。Barclays称短期国库券估值明显恶化，3M/6M收益率高出SOFR OIS 9-13bp，财政部10-11月净增发385B加剧供需失衡。期货未平仓合约随收益率抬升创新高，显示空头主导。",
+      "bullets": [
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "Barclays：短期国库券估值明显恶化，年内最高",
+          "details": "Barclay Fed：美国短期国库券估值明显恶化，3个月期国库券收益率高出同期限SOFR OIS约9bp，6个月期高出约13bp，达到年内最高水平。货币基金流入停滞，叠加财政部10-11月预计净增发385B，供需失衡进一步加剧。报告判断国库券弱势或将延续，并可能推高货币市场利率，美联储或需增加购债以维持利率控制。",
+          "important": true
+        },
+        {
+          "actor": "Mohamed El-Erian",
+          "actor_type": "KOL",
+          "text": "Erian：债油脱钩频率上升，信用利差走阔在后",
+          "details": "Erian：这不是主权债收益率与油价脱钩的第一个交易日，且频率在上升——收益率的持续飙升由远超能源市场的力量驱动；家庭与企业的借贷成本迟早还要迎来信用利差走阔的额外逆风。",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "美债期货未平仓合约随收益率上行创新高",
+          "details": "Bloomberg图表显示：US 10-Year Dec26期货未平仓合约5.8M（从~5.2升至~5.6），5-Year Dec26期货未平仓合约7.0M（从~6.0升至~6.5），同期美10年期收益率从4.6%升至5.4%。开仓随收益率上行，显示空头持仓占主导。",
+          "important": false
+        },
+        {
+          "actor": "FT图表",
+          "actor_type": "新闻",
+          "text": "法国OAT-德债利差升至~120bp，接近欧债危机以来高位",
+          "details": "图表：10Y法国OAT相对德债利差已升至约120bp，为2025年政治危机导致，较2024年解散议会时的~80bp进一步走阔，仅次于2011-12年欧洲主权债务危机峰值(~180-190bp)。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        2,
+        5
+      ],
+      "importance": 3,
+      "sources": [
+        "Barclays",
+        "Bloomberg",
+        "FT"
+      ],
+      "date": "2026-09-30",
+      "image_urls": [
+        "/uploads/2026-09-30/9c927d3774ee.jpg",
+        "/uploads/2026-09-30/29ba9b58245f.png",
+        "/uploads/2026-09-30/50348d43d182.png"
+      ]
+    },
+    {
+      "id": "kol-equity-rates-view",
+      "topic": "KOL：加息路径与股票波动率",
+      "topic_tag": "macro-other",
+      "title": "KOL辩论加息路径：定价过度 vs 鸽派不足",
+      "summary": "Warren Pies认为联储会再加一次但不会达到市场预期的幅度，科技继续领涨。Josephwang称市场定价到2027年9月累计加息约5%过于荒谬。Ariston指出利率/信用/外汇已现压力但股票波动率仍低，建议用call spread和dual digital做多上行凸性。",
+      "bullets": [
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "Pies：再加一次后保持倾向，但不会加到市场预期幅度",
+          "details": "Warren Pies：联储信号是再加一次然后保持加息倾向，但实际不会加到市场预期那么多。科技继续领涨，且反驳窄广度论。",
+          "important": true
+        },
+        {
+          "actor": "Josephwang",
+          "actor_type": "KOL",
+          "text": "Josephwang：市场定价到2027年9月加息5%荒谬",
+          "details": "Josephwang：市场现在定价的加息周期到2027年9月约5%——在我看来荒谬。",
+          "important": false
+        },
+        {
+          "actor": "Ariston",
+          "actor_type": "KOL",
+          "text": "Ariston：股票波动率低，call spread/dual digital有吸引力",
+          "details": "Ariston：利率、信用、部分外汇市场已现压力迹象（虽然起点低），股票尚未响应——利率与信用波动率上升而股票波动率仍低的背离很不寻常。即便如此，当前位置股票的风险回报有吸引力，但已定价的加息幅度正接近对股票构成问题的临界点。低股票波动率让call spread和dual digital成为做多股票上行的合意结构——用便宜的凸性表达观点。",
+          "important": false
+        },
+        {
+          "actor": "NDR/McClellan",
+          "actor_type": "新闻",
+          "text": "标普接近历史高位但广度差，新低数现耗尽性尖峰",
+          "details": "NDR图表：S&P 500指数距离历史高位-0.71%，但NDR Multi-Cap 50日均线上个股比例仅24.55%、200日均线上个股比例43.06%，信号条件（1%内创新高+50日MA<33%+200日MA<45%）触发。McClellan图表显示NYSE新低数出现数次尖峰（最高~1400），被标注为'exhaustive'耗尽性信号。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3,
+        4
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-09-30",
+      "image_urls": [
+        "/uploads/2026-09-30/6c0d49f009a1.png",
+        "/uploads/2026-09-30/1d0b30a6888b.png"
+      ]
+    },
+    {
+      "id": "jpm-vol-asia",
+      "topic": "亚洲波动率",
+      "topic_tag": "macro-other",
+      "title": "JPM：KOSPI2波动率极端紧张，港股/NDX期权相对便宜",
+      "summary": "JPM波动率报告：KOSPI2 1M ATMF IV达41.8%（88.8%分位），期限结构倒挂、1Y 25D偏度为负1.5；港股HSI/HSCEI波动率处5年极低分位（6.4%/5.6%）；NDX 25D偏度在历史低位，显示投资者积极买入看跌保护。",
+      "bullets": [
+        {
+          "actor": "JPM Vol",
+          "actor_type": "Analyst",
+          "text": "KOSPI2 1M IV达41.8%，偏度罕见为负",
+          "details": "JPM Vol：KOSPI2指数1个月平值隐含波动率（ATMF IV）高达41.8%，处于5年分位数的88.8%，显示市场情绪极度紧张。1年期隐含波动率低于短期波动率，期限结构倒挂（2Y-6M spread为-3.2）。KOSPI2偏度（Skew）为负值（1Y 25 Delta Skew为-1.5），在主要指数中极为罕见，暗示市场对下跌保护的定价出现异常或存在大量看涨期权需求。",
+          "important": true
+        },
+        {
+          "actor": "JPM Vol",
+          "actor_type": "Analyst",
+          "text": "港股期权便宜，HSI/HSCEI分位数仅6%左右",
+          "details": "JPM Vol：恒生指数（HSI）和恒生中国企业指数（HSCEI）隐含波动率处于5年来极低分位数（HSI 1M IV 16.8%，分位数6.4%；HSCEI 1M IV 18.3%，分位数5.6%）。HSCEI 1个月看涨期权权利金仅0.99%，看跌期权权利金1.11%，对寻求低成本对冲或方向性交易的投资者性价比高。",
+          "important": false
+        },
+        {
+          "actor": "JPM Vol",
+          "actor_type": "Analyst",
+          "text": "NDX偏度历史低位，投资者买入下行保护",
+          "details": "JPM Vol：纳斯达克100指数（NDX）1个月隐含波动率17.6%，5年分位数升至36.3%。25 Delta偏度（Skew）在多个期限处于历史低位（1Y 25 Delta Skew分位数仅4.6%），表明投资者积极买入看跌期权防范下行风险，或对上行空间预期减弱。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "JPM"
+      ],
+      "date": "2026-09-30",
+      "image_urls": []
+    },
+    {
+      "id": "corporate-ai-misc",
+      "topic": "公司/AI/其他",
+      "topic_tag": "macro-other",
+      "title": "韩国54B阿拉斯加LNG、特斯拉30B信贷、Robinhood AI交易代理",
+      "summary": "Trump最早周三公布动用韩国约54B战略投资方案在阿拉斯加建LNG设施。特斯拉获30B信贷额度（20B延迟提款+10B循环）取代此前5B。Robinhood向2900万客户推出OpenAI/Anthropic驱动的交易代理，并推24小时周末美股交易。Trump提议将AI改名SI。",
+      "bullets": [
+        {
+          "actor": "Trump政府",
+          "actor_type": "US-Executive",
+          "text": "韩国54B投资拟建阿拉斯加LNG及其他项目",
+          "details": "BBG消息人士称，特朗普最早可能于周三公布计划，动用韩国承诺的约54B战略投资方案，在阿拉斯加建设一座液化天然气设施以及美国其他几个重大项目。",
+          "important": true
+        },
+        {
+          "actor": "Tesla",
+          "actor_type": "Corporate",
+          "text": "特斯拉获30B信贷额度，取代此前5B",
+          "details": "RTRS报道特斯拉获得了30B的信贷额度：包括20B的延迟提款定期贷款和10B的循环信贷额度，取代了此前的5B额度。这些额度均未提取，特斯拉目前预计不会在2026年使用它们。",
+          "important": false
+        },
+        {
+          "actor": "Robinhood",
+          "actor_type": "Corporate",
+          "text": "Robinhood推OpenAI/Anthropic驱动的交易代理",
+          "details": "Robinhood正在向约2900万客户推出由OpenAI和Anthropic驱动的交易代理，可实现自动交易、研究和投资策略，正在推出美股24小时周末交易。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump提议将AI改名SI（超级智能）",
+          "details": "Trump：将AI改名SI，如果AI犯罪，没关系，不是'人工智能'了，是'超级智能'。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TSLA",
+        "HOOD"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Bloomberg",
+        "Reuters"
+      ],
+      "date": "2026-09-30",
+      "image_urls": []
+    }
+  ]
+}

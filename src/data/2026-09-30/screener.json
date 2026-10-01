@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-09-30T21:31:20+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-09-30",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12593,
+    "partial_pass": 2,
+    "with_carryover": 2,
+    "after_full_check": 2
+  },
+  "rows": [
+    {
+      "tk": "KOD",
+      "nm": "Kodiak Sciences Inc Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 4.0,
+      "w1": 200.8,
+      "market_cap_bn": 5.96,
+      "dollar_vol_bn": 0.47,
+      "w1_avg_dollar_vol_bn": 0.92,
+      "reason": "",
+      "main_business": "研发眼科视网膜疾病抗VEGF等创新药物"
+    },
+    {
+      "tk": "IOVA",
+      "nm": "Iovance Biotherapeutics, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 2.6,
+      "w1": 45.4,
+      "market_cap_bn": 6.71,
+      "dollar_vol_bn": 0.43,
+      "w1_avg_dollar_vol_bn": 0.39,
+      "reason": "",
+      "main_business": "开发基于T细胞的个性化实体瘤免疫疗法"
+    }
+  ]
+}
