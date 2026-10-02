@@ -1,0 +1,582 @@
+{
+  "topics": [
+    {
+      "id": "fed-powell-renovation-oct01",
+      "topic": "美联储/翻修争议",
+      "topic_tag": "fed",
+      "title": "Fed翻修无犯罪证据 Trump仍施压Powell辞职",
+      "summary": "美联储内部监督机构清查总部翻修项目，未发现犯罪或行政不当行为，但指出一系列管理失误导致成本飙升。特朗普随即要求Powell因管理不善辞去理事职务，或以腐败/无能被政府起诉。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普要求Powell辞职 或以腐败无能起诉",
+          "details": "前美联储主席Powell应该因美联储总部翻新工程管理不善而辞去美联储理事会职务，或者因腐败或无能而被美国政府起诉。",
+          "important": true
+        },
+        {
+          "actor": "Fed OIG",
+          "actor_type": "Central-Bank",
+          "text": "监督机构：无犯罪 但有多项管理失误",
+          "details": "美联储内部监督机构没有发现任何Fed翻修中的犯罪行为的证据，也没有发现与该项目相关的任何'行政不当行为'，但列举了一系列导致项目成本飙升的管理失误。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-01",
+      "image_urls": []
+    },
+    {
+      "id": "fed-speakers-oct01",
+      "topic": "美联储官员发言",
+      "topic_tag": "fed",
+      "title": "Kashkari维持两次加息路径 Nick点评通胀数据",
+      "summary": "Kashkari称周三通胀数据几乎未改变其价格压力仍过高的评估，GDP上修才是更大意外；截至9月他仍计划今年加息两次、2027年一次。WSJ Nick解读新口径核心PCE，认为6-7月改善已被知悉，2025年4月以来对2%目标无进展。",
+      "bullets": [
+        {
+          "actor": "Kashkari",
+          "actor_type": "Central-Bank",
+          "text": "通胀评估未变 维持今年加息两次路径",
+          "details": "周三的通胀数据几乎没有改变他对价格压力仍然过高的评估；GDP 上修幅度更大才是更大的意外。截至9月份，他已计划今年加息两次，27年加息一次。随着我们对经济了解的深入，缓慢调整是有价值的。",
+          "important": true
+        },
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "新口径核心PCE未改变已知趋势 对2%无进展",
+          "details": "这份报告没怎么改变已知趋势（价格压力是真在缓解，还是测量方式变了）。6、7 月不错——早就知道；8 月没能延续——CPI/PPI 后也已明显。市场化价格在 3% 上下，改法前后都是。12 个月读数不那么难看了，但 2025 年 4 月以来对 2% 没有任何进展。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 2,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-10-01",
+      "image_urls": [
+        "/uploads/2026-10-01/4a5416a69dcd.png"
+      ]
+    },
+    {
+      "id": "trump-aca-checks-oct01",
+      "topic": "ACA支票/医保",
+      "topic_tag": "policy",
+      "title": "特朗普向近百万ACA客户发500美元支票",
+      "summary": "特朗普开始向近100万名《平价医疗法案》客户发放500美元支票，附信在中期选举前宣传其医保政绩；政府称款项来自盈余资金，用以退还过高费用。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "向近1M ACA客户发500美元支票 中期选举前宣传医保",
+          "details": "特朗普开始向近 1M名《平价医疗法案》客户发放 500 美元支票，并附上一封信，在中期选举前宣传其医疗保健政绩。政府表示，这些款项利用盈余资金退还了过高的费用。",
+          "important": true
+        },
+        {
+          "actor": "美国政府",
+          "actor_type": "US-Executive",
+          "text": "资金来自盈余 退还过高费用",
+          "details": "政府表示，这些款项利用盈余资金退还了过高的费用。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-10-01",
+      "image_urls": []
+    },
+    {
+      "id": "us-tariffs-301-court-oct01",
+      "topic": "关税/贸易法庭",
+      "topic_tag": "policy",
+      "title": "美国贸易法庭质疑301条款关税法律依据",
+      "summary": "美国贸易法庭小组质疑支持特朗普最新301条款关税的法律依据及针对特定国家的证据；法官同时质疑原告论点，未给出对10%-12.5%关税的裁决时间表。",
+      "bullets": [
+        {
+          "actor": "美国贸易法庭",
+          "actor_type": "US-Congress",
+          "text": "质疑301关税法律依据 未给裁决时间表",
+          "details": "美国贸易法庭小组质疑了支持特朗普最新 301 条款关税的法律依据和针对特定国家的证据。法官们也对原告的论点提出了质疑；他们没有给出对 10%-12.5%关税作出裁决的时间表。",
+          "important": true
+        },
+        {
+          "actor": "法官",
+          "actor_type": "US-Congress",
+          "text": "对原告论点同样提出质疑",
+          "details": "法官们也对原告的论点提出了质疑。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-01",
+      "image_urls": []
+    },
+    {
+      "id": "diesel-supply-oct01",
+      "topic": "柴油/成品油",
+      "topic_tag": "oil",
+      "title": "美柴油期货创新高 美欧联手压柴油价",
+      "summary": "能源部长Wright预告欧洲将宣布追加柴油供应、美国压柴油价措施也即将出台。同日美柴油期货盘中突破$224/bbl创历史新高，对Brent裂解价差达$122/bbl；UBS等卖方关注特朗普可能的柴油出口禁令风险。",
+      "bullets": [
+        {
+          "actor": "Rory Johnston",
+          "actor_type": "KOL",
+          "text": "美柴油期货盘中破$224 对Brent裂解价差$122",
+          "details": "美柴油期货创历史新高：盘中突破 $224/bbl（合约到期日的急性挤仓）。对 Brent 的裂解价差当日 $122/bbl——不是柴油的价格，是裂解价差。",
+          "important": true
+        },
+        {
+          "actor": "Wright (能源部长)",
+          "actor_type": "US-Executive",
+          "text": "欧洲将增加柴油供应 美压价措施即将出台",
+          "details": "欧洲各国政府将宣布额外柴油供应，这将'切实推动柴油价格下降'；美国压低柴油价格的措施也即将出台。",
+          "important": false
+        },
+        {
+          "actor": "UBS Oil",
+          "actor_type": "Analyst",
+          "text": "成品油需求+0.5Mb/d 聚焦柴油出口禁令风险",
+          "details": "成品油需求周增0.5Mb/d，总库存大幅减少8.0Mb，其中馏分油去库2.3Mb超预期。市场聚焦特朗普政府可能实施的柴油出口禁令，政策风险升温。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-01",
+      "image_urls": []
+    },
+    {
+      "id": "uk-eu-reset-oct01",
+      "topic": "英国/欧盟",
+      "topic_tag": "geo",
+      "title": "英首相将在11月峰会公布英欧关系重塑计划",
+      "summary": "英国首相伯纳姆将在11月峰会上公布重塑英欧关系的计划，此前双方搁置了关于布鲁塞尔'欧洲制造'倡议的争端，以确保推迟的会议得以举行。",
+      "bullets": [
+        {
+          "actor": "英国首相伯纳姆",
+          "actor_type": "Foreign-Gov",
+          "text": "11月峰会公布英欧关系重塑计划",
+          "details": "英国首相伯纳姆将在 11 月的一次峰会上公布其重塑英国与欧盟关系的计划。",
+          "important": true
+        },
+        {
+          "actor": "英国/欧盟",
+          "actor_type": "Foreign-Gov",
+          "text": "双方搁置'欧洲制造'争端 推迟峰会得以举行",
+          "details": "此前双方搁置了关于布鲁塞尔'欧洲制造'倡议的争端，以确保推迟的会议得以举行。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-10-01",
+      "image_urls": []
+    },
+    {
+      "id": "asia-macro-oct01",
+      "topic": "亚洲宏观",
+      "topic_tag": "macro-other",
+      "title": "BOJ转防通胀超调 韩出口创纪录 中国追加财政",
+      "summary": "BOJ 9月会议摘要强化防通胀超调立场，一委员呼吁价格上行偏离应加快加息，但未就10月再加息给出明确信号。韩国9月出口同比激增83.5%至$120.94B创纪录，半导体出口增两倍多至$60.3B，顺差$49.85B。中国财长蓝佛安释放追加定向财政支持信号。",
+      "bullets": [
+        {
+          "actor": "韩国",
+          "actor_type": "Foreign-Gov",
+          "text": "9月出口同比+83.5%至$120.94B 半导体$60.3B",
+          "details": "韩国 9 月出口同比激增 83.5%，达到创纪录的 120.94B美元，超过 65.4%的增长预期；半导体出口增长两倍多，达到 60.3B。随着人工智能需求持续推动扩张，贸易顺差达到创纪录的 49.85B。",
+          "important": true
+        },
+        {
+          "actor": "日本央行",
+          "actor_type": "Central-Bank",
+          "text": "9月会议摘要强化防通胀超调 未明确10月加息",
+          "details": "BOJ 9 月会议摘要强化了其转向防止通胀超调的立场，一位委员呼吁如果价格向上偏离则应加快加息。摘要未就 10 月再次加息获得日益增长的支持提供明确信号。",
+          "important": false
+        },
+        {
+          "actor": "蓝佛安 (中国财长)",
+          "actor_type": "Foreign-Gov",
+          "text": "释放追加定向财政支持信号",
+          "details": "中国财政部长蓝佛安在财政部网站发表的一篇文章中释放了追加定向财政支持的信号。相关提议包括扩大利息补贴范围、提高资金上限，并可能动用未使用的地方政府债券额度以支持消费和投资。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-01",
+      "image_urls": []
+    },
+    {
+      "id": "iran-oil-sanctions-oct01",
+      "topic": "伊朗制裁/油轮",
+      "topic_tag": "geo",
+      "title": "数十艘伊朗关联油轮滞留亚洲近海",
+      "summary": "WSJ看到的文件显示，随着华盛顿威胁对为伊朗关联油轮提供燃料/补给的公司实施制裁，数十艘伊朗关联油轮滞留亚洲国家近海；Kpler原油分析主管预计伊朗剩余石油出口收入将在12月前枯竭。",
+      "bullets": [
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "数十艘伊朗关联油轮滞留亚洲近海",
+          "details": "据WSJ看到的文件，随着华盛顿威胁对向伊朗关联油轮提供燃料和补给的公司实施制裁，数十艘与伊朗有关联的油轮滞留在亚洲国家近海。",
+          "important": true
+        },
+        {
+          "actor": "Kpler",
+          "actor_type": "Analyst",
+          "text": "预计伊朗剩余石油出口收入12月前枯竭",
+          "details": "Kpler 原油分析主管预计，伊朗剩余的石油出口收入将在 12 月前枯竭。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-10-01",
+      "image_urls": []
+    },
+    {
+      "id": "credit-rates-oct01",
+      "topic": "债券/利率市场",
+      "topic_tag": "rates",
+      "title": "CCC利差破1000bps困境线 债基流入创4年新高",
+      "summary": "美国CCC级债券利差从9月初860bps升至1007bps，突破1000bps困境阈值，为2023年银行业危机以来首次。晨星数据显示今年美国债券基金流入已超2021年以来任何全年总额，顾问鼓励客户锁定短中期收益率。Bill Gross建议不持债、股票谨慎，当下格言为preserve and protect。",
+      "bullets": [
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "CCC利差破1000bps困境线 为2023银行危机以来首次",
+          "details": "BBG报道美国 CCC 级债券利差突破了1000bps的困境阈值，为 2023 年银行业危机以来首次，从 9 月初的 860bps升至1007bps。利率上升正在加剧最弱借款人的再融资压力。",
+          "important": true
+        },
+        {
+          "actor": "Morningstar/WSJ",
+          "actor_type": "新闻",
+          "text": "美债基流入已超2021年以来任何全年",
+          "details": "WSJ报道据晨星数据，今年美国债券基金的资金流入已超过 2021 年以来的任何全年总额，顾问们正鼓励客户锁定较高收益率，许多人青睐短期和中期债券。",
+          "important": false
+        },
+        {
+          "actor": "Bill Gross",
+          "actor_type": "KOL",
+          "text": "别持债 对股票谨慎 当下格言preserve and protect",
+          "details": "别持有债券，对股票保持谨慎——当前的投资格言是 preserve and protect。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "WSJ",
+        "Bloomberg"
+      ],
+      "date": "2026-10-01",
+      "image_urls": []
+    },
+    {
+      "id": "taiwan-china-oct01",
+      "topic": "台海",
+      "topic_tag": "geo",
+      "title": "路透：中国2028年前武力攻台可能性在下降",
+      "summary": "美国官员认为，尽管习近平要求军队在2027年前做好武力夺台准备，但中国在2028年前入侵台湾的可能性正在下降。",
+      "bullets": [
+        {
+          "actor": "Reuters",
+          "actor_type": "新闻",
+          "text": "美官员：中国2028年前武力攻台可能性下降",
+          "details": "RTRS报道美国官员认为，尽管中国国家主席习近平要求军队在2027年前做好准备，以便在必要时以武力夺取这个民主治理的岛屿，但中国在2028年前入侵台湾的可能性正在下降。",
+          "important": true
+        },
+        {
+          "actor": "习近平",
+          "actor_type": "Foreign-Gov",
+          "text": "要求军队2027年前做好武力攻台准备",
+          "details": "中国国家主席习近平要求军队在2027年前做好准备，以便在必要时以武力夺取这个民主治理的岛屿。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Reuters"
+      ],
+      "date": "2026-10-01",
+      "image_urls": []
+    },
+    {
+      "id": "agri-prices-oct01",
+      "topic": "农产品/通胀",
+      "topic_tag": "macro-other",
+      "title": "全球农产品Q3涨13% 2022年初以来最大单季涨幅",
+      "summary": "全球农产品价格第三季度上涨13%，为2022年初以来最大单季涨幅；彭博十种作物指数受黑海局势紧张和极端天气推动走高，成为又一通胀压力来源。",
+      "bullets": [
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "全球农产品Q3+13% 为2022年初以来最大单季涨幅",
+          "details": "全球农产品价格第三季度上涨13%，为2022年初以来最大单季涨幅。",
+          "important": true
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "黑海紧张+极端天气推动 新通胀压力源",
+          "details": "彭博十种作物指数受黑海局势紧张和极端天气推动走高，成为又一个通胀压力来源。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-10-01",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-oil-oct01",
+      "topic": "卖方观点-原油",
+      "topic_tag": "oil",
+      "title": "GS/Jefferies/UBS：海湾出口恢复 库存走紧",
+      "summary": "GS测算波斯湾'暗出口'回升至23.3 mb/d与2025均值持平，9月出口翻倍，预计Brent年末回落至$85、2027年$80，但对升级风险溢价仍高（Dated Brent约$120）。Jefferies称本周原油+成品油总库存减少约3.01Mb远超预期1.64Mb，馏分油需求+17.3Mb/d。UBS指出美原油库存+0.9Mb反预期，炼厂利用率降至92.5%。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs Oil",
+          "actor_type": "Analyst",
+          "text": "海湾暗出口回升至23.3mb/d 预计Brent年末$85",
+          "details": "算'暗出口'的波斯湾石油出口上周回升至 23.3 mb/d，与2025年均值持平；9月出口约翻倍，驱动主要是霍尔木兹海峡出口增加（含船对船转运），尽管沙特东西向管道遇袭Yanbu流向中断近两周、胡塞封锁曼德海峡的沙特出口；原油贡献9月恢复约90%，上周达19 mb/d（2025年均值的108%）。9月全球市场大致平衡：海湾出口恢复+可见库存大体持平，OECD商业库存与2026年2月末水平相当。基准情形是中东供给适应+中国进口需求→Brent年末回落至$85/桶，2027年$80/桶。仍担心局势再升级给油价带来显著上行风险。Dated Brent仍在约$120/桶附近。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs Oil",
+          "actor_type": "Analyst",
+          "text": "成品油出口仅2025均值50% 炼厂受损+物理风险更高",
+          "details": "成品油和LPG也有增长，但柴油、汽油、航煤等主力成品油出口仍只有2025年均值的约50%，原因有二：1）炼厂受损：中东炼厂停工仍比季节性正常水平高约2.0 mb/d；原油生产设施基本未受直接打击。2）风险更高：成品油更易燃，过霍尔木兹的实物风险大于原油油轮，单位运费/保险成本相对更高，可能挤压成品油出口利润。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs Oil",
+          "actor_type": "Analyst",
+          "text": "沙特9月出口翻倍至11.6mb/d 伊朗海运出口归零",
+          "details": "各国产量分化，伊朗出口下降，其他海湾产国上升。沙特估算出口9月翻倍以上，已高于2025年均值，上周达11.6 mb/d（红海出口改走东部港口+暗转运上修）。阿联酋也高于2025年均值，仍有上修空间。伊朗卫星数据显示9月没有原油或主力成品油的海运出口。",
+          "important": false
+        },
+        {
+          "actor": "Jefferies Oil",
+          "actor_type": "Analyst",
+          "text": "原油+成品油总库存减3.01Mb 远超预期1.64Mb",
+          "details": "本周原油、汽油和馏分油总库存减少约3.01Mb，显著高于彭博社预测的1.64Mb。这一去库存现象表明市场供需关系正在收紧，对油价形成潜在支撑。尽管汽油隐含需求环比略有下降，但柴油和航空煤油需求依然保持正增长。特别是馏分油隐含需求环比增加17.3Mb/d，同比三年移动平均值高出11%。原油库存意外增加约0.9Mb，然而炼油厂开工率环比下降0.5Mb/d至16.26Mb/d。",
+          "important": false
+        },
+        {
+          "actor": "UBS Oil",
+          "actor_type": "Analyst",
+          "text": "美原油库存+0.9Mb反预期 炼厂利用率降至92.5%",
+          "details": "美国商业原油库存增加了0.9Mb，而市场共识预期为减少0.3Mb。同时SPR的释放量从上周的0.4Mb/wk增加到0.8Mb/wk（即-0.1Mb/d）。炼油厂利用率进一步下降了150bps至92.5%，而国内产量小幅上升至14.0Mb/d。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        5,
+        6
+      ],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-10-01",
+      "image_urls": [
+        "/uploads/2026-10-01/e248f9e49a04.png",
+        "/uploads/2026-10-01/ff2e5ec38d6e.png",
+        "/uploads/2026-10-01/61a9b50ce6a5.png"
+      ]
+    },
+    {
+      "id": "sellside-eco-rates-oct01",
+      "topic": "卖方观点-宏观利率",
+      "topic_tag": "rates",
+      "title": "JPM/GS/Barclays：核心PCE下修但通胀仍粘 12月加息",
+      "summary": "JPM Eco维持Q3 GDP 3.5%，8月核心PCE同比3.0%连7个月站上3%，预计美联储12月加息；GS因PCE降至3.01%将第二次加息推迟至12月，Q2 GDP上修至2.2%但8月贸易逆差扩大至$132.6B拖累Q3追踪估算至3.3%。Barclays指BEA修订将8月核心PCE下调0.4pp至3.0%，3M年化降至2.0%，维持10月暂停+12月加25bp。JPM Rates看空通胀，10Y美债一度触5.29%。",
+      "bullets": [
+        {
+          "actor": "JPM Rates",
+          "actor_type": "Analyst",
+          "text": "10Y美债触5.29% 维持做空2Yx3Y通胀互换",
+          "details": "长端美债收益率持续上行，10年期一度触及5.29%。虽然8月核心PCE环比仅0.25%、低于预期，但增长仍有韧劲叠加美联储偏鹰立场，该行维持看空通胀的偏见，并继续推荐做空2Yx3Y通胀互换，理由是这一品种的估值依旧偏贵。",
+          "important": true
+        },
+        {
+          "actor": "JPM Eco",
+          "actor_type": "Analyst",
+          "text": "维持Q3 GDP 3.5% 预计12月加息",
+          "details": "维持美国三季度GDP增长3.5%的预测。8月核心PCE同比涨3.0%，虽低于预期，但已连续7个月站在3%以上，通胀粘性仍在；二季度储蓄率上修至4.4%，缓解了家庭支出担忧。该行预计美联储12月加息。",
+          "important": false
+        },
+        {
+          "actor": "GS Eco",
+          "actor_type": "Analyst",
+          "text": "将第二次加息推迟至12月 Q3追踪3.3%",
+          "details": "因8月核心PCE同比降至3.01%、低于预期，判断10月加息可能性不大，将第二次加息推迟至12月。同期Q2 GDP上修至2.2%，消费与投资保持强劲；但8月贸易逆差扩大至132.6B，令Q3 GDP追踪估算小幅回落至3.3%。",
+          "important": false
+        },
+        {
+          "actor": "Barclays Eco",
+          "actor_type": "Analyst",
+          "text": "BEA修订将8月核心PCE下修0.4pp至3.0% 维持12月加25bp",
+          "details": "BEA修订将8月核心PCE同比下调0.4个百分点至3.0%，3个月年化率降至2.0%，主要受投资组合管理与软件服务通胀下修驱动。但12个月通胀仍在3.0%高位且通胀广度未变，维持10月暂停加息、12月加息25bp的预测。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-10-01",
+      "image_urls": []
+    },
+    {
+      "id": "kol-views-oct01",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "多KOL评通胀/利率/广度/原油",
+      "summary": "Erian认为高利率新常态是，但外溢未完全兑现；Samuel Tombs/Fwred/Anna均指Waller/Warsh偏好的通胀口径已改善；Swonk强调GDP上修意味中性利率更高、服务业通胀仍难拆；Danny认为近期无加息依据；Timmer比较今日49%广度 vs 1999-2000终局20%；Rory称伊拉克对国际油价高$37反映Hormuz运输风险；CRUDEOIL231想做空暗航流量共识；上海近称长债逼空后下季度反转。",
+      "bullets": [
+        {
+          "actor": "Timmer (Fidelity)",
+          "actor_type": "KOL",
+          "text": "当前广度49% vs 1999-2000终局仅20%",
+          "details": "1999-2000 的 blow-off 顶极度狭窄，终局只有 20% 的个股参与；今天的广度是 49%，处于高点。",
+          "important": true
+        },
+        {
+          "actor": "Erian",
+          "actor_type": "KOL",
+          "text": "进入高利率新常态 外溢未完全兑现",
+          "details": "我们是否进入了利率持续高企的新常态？外溢是否已大体兑现？我的答案：是，和没有。",
+          "important": false
+        },
+        {
+          "actor": "Samuel Tombs",
+          "actor_type": "KOL",
+          "text": "Waller偏好的动量口径8月落到2.0%",
+          "details": "Waller 偏好的动量口径（3 个月年化均值）8 月落到 2.0%，还觉得下次会议加息?",
+          "important": false
+        },
+        {
+          "actor": "Fwred",
+          "actor_type": "KOL",
+          "text": "SF联储通胀冲击动量8月显著改善",
+          "details": "软数据加修订后，SF 联储模型的通胀冲击动量指数 8 月显著改善。",
+          "important": false
+        },
+        {
+          "actor": "Anna Wong",
+          "actor_type": "KOL",
+          "text": "核心PCE动量过去3月已低于2% Warsh扩散指标也下行",
+          "details": "核心 PCE 动量过去三个月已经跑在联储 2% 目标上。Warsh 自己的 PCE 通胀扩散指标 8 月也下行（如我们此前预测）。",
+          "important": false
+        },
+        {
+          "actor": "Diane Swonk",
+          "actor_type": "KOL",
+          "text": "GDP上修→中性利率更高 服务业通胀最黏",
+          "details": "GDP 上修意味着生产率同步改善，指向中性利率更高（联储自己也在上调估计）。难点在于通胀仍然太高太黏：数据中心建设的强需求加上这些投资创造的财富，让经济更难减速。最黏最令人担忧的是服务业——医疗通胀尤其难拆，意味着联储可能要把商品价格和利率敏感部门锤得更狠。",
+          "important": false
+        },
+        {
+          "actor": "Danny Blanchflower",
+          "actor_type": "KOL",
+          "text": "有加息空间 但近期无加息依据",
+          "details": "他们有加息空间，但近期没有加息依据，更没有加这么多的依据。",
+          "important": false
+        },
+        {
+          "actor": "Rory Johnston",
+          "actor_type": "KOL",
+          "text": "伊拉克对国际油价高$37 Hormuz风险算术将崩",
+          "details": "国际油价对伊拉克高 $37：这就是当前更高 Hormuz 出货量的价格。一旦折扣收窄，Hormuz 航运的风险调整算术会迅速崩坏。",
+          "important": false
+        },
+        {
+          "actor": "CRUDEOIL231",
+          "actor_type": "KOL",
+          "text": "想做空海湾暗航流量共识",
+          "details": "暗航流量被看到不是 alpha。我真想看的是这个运行速率是否结构性可持续、还是已在筑局部顶，这方面鸦雀无声，我想做空这个共识。",
+          "important": false
+        },
+        {
+          "actor": "ShanghaoJin",
+          "actor_type": "KOL",
+          "text": "长债逼多头至断裂点 下季度逼空反转",
+          "details": "长债正在把多头逼向断裂点，但其后 100% 跟着一场逼空——方向会在下个季度的再平衡上反转。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        3,
+        4
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-01",
+      "image_urls": [
+        "/uploads/2026-10-01/3ed5339f9409.jpg",
+        "/uploads/2026-10-01/4e6c7d24dc9f.png",
+        "/uploads/2026-10-01/9bf6da8e55d0.png"
+      ]
+    },
+    {
+      "id": "other-misc-oct01",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "Fed其他官员/杂项",
+      "summary": "Cook和Core相关表态在输入中仅出现标签，无具体内容；此处作为兜底占位。",
+      "bullets": [
+        {
+          "actor": "Cook",
+          "actor_type": "Central-Bank",
+          "text": "原文中仅列姓名 无具体内容",
+          "details": "Cook —— 原输入仅出现姓名标签，未附具体发言内容。",
+          "important": false
+        },
+        {
+          "actor": "Core",
+          "actor_type": "Unknown",
+          "text": "原文中仅列标签 无具体内容",
+          "details": "Core —— 原输入仅出现标签，未附具体内容。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-10-01",
+      "image_urls": []
+    }
+  ]
+}
