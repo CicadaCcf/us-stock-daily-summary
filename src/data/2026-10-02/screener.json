@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-10-02T21:31:26+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-10-02",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12589,
+    "partial_pass": 3,
+    "with_carryover": 6,
+    "after_full_check": 1
+  },
+  "rows": [
+    {
+      "tk": "XRPN",
+      "nm": "Armada Acquisition Corp. II Class A Ordinary Shares",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 68.2,
+      "w1": 272.6,
+      "market_cap_bn": 1.25,
+      "dollar_vol_bn": 0.36,
+      "w1_avg_dollar_vol_bn": 0.1,
+      "reason": "",
+      "main_business": "空白支票公司，专注并购整合目标企业"
+    }
+  ]
+}
