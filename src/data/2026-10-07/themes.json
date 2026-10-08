@@ -1,0 +1,197 @@
+{
+  "themes": [
+    {
+      "id": "ai-infoflow-0928-1004",
+      "theme": "AI",
+      "title": "AI信息流总结 9/28-10/4",
+      "date_range": "9/28-10/4",
+      "date": "2026-10-07",
+      "tickers": [
+        "SNPS"
+      ],
+      "summary": "本周OAI ARR边际加速至接近$70B，与Anthropic进入存量竞争；需求端训练受安全扰动但整体无影响，推理端模型有效价格大幅下降对变现形成压力；供给侧Gemini 4回到一线但口碑分化，开源闭源差距拉大；监管仍以行业自律为主。",
+      "groups": [
+        {
+          "label": "ARR",
+          "entries": [
+            {
+              "source": "OAI",
+              "source_type": "OpenAI",
+              "important": true,
+              "points": [
+                "Axios报道OAI ARR接近$70B，Jason称OAI CFO Sarah确认收入仍为～$50B。详情见post"
+              ]
+            },
+            {
+              "source": "Anthropic",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "暂无最新ARR披露，本周有更多s-1财务信息披露，但均为2025数据，且与市场预期相符，无增量信息"
+              ]
+            },
+            {
+              "source": "FundaAI",
+              "source_type": "第三方",
+              "important": false,
+              "points": [
+                "OAI $47.2B, ANTH $88.2B",
+                "个人认为FundaAI的看板追踪实际上线形外推，实际节奏追踪准度较差。但因为市场影响力比较大，代表了一部分市场预期"
+              ]
+            },
+            {
+              "source": "Yipit",
+              "source_type": "第三方",
+              "important": false,
+              "points": [
+                "无最新数据更新，但发文称Axios口径与他们内部相差较大，下周发布完整更新",
+                "Yipit的数据追踪也是根据稀疏官方数据更新来校准不同渠道（大B，小B）的权重，个人认为准确度也一般"
+              ]
+            },
+            {
+              "source": "Tickertrends",
+              "source_type": "第三方",
+              "important": false,
+              "points": [
+                "OAI $50.4B，ANTH $76.8B"
+              ]
+            },
+            {
+              "source": "SA",
+              "source_type": "第三方",
+              "important": false,
+              "points": [
+                "无更新"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "需求",
+          "entries": [
+            {
+              "source": "WSJ",
+              "source_type": "训练需求",
+              "important": false,
+              "points": [
+                "OAI因对齐与安全回归问题取消原定10月的GPT-6.1 Astra发布。发布延期不能直接推导为总算力投入下降"
+              ]
+            },
+            {
+              "source": "Databricks",
+              "source_type": "推理需求-Coding",
+              "important": true,
+              "points": [
+                "Opus 5.5相较4.8兼顾质量, 带来20%的成本下降, 成为内部默认模型",
+                "GPT-6 Luna能力和opus 4.6相当，但单次任务比当时opus 4.6便宜了 99.3%, 相当于在 ~9 个月内实现了 100 倍的成本降低"
+              ]
+            },
+            {
+              "source": "Ramp AI",
+              "source_type": "推理需求-Coding",
+              "important": false,
+              "points": [
+                "模型有效价格下降对模型变现形成压力, 但样本偏向于中小公司",
+                "企业API子样本支出较7月末峰值回落约9%，同期token用量增长约30%，显示价格战后frontier lab模型有效价格下降对模型变现形成压力",
+                "并非第一次支出下降，但最近下降的程度比较大。且Ramp AI的代表性，能看中小企业的付费趋势，不能当整体企业需求的代理"
+              ]
+            },
+            {
+              "source": "OAI & SNPS",
+              "source_type": "推理需求-EDA",
+              "important": false,
+              "points": [
+                "OAI 与SNPS合作做芯片设计专用模型 GPT-Synopsys：OAI 出资后训练并付训练订阅费、与 SNPS 收入分成。SNPS 的知识和 IP 不进入任何基础模型",
+                "专业领域要靠和领域龙头合作获取领域数据和工具才能做，并不能仅实验室RSI研发快速颠覆所有垂直领域"
+              ]
+            },
+            {
+              "source": "Higgsfield",
+              "source_type": "推理需求-视频",
+              "important": false,
+              "points": [
+                "Higgsfield创始人称18个月内达到逾 $1B ARR（trailing 28d)，3个月翻倍"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "供给",
+          "entries": [
+            {
+              "source": "OAI",
+              "source_type": "企业应用能力",
+              "important": true,
+              "points": [
+                "dev day战略重点放在2B产品化，整体不及预期，详情见post",
+                "GPT-6.1 Sol 发布后需求\"历史级\"（API+订阅同时爆发），ChatGPT/Codex 一度变慢，官方称正扩容"
+              ]
+            },
+            {
+              "source": "开源闭源",
+              "source_type": "企业应用能力",
+              "important": false,
+              "points": [
+                "开放权重模型的低成本追赶难以持续：推理 trace 被隐藏使蒸馏变难，代差拉回 6-12 个月，Fable 5.1/GPT-6 比 GPT-5.6 更难蒸馏"
+              ]
+            },
+            {
+              "source": "Muse",
+              "source_type": "2C / PA",
+              "important": false,
+              "points": [
+                "热度已降，商业化短期不可见"
+              ]
+            },
+            {
+              "source": "AI4S",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "无显著进展"
+              ]
+            },
+            {
+              "source": "RSI",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "无显著进展"
+              ]
+            },
+            {
+              "source": "竞争与定价",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "无显著进展"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "监管",
+          "entries": [
+            {
+              "source": "白宫AI峰会",
+              "source_type": "",
+              "important": true,
+              "points": [
+                "多家 CEO 在白宫峰会发布 voluntary pledge，自愿承诺，没有法律约束力",
+                "监管路径是行业自律替代立法，联邦层面的硬约束风险短期下降"
+              ]
+            },
+            {
+              "source": "OAI",
+              "source_type": "OpenAI",
+              "important": false,
+              "points": [
+                "OAI 以违反敏感信息政策为由解雇三名安全/对齐研究员，被议员质疑是否解雇吹哨人；加州总检察长发出调查传票。headline为主，对训推暂无影响"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
