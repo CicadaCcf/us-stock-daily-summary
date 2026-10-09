@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  launchd watchdog: keep the dedicated debug Chrome on :9222 alive.
+
+  Runs scripts/ensure_debug_chrome.sh every 120s AND at load/login. The script
+  is idempotent: a no-op when :9222 is already serving, a relaunch (persistent
+  profile + visible window) only when it's down. So this self-heals the debug
+  Chrome within ~2 minutes of any crash / Chrome auto-update / power event,
+  WITHOUT ever killing a healthy, logged-in session.
+
+  Why StartInterval and NOT KeepAlive-on-Chrome: start/ensure detaches Chrome
+  (it forks), and a literal KeepAlive would fight Chrome's own process model and
+  could thrash the logged-in session. A short-interval idempotent check is the
+  safe way to deliver "挂了自动拉起".
+
+  Install:
+    cp scripts/com.panoramichills.debug-chrome.plist ~/Library/LaunchAgents/
+    launchctl load -w ~/Library/LaunchAgents/com.panoramichills.debug-chrome.plist
+
+  Disable / remove:
+    launchctl unload -w ~/Library/LaunchAgents/com.panoramichills.debug-chrome.plist
+    rm ~/Library/LaunchAgents/com.panoramichills.debug-chrome.plist
+
+  Logs: ~/Library/Logs/debug-chrome-watchdog.{out,err}.log (only writes when it
+  actually relaunches; a healthy no-op prints nothing).
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.panoramichills.debug-chrome</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/future/us-stock-daily-summary/.claude/worktrees/awesome-hertz-8e0ae2/scripts/ensure_debug_chrome.sh</string>
+    </array>
+
+    <!-- Check every 2 minutes. -->
+    <key>StartInterval</key>
+    <integer>120</integer>
+
+    <!-- Also fix it immediately at login / when the agent is (re)loaded. -->
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/future/Library/Logs/debug-chrome-watchdog.out.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/future/Library/Logs/debug-chrome-watchdog.err.log</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    </dict>
+
+    <key>KeepAlive</key>
+    <false/>
+</dict>
+</plist>
