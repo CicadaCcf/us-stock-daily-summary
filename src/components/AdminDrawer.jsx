@@ -58,6 +58,56 @@ async function fileToBase64(file) {
   return btoa(binary);
 }
 
+// Anthropic rejects any single image whose base64 exceeds 10 MB
+// (seen 2026-10-08: a 16 MB chart → 400 "image exceeds 10 MB maximum"), and
+// the vision models downsize anything over ~1568px on the long edge anyway —
+// so a big original is pure waste. Before SENDING to the model we shrink an
+// oversized image to fit under this budget. The ORIGINAL base64 is still what
+// we upload for display (/api/upload), so dashboard image quality is untouched.
+const MODEL_IMG_B64_BUDGET = 5 * 1024 * 1024; // comfortably under the 10 MB/image hard cap
+const MODEL_IMG_MAX_EDGE = 1568;              // Anthropic's internal downscale threshold
+
+// Returns a base64 (no data: prefix) sized for the model. Fast-paths small
+// images unchanged (preserving their original PNG/JPEG bytes so crisp charts
+// stay crisp); re-encodes only oversized ones as JPEG. The server sniffs
+// media_type from the bytes, so the PNG→JPEG switch is handled automatically.
+async function shrinkImageForModel(file, originalB64) {
+  if (originalB64.length <= MODEL_IMG_B64_BUDGET) return originalB64;
+  try {
+    const bitmap = await createImageBitmap(file);
+    const targetBlobBytes = Math.floor((MODEL_IMG_B64_BUDGET * 3) / 4); // base64 ≈ 4/3 × bytes
+    let scale = Math.min(1, MODEL_IMG_MAX_EDGE / Math.max(bitmap.width, bitmap.height));
+    let quality = 0.9;
+    let lastB64 = null;
+    for (let attempt = 0; attempt < 6; attempt++) {
+      const w = Math.max(1, Math.round(bitmap.width * scale));
+      const h = Math.max(1, Math.round(bitmap.height * scale));
+      const canvas = document.createElement('canvas');
+      canvas.width = w;
+      canvas.height = h;
+      const ctx = canvas.getContext('2d');
+      // White matte so transparent PNGs don't turn black under JPEG.
+      ctx.fillStyle = '#ffffff';
+      ctx.fillRect(0, 0, w, h);
+      ctx.drawImage(bitmap, 0, 0, w, h);
+      const blob = await new Promise((res) => canvas.toBlob(res, 'image/jpeg', quality));
+      if (blob) {
+        lastB64 = await fileToBase64(blob); // Blob has arrayBuffer() too
+        if (blob.size <= targetBlobBytes) break;
+      }
+      // Still too big: drop quality first, then dimensions.
+      if (quality > 0.6) quality -= 0.15;
+      else scale *= 0.8;
+    }
+    bitmap.close?.();
+    return lastB64 || originalB64;
+  } catch {
+    // Canvas path unavailable — fall back to the original; the model call may
+    // still reject it, but that's no worse than before this fix.
+    return originalB64;
+  }
+}
+
 function getModelOverride() {
   try { return localStorage.getItem(MODEL_LS_KEY) || ''; } catch { return ''; }
 }
@@ -84,13 +134,17 @@ function IngestTab({ kind, date }) {
   async function onAddFiles(e) {
     const files = Array.from(e.target.files || []);
     if (!files.length) return;
-    const newOnes = await Promise.all(files.map(async (f) => ({
-      name: f.name,
-      b64: await fileToBase64(f),
-      previewUrl: URL.createObjectURL(f),
-      url: null, // persistent URL from /api/upload; filled async below
-      uploading: true,
-    })));
+    const newOnes = await Promise.all(files.map(async (f) => {
+      const b64 = await fileToBase64(f);
+      return {
+        name: f.name,
+        b64,                                        // original — uploaded for display
+        modelB64: await shrinkImageForModel(f, b64), // shrunk copy — sent to the model
+        previewUrl: URL.createObjectURL(f),
+        url: null, // persistent URL from /api/upload; filled async below
+        uploading: true,
+      };
+    }));
     setImages((prev) => [...prev, ...newOnes]);
     e.target.value = '';
     // Upload each in parallel; backfill persistent URL.
@@ -155,7 +209,7 @@ function IngestTab({ kind, date }) {
           kind,
           date,
           text: text.trim() || undefined,
-          images: images.length > 0 ? images.map((i) => i.b64) : undefined,
+          images: images.length > 0 ? images.map((i) => i.modelB64 || i.b64) : undefined,
           image_urls: images.length > 0 ? images.map((i) => i.url).filter(Boolean) : undefined,
           model: getModelOverride() || undefined,
         }),
