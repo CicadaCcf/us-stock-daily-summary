@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-10-09T21:31:43+00:00",
+  "date": "2026-10-09",
+  "since": "2026-10-07T20:00:00+00:00",
+  "by_ticker": {
+    "FSLY": [
+      {
+        "headline": "Fastly: Riding the Agentic AI Wave",
+        "url": "https://www.zacks.com/commentary/3004029/fastly-riding-the-agentic-ai-wave?cid=CS-ZC-FT-investment_ideas-3004029",
+        "source": "Zacks Investment Research",
+        "published_at": "2026-10-09T16:19:00Z",
+        "image": "https://staticx-tuner.zacks.com/images/articles/main/e1/205.jpg",
+        "description": "Fastly, an edge cloud platform company, is well-positioned to capitalize on the emerging agentic AI wave. Unlike traditional LLMs, autonomous AI agents require low-latency execution and continuous querying, which Fastly's edge infrastructure and security tools are optimized to provide. The company shows strong earnings growth with consensus estimates of 71.43% quarterly growth and 307.69% for full-year 2026, while consistently beating analyst expectations. Evidence suggests Meta's popular Muse p"
+      }
+    ],
+    "CCI": [],
+    "XP": []
+  }
+}
