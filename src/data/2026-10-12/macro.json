@@ -1,0 +1,519 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis-oct2026",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "美伊对峙升级：海峡袭击创战争新高，Trump 放话中期选举前行动",
+      "summary": "Trump 对伊措辞再度升级，暗示中期选举前可能对伊采取行动，并与沙特王储通话讨论打击胡塞。与此同时，波斯湾商船遇袭速度创战争以来最快，利雅得机场再度被袭致 12 死 309 伤，沙特拦截弹库存告急，MBS 已在宫殿与掩体间穿梭。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：伊朗\"要么交出一切要么不复存在\"，中期选举前可能行动",
+          "details": "Trump 称伊朗是\"疯子国家\"，警告\"他们大概会在选举前再多做点什么，想伤我，但我们可以很快结束这件事\"；无论如何很快就会结束，战争结束后价格就会下降；伊朗要么把一切交出来，要么不复存在，他们心里清楚；有可能在中期选举前对伊朗采取行动。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump 将与 MBS 通话，暗示可能参与沙特对胡塞打击",
+          "details": "Trump 表示他将与沙特王储小萨勒曼通话，并称\"我们与胡塞有过沟通，他们干的事非常恶劣\"；被问是否参与沙特对胡塞的打击——\"我们可能会。我们会看看。我们行动很快\"。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump 批评诺贝尔和平奖，自称阻止伊朗拥核",
+          "details": "Trump 批评诺贝尔和平奖结果，称自己阻止了伊朗拥核并阻止其摧毁以色列、中东和欧洲，把伊朗列为他预期\"解决或打赢\"的两场冲突之一。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "沙特拦截弹告急，MBS 在宫殿与掩体间穿梭",
+          "details": "WSJ 报道沙特官员表示，拦截弹库存正在减少，防空电池正在调动以保护能源基础设施和王宫；MBS 在戒备森严的宫殿和掩体之间穿梭。",
+          "important": false
+        },
+        {
+          "actor": "GACA",
+          "actor_type": "Foreign-Gov",
+          "text": "利雅得国王哈立德机场再遭袭：12 死 309 伤",
+          "details": "利雅得国王哈立德国际机场再遭袭；沙特民航总局（GACA）确认 12 死、309 伤，机场暂时停运。",
+          "important": false
+        },
+        {
+          "actor": "UKMTO",
+          "actor_type": "新闻",
+          "text": "UKMTO：10 月第一周商船遇袭 16 起，霍尔木兹占 15 起",
+          "details": "UKMTO 周报：10 月第一周商船遇袭 16 起，其中霍尔木兹海峡 15 起、波斯湾 1 起。图表显示 9/29–10/5 一周海峡与波斯湾商船遇袭 11 艘，为战争以来最密集；10/7 与 10/9 袭击已扩散至卡塔尔以北与阿联酋海域。",
+          "important": false
+        },
+        {
+          "actor": "Aramco",
+          "actor_type": "Corporate",
+          "text": "阿美下月将向欧洲客户供应全额石油",
+          "details": "阿美下月将向欧洲客户供应全额石油。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        9
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "FT",
+        "UKMTO",
+        "GACA",
+        "Vortexa"
+      ],
+      "date": "2026-10-12",
+      "image_urls": [
+        "/uploads/2026-10-12/2c5531601544.png",
+        "/uploads/2026-10-12/8cdbaff77caa.png"
+      ]
+    },
+    {
+      "id": "ukraine-russia-energy-ceasefire",
+      "topic": "俄乌能源停火",
+      "topic_tag": "geo",
+      "title": "Trump 宣布俄乌\"能源停火\"，乌方指为给普京的\"生日礼物\"",
+      "summary": "Trump 宣布立即生效的俄乌能源停火，要求泽连斯基停击炼厂并公开喊话乌克兰换领导人。乌方愿接受但要求细节与互惠；FT 披露华盛顿威胁若不停打将切断情报与武器\"池\"机制。停火后俄仍袭击哈尔科夫发电厂。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump 宣布立即生效的俄乌能源停火，喊话乌换领导人",
+          "details": "Trump 宣布立即生效的俄乌\"能源停火\"；要求泽连斯基停止打击炼厂，并公开喊话乌克兰该换领导人。",
+          "important": true
+        },
+        {
+          "actor": "FT",
+          "actor_type": "新闻",
+          "text": "FT：美威胁切断武器\"池\"机制与情报共享",
+          "details": "FT 报道欧洲官员表示华盛顿威胁称，除非基辅停止对俄罗斯能源基础设施的打击，否则将停止向乌克兰供应美国武器的\"普尔\"（pool）机制，并切断情报共享。",
+          "important": false
+        },
+        {
+          "actor": "泽连斯基",
+          "actor_type": "Foreign-Gov",
+          "text": "乌支持法案但等细节、要求俄方互惠；指责 Trump 软弱",
+          "details": "乌克兰支持该法案，但\"在等待细节\"，并要求俄罗斯给予互惠；该报告未包含俄罗斯的确认。泽连斯基告诉《Axios》，这\"既不公平也不诚实\"，是特朗普的\"软弱表现\"，也是送给普京的\"生日礼物\"。",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "停火宣布后俄仍袭哈尔科夫发电厂",
+          "details": "特朗普宣布停火后，俄罗斯袭击了哈尔科夫的一座发电厂，并报告俄罗斯持续对乌克兰能源基础设施的攻击。",
+          "important": false
+        },
+        {
+          "actor": "@tleilax___",
+          "actor_type": "KOL",
+          "text": "KOL：俄乌协议是障眼法，意在削弱对俄制裁",
+          "details": "@tleilax___ 称特朗普/俄罗斯协议就是个障眼法。俄罗斯几乎没有柴油可以出口到美国，一个月前他们还在从韩国进口；重点在于逐步削弱针对俄罗斯的制裁，为特朗普的核心圈子以优惠条件投资目前受制裁的俄罗斯企业铺路，维特科夫对此毫不掩饰。TankerTrackers 则辟谣网传已抵美东的俄柴油船——既不是柴油也不是俄船。",
+          "important": false
+        },
+        {
+          "actor": "Rory",
+          "actor_type": "KOL",
+          "text": "Rory：11 月 500 kt 柴油仅相当于俄产能零头",
+          "details": "Rory 指出 11 月 500 kt 只是 125 kbpd 的柴油；当俄罗斯的炼油厂没被乌克兰无人机轰炸时，其出口量通常是这个的近十倍。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "FT",
+        "Axios"
+      ],
+      "date": "2026-10-12",
+      "image_urls": []
+    },
+    {
+      "id": "fed-cook-hearing-hammack",
+      "topic": "美联储",
+      "topic_tag": "fed",
+      "title": "白宫 11/5 对 Fed 理事 Cook 举行闭门听证；Hammack 偏鹰",
+      "summary": "11/5 白宫将对 Fed 理事 Cook 举行闭门听证，由三名 Trump 任命者组成的委员会质询并建议是否构成 cause；听证次日 Cook 与 DOJ 须向地区法官 Cobb 提交诉讼推进方案。Hammack 表示利率需超过 3.75–4%，倾向于小幅更频繁加息。",
+      "bullets": [
+        {
+          "actor": "Nick",
+          "actor_type": "新闻",
+          "text": "11/5 白宫闭门听证 Cook，为 Trump 再次开除铺程序",
+          "details": "11/5 在白宫对 Fed 理事 Cook 举行闭门听证，司法部律师在三名 Trump 任命者组成的委员会面前质询她，委员会再建议是否构成 cause。听证次日 Cook 与 DOJ 就要向地区法官 Cobb 提交诉讼推进方案——这是对最高法院 procedure 意见的程序补课，若委员会建议免职，Trump 可再次开除并主张程序已完备。",
+          "important": true
+        },
+        {
+          "actor": "Hammack",
+          "actor_type": "Central-Bank",
+          "text": "Hammack：利率需超 3.75–4%，加息是补充不是替代",
+          "details": "Hammack 表示利率需要超过 3.75–4%，倾向于小幅、更频繁地加息，因为强劲的需求支撑了企业的定价能力。她拒绝将高利率作为美联储加息的替代方案：\"这不是替代品，而是补充\"。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-12",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-macro-views-oct18",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "卖方汇总：GS 看 SPX 8700、Citi 调升至 8100；利率与油价分歧",
+      "summary": "GS 维持长线看多 SPX 至 8700、看多 5-10Y 利率并上调 2026 布油至 90 美元；Citi 上调 SPX 至 8100、看核心 CPI 环比 0.18%；MS 认为当前 10Y 5.25% 已具吸引力但建议暂缓加久期；JPM 油市报告聚焦运力瓶颈推升综合到岸成本至 143 美元；HSBC 维持最大超配股票、低配主权债。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs US Weekly Kickstart",
+          "actor_type": "Analyst",
+          "text": "GS：2027 美股发行 600B 创新高，SPX 12 月目标 8700",
+          "details": "GS 预计 2027 年美股企业股票发行量将达 600B 创历史新高，其中 IPO 约 175B，占总市值约 0.8%（十年均值水平）。尽管解禁与发行带来净供给压力，但 2027 年回购预计达 1.7T，叠加现金并购与家庭及外资流入，总需求将超 2T 形成强力支撑。结合美债利率下行与企业盈利预期增长 11%，高盛看多 SPX，12 个月目标点位达 8700 点。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs GRN",
+          "actor_type": "Analyst",
+          "text": "GS GRN：战术淡化 10Y 弱势，5s10s30s 飞蝇接收 10Y",
+          "details": "尽管估值层面看空仍存，但长期远期利率相对公允价值偏高，且凸性风险已显著降低。随着 MBS 凸性接近零与资管减少久期敞口，收益率上行技术面压力减轻。GS 认为宏观不确定性是此前长端承压主因，战术上应淡化 10Y 近期弱势，建议在 5s10s30s SOFR 飞蝇中接收 10Y。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs US Daily",
+          "actor_type": "Analyst",
+          "text": "GS Daily：Fed 预计两次 25bps 季度加息，看多 5-10Y",
+          "details": "Fed 预计将进行两次季度性 25BPS 的渐进式加息，宏观背景对利率多头相对友好。历史数据显示，一旦确认核心通胀见顶，收益率往往迅速回落，通胀峰值后一年曲线平均下降 40BPS。曲线策略上看多 5-10Y，认为曲线中部滞后表现主要反映异常风险溢价。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs Oil",
+          "actor_type": "Analyst",
+          "text": "GS 油：2026 年末布油预测由 85 上调至 90 美元",
+          "details": "GS 将 2026 年 12 月布油预测从 85 美元/桶上调至 90 美元/桶，2027 年均价维持 80 美元/桶。尽管波斯湾出口恢复，但供应下行风险令目前超 20 美元/桶的价差风险溢价回落放缓，价格高企源于供应下行风险、库存不足以及利率对油价高度敏感。基准情景市场将于 2026Q4 转向过剩，但地缘上行风险显著。",
+          "important": false
+        },
+        {
+          "actor": "JPM Oil Flash Note",
+          "actor_type": "Analyst",
+          "text": "JPM 油：运力瓶颈推高中东到中国综合成本至 143 美元",
+          "details": "10 月油市重现 4 月紧张但驱动完全不同：4 月为中东供应骤降物理短缺，当前是中东产量恢复后（霍尔木兹流量从 7.5 Mb/d 升至 12 Mb/d）大量原油涌入，却因油轮周转效率下降（部分船只被美对伊制裁封锁、航行时间延长、船对船转运增加）造成 VLCC 运力极紧。约 124 艘伊朗 VLCC（占全球船队 13%）因制裁实际无法使用，中东原油运输需额外增加 35 艘 VLCC、13 艘 Suezmax、10 艘 Aframax。中东至中国 VLCC 运费达 35 美元/桶（年初仅 3），美湾至中国 41 美元/桶，买家仅运费成本就超 30 美元/桶，中东到中国综合成本升至 143 美元/桶，显著高于巴西与美国原油。西北欧加氢裂化利润已从 8 美元/桶跌至 -14 美元/桶，调整将来自需求端。",
+          "important": false
+        },
+        {
+          "actor": "Barclays Oil",
+          "actor_type": "Analyst",
+          "text": "Barclays：实物市场极度紧张，即期布油 130 vs 远期 102",
+          "details": "尽管关键基准期货显示本周油价随中东流动稳定略有企稳，但实物市场仍极度紧张。截至本月，Argus 数据即期布油均价 130 美元/桶，2026 年 12 月到期布油期货 102 美元/桶，显著现货溢价。上周通过霍尔木兹净出口 940 万桶/日（前一周 1210 万）；考虑沙特、阿联酋、伊拉克管道 bypass 与阿曼湾 STS，升级新阶段前 85 天地区净出口均为 15M b/d，较战前水平下降 34%。布油/WTI 净管理资金持仓本周初处于第 22 百分位，投机多头并不拥挤。巴克莱维持 2026/2027 布油 100/85 美元预测。",
+          "important": false
+        },
+        {
+          "actor": "JPM Commodity",
+          "actor_type": "Analyst",
+          "text": "JPM：极强厄尔尼诺概率 90%，欧盟小麦减产 8%",
+          "details": "JPM 农业大宗商品报告指出，极端天气严重冲击全球及欧洲农产品供给。NOAA 预测秋冬出现\"非常强\"厄尔尼诺概率达 90%。欧盟小麦产量预计同比下降 8%，期末库存降至 1352 万吨；玉米产量预计创 14 季以来新低；糖产量预计同比削减约 20%，法国甜菜收成恐跌至 1980 年以来低点。供应收紧叠加地缘扰动下，欧洲粮糖价格普遍维持高位。",
+          "important": false
+        },
+        {
+          "actor": "Morgan Stanley Rates",
+          "actor_type": "Analyst",
+          "text": "MS：10Y 5.25% 已具吸引力，但 FOMC/中期选举前暂缓加久期",
+          "details": "MS 认为，除非未来十年名义 GDP CAGR 达 5.7% 且核心 PCE >2.5%（重复含疫情十年表现），否则当前 10Y 5.25% 具吸引力。MS 经济学家预测 2027 年名义 GDP 增速约 4.5%，若未来十年名义 GDP 复合 4%–5% 且核心 PCE 2%，参考 QE 前历史，10Y 合理区间 3.5%–4.5%。鉴于 10/28 FOMC 与 11/3 中期选举，建议事件明朗前暂缓增加久期。中期选举可能改变伊朗对霍尔木兹态度进而影响能源价格。",
+          "important": false
+        },
+        {
+          "actor": "Citi Macro",
+          "actor_type": "Analyst",
+          "text": "Citi：SPX 2026 底目标上调至 8100；10Y 看至 5.00%",
+          "details": "Citi 短期因 Fed 政策不确定性不建议逢低买入美债，中期看好 3-5Y 配置价值；预计财政部 11 月可能削减 20 年期发行，建议做多 10s20s 利差，并维持做空 2 年期盈亏平衡；基准 2026 年底 10Y 美债 5.00%。预测美国 9 月核心 CPI 环比 0.18%（市场共识 0.2%）且下行风险更大，8 月推高通胀的无线服务与学费等临时扰动预计 9 月逆转。将 2026 年底 SPX 上调至 8100，对应 2026/2027 EPS 365/400 美元；超配半导体、非必需消费品与医疗，低配金融和硬件。",
+          "important": false
+        },
+        {
+          "actor": "DB FX",
+          "actor_type": "Analyst",
+          "text": "DB FX：叙事钟摆已过度摆向\"财政失控长端\"一侧",
+          "details": "去年此时主流叙事是\"AI 具有通缩效应\"且\"美国财政部不会允许债券抛售\"，今年叙事转为\"AI（及其带来的发行需求）是高收益率主要驱动\"以及\"美国财政部已失去对长端利率的控制\"。尽管有暂停 20Y 和缩短供应期限的传闻，但客户对固收普遍谨慎。作者认为叙事钟摆已过度摆向另一个极端。",
+          "important": false
+        },
+        {
+          "actor": "DB Fall Macro Conference",
+          "actor_type": "Analyst",
+          "text": "DB 秋季宏观会要点：中性利率可能大幅上升，预计再加息 2-3 次",
+          "details": "民主党可能赢得众议院控制权，参议院胶着；若民主党控制众议院或参议院且共和党未在跛脚鸭会期通过协调程序解决债务上限，2027 年可能出现债务上限僵局。AI 模型能力达或超最乐观预期但采用率滞后；AI capex 对增长有实质影响，但对生产率与整体就业影响尚不明显。中性政策利率可能已上升甚至大幅上升；基准预期是除非金融条件显著收紧，否则 Fed 将继续以温和步伐加息，预计再加息 2-3 次。基准偏向更高利率，但鉴于收益率近期急剧上升，风险分布可能转向更低利率；股票类似，基准更高价格但风险分布向下。",
+          "important": false
+        },
+        {
+          "actor": "HSBC October 2026",
+          "actor_type": "Analyst",
+          "text": "HSBC：维持最大超配股票、最大低配主权债",
+          "details": "全球经济增长保持韧性但通胀风险上升，央行对政策信誉担忧，财政风险上升。预计美联储和日本央行将再加息 25BPS，欧洲央行 2027 年初前再加息 2 次；除非能源价格大幅回落，英国央行可能 11 月和 2 月各加息 25BPS，随后 2027 年 7 月逆转。对美债持中性但认为风险不对称倾向曲线变陡，上调英国 Gilt 收益率预测。多资产维持最大幅度超配股票、最大幅度低配主权债券。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY"
+      ],
+      "image_indexes": [
+        0,
+        8
+      ],
+      "importance": 3,
+      "sources": [
+        "Goldman Sachs",
+        "JPM",
+        "Barclays",
+        "Morgan Stanley",
+        "Citi",
+        "Deutsche Bank",
+        "HSBC"
+      ],
+      "date": "2026-10-12",
+      "image_urls": [
+        "/uploads/2026-10-12/ddc68fdbc9f2.png",
+        "/uploads/2026-10-12/0f6a960816ca.png"
+      ]
+    },
+    {
+      "id": "kol-views-oct18",
+      "topic": "KOL 观点",
+      "topic_tag": "macro-other",
+      "title": "KOL 汇总：Burry 警告 Denial；Dow 谈利率去僵化；小盘与油轮运费段子",
+      "summary": "Burry 以 2000 年类比当前新高下的\"Denial\"心态；Mark Dow 认为全球正在\"自愿去久期\"；Timmer 跟踪 2017-18 与 2021-22 两剧本；多位 KOL 评论 AI 泡沫脆弱性、油轮运费超越火箭发射，以及中东与中期选举的尾部情景。",
+      "bullets": [
+        {
+          "actor": "Michael Burry",
+          "actor_type": "KOL",
+          "text": "Burry：类比 2000 年初，70-80% 股票已熊、指数仍新高——\"Denial\"",
+          "details": "Michael Burry：2000 年初 70-80% 的股票已在熊市里，指数继续新高——我对此有个词：Denial。",
+          "important": true
+        },
+        {
+          "actor": "Jospeh",
+          "actor_type": "KOL",
+          "text": "Jospeh：中东和平若在中期选举前落地，美股或迎 blowoff top",
+          "details": "Jospeh：中东局势依然是通胀与利率核心；乌克兰对俄炼厂袭击与中东冲突持续限制柴油与原油供应，尽管总统尝试下调柴油税并推动外交斡旋，但只有中东达成和平协议才能真正让能源价格与美债收益率大幅回落。由于美军与伊朗处于\"互相保证毁灭\"的杠杆对峙，再次爆发大规模全面热战概率极低；若中期选举前实现外交和解，美股有望迎来类似互联网泡沫时期的 blowoff top。FT 报道引发 AI 板块短暂恐慌，尽管市场随后认定报道存在误读并收复失地，但凸显投资者对高估值 AI 泡沫内部脆弱性与极度敏感（jitteriness）。10Y 拍卖强劲、Fed 明确排除 10 月加息、美债市场企稳，30Y TIPS 真实收益率升至 3.3% 多年新高，本金随 CPI 调升。",
+          "important": false
+        },
+        {
+          "actor": "Mark Dow",
+          "actor_type": "KOL",
+          "text": "Mark Dow：全球自愿去久期，债券超卖但去僵化仍是逆风",
+          "details": "mark_dow：近 15 年停在同一政策利率附近让所有金融结构固化了低利率假设，2023 年 SVB 是第一次暴力提示，2025 年起市场终于接受利率不会有意义回落，于是全球自愿地一码一码解除久期自满。当下债券严重超卖、已定价近 5% 政策利率、随时可反弹，但去僵化会断断续续地继续构成逆风。",
+          "important": false
+        },
+        {
+          "actor": "Bob",
+          "actor_type": "KOL",
+          "text": "Bob：ARR 远非真实收入，AI 支出增长看起来越来越线性",
+          "details": "Bob：VC 圈待过一分钟的人都知道 ARR 与真实收入相去甚远。宏观定性：整个市场是一注押在 AI 抛物线增长上的大赌注，而支出增长看起来越来越线性。",
+          "important": false
+        },
+        {
+          "actor": "Timmer",
+          "actor_type": "KOL",
+          "text": "Timmer：从盈利+宽松放大移向盈利+紧缩拖累",
+          "details": "Timmer：从盈利上升+宽松放大移向盈利上升被紧缩财务条件拖，继续同时跟踪 2017-18 与 2021-22 两个剧本；2009 年起步的世俗牛已到产出超额回报的最后几局。",
+          "important": false
+        },
+        {
+          "actor": "TradetheMatrix",
+          "actor_type": "KOL",
+          "text": "TradetheMatrix：年内押注安保/生物科技/油轮/货运",
+          "details": "TradetheMatrix：十年小盘今年是记忆中最慢的一年——没有热门板块、地缘高压、Fed 加息周期，2025 的 risk-on 与 2026 完全切换。年内剩余机会押在安保、生物科技、油轮航运、货运物流，科技与加密在资本紧缩期热不起来。",
+          "important": false
+        },
+        {
+          "actor": "@BurggrabenH",
+          "actor_type": "KOL",
+          "text": "@BurggrabenH：美-中油轮运费 80M，比猎鹰 9 发射 74M 还贵",
+          "details": "@BurggrabenH：现在从美国租一艘油轮到中国，比把火箭发射进太空还贵。这趟航程要 80M，而 SpaceX 猎鹰 9 号发射只要 74M。",
+          "important": false
+        },
+        {
+          "actor": "Rory",
+          "actor_type": "KOL",
+          "text": "Rory：霍尔木兹袭击正逆转流量复苏，但仍过 10 MMbpd",
+          "details": "Rory：看涨——这些袭击不出所料似乎正在减缓、并至少部分逆转霍尔木兹石油流量近期强劲的复苏；看跌——这现在是战争中霍尔木兹袭击最密集的时期，而我们仍有超过 10 MMbpd 通过该海峡。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2,
+        3,
+        4
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-12",
+      "image_urls": [
+        "/uploads/2026-10-12/81ebd73a5513.png",
+        "/uploads/2026-10-12/b7368fb83991.png",
+        "/uploads/2026-10-12/544738c68b0f.png"
+      ]
+    },
+    {
+      "id": "ai-infra-ma-oct18",
+      "topic": "AI 基建与并购",
+      "topic_tag": "ai",
+      "title": "NVDA 洽购 Reflection、AMZN 洽购 Decart；Anthropic 向 Meta 求算力",
+      "summary": "NVIDIA 初步谈判收购或追加投资 Reflection AI（最新估值 25B）；亚马逊洽谈约 7B 收购 Decart 以助力 Trainium 推广；Anthropic 向 Meta 寻求额外算力但 Meta 暂拒；Broadcom CEO 称资本将是最大约束；中西部摇摆州反数据中心成中期选举核心议题。",
+      "bullets": [
+        {
+          "actor": "NVIDIA",
+          "actor_type": "Corporate",
+          "text": "NVIDIA 初步洽购开源权重初创 Reflection AI（估值 25B）",
+          "details": "NVIDIA 在初步谈判收购或追加投资开源权重初创 Reflection AI，Reflection 最近估值为 25B。",
+          "important": true
+        },
+        {
+          "actor": "Amazon",
+          "actor_type": "Corporate",
+          "text": "亚马逊洽谈约 7B 收购 Decart，助推 Trainium 普及",
+          "details": "亚马逊正洽谈以约 7B 元收购 Decart。其软件允许开发者在不同 AI 芯片之间切换，有望促进亚马逊 Trainium 的普及；据消息人士透露，协议可能很快达成。",
+          "important": false
+        },
+        {
+          "actor": "Anthropic / Meta",
+          "actor_type": "Corporate",
+          "text": "Anthropic 向 Meta 求额外算力，Meta 暂时拒绝",
+          "details": "WSJ 报道 Anthropic 向 Meta 寻求额外计算能力，Dario Amodei 今年早些时候曾与 Meta AI 负责人王亚历山大进行了交谈。Meta 曾考虑供应芯片，但最终暂时拒绝。",
+          "important": false
+        },
+        {
+          "actor": "Hock Tan",
+          "actor_type": "Corporate",
+          "text": "Broadcom CEO：资本将是最大限制",
+          "details": "Broadcom CEO Hock Tan 表示，随着人工智能开发的持续，资金将成为公司面临的最大限制。陈表示，公司正在克服晶圆短缺和内存短缺，但资本将是最大的限制。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "俄亥俄/密歇根中期选举：近八成选民支持暂停数据中心施工",
+          "details": "WSJ 报道反对数据中心的议题正成为俄亥俄州和密歇根州中期选举的核心议题。两位密歇根州参议员候选人都呼吁暂停施工，而在九月的民调中，近八成可能选民支持暂时暂停施工。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "AMZN",
+        "META",
+        "AVGO"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-10-12",
+      "image_urls": []
+    },
+    {
+      "id": "iea-diesel-release",
+      "topic": "IEA 柴油释放",
+      "topic_tag": "oil",
+      "title": "IEA 敦促加快释放战略柴油储备",
+      "summary": "IEA 负责人比罗尔周日敦促成员加快此前承诺的战略柴油释放，并考虑进一步释放，映射当前中东地缘与俄炼厂受袭下的柴油紧张局面。",
+      "bullets": [
+        {
+          "actor": "Fatih Birol / IEA",
+          "actor_type": "Foreign-Gov",
+          "text": "IEA 敦促成员加快战略柴油释放，并考虑进一步释放",
+          "details": "FT 报道 IEA 负责人法提赫·比罗尔周日敦促成员加快此前承诺的战略柴油释放，并考虑进一步释放。",
+          "important": true
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "背景：霍尔木兹袭击创战争新高、俄炼厂频遭袭推高柴油紧张",
+          "details": "IEA 行动背景为霍尔木兹海峡袭击创战争以来最密集水平（11 ships hit in 7 days 29 Sep–5 Oct），叠加乌克兰对俄炼厂持续打击及俄乌能源停火尚未落地，全球柴油供应极度紧张。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "FT"
+      ],
+      "date": "2026-10-12",
+      "image_urls": []
+    },
+    {
+      "id": "china-nev-export-rebate",
+      "topic": "中国新能源车出口退税",
+      "topic_tag": "policy",
+      "title": "中国财政部下调新能源车出口退税率至 9%",
+      "summary": "中国财政部将新能源汽车的增值税出口退税率由 13% 下调至 9%。",
+      "bullets": [
+        {
+          "actor": "中国财政部",
+          "actor_type": "Foreign-Gov",
+          "text": "新能源汽车增值税出口退税率由 13% 下调至 9%",
+          "details": "财政部将新能源汽车的增值税出口退税率由 13% 下调至 9%。",
+          "important": true
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "参考：人民币 REER (PPI) 已跌至 84.8，制造业出口价格承压",
+          "details": "参考图表显示 CNY NEER 升至 117.5、CNY REER (CPI) 97.4、CNY REER (PPI) 84.8，PPI 口径实际有效汇率自 2022 年高点大幅走弱，叠加出口退税下调对新能源车产业链出口竞争力的影响值得关注。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        7
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-10-12",
+      "image_urls": [
+        "/uploads/2026-10-12/274ef1964e32.png"
+      ]
+    },
+    {
+      "id": "other-misc-charts-oct18",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "其他：代际收入、ChatGPT 发布后青年就业分化",
+      "summary": "其他未归入主卡的图表与观察：美国代际中位实际家庭人均收入显示 Millennials 40–45 岁已追平历史峰值；中国分年龄组就业指数在 ChatGPT 发布后出现明显分化，22-25 青年组降至 88，而 41-49 中坚组升至 110。",
+      "bullets": [
+        {
+          "actor": "@ermineschi",
+          "actor_type": "KOL",
+          "text": "美国代际收入：Millennials 40-45 岁已达 120k 峰值",
+          "details": "US Median Real Family Income per Person by Age & Generation（2025 美元不变价）显示 Millennials 在 40-45 岁已达约 120,000 美元峰值，追平/超越 Greatest 世代历史高点；Gen X 50-55 岁约 110,000；Boomers 50 岁约 110,000；Silent 50-60 岁约 100,000；Greatest 60 岁峰值约 120,000；Gen Z 年轻年龄段约 80,000。",
+          "important": true
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "中国分年龄组就业指数：ChatGPT 发布后代际分化显著",
+          "details": "以 2022.11.1=100 为基准，ChatGPT 发布后各组走势：青年组 1(22-25) 降至 ~88；青年组 2(26-30) 降至 ~97；职业上升期(31-34) 稳定在 ~102；中坚组 1(35-40) 稳定在 ~102；中坚组 2(41-49) 升至 ~110；高级组(50+) 峰值 ~106 后回落至 ~105。显示 AI 对入门级与初级白领岗位冲击最大。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        5,
+        6
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-10-12",
+      "image_urls": [
+        "/uploads/2026-10-12/a869910529a6.png",
+        "/uploads/2026-10-12/a4e01ac5524c.png"
+      ]
+    }
+  ]
+}
