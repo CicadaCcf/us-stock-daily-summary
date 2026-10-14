@@ -1,0 +1,261 @@
+{
+  "themes": [
+    {
+      "id": "ai-infoflow-1005-1011",
+      "theme": "AI",
+      "title": "AI信息流总结 10/5–10/11",
+      "date_range": "10/5-10/11",
+      "summary": "本周ARR增速平缓，OAI年化收入被修正至~$50bn引发对AI labs增速能否支撑capex的质疑；供给侧价格战加剧模型产品化压力，AI4S与RSI叙事持续炒作但实验验证仍是瓶颈；Nolla Health在犹他州首次获批AI开处方。",
+      "tickers": [
+        "MSFT",
+        "META",
+        "GOOGL",
+        "NVDA"
+      ],
+      "date": "2026-10-13",
+      "groups": [
+        {
+          "label": "ARR",
+          "entries": [
+            {
+              "source": "OAI",
+              "source_type": "",
+              "important": true,
+              "points": [
+                "Axios 将此前报道的 ~$70bn 年化收入修正为 ~$50bn",
+                "市场上有两种解释，一种认为增速没变，只是Gross/Net口径的调整，一派认为$70B是OAI年末ARR的KPI，此前是谣传，质疑AI labs增速能否支撑AI capex",
+                "实际上OAI ARR目前 ～$60B，Gross/Net的解释一定是错误的"
+              ]
+            },
+            {
+              "source": "Anthropic",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "Information报道微软、Meta 削减内部 Claude 用量，meta削减主要是因为公司推自研工具+裁员"
+              ]
+            },
+            {
+              "source": "第三方跟踪",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "目前来看Tickertrends/Yipit跟踪较为准确, Funda Anth的追踪偏离太多",
+                "Yipit: 10/8更新截止9/27的数据，OAI ~$48bn， Anth ~$74bn",
+                "Funda：10/11 页面显示 OAI ~$50.6bn、Anthropic ~$102.7bn",
+                "Ticker trends：未更新，目前仍是9月底估计OAI ~$50.4B，Anth ~$76.8B",
+                "TT的估计方法未充分披露"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "需求",
+          "entries": [
+            {
+              "source": "训练/AI安全",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "Pacing the frontier对模型投入减速的担忧本身已反转，本周只是进一步证实frontier labs很难减速",
+                "Dario 和 Sam 此前推动减速，目前仅落地嵌入式第三方评估，但最近OAI把对接 METR 的人开了。第三方合同几周内公开，若届时METR不在名单或访问权限缩水，pacing the frontier叙事则无实质落地，只剩公关"
+              ]
+            },
+            {
+              "source": "推理-概述",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "企业端走平，2C热度消退，市场关注AI4S能否打开收入想象空间, 市场炒作AI4S的验证瓶颈相关标的"
+              ]
+            },
+            {
+              "source": "企业-a16z",
+              "source_type": "a16z",
+              "important": false,
+              "points": [
+                "Agent带动token用量继续扩张，但单任务支出被便宜模型和路由压低",
+                "agent 消耗的 token 约为人的 5X，六个月增长 14X"
+              ]
+            },
+            {
+              "source": "企业-金融 Alphasense",
+              "source_type": "",
+              "important": true,
+              "points": [
+                "Alphasense：上季度新增 1 万+ 投行用户，覆盖前 20 大投行中的 18 家，该板块 ARR YoY +75%"
+              ]
+            },
+            {
+              "source": "2C-Muse (Coatue)",
+              "source_type": "Coatue",
+              "important": false,
+              "points": [
+                "图表显示Muse downloads快于chatgpt和gemini",
+                "本身推广力度和市场教育水平不一样，最近Muse DAU增长缓慢，热度回落，关注retention和具体是否有消费闭环"
+              ]
+            },
+            {
+              "source": "2C-Muse (Funda)",
+              "source_type": "Funda",
+              "important": false,
+              "points": [
+                "自有样本估计 Muse 的 D14 留存在观察期内由约 9% 升至 16%。预期Meta推广获客会随留存和成本改善而分阶段推进，但中期预期无收入贡献"
+              ]
+            },
+            {
+              "source": "AI4S",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "需求侧主要讨论实验与临床验证能否可靠地区分\"真正有效\"和\"只满足测试指标(reward hack)\"，这决定了黑箱AI能否应用于医疗中",
+                "陶哲轩在《Math 2.0》中提出，AI 即使设计出通过三期试验的疗法，仍可能利用验证流程的弱点，因此追问人类理解机制的价值",
+                "Tanishq（医疗AI founder） 反驳，若疗效确实成立，机制理解不完整并不必然阻止采用",
+                "完整解释未必是商业化的前置条件，可信的实验与临床验证仍是关键瓶颈"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "供给",
+          "entries": [
+            {
+              "source": "概述",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "短期市场关注模型现有能力还能如何和工作流结合变现，因模型能力产品化labs价格战可能影响模型层的利润留存。远期市场关注模型能力能打开多大空间，AI4S、RSI 叙事短期无法证伪，但实际上实验闭环决定其中多少能转成现实成果"
+              ]
+            },
+            {
+              "source": "模型-竞争与定价概述",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "供给侧价格战/降低企业用户使用摩擦抢夺企业预算，模型基本已经产品化。若企业可以按场景切换模型，价值可能更多留在掌握数据、工作流和分发的应用方，挤压模型厂毛利"
+              ]
+            },
+            {
+              "source": "OAI",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "本周发布产品优化UI和模型推理速度"
+              ]
+            },
+            {
+              "source": "Anthropic",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "发布首个超低价模型Haiku 5.5, 定价同Luna, 但token effiecency不如Luna，因此使用成本高于Luna",
+                "Max／Team 套餐每月赠送 API 额度 $100–$500"
+              ]
+            },
+            {
+              "source": "Semi Analysis",
+              "source_type": "",
+              "important": true,
+              "points": [
+                "订阅补贴显著拖累 labs 的单位算力收入与毛利。其估算 Anthropic 订阅约贡献10%收入，却可能占用超过40%的推理算力",
+                "订阅补贴用户本质上是获客与毛利的 trade-off：宽松额度促进采用与留存，但重度 Agent 用户也会增加服务成本。两家都在削减订阅额度，但策略不同",
+                "OAI:直接地削减额度",
+                "Anth: 保留中档模型较宽松的额度，但给更高端模型更少的额度，通过模型分层降低补贴"
+              ]
+            },
+            {
+              "source": "GOOGL",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "发布面向企业的Gemini agent，能持续执行任务，支持多模型（claude也支持）",
+                "GOOGL支持多模型证明其想通过数据优势和已有办公工具成为平台入口"
+              ]
+            },
+            {
+              "source": "开源 / FT",
+              "source_type": "FT",
+              "important": false,
+              "points": [
+                "美欧开源在追赶中国开源",
+                "NVDA正洽谈收购Reflection AI"
+              ]
+            },
+            {
+              "source": "RSI",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "叙事上讨论frontier AI labs是否已经实现RSI，认为前置Capex为RSI准备，若RSI实现则不存在overbuild。论据较为薄弱，主要是因为模型厂越来越快的模型发布频率"
+              ]
+            },
+            {
+              "source": "AI4S-概述",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "实际节奏上AI 在部分可验证研究任务上显著突破能力边界，但向药物、材料等物理领域延伸，仍取决于实验反馈能否跟上。一级市场相关公司受到超高估值追捧，二级市场炒作相关验证瓶颈标的"
+              ]
+            },
+            {
+              "source": "OAI (AI4S)",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "发布722项数学结果，详情见post"
+              ]
+            },
+            {
+              "source": "Isomorphic Labs",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "Bloomberg 报道其在早期洽谈融资，估值至少 $40B"
+              ]
+            },
+            {
+              "source": "DeepMind访谈",
+              "source_type": "DeepMind",
+              "important": false,
+              "points": [
+                "数字模型进步到现实成果之间，仍有实验、功能、动力学等关卡"
+              ]
+            },
+            {
+              "source": "Freda Duan",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "上游实验室涌入，瓶颈转向实验验证，因此 CRO 短期受益"
+              ]
+            },
+            {
+              "source": "创业公司",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "创业公司尝试加快\"候选→实验→反馈\"",
+                "初创公司 30 天建成 8,000 平方英尺高通量湿实验室，从农药切入分子发现",
+                "Danaher 与实验室机器人公司 Automata 推出 AI 自主实验室"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "监管",
+          "entries": [
+            {
+              "source": "Nolla Health",
+              "source_type": "",
+              "important": true,
+              "points": [
+                "AI开处方首次获得州级别监管批准",
+                "Nolla Health获得监管批准，在犹他州首次获批让 AI 开具处方，从皮肤科疾病开始"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

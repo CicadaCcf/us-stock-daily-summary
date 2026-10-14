@@ -1,0 +1,399 @@
+{
+  "topics": [
+    {
+      "id": "fed-speakers-oct",
+      "topic": "美联储官员发言",
+      "topic_tag": "fed",
+      "title": "Waller/Goolsbee/Hammack 均警示通胀粘性与AI需求过热",
+      "summary": "多位Fed官员罕见口径一致：Waller认为高利率源于高实际增长、AI投资热将持续2-3年；Goolsbee担忧AI相关价格压力蔓延至数据中心外、是老式需求过热；Hammack认为当前利率仅中性而非限制性，若通胀广度扩散可能需进一步加息。Hassett则站在白宫立场认为Fed会把通胀放缓作为按兵不动理由。",
+      "bullets": [
+        {
+          "actor": "Hammack",
+          "actor_type": "Central-Bank",
+          "text": "当前利率是中性而非限制性，若通胀行为更普遍可能需加息",
+          "details": "Hammack：当前利率是中性、不是限制性。通胀预期出现early warning signs，通胀广度有粘性、尤其服务业可能entrenched，这正是Fed的任务要掐灭的行为，若此类行为更普遍，可能需要更多加息。劳动市场若恶化Fed可以转向。",
+          "important": true
+        },
+        {
+          "actor": "Waller",
+          "actor_type": "Central-Bank",
+          "text": "通胀预期稳、AI投资热还将持续2-3年；长端利率飙升已起到紧缩效果",
+          "details": "Waller：通胀预期稳定，高利率是高实际增长带来的，AI可能有助于推高人均GDP，AI供给将在几年后产生去通胀影响，但目前主要是需求推高通胀，预计AI投资热潮还将持续2–3年。美国长期国债收益率的飙升有助于抑制对利率敏感的行业（如住房和汽车）的需求，起到了一定程度的紧缩货币政策的作用。对美国债务避险需求的减弱可能使收益率增加50–70bps。",
+          "important": false
+        },
+        {
+          "actor": "Goolsbee",
+          "actor_type": "Central-Bank",
+          "text": "AI价格压力蔓延至数据中心外，担忧经济老式需求过热",
+          "details": "Goolsbee：AI驱动的价格压力正蔓延至数据中心以外，引发对美国经济过热的担忧。电力、建筑、土地和设备需求激增，正推高其他行业的成本。持续通胀可能迫使美联储维持更紧缩的货币政策或进一步加息，'我越来越担心，这纯粹就是老式的需求过热'。",
+          "important": false
+        },
+        {
+          "actor": "Hassett",
+          "actor_type": "US-Executive",
+          "text": "Fed可能把通胀放缓当作按兵不动理由，市场对新主席有信心",
+          "details": "Hassett：Fed可能将通胀放缓视为按兵不动的理由，Fed将控制通胀而非扼杀经济，市场对新任美联储主席有信心。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-10-13",
+      "image_urls": []
+    },
+    {
+      "id": "trump-iran-korea-putin",
+      "topic": "Trump外交表态",
+      "topic_tag": "geo",
+      "title": "Trump：伊朗战争很快结束，拟访亚期间会金正恩",
+      "summary": "Trump在扬斯敦集会表示伊朗战争'很快'结束、德黑兰想达成协议但不知怎么做，重申不允伊朗拥核；并称普京比泽连斯基更想达成协议；提议下月访亚期间与金正恩会面但未确认。前防长奥斯汀警告伊朗冲突无轻松出路、需'专业外交'。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "伊朗战争'很快'结束，德黑兰想达成协议但不知怎么做",
+          "details": "Trump在扬斯敦集会上表示，伊朗战争'很快'将结束，德黑兰想要达成协议，但'不知道怎么做'。他重申，绝不能允许伊朗获得核武器。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "认为普京比泽连斯基更想达成协议",
+          "details": "Trump认为普京其实比泽连斯基更想达成协议。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "提议下月访亚期间会见金正恩",
+          "details": "Trump提议下月在亚洲访问期间会见金正恩，并对记者说：'我可能会......那会很令人兴奋。'但未确认会面。",
+          "important": false
+        },
+        {
+          "actor": "Lloyd Austin",
+          "actor_type": "US-Executive",
+          "text": "前防长：伊朗冲突无轻松出路，需'专业外交'",
+          "details": "前美国国防部长劳埃德·奥斯汀：就目前而言，伊朗冲突没有轻松的出路。双方目前都认为他们能比对方撑得更久，解决这场冲突将需要'一些专业外交'。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-13",
+      "image_urls": []
+    },
+    {
+      "id": "asia-korea-china-eu",
+      "topic": "亚洲政经",
+      "topic_tag": "policy",
+      "title": "韩总统预告加息；中欧达成混动车出口限额共识",
+      "summary": "韩国总统李在明称韩国'别无选择'只能加息以缩小对美利差（总统表态非BOK决定）；中欧达成16点共识、中国同意削减混动车对欧出口，欧盟拟将上限定为每年350K辆、最快12/1生效、持续4年并从第二年起每年递增6%；双方基准口径差异明显。中国动力煤因产量/进口/运输约束升破1K/吨。",
+      "bullets": [
+        {
+          "actor": "中欧",
+          "actor_type": "Foreign-Gov",
+          "text": "中欧16点共识：欧盟拟将中国混动车进口上限定为35万辆/年",
+          "details": "中欧达成16点共识，中国同意大幅削减向欧盟出口混合动力汽车。欧盟拟将此类进口上限定为每年350K辆，最快于12/1生效。该限额措施将持续4年，并从实施的第二年起每年递增6%，这一妥协暂时避免了中欧贸易冲突升级，为明年1月和3月的深入谈判争取了时间。核心矛盾在于基准不同：欧方所说的'削减一半以上'是以无约束情景下的高增长预测（2026年或冲至约800K辆）为参照，而中方强调的'向上安排'是以2025年实际进口量302K为基准允许继续增长。",
+          "important": true
+        },
+        {
+          "actor": "李在明",
+          "actor_type": "Foreign-Gov",
+          "text": "韩总统：韩国别无选择只能加息以缩小对美利差",
+          "details": "韩国总统李在明表示，韩国'别无选择'只能加息，并称加息几乎是板上钉钉的事，以缩小美国的利率差距。这是总统的评论，不是BOK的决定。",
+          "important": false
+        },
+        {
+          "actor": "中国动力煤",
+          "actor_type": "Unknown",
+          "text": "中国动力煤升破1000元/吨，能源成本继续分化",
+          "details": "中国动力煤又受产量、进口和运输约束升破1K/tone，能源成本继续分化。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        5
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-13",
+      "image_urls": [
+        "/uploads/2026-10-13/82178c8cf076.png"
+      ]
+    },
+    {
+      "id": "oil-market-structure",
+      "topic": "油市结构与地缘",
+      "topic_tag": "oil",
+      "title": "沙特扩容绕霍尔木兹管道；基金在原油/汽油/柴油定位剧烈分化",
+      "summary": "沙特宣布7-8周内借现役天然气管改输原油、新增1.2M bpd绕开霍尔木兹，长期把东西管道运力提到约10M bpd；BBG报道未来90天约96艘2M桶原油船将抵某亚洲港口为2月底来最多；基金对原油越空、对汽油极多、对柴油中性，驱动因素为炼能瓶颈而非海峡流量；Dated Brent报$134.415，Vitol从扫货转为出货。硫磺短缺迫使化肥商减产、硫价接近$1K/吨。",
+      "bullets": [
+        {
+          "actor": "沙特",
+          "actor_type": "Foreign-Gov",
+          "text": "沙特7-8周内借天然气管改输原油、新增1.2M bpd绕霍尔木兹",
+          "details": "@JavierBlas：沙特宣布扩容绕开海峡的东西管道——7-8周内借一条现役天然气管改输原油、增加1.2M bpd（名义产能7M、9月泵站遇袭后实际约6M），5月须还给天然气系统供夏季发电。长期计划：2-3年内把东西管道运力提到约10M bpd，主要靠加泵而非新建。",
+          "important": true
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "未来90天约96艘2M桶原油船将抵某亚洲港口，为2月底来最多",
+          "details": "BBG报道未来90d内，约96艘每艘可运载2Mb原油的船只将抵达这个亚洲国家的港口，为2月底以来最多。这是周度计数连续第三次上升。",
+          "important": false
+        },
+        {
+          "actor": "@JKempEnergy",
+          "actor_type": "KOL",
+          "text": "基金对原油空、汽油极多、柴油中性；驱动是炼能瓶颈",
+          "details": "@JKempEnergy：基金对石油的看法在剧烈分化——对原油越来越空、对汽油极度多、对柴油中性。驱动定位的不是原油产量或海峡流量，而是全球炼能与低燃料库存这个瓶颈。",
+          "important": false
+        },
+        {
+          "actor": "@FluxOfficials",
+          "actor_type": "KOL",
+          "text": "Dated Brent $134.415 实货升水$19.045；Vitol从扫货转为出货",
+          "details": "@FluxOfficials：Dated Brent $134.415，实货升水$19.045——较上周五回升。MOC窗口的戏剧性转变：上周全系扫货的Vitol开始出货——卖Midland给Phillips、卖Forties给Trafigura，Exxon与Equinor在买方。",
+          "important": false
+        },
+        {
+          "actor": "Mosaic",
+          "actor_type": "Corporate",
+          "text": "硫磺短缺迫使化肥商减产，硫价接近$1K/吨（通常100-200）",
+          "details": "硫磺短缺迫使化肥制造商减少产量，矿工以高价抢夺霍尔木兹中断的供应。Mosaic首席经济学家警告称，此次挤压将影响作物产量并推高食品价格；硫含量接近1K/T，而通常为100-200。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MOS"
+      ],
+      "image_indexes": [
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-10-13",
+      "image_urls": [
+        "/uploads/2026-10-13/998b12ca5aaa.png"
+      ]
+    },
+    {
+      "id": "rates-ust-views",
+      "topic": "美债/利率",
+      "topic_tag": "rates",
+      "title": "BlackRock结束六年美债低配；GS解析10y走高驱动",
+      "summary": "BlackRock将短期美债上调至超配、长端由低配上调至中性，结束近六年低配，认为10y年内已上涨110bps至~5.25%由实际利率驱动、市场为Fed加息超定价160bps过度，收益率上升75bps缓冲内仍为正回报。GS Rates指出前端定价加息更多、长端远期利率高于公允约40-50bp，债券基金低配久期已达历史1-2Q后收益率倾向下行的极端水平。Bianco Research数据显示Agg Index收益率升至6.5%仍可正回报。",
+      "bullets": [
+        {
+          "actor": "BlackRock",
+          "actor_type": "Analyst",
+          "text": "BlackRock结束近六年美债低配，短债上调至超配、长债至中性",
+          "details": "BlackRock对美国国债和股票配置立场作出重大调整，将短期美国国债评级上调至超配，长期美债由低配上调至中性，结束近六年来对美债的低配立场。10Y今年已上涨110bps至约5.25%，主要受实际利率上升推动，而非通胀预期或期限溢价。两大因素：一是资本竞争加剧推高中性利率，二是中东紧张+油价上涨导致Fed利率预期急剧逆转。自1月以来市场已为未来12个月Fed加息额外定价160bps，有些过度。自9月以来期限溢价平均约75bps，更高收益率提供更具吸引力入场点。以当前收益率计算，未来12个月内可承受75bps收益率上升缓冲总回报才转负。增持整个收益率曲线上的国债，尤其短期品种。",
+          "important": true
+        },
+        {
+          "actor": "GS Rates",
+          "actor_type": "Analyst",
+          "text": "GS：长端远期高于公允40-50bp，债基久期低配达历史极端",
+          "details": "GS Rates：当前收益率全线走高：前端相对经济学家预期偏鹰（定价加息更多），长端远期利率高于公允价值约40–50 bp。走势分阶段，夏季低波动→近期高波动率抛售。主要驱动（尤其长端）自美伊冲突前夕起，市场对政策路径从降息转向加息的重新定价+通胀风险上升+劳动力市场担忧减弱。次要因素：长期增长前景更乐观、海外看跌溢出；残差仍有约10–15 bp无法被宏观框架解释。更高宏观不确定性+美债作为组合分散工具作用减弱→风险溢价上升。AI投资支出通过提振周期性和长期增长乐观情绪推高收益率，但几乎没有证据表明相关债务供应对国债收益率产生过大或持久影响。债券基金已转为低配久期，达到历史上随后1–2个Q收益率倾向下行的极端水平。MBS和国债期货负凸性可能在过去一个月放大波动，但在进一步抛售中影响应显著减弱。收益率相对宏观基本面已处于高位；仓位低配+技术风险减弱；能源仍是日常波动来源，但信贷压力已开始为抛售设定边界。",
+          "important": false
+        },
+        {
+          "actor": "Bianco Research",
+          "actor_type": "Analyst",
+          "text": "Agg Index收益率可升至6.5%仍为正回报，不对称有利投资者",
+          "details": "Bianco Research：Bloomberg US Aggregate Index久期/收益率比为0.96%、为2009年6月以来最高，意味着平均收益率目前5.6%即使未来一年升至约6.5%该指数仍将保持正回报。10年期美债1年总回报估算：收益率-100bp时总回报+12.70%；不变时+5.30%；+100bp时-1.49%。",
+          "important": false
+        },
+        {
+          "actor": "super_macro",
+          "actor_type": "KOL",
+          "text": "长债收益率看到6字头；'The next bond rally is the one to sell'",
+          "details": "super_macro：长债收益率看到6字头，不过没有什么是直线运动，做空债券开始显得consensual（有共识），所以他在等更好的入场位、空头仓位已减小。操作口诀一句话：The next bond rally is the one to sell。",
+          "important": false
+        },
+        {
+          "actor": "华创 郭忠良",
+          "actor_type": "Analyst",
+          "text": "11月众议院+Fed缩表=更强DXY与美国实际利率冲击",
+          "details": "华创郭忠良：11月份丢掉众议院+12月份or 2027 1Q Fed缩表 = Potential Stronger DXY = higher US real rate shock…",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TLT",
+        "IEF",
+        "SHY"
+      ],
+      "image_indexes": [
+        6,
+        7,
+        8
+      ],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-10-13",
+      "image_urls": [
+        "/uploads/2026-10-13/5858a123e8d9.png",
+        "/uploads/2026-10-13/6216103f1f59.png",
+        "/uploads/2026-10-13/c70f87dcc222.png"
+      ]
+    },
+    {
+      "id": "sellside-equity-views",
+      "topic": "卖方股票策略",
+      "topic_tag": "earnings",
+      "title": "GS/Barclays/HSBC：Q3财报+科技主导+估值分化",
+      "summary": "GS GOAL三个月超配股票/低配信用债/超配现金，看好美股亚股低配欧股，SPX 12月升至8700、金至5235、10y降至4.45%；Barclays指Q3 EPS共识+26.5%由芯片存储油气领跑，10月末-11月初是财报高峰窗；HSBC认为AI泡沫担忧基于错误因素、Hyperscalers FCF修正放缓支撑科技板块，维持超配风险资产。图表显示Nasdaq100 NTM P/E 23x、SPX 19x处于高位，IT贡献2026 EPS涨幅约30pp。",
+      "bullets": [
+        {
+          "actor": "GS GOAL",
+          "actor_type": "Analyst",
+          "text": "GS：SPX 12个月目标8700、金5235、10y降至4.45%",
+          "details": "GS GOAL：配置建议三个月超配股票、低配信用债、超配现金，看好美股与亚股、低配欧股。策略上采用科技股与高股息防御股的哑铃组合，预计SPX十二个月升至8700点，黄金超配看至5235美元；债市12个月超配长债，预计美10年期收益率降至4.45%。",
+          "important": true
+        },
+        {
+          "actor": "Barclays U.S. Equity Strategy",
+          "actor_type": "Analyst",
+          "text": "Q3 EPS共识+26.5%，10月末-11月初为财报催化剂密集窗",
+          "details": "Barclays：尽管盈利增长前景光明，但鉴于收益率上升和波动性导致的rally，市场对财报和前瞻指引的要求提高。SPX近期表现优于SPW，且超过半数成分股仍低于200ma，市场领导层集中度高。若公司指引miss股价可能受到更严厉惩罚；若beat-and-raise，估值压缩（SPX远期市盈率从20.3倍降至19倍）将为股价上涨提供动力。共识预期Q3 EPS增长为+26.5%，芯片、存储和油气行业领跑，且盈利修正的广度改善。10月最后一周和11月第一周是催化剂最密集的时期，按市值计算的前10大财报日中有7天落在该窗口，集中在科技、工业和医疗保健板块，中期选举后政策不确定性消除利好股市。",
+          "important": false
+        },
+        {
+          "actor": "HSBC 多资产",
+          "actor_type": "Analyst",
+          "text": "HSBC：AI泡沫担忧基于错误因素，维持超配风险资产",
+          "details": "HSBC多资产：市场近期对AI泡沫担忧加剧，但HSBC认为这种担忧基于错误的长期因素。Hyperscalers的FCF修正正在放缓，且随着计算价格回升和代币支出指数稳定，半导体和存储芯片行业重新跑赢大盘，支持科技板块未来表现。市场担心美债收益率上升将打击风险资产，但汇丰认为这种负相关逻辑在当前环境下不成立。美国CPI数据、超卖的技术面、过度悲观情绪以及对财政问题的错误叙事都可能成为DM主权债券触底反弹的短期催化剂。短期情绪和持仓显示卖出信号，但HSBC维持对风险资产相对于DM主权债券的超配立场。",
+          "important": false
+        },
+        {
+          "actor": "edgeofsteve",
+          "actor_type": "KOL",
+          "text": "市场缺买家驱动看涨成交量，板块永远在轮动",
+          "details": "edgeofsteve：市场缺少足够的买家来驱动看涨成交量。这是2025年10月10日以来长期震荡的原因，是板块永远在轮动的原因，机构通常能看到今天问题的未来解法，而现在他们大概也看不到。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "QQQ"
+      ],
+      "image_indexes": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-13",
+      "image_urls": [
+        "/uploads/2026-10-13/d0e859bcffce.jpg",
+        "/uploads/2026-10-13/8b02cd82bc65.png",
+        "/uploads/2026-10-13/4fb5446247ec.jpg",
+        "/uploads/2026-10-13/a50eaefa22f1.jpg"
+      ]
+    },
+    {
+      "id": "ai-capex-credit-cycle",
+      "topic": "AI资本开支与信用周期",
+      "topic_tag": "ai",
+      "title": "ShanghaoJin：2027才是AI小考，2028-29是再融资墙",
+      "summary": "ShanghaoJin拆解AI信用周期：当前是IR vol冲击非供给冲击，2026 CSP发债大头已过（全年$250b、8月已约$220b）；2027 CSP直接发债$420b+SPV项目融资$300b，万亿级供给对接盘能力构成压力；2028-29年到期墙$600b与$650b为真正信用考验。流动性冲击短期为主、半导体当前仅为风险收益平衡。Meta发布Muse Wonder模型挑战前沿地位。",
+      "bullets": [
+        {
+          "actor": "ShanghaoJin",
+          "actor_type": "KOL",
+          "text": "2027 CSP发债+SPV达$720b为AI小考，2028-29到期墙$1.25T是真正信用考验",
+          "details": "ShanghaoJin：当前面对的是IR vol冲击而非供给冲击——2026年CSP发债大头已过（全年预测$250b、8月已发约$220b），利差走阔主要是利率波动加上供给炒作预期。2027年才是AI小考：CSP直接发债$420b加SPV项目融资$300b，万亿级供给砸向存量需求，接盘侠可能断货——若AI半导体毛利率扛得住，他们会无视融资成本上升（CDS走阔），挤出效应伤害的是实体经济。2028-29年才是真正的再融资墙：$600b与$650b到期，若届时CSP现金流跟不上，要考虑复合信用风险。流动性冲击大概率是短期的、IR vol没有继续加剧，但被打击的领域不会立即反弹——流动性问题常引发连环爆，外围一定比中心惨。半导体即便短线也只是风险收益平衡，没到捡便宜的时候。",
+          "important": true
+        },
+        {
+          "actor": "Meta",
+          "actor_type": "Corporate",
+          "text": "Meta发布Muse Wonder模型，扎克伯格称比肩ChatGPT和Claude",
+          "details": "Meta周一发布新一代模型Muse Wonder及Muse Wonder Full，主打个人和专业智能体，扎克伯格称其跻身AI前沿、能力比肩ChatGPT和Claude。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "META",
+        "MSFT",
+        "GOOGL",
+        "AMZN",
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-13",
+      "image_urls": []
+    },
+    {
+      "id": "france-fiscal-citi",
+      "topic": "法国财政",
+      "topic_tag": "rates",
+      "title": "Citi：法国利息支出或升至GDP的4.8%，超1996年峰值",
+      "summary": "花旗测算法国在10y收益率稳定4.2%基准下，利息支出占GDP将于本十年末升至3.7%、长期收敛4.8%、超过1996年3.6%历史峰值；面对约2.8%初级赤字，明年需完全消除、2032年需实现0.4%初级盈余才能稳定债务，极右翼减赤承诺过度依赖乐观增长假设。",
+      "bullets": [
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "法国利息支出长期收敛至GDP的4.8%，超1996年历史峰值",
+          "details": "Citi FR：随着低息债务逐步置换为高息债券，法国公共财政面临债务自动恶化的严峻挑战。在10年期国债收益率稳定在4.2%的基准情境下，法国利息支出占GDP比重将在本十年末升至3.7%，长期将收敛至4.8%，超过1996年3.6%的历史峰值。花旗测算，面对当前约2.8%的初级赤字，法国明年需完全消除初级赤字、2032年需实现0.4%的初级盈余才能稳定债务，且极右翼等政党的减赤承诺过度依赖乐观的经济增长假设。",
+          "important": true
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "需明年清零初级赤字、2032年达0.4%初级盈余",
+          "details": "面对当前约2.8%的初级赤字，法国明年需完全消除初级赤字、2032年需实现0.4%的初级盈余才能稳定债务。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-13",
+      "image_urls": []
+    },
+    {
+      "id": "other-misc",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "Musk中期选举捐$366M；单股期权量近2021迷因峰值",
+      "summary": "其他宏观/市场碎片信息：Musk 2026中期选举已捐$276M、合计2025选举周期$366M；Carrick Lane数据显示单一股票期权日指数达约$700B接近2021迷因狂热，一半以上集中在两周内到期合约，买权价格超该期间水平。",
+      "bullets": [
+        {
+          "actor": "Musk",
+          "actor_type": "KOL",
+          "text": "Musk 2026中期选举已捐$276M，2025周期合计$366M",
+          "details": "2026中期选举，Musk已捐$276M，算上2025这个选举周期，Musk已捐$366M。",
+          "important": true
+        },
+        {
+          "actor": "Carrick Lane",
+          "actor_type": "Analyst",
+          "text": "单股期权日量约$700B接近2021迷因狂热，短期合约主导",
+          "details": "据Carrick Lane称，单一股票期权交易量的日指数已达到约700B，接近2021年的迷因股票狂热。超过一半的活动集中在两周内到期的合约，而买权价格已超过该期间的水平。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-10-13",
+      "image_urls": []
+    }
+  ]
+}
