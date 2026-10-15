@@ -1,0 +1,155 @@
+{
+  "events": [
+    {
+      "tag": "通胀数据",
+      "tagCls": "warn",
+      "title": "美国9月CPI超预期 加息定价升温",
+      "body": "美国9月CPI环比+0.6%、同比3.7%，核心CPI环比约+0.3%、同比2.6%，均高于预期，能源与服务价格同步升温。10月28日加息概率一度升至约50%附近，年底前进一步收紧定价升至约34bp量级，美元指数升至2025年5月以来高位后部分回吐。",
+      "tickers": [
+        "TMUS",
+        "VZ",
+        "JPM"
+      ]
+    },
+    {
+      "tag": "AI估值",
+      "tagCls": "hot",
+      "title": "Anthropic披露Q3收入近170亿美元",
+      "body": "Anthropic向投资者披露Q3收入升至约168亿–170亿美元，并称当季实现盈利；二级另类市场隐含估值一度跌破2万亿美元、月内约-10%。OpenAI CFO同步称Q3年化收入接近500亿美元、环比增长超70%，Q4保持节奏。",
+      "tickers": [
+        "MSFT",
+        "AMZN",
+        "ORCL"
+      ]
+    },
+    {
+      "tag": "AI泡沫",
+      "tagCls": "warn",
+      "title": "Gartner预警超八成新云或难独立存续",
+      "body": "Gartner预测至2030年成本压力与差异化不足将迫使超过80%新云(neocloud)提供商停止独立运营；若维持当前资本开支节奏，至2030年底或有超过3.5万亿美元AI基础设施开支面临减值风险。其测算约需8.5万亿美元累计收入覆盖资本开支与12%回报，而预计AI可归属收入仅约3.6万亿美元。",
+      "tickers": [
+        "MSFT",
+        "AMZN",
+        "AVGO"
+      ]
+    },
+    {
+      "tag": "算力供给",
+      "tagCls": "hot",
+      "title": "ASML上调2026销售 警示产能至2028不足",
+      "body": "ASML上调2026年销售指引至约440亿–450亿欧元，并称即便此前计划扩产约30%，2027–2028年仍难完全满足客户需求，客户已询价2029–2030工具。公司强调AI需求强化议价能力，高NA EUV走向量产验证，但股价仍因宏观与AI融资情绪承压。",
+      "tickers": [
+        "ASML",
+        "TSM",
+        "INTC"
+      ]
+    },
+    {
+      "tag": "地缘油价",
+      "tagCls": "",
+      "title": "胡塞袭击沙特阿美总部 油价走高",
+      "body": "胡塞武装袭击沙特阿美达兰总部建筑并引发火情，官方称无人员伤亡、石油生产未受影响；近一周相关袭击已致至少18死、数百伤。IEA警告成品油供应紧张或延续至2027年，布伦特此前已在100美元上方，WTI隔夜约+1%至95美元附近。",
+      "tickers": [
+        "XOM",
+        "CVX",
+        "SLB"
+      ]
+    },
+    {
+      "tag": "财报",
+      "tagCls": "",
+      "title": "BlackRock三季度净流入2050亿美元",
+      "body": "BlackRock三季度总流入约2050亿美元，营收约同比+19%，利润超预期，股价盘中一度上涨约5%；管理规模升至约15.5万亿美元。公司称Q4有望延续iShares、另类与私募募资动能，并公开表示已部分兑现美股仓位、认为加息预期过度。",
+      "tickers": [
+        "BLK",
+        "STT",
+        "SCHW"
+      ]
+    },
+    {
+      "tag": "监管处罚",
+      "tagCls": "warn",
+      "title": "美国银行因合规计提12亿美元罚金",
+      "body": "Bank of America披露与反洗钱/制裁合规相关约12亿美元监管计提，拖累Q3 EPS，交易业务偏弱使整体利润不及预期，股价大幅下跌。公司称已对同意令相关问题做大量整改与人员调整；同期摩根士丹利等交易与财富管理表现分化。",
+      "tickers": [
+        "BAC",
+        "MS",
+        "JPM"
+      ]
+    },
+    {
+      "tag": "货币政策",
+      "tagCls": "",
+      "title": "美联储褐皮书显示多地价格压力加剧",
+      "body": "美联储褐皮书显示12个辖区中半数近几周价格压力强劲或加剧，能源、关税与保险成本为主要推力；就业呈低招聘、低解雇格局。Goolsbee称通胀令人担忧并提示AI数据中心投资或助推过热；Daly与Bowman倾向仍有加息需要但10月不必急于行动。",
+      "tickers": [
+        "UNH",
+        "WMT",
+        "PG"
+      ]
+    },
+    {
+      "tag": "AI电力",
+      "tagCls": "",
+      "title": "AEP与Google签40亿美元燃料电池供电",
+      "body": "American Electric Power公布约40亿美元、702MW燃料电池发电项目，采用Bloom Energy技术并为Google提供20年购电，选址怀俄明，规划配套碳捕集。Oracle亦重申Bloom为其Project Jupiter主要电源，强化AI负荷—长期PPA—燃料电池订单链条。",
+      "tickers": [
+        "BE",
+        "AEP",
+        "VST"
+      ]
+    },
+    {
+      "tag": "宏观债务",
+      "tagCls": "",
+      "title": "IMF敦促先进经济体加快财政整固",
+      "body": "IMF呼吁先进经济体尽快削减赤字与债务，警告拖延将使调整更难，并提示高债务与高收益率可能形成反馈循环，全球公共债务2030年或超GDP的100%。美国财长贝森特要求IMF更多关注非市场经济体扭曲政策，全球讨论聚焦财政空间与债市波动。",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "tag": "裁员",
+      "tagCls": "",
+      "title": "Netflix裁员约6% 为2022年来最大",
+      "body": "Netflix宣布裁减约6%员工(约1000人)，为2022年以来最大规模裁员，时点临近三季报。公司面临传统媒体与YouTube等对观看时长的竞争；同期第三方追踪显示其UCAN收入进度仍略好于街预期约2个百分点。",
+      "tickers": [
+        "NFLX",
+        "DIS",
+        "GOOGL"
+      ]
+    },
+    {
+      "tag": "人事算力",
+      "tagCls": "",
+      "title": "OpenAI任命前xAI高管掌管算力基建",
+      "body": "OpenAI计算负责人Sachin Katti约一年后离职，公司任命来自xAI的Uday Ruddarraju负责数据中心与算力；Katti称任内锁定两位数GW算力，合作方包括Nvidia、Broadcom、AMD、Oracle、Microsoft、Google与AWS。OpenAI CFO同时警告企业使用低成本外部模型的安全风险。",
+      "tickers": [
+        "NVDA",
+        "AVGO",
+        "AMD"
+      ]
+    }
+  ],
+  "_archive": {
+    "source": "notion",
+    "fetched_at": "2026-10-15T00:10:48.384211+00:00",
+    "raw_text": "### 美国9月CPI超预期推升加息定价\n美国9月CPI环比+0.6%、同比3.7%，核心CPI环比约+0.3%、同比2.6%，均高于预期，能源与服务价格同步升温。10月28日加息概率一度升至约50%附近，年底前进一步收紧定价升至约34bp量级，美元指数升至约2025年5月以来高位后部分回吐。\n- TMUS  T-Mobile — 防御电信现金流\n- VZ  Verizon — 高股息防御\n- JPM  JPM — 净息差受益大型银行\n### Anthropic投资者日披露Q3收入近170亿美元\nAnthropic向投资者披露第三季度收入升至约168亿–170亿美元，并称当季实现盈利；二级另类市场隐含估值一度跌破2万亿美元、月内约-10%。OpenAI CFO同步称Q3年化收入接近500亿美元、环比增长超70%，Q4“保持节奏”，网络安全为后续重要驱动。\n- MSFT  Microsoft — 模型API与云分发\n- AMZN  Amazon — Anthropic云与训练合作\n- ORCL  Oracle — 大模型训练算力合同\n### Gartner预警超八成新云或难独立存续\nGartner预测至2030年，成本压力与差异化不足将迫使超过80%新云（neocloud）提供商停止独立运营；若维持当前资本开支节奏，至2030年底或有超过3.5万亿美元AI基础设施开支面临减值风险。其测算约需8.5万亿美元累计收入覆盖资本开支、融资与12%回报，对照其预计AI可归属收入仅约3.6万亿美元。\n- MSFT  Microsoft — 超大规模云与算力需求方\n- AMZN  Amazon — AWS资本与定价能力\n- AVGO  Broadcom — 定制加速器与融资背书链条\n### ASML上调2026销售并警示产能至2028不足\nASML上调2026年销售指引至约440亿–450亿欧元，并称即便此前计划扩产约30%，2027–2028年仍难以完全满足客户需求，客户已在询价2029–2030工具。公司强调AI需求强化议价能力，高NA EUV从研发走向量产验证，但股价仍因宏观与AI融资情绪承压。\n- ASML  ASML — EUV垄断与订单能见度\n- TSM  TSMC — 先进制程扩产\n- INTC  Intel — High-NA导入进度\n### 胡塞袭击沙特阿美总部推升油价\n胡塞武装袭击沙特阿美达兰总部建筑并引发火情，官方称无人员伤亡、石油生产未受影响；近一周相关袭击已造成至少18死、数百伤，多地机场与航班受扰。IEA警告柴油等成品油供应紧张或延续至2027年，布伦特油价此前已在100美元上方运行，WTI隔夜约+1%至95美元附近。\n- XOM  Exxon Mobil — 一体化油气\n- CVX  Chevron — 上游与炼化\n- SLB  SLB — 油服资本开支弹性\n### BlackRock三季度净流入2050亿美元\nBlackRock三季度总流入约2050亿美元，营收约同比+19%，利润超预期，股价盘中一度上涨约5%；管理规模升至约15.5万亿美元。公司称四季度有望延续iShares、另类与私募募资动能，同时公开表示美股仓位有所兑现、认为加息预期“过度”。\n- BLK  BlackRock — 平台流入与费用率\n- STT  State Street — 资管与托管同业\n- SCHW  Charles Schwab — 利率与零售资管beta\n### 美国银行因合规问题计提12亿美元罚金\nBank of America披露与反洗钱/制裁合规相关约12亿美元监管计提，拖累三季度EPS，交易业务偏弱使整体利润不及预期，股价大幅下跌。公司称已对同意令相关问题做大量整改与人员调整；同期摩根士丹利等机构交易与财富管理表现分化。\n- BAC  Bank of America — 罚金与交易收入\n- MS  Morgan Stanley — 股权交易与财富管理相对强势\n- JPM  JPMorgan — 大型银行相对基本面锚\n### 美联储褐皮书显示多地价格压力加剧\n美联储褐皮书显示12个辖区中半数近几周价格压力强劲或加剧，能源、关税与保险成本为主要推力；就业仍呈低招聘、低解雇格局。芝加哥联储Goolsbee称通胀令人担忧并提示AI数据中心投资或助推过热；Daly与Bowman则倾向仍有加息需要、但10月会议不必急于行动。\n- UNH  UnitedHealth — 医疗成本与防御属性\n- WMT  Walmart — 消费降级与必需零售\n- PG  Procter & Gamble — 定价权消费品\n### AEP与Google签署40亿美元燃料电池供电\nAmerican Electric Power公布约40亿美元、702MW燃料电池发电项目，采用Bloom Energy技术并为Google提供20年购电，选址怀俄明，规划配套碳捕集。Oracle亦重申Bloom为其Project Jupiter主要电源，强化“AI负荷—长期PPA—燃料电池/清洁电力”订单链条。\n- BE  Bloom Energy — 燃料电池设备商\n- AEP  American Electric Power — 受监管公用事业资本开支\n- VST  Vistra — AI电力需求受益发电商\n### IMF敦促先进经济体加快财政整固\nIMF呼吁先进经济体尽快削减赤字与债务，警告拖延将使调整更难；并提示高债务与高收益率可能形成反馈循环，全球公共债务2030年或超过GDP的100%。美国财长贝森特同步要求IMF更多关注非市场经济体“扭曲政策”，全球政策讨论聚焦财政空间与债市波动。\n- TLT  iShares 20+ Year Treasury Bond ETF — 长端利率敏感\n- GLD  SPDR Gold Shares — 财政与实际利率对冲\n- JPM  JPMorgan — 国债中介与市场波动受益\n### Netflix宣布约6%裁员为2022年来最大\nNetflix宣布裁减约6%员工（约1000人），为2022年以来最大规模裁员，时点临近三季报。公司面临传统媒体与YouTube等对观看时长的竞争；同期第三方追踪显示其UCAN收入进度仍略好于街预期约2个百分点。\n- NFLX  Netflix — 成本优化与竞争\n- DIS  Disney — 流媒体盈利对标\n- GOOGL  Alphabet — YouTube时长竞争\n### OpenAI任命前xAI高管掌管算力基建\nOpenAI计算负责人Sachin Katti约一年后离职，公司任命来自xAI的Uday Ruddarraju负责数据中心与算力；Katti称任内锁定两位数GW算力，合作方包括Nvidia、Broadcom、AMD、Oracle、Microsoft、Google与AWS。OpenAI CFO同时警告企业使用低成本外部模型的安全风险，并重申收入高增。\n- NVDA  Nvidia — 训练推理算力主供应商\n- AVGO  Broadcom — 定制芯片与网络\n- AMD  AMD — GPU份额与软件栈进展",
+    "model": "claude-opus-4-8",
+    "usage": {
+      "input_tokens": 3797,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 2353,
+      "service_tier": "standard",
+      "inference_geo": "global",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      }
+    }
+  }
+}

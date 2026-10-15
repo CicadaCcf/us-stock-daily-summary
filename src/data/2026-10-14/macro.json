@@ -1,0 +1,511 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-houthi-crisis-oct2026",
+      "topic": "美伊/胡塞危机",
+      "topic_tag": "geo",
+      "title": "特朗普威胁对伊朗新行动，胡塞用中国零件造弹道导弹",
+      "summary": "特朗普在阿拉斯加集会上称胡塞受伊朗指使抬高油价，威胁对伊朗采取新行动；WSJ 披露胡塞试图用中国零部件制造射程 1200 英里的弹道导弹；市场传闻特朗普考虑在中期选举后解雇国防部长 Hegseth 以甩锅伊朗战争责任。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump 威胁对伊朗再出手：\"We're going to do a number\"",
+          "details": "Trump 在阿拉斯加集会上称胡塞表现很不好，是受伊朗指使，想抬高油价，在美国选举前……选举后我还会在这个位置上，而且我这个人很记仇。威胁对伊朗采取新行动：\"等你看看我们对伊朗做了什么，We're going to do a number.\"",
+          "important": true
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ：胡塞用中国零件造 1200 英里弹道导弹",
+          "details": "据 WSJ 援引武器调查人员称，胡塞武装正试图利用中国提供的零部件制造先进的弹道导弹。潜在的 1200 英里航程覆盖沙特阿拉伯和以色列；在投入生产的进展尚不明朗。",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "传特朗普中期选举后拟解雇国防部长 Hegseth 甩锅",
+          "details": "据报道，特朗普正考虑在中期选举后解雇国防部长 Pete Hegseth，目的是把不受欢迎的伊朗战争责任从自己身上转嫁到 Hegseth 身上，以\"保护自己的政治遗产\"和\"反战总统的声誉\"。",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "BBG：3/23 特朗普发帖前 15 分钟现异常押注，CFTC 调查受阻",
+          "details": "BBG 报道称：3 月 23 日特朗普在 Truth Social 宣布对伊朗电厂\"改口\"约 15 分钟前，市场出现大规模押注油跌、股涨的异常交易；CFTC 分析团队据此向执法司转介疑似内幕交易，但主席顾问要求撤回该转介并自行接管复盘，而 CFTC 执法司与司法部的调查仍在继续。",
+          "important": false
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "Rubio 下周访孟买与贾姆纳加尔谈能源合作",
+          "details": "Rubio 将于下周访问孟买和贾姆纳加尔，就能源合作和投资进行会谈，国务院表示。贾姆纳加尔拥有信实公司的大型炼油综合体；此次访问还包括与中亚方面乌兹别克斯坦同行的会谈。",
+          "important": false
+        },
+        {
+          "actor": "@citrinowicz",
+          "actor_type": "KOL",
+          "text": "KOL：若美伊再开战或从第一天即打到最狠选项",
+          "details": "@citrinowicz：与伊朗再开战，不会像上次那样\"试探—反击—再升级\"，双方可能从第一天就打到最狠选项，冲突或更短但强度更高、更难管控；德黑兰侧情景包括扩大地理范围、打关键基础设施（甚至海底光缆），乃至对科威特方向有限地面行动——他强调这些不是必然，但已不能当夸张场景一笔勾销。",
+          "important": false
+        },
+        {
+          "actor": "@CRUDEOIL231",
+          "actor_type": "KOL",
+          "text": "KOL 质疑中东\"BREAKING\"看似协调放风",
+          "details": "@CRUDEOIL231：Axios、Al Arabiya、Al Hadath、Al Jazeera 那种 BREAKING 看来像假新闻或协调放风。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        5
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "Bloomberg"
+      ],
+      "date": "2026-10-14",
+      "image_urls": [
+        "/uploads/2026-10-14/7c858bd9ae80.png"
+      ]
+    },
+    {
+      "id": "taiwan-strait-oct2026",
+      "topic": "台海",
+      "topic_tag": "geo",
+      "title": "台海水炮事件：中方警告台方承担后果",
+      "summary": "台湾海岸警卫队在普拉塔斯附近对中国渔船使用水炮，北京警告台湾必须\"承担后果\"但未明确报复，台方称行为合法且相称。",
+      "bullets": [
+        {
+          "actor": "北京",
+          "actor_type": "Foreign-Gov",
+          "text": "中国警告台湾须\"承担后果\"",
+          "details": "中国警告台湾必须\"承担后果\"，此前台湾海岸警卫队在普拉塔斯附近使用水炮攻击一艘中国渔船。北京未明确表示报复。",
+          "important": true
+        },
+        {
+          "actor": "台湾当局",
+          "actor_type": "Foreign-Gov",
+          "text": "台方称水炮行动合法且相称",
+          "details": "台湾则表示其行为合法且相称。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-10-14",
+      "image_urls": []
+    },
+    {
+      "id": "oil-market-signals-oct2026",
+      "topic": "原油市场",
+      "topic_tag": "oil",
+      "title": "柴油飙升 vs 原油走软，Dubai 溢价现拐点",
+      "summary": "KOL 观察到布伦特即期时间价差/DFL 下跌显示原油紧张缓解，但柴油价格再次暴涨；ADNOC、卡塔尔招标涌出，Dubai 现货石油溢价处于拐点。",
+      "bullets": [
+        {
+          "actor": "@Rory_Johnston",
+          "actor_type": "KOL",
+          "text": "原油转松但柴油暴涨，运费率或摧毁炼厂运行",
+          "details": "@Rory_Johnston：我们是不是开始看到这些末日般的运费率开始摧毁炼油运行了？今天我们看到布伦特即期时间价差/DFL 下跌，表明（其他条件不变）原油市场没那么紧张。与此同时，我们看到柴油价格再次暴涨。",
+          "important": true
+        },
+        {
+          "actor": "@FluxOfficials",
+          "actor_type": "KOL",
+          "text": "Dubai 现货溢价拐点，北海情绪软化",
+          "details": "@FluxOfficials：轰炸仍在继续而价格在跌，情绪似乎一天比一天软，随着 ADNOC 和卡塔尔等招标涌出，Dubai 走软。北海现货石油的溢价处于拐点。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        4
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-14",
+      "image_urls": [
+        "/uploads/2026-10-14/997b47019438.png"
+      ]
+    },
+    {
+      "id": "us-grocery-inflation-oct2026",
+      "topic": "美国通胀",
+      "topic_tag": "macro-other",
+      "title": "FT：美国杂货通胀再度走强，Jbs 上调 4-5%",
+      "summary": "FT 报道柴油、运费、农业投入成本上升推动美国杂货通胀回升，Consumer Edge 食品价格指数四周同比涨约 4%（8 月 3.3%），金宝通知零售商 60% 业务组合将上涨 4–5%。",
+      "bullets": [
+        {
+          "actor": "FT",
+          "actor_type": "新闻",
+          "text": "FT：美杂货通胀回升至 4%，金宝涨 4-5%",
+          "details": "FT 报道随着柴油、运费和农业投入成本上升，美国杂货通胀再次走强。Consumer Edge 的食品价格指数在过去四周同比上涨约 4%，而 8 月份为 3.3%；金宝通知零售商其 60% 的业务组合将上涨 4–5%。",
+          "important": true
+        },
+        {
+          "actor": "Musk",
+          "actor_type": "Corporate",
+          "text": "Musk 赞美光内存定价\"合理\"，批他家\"敲诈\"",
+          "details": "Musk 表示，美光\"对未来内存价格持合理态度\"，而其他公司则\"敲诈\"；他说客户会记住这个区别。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MU"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "FT"
+      ],
+      "date": "2026-10-14",
+      "image_urls": []
+    },
+    {
+      "id": "retail-flows-citadel-oct2026",
+      "topic": "散户资金流",
+      "topic_tag": "earnings",
+      "title": "Citadel：散户上周净买 91 亿美股，15 周最多",
+      "summary": "Citadel Securities 的 Scott Rubner 披露散户上周在其平台净买入 91 亿美元美股，为 15 周来最多，其中半导体与 AI 基础设施买入 26 亿。",
+      "bullets": [
+        {
+          "actor": "Scott Rubner (Citadel)",
+          "actor_type": "Analyst",
+          "text": "散户上周净买 91 亿美股，含 26 亿半导体/AI 基建",
+          "details": "Citadel 的 Scott Rubner 表示，散户投资者上周在 Citadel Securities 平台上净买入了 9.1B 的美国股票，这是 15 周来最多的一次。尽管整体交易低于平均水平，买入的半导体股和人工智能基础设施股也买入了 2.6B。",
+          "important": true
+        },
+        {
+          "actor": "@EconstratPB",
+          "actor_type": "KOL",
+          "text": "KOL：CTD 切换将给债市释放负凸性",
+          "details": "@EconstratPB：CTD 切换会给债市释放一波负凸性。他上月底债券与油价背离时已怀疑此事，猜测是 usual people 因中期选举没有入场接盘。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-14",
+      "image_urls": []
+    },
+    {
+      "id": "kol-rates-views-oct2026",
+      "topic": "KOL 观点-利率",
+      "topic_tag": "rates",
+      "title": "KOL：加息未必压通胀，更像是打破杠杆",
+      "summary": "John Arnold 认为加息对压通胀作用小甚至适得其反；@DerivativesDon 认为加息目标不是限制性水平而是打破杠杆。",
+      "bullets": [
+        {
+          "actor": "John Arnold",
+          "actor_type": "KOL",
+          "text": "Arnold：加息压通胀作用小甚至适得其反",
+          "details": "John Arnold：提高联邦基金利率对压低通胀作用很小，甚至可能适得其反。",
+          "important": true
+        },
+        {
+          "actor": "@DerivativesDon",
+          "actor_type": "KOL",
+          "text": "加息目的不是限制性水平，而是打破杠杆",
+          "details": "@DerivativesDon：提高联邦基金利率不是为了到某个限制性水平，而是为了打破杠杆。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-10-14",
+      "image_urls": []
+    },
+    {
+      "id": "gs-ai-inflation-oct2026",
+      "topic": "AI 与通胀",
+      "topic_tag": "ai",
+      "title": "高盛：AI 对核心 PCE 推升约 45bp，近半为误测",
+      "summary": "高盛美国经济团队测算 AI 需求当前推升核心 PCE 约 45bp，其中近一半源于统计误测，预计 2026 年底达 50bp 峰值，到 2027 年底回落至 10bp；关税与伊朗能源冲击解释了剩余 1% 通胀超调中的 0.9%。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs 美国经济",
+          "actor_type": "Analyst",
+          "text": "AI 推升核 PCE 约 45bp，2026 底见顶 50bp 后回落",
+          "details": "AI 需求目前推升 PCE 通胀约 45bps，其中近一半源于统计误测，真实影响温和且已接近峰值，预计这一影响将在 2026 年底达到 50bp 的峰值，随后随着内存和计算机价格增速放缓，到 2027 年底将降至 10bp。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "软件与配件类目中约 16bp 来自 PCE 权重误测",
+          "details": "AI 通过提升内存等配件需求和增加含 AI 功能软件的价格，大幅推高了软件和配件通胀。然而 PCE 指数借用了 CPI 的综合 deflator 却赋予软件更高权重，导致内存价格飙升被错误放大影响。此外 PCE 和 CPI 未对软件因新增 AI 功能带来的质量提升进行价格调整。估算表明该类别对核心 PCE 的贡献中约 16bp 来自误测，真实影响有限。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "电力 5-10bp、工业金属 5bp 贡献有限",
+          "details": "消费电子、电力及工业金属成本传导有限，对通胀的边际贡献逐渐减弱，预计未来一年将对核心 PCE 贡献约 15bp。数据中心电力需求推高电价，分别通过企业能源成本和家庭电费账单向核心和 headline 通胀各贡献 5-10bp。数据中心建设所需的工业金属（铜、钢、铝）价格上涨对核心 PCE 贡献约 5bp。但并未发现建筑业工资显著增长的溢出效应。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "关税与伊朗能源冲击解释 1% 超调中的 0.9%",
+          "details": "尽管 AI 带来了一定的上行压力，但其影响是适度且暂时的。分析师指出，关税和伊朗能源冲击解释了剩余 1% 通胀超调中的 0.9%。因此，即使假设 AI 价格压力持续，考虑到其他因素的消退，核心 PCE 通胀预计在明年仍将显著下降并向 2% 的美联储目标靠拢。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "Goldman Sachs"
+      ],
+      "date": "2026-10-14",
+      "image_urls": [
+        "/uploads/2026-10-14/c9e228edd243.jpg"
+      ]
+    },
+    {
+      "id": "sellside-rates-growth-oct2026",
+      "topic": "卖方观点-利率与增长",
+      "topic_tag": "rates",
+      "title": "GS/穆迪分歧：高利率拖累 vs 经济脆弱",
+      "summary": "高盛 Tom 转述 IMF Adrian 乐观但警惕 AI/新兴市场脆弱性，GS 经济学家测高利率对 2027 美国增长拖累仅 0.2%（持续高位则 0.5%）；穆迪 Zandi 更谨慎称美国经济\"脆弱\"，非 AI 领域增长仅 1-1.5%，AI 泡沫破裂概率约 1/3。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs (Tom)",
+          "actor_type": "Analyst",
+          "text": "GS：高利率对 2027 美国增长拖累仅 0.2%",
+          "details": "尽管全球债券收益率升至数十年高位，经济增长和市场表现仍具韧性。IMF 的 Tobias Adrian 认为，只要收益率不无序急剧上升，经济将继续保持韧性，但他对 AI 科技综合体、主权债券市场和新兴市场的脆弱性保持警惕。高盛经济学家预计高利率对 2027 年美国增长的拖累仅为 0.2%，但若利率维持在当前高位，拖累可能增至 0.5%。",
+          "important": true
+        },
+        {
+          "actor": "Mark Zandi (穆迪分析)",
+          "actor_type": "Analyst",
+          "text": "穆迪 Zandi：美国经济脆弱，AI 泡沫破裂概率约 1/3",
+          "details": "穆迪分析首席经济学家 Mark Zandi 持更谨慎观点，认为美国经济实则\"脆弱\"，劳动力市场疲软，非 AI 领域增长乏力（仅 1%-1.5%）。他警告高利率正在损害房地产和挤压债务人，若利率长期维持高位，AI 投资泡沫可能破裂，导致经济脱轨的概率约为三分之一。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "高利率利好银行 NII，私募地产/成长承压",
+          "details": "高利率有助于提升银行的净利息收入，且银行资本充足，无需过度担忧。然而，私募市场活动因融资成本上升而放缓，尤其是房地产和成长型私募股权资产面临估值压力，但基础设施和私人信贷领域仍具吸引力。",
+          "important": false
+        },
+        {
+          "actor": "Ben Snider (GS)",
+          "actor_type": "Analyst",
+          "text": "GS Snider：盈利支撑股市，警惕小盘与高杠杆",
+          "details": "高盛策略师 Ben Snider 指出，尽管估值倍数下降，但强劲的盈利增长（尤其是 AI 驱动）支撑了股市。只要利率波动率不急剧上升，股市有望继续走高。然而，对小盘股、房地产和高负债板块需保持警惕。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS 配置建议：债券比例回归 35%-55%",
+          "details": "随着收益率升高，债券的携带收益和对冲价值提升，战略上应增加债券配置比例，回归长期的最优配置区间（35%-55%），但短期内股票因盈利增长仍具优势。",
+          "important": false
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "JPM：2026 底 10Y 降至 5.05%、2Y 降至 4.70%",
+          "details": "JPM Beyond Money Markets 2026：预计 2026 年底 10Y 降至 5.05%，2 年期降至 4.70%，报告预测美国经济将保持温和增长，2026 年实际 GDP 增速预计为 2.5%。尽管通胀存在波动，但核心 PCE 预计将逐步回落。基于此，美联储政策利率将在 2026 年维持在 4.15% 左右，导致收益率曲线倒挂程度减轻，长端利率因增长预期和供给压力而维持高位，但较当前水平有所回落。",
+          "important": false
+        },
+        {
+          "actor": "Citi Rates",
+          "actor_type": "Analyst",
+          "text": "花旗：9 月核心 CPI mom 预计 0.18%",
+          "details": "花旗 Rates 报告预测 9 月核心 CPI mom 增速将回落至 0.2%。目前市场定价隐含的核心通胀环比增速约为 0.21%-0.23%，而花旗经济学家的估算值略低，约为 0.18%。若业主等价租金（OER）和主要租金组成部分继续保持低于 0.2% 的增速，核心通胀可能接近 0.15%。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2,
+        3
+      ],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs",
+        "Moody's Analytics",
+        "JPM",
+        "Citi"
+      ],
+      "date": "2026-10-14",
+      "image_urls": [
+        "/uploads/2026-10-14/abef56556fd6.jpg",
+        "/uploads/2026-10-14/5fc47a1b1be3.jpg"
+      ]
+    },
+    {
+      "id": "bofa-fms-global-oct2026",
+      "topic": "美银全球基金经理调查",
+      "topic_tag": "earnings",
+      "title": "BofA FMS：繁荣情绪 2022/2 来最高，但现金 3.9% 近\"卖出\"",
+      "summary": "美银 10 月全球 FMS 显示繁荣乐观达 2022/2 以来最高、通胀预期 2025/1 以来最低，但股票净多头从 49% 降至 44%，现金 3.9% 处卖出信号区间；科技净超配 37%（2020/8 以来最高），非必消净低配 34%（2008/7 以来最大），31% 认为\"债券收益率无序上升\"为最大尾部风险，23% 担忧 AI 泡沫。",
+      "bullets": [
+        {
+          "actor": "BofA FMS",
+          "actor_type": "Analyst",
+          "text": "现金 3.9% 处卖出信号区间，股票净多降至 44%",
+          "details": "尽管\"繁荣\"乐观情绪达到 2022 年 2 月以来最高，且通胀预期降至 2025 年 1 月以来最低，但股票净多头仓位从 49% 降至 44%。投资者现金水平维持在 3.9% 的低位，处于美银\"卖出信号\"区间（≤4.0%），显示市场风险偏好依然较高，但拥挤交易迹象明显。",
+          "important": true
+        },
+        {
+          "actor": "BofA FMS",
+          "actor_type": "Analyst",
+          "text": "科技净超配 37% 创 2020/8 新高，非必消净低配 34%",
+          "details": "基金经理对科技股的净超配比例达到 37%，为 2020 年 8 月以来最高；与此同时，对非必需消费品的净低配比例达到 34%，为 2008 年 7 月以来最大幅度。银行股配置也出现自 2023 年 3 月以来最大的月度降幅。",
+          "important": false
+        },
+        {
+          "actor": "BofA FMS",
+          "actor_type": "Analyst",
+          "text": "31% 视债券收益率无序上升为最大尾部风险",
+          "details": "31% 的受访者认为\"债券收益率无序上升\"是最大尾部风险，23% 担心\"AI 泡沫\"。39% 的投资者认为 AI hyperscaler 的资本支出是最可能引发系统性信用事件的源头。尽管多数人不预期短期内的 AI 资本支出削减，但预期未来 6 个月出现削减的比例已从 14% 升至 30%。",
+          "important": false
+        },
+        {
+          "actor": "BofA FMS",
+          "actor_type": "Analyst",
+          "text": "37% 称 10Y 若至 6% 将由股转债",
+          "details": "10 月份调查显示，投资者开始增加对债券、日本和英国股票以及公用事业板块的配置，同时减少对银行、美国股票和非必需消费品的持仓。对于 10 年期美债收益率，37% 的投资者表示若达到 6.0% 将从股票转向债券。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        6,
+        9
+      ],
+      "importance": 3,
+      "sources": [
+        "BofA"
+      ],
+      "date": "2026-10-14",
+      "image_urls": [
+        "/uploads/2026-10-14/0a504b38e639.png",
+        "/uploads/2026-10-14/209447bcca89.png"
+      ]
+    },
+    {
+      "id": "bofa-fms-asia-oct2026",
+      "topic": "美银亚洲基金经理调查",
+      "topic_tag": "ai",
+      "title": "BofA 亚洲 FMS：AI 定价\"充分\"比例降至 35%，存储成首选",
+      "summary": "仅 35% 投资者认为 AI 积极影响已充分定价（上月 55%），45% 超配或内部轮动 AI；70% 认为 AI 变现为未来 12 月亚太股票主要驱动；通胀上升预期从 25% 跳升至 50%；台湾日本续被看好，存储芯片成 AI 领域最佳风险回报。",
+      "bullets": [
+        {
+          "actor": "BofA Asia FMS",
+          "actor_type": "Analyst",
+          "text": "仅 35% 认为 AI 已充分定价（上月 55%）",
+          "details": "仅 35% 的投资者认为 AI 积极影响已充分定价，上个月 55%，45% 的投资者超配 AI 或进行内部轮动（9 月为 25%）。",
+          "important": true
+        },
+        {
+          "actor": "BofA Asia FMS",
+          "actor_type": "Analyst",
+          "text": "70% 视 AI 变现为未来 12 月亚太股市主驱动",
+          "details": "高达 70% 的受访基金经理认为，AI 的货币化（变现）能力将是未来 12 个月亚太地区股票表现的最主要驱动因素。尽管这一比例较上月下降了 15%，但仍占据主导地位。",
+          "important": false
+        },
+        {
+          "actor": "BofA Asia FMS",
+          "actor_type": "Analyst",
+          "text": "通胀上升预期从 25% 跳升至 50%",
+          "details": "宏观层面，虽然增长预期保持稳定，但通胀担忧显著升温。预计通胀将上升的投资者比例从 9 月的 25% 激增至 10 月的 50%。",
+          "important": false
+        },
+        {
+          "actor": "BofA Asia FMS",
+          "actor_type": "Analyst",
+          "text": "台日最被看好，存储成 AI 风险回报首选",
+          "details": "在地域配置上，台湾和日本继续成为投资者最看好的市场，反映出资金对科技和 AI 相关机会的持续偏好。对于除日本以外的亚洲市场，投资者在 10 月进一步轮动进入医疗保健、材料和工业板块，同时减少了对保险和消费相关行业的敞口。在日本市场，持仓高度集中在银行和半导体板块。此外，市场对半导体周期走强的预期恢复至 50%，存储芯片被视为 AI 领域中风险回报最佳的机会。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        7,
+        8
+      ],
+      "importance": 2,
+      "sources": [
+        "BofA"
+      ],
+      "date": "2026-10-14",
+      "image_urls": [
+        "/uploads/2026-10-14/ddf513c6c806.jpg",
+        "/uploads/2026-10-14/3b4415fadbbb.png",
+        "/uploads/2026-10-14/e34aff8e942b.png"
+      ]
+    },
+    {
+      "id": "ai-model-landscape-oct2026",
+      "topic": "AI 模型格局",
+      "topic_tag": "ai",
+      "title": "Gavin Baker & MS：开源权重崛起，基建受益",
+      "summary": "Gavin Baker 认为最可能格局是开源权重 token 占大头、头部前沿实验室仍盈利、AI 基础设施与应用层受益；MS CIO 调查显示约 45% 企业部署开源权重，三年内将升至 90%，45% 硬件专家预计 12 月内 AI 工作负载回流本地。",
+      "bullets": [
+        {
+          "actor": "Gavin Baker",
+          "actor_type": "KOL",
+          "text": "混合多模型格局：开源权重主导，基建最大受益",
+          "details": "尽管市场对 Anthropic 份额下滑、实际利率、利差及二阶效应感到紧张，但最可能的未来是混合多模型格局：开放权重 token 将占据绝大多数份额，头部前沿实验室仍能盈利（虽不如 5 月时乐观），而 AI 基础设施与应用层则从模型层的碎片化、竞争与更低利润率中大幅受益；模型层利润率下降会机械性推高算力需求（只要有人愿意为训练买单，而 Jensen 愿做 trainer of last resort），2024/2025 年低于市价的算力合同到期重定价后，云与 neocloud 收入将加速，有助于化解融资担忧；开放权重模型议价能力弱、加价幅度低，反而给云和 neocloud 带来更高的每 token 收入，是基础设施需求的最佳情形，而 4–5 家前沿实验室激烈竞争压缩利润率则为次优情形。",
+          "important": true
+        },
+        {
+          "actor": "Morgan Stanley CIO Survey",
+          "actor_type": "Analyst",
+          "text": "MS：开源权重企业采用率三年从 45% 升至 90%",
+          "details": "企业正加速采用开源权重模型。目前约 45% 的企业正在部署开源权重模型，预计三年内普及率将升至 90%；对应的工作负载占比也将从当前的 8% 增至 19%。出于数据主权、安全隐私及降低 Token 成本等诉求，45% 的硬件专家预计未来 12 个月内会将部分 AI 工作负载回流本地。摩根士丹利认为，随着开源与混合模式推进，本地基础设施（如 Dell、HPE）和多模型编排软件将显著受益。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "DELL",
+        "HPE"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Morgan Stanley"
+      ],
+      "date": "2026-10-14",
+      "image_urls": []
+    },
+    {
+      "id": "other-2026-10-14",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "其他零散信息",
+      "bullets": [
+        {
+          "actor": "Collins",
+          "actor_type": "Central-Bank",
+          "text": "[美联储] Collins：年底前利率仍需进一步加息",
+          "details": "波士顿联储 Collins 表示，要确保通胀率将持续回升至 2%，年底前利率还需进一步加息。时间安排仍依赖数据，AI 投资、电价和能源价格构成通胀上升风险。",
+          "important": true
+        }
+      ],
+      "tickers": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-10-14",
+      "image_urls": []
+    }
+  ]
+}
