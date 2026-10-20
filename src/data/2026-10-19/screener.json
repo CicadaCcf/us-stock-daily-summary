@@ -1,0 +1,59 @@
+{
+  "generated_at": "2026-10-19T21:31:29+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-10-19",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12624,
+    "partial_pass": 4,
+    "with_carryover": 5,
+    "after_full_check": 3
+  },
+  "rows": [
+    {
+      "tk": "SLN",
+      "nm": "Silence Therapeutics Plc American Depository Share",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 125.6,
+      "w1": 102.9,
+      "market_cap_bn": 1.22,
+      "dollar_vol_bn": 1.41,
+      "w1_avg_dollar_vol_bn": 0.29,
+      "reason": "",
+      "main_business": "利用siRNA平台研发创新基因药物的生物技术公司"
+    },
+    {
+      "tk": "IRON",
+      "nm": "Disc Medicine, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 38.9,
+      "w1": 30.5,
+      "market_cap_bn": 3.03,
+      "dollar_vol_bn": 0.67,
+      "w1_avg_dollar_vol_bn": 0.16,
+      "reason": "",
+      "main_business": "研发血液病创新疗法的临床阶段生物制药公司"
+    },
+    {
+      "tk": "CLF",
+      "nm": "Cleveland-Cliffs Inc.",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 16.3,
+      "w1": 9.4,
+      "market_cap_bn": 8.04,
+      "dollar_vol_bn": 1.25,
+      "w1_avg_dollar_vol_bn": 0.47,
+      "reason": "",
+      "main_business": "北美垂直整合钢铁生产商，主营铁矿石球团及扁钢制造"
+    }
+  ]
+}
