@@ -1,0 +1,489 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-mideast-oct21",
+      "topic": "美伊/中东地缘",
+      "topic_tag": "geo",
+      "title": "Trump称可随时结束对伊战争 伊军政被摧毁",
+      "summary": "Trump 高调宣称美国现在就能结束对伊战争，伊朗军政已被摧毁且不会获核武，同时批评欧洲未出力；Vance 拒在以色列大选前为内塔尼亚胡背书。能源部长 Wright 透露政府正讨论放松影子船队制裁以压低油运费。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "称美国现在就可以离开对伊战争，伊朗不会获核武",
+          "details": "Trump 称美国\"现在就可以离开\"对伊战争；伊朗军政\"被摧毁\"；伊不会获核武；称曾\"测试\"北约；称不知该与谁谈伊朗、领导人\"没了\"；批评欧洲未助美对伊。",
+          "important": true
+        },
+        {
+          "actor": "Vance",
+          "actor_type": "US-Executive",
+          "text": "拒在以色列10月27日大选前背书内塔尼亚胡",
+          "details": "Vance 拒绝在以色列 10 月 27 日大选前背书内塔尼亚胡，称重心是美国候选人与中期选举。",
+          "important": false
+        },
+        {
+          "actor": "Chris Wright",
+          "actor_type": "US-Executive",
+          "text": "能源部长：政府在讨论放松影子船队制裁",
+          "details": "Chris Wright 本周在利雅得称，政府在讨论放松对影子船队的制裁，以降低打击美国原油需求的创纪录运费。",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "Witkoff 奥斯陆会后计划赴莫斯科见普京",
+          "details": "Axios：奥斯陆会后 Witkoff 还计划赴莫斯科见普京。",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "伊朗战争推动美洲油气出口繁荣",
+          "details": "Trump 的伊朗战争正推动美洲的油气生产和出口繁荣，客户争相锁定可靠供应，越来越意识到中东扰动可能旷日持久。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Axios"
+      ],
+      "date": "2026-10-20",
+      "image_urls": []
+    },
+    {
+      "id": "ukraine-russia-oct21",
+      "topic": "俄乌/三方会谈",
+      "topic_tag": "geo",
+      "title": "Trump批Zelensky无助于结束战争 普京愿三方会谈核",
+      "summary": "Trump 公开表示 Zelensky 对解决问题帮助不大，建议换人代表乌克兰谈判；普京表态愿与 Trump、习近平举行三方核武与无核化会谈。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "称Zelensky无助于结束战争 应让他人谈判",
+          "details": "Trump 称 Zelensky 对解决问题帮助不大，\"我不认为他想结束这场战争；是时候让其他人代表乌克兰进行谈判了\"。",
+          "important": true
+        },
+        {
+          "actor": "普京",
+          "actor_type": "Foreign-Gov",
+          "text": "愿与Trump、习近平三方会谈核武与无核化",
+          "details": "被问是否同意与普京和习近平的三方会面，普京回答：\"没有，但我会这么做，我们会开这个会谈核武器和无核化\"。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-20",
+      "image_urls": []
+    },
+    {
+      "id": "boj-jgb-oct21",
+      "topic": "日本央行/JGB",
+      "topic_tag": "fed",
+      "title": "日本20年期国债拍卖创纪录需求 BOJ或上调通胀预期",
+      "summary": "日本 20 年期国债拍卖投标倍数 5.84 创纪录，远超历史均值，收益率随后回落最多 6bp 至 3.710%。FT 报道日本央行本月展望中或因油价上涨带来更持久价格压力而上调下一财年通胀预期。",
+      "bullets": [
+        {
+          "actor": "日本财务省",
+          "actor_type": "Foreign-Gov",
+          "text": "20年期JGB拍卖投标倍数5.84创纪录",
+          "details": "日本 20 年期国债拍卖创纪录需求：投标倍数 5.84（上次 4.01，年均 3.73）；20 年期收益率随后最多回落 6bp 至 3.710%。",
+          "important": true
+        },
+        {
+          "actor": "日本央行",
+          "actor_type": "Central-Bank",
+          "text": "本月展望或上调下一财年通胀预期",
+          "details": "因油价上涨带来比预期更持久的价格压力，日本央行本月展望中或上调下一财年通胀预期（FT）。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "FT"
+      ],
+      "date": "2026-10-20",
+      "image_urls": []
+    },
+    {
+      "id": "france-budget-oct21",
+      "topic": "法国预算/欧债",
+      "topic_tag": "rates",
+      "title": "法国2027预算表决在即 Lecornu或仍需动用49.3条",
+      "summary": "法国国民议会周二就 2027 预算收入部分表决，Commerzbank 警告即便通过，Lecornu 仍可能需在 12/17 前动用 49.3 条强推整体预算；法国国债收益率飙升外溢欧美。",
+      "bullets": [
+        {
+          "actor": "Commerzbank",
+          "actor_type": "Analyst",
+          "text": "警告Lecornu仍可能需用49.3条强推预算",
+          "details": "法国国民议会周二就 2027 预算收入部分表决；通过亦不保证整体通过，Commerzbank 警告 Lecornu 仍可能需动用 49.3 条于 12 月 17 日前强推。",
+          "important": true
+        },
+        {
+          "actor": "@elerianm",
+          "actor_type": "KOL",
+          "text": "法国国债收益率飙升外溢欧美",
+          "details": "@elerianm：法国国债收益率今天飙升（Bloomberg 图），带动欧洲同行走高，并部分外溢到美国。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Commerzbank",
+        "Bloomberg"
+      ],
+      "date": "2026-10-20",
+      "image_urls": []
+    },
+    {
+      "id": "ai-primary-oct21",
+      "topic": "AI 一级市场",
+      "topic_tag": "ai",
+      "title": "OpenAI 1.4T估值融资30B Nscale 30B估值IPO",
+      "summary": "OpenAI 据传仍在进行最后一轮融资，估值 1.4 万亿目标 30 亿；Nscale IPO 预计 30 亿估值融资超 30 亿按计划推进；韩国数据中心公司 Elice 上市首日最多跌 32%；彭博调查发现 Z.AI 创始人曾参与MI5 指与中国情报有关的研究所资助项目。",
+      "bullets": [
+        {
+          "actor": "OpenAI",
+          "actor_type": "Corporate",
+          "text": "传最后一轮融资估值$1.4t 目标$30b",
+          "details": "传 OpenAI 仍在进行最后一轮融资，估值 $1.4 t，目标 $30 b。",
+          "important": true
+        },
+        {
+          "actor": "Nscale",
+          "actor_type": "Corporate",
+          "text": "IPO预计$30b估值融资超$3b",
+          "details": "Nscale 的 I.P.O. 预计以 $30 b 估值融资超 $3 b，目前仍按计划推进。",
+          "important": false
+        },
+        {
+          "actor": "Elice",
+          "actor_type": "Corporate",
+          "text": "韩国数据中心公司上市首日最多跌32%",
+          "details": "数据中心公司 Elice 在韩国股市上市首日盘中最多跌 32%。",
+          "important": false
+        },
+        {
+          "actor": "彭博",
+          "actor_type": "新闻",
+          "text": "Z.AI四位创始人曾参与MI5指与中国情报有关研究所资助项目",
+          "details": "彭博发现 Z.AI 四位创始人曾参与一研究所资助的研究，MI5 指该所与中国情报有关；中方否认。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        7
+      ],
+      "importance": 2,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-10-20",
+      "image_urls": [
+        "/uploads/2026-10-20/8831119fb957.jpg"
+      ]
+    },
+    {
+      "id": "oil-market-oct21",
+      "topic": "原油市场",
+      "topic_tag": "oil",
+      "title": "VLCC有效利用率95% UBS/MS维持Brent $100",
+      "summary": "VLCC 剔除伊朗船后有效利用率约 95%，实货比表观紧；Murban/Oman 中质进远东利润升至 +$10/bbl；UBS 基准 Brent $100、协议情形可能跌破 $70；MS Q4 均价 $100，中东供应恢复要等 2027；Barclays 维持 2026 $100/2027 $85。",
+      "bullets": [
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "基准Brent $100 协议情形可能跌至$60-70",
+          "details": "UBS Oil：风险溢价支撑 Brent 在 $100/bbl 以上，但供需不如此前紧张；9 月 OPEC+ 产量 mom +2.3M b/d，沙特恢复至 8.3M b/d；10 月海湾出口较 9 月再降约 2M b/d、较冲突前低约 8M b/d。2026 年需求增长下调至 -2.1M b/d（柴油 -700K b/d），赤字从 2.3M b/d 下调至 2.0M b/d，年底库存约 7.4-7.5B 桶。基准 Brent 全年均价 $100/bbl，上行破 $120/bbl；若美伊达成协议且供应快速恢复，可能跌破 $80，甚至 $70 或 $60。当日 Brent 现货 $109.33。",
+          "important": true
+        },
+        {
+          "actor": "@CRUDEOIL231",
+          "actor_type": "KOL",
+          "text": "VLCC剔除伊朗船后有效利用率约95% 实货更紧",
+          "details": "全球 923 艘 VLCC 中约 120 艘伊朗船基本不对主流租家开放，剔除后约 803 艘，其中 766 艘在活跃交易，有效船队利用率约 95%，还没计入其他受制裁或机械停用的吨位；活跃 VLCC 的重载比例约 42%，低于约 45% 的历史基准。压载航行异常高，比 2025 年季节基线多约 20 艘。",
+          "important": false
+        },
+        {
+          "actor": "@JuneGoh_Sparta",
+          "actor_type": "KOL",
+          "text": "Murban/Oman进远东利润升至+$10/bbl",
+          "details": "随着原油 FOB 和 VLCC 运费下跌，Murban 和 Oman 中质油进远东的利润升至 +$10/bbl，交易员要问的是中国出口增加后轻质产品裂解会否继续下跌。",
+          "important": false
+        },
+        {
+          "actor": "@FluxOfficials",
+          "actor_type": "KOL",
+          "text": "本周Dubai价差走强 Brent/Dubai测-$3支撑",
+          "details": "本周 Dubai 价差走强、Brent/Dubai 走弱，看向测试上周 -$3/bbl 支撑。",
+          "important": false
+        },
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "Brent Q4均价$100 中东供应恢复要等2027",
+          "details": "MS：中东供应恢复需等到 2027 年，Brent Q4 均价 $100/bbl，市场维持赤字。",
+          "important": false
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "维持Brent 2026 $100、2027 $85",
+          "details": "Barclays 维持 Brent 2026 年 $100/bbl、2027 年 $85/bbl 预测。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "UBS",
+        "Morgan Stanley",
+        "Barclays"
+      ],
+      "date": "2026-10-20",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-rates-inflation-oct21",
+      "topic": "卖方：利率/通胀",
+      "topic_tag": "rates",
+      "title": "JPM/Barclays/Citi：通胀粘性 Fed仅剩25bps甚至加息",
+      "summary": "JPM 预计 Fed 到 2027 年底仅再加 25bps 至 4.25%，远低于市场定价的 79bps 降息；Barclays 因 9 月 CPI 超预期大幅上调通胀路径，改为 2026/12 与 2027/1 各加 25bps 至 4.25-4.50%；Citi 认为 9 月 CPI 超预期中 10bps 来自 OER 和二手车一次性扰动，预计未来几个月通胀走软。",
+      "bullets": [
+        {
+          "actor": "JPM Global Economics",
+          "actor_type": "Analyst",
+          "text": "Fed至2027年底仅再加25bps 市场\"降息魔法思维\"应终结",
+          "details": "JPM Global Eco：全球增长高于潜在、产出缺口转正，发达市场核心通胀仍高于目标，利率需在更长时间维持高位，市场对快速降息的\"魔法思维\"应终结。预测 2026 年美国实际 GDP 2.4%、核心 PCE 3.1%；9 月核心 CPI yoy 2.6%，8 月核心 PCE yoy 3.0%，超级核心服务 yoy 3.5%。至 2027 年底：Fed 仅再加 25bps 至 4.25%（市场定价 79bps 降至 4.79%），ECB 加 50bps 至 3.00%（市场 77bps），BOJ 加 100bps 至 2.25%（市场 83bps）。",
+          "important": true
+        },
+        {
+          "actor": "Barclays Global Macro",
+          "actor_type": "Analyst",
+          "text": "改为2026/12和2027/1各加25bps 终点4.25-4.50%",
+          "details": "Barclays 因 9 月通胀超预期上调核心通胀预测：核心 PCE 2026Q4 3.2%（+0.2pp）、2027Q4 2.6%（+0.3pp），核心 CPI 2026Q4 2.8%。Fed 路径改为 2026 年 12 月和 2027 年 1 月各加息 25bps，终点 4.25%-4.50%，2027 全年维持；此前预期仅 12 月加一次、2027 年底降息。交易上收 1y2y SOFR，隐含实际政策利率约 2.25%。",
+          "important": false
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "9月核心CPI mom 0.33%超预期 判断为一次性扰动",
+          "details": "Citi：9 月核心 CPI mom 0.33%（花旗预期 0.18%），yoy 2.56%；15bps 超预期中约 10bps 来自 OER（mom 0.35%，集中在中西部）和二手车，判断为一次性扰动。预计 9 月核心 PCE mom 0.31%、yoy 3.1%，未来几个月月度通胀走软。核心 PCE yoy 预测 2026Q4 2.9%、2027Q1 2.7%、Q2 2.5%、Q3 2.3%；去年政府停摆导致 10 月无核心 CPI 同比读数、11 月同比偏高。",
+          "important": false
+        },
+        {
+          "actor": "Barclays US Rates",
+          "actor_type": "Analyst",
+          "text": "8月外资净买入美长固$147B 但官方需求走软",
+          "details": "8 月外资净买入美国长期固收 $147B（7 月 $37B，6mo 均值 $87B），其中长期 UST $109B（私人 $91B、官方 $18B），公司债 $42B；日本卖 T-bill $49B，或反映 7/30-8/26 约 ¥15T 的外汇干预。剔除加拿大后外需 $111B，但美联储托管持仓 1-8 月累计降 $109B，与 TIC 官方净买入 $40B 持续背离；截至 9/30 四周再降约 $19B、之后又降约 $32B。预计 Fed 11 月中旬以每月 $10B 恢复 RMP；截至 10/15 一周固收基金仅流入约 $6B。",
+          "important": false
+        },
+        {
+          "actor": "Citi Quant Macro",
+          "actor_type": "Analyst",
+          "text": "复盘21次10Y上行>70bps：油价见顶几乎总领先",
+          "details": "复盘 21 次 UST 10Y 上行超过 70bps 的事件：油价见顶几乎总领先收益率见顶，前端盈亏平衡率通常提前 1-2mo 见顶，5s30s 约提前 1mo 走平，HY 利差同步走阔、IG 滞后 1-2mo。当前信号矛盾：油价未回落、前端盈亏平衡率仍在走强、DXY 重新走强；HY 利差扩大、周期/防御走弱 2-3mo、质量因子上涨则符合见顶特征。无法确认 10Y 已见顶，可能需要中期选举后出现积极地缘消息。Regime 模型转向晚期周期：股票减持、减持信用，增持非美债券和商品，久期中性。",
+          "important": false
+        },
+        {
+          "actor": "Mark Woodruff (花旗澳)",
+          "actor_type": "Analyst",
+          "text": "美债作为组合对冲可靠性下降",
+          "details": "花旗澳大利亚 CEO Mark Woodruff 称：尽管美债收益率更高，美债作为组合对冲的可靠性下降——中性利率上移、通胀粘性、政府债供给增加。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        4
+      ],
+      "importance": 3,
+      "sources": [
+        "JPMorgan",
+        "Barclays",
+        "Citi"
+      ],
+      "date": "2026-10-20",
+      "image_urls": [
+        "/uploads/2026-10-20/b81ff94cc4b5.jpg"
+      ]
+    },
+    {
+      "id": "ms-midterm-oct21",
+      "topic": "MS 中期选举 FAQ",
+      "topic_tag": "policy",
+      "title": "MS：民主党横扫概率65% 分裂政府下财政是唯一变量",
+      "summary": "摩根士丹利预测民主党赢众议院 90%、参议院 63%，横扫概率 65%，微弱多数 29%，共和党全胜 8%。关税/贸易/移民等行政主导政策不受影响，财政成唯一敏感变量；民主党微弱多数下 2-7Y 国债供给压力最小、收益率最低。",
+      "bullets": [
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "民主党横扫65% 微弱多数29% 共和党全胜8%",
+          "details": "MS 预测市场：民主党赢众议院 90%、参议院 63%，民主党横扫 65%、微弱多数 29%、共和党全胜 8%。关税、贸易、移民等行政主导政策不会因分裂政府改变，财政是唯一敏感变量：SNAP/Medicaid 削减时点、国防开支、12/11 CR 到期、债务上限 X-date 约 2027Q3。",
+          "important": true
+        },
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "民主党微弱多数下2-7Y供给压力最小 收益率最低",
+          "details": "国债供给：共和党获胜时 2-7Y 供给风险来自可能的和解法案；民主党横扫消除供给上行风险；民主党微弱多数下供给压力最小、2-7Y 收益率最低。",
+          "important": false
+        },
+        {
+          "actor": "@TheShortBear",
+          "actor_type": "KOL",
+          "text": "民主党横扫概率越高 伊朗升级可能性越低",
+          "details": "@TheShortBear：民主党横扫的概率越高，结果的不确定性越低，在他看来伊朗 escalation 的可能性也越低，收益率和油价也越低。若概率继续累积，市场也许会开始看穿，利好罗素等。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Morgan Stanley"
+      ],
+      "date": "2026-10-20",
+      "image_urls": []
+    },
+    {
+      "id": "equity-positioning-oct21",
+      "topic": "股票仓位/技术面",
+      "topic_tag": "earnings",
+      "title": "HF科技敞口以2016以来最快速度削减 散户回撤26%",
+      "summary": "过去一周 HF 以 2016 年以来最快速度削减科技敞口，纳 100 跌 5.5%，但科技仍占 23.5%；美国基本面多空净杠杆降至 43.7%，一年和五年都是第 0 百分位；散户组合回撤 -26.2%。GS 风险偏好三周连降转负，12mo 目标 SPX 8700；JPM 技术面维持防御，SPX 7500 为止损。",
+      "bullets": [
+        {
+          "actor": "@neilsethinew",
+          "actor_type": "KOL",
+          "text": "美国L/S净杠杆43.7% 五年第0百分位",
+          "details": "HF 整体净持仓降到过去五年中除 Liberation Day 外未见的水平。美国多空基金总杠杆在一年第 56 百分位（五年第 90），净杠杆录得 Apr'25 以来最大单周降幅、五年第 4 大，降至 43.7%，一年和五年都是第 0 百分位。美国基本面多空比（MV）一年和五年都在第 0 百分位。HF 减多加空，可能是为保住不错的一年，但也留下大量重新入场的空间。",
+          "important": true
+        },
+        {
+          "actor": "@DeItaone",
+          "actor_type": "KOL",
+          "text": "HF以2016以来最快速度削减科技敞口",
+          "details": "截至 October 15 的五个交易日，HF 以至少 2016 年以来最快的速度削减科技敞口。纳斯达克 100 上周跌 5.5%，半导体股遭遇最大金额抛售。尽管如此，科技仍占对冲基金组合的 23.5%，接近历史高位。",
+          "important": false
+        },
+        {
+          "actor": "@Hedgeye",
+          "actor_type": "KOL",
+          "text": "散户投资者背着-26.2%回撤",
+          "details": "@Hedgeye：散户投资者现在背着 -26.2% 的回撤。",
+          "important": false
+        },
+        {
+          "actor": "GS GOAL",
+          "actor_type": "Analyst",
+          "text": "风险偏好3wk连降转负 12mo SPX目标8700",
+          "details": "GS GOAL Kickstart：风险偏好指标连续 3wk 下降并转负，五个子成分全部回落，情绪/仓位指标降至第 46 百分位（4月以来最低）；信用领先恶化，CCC-BB 利差、hyperscaler CDS 和 neocloud OAS 走阔，AI 相关资产走弱恢复了久期对冲 AI 主题的作用。3mo 超配股票和现金、低配信用、久期中性，12mo 超配股票和债券。12mo 目标：SPX 8700（现 7659）、UST 10Y 4.44%（现 5.08%）、WTI $70（现 $108）、Gold $5235。",
+          "important": false
+        },
+        {
+          "actor": "JPM Equity Technicals",
+          "actor_type": "Analyst",
+          "text": "SPX距高点仅2-5% 7500为止损 7000或秋季底",
+          "details": "SPX 距高点仅 2-5%，但自 9 月初板块平均回撤约 8%，SPW 与 SPX 的 63d 相关性降至 1990 年以来最低；SOX 测试 200 日线 10618 和 10445-10895 支撑，NDX 跌破 50 日线。维持谨慎防御，7500 为多头跟踪止损，跌破先看 7237-7313，7000 附近可能是秋季底部。SPW 在 8300 获支撑并触发动量背离买入信号，1990 年以来 106 次同类信号 1-3mo 命中率 68%-72%。",
+          "important": false
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "美股YTD流入超$340B 波控基金几无加仓空间",
+          "details": "Barclays Equity Positioning：美国股票基金 YTD 流入超 $340B；波动率控制基金股票敞口约 95% 为年内高点，几乎没有加仓空间；CTA SPX 多头信号 76%、NDX 55% 但不对称性向下，UST 各期限空头 -49% 至 -91%（US30Y -91%）。机构认沽开仓比率上升，SPX 偏斜陡至 5y 区间上四分位，VIX 10/16 单日 +5.8 点超出模型隐含水平；散户持续流入杠杆 ETF。",
+          "important": false
+        },
+        {
+          "actor": "花旗",
+          "actor_type": "Analyst",
+          "text": "Kospi/日经新空头累积 亚洲为全球最弱区域",
+          "details": "花旗称 Kospi 与日经新空头持续累积，亚洲为全球最弱区域；未见有意义买盘或情绪早期企稳。",
+          "important": false
+        },
+        {
+          "actor": "@markminervini",
+          "actor_type": "KOL",
+          "text": "Q4和中期选举后季节性仍压倒性bullish",
+          "details": "@markminervini：Q4 和中期选举后的季节性仍压倒性 bullish，但这只是倾向而非保证。",
+          "important": false
+        },
+        {
+          "actor": "@DannyDayan5",
+          "actor_type": "KOL",
+          "text": "四大行贷款增速放缓至7% 仍是GFC以来最强",
+          "details": "@DannyDayan5：四大行贷款增速放缓至 7%，仍高于名义 GDP，仍是 GFC 以来最强。放缓只来自 Citi，其他几家与 Q1 至 Q3 的速度相近。这股推高通胀的需求力量滞后显现。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2,
+        3,
+        5,
+        6
+      ],
+      "importance": 3,
+      "sources": [
+        "Goldman Sachs",
+        "JPMorgan",
+        "Barclays",
+        "Citi"
+      ],
+      "date": "2026-10-20",
+      "image_urls": [
+        "/uploads/2026-10-20/e725ee355b48.jpg",
+        "/uploads/2026-10-20/e08aa3145c85.png",
+        "/uploads/2026-10-20/7addb83205e3.jpg",
+        "/uploads/2026-10-20/4caa0aa83d8b.jpg"
+      ]
+    },
+    {
+      "id": "misc-oct21",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "兜底：杂项",
+      "summary": "用户上传的香港智能身份证预约凭证截图与一组标注为 Total/Paid/Free 的周度柱状图，与宏观主题关联较弱，归入其他。",
+      "bullets": [
+        {
+          "actor": "Unknown",
+          "actor_type": "Unknown",
+          "text": "香港智能身份证预约凭证截图",
+          "details": "用户上传了一张香港入境处智能身份证首次登记预约凭证截图（九龙辦事處深水埗長沙灣道303號，预约时间 2026年11月9日 下午 2:30，交易参考 5792 6102 1100 0007），与宏观无关。",
+          "important": false
+        },
+        {
+          "actor": "Unknown",
+          "actor_type": "Unknown",
+          "text": "周度Total/Paid/Free柱状图",
+          "details": "一组周度 Total/Paid/Free 柱状图，Latest week：Total 164T、Paid 91.6T、Free 4.97T，上下文未提供明确主题归属。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        1
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-10-20",
+      "image_urls": [
+        "/uploads/2026-10-20/c9bd1f3cc65e.png",
+        "/uploads/2026-10-20/0896537662ab.jpg"
+      ]
+    }
+  ]
+}
