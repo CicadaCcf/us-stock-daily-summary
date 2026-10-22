@@ -1,0 +1,476 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-oct19",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "Trump 称伊朗战争将很快结束，第三轮战争概率升至 90%",
+      "summary": "Trump 公开喊话伊朗战争会很快结束、油价会暴跌；KOL Trita Parsi 评估第三轮战争概率已接近 90%，美方提案要伊朗先运出 60% 高浓铀换解除封锁、谈不成。伊朗官员威胁打击地区数据中心和海底电缆。",
+      "bullets": [
+        {
+          "actor": "Trita Parsi",
+          "actor_type": "KOL",
+          "text": "评估第三轮美伊战争概率接近 90%",
+          "details": "Trita Parsi：第三轮战争的可能性在他的评估里已接近 90%。Trump 与 Netanyahu 协调，Hegseth 突访以色列，部队调动，美方提案根本谈不成；Trump 想用解除封锁换伊朗的 60% 高浓铀，而不是换海峡重开；不愿先让步，却要伊朗先运出高浓铀，大概率引发第三轮战争，时间在中期选举前，可能在以色列 27 日选举前。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "伊朗战争会很快结束、油价会像石头一样掉下来",
+          "details": "Trump：伊朗战争会\"很快结束，不管用哪种方式\"，油价会\"像石头一样掉下来\"。他称伊朗的\"梦想\"是拖过中期选举，又说为阻止伊朗拥核付出的代价很小。",
+          "important": false
+        },
+        {
+          "actor": "Gregory Brew",
+          "actor_type": "KOL",
+          "text": "伊朗高官威胁打击地区数据中心和海底电缆",
+          "details": "Gregory Brew：伊朗似乎预期美以即将升级，多名高官威胁打击地区数据中心和海底电缆。",
+          "important": false
+        },
+        {
+          "actor": "TankerTrackers",
+          "actor_type": "KOL",
+          "text": "MoU 破裂后 CENTCOM 加强护送，形成油轮 rat race",
+          "details": "TankerTrackers：Brent 自 7 月初回升源于流量争夺——MoU 实际破裂后 CENTCOM 加强护送，人人都想多运油，形成对原油和油轮的 \"rat race\"。",
+          "important": false
+        },
+        {
+          "actor": "El-Erian",
+          "actor_type": "KOL",
+          "text": "中东出口已超战前但 Brent 仍 $109：供需两头紧",
+          "details": "El-Erian 引 WSJ：中东石油出口已超过战前水平，但 Brent 仍在 $109——供给疑虑（交易员担心当前流量不可持续）、需求压力（主权和企业库存已耗尽，急需回补）。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-10-21",
+      "image_urls": []
+    },
+    {
+      "id": "us-admin-policy-oct19",
+      "topic": "美国行政与住房/数据中心政策",
+      "topic_tag": "policy",
+      "title": "Trump 要数据中心向社区付分红，白宫酝酿中期选举前物价行政令",
+      "summary": "Trump 敦促数据中心开发商向当地社区支付\"分红\"并自建电源；白宫讨论中期选举前出台针对高物价（含住房成本）的行政令；Bessent 称 2027–28 仍计划行动 Fannie/Freddie 但 north star 是不扩大房贷利差。",
+      "bullets": [
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "2027–28 仍计划处理两房，前提是不扩大房贷利差",
+          "details": "Bessent：仍计划在 2027–28 对 Fannie 和 Freddie 采取行动，但 north star 是任何方案都不能扩大房贷利差；改变所有权结构是否有助于房主 \"unclear\"。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "敦促数据中心向社区付分红并自建电源",
+          "details": "Trump 敦促数据中心开发商向当地社区支付\"分红\"，并自建电源；这是提议，不是新规定。",
+          "important": false
+        },
+        {
+          "actor": "白宫",
+          "actor_type": "US-Executive",
+          "text": "讨论中期选举前出台针对高物价行政令",
+          "details": "白宫在讨论中期选举前出台针对高物价的行政令，其中一项针对住房成本。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-21",
+      "image_urls": []
+    },
+    {
+      "id": "boj-japan-oct19",
+      "topic": "日本央行",
+      "topic_tag": "fed",
+      "title": "日本官员称已接近工资驱动通胀临界点，暗示准备加息",
+      "summary": "日本财务大臣片山称日本正处在转向工资驱动的持续通胀的临界点；日本央行副行长氷見野称基础通胀已相当接近 2%，暗示准备加息。",
+      "bullets": [
+        {
+          "actor": "氷見野（BOJ 副行长）",
+          "actor_type": "Central-Bank",
+          "text": "基础通胀已相当接近 2%，暗示准备加息",
+          "details": "日本央行副行长氷見野称基础通胀已相当接近 2%，暗示准备加息。",
+          "important": true
+        },
+        {
+          "actor": "片山（日本财务大臣）",
+          "actor_type": "Foreign-Gov",
+          "text": "日本正处在转向工资驱动持续通胀的临界点",
+          "details": "日本财务大臣片山称日本正处在转向工资驱动的持续通胀的临界点。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-21",
+      "image_urls": []
+    },
+    {
+      "id": "buyside-ai-rates-oct19",
+      "topic": "买方观点",
+      "topic_tag": "ai",
+      "title": "Griffin 称 AI 几乎肯定处在泡沫中，Fink 警告收益率示警赤字",
+      "summary": "Ken Griffin 称 AI 几乎肯定处于泡沫中、质疑生产率能否支撑支出，但长期仍看好；Fink 警告数据中心建设放缓会推高算力成本和通胀，并称收益率上升是债市就赤字向华盛顿发出警告。",
+      "bullets": [
+        {
+          "actor": "Ken Griffin",
+          "actor_type": "KOL",
+          "text": "AI 几乎肯定处于泡沫中，长期仍看好",
+          "details": "Ken Griffin 称 AI\"几乎肯定\"处于泡沫中，质疑生产率提升能否支撑这些支出，但仍看好长期前景。",
+          "important": true
+        },
+        {
+          "actor": "Larry Fink",
+          "actor_type": "KOL",
+          "text": "数据中心放缓将推高算力成本和通胀，收益率在警告赤字",
+          "details": "Fink 警告数据中心建设放缓会让算力成本居高不下、推高通胀；并称收益率上升是在就赤字向华盛顿发出警告。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-21",
+      "image_urls": []
+    },
+    {
+      "id": "news-briefs-oct19",
+      "topic": "新闻速递",
+      "topic_tag": "macro-other",
+      "title": "阿曼原油升水跌至 7 月下旬低位、英国批准 Jackdaw 气田",
+      "summary": "阿曼原油升水创 7 月下旬以来最低、实货供应变充裕；英国批准 Jackdaw 气田、首批天然气本月底到达；马斯克据报下令降低乌克兰军用 Starlink 速度、鲁比奥否认华盛顿指使；SpaceX 与 Tesla 分别成立委员会研究合并；Terafab 2027 年中出首颗测试芯片；星舰第 15 飞将尝试双回收。",
+      "bullets": [
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "阿曼原油升水跌至 7 月下旬以来最低",
+          "details": "阿曼原油升水跌至 7 月下旬以来最低，实货供应变得更充裕。（BBG）",
+          "important": true
+        },
+        {
+          "actor": "英国政府/FT",
+          "actor_type": "新闻",
+          "text": "英国批准 Jackdaw 气田，本月底首批天然气",
+          "details": "英国批准 Jackdaw 气田，首批天然气最快本月底到达。（UK government, FT）",
+          "important": false
+        },
+        {
+          "actor": "WSJ/路透",
+          "actor_type": "新闻",
+          "text": "马斯克据报令乌军用 Starlink 降速，鲁比奥否认白宫指使",
+          "details": "马斯克据报下令降低乌克兰军用 Starlink 的速度；鲁比奥否认华盛顿指使。（WSJ, RTRS）",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "SpaceX 与 Tesla 各自成立委员会研究合并",
+          "details": "SpaceX 与 Tesla 各自成立独立委员会研究合并，尚无条款。（WSJ）",
+          "important": false
+        },
+        {
+          "actor": "路透",
+          "actor_type": "新闻",
+          "text": "Terafab 2027 年中出首颗测试芯片，2028H2 量产",
+          "details": "Terafab 目标 2027 年中出首颗测试芯片，2028 年下半年量产。（RTRS）",
+          "important": false
+        },
+        {
+          "actor": "Eric Berger",
+          "actor_type": "KOL",
+          "text": "星舰第 15 飞尝试同时回收助推器和飞船",
+          "details": "星舰第 15 次飞行将尝试同时回收助推器和飞船。（Eric Berger）",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TSLA"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "WSJ",
+        "FT",
+        "Bloomberg",
+        "Reuters"
+      ],
+      "date": "2026-10-21",
+      "image_urls": []
+    },
+    {
+      "id": "kol-oil-market-oct19",
+      "topic": "KOL 原油观点",
+      "topic_tag": "oil",
+      "title": "汽油批发跌至 2.5 月低位、原油投机仓位又拥挤",
+      "summary": "Javier Blas 称批发汽油创 2.5 月低、零售料走向 $4/gal，为 Trump 中期选举问题；Rory Johnston 警告投机持仓偏多拥挤易急跌；JH 看多实物流量回升不等于绝对价格回落；June Goh 称运费下跌、远东利润转正、油仍有支撑。",
+      "bullets": [
+        {
+          "actor": "Javier Blas",
+          "actor_type": "KOL",
+          "text": "批发汽油跌至 2.5 月低点，零售料走向 $4/加仑",
+          "details": "Javier Blas：批发汽油跌到 2½-month 低点；经验法则下零售汽油将走向每加仑 $4；汽油对 Trump 是比柴油更大的中期选举问题，若零售价降得不够快，Trump 可能抱怨大型石油公司。",
+          "important": true
+        },
+        {
+          "actor": "Rory Johnston",
+          "actor_type": "KOL",
+          "text": "投机持仓又偏多拥挤，油价更易急跌",
+          "details": "Rory Johnston：原油从最新一轮 jawbone 中反弹；投机持仓又偏多拥挤，油价更容易急跌（与 JH \"持仓极轻\" 相反）。",
+          "important": false
+        },
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "实物流量上升 ≠ 绝对价格下跌（看多）",
+          "details": "JH：实物流量上升 ≠ 绝对价格下跌（看多）：2 月下旬至今全球商业库存和 SPR 已被大量抽走，供给恢复到战前不等于价格回到战前；要看到岸价值与炼厂 netback。",
+          "important": false
+        },
+        {
+          "actor": "June Goh",
+          "actor_type": "KOL",
+          "text": "FOB 和 VLCC 运费下跌、远东炼油利润转正，油有支撑",
+          "details": "June Goh：原油 FOB 和 VLCC 运费下跌，远东炼油利润转正，Murban 和 Oman 进远东利润 +$10/桶；她认为油仍有支撑。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2,
+        3,
+        4
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-21",
+      "image_urls": [
+        "/uploads/2026-10-21/8426f1e13e13.jpg",
+        "/uploads/2026-10-21/6c0d3356a5b6.png",
+        "/uploads/2026-10-21/e462172a61a6.png"
+      ]
+    },
+    {
+      "id": "kol-ai-semi-oct19",
+      "topic": "KOL AI/半导体观点",
+      "topic_tag": "ai",
+      "title": "Niles 用互联网泡沫/GFC 类比 AI 回调，Bob Elliott 质疑 Anthropic 估值",
+      "summary": "Dan Niles 认为半导体已超卖、短期反弹概率高，用互联网泡沫（S&P -49%/SOX -83%）和 GFC（S&P -57%/SOX -66%）区间内的反弹幅度做类比；Bob Elliott 称 Anthropic 的拟议 IPO 估值大部分站不住；SPCX 新算力回本不到一年；THE SHORT BEAR 测算单一实验室年支出 $65–90B。",
+      "bullets": [
+        {
+          "actor": "Dan Niles",
+          "actor_type": "KOL",
+          "text": "半导体近期按指标已超卖，短期反弹概率高",
+          "details": "Dan Niles：近期 AI 反弹信心增强；即便已见 THE TOP，历史上至少有一波短期反弹的概率很高。假设看错 Agentic AI 推动基建至 2027、且 AI 交易顶部在 6/22（SOX 峰值）：互联网泡沫（3/24/00 起）S&P 跌 49%、SOX 跌 83%，期间 7 次反弹平均 S&P 14%、SOX 28%，8 次下跌平均 S&P 17%、SOX 34%；GFC（10/9/07–3/9/09）S&P 跌 57%、SOX 跌 66%，11 次反弹平均 S&P 10%、SOX 11%，12 次下跌平均 S&P 15%、SOX 19%。结论：无论对 AI 多空，近期仓位区别不大，半导体按近期指标已超卖。",
+          "important": true
+        },
+        {
+          "actor": "Bob Elliott",
+          "actor_type": "KOL",
+          "text": "Anthropic 披露后拟议 IPO 估值大部分站不住",
+          "details": "Bob Elliott：1/3 现实、2/3 幻想：Anthropic 收入增速和利润率披露后，即使按乐观解读，其拟议 IPO 估值的绝大部分也站不住。",
+          "important": false
+        },
+        {
+          "actor": "P Equity Research",
+          "actor_type": "Analyst",
+          "text": "SPCX 新算力部署回本期不到一年",
+          "details": "P Equity Research：SPCX 管理层按当前定价，新算力部署回本期不到一年；定价略高于上季度每瓦 $30–$50 区间上沿。",
+          "important": false
+        },
+        {
+          "actor": "THE SHORT BEAR",
+          "actor_type": "KOL",
+          "text": "单一实验室年支出相当于美国 GDP 的 0.2–0.3%",
+          "details": "THE SHORT BEAR：单一实验室平均每年 $65B–$90B 支出，相当于未来 7–9y 每年美国 GDP 的 0.2–0.3%；$600B 承诺 = 美国 GDP 的 2%。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-21",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-rates-fed-oct19",
+      "topic": "卖方：Fed/利率",
+      "topic_tag": "rates",
+      "title": "HSBC/DB/Nomura/MS/BofA 展望：10Y 破 5%、Fed 路径分歧大",
+      "summary": "HSBC 看 Fed 2026/12 加 25bps 后停、2027 不再加，远期曲线多出的加息是技术扰动；DB 上调美 2026 增长至 2.5%、12 月+3 月各加 25bps、2026 底 4.13%；Nomura/MS/BofA 关注 QT、r*、财政与赤字对长端的推动；BofA 维持\"更强更高更陡\"利率制度、UST 10Y 年底 5.00%。",
+      "bullets": [
+        {
+          "actor": "BofA US Rates",
+          "actor_type": "Analyst",
+          "text": "UST 10Y 周跌 17bps 至 5.06%，维持\"更强更高更陡\"制度",
+          "details": "BofA：尽管 9 月 CPI/PPI 超预期（核心 PCE 预估 mom 0.34%、yoy 3.1%），股市走弱、空头回补和避险推动 UST 10Y 周跌 17bps 至 5.06%，30Y -19bps 至 5.41%，2Y 4.74%。进入战术性久期反弹，但粘性通胀、财政赤字、名义增长和 AI 资本需求下\"更强、更高、更陡\"利率制度未变。交易：了结 10 月 FOMC OIS 付固定，维持做空 2Y，淡化 CTA 空头回补，做多 30Y 资产互换利差。技术支撑 5.02–4.92%，深度回调至 4.81%、不应跌破 4.74%，出现下跌衰竭信号后重新付固定，目标 5.60–5.74%，甚至 6.00–6.25%。预计 Fed 10/12 月各加 25bps，年底 4.25–4.50%；UST 10Y 年底 5.00%、2027 底 4.75%。牛熊指标从 8.1 降至 7.4 结束卖出信号，全球股票基金年化流入约 $1.3T、科技基金 $196B 创纪录。",
+          "important": true
+        },
+        {
+          "actor": "HSBC",
+          "actor_type": "Analyst",
+          "text": "预计 Fed 2026/12 加 25bps 后停、2027 不再加",
+          "details": "HSBC：预计 Fed 2026 年 12 月加息 25bps 后停止、2027 年不再加息，多数投资者预期还要加 50-75bps；远期曲线中的 2027 年加息定价更多是技术扰动和不确定性溢价，随其解除前端温和走平。UST 10Y 已突破 2023 年高点 5%，Fed 官员耐心、非农意外走弱、债市波动率从高位回落支持长端软顶，但波动率绝对水平仍偏高，暂不宣布久期反转。长端抛售由鹰派重定价、能源通胀和不确定性溢价驱动，财政并非主因（现券相对互换表现更好、拍卖有韧性、交易商持仓 YTD 下降）。基准为 2027 年 5 月前附息发行规模不变，削减长端供给只会带来短暂牛平；分裂政府限制财政扩张，但 2027 年债务上限谈判可能更复杂，对长端保持谨慎。Warsh 偏好更小资产负债表，即便不重启缩表，私人部门吸收更大比例供给也会结构性推高期限溢价。",
+          "important": false
+        },
+        {
+          "actor": "DB Global Eco",
+          "actor_type": "Analyst",
+          "text": "上调美 2026 增长至 2.5%，12/3 月各加 25bps、2026 底 4.13%",
+          "details": "DB：美国 2026 年增长上调至 2.5%（Q4/Q4），核心 PCE 2026Q4 3.2%、2027 2.5%，预计 Fed 12 月和 3 月各加 25bps，2026 年底政策利率 4.13%；中期选举或分裂政府，2027 年赤字占 GDP 6.9%。当前与 1997 年潜在相似点是 AI 投资热情逆转导致金融条件大幅收紧，否则历史规律支持 Fed 加息超预期；也提示当前定价可能已部分计入。全球 2026 增长 3.4%，AI 投资、宽松财政和健康私人资产负债表抵消能源冲击。美伊谈判僵持使 Brent 升至 ~$110/bbl，接近 Q4 不利情景；2027 初持续和解可回落至 $74/bbl，冲突贯穿 2027 则升至 $130/bbl。认为金融条件已收紧，全球央行紧缩可能小于市场定价。",
+          "important": false
+        },
+        {
+          "actor": "Nomura Global Policy",
+          "actor_type": "Analyst",
+          "text": "全球同步 QT 与同步加息推高利率，JGB 10Y 升至 3%",
+          "details": "Nomura：9 月 ECB、Fed、BOJ 同步加息，长端上行源于伊朗冲突通胀担忧和普遍扩张的财政：CBO 预计美国 FY2026 赤字从 $1.775T 扩大至 $1.993T（GDP 6.2%），中期选举前缺乏财政纪律推高 UST 收益率。美国银行贷款增速 7.6%，私人借贷需求基本正常化，此时 QT 会推高利率。美国基础货币近年未下降，但 Warsh 信奉弗里德曼、强调快速回收 QE 流动性，全球（除中国）走向同步 QT 与同步加息，利率维持高位；JGB 10Y 升至 3%，远超 BOJ 政策利率 135bps 的升幅。",
+          "important": false
+        },
+        {
+          "actor": "MS Cross-Asset",
+          "actor_type": "Analyst",
+          "text": "9 月核心 CPI mom 0.33%，股债相关性转负、UST 重拾避险",
+          "details": "MS：9 月核心 CPI mom 0.33%（预期 0.24%）、yoy 2.6%，核心商品 0.25%、核心服务 0.37%（OER 0.35%、酒店 2.04%）；核心商品更令人担忧，油价冲击传导可能已基本完成。预计 Fed 10 月不动、12/3 月各加 25bps，风险偏向更多更快。利率市场注意力转向高利率对增长的拖累，至 2028 年底定价约 17bps 降息，UST 与 SPX 周度收益 52wk 滚动相关性转负，美债重拾避险；若隐含谷底利率显著下行，将强化增持 UST 久期理由。交易：做多 2Y UST SOFR 互换利差，入场 -21.6bp。",
+          "important": false
+        },
+        {
+          "actor": "DB Fed Policy",
+          "actor_type": "Analyst",
+          "text": "r* 估计 2%–2.5%，中性利率存在上行风险",
+          "details": "DB：基于股债相关性的 r* 估计一年多来稳定在实际约 2%（名义 4%-4.25%），高频估计接近 2.5%（名义 4.5%-4.75%），中性利率存在上行风险。若中性利率确在 4%-4.25%，Fed 重定价应传导至银行贷款条件收紧；目前领先指标显示贷款条件接近中性但走弱，贷款标准演变将决定是否调整久期观点。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        6
+      ],
+      "importance": 3,
+      "sources": [
+        "HSBC",
+        "DB",
+        "Nomura",
+        "MS",
+        "BofA"
+      ],
+      "date": "2026-10-21",
+      "image_urls": [
+        "/uploads/2026-10-21/a8b383f96a8f.png"
+      ]
+    },
+    {
+      "id": "sellside-oil-oct19",
+      "topic": "卖方：原油/炼油",
+      "topic_tag": "oil",
+      "title": "GS/MS/Barclays/BofA 原油展望：运费狂飙、Brent 看 $90–$140",
+      "summary": "GS 称全球原油运费从一年前 $3/bbl 升至 >$20/bbl、中东线 >$35/bbl，Brent 基准 $90 年底/2027 均 $80，不利情景 2027 $125；MS 炼油黄金时代延至 2030、2Q27 炼厂加工低于共识 1-2M b/d；Barclays 维持 Brent 2026 $100、2027 $85；BofA 技术面看 Brent 突破 $110，目标 $119–$150+。",
+      "bullets": [
+        {
+          "actor": "GS Oil Freight",
+          "actor_type": "Analyst",
+          "text": "全球原油运费升至 $20/bbl+，中东线 $35/bbl",
+          "details": "GS：全球平均原油运费从一年前 $3/bbl 升至 $20/bbl 以上，中东航线超 $35/bbl。拆解：霍尔木兹战争风险溢价 $7/bbl（1/3）、STS 转运 $4/bbl（往返从 10d 增至 23d）、船燃同比 +70% 贡献 $4/bbl、油轮配置低效与改道 $3/bbl（VLCC 压载比例 50%）、伊朗船队缩减 ~40% 贡献 $2/bbl。价差扩大：Murban-Basrah 同比扩 $35/bbl；Brent-WTI 上周扩至 $14/bbl（通常 $5），美国降价维持对欧 ~2M b/d 出口。中国 50%、其他亚洲 80% 原油依赖长途进口，运费难转嫁、炼油毛利受挤压，可能削减产量推高成品油价。基准 Brent 年底 $90/bbl、2027 均 $80/bbl。",
+          "important": true
+        },
+        {
+          "actor": "GS Commodities",
+          "actor_type": "Analyst",
+          "text": "战术做多商品对冲组合，不利情景 Brent $140、2027 均 $125",
+          "details": "GS Commodities：基准 Brent 年底回落至 $90/bbl、TTF €70/MWh，但战术做多商品对冲组合：若 2027 年海湾产出较 2026/2 低 5M b/d，Brent 可能触及 $140/bbl、2027 均价 $125/bbl；过去 6mo Brent 与 SPX 日相关 ~-0.5、与 UST 10Y 收益率 ~0.6，能源上行同时拖累股债。BCOM YTD 总回报 36%。现货 Brent 已含 ~$25/bbl 风险溢价，更偏好非对称对冲：做多 EBOB Jun27 汽油期货和 TTF 2027Q1 看涨价差。结构性看多铜（2027 $15.4K/t）、金（2026 底 $4650、2027 底 $5400）和 PJM 电力。",
+          "important": false
+        },
+        {
+          "actor": "MS Oil",
+          "actor_type": "Analyst",
+          "text": "俄中东炼厂加工同比降 3M b/d，欧洲柴油或创纪录低位",
+          "details": "MS Oil：俄罗斯（无人机袭击）和中东（霍尔木兹）炼厂 9 月加工量同比合计降约 3M b/d，约占全球海运成品油 28M b/d 的 10%，是柴油逼近历史高位的主因。炼厂为抓高利润推迟检修，4Q26 计划检修 ~3M b/d、2Q27 升至 ~6.4M b/d，4Q 至 2Q 增量 3.4M b/d，是正常季节波动 2.5 倍、2010 年以来最大。预计 2Q27 全球炼厂加工量约 81M b/d，较共识 82-83 低 1-2M b/d，较 2Q25 仍低 ~3M b/d。欧洲柴油即便 2027 恢复净进口 150K b/d，2027/11 商业库存仍降至 ~130M 桶，低于 2018 年 134M 桶纪录低点，价格需维持在 $180-200/bbl。",
+          "important": false
+        },
+        {
+          "actor": "MS Refining",
+          "actor_type": "Analyst",
+          "text": "炼油黄金时代可延至 2030，全球盈利上调均值 52%",
+          "details": "MS Refining：认为炼油\"黄金时代\"可延续至 2030 年，全球炼厂盈利预期平均上调约 52%。依据：中国以外新建炼厂需 10y+、回收期 ~16y（400K b/d 投资约 $12B）；中国成品油出口配额从 2020 年 59Mt 降至 2025 年 32Mt、2026 迄今持平；美国 12mo 滚动行驶里程 yoy +0.8%，中国以外需求有韧性。空头风险：中国茶壶炼厂恢复出口、油轮运费自 2026/2 涨 3 倍冲击现货采购型炼厂（覆盖标的中 40% 直接暴露）、~4M b/d 受损俄罗斯炼能在 2027H2 出口正常化。增持：MPC、VLO、PSX、DINO、PBF、DK、XOM、SU、0386.HK 等。",
+          "important": false
+        },
+        {
+          "actor": "Barclays Oil",
+          "actor_type": "Analyst",
+          "text": "维持 Brent 2026 $100、2027 $85，仓位偏轻给上行弹性",
+          "details": "Barclays：外交解决难以让中东供应和闲置产能回到战前，现货基准显著高于近月期货。截至 10/10 一周霍尔木兹直接原油及成品油净出口 10.9M b/d（前周 10.5M），计入管道绕行和 STS 后，战争升级前 95d 区域净出口均值 15.8M b/d，较战前降 31%。中国 9 月原油进口 9.1M b/d、前 9 月均 9.6M b/d（2025 全年 11.6M），可观测库存今年迄今降 98M 桶（去年增 130M）；除中国外全球库存和核心成品油库存下降，美国炼厂开工高位。Brent+WTI 管理资金净多头处 2014 年以来第 27 百分位，仓位偏轻提供上行弹性。维持 Brent 2026 $100、2027 $85（远期隐含 $96、$92）。",
+          "important": false
+        },
+        {
+          "actor": "BofA Commodity Technicals",
+          "actor_type": "Analyst",
+          "text": "Brent 突破 $110，目标 $119–$122、更高 $134/$150/$181",
+          "details": "BofA Commodity Technicals：Brent 嵌套第三浪上涨进行中，上周创 5 月以来最高周收盘并测试 $110；周线收于 $110 上方确认突破，目标 $119.98-122.14、$129.66，更高看 $134/$150/$181，支撑 $102.33-100.73、$97.06，$94 上方维持看多。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MPC",
+        "VLO",
+        "PSX",
+        "DINO",
+        "PBF",
+        "DK",
+        "XOM",
+        "SU"
+      ],
+      "image_indexes": [
+        0,
+        1,
+        5
+      ],
+      "importance": 3,
+      "sources": [
+        "GS",
+        "MS",
+        "Barclays",
+        "BofA"
+      ],
+      "date": "2026-10-21",
+      "image_urls": [
+        "/uploads/2026-10-21/f90c2c4478d4.jpg",
+        "/uploads/2026-10-21/dd57548df8b6.jpg",
+        "/uploads/2026-10-21/9dbbceb73959.png"
+      ]
+    },
+    {
+      "id": "other-2026-10-21",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "其他零散信息",
+      "bullets": [
+        {
+          "actor": "Jefferies",
+          "actor_type": "Analyst",
+          "text": "[卖方：美国消费] 消费情绪降至 86 创 2023/6 以来新低，卡支出骤降至 2%",
+          "details": "Jefferies：高频调查显示消费者情绪指数降至 86，为 2023 年 6 月以来最低，当前状况分项跌幅大于预期分项，个人财务状况降至 2024 年大选前低位。就业仍是唯一亮点，\"失去薪酬\"指标降至 11% 以下，2020 年以来少见。卡数据：10 月前 2wk 整体支出增速从 7-9 月的 4-6% 骤降至 2%，家具、餐厅、服装最弱；剔除加油站后的必需品支出 yoy 转负，判断消费放缓已经到来，油价对必需品的挤压开始显现。",
+          "important": true
+        }
+      ],
+      "tickers": [],
+      "importance": 1,
+      "sources": [
+        "Jefferies"
+      ],
+      "date": "2026-10-21",
+      "image_urls": []
+    }
+  ]
+}
