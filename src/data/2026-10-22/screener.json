@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-10-22T21:31:25+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-10-22",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12605,
+    "partial_pass": 6,
+    "with_carryover": 6,
+    "after_full_check": 2
+  },
+  "rows": [
+    {
+      "tk": "BHVN",
+      "nm": "Biohaven Ltd.",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 25.0,
+      "w1": 28.5,
+      "market_cap_bn": 2.22,
+      "dollar_vol_bn": 0.45,
+      "w1_avg_dollar_vol_bn": 0.11,
+      "reason": "",
+      "main_business": "研发免疫、神经与肿瘤领域创新药物"
+    },
+    {
+      "tk": "BRZE",
+      "nm": "Braze, Inc. Class A Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 0.4,
+      "w1": 51.0,
+      "market_cap_bn": 5.21,
+      "dollar_vol_bn": 0.42,
+      "w1_avg_dollar_vol_bn": 0.87,
+      "reason": "",
+      "main_business": "提供客户互动平台，连接消费者与品牌"
+    }
+  ]
+}
