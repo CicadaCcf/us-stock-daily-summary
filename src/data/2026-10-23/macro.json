@@ -1,0 +1,495 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-crisis-2026-10-22",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "Trump对伊言论反复 KOL警告美国面临战略抉择",
+      "summary": "Trump对伊朗谈判口风反复，先说在谈'a little bit'随即否认，并指控伊朗在中期选举前抬油价、伪造袭击。KOL Policy Tensor 认为伊朗转向打击美军基地是决定性 escalation，迫使美国在'让出霍尔木兹'与'击败伊朗'之间抉择。霍尔木兹7日流量恢复至16.9 MBPD（战前85%）。",
+      "bullets": [
+        {
+          "actor": "Policy Tensor",
+          "actor_type": "KOL",
+          "text": "伊朗打击美军基地是决定性 escalation，美国面临战略抉择",
+          "details": "Policy Tensor：伊朗转向打击美军基地是决定性 escalation，迫使美国在'让出霍尔木兹'与'击败伊朗'之间做战略抉择。1) 3个月来一直认为伊朗胜利理论（tit-for-tat抵消美国 escalation、靠霍尔木兹挤压逼美国让步）不再可行；2) 伊朗输掉'Battle of Hormuz'后流量回到战前水平，$100 油价成本与要价不相称；3) 伊朗曾试图袭击更多油轮重夺霍尔木兹控制权，失败后放弃；4) 伊朗现宣布若美国继续'猫鼠游戏'就打美军基地，之后美国只剩两个选项：在霍尔木兹要价上让步或试图击败伊朗；5) 政府原想等中期选举后再处理，现在不可能；对政府最好选项是接受 Bibi 的 Hail Mary，但不会有结果；6) 最终还得回到谈判桌，决心天平偏向伊朗，唯一出路是解除伊朗武装，而 3月已证明不可能；美国会消耗更多武器、失去更多基地作战使用，直到放弃，认识到'the second missile age simply does not admit an American sphere of influence near a great missile power'",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "对伊谈判口风反复，指控伊朗抬油价和伪造袭击",
+          "details": "Trump 对记者说美国在与伊朗谈判'a little bit'，随即又说没有在谈判，伊朗结果可能'fairly soon'出现；他说多数人预期选举后才有结果，'we are going to see what happens'；并称伊朗在中期选举前抬油价、伪造袭击",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "援引 Defense Production Act 用于石油生产和炼油",
+          "details": "Trump 援引 Defense Production Act 用于石油生产和炼油",
+          "important": false
+        },
+        {
+          "actor": "Rory Johnston",
+          "actor_type": "KOL",
+          "text": "中东原油出口短暂回到战前水平很了不起，但难以持续",
+          "details": "Rory Johnston：市场在2026年对极低库存异常耐心、对地缘风险相对麻木，好像没有什么能阻止油价突然回到过去那种猛烈的定价方式；中东原油总出口短暂回到战前水平很了不起，但要在那个水平上持续任何一段时间会难得多",
+          "important": false
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "Citi：短期油价风险仍偏上行，围绕二元结果嵌入事件溢价",
+          "details": "Citi Oil Monitor：短期油价风险仍偏上行，阿拉伯湾流量恢复但物流低效阻止交付供应正常化，以色列立法和美国中期选举期间地缘风险或重现；客户普遍认为石油综合体风险回报缺乏吸引力（地缘结果过于二元），预期美伊低强度紧张下油价震荡走强而非急性溢价，围绕二元结果的数字期权在近月嵌入大量事件溢价；中东原油出口仍比去年同期低超 4M b/d，9月阿拉伯湾超 1M b/d 出口经STS完成（占区域流量 7.5%，冲突前近零）",
+          "important": false
+        },
+        {
+          "actor": "Hormuz Strait Tracker",
+          "actor_type": "新闻",
+          "text": "霍尔木兹7日流量16.9 MBPD，恢复至战前85%",
+          "details": "Hormuz Strait Tracker（截至2025-10-22）：Current 7-day estimate 16.9 MBPD，为战前85%，战前 normal 约 20.0 MBPD；基于 Sentinel-1 和 Sentinel-2 影像、EIA/IEA/Kpler 基线",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "Policy Tensor",
+        "Citi",
+        "Hormuz Strait Tracker"
+      ],
+      "date": "2026-10-23",
+      "image_urls": [
+        "/uploads/2026-10-23/cf3714c341be.png"
+      ]
+    },
+    {
+      "id": "fomc-preview-rates-2026-10-22",
+      "topic": "FOMC预览与利率",
+      "topic_tag": "fed",
+      "title": "DB/Nomura/BofA/JPM 四家预览FOMC 10Y收益率单日大跌19.4bps",
+      "summary": "多家卖方发布 FOMC 预览：DB、Nomura 均预计10月按兵不动但12月再加25bps，BofA 维持 10Y 2026年底 5.00%。UST 收益率创2023年3月以来最大单日跌幅，10Y -19.4bps 至 4.95%，法国 OAT/Bund 利差走阔至欧债危机以来高位是导火索。",
+      "bullets": [
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "UST 10Y单日 -19.4bps 至 4.95%，法债利差走阔是导火索",
+          "details": "JPM UST：UST收益率创2023年3月以来最大单日跌幅：10Y -19.4bps 至 4.95%，2Y -18.8bps、5Y -20.3bps、30Y -15.1bps，导火索是法国OAT/Bund利差走阔 15bps 至2011年欧债危机以来高位；近 1mo UST收益率与NDX相关性增强、与Brent负相关（Brent突破 $110/bbl 后开始），股市或主导利率估值，10Y在 5%-6% 区间时高贴现率与高通胀开始压缩估值；继续推荐10s/30s陡峭化，过去 2wk 滞后重定价、约 6bps 过于平坦；2026年10Y和30Y拍卖终端用户需求均值 90.6%、90.1% 创纪录，外国参与9月中旬创纪录，8月TIC外资净买长债速度为1y多最快；技术面10Y进入 4.94%-5.02% 阻力区，下一阻力 4.75%-4.81%，上方支撑 5.035%-5.05% 与 5.15%-5.185% 缺口",
+          "important": true
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "DB：10月按兵不动但紧缩未结束，12月及明年3月各加25bps",
+          "details": "DB FOMC Preview：预计10月FOMC按兵不动但紧缩未结束，维持12月和明年3月各加 25bps 的基准，除非金融条件急剧收紧否则风险偏向更多加息；9月点阵图 18 位官员中 16 位预计年内至少再加一次，仅 4 位预计2026年全年超 50bps，暂停更多出于沟通与等待数据，基本面（增长稳健、劳动力市场稳定且有重新收紧风险、通胀广泛高企、金融条件不具限制性）并不支持跳过",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "Nomura：Logan、Hammack 两位鹰派投票支持加息",
+          "details": "Nomura FOMC Preview：预计10月维持不变、Logan 与 Hammack 两位鹰派投票支持加息，声明删除'更及时回归 2%'措辞；Warsh 不给直接前瞻指引但隐含支持12月加息，若淡化扩散指数改善、强调核心PCE动能上升即为鹰派信号；维持12月加 25bps 至 4.00%-4.25% 为终端利率、2027年全年不动；准备金管理购买使资产负债表每月均增约 $20B，MBS 减持再投资偏向T-bill",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "BofA：维持 UST 10Y 2026年底 5.00%、2027年底 4.75%",
+          "details": "BofA Rate：维持UST 10Y 2026年底 5.00%、2027年底 4.75%，经济团队预计Fed年内还加 2 次而市场预期下周按兵不动；预计ECB 12月加息、上调德债10Y预期，JGB 10Y维持 3%。中期选举对美元影响有限，风险在通胀粘性、油价、美国科技股抛售挑战美国例外论",
+          "important": false
+        },
+        {
+          "actor": "Mohamed A. El-Erian",
+          "actor_type": "KOL",
+          "text": "El-Erian：久违的经典避险日，油价涨喂的是增长担忧",
+          "details": "Mohamed A. El-Erian：美债市场迎来一个久违的经典避险日；科技股恐慌驱动 flight to quality、收益率大跌；油价上涨今天喂的是增长担忧而不是通胀担忧",
+          "important": false
+        },
+        {
+          "actor": "Joe Weisenthal",
+          "actor_type": "KOL",
+          "text": "Weisenthal 吐槽：收益率上下都有解释，'Make it make sense'",
+          "details": "Joe Weisenthal：大家都说这轮收益率下跌和 AI 放缓前景有关，可上行时大家又说市场在为债务规模恐慌，'Make it make sense!'",
+          "important": false
+        },
+        {
+          "actor": "Ed Bradford",
+          "actor_type": "KOL",
+          "text": "Ed Bradford：利率不停歇的买盘一定是空头回补",
+          "details": "Ed Bradford：利率这种不停歇的买盘一定是空头回补",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3,
+        5
+      ],
+      "importance": 3,
+      "sources": [
+        "DB",
+        "Nomura",
+        "BofA",
+        "JPM"
+      ],
+      "date": "2026-10-23",
+      "image_urls": [
+        "/uploads/2026-10-23/7189b850f19b.png",
+        "/uploads/2026-10-23/b6fec81ae821.png"
+      ]
+    },
+    {
+      "id": "ai-capex-labor-equities-2026-10-22",
+      "topic": "AI capex 与股市",
+      "topic_tag": "ai",
+      "title": "AI capex 2029年起将稳定在$1.6T+/年 GS测算替代9%劳动力",
+      "summary": "DB 图表显示 hyperscaler capex 从2020年略超$100B 增至2025年$500B、2026年近$1T，2029年起稳定在$1.6T+/年；META 将2026 capex下限提至$135-145B。GS 测算 AI 15% 生产率提升意味着约9%工人在转型中被替代。SemiAnalysis 预计全球（除中国）数据中心净新增2027E达51.2 GW。",
+      "bullets": [
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "DB：hyperscaler capex 2029年起将稳定在$1.6T+/年",
+          "details": "DB Chart：彭博估计hyperscaler capex从2020年略超 $100B 增至2025年 $500B、2026年接近 $1T，2029年起稳定在每年 $1.6T 以上；META将2026年capex下限提至 $135B-$145B，Q3收入 yoy +26%、广告均价 +14%、Muse 6wk 达 10M 用户但FCF转负；一年前META因支出警告单日跌约 11%，至今股价仍低于当时 7% 以上，AI股表现已从巨额投入者转向获利者；核心问题是超级智能能否足够快到来以证明每年 $1.5T capex合理",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS：AI 15%生产率提升=约9%工人在转型中被替代",
+          "details": "GS AI Labor：AI劳动力替代的紧迫担忧自春季峰值回落（裁员公告与新闻报道回落至年初水平），但早期逆风已现：AI暴露度最高行业就业增长连续 3mo 低于长期趋势约 10K，服务业AI采用与失业率相关性转正且显著；仅 23% 的美国企业已将AI纳入常规工作流。总体数据估计技术驱动生产率每升 1pp，失业率峰值暂时升 0.3-0.4pp（两年后消退），由总离职率累计升 0.5-0.6pp 驱动、招聘仅拖累 0.2pp；基准下AI带来 15% 全经济生产率提升意味着约 9% 工人在转型中被替代、招聘放缓额外拖累就业 3%；职业层面 25 个经历技术冲击的职业 5y 内就业平均 -25%，19/25 案例离职率上升（均值 +3.8pp）；自动化顺周期：衰退期常规职业占比急剧下降，整体失业率每升 1pp 技术替代职业就业额外 -4%，衰退时冲击对失业率影响比基准大 0.1-0.2pp",
+          "important": false
+        },
+        {
+          "actor": "SemiAnalysis",
+          "actor_type": "Analyst",
+          "text": "SemiAnalysis：全球（除中国）数据中心净新增2027E达51.2 GW",
+          "details": "SemiAnalysis Datacenter Industry Model（截至2026年10月）：全球除中国数据中心年净新增 2023年5.8 GW、2024年9.8 GW、2025年31.2 GW（Operational+UC 15.6 + Planned 15.6）、2026E 49.6 GW、2027E 51.2 GW（Operational+UC 39.4 + Planned 11.9）",
+          "important": false
+        },
+        {
+          "actor": "Eric Wallerstein",
+          "actor_type": "KOL",
+          "text": "Meta 表外 AI 支出相当于 GDP 2.5%，约欧盟国防两倍",
+          "details": "Eric Wallerstein：Meta 在表外 AI 基础设施上的支出相当于 GDP 的 2.5%, 大约是欧盟国防总支出的两倍",
+          "important": false
+        },
+        {
+          "actor": "OpenAI",
+          "actor_type": "Corporate",
+          "text": "OpenAI 谈判约$30B新融资，目标估值$1.25T低于此前$1.4T",
+          "details": "BBG报道：OpenAI 正在谈判约 $30B 的新融资，目标估值约 $1.25T，低于此前向部分投资者推介的 $1.4T",
+          "important": false
+        },
+        {
+          "actor": "Lance Breitstein",
+          "actor_type": "KOL",
+          "text": "Breitstein：本周一直空仓AI股，等更大投降式下跌再做多",
+          "details": "Lance Breitstein：AI 股周五和本周初都没能反弹，他本周一直空仓这些名字；今天翻转后对任何多头都没兴趣，反而在找卖出位做空等待下一腿；再次转多的最佳情形是这些名字出现第二轮更大的投降式下跌",
+          "important": false
+        },
+        {
+          "actor": "中国政经事实ChinaFacts",
+          "actor_type": "KOL",
+          "text": "ChinaFacts：当前环境类似去年4月，或有liberation day式一跌",
+          "details": "中国政经事实ChinaFacts：当前全球市场环境和去年 4月类似，结果会相当一致：对 AI 的质疑(capex 不可持续、开源冲击闭源)加强大外部冲击(当时 Trump 关税战，现在伊朗战争冲击油价、通胀和利率上行)；或许还有类似 liberation day 的一跌；市场忽视且严重低估了智能作为生产要素的供给增长与需求弹性曲线的形态",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "META",
+        "OPEN"
+      ],
+      "image_indexes": [
+        6
+      ],
+      "importance": 3,
+      "sources": [
+        "DB",
+        "GS",
+        "SemiAnalysis",
+        "Bloomberg"
+      ],
+      "date": "2026-10-23",
+      "image_urls": [
+        "/uploads/2026-10-23/33840607caf3.png"
+      ]
+    },
+    {
+      "id": "us-equities-flows-2026-10-22",
+      "topic": "美股与资金流",
+      "topic_tag": "earnings",
+      "title": "DB维持SPX年末目标8000 Q3盈利预期+34% JPM解析SPCX被动需求$124.5B",
+      "summary": "DB 维持 SPX 年末目标 8000、风险偏上行，预计 Q3 SPX 盈利 yoy +34% 远超共识 27%，科技板块+55%。JPM 测算 SPCX 锁定期到期催生基准情景累计被动需求约$124.5B/781.7M 股。Jefferies TMT 净流一年周期中走弱。",
+      "bullets": [
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "DB：维持SPX年末目标8000，Q3盈利yoy+34%",
+          "details": "DB US Equities：预计Q3 SPX盈利 yoy +34%（共识 27%），财报季超预期 5-6pp，驱动为AI需求、制造业和周期性板块回升及油价商品上涨，科技板块Q3盈利预期 +55%；剔除AI受益公司后其余成分股盈利仍增 20-21%、中位数公司 14-15%，非AI增长被低估，若兑现资金或从科技轮动；几周前将科技从超配战术下调至中性（跑赢过多、持仓偏重），长期上升趋势未破；维持SPX年末目标 8000、风险偏上行：过去 4y SPX处于每月约 2% 的上升通道，近 15mo 多次跌破后迅速回升，若重演年末可达 8500；SPX距历史高点约 1%，平均成分股自近期峰值 -6.5%；高利率不必然压低估值：当前利率上行更多由增长预期驱动、风险溢价下降抵消贴现率，股票对利率波动而非水平更敏感",
+          "important": true
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "JPM：SPCX锁定期催化基准被动需求$124.5B/781.7M股",
+          "details": "JPM Index Flows：SPCX（6月IPO）锁定期陆续到期推升自由流通，各指数供应商调整节奏不一形成多个催化剂，基准情景累计被动需求约 $124.5B、781.7M 股；假设约 80% A类股为自由流通，但股东结构透明度有限；S&P 9月年审将流通因子从约 8% 提至约 17%（纳入8月解锁的 86%），9月后解锁或要等到2027年9月；MSCI 11月半年审为最大不确定性（熊市维持 8%、基准约 35%、牛市 45%，参考日在10月最后 10 个交易日而最近解锁在10/22）；Russell 12/11半年重构预计完全纳入，SPCX成最大买入、被动需求约 $14-15B；Morningstar新方法12月起在上市后 180d 内每季度审查流通；Nasdaq-100 12月纳入9-11月解锁股份但受年度重排和设限影响；若TSLA与SPCX换股合并，SPCX或纳入SPX产生约流通股 10% 的被动需求，备考权重约 1.9%（流通 17%）至近 3.0%（流通 80%，第六大成分），NDX集中度上限或带来 $10-14B 被动供给，TSLA从XLY流出约 $4B、SPCX入XLC需求约 $3-4B",
+          "important": false
+        },
+        {
+          "actor": "Jefferies Trading",
+          "actor_type": "Analyst",
+          "text": "Jefferies：TMT净流20D滚动和从+$10B 跌至-$10B 以下",
+          "details": "Jefferies TMT Daily Net Flow All Clients（10/22/24-10/22/26）：紫色线20D Rolling Sum从2024年10月约-$10B，升至2025年7月约+$10B 峰值，后回落至2025年底近 $0；2026年再度升至7月近+$10B，随后急剧下行，至2026年9月跌破-$10B",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs Prime",
+          "actor_type": "Analyst",
+          "text": "GS Prime Desk：Info Tech 多空双向抛售（long -2.61 / short -0.76）",
+          "details": "GS Prime Desk Trading Flow（10/9-10/15）：Info Tech long -2.61（大幅卖出）、short -0.76（空头回补）；Health Care long +1.09 / short +0.9；Comm Serv long +1.33；Energy long -1.33；Real Estate long +0.8 / short -1.8；Financials long +0.67 / short -1.26；Consumer Staples long -0.42 / short +1.08",
+          "important": false
+        },
+        {
+          "actor": "KurtSaltrichter",
+          "actor_type": "KOL",
+          "text": "Prime Book 全球股票：2026年净交易流持续净卖出，杠杆处高位",
+          "details": "Prime Book Global Equities（@KurtSaltrichter）：2026年净交易流从1月约0%急跌至3月-4.0%，中间多在-2.5%至-4.0%，6月短暂反弹至-1.2%，10月结束于约-4.0%；Overall Long vs Short Leverage 从2022年初约160%/150%升至2025年中约195%/202%，2026年初圈注区间双边位于195-200%（long）/120-123%（short）高位",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "QQQ",
+        "TSLA"
+      ],
+      "image_indexes": [
+        1,
+        2,
+        4
+      ],
+      "importance": 2,
+      "sources": [
+        "DB",
+        "JPM",
+        "Jefferies",
+        "GS"
+      ],
+      "date": "2026-10-23",
+      "image_urls": [
+        "/uploads/2026-10-23/35365b09d105.png",
+        "/uploads/2026-10-23/7a202bd732f8.png",
+        "/uploads/2026-10-23/5671db90a454.png"
+      ]
+    },
+    {
+      "id": "oil-inventories-flows-2026-10-22",
+      "topic": "原油库存与流向",
+      "topic_tag": "oil",
+      "title": "MS全球库存-7M桶强于季节性 Bob Elliott警告消费者疲惫",
+      "summary": "MS 测算截至10/21当周全球总库存-7M桶，强于季节性。The Officials 称 CTA 继续削减原油多头但 Brent/WTI CTA 仓位仍饱和。Bob Elliott 警告 Chase 数据显示消费支出减速、价格飙升，消费者在第二轮油价上涨中越来越疲惫。",
+      "bullets": [
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "MS：10/21当周全球库存-7M桶，强于季节性",
+          "details": "MS Oil Inventories：截至10/21当周全球（美日西北欧新加坡富查伊拉）总库存 -7M 桶，原油 -0.5M、成品油 -6.6M，去库力度强于季节性（原油10年均值 +4.2M、成品油 -5.1M）；汽油 -5.9M 桶由美国和新加坡主导，馏分油 -1.6M，燃料油 +0.9M（亚洲累库）；分区：美国 -5.26M、新加坡 -4.09M、西北欧 -1.79M、日本 +3.70M",
+          "important": true
+        },
+        {
+          "actor": "JPM Global Eco",
+          "actor_type": "Analyst",
+          "text": "JPM：油价升至$130/bbl峰值将贡献全球CPI动量2.6pp",
+          "details": "JPM Global Eco：新一轮通胀冲击将挤压购买力：油价逼近5月高点，基准（明年初回到 $70/bbl）下本月能源对全球整体CPI动量贡献 1.8pp，若升至 $130/bbl 峰值 2.6pp；上半年家庭靠减税、低储蓄和股市收益平滑冲击（全球除中印实际消费年化 +1.8%），但美国税收脉冲减弱、储蓄率已降，预计Q4美国实际消费增速从Q2-Q3均值 3.6% 年化放缓至 1.5%，欧元区约 0.5%，是'下台阶而非断裂'；9月全球综合PMI升至 4y 高位限制下行，但官方就业数据尚未确认传导",
+          "important": false
+        },
+        {
+          "actor": "Bob Elliott",
+          "actor_type": "KOL",
+          "text": "Bob Elliott：Chase数据显示消费者在第二轮油价上涨中越来越疲惫",
+          "details": "Bob Elliott：金融市场今年大部分时间无视高油价对经济的拖累，随着油价回到伊朗战争高点，市场行为出现重要转变；Chase 数据显示近期消费支出减速而价格飙升，又一个数据点表明消费者在第二轮油价上涨中越来越疲惫",
+          "important": false
+        },
+        {
+          "actor": "The Officials",
+          "actor_type": "新闻",
+          "text": "CTA 继续削减原油多头，但 Brent/WTI 仓位仍饱和",
+          "details": "The Officials：CTA 预计继续削减原油多头，但 Brent、WTI 的 CTA 仓位仍饱和",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "USO",
+        "XLE"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "MS",
+        "JPM",
+        "The Officials"
+      ],
+      "date": "2026-10-23",
+      "image_urls": []
+    },
+    {
+      "id": "us-midterms-fiscal-2026-10-22",
+      "topic": "美国中期选举与财政",
+      "topic_tag": "policy",
+      "title": "DB：Polymarket民主党拿众议院超90% 债务利息负担创纪录",
+      "summary": "DB 分析中期选举：Polymarket 显示民主党拿下众议院概率超90%、参议院超60%；Trump约38%支持率历史对应共和党丢约45席。白宫否决权使重大政策转变风险低。美国净利息成本占 GDP 升至约3%，创纪录。",
+      "bullets": [
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "DB：民主党拿众议院概率超90% 国防预算FY2027请求$1.5T",
+          "details": "DB Midterms：Polymarket显示民主党拿下众议院概率超 90%、参议院超 60%，但关键州民调多在误差范围内；特朗普约 38% 支持率历史上对应共和党丢约 45 席。白宫否决权使重大政策转变风险低（难废除2025年减税或立AI监管），民主党控参院主要可拖延Fed理事等任命；关键窗口是11/3-2027/1/3跛脚鸭会期，联邦资金12/11到期、政府要求国防开支增近 60%、债务上限明年年中重启；历史 23 次中期选举中 21 次Q4 SPX正回报、平均 +7%（2018年因贸易战与Fed不确定性例外），但本次市场已一边倒定价、典型选后反弹可能推迟甚至不确定性上升，盈利仍是锚（Q3 +34%、明年 +17%）；AI数据中心：超 300 项地方暂停令仅延迟2027年规划 38GW 中约 2.3GW，AI capex预计从2025年 $0.5T 增至2027年 $1.3T；国防预算FY2026约 $1T、FY2027请求 $1.5T，共和党保两院才有望通过 $1.2T 以上",
+          "important": true
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "Bessent：仍计划2027-28处理两房，不扩大房贷利差为north star",
+          "details": "Bessent：仍计划在 2027–28 对 Fannie 和 Freddie 采取行动，但 north star 是任何方案都不能扩大房贷利差；改变所有权结构是否有助于房主 'unclear'",
+          "important": false
+        },
+        {
+          "actor": "US Treasury",
+          "actor_type": "US-Executive",
+          "text": "美财政部拟扩展对外投资安全规则，纳入生物技术",
+          "details": "美国财政部提出扩展对外投资安全规则，将生物技术等更多领域纳入限制，对部分交易要求申报或实施禁止",
+          "important": false
+        },
+        {
+          "actor": "WSJ/Peterson Foundation",
+          "actor_type": "新闻",
+          "text": "美国净利息成本占GDP约3%，创纪录",
+          "details": "US Debt-Interest Burden Hits Record High：净利息成本占 GDP 比重，1975年约1%，1980年代末-90年代初峰值约3%，2000s-2010s回落至1-1.5%，2020年起急升，2025年估计升至约3%；2026年估计来自 Peter G. Peterson Foundation；Source: Treasury Department, St. Louis Fed, OMB",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        5
+      ],
+      "importance": 2,
+      "sources": [
+        "DB",
+        "Polymarket",
+        "Peterson Foundation"
+      ],
+      "date": "2026-10-23",
+      "image_urls": [
+        "/uploads/2026-10-23/b6fec81ae821.png"
+      ]
+    },
+    {
+      "id": "asia-cb-policy-2026-10-22",
+      "topic": "亚洲央行与政策",
+      "topic_tag": "fed",
+      "title": "BOK维持3%并暗示进一步收紧 83%经济学家预期日央12月加息",
+      "summary": "韩国央行全票维持 3%、暗示进一步收紧。日本 83% 经济学家预期12月加息，Rengo 目标加薪 6%。离岸信托个税90天历史申报过渡期10/22结束。",
+      "bullets": [
+        {
+          "actor": "BOK",
+          "actor_type": "Central-Bank",
+          "text": "BOK 全票维持3%，暗示进一步收紧",
+          "details": "BOK 全票维持 3% 并暗示进一步收紧",
+          "important": true
+        },
+        {
+          "actor": "日本/Rengo",
+          "actor_type": "Foreign-Gov",
+          "text": "83%经济学家预期日央12月加息 Rengo目标加薪6%",
+          "details": "日本：83% 经济学家预期 12月 hike；Rengo 目标加薪 6%",
+          "important": false
+        },
+        {
+          "actor": "中国税务",
+          "actor_type": "Foreign-Gov",
+          "text": "离岸信托个税90天历史申报过渡期10/22结束",
+          "details": "离岸信托个税 90 天历史申报过渡期 10月22日结束",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-10-23",
+      "image_urls": []
+    },
+    {
+      "id": "russia-ukraine-starlink-2026-10-22",
+      "topic": "俄乌与Starlink",
+      "topic_tag": "geo",
+      "title": "Witkoff见普京后俄向基辅发射20余枚弹道导弹 马斯克恢复乌卫星通信",
+      "summary": "Witkoff 见普京后俄罗斯向基辅发射20多枚弹道导弹。Trump 要求 Musk 解除乌克兰 Starlink 限制，Trump 称马斯克已恢复乌克兰的卫星通信服务。",
+      "bullets": [
+        {
+          "actor": "俄罗斯",
+          "actor_type": "Foreign-Gov",
+          "text": "Witkoff 见普京后俄向基辅发射20余枚弹道导弹",
+          "details": "Witkoff 见普京后俄向基辅发射 20 多枚弹道导弹",
+          "important": true
+        },
+        {
+          "actor": "Trump/Musk",
+          "actor_type": "US-Executive",
+          "text": "Trump 要求 Musk 解除乌克兰 Starlink 限制，马斯克已恢复",
+          "details": "Trump 要求 Musk 解除乌克兰 Starlink 限制；Trump 另称马斯克已恢复乌克兰的卫星通信服务",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-10-23",
+      "image_urls": []
+    },
+    {
+      "id": "misc-other-2026-10-22",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "汇金$188bn可用于买A股 Getty破产 马斯克$1B投Skydance",
+      "summary": "BBG Intelligence 估算中央汇金有$188bn 可用于买A股，按近期节奏够75个交易日。Getty Images 受 AI 图片冲击申请破产保护。马斯克向派拉蒙+华纳合并后的 Skydance 投资约$1B。",
+      "bullets": [
+        {
+          "actor": "BBG Intelligence",
+          "actor_type": "新闻",
+          "text": "汇金有$188bn可用于买A股，按近期节奏够75个交易日",
+          "details": "BBG Intelligence 估算中央汇金有 $188bn 可用于买入中国股票，按近期节奏够 75 个交易日，但支持力度可能需要比过去更大更持久，约束在于动用意愿",
+          "important": true
+        },
+        {
+          "actor": "Getty Images",
+          "actor_type": "Corporate",
+          "text": "受AI图片冲击，Getty Images 申请破产保护",
+          "details": "受 AI 图片冲击，Getty Images 近期申请破产保护",
+          "important": false
+        },
+        {
+          "actor": "Elon Musk",
+          "actor_type": "Corporate",
+          "text": "马斯克向 Skydance 投资约$1B，间接持CNN/CBS/HBO",
+          "details": "多家媒体确认马斯克向派拉蒙与华纳兄弟合并后的新公司 Skydance 投资约 $1B，间接成为 CNN、CBS、HBO 等的股东",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GETY",
+        "PARA",
+        "WBD"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-10-23",
+      "image_urls": []
+    }
+  ]
+}
