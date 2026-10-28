@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-10-28T04:51:29+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-10-27",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12646,
+    "partial_pass": 2,
+    "with_carryover": 4,
+    "after_full_check": 1
+  },
+  "rows": [
+    {
+      "tk": "HRI",
+      "nm": "Herc Holdings Inc.",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 22.8,
+      "w1": 24.5,
+      "market_cap_bn": 5.22,
+      "dollar_vol_bn": 0.32,
+      "w1_avg_dollar_vol_bn": 0.15,
+      "reason": "",
+      "main_business": "提供工程机械设备租赁，服务北美建筑与工业客户"
+    }
+  ]
+}

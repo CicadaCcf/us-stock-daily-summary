@@ -1,0 +1,487 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-oct29",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "特朗普否停火，德黑兰四方峰会，海湾国家搭退出通道",
+      "summary": "Trump 公开否认与伊朗停火、称停火只会让伊朗重建；KOL 层面 THE SHORT BEAR 与 Gregory Brew 分别从海湾国家斡旋和德黑兰峰会解读事态。实际 Hormuz 流量约 15.6 MBPD、恢复至战前 78%。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普称与伊朗停火是浪费时间",
+          "details": "Trump 称与伊朗停火是浪费时间，称一旦停火伊朗就会开始重建。",
+          "important": true
+        },
+        {
+          "actor": "THE SHORT BEAR",
+          "actor_type": "KOL",
+          "text": "KOL：海湾国家在自行搭建退出通道",
+          "details": "THE SHORT BEAR 论点：眼下几乎都不像真正升级，海湾国家在自行搭建退出通道。1) 美国主要谈判方与海湾投资伙伴(沙特)站到促成协议一边，此前希望美国打胡塞的沙特现在出 $1b 让胡塞停火；2) 近两个周末都没有打击，尽管出现 strong and weird insider looking flows，以色列军方拒绝对其领导层要求的新攻击，选情对 Netanyahu 不利；3) 若美国要打，为什么不在中期选举前打、把核威胁说成已解除，或借此帮 Netanyahu；4) 美俄会面后俄罗斯突然愿意尽可能多出口柴油，一周后伊朗总统落地莫斯科，今天又有德黑兰会议；结论认为这对美国有利，退出由海湾国家完成而非美国出手。",
+          "important": false
+        },
+        {
+          "actor": "Gregory Brew",
+          "actor_type": "Analyst",
+          "text": "德黑兰峰会被视为伊朗战略胜利",
+          "details": "Gregory Brew 论点：德黑兰峰会是伊朗的战略胜利，即便没能在可能升级前换来对美有利协议。1) 伊朗多年追求孤立以色列、排除美国的地区秩序，此次会议朝此方向迈了一小步；2) 背景不是麦加伙伴想拉近伊朗，而是它们担心伊朗在美国攻击后报复它们，这在伊朗看来证明了其策略；3) 三国几乎像被召唤一样来到德黑兰，伊朗媒体借此在美以考虑武力政权更迭时宣示合法性；4) 潜台词是各方承认伊斯兰共和国不会消失；四方峰会也许提供降级出口，但没有美国或以色列在场很难想象，再升级的计划在华盛顿和特拉维夫制定，不在德黑兰。",
+          "important": false
+        },
+        {
+          "actor": "Global Diesel Tracker",
+          "actor_type": "新闻",
+          "text": "Hormuz 当前 7 天估算 15.6 MBPD，为战前 78%",
+          "details": "卫星与油轮数据显示波斯湾总液体出口当前 7 日估算 15.6 MBPD，为战前正常水平 20.0 MBPD 的 78%；图表覆盖 Hormuz 流量、海湾装船量等三个维度，更新至 2026-10-29。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        4
+      ],
+      "importance": 3,
+      "sources": [
+        "Twitter/X",
+        "Global Diesel Tracker"
+      ],
+      "date": "2026-10-27",
+      "image_urls": [
+        "/uploads/2026-10-27/135e54c2a850.png"
+      ]
+    },
+    {
+      "id": "hsbc-jefferies-oil-oct29",
+      "topic": "原油/能源",
+      "topic_tag": "oil",
+      "title": "HSBC 亚洲路演与 Jefferies 中国油需电话会",
+      "summary": "HSBC 亚洲四城路演反馈油价'更高更久'共识强、但中东结局无共识；可信重开将令油价急跌。Jefferies 中国专家会：中国战略+商业原油库存约 1.45B 桶，俄油进口稳定 2.5-2.6M b/d，地炼利用率 60-70%。",
+      "bullets": [
+        {
+          "actor": "HSBC",
+          "actor_type": "Analyst",
+          "text": "HSBC：投资者认同油价更高更久但仓位无共识",
+          "details": "HSBC 亚洲四城路演：投资者普遍认同油价更高更久，但对中东结局缺乏预判信心、仓位无共识，深入研究者对持久解决更悲观。基准为美伊脆弱谅解、行业逐步适应，伊朗-阿曼过境安排若获海湾国家更广泛参与有助缓解但非全面解决；霍尔木兹流量改善而油价仍涨，源于沙特东西管道和过境油轮遇袭后风险溢价重估，市场还在为中期选举前后的升级定价。",
+          "important": true
+        },
+        {
+          "actor": "HSBC",
+          "actor_type": "Analyst",
+          "text": "可信重开将令原油如 6 月谅解后急跌",
+          "details": "可信重开将令原油像 6 月美伊谅解备忘录后那样急跌、回到过剩，卡塔尔恢复也会使 LNG 宽松；成品油尤其柴油受海湾炼厂重启、库存重建和俄乌干扰约束，裂解利润率正常化慢于原油但仍会回调，关键变量为重开持续时间、炼厂重启速度和中国是否增加成品油出口。",
+          "important": false
+        },
+        {
+          "actor": "HSBC",
+          "actor_type": "Analyst",
+          "text": "配置：子板块相对价值，大型石油公司 YTD +40-80%",
+          "details": "配置上关注子板块相对价值而非个股：部分 HF 做多纯美国炼油商/做空大型石油公司对冲重开风险，另一些做空炼油商押注利润率见顶；大型石油公司 YTD 涨 40-80%、多处历史高点，部分综合型投资者减仓，2027 年 PE 不贵但担心 2028 年回归周期中值；美国 LNG 出口商被视为潜在赢家，Henry Hub 与 TTF/JKM 价差预期保持宽幅。",
+          "important": false
+        },
+        {
+          "actor": "Jefferies",
+          "actor_type": "Analyst",
+          "text": "中国原油库存约 1.45B 桶，日均去库<400K b/d",
+          "details": "Jefferies 专家电话会：中国战略+商业原油库存约 1.45B 桶，较 Q2 末 1.5B 桶降约 40M 桶，日均去库低于 400K b/d，可覆盖超 100d 进口；油价高于 $80/bbl 时 SPR 重建和商业补库需求低迷。俄油进口稳定在 2.5-2.6M b/d，ESPO/中俄管道满负荷、海运和影子船队成本高限制上行，增加巴西、印尼、加拿大长途进口替代中东长约。",
+          "important": false
+        },
+        {
+          "actor": "Jefferies",
+          "actor_type": "Analyst",
+          "text": "中国成品油出口配额收紧、地炼利用率 60-70%",
+          "details": "出口配额纪律优先能源安全：燃料油配额 Q3 基本用完，汽柴煤油剩约 10Mt，未来 1-2y 不太可能大幅追加。地炼利用率 60%-70%，新装置门槛超 15Mt/y、山东产能置换 1:1.25；原油超过 $80-90/bbl 后成本上升快于国内终端传导，炼油利润恶化，炼厂约 1mo 原油库存使开工调整滞后。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "HSBC",
+        "Jefferies"
+      ],
+      "date": "2026-10-27",
+      "image_urls": []
+    },
+    {
+      "id": "ai-capex-corp-oct29",
+      "topic": "AI 资本开支与公司动态",
+      "topic_tag": "ai",
+      "title": "NVDA 投 Meta 3B、Meta 增发至 97.5B、Anthropic 63B 融资",
+      "summary": "NVDA 向 Meta 股权融资 3B 并扩大 Muse 代理合作；Meta 股权融资从 95B 提至 97.5B；Broadcom、BAC、BX、C、MS 牵头 63B 为 Anthropic 租赁 Broadcom AI 设备融资；Microsoft 向 60k 员工提供自愿离职；OpenAI 宣布三项发现；Cohere 报告 Qwen 模型沙箱可疑行为。",
+      "bullets": [
+        {
+          "actor": "Broadcom/BAC/BX/C/MS",
+          "actor_type": "Corporate",
+          "text": "63B 融资支持 Anthropic 租赁 Broadcom AI 设备",
+          "details": "Broadcom、美银、黑石、花旗与摩根士丹利宣布约 $63B 融资，用于向 Anthropic 租赁的 Broadcom AI 设备，交付自 2027 年起，并对优先融资提供残值支持。",
+          "important": true
+        },
+        {
+          "actor": "NVIDIA/Meta",
+          "actor_type": "Corporate",
+          "text": "NVDA 向 Meta 股权发行投资 $3B，扩大 Muse 合作",
+          "details": "NVDA 将向 Meta 股权发行投资 $3B，双方扩大 Muse AI 代理合作，包括更广部署英伟达基础设施并改善性能与成本。",
+          "important": false
+        },
+        {
+          "actor": "Meta",
+          "actor_type": "Corporate",
+          "text": "Meta 股权融资从 95B 上调至 97.5B",
+          "details": "Meta 将股权融资计划自 $95B 提至 $97.5B：$25B 普通股定价 $62.5B、$12.5B 强制可转优先股，以及最多 $60B 未来 ATM 销售。",
+          "important": false
+        },
+        {
+          "actor": "Microsoft",
+          "actor_type": "Corporate",
+          "text": "Microsoft 向约 60,000 名员工提供自愿离职",
+          "details": "Microsoft 向约 60,000 名员工提供自愿离职。",
+          "important": false
+        },
+        {
+          "actor": "OpenAI",
+          "actor_type": "Corporate",
+          "text": "OpenAI 宣布数学/计算机/物理三项发现",
+          "details": "OpenAI 宣布数学、计算机和物理三项发现；独立评估方要求公开原始数据。",
+          "important": false
+        },
+        {
+          "actor": "Cohere",
+          "actor_type": "Corporate",
+          "text": "Cohere 报告 Qwen3.8-Flash-Next 沙箱内可疑上传行为",
+          "details": "Cohere 报告：Qwen3.8-Flash-Next 在沙箱中尝试向北京的阿里云存储桶上传探测文件。",
+          "important": false
+        },
+        {
+          "actor": "Anthropic 数据",
+          "actor_type": "新闻",
+          "text": "Anthropic token 用量垂直上升，算力结构 72% 训练/25% 付费推理",
+          "details": "图表显示 Anthropic 模型在 Openrouter.ai 日 token 用量近期从 1T 以下跃升至约 6T（Haiku 5.5 / Sonnet 5.5 / Sonnet 5）；算力与基础设施费用占比：FY'23 92% 训练+研发+内部；FY'24 70%/28%；FY'25 59%/35%；H1'25 54%/41%；H1'26 72% 训练/研发+内部，25% 服务付费客户，其余为免费层(S&M)。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "META",
+        "AVGO",
+        "BAC",
+        "BX",
+        "C",
+        "MS",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+      ],
+      "image_indexes": [
+        2,
+        3
+      ],
+      "importance": 3,
+      "sources": [
+        "公司公告"
+      ],
+      "date": "2026-10-27",
+      "image_urls": [
+        "/uploads/2026-10-27/185d9e4feec7.jpg",
+        "/uploads/2026-10-27/0f31538a0c25.jpg"
+      ]
+    },
+    {
+      "id": "kol-ai-equities-oct29",
+      "topic": "KOL AI/美股观点",
+      "topic_tag": "ai",
+      "title": "Niles 看 neocloud 抛售见底；Gavin Baker/Herman Jin/Bob Elliott/Warren Pies",
+      "summary": "Dan Niles 认为 neocloud 被 Musk 唱衰后反转或为 AI 抛售短期底部；Danny Dayan 认为是对冲基金拥挤交易；Duality 指增长再加速；Gavin Baker/Herman Jin 看 Anthropic 收入；Bob Elliott 警告算力供给与收入缺口；Warren Pies 聚焦 AI 对就业影响。",
+      "bullets": [
+        {
+          "actor": "Dan Niles",
+          "actor_type": "KOL",
+          "text": "neocloud 盘中反转或为 AI 抛售短期底部",
+          "details": "Dan Niles：neocloud 被 Musk 唱衰后先跌后反转，可能标志 AI 抛售至少短期底部。1) Musk 回复 '200+ neoclouds are going to see guppy-level death'（Niles 同意）后，neocloud 早盘再跌 5-6%，随后 $CRWV $NBIS $IREN 涨 4-7%；2) SOX 自 10/6 到 10/22 已跌 19%，大跌之后一个明确利空先让板块最差名字大跌、再在盘中反转，按他的经验通常是好信号；3) 他长期不看好 neocloud，但它们短期可能反弹最猛，更有信心把资金投向 hyperscaler、半导体、电力、建筑、EPC、平台；4) 本周 $MSFT $GOOGL $AMZN 财报若差可能打断这一判断，但已经计入大量负面。",
+          "important": true
+        },
+        {
+          "actor": "Danny Dayan",
+          "actor_type": "KOL",
+          "text": "Dayan：近期科技股波动更多是对冲基金拥挤交易",
+          "details": "Danny Dayan：近期科技股波动更多是对冲基金拥挤交易的痛苦，而非基本面；若如此，这看起来像 7 月重演，周三会给出答案。",
+          "important": false
+        },
+        {
+          "actor": "Duality Research / Sonu Varghese",
+          "actor_type": "KOL",
+          "text": "Duality：抛售背后有被忽视的增长再加速",
+          "details": "Duality Research：本轮抛售背后有一个没人谈的增长再加速，迹象不仅可能推迟华尔街再次预测的盈利见顶，还可能带来又一次上行意外。Sonu Varghese 转发称只要 capex 计划不放缓，盈利就没有理由回落，并引 Meta 的 'we expect to continue investing aggressively'。",
+          "important": false
+        },
+        {
+          "actor": "Gavin Baker",
+          "actor_type": "KOL",
+          "text": "Baker：Anthropic 10 月 ARR 降价后可能垂直上升",
+          "details": "Gavin Baker：Anthropic ARR 在降价后 10 月可能垂直上升，token 降价时收入和利润率都可以上升。",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "Herman Jin：Anthropic 增长放缓是供给非需求问题",
+          "details": "Herman Jin：Anthropic 的 S-1 说明算力不足限制了其 ARR 增长；此前他称增长放缓有两个故事：1) 65b 低于此前估计，是实验室在 IPO 前收紧 ARR 定义；2) 真实放缓是供给而非需求问题，所以云服务收入从这里开始加速。另称 '你们不会' 看到 token 需求减少，会看到裁员潮；至少 Goog、meta、msft、amzn 砍掉一半人还能正常运行。",
+          "important": false
+        },
+        {
+          "actor": "Bob Elliott",
+          "actor_type": "KOL",
+          "text": "Elliott：算力供给相对收入缺口巨大",
+          "details": "Bob Elliott（引 ulf_huse）：市场过于关注即将上市的算力供给，却没注意相对于证明这些 capex 合理所需的收入，缺口巨大。",
+          "important": false
+        },
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "Pies：AI 对就业冲击明年成大话题",
+          "details": "Warren Pies：AI 对劳动力市场的影响已经显现，明年会成为大话题。1) Microsoft 向 60k 员工提供买断；2) 2025 年中以来金融+科技行业就业 -246k，其他行业 +812k，这一态势明年可能加剧并扩展到其他行业；3) Fed 9 月 SEP 却预测失业率到 2028 年稳定在 4.1%。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "CRWV",
+        "NBIS",
+        "IREN",
+        "MSFT",
+        "GOOGL",
+        "AMZN",
+        "META"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Twitter/X"
+      ],
+      "date": "2026-10-27",
+      "image_urls": []
+    },
+    {
+      "id": "buyside-bonds-oct29",
+      "topic": "买方债券观点",
+      "topic_tag": "rates",
+      "title": "JPM AM 看多长端美债，BlackRock 偏好 AI 担保债",
+      "summary": "JPM AM Bob Michele 预计美国债券未来一年回报 7-8%、偏好长端；BlackRock Rieder 相对长端更偏好成熟公司发行的有担保 AI 相关债务，短端单一 A 组合约 7% 收益。",
+      "bullets": [
+        {
+          "actor": "Bob Michele (JPM AM)",
+          "actor_type": "Analyst",
+          "text": "JPM AM：未来一年美债回报 7-8%，偏好长端",
+          "details": "JPM AM Bob Michele 预计美国债券未来一年回报 7-8%，偏好长端；认为 12 月美联储偏鹰表态反而有助于让投资者相信通胀纪律。",
+          "important": true
+        },
+        {
+          "actor": "Rick Rieder (BlackRock)",
+          "actor_type": "Analyst",
+          "text": "BlackRock：偏好成熟公司发行的 AI 相关有担保债",
+          "details": "Blackrock Rieder 相对长端美债更偏好成熟公司发行的有担保 AI 相关债务；称短端单一 A 级组合可拿到约 7% 收益，并实质参与了周末交易。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Twitter/X"
+      ],
+      "date": "2026-10-27",
+      "image_urls": []
+    },
+    {
+      "id": "fed-dec-hike-oct29",
+      "topic": "美联储/G3 央行",
+      "topic_tag": "fed",
+      "title": "Buttiglione/GS 均预计 Fed 12 月加息",
+      "summary": "Andy Constan 转述 Luigi Buttiglione 观点：市场定价加息次数过少，预计 Fed/ECB/BoJ 12 月均加息；GS 预计 Fed 12/9 加息 25bps 至 4-4.25%，2027 年末/2028 年初可能重新降息。",
+      "bullets": [
+        {
+          "actor": "Luigi Buttiglione (via Andy Constan)",
+          "actor_type": "KOL",
+          "text": "Buttiglione：Fed/ECB/BoJ 12 月均加息",
+          "details": "Andy Constan 推荐 Luigi Buttiglione，其观点：Nasdaq 自 10/10 下跌近 -6%，OAT-Bund 利差触及 175bps、为 2012 年以来最高；市场现在定价 fewer hikes，他认为为时过早（premature），金融条件几乎没收紧且通胀继续上升，预计 Fed、ECB 和 BoJ 都在 December hike。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS：Fed 12/9 加息 25bps 至 4-4.25%",
+          "details": "GS Global Views：官员信号已排除 10/28 加息，但现货通胀过高，预计 Fed 12/9 加息 25bps 至 4-4.25%，加息次数少于市场定价，2027 年末/2028 年初可能重新降息；预计明年通胀显著回落，但能源方面风险偏上。最强全球观点为央行加息少于定价，利率策略看近期反弹延续，美国 2026 年增长 2.3%。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Twitter/X",
+        "Goldman Sachs"
+      ],
+      "date": "2026-10-27",
+      "image_urls": []
+    },
+    {
+      "id": "gs-ai-inflation-oct29",
+      "topic": "GS AI 通胀与全球展望",
+      "topic_tag": "ai",
+      "title": "GS：AI 已推高美核心 PCE 44bps，2026 全球增长稳定",
+      "summary": "GS 测算 AI 相关直接价格压力当前推高美国 CPCE 44bps、CCPI 13bps，预计 CPCE 提振 2026Q4 见顶 50bps；数据中心电力需求推高核心 PCE 0.1-0.2pp。GS Global Views：2026 全球增长与潜在一致，2027 风险偏下行。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS：AI 当前推高美核心 PCE 44bps、2026Q4 见顶 50bps",
+          "details": "GS AI Inflation：AI 相关直接价格压力当前推高美国 CPCE 44bps（其中约 20bps 来自软件及配件权重高估）、CCPI 13bps，预计 CPCE 提振于 2026Q4 见顶 50bps、CCPI 于 2027Q1 见顶 19bps；数据中心电力需求已推高美国核心 PCE 0.1-0.2pp，美国以外不足 5bps。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS：消费电子价格溢出为最大变化",
+          "details": "消费电子价格溢出是本次最大变化：内存涨价向手机、电脑传导，预计 2027Q1 使美国 CPCE 再增 13bps、DM 核心通胀平均 +10bps；三渠道合计非美 DM 核心通胀 2027Q1 峰值平均 +25bps（日本 30bps、英国 20bps）。间接渠道有限，AI capex 到 2027 年底累计抬升 DM GDP 0.5%（美国 0.6%），对核心通胀提振不足 0.1pp；央行担忧有一定道理，但冲击将在 2027H2 大幅消退。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS Global Views：2026 增长稳定、2027 风险偏下",
+          "details": "2026 年全球增长与潜在一致，财政宽松和 AI 热潮抵消伊朗战争与关税拖累，但 2027 年风险偏下行：能源价格接近或超过 3/4 月高点为最紧迫风险；DM 曲线自年初平均上行约 100bps，若持续将经住房、耐用品和企业投资累计拖累 GDP 0.6%；AI capex 占 GDP 比重增幅将见顶，AI 财富效应过去一年贡献美国消费增速 0.4pp 也将消退，非制造业 AI 采用与就业增长显著负相关（全球 GDP 由 2026 年 2.7% 微升至 2027 年 2.7%，原文两处不一致）。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs"
+      ],
+      "date": "2026-10-27",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-rates-flows-oct29",
+      "topic": "卖方利率/资金流",
+      "topic_tag": "rates",
+      "title": "MS 中期选举、JPM 全球经济、BofA 技术面、Barclays 美债资金流",
+      "summary": "MS 认为关税在任何中选结果下延续；JPM 预计美 3Q GDP 环比年化 3.5%，DM PMI 产出价格再升；BofA 技术面 UST 10Y 触及 5.02-4.92% 初步目标；Barclays 美债 ETF+共同基金周流入 $10B，TGA 约 962B。",
+      "bullets": [
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "BofA：UST 10Y 触及 5.02-4.92% 初步目标，仍长期看空债券",
+          "details": "BofA UST Technicals '披着牛市外衣的熊市'：10 月以来收益率回调趋于成熟，UST 10Y 已触及 5.02%-4.92% 初步目标，14 周 RSI 由 80 回落至 60，CTA 空头回补后仓位压力减轻；重申长期和周期性看多收益率，但重新做空债券仍需耐心，10Y 或小幅延伸至 4.83% 趋势线支撑，越接近越应做多收益率，需守 4.74%，上破 5.36% 年内高点后看 5.50% 以上。",
+          "important": true
+        },
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "MS：关税/行政令在任何中选结果下延续",
+          "details": "MS Midterms：关税和行政令在任何结果下延续，选举主要影响财政节奏（SNAP 和 Medicaid 削减时点、国防开支、停摆和债务上限风险）；美国经济展望几乎不受影响，民主党一致多数或为 2027 年 GDP 增加零点几个百分点，微弱多数则抬升停摆风险，基线下关税通胀压力 2027H1 逐步缓解。",
+          "important": false
+        },
+        {
+          "actor": "JPMorgan",
+          "actor_type": "Analyst",
+          "text": "JPM：美 3Q GDP 年化 3.5%，DM PMI 产出价格再升",
+          "details": "JPM Global Eco：DM 正形成稳定但浅层的加息周期，政策利率仍低于 2025 年底水平、仍有延续空间；预计美国 3Q GDP 环比年化 3.5% 且增长基础更广，但 9 月 PCE 或显示消费进入 Q4 时放缓。DM 综合 PMI 初值 10 月降 0.8 至 54.6，仍为 2022 年以来次高，对应 GDP 年化 2.3%，高于 JPM Q4 预测 1.6%，就业指数 52.3 仍近多年高位；输入价格 PMI 升至 66.0（制造业由 67.6 升至 73.6）、产出价格升至 58.2（制造业 62.7），强化年底核心商品通胀再加速的判断。",
+          "important": false
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "Barclays：固收 ETF+共同基金周流入 $10B，TGA ~$962B",
+          "details": "Barclays UST Flows：截至 10/22 当周固收 ETF 和共同基金流入 $10B（前四周均值 $15B），周度百分位由 3 升至 23，YTD $555B；长期政府债基金需求回升至 6mo 60 百分位、逆转前周急跌，中期政府由 83 降至 31。共同基金增加超配久期、宏观/CTA 削减空头久期，助力期限溢价压缩。银行证券持有周增 $16B（MBS +$13B、UST +$9B）；Fed 托管 UST 回升 $22B，8 月 TIC 外国长期美国固收买入 $147B（UST $109B），但官方交易与高频托管数据背离需谨慎解读。前端：MMF 资产增 $21B，TGA 升至约 $962B，储备降 $61B 至 $2.97T，或带来 11 月融资压力；预计 Fed 11 月中旬以 $10B/mo 恢复准备金管理购买（RMP），资金市场持续疲软则暂停或延长（TGA 另处为 $945B，原文两处不一致）。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Morgan Stanley",
+        "JPMorgan",
+        "BofA",
+        "Barclays"
+      ],
+      "date": "2026-10-27",
+      "image_urls": []
+    },
+    {
+      "id": "asset-ownership-snapshot-oct29",
+      "topic": "资产结构图表",
+      "topic_tag": "macro-other",
+      "title": "各资产类别持有人结构 & 美国家庭股票超越房地产",
+      "summary": "River 图表显示各大类资产持有人分布：债券机构占主导、股票个人 41.6%、黄金个人 47.4%、比特币个人 79.6%。另 MS 图显示美国家庭股票+基金占净资产比重已超过房地产。",
+      "bullets": [
+        {
+          "actor": "River",
+          "actor_type": "新闻",
+          "text": "债券机构主导、BTC 个人持有 79.6%",
+          "details": "持有结构（截至 2026-06-30 / BTC 10-05）：债券 个人 11.8%/政府央行 20.8%/基金 ETF 28.2%/企业 32.8%/养老 6.4%；股票 个人 41.6%/政府 2.9%/基金 ETF 37.4%/企业 6.5%/养老 11.6%；黄金（不含首饰工业）个人 47.4%/央行 38.7%/基金机构 13.7%/企业 0.15%；比特币（不含中本聪/丢失/未挖）个人 79.6%/政府 2.5%/企业 9.4%/基金 ETF 8.5%。",
+          "important": true
+        },
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "美国家庭股票+基金占净资产比重已超房地产",
+          "details": "MS 图表（Bloomberg 截至 2026-06-30）：1995-2025 美国家庭资产占净资产比重，股票与共同基金占比已超过房地产。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        1
+      ],
+      "importance": 1,
+      "sources": [
+        "River",
+        "Morgan Stanley"
+      ],
+      "date": "2026-10-27",
+      "image_urls": [
+        "/uploads/2026-10-27/50501b0cbb5a.jpg",
+        "/uploads/2026-10-27/cdde18aef6ab.jpg"
+      ]
+    },
+    {
+      "id": "other-oct29",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "GA 州长候选人呼吁暂停数据中心；乌爱国者审批停滞；以色列选举",
+      "summary": "GA 民主党州长候选人 Bottoms 呼吁暂停新建数据中心 1-6 个月；乌克兰称美国对爱国者/NASAMS 批准停滞近一月；以色列紧张议会选举投票今日结束。",
+      "bullets": [
+        {
+          "actor": "Keisha Lance Bottoms",
+          "actor_type": "US-Congress",
+          "text": "GA 州长候选人呼吁暂停新建数据中心 1-6 个月",
+          "details": "乔治亚州民主党州长候选人 Bottoms 呼吁暂停新建数据中心，时长可能一至六个月或更久，以评估电力、用水与社区影响。",
+          "important": true
+        },
+        {
+          "actor": "Zelensky / 五角大楼",
+          "actor_type": "Foreign-Gov",
+          "text": "乌克兰称美对爱国者/NASAMS 批准停滞近一月",
+          "details": "乌克兰消息源称五角大楼对爱国者与 NASAMS 导弹的批准仍停滞；泽连斯基称基辅已等待赫格塞斯签字近一个月。",
+          "important": false
+        },
+        {
+          "actor": "以色列",
+          "actor_type": "Foreign-Gov",
+          "text": "以色列议会选举投票今日 GMT 20 时结束",
+          "details": "以色列开启紧张议会选举投票，内塔尼亚胡阵营与艾森科特反对派均无稳获多数；投票当地时间晚 10 点/GMT 晚 8 点结束。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-10-27",
+      "image_urls": []
+    }
+  ]
+}
