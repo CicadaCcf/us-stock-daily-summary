@@ -1,0 +1,281 @@
+{
+  "themes": [
+    {
+      "id": "ai-infoflow-weekly",
+      "theme": "AI",
+      "title": "AI信息流总结",
+      "date_range": "",
+      "summary": "本周AI主题围绕ARR、需求、供给、融资与监管展开：Anthropic因Opus 5.5驱动API收入重新加速，企业端进入控预算模式；AI挖漏洞能力大规模爆发推高企业安全预算；Meta设无投票权Class C股、OAI新融资估值下调，显示hyperscaler现金流承压。",
+      "tickers": [
+        "META",
+        "CRM",
+        "TEAM",
+        "WDAY",
+        "NOW",
+        "DDOG",
+        "V",
+        "NVDA",
+        "GS"
+      ],
+      "date": "2026-10-28",
+      "groups": [
+        {
+          "label": "ARR",
+          "entries": [
+            {
+              "source": "Anthropic",
+              "source_type": "",
+              "important": true,
+              "points": [
+                "Q4 `$18.5B` Rev的收入guidance**开始传播**，反推ARR ~ `$75B`"
+              ]
+            },
+            {
+              "source": "Yipit",
+              "source_type": "第三方追踪",
+              "important": false,
+              "points": [
+                "显示O/A ARR重新加速, 10月中Anthropic `$76B`, OAI `$54B`。其中Anthropic是API收入**因opus 5.5的广受好评重新加速**，OAI API降速，符合企业收入市场目前存量竞争，加速主要由C端贡献",
+                "Anthropic因opus 5.5加速和此前交流一致，OAI收入加速主要因为yipit调整样本权重，个人认为不可靠"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "需求",
+          "entries": [
+            {
+              "source": "训练",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "本周无三要素变化"
+              ]
+            },
+            {
+              "source": "Allin",
+              "source_type": "推理-企业应用",
+              "important": false,
+              "points": [
+                "AI资金循环交易，估算 `1%` 的公司贡献了 `90%`的 AI 支出，其中 `80%` 来自靠 VC 输血、还不赚钱的创业公司，钱在一个小圈子里打转",
+                "Ramp披露头部 `1%` 的 AI 支出里，花在自买 GPU 跑开源模型上的比例在上升，**花在闭源实验室上的相对下降**",
+                "企业偏好开源模型，因为可审计思维链很重要。金融和医疗的监管要求可解释",
+                "预计未来几年 SaaS 会被大幅颠覆，但对稳定性要求极高的系统（比如核心银行记账）很难被 AI 生成的软件替代"
+              ]
+            },
+            {
+              "source": "Chamath",
+              "source_type": "推理-企业应用",
+              "important": false,
+              "points": [
+                "2027 年芯片会大量到位，但**能用的算力不够**，因为数据中心建不完、电接不上。结果是一批**已经买了的芯片闲置**，或者**收益低于资金成本。**负责把芯片变成可用算力的两类公司有自己的问题",
+                "neocloud缺钱： 组织混乱、资本实力弱，但其中有几家还可以",
+                "hyperscaler太慢： 太官僚，签个 NDA 要 3 个月，还要 18 个月的托管期。hyperscaler若遇到可用算力不足会优先确保自用算力，再分配给第三方（模型公司）"
+              ]
+            },
+            {
+              "source": "FundaAI",
+              "source_type": "推理-企业应用",
+              "important": false,
+              "points": [
+                "过去 6 个月 AI 支出 `+41%`，未来 6 个月 `+16%`，2027 年 `+27%`(看不到市场期待的三位数增长)；`95%` **处在控预算模式**，`58%` 设了 token 上限、`47%` 用模型路由、`35%` 限制员工用高价模型。开源模型实际使用占比低，仅～`5%`",
+                "金融科技公司培训员工模型routing后，token用量虽然上升但部分团队**支出减半**"
+              ]
+            },
+            {
+              "source": "Torsten Slok",
+              "source_type": "Apollo",
+              "important": false,
+              "points": [
+                "Mag 7 人均收入和利润率在升，标普 493 两项都持平，企业开始把 token 支出当压利润率的成本中心",
+                "他写这个观点好几个月了，本周被BBG传播放大"
+              ]
+            },
+            {
+              "source": "Russell Kaplan",
+              "source_type": "Cognition",
+              "important": false,
+              "points": [
+                "很多软件任务已经智力饱和，只剩成本和速度"
+              ]
+            },
+            {
+              "source": "GS CEO Solomon",
+              "source_type": "Goldman Sachs",
+              "important": false,
+              "points": [
+                "我们做的事里很少需要前沿模型"
+              ]
+            },
+            {
+              "source": "CRM",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "CRM最早 11 月要求客户登记外部 AI agent，每次操作算一次计费；TEAM、WDAY、NOW、DDOG 也在设类似收费站"
+              ]
+            },
+            {
+              "source": "【重要】网安",
+              "source_type": "推理",
+              "important": true,
+              "points": [
+                "AI 第一次大规模批量挖出老软件里的高危漏洞，攻击和防守同时提速，不改变AI labs收入，改变企业安全预算",
+                "总结：网络漏洞一直都在，变化是 **AI 让\"找漏洞\"又快又便宜**（过去一年一次大事件，现在每周一次。攻击频率指数级提高），但\"**补漏洞\"没有变快**（AI能写出解决方案，但是需要哪些公司在用，相关系统都要更新，需要**弥补此前代码技术债**），攻防差距拉大，企业安全预算要涨",
+                "本周安全事件：AI 挖出 PHP（约 70% 网站在用）和 Node.js 的高危漏洞，攻击者不用密码就能控制服务器；补丁前细节泄露，几小时内上百万次攻击尝试",
+                "OAI披露Agent利用CPU敲摩斯码，后续最危险的模型应该要在单独的物理服务器跑，与外界隔离。一个物理机多个虚拟机多个agent公用，agent 故意占用或清空缓存，让隔壁虚拟机读数据时变快或变慢，隔壁按快慢解码，信息就传出去了，像隔着墙敲摩斯码。这是CPU的设计特性，打补丁只能缓解。因此最危险的模型要放在独占的物理服务器上跑",
+                "银行发现未授信的Agent，两周前开始，本周发酵",
+                "黑客用 agent 自动化攻击，闭源模型安全性高拒绝请求后黑客换成开源模型",
+                "银行发现客户账户里有来路不明的 agent 操作"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "供给",
+          "entries": [
+            {
+              "source": "模型",
+              "source_type": "企业应用能力",
+              "important": false,
+              "points": [
+                "预计下周Fable 5.5发布，IPO前SOTA模型造势，据传模型推理和直觉更强、特别擅长推断用户没说出口意图"
+              ]
+            },
+            {
+              "source": "Visa",
+              "source_type": "金融",
+              "important": false,
+              "points": [
+                "Visa 和 BILL、Billtrust 合作，让 AI agent 不经人工认证完成企业发票付款"
+              ]
+            },
+            {
+              "source": "法律",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "无新增"
+              ]
+            },
+            {
+              "source": "Anthropic",
+              "source_type": "网安",
+              "important": true,
+              "points": [
+                "AI可以快速给找出的漏洞写解决方案，卡点在**把补丁打到每台相关的机器上**，且不破坏业务",
+                "Anthropic用Claude 给 100 多个开源库写形式化安全证明、修了数百个 bug"
+              ]
+            },
+            {
+              "source": "Anthropic",
+              "source_type": "Personal Assistant",
+              "important": false,
+              "points": [
+                "Anthropic 开放 Claude Duet 研究预览（Opus 5.5 驱动，替用户盯 Slack、接 Stripe Link 可以付款退款）",
+                "目前PA领域有Muse(Meta), Duet(Anthropic), Dots(OAI), Grok bots(SPCX), 只有Muse是纯粹面向C端（处理生活为主，预计后续购物抽成/广告提效为主要收入来源），其他都更偏向B端（处理工作为主，付费订阅为主）"
+              ]
+            },
+            {
+              "source": "Meta",
+              "source_type": "Personal Assistant",
+              "important": false,
+              "points": [
+                "Muse 美加约 250 万 DAU, DAU/total downloads ~`25%`.超过 1/4 用户在用购物，客单价 `$200`以上。",
+                "目前成本较高，管理层预计一年内成本效率提高 10 倍以上"
+              ]
+            },
+            {
+              "source": "Anthropic 和 Citrini",
+              "source_type": "AI4S",
+              "important": false,
+              "points": [
+                "**AI4S是AI labs IPO和AI startup的重要市场，但是短期难见ARR**",
+                "Anthropic 和 Citrini 用内部研究模型 64 小时生成 31.8 万个蝎毒结合蛋白设计，测试 211 个、17 个达标",
+                "证明模型能快速设计出能粘上目标的蛋白，离能治病的药还隔着中和、动物、临床好几步，**物理验证是瓶颈**"
+              ]
+            },
+            {
+              "source": "OAI",
+              "source_type": "AI4S",
+              "important": false,
+              "points": [
+                "OAI 收购 Orchestra Bio 并入 Rosalind",
+                "OAI 需要深入理解药企给出适合垂直领域的模型和工作流"
+              ]
+            },
+            {
+              "source": "Warp Sciences",
+              "source_type": "AI4S",
+              "important": false,
+              "points": [
+                "前 OAI 科学负责人 Kevin Weil 创立 Warp Sciences，A 轮 `$215M`"
+              ]
+            },
+            {
+              "source": "Kimi K3.1 Pro",
+              "source_type": "竞争与定价",
+              "important": false,
+              "points": [
+                "开源在跑分上追到一个身位以内，**实际体验还差约 3 个月**",
+                "benchmark跑分接近Fable 5.1, 仅次于opus 5.5, **实测结果反馈仍然相当于opus 5，并未推动开源能力前沿**",
+                "另外因Moonshot缺算力， 官网用不上新模型"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "融资与估值",
+          "entries": [
+            {
+              "source": "【重要】Meta",
+              "source_type": "",
+              "important": true,
+              "points": [
+                "设立无投票权 Class C 股（1/19/27 生效，融资列为首要用途）。要在更多公司吸走市场上可用资本之前股权融资，相当于**hyperscaler承认现金流撑不住capex**"
+              ]
+            },
+            {
+              "source": "【重要】OAI新融资",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "本轮 `$30B`，投前估值从 `$1.4T` 让到 `$1.25T`（先报高价再下调，悲观信号），Coatue 和阿联酋投资人领投，目标 `10/30` 前后交割"
+              ]
+            },
+            {
+              "source": "Neocloud",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "Jensen：neocloud 需求爆表，缺的是营运资金.被问是否兜底, *我们投资了它们……这和给它们兜底不同，***被市场悲观解读**"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "监管",
+          "entries": [
+            {
+              "source": "国土安全部",
+              "source_type": "",
+              "important": true,
+              "points": [
+                "本周监管更多关乎地缘竞争，对美国头部AI模型公司无边际影响",
+                "国土安全部要求联邦文职机构移除 DeepSeek 及基于它的产品，提高了美国企业使用中国开源模型的合规成本，利好美国本土开源"
+              ]
+            },
+            {
+              "source": "财政部",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "财政部提议扩大对外投资限制：禁止美国人投资中国的 HBM 等半导体，以及所有 AI 系统"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

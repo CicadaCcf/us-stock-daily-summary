@@ -1,0 +1,93 @@
+{
+  "generated_at": "2026-10-28T21:31:52+00:00",
+  "date": "2026-10-28",
+  "since": "2026-10-26T20:00:00+00:00",
+  "by_ticker": {
+    "AXGN": [],
+    "GMAB": [],
+    "ICLR": [
+      {
+        "headline": "Icon PLC (ICLR) Q3 Earnings and Revenues Beat Estimates",
+        "url": "https://www.zacks.com/stock/news/3016556/icon-plc-iclr-q3-earnings-and-revenues-beat-estimates?cid=CS-ZC-FT-fundamental_analysis|yseop_template_4-3016556",
+        "source": "Zacks Investment Research",
+        "published_at": "2026-10-27T21:20:07Z",
+        "image": "https://staticx-tuner.zacks.com/images/default_article_images/default122.jpg",
+        "description": "Icon PLC reported Q3 2026 earnings of $2.66 per share, slightly beating consensus estimates of $2.64, with revenues of $2.02 billion. However, the company has underperformed the S&P 500 year-to-date, gaining only 0.9% versus the market's 12.1% gain. Despite the earnings beat, unfavorable estimate revisions ahead of the report resulted in a Zacks Rank #4 (Sell) rating, suggesting underperformance in the near term. The Medical Services industry ranks in the bottom 39% of Zacks industries."
+      }
+    ],
+    "VRT": [
+      {
+        "headline": "Can nVent Electric Become the Next Vertiv?",
+        "url": "https://www.fool.com/investing/2026/10/28/can-nvent-electric-become-the-next-vertiv/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-10-28T10:55:00Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892292%2Fgettyimages-895610098-1200x800-5b2df79.jpg&w=1200&op=resize",
+        "description": "nVent Electric is positioned as a potential next-generation investment opportunity similar to Vertiv's AI data center liquid cooling success. With a smaller market cap ($21B vs Vertiv's $80B), faster revenue growth (53% vs 24%), lower valuation (19.5 P/E vs 21.8 P/E), and a $2.5B backlog, nVent offers more room for expansion in the booming AI infrastructure market while maintaining positive free cash flow growth of 125% year-over-year."
+      },
+      {
+        "headline": "Vertiv Holdings Co. (VRT) Q3 Earnings and Revenues Surpass Estimates",
+        "url": "https://www.zacks.com/stock/news/3016720/vertiv-holdings-co-vrt-q3-earnings-and-revenues-surpass-estimates?cid=CS-ZC-FT-fundamental_analysis|yseop_template_4-3016720",
+        "source": "Zacks Investment Research",
+        "published_at": "2026-10-28T10:10:03Z",
+        "image": "https://staticx-tuner.zacks.com/images/default_article_images/default314.jpg",
+        "description": "Vertiv Holdings (VRT) reported Q3 2026 earnings of $2.21 per share, beating consensus estimates of $1.82 by 21.43%, with revenues of $4.31 billion exceeding expectations by 14.61%. The company has outperformed the S&P 500 by 15.9% year-to-date and holds a Zacks Rank #2 (Buy) rating. Fair Isaac (FICO) is expected to report results on November 4 with projected earnings of $10.84 per share, up 40.1% year-over-year."
+      },
+      {
+        "headline": "5 Stocks Poised to Win Big as SpaceX Ramps Up AI Infrastructure",
+        "url": "https://www.fool.com/investing/2026/10/28/5-stocks-poised-to-win-big-as-spacex-ramps-up-ai-i/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-10-28T09:30:00Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892215%2Fgettyimages-1480633240.jpg&w=1200&op=resize",
+        "description": "SpaceX plans to increase AI computing capacity by 10-20 gigawatts next year, positioning several semiconductor and infrastructure companies as major beneficiaries. Nvidia will be the primary winner as SpaceX's exclusive chip supplier, while SK Hynix, Amphenol, Vertiv, and TSMC are also expected to see significant revenue boosts from increased demand for memory, interconnects, cooling systems, and advanced logic chips."
+      },
+      {
+        "headline": "Ranking 4 AI Power Stocks By Balance Sheet After the Sell-off: Vertiv, GE Vernova, Bloom Energy, and Plug Power.",
+        "url": "https://www.fool.com/investing/2026/10/27/ranking-4-ai-power-stocks-by-balance-sheet-after-t/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-10-28T03:15:00Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892169%2F26_10_27-a-balance-sheet-with-a-fountain-pen-_md-dload-getty-images-1280x853-c533c3e.jpg&w=1200&op=resize",
+        "description": "The article ranks four AI power stocks by financial strength following recent market sell-offs. GE Vernova emerges as the strongest with a 0.25x debt-to-equity ratio and massive $176 billion backlog. Vertiv ranks second with solid fundamentals despite higher leverage. Bloom Energy ranks third due to recent profitability progress but heavy dependence on AI spending. Plug Power ranks last with persistent unprofitability and the weakest balance sheet at 1.8x debt-to-equity ratio."
+      },
+      {
+        "headline": "These Dividend-Paying Stocks Offer Notable AI Exposure: AVGO VRT",
+        "url": "https://www.zacks.com/stock/news/3016614/these-dividend-paying-stocks-offer-notable-ai-exposure-avgo-vrt?cid=CS-ZC-FT-stocks_in_the_news-3016614",
+        "source": "Zacks Investment Research",
+        "published_at": "2026-10-27T23:23:00Z",
+        "image": "https://staticx-tuner.zacks.com/images/articles/main/7d/155505.webp",
+        "description": "Technology stocks with AI tailwinds can provide both growth and dividend income. Broadcom and Vertiv are highlighted as companies offering dividend yields alongside exposure to artificial intelligence and data center trends, with Broadcom showing stronger dividend growth and Vertiv positioned to benefit from data center expansion."
+      },
+      {
+        "headline": "Vertiv Expands AI Data Center Footprint: Can It Beat APH and SMCI?",
+        "url": "https://www.zacks.com/stock/news/3016397/vertiv-expands-ai-data-center-footprint-can-it-beat-aph-and-smci?cid=CS-ZC-FT-analyst_blog|quick_take-3016397",
+        "source": "Zacks Investment Research",
+        "published_at": "2026-10-27T17:23:00Z",
+        "image": "https://staticx-tuner.zacks.com/images/articles/main/d3/848.jpg",
+        "description": "Vertiv is capitalizing on strong demand for AI infrastructure with its new SmartIT platform and strategic NVIDIA partnership, which could reduce deployment time by up to 50%. However, the company faces increasing competition from Super Micro Computer and Amphenol, both expanding their AI-focused product portfolios. VRT stock trades at a premium valuation with a Zacks Rank #2 (Buy) rating and expected 2026 earnings growth of 59.76%."
+      },
+      {
+        "headline": "Can Vertiv's Americas Strength Drive Robust Q3 2026 Earnings Growth?",
+        "url": "https://www.zacks.com/stock/news/3016394/can-vertiv-s-americas-strength-drive-robust-q3-2026-earnings-growth?cid=CS-ZC-FT-analyst_blog|earnings_preview-3016394",
+        "source": "Zacks Investment Research",
+        "published_at": "2026-10-27T17:19:00Z",
+        "image": "https://staticx-tuner.zacks.com/images/articles/main/30/172914.webp",
+        "description": "Vertiv (VRT) is expected to report strong third-quarter 2026 results on Oct. 28, with the Americas segment driving growth through robust AI infrastructure investments and hyperscale data center deployments. The company's expanding portfolio, strategic acquisitions (PurgeRite, King Environmental Services), and partnerships with NVIDIA are enhancing its thermal management and power solutions capabilities. Vertiv expects organic sales growth in the high-30% range for Q3 Americas, with consensus est"
+      },
+      {
+        "headline": "Breakfast News: Delivery King Eyes Grocery Carts",
+        "url": "https://www.fool.com/investing/breakfast-news/2026/10/27/breakfast-news-delivery-king-eyes-grocery-carts/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-10-27T11:30:02Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fbn271026.png&w=1200&op=resize",
+        "description": "DoorDash is in talks to acquire Instacart for approximately $17 billion to expand into grocery delivery and compete with Walmart and Amazon. Meta is raising $35 billion through a stock sale to fund its massive AI infrastructure investments, with Nvidia investing $3 billion in the offering. Brazilian political uncertainty caused selloffs in MercadoLibre and Nu Holdings due to concerns about government spending and currency weakness. Several major companies report earnings this week including Visa"
+      },
+      {
+        "headline": "Don't Miss This Week's 5 Most Important Earnings Charts",
+        "url": "https://www.zacks.com/stock/news/3015421/don-t-miss-this-week-s-5-most-important-earnings-charts?cid=CS-ZC-FT-video_blog-3015421",
+        "source": "Zacks Investment Research",
+        "published_at": "2026-10-26T21:48:00Z",
+        "image": "https://staticx-tuner.zacks.com/images/default_article_images/default160.jpg",
+        "description": "Major earnings season this week features Microsoft, Alphabet, and Amazon alongside key AI infrastructure and pharma companies. Five earnings all-stars with strong track records are highlighted: Vertiv (excellent surprise record but down 21% amid AI weakness), Microsoft (one miss in 5 years, near all-time highs), Eli Lilly (five consecutive surprises, trading near highs), Sandisk (perfect record since 2025 spinoff, down 29% and trading at deep value), and Alphabet (no misses since 2023, trading a"
+      }
+    ]
+  }
+}

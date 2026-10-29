@@ -1,0 +1,525 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-hormuz-oct27",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "卡塔尔递交七日停火草案 特朗普称打击伊朗是一生最佳决定之一",
+      "summary": "卡塔尔周日在德黑兰递交结束美以对伊战争新草案，设7日时间表、每日互信步骤和多国担保；伊高官回应称多哈所提想法「不可接受」、核问题「不展示任何弹性」。特朗普在得州集会称若重来仍会打击伊朗，并称停火是「浪费时间」只为放船进来。",
+      "bullets": [
+        {
+          "actor": "卡塔尔/路透",
+          "actor_type": "新闻",
+          "text": "卡塔尔递交七日停火草案 伊称多哈方案不可接受",
+          "details": "RTRS援引知情官员：卡塔尔调解方周日在德黑兰向伊递交新草案，旨在结束美以对伊战争；设七日时间表、双方每日互信步骤、多国担保；伊有望本周末前答复，最早下周启动；伊高官回应卡塔尔并未提出结束对美敌对的新方案；多哈所提想法对伊「不可接受」；伊在核问题上「不展示任何弹性」的政策不变",
+          "important": true
+        },
+        {
+          "actor": "《卫报》",
+          "actor_type": "新闻",
+          "text": "海湾多线方案：解制裁后约4日重开霍尔木兹、胡塞后撤",
+          "details": "《卫报》：称海湾国家推动多线方案制裁解除后约4日重开霍尔木兹、胡塞在也门大幅后撤；美知情但坚持「核查人员重返」类让步；伊方仍聚焦开峡换解除制裁担保",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普得州造势：若重来仍会打击伊朗",
+          "details": "特朗普得州造势：被问若重来是否仍打击伊朗，答绝对会，称一生做得最好的事之一；并称美未开战、伊自1979起对美开战",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "称停火是浪费时间 只为放船进来",
+          "details": "在密西西比集会上说\"We did a little ceasefire, which I never liked very much. I considered it a waste of time\",并称停火是为了让一些船进来",
+          "important": false
+        },
+        {
+          "actor": "tleilax",
+          "actor_type": "KOL",
+          "text": "评最高领袖条件：非西方想要的条件",
+          "details": "tleilax(Yet another commodity guy)评\"最高领袖呼吁满足结束战争的条件\":\"I think those are not the conditions the west is looking for\"",
+          "important": false
+        },
+        {
+          "actor": "Javier Blas",
+          "actor_type": "KOL",
+          "text": "沙特出口激增可能是「趁能用先用」策略",
+          "details": "对沙特出口激增的解读:可能是\"use-while-you-can\"策略,赶在美国中期选举后战争可能重启、或胡塞再次损毁关键设施前多出口(数据见 F 组)",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "RTRS",
+        "Guardian"
+      ],
+      "date": "2026-10-28",
+      "image_urls": [
+        "/uploads/2026-10-28/fcb076db76d4.png"
+      ]
+    },
+    {
+      "id": "israel-election-oct27",
+      "topic": "以色列大选",
+      "topic_tag": "geo",
+      "title": "以色列出口民调议会悬峙 内塔尼亚胡阵营56席未过半",
+      "summary": "10月27日投票结束公布的出口民调显示议会悬峙，已统计66%选票下执政联盟56席、反对派48席，均未达61席多数。THE SHORT BEAR认为结果使中期选举前复战窗口接近零；市场评论认为内塔尼亚胡惨败、阿拉伯政党成造王者。",
+      "bullets": [
+        {
+          "actor": "Independent Persian",
+          "actor_type": "新闻",
+          "text": "出口民调：执政联盟56席、反对派48席 议会悬峙",
+          "details": "以色列10 月 27 日投票结束后公布的出口民调显示议会悬峙，内塔尼亚胡领导的利库德集团阵营与加迪·艾森科特领导的反对派均未赢得多数，已统计 66%选票，执政联盟获 56 席，反对派阵营 48 席（Independent Persian），两阵营均未达到多数所需的 61 席",
+          "important": true
+        },
+        {
+          "actor": "THE SHORT BEAR",
+          "actor_type": "KOL",
+          "text": "选果使中期选举前复战窗口接近零",
+          "details": "论点:以色列大选结果是对长期战争的\"real win\",中期选举前复战窗口接近零,剩余风险集中在 11月4日至 1月3日美国主导的行动。1. 出口民调:Netanyahu 阵营从 68 席降至约 50, 两个阵营都不到 61, 阿拉伯政党 17–18 席成为造王者;组阁需 six to ten weeks,可能重选；2. 过渡期 Netanyahu 仍是看守总理、握有战争权,但政治空间崩塌;此时主动升级会被视为保位,反而给反对派团结的理由;总检察长和总统 Herzog 也形成制度阻力；3. 美方此前已承诺选前不打伊朗;跛脚鸭期 Trump 受国会约束少,并说战争会在选后以协议或武力\"end\";若华盛顿动手,以色列可作为 junior partner 跟进;伊朗挑衅是另一尾部；4. 加上海湾国家会谈,\"winds are starting to blow towards diplomacy\",他认为战争每天都更不可能",
+          "important": false
+        },
+        {
+          "actor": "מתן חודורוב",
+          "actor_type": "KOL",
+          "text": "内塔尼亚胡惨败 艾森科特能否组阁未定",
+          "details": "1) 内塔尼亚胡惨败,下届议会多数反对他,伙伴也受挫 2) 艾森科特尚未赢,要看能否带领阵营打破对拉阿姆党的抵制组阁 3) 阿拉伯政党成为不可忽视的玩家,但代表性仍低于人口比重 4) 反对派从重选中得不到好处:支持者投票率高、无选票浪费、数万支持者专程回国投票",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Independent Persian"
+      ],
+      "date": "2026-10-28",
+      "image_urls": []
+    },
+    {
+      "id": "fed-fomc-preview-oct27",
+      "topic": "FOMC预览",
+      "topic_tag": "fed",
+      "title": "FOMC预览：市场预期鹰派表态 异议票风险上升",
+      "summary": "Furman指出若Fed不动，美国将成为主要央行实际政策利率最高之一；El-Erian预计鹰派、可能有异议票；EconstratPB认为利率仍偏低、Fed最终可能加息，市场预期未来10年联邦基金均值4.3%高于长期估计3.2%。",
+      "bullets": [
+        {
+          "actor": "Mohamed A. El-Erian",
+          "actor_type": "Analyst",
+          "text": "预计会后相对鹰派 可能有异议票",
+          "details": "鉴于近期一连串通胀数据,预计会后表态相对鹰派;可能有异议票,但不太确定",
+          "important": true
+        },
+        {
+          "actor": "Jason Furman",
+          "actor_type": "Analyst",
+          "text": "Fed不动使美国实际政策利率将居主要央行高位",
+          "details": "Fed 明天不动,美国仍将是主要央行中实际政策利率最高的之一,与过去处于低端相反;原因是强增长和通胀压力的组合",
+          "important": false
+        },
+        {
+          "actor": "@EconstratPB",
+          "actor_type": "KOL",
+          "text": "利率仍偏低 Fed最终可能加息",
+          "details": "论点:利率\"look kinda low\",Fed 最终可能不得不 hike.市场预期未来十年联邦基金平均 4.3%, Fed 长期估计 3.2%;ACM 期限溢价模型给出的中性利率 4.3%, 高于当前 3.88%",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-28",
+      "image_urls": []
+    },
+    {
+      "id": "us-treasury-ops-oct27",
+      "topic": "美国财政部操作",
+      "topic_tag": "rates",
+      "title": "财政部回购：$10.746B报价 接受$6B",
+      "summary": "财政部回购操作收到$10.746B报价，接受$6B，与近期回购上限一致。",
+      "bullets": [
+        {
+          "actor": "US Treasury",
+          "actor_type": "US-Executive",
+          "text": "回购：收$10.746B报价 接受$6B",
+          "details": "回购收到 $10.746B 报价,接受 $6B",
+          "important": true
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "预计本季度维持$6B回购上限",
+          "details": "回购改善了长端非新券流动性，市场已适应每次长端操作至少 $6B，预计本季度维持 $6B 上限，但需更清晰的事先沟通、定价方法和债券资格（尤其CTD切换）",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-10-28",
+      "image_urls": []
+    },
+    {
+      "id": "ust-market-views-oct27",
+      "topic": "美债市场",
+      "topic_tag": "rates",
+      "title": "民主党横扫被视为债市最大风险 卖方多路径分析UST",
+      "summary": "Wallerstein警告民主党横扫会显著扩大赤字、对债券极负面。JPM/BofA/DB围绕11月再融资预计维持附息规模不变但指引措辞或调整，长端削减时点或在2027年2月；DB强调买入持有型投资者份额由2007年近100%降至2026Q2的65%。",
+      "bullets": [
+        {
+          "actor": "Eric Wallerstein",
+          "actor_type": "Analyst",
+          "text": "民主党横扫是债市最大风险",
+          "details": "论点:民主党横扫是债市最大风险。1. 恢复奥巴马医保、Medicaid 等福利会进一步扩大赤字,\"extremely negative for bonds\"；2. 即便浅横扫,这些项目也可能被打包进\"large defense spending increase\",对赤字\"double whammy\"；3. 若民主党削减关税(他怀疑能否做到),赤字再增;OBBB 原本被关税收入抵消,将变成 OBBB 加更多福利减去关税收入",
+          "important": true
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "预计FOMC按兵不动 可能三人投鹰派反对",
+          "details": "预计FOMC按兵不动，Hammack和Logan或投鹰派反对票，Kashkari存在第三票风险；若Warsh推迟解释，市场可能解读为偏鸽，因9月核心PCE温和（0.2%）而下次预测或升至 0.3%。维持10s/30s陡峭化作为低贝塔押注前端下行，客户调查久期超配为2025/11/24以来最高、接近但未达系统性卖出信号，长端受仓位技术面制约；IOTA未能走阔且通胀互换流动性改善（YTD日均 $11.6B、yoy +57%，占TIPS交易量由 38% 升至 48%），了结10Y IOTA多头",
+          "important": false
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "预计11月再融资附息不变 CY27 T-bill净发+$991B",
+          "details": "预计11月再融资维持附息规模不变：FY26赤字 $1.992T、FY27预测 $1.96T，现行拍卖计划下FY27-FY30融资缺口 $4.1T，应删除\"至少\"措辞但财政部态度耐心。预计10-12月净可售借款 $475B（季末现金 $850B）、1-3月 $664B（$1.0T），CY27净T-bill +$991B 为2023年以来最大，2028年T-bill占比升至 25%，WAM 2y 内降约 3mo 至 66.9mo；规模维持至2027年8月、之后多个季度增发集中于2-10Y。反对削减长端，因MMF资产增长放缓、外国官方T-bill持有下降、稳定币停滞，T-bill需求弹性存疑",
+          "important": false
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "2Y 4.60-5.00%区间 10Y下行支撑4.825%",
+          "details": "2Y在 4.60%-4.63% 受阻，除非SPX跌破 7500-7600 并加速下跌，否则维持 4.60%-5.00% 区间；10Y收益率下行初步支撑 4.825%、更大支撑 4.35%-4.43%（阻力与支撑位次序原文两处不一致）",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "11月维持附息 删「至少」为27年2月削长端铺路",
+          "details": "预计11月维持全部附息规模不变，但删除\"至少未来几个季度\"指引，为2027年2月削减长端打开大门；BofA认为财政部应该也很可能削减长端，但\"常规且可预测\"框架令其暂缓。若削减，20Y和30Y广泛小幅削减比取消基准券更可能，每季度新券约 $2B-$3B，先于2-7Y增发独立进行并以T-bill抵消，可考虑1Y SOFR FRN；2-7Y增发仍预计自2027年8月开始，但长端削减、T-bill变便宜和债务上限（2027年5月起约束、X-date 2027年11月且有提前风险）构成时点风险",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "30Y较OIS便宜60-70bps 长端需求结构性走弱",
+          "details": "供需错配：30Y较OIS便宜 60-70bps、2Y仅 12-15bps，长端需求受私人DB养老金2022年已完全融资、对冲分散效果减弱、长端基金流入放缓拖累；前端受MMF AUM年增 10%-15%（约 $1T/y）、SOMA MBS再投资 $150B-$250B/y 加RMP $100B-$250B/y、银行偏好2-7Y支撑。银行过去 6y 增持UST一处为 $1.1T、另一处为近 $1.2T（原文两处不一致）",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "T-bill占可售22.5% 基准FY27末升至24%",
+          "details": "T-bill占可售债务约 22.5%（TBAC建议约 20%），基准预测FY27末升至约 24%，削减长端将进一步推高该比例、压低WAM。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "买入持有型占UST份额由2007年近100%降至65%",
+          "details": "买入并持有型投资者（MMF、共同基金/ETF、Fed、银行、州地方政府、养老金、保险、外国投资者）占UST市场份额由2007年近 100% 降至2026Q2 65%，经WAM调整后降幅更大，与10Y互换利差结构性走负、期限溢价上升密切相关。Fed和外国官方两大传统持有者份额下降，外国官方UST占其美国长期证券组合由 70% 降至 50%；MMF和外国私人份额上升，后者集中于开曼、英国，或含大量对冲基金",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "买入持有组合WAM 5.1y 建议财政部缩短发行期限",
+          "details": "买入并持有组合WAM 5.1y，低于市场 5.9y，银行与外国官方持仓久期缩短，外国私人 7.5y。主张财政部更主动缩短发行期限：附息增量集中2-7Y，同时适度削减20Y和30Y，基准自2027年8月启动并提前数个季度沟通，对曲线轻度平坦化",
+          "important": false
+        },
+        {
+          "actor": "MS",
+          "actor_type": "Analyst",
+          "text": "UST 12mo净发行$1.039T 但供给非主要收益率驱动",
+          "details": "过去 12mo 和 1mo 政府债净发行较高并未系统性对应更高收益率，通胀、货币政策和期限溢价仍是比供给更重要的驱动；UST 12mo 累计净发行约 $1.039T，其中10Y以上约 $357B。美国IG 12mo 净发行约 $608B（科技 $153B、金融 $119B、通信 $106B），3mo 信用利差与净发行基本脱钩，AI相关供给仍高但高利率压制低资质借款人，偏好IG胜于HY，超大规模发行人的计划性发行令吸收更可控",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "预计12月和3月各加25bps UST 10Y年底4.8%",
+          "details": "10月G10债券普遍上涨，美国2Y下行幅度领先，驱动为政策利率预期下修和期限溢价下降，DB 5s10s期限溢价全市场回落，季节性显示11月仍有下行压力；跨国映射中美国在NIIP框架下与瑞士同为最贵，现券和互换期限溢价均处映射低端。预计Fed 10月按兵不动、12月和3月各加 25bps（累计 50bps），历史上Fed加息通常多于市场定价；UST 10Y年底预测上调 10bps 至 4.8%",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        5
+      ],
+      "importance": 3,
+      "sources": [
+        "JPM",
+        "BofA",
+        "DB",
+        "MS"
+      ],
+      "date": "2026-10-28",
+      "image_urls": [
+        "/uploads/2026-10-28/732c6f6cf828.png"
+      ]
+    },
+    {
+      "id": "gs-fed-hiking-cycle-oct27",
+      "topic": "GS加息周期研究",
+      "topic_tag": "fed",
+      "title": "GS：历史9轮加息平均260bps/13mo 本轮已加过起点",
+      "summary": "GS回顾1983年以来9轮加息周期，平均加息260bps、持续13mo。本轮始于2026年9月起点3.75%，市场定价再加3次（约100bps），GS仅预期再加1次。基准为温和加息股市温和上行；建议5s10s30s SOFR蝶式接收10y。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "本轮始于26年9月起点3.75% GS仅预期再加1次",
+          "details": "1983年以来 9 轮加息周期平均加息 260bps、持续 13mo；本轮始于2026年9月、起点 3.75%，市场定价约再加 3 次（约 100bps），GS预期仅再加 1 次。历史中位数显示股市首次加息后 2mo 内触底、4mo 内收复，6mo 回报除1994和2022年外持平或为正，12mo 除2022年外均为正；收益率在首次加息前上行，小周期中2Y随后见顶回落、大周期继续上行，曲线全程走平，实际贸易加权USD加息前走强、之后方向不定",
+          "important": true
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "26年起点混合特征 Shiller PE 41x接近1999",
+          "details": "2026年起点特征混合：劳动力市场强、起点利率高接近1997/1999，GDP 2.2% 类似2015，Shiller PE 41x 接近1999（42x），核心PCE 3.0% 高于小周期起点。基准为温和加息、增长贴近潜在、通胀逐步缓解，对应股市温和上行；风险情景为通胀改善提前结束（类1997，最利好风险资产）、增长或金融压力中断加息（类2015，初期不利）、增长韧性导致延长加息（类1999，加 175bps 后科网泡沫破裂）。美国相关交易：5s10s30s SOFR蝶式接收10y，目标 -4bps、止损 4bps",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-10-28",
+      "image_urls": []
+    },
+    {
+      "id": "us-equity-views-oct27",
+      "topic": "美股策略",
+      "topic_tag": "earnings",
+      "title": "增长恐慌压过利率恐慌 市场明显下调AI未来收益",
+      "summary": "Timmer认为DCF之争变成「利率恐慌vs增长恐慌」，当前增长担忧占上风。Bob Elliott观察个股相对表现显示市场在meaningfully downrating AI未来收益。Ariston不追数据中心修复行情，看好应用AI工业制造企业。",
+      "bullets": [
+        {
+          "actor": "Bob Elliott",
+          "actor_type": "KOL",
+          "text": "个股表现显示市场明显下调AI未来收益",
+          "details": "个股相对表现显示市场在\"meaningfully downrating\" AI 未来的收益",
+          "important": true
+        },
+        {
+          "actor": "Jurrien Timmer",
+          "actor_type": "KOL",
+          "text": "增长恐慌压过通胀/利率恐慌",
+          "details": "论点:DCF 的分子分母之争变成\"利率恐慌\"与\"增长恐慌\"之争,目前增长担忧压过通胀/利率担忧",
+          "important": false
+        },
+        {
+          "actor": "Ariston",
+          "actor_type": "KOL",
+          "text": "不追数据中心反弹 偏好应用AI工业制造",
+          "details": "论点:即便 AI 反弹,也不追数据中心类的修复行情。1. 未来 12 months hyperscaler 自由现金流将转负,完全依赖公开市场发债和持续融资；2. 投资回报不明时市场会质疑能否持续;发不了债就得发股,压股价；3. 他会改从应用 AI、可能在 12 to 24 months 内利润率翻倍的工业制造企业参与,\"capture the benefits\",不做承担成本的资金方",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3,
+        6
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-28",
+      "image_urls": [
+        "/uploads/2026-10-28/5247a243b3c2.png",
+        "/uploads/2026-10-28/eecf7eeb2c2d.png"
+      ]
+    },
+    {
+      "id": "jpm-rates-themes-oct27",
+      "topic": "JPM利率主题",
+      "topic_tag": "rates",
+      "title": "JPM：高利率不终结美股涨势 10Y 5%可承受 推出三篮子",
+      "summary": "JPM预计Fed 12月加息至4.25-4.50%后按兵不动，10Y约5.00%、30Y约5.35%。若EPS兑现SPX可承受10Y升至5.5-6.0%，主要风险为中东升级。推出高利率受益、低利率受益、利率中性三个篮子。",
+      "bullets": [
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "若盈利兑现 SPX可承受10Y升至5.5-6.0%",
+          "details": "高利率不会终结美股涨势：JPM预计Fed 12月加息至 4.25%-4.50% 后按兵不动，UST 10Y约 5.00%、30Y约 5.35% 接近20年高位，SPX市盈率已压缩约 3x 但YTD仍 +12%，2026/2027年EPS增速 28%/22%。约 80y 历史显示10Y与市盈率呈倒U型，EPS增速高于约 15% 趋势时10Y约 5% 后估值才收缩，若盈利兑现SPX可承受10Y升至 5.5%-6.0%，主要风险为中东升级",
+          "important": true
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "熊陡利好能源金融 熊平利好科技",
+          "details": "熊陡利好能源和金融、熊平利好科技，债券代理和非科技长久期板块最受伤；基准为浅加息周期，维持成长/优质成长、偏好大盘（小公司更依赖浮息银行融资），加息周期扩大则转向低波动。企业债务多为长期固定、现金约 $2.4T，压力集中在低收入人群、小公司、高杠杆和非AI资本密集行业；30Y按揭利率10月初升至约 7.4%，Fannie Mae将3Q26按揭发放预测由 $590B 下调至 $508B",
+          "important": false
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "推三篮子 低利率受益含CRWV/ORCL",
+          "details": "推出三个篮子：高利率受益JPRHIRTB（资产敏感银行、浮息贷款机构、保险、综合油气、废弃物等）、低利率受益JPRLORTB（住房、建材、REITs、清洁能源和AI基建如CRWV、ORCL）、利率中性JPRAGRTB（必需消费、支付、订阅娱乐、网络安全、IDC）",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "CRWV",
+        "ORCL"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "JPM"
+      ],
+      "date": "2026-10-28",
+      "image_urls": []
+    },
+    {
+      "id": "oil-outlook-oct27",
+      "topic": "原油展望",
+      "topic_tag": "oil",
+      "title": "MS/UBS原油展望：远期曲线为持久扰动定价 UBS上调4Q26 Brent至$100",
+      "summary": "MS：Brent周涨$6.8至$116.7、WTI $103.3，远期炼厂利润Dec-27仍为均值3x，VLCC霍尔木兹内运费溢价$17/bbl；10月约30起油轮袭击为冲突以来单月最高。UBS上调4Q26 Brent至$100、2026年Brent均值$91.57，9月霍尔木兹供应缺口7.4M b/d；全球石油2026年短缺1.4M b/d、2027年转为3.5M b/d盈余。",
+      "bullets": [
+        {
+          "actor": "MS",
+          "actor_type": "Analyst",
+          "text": "Brent周涨$6.8至$116.7 远期曲线为持久扰动定价",
+          "details": "远期曲线开始为更持久的供应扰动定价：近月Brent周涨 $6.8/bbl 至 $116.7/bbl、WTI $103.3/bbl、Dated Brent $126.7/bbl，回到3/4月水平，但Brent Dec-27合约升至约 $88/bbl；远期炼油利润到Dec-27仍为历史均值 3x、Dec-28为 2x，霍尔木兹内装载VLCC运费溢价由9月底约 $9/bbl 升至即期约 $17/bbl，远期至2027Q1末仍约 $13/bbl",
+          "important": true
+        },
+        {
+          "actor": "MS",
+          "actor_type": "Analyst",
+          "text": "实货边际松动 10月30起油轮袭击创单月最高",
+          "details": "即期实货仍偏紧但边际松动，本轮上涨并非实货短缺驱动：中东原油出口回升至 17M b/d（冲突前约 18M b/d），Forties较Dated升水由10/9的 $19/bbl 回落至约 $6/bbl，Cash Dubai升水走弱，长运距原油贴水大幅走阔吸收运费；Unipec仅买 5 船11月安哥拉原油（正常 10-15 船）。9/21-10/22期间Brent有 8 个交易日波动超 $2.5/bbl，其中 7 天与美伊谈判相关，10月约 30 起油轮袭击为冲突以来单月最高",
+          "important": false
+        },
+        {
+          "actor": "MS",
+          "actor_type": "Analyst",
+          "text": "原油定为均衡 更看好欧洲柴油2Q27",
+          "details": "原油前景定为均衡（直觉偏多但上行空间已有限），更看好欧洲柴油：俄罗斯和中东非计划停产集中、炼厂推迟检修致2Q27计划检修异常偏高，欧洲由柴油净进口转为净出口且库存偏低，推荐2Q27附近ICE gasoil期货及日历价差（ICE gasoil裂解 $84.3/bbl）。平衡表上2026年短缺约 1.4M b/d、2026Q4仍小幅赤字，2027年转为约 3.5M b/d 盈余；美国SPR为1982年11月以来最低，2H27回补约 0.3M b/d 构成下方缓冲",
+          "important": false
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "上调4Q26 Brent至$100 现货较库存模型显著偏高",
+          "details": "上调4Q26 Brent预测至 $100/bbl（WTI $96/bbl），2026/2027/2028年Brent均值 $91.57/$80/$75/bbl，WTI $86.60/$76/$71/bbl：近端受地缘冲突仍为缺口，随后转为大规模过剩。9月霍尔木兹相关供应缺口（不含SPR）达 7.4M b/d，伊朗原油装船自8月底归零，全球可观察库存已低于历史区间，现货 $115/bbl 显著高于库存模型隐含水平",
+          "important": false
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "OPEC剩余产能降至4M b/d以下 美LTO增产持续",
+          "details": "2026年全球石油需求 -2M b/d、供应 -5.5M b/d；OPEC+自愿减产已解除但供应受限，海湾流量正常化后OPEC剩余产能降至 4M b/d 以下，沙特产量2Q26低至 6.6M b/d 后回升，俄罗斯原油及凝析油9月约 9.5M b/d；美国液体产量2026/2027年增 600K b/d/500K b/d，SPR为1983年以来最低",
+          "important": false
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "炼油利润创纪录 2026E欧洲综合$26.2",
+          "details": "炼油利润创纪录：2026E欧洲综合炼油利润上调至 $26.2/bbl（高于2022年高点），2027E $10.3/bbl，柴油、航煤裂解 $54.5/bbl、$59.1/bbl，中馏分油库存偏紧。天然气2026年TTF €56.2/MWh、JKM $19.8/MMBtu、Henry Hub $3.13/MMBtu，欧洲库存低于十年均值，2028年后LNG转盈余",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 3,
+      "sources": [
+        "MS",
+        "UBS"
+      ],
+      "date": "2026-10-28",
+      "image_urls": [
+        "/uploads/2026-10-28/09d2eaaf9e5d.png"
+      ]
+    },
+    {
+      "id": "db-midterms-oct27",
+      "topic": "DB中期选举",
+      "topic_tag": "policy",
+      "title": "DB：中期选后市场通常上涨 民主党有望横扫利好股市",
+      "summary": "DB研究显示反对党赢两院时选后3mo SPX平均+5.6%、STOXX 600 +2.4%、UST收益率-16bps。民主党有望拿下两院，历史上对股市最积极。基准为欧股年底前仍有5%上行、战术偏好防御搭配周期。",
+      "bullets": [
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "中期后市场通常涨 反对党赢两院SPX+5.6%",
+          "details": "中期选举后市场通常上涨：反对党赢两院时选后 3mo SPX平均 +5.6%、STOXX 600 +2.4%、UST收益率 -16bps，赢一院时SPX +3.0%、STOXX 600 +6.1%、收益率 -24bps；SPX 24 次中 19 次上涨。DB压力指数缓和，共和党胜算下降，民主党有望拿下两院，历史上对股市最积极",
+          "important": true
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "选后伊朗升级概率上升但冲击远小于3月",
+          "details": "选前伊朗冲突实质降级概率已降低、选后升级概率上升，但冲击将远小于3月：管道改道和高运费已支撑中东原油出口恢复，能源成本仅占STOXX 600收入 1%，盈利增长强劲、欧元区制造业PMI回到扩张。基准为欧股年底前仍有 5% 上行但过程颠簸、或先跌，战术偏好廉价防御（公用事业、必需消费）搭配周期，欧美相对中性",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        4
+      ],
+      "importance": 2,
+      "sources": [
+        "DB"
+      ],
+      "date": "2026-10-28",
+      "image_urls": [
+        "/uploads/2026-10-28/de710a06ad0c.png"
+      ]
+    },
+    {
+      "id": "other-oct27",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "其他：普京泽连斯基会晤安排 博索纳罗之子违禁出境",
+      "summary": "特朗普称普京与泽连斯基会晤将「很快」安排。巴西因洗钱被调查的参议员Flávio Bolsonaro败选后违反最高法院出境禁令离开巴西。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "普京与泽连斯基会晤将「很快」安排",
+          "details": "称普京与泽连斯基会晤将\"很快\"安排",
+          "important": true
+        },
+        {
+          "actor": "巴西/新闻",
+          "actor_type": "新闻",
+          "text": "Flávio Bolsonaro违反出境禁令离开巴西",
+          "details": "巴西正因洗钱被调查的参议员 Flávio Bolsonaro 败选后，违反最高法院出境禁令离开巴西",
+          "important": false
+        },
+        {
+          "actor": "宏观边际",
+          "actor_type": "KOL",
+          "text": "KOSPI本轮走势与2015年上证高点重合",
+          "details": "图1显示韩国KOSPI本轮走势与2015年上证指数走势对比，两线高点重合在100一线，数据截至2026-10-27，来源Wind",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-10-28",
+      "image_urls": [
+        "/uploads/2026-10-28/00fdcf412c7e.jpg"
+      ]
+    }
+  ]
+}

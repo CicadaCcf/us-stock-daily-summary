@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-10-28T21:31:35+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-10-28",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12601,
+    "partial_pass": 7,
+    "with_carryover": 8,
+    "after_full_check": 4
+  },
+  "rows": [
+    {
+      "tk": "AXGN",
+      "nm": "Axogen, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 31.5,
+      "w1": 35.0,
+      "market_cap_bn": 2.89,
+      "dollar_vol_bn": 0.46,
+      "w1_avg_dollar_vol_bn": 0.14,
+      "reason": "",
+      "main_business": "研发外周神经修复与再生产品"
+    },
+    {
+      "tk": "GMAB",
+      "nm": "Genmab A/S ADS",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 28.3,
+      "w1": 44.8,
+      "market_cap_bn": 35.23,
+      "dollar_vol_bn": 1.68,
+      "w1_avg_dollar_vol_bn": 0.6,
+      "reason": "",
+      "main_business": "研发抗体疗法，治疗多发性骨髓瘤等癌症"
+    },
+    {
+      "tk": "ICLR",
+      "nm": "Icon Plc",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 17.0,
+      "w1": 15.6,
+      "market_cap_bn": 16.52,
+      "dollar_vol_bn": 0.85,
+      "w1_avg_dollar_vol_bn": 0.32,
+      "reason": "",
+      "main_business": "为制药和生物技术公司提供临床试验外包研发服务"
+    },
+    {
+      "tk": "VRT",
+      "nm": "Vertiv Holdings Co Class A Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 16.5,
+      "w1": 14.5,
+      "market_cap_bn": 93.53,
+      "dollar_vol_bn": 4.74,
+      "w1_avg_dollar_vol_bn": 2.14,
+      "reason": "",
+      "main_business": "提供数据中心温控与关键基础设施设备"
+    }
+  ]
+}
