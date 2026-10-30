@@ -1,0 +1,404 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-nuclear-talks-oct29",
+      "topic": "美伊核谈判",
+      "topic_tag": "geo",
+      "title": "Trump授权Vance接触伊朗 卡塔尔斡旋等德黑兰回复",
+      "summary": "Trump承认批准Vance接触伊朗但否认已下令重启和谈，称事关医疗物资；WSJ、Axios、Semafor、i24等多方信源描绘更广泛谈判框架。卡塔尔代表访问德黑兰推动核查遭袭核设施换取部分放宽制裁。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "承认批准Vance接触伊朗 但否认指示重启和谈",
+          "details": "Trump承认批准万斯接触伊朗，但否认已指示重启和平谈判，称事关医疗物资；其公开说法与WSJ信源描述的目的不同。",
+          "important": true
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "Vance致信伊朗安全官员礼萨伊试探重启和谈",
+          "details": "WSJ称Vance致信伊朗安全官员穆赫森·礼萨伊试探重启和谈；后续讨论侧重谈判框架而非详细和平方案。",
+          "important": false
+        },
+        {
+          "actor": "Axios",
+          "actor_type": "新闻",
+          "text": "卡塔尔代表访德黑兰 推动核查换部分解制裁",
+          "details": "据Axios，消息人士称卡塔尔谈判代表阿里·阿尔萨瓦迪本周早些时候访问德黑兰，卡塔尔等国正推动伊朗允许联合国核查遭袭核设施，以换取美国部分放宽制裁、允许出售石油并释放部分冻结资金。",
+          "important": false
+        },
+        {
+          "actor": "i24NEWS",
+          "actor_type": "新闻",
+          "text": "卡塔尔等德黑兰回复 伊朗或周四答复",
+          "details": "以色列i24NEWS获悉，卡塔尔方面正在等待德黑兰对新提案作出答复，伊朗最早可能于周四给出答复。",
+          "important": false
+        },
+        {
+          "actor": "Semafor",
+          "actor_type": "新闻",
+          "text": "美官员称以临时和平协议为中心展开谈判",
+          "details": "据Semafor，美国官员透露，特朗普政府正在进行以临时和平协议为中心的谈判。",
+          "important": false
+        },
+        {
+          "actor": "Rory Johnston",
+          "actor_type": "KOL",
+          "text": "要么达成协议 要么迫在眉睫的灾难性再升级",
+          "details": "Rory Johnston称接下来要么达成协议，要么'imminent and catastrophic re-escalation'，与其说是又一场'forever war'，不如说是'Trumpy whenever war'；中期选举前6天外交消息密集，而选战一直被伊朗战争和燃油价格反噬主导，'It's going to be a long 6 days'。以色列大选僵局意味着以方对伊朗战争再升级'No immediate Israeli brake'。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        4
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "Axios",
+        "Semafor",
+        "i24NEWS"
+      ],
+      "date": "2026-10-29",
+      "image_urls": [
+        "/uploads/2026-10-29/4dc625799ae6.png"
+      ]
+    },
+    {
+      "id": "fomc-oct-reactions-oct29",
+      "topic": "FOMC 10月会议",
+      "topic_tag": "fed",
+      "title": "FOMC按兵不动 Warsh偏均衡 Cook意外异议",
+      "summary": "10月FOMC按兵不动，声明新增'更多信息的积累'被视为鹰派倾向以保留12月加息选项；Warsh发布会偏均衡偏鸽，强调金融条件收紧但非紧缩、政策正在奏效。Cook意外异议、Logan未异议；2027年起每年增加策略讨论会议、不投票、不发声明。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "维持12月加息至4.00-4.25%为最后一次预测",
+          "details": "GS US Daily：10月按兵不动符合官员暗示的隔次会议加息妥协方案，本次会议未提供新信息，维持12月第二次也是最后一次加息至4.00%-4.25%的预测，若通胀高于预期3月或第三次加息。声明新增'更多信息的积累'被视为放缓紧缩步伐的温和信号。Warsh表态均衡：强调投资、就业强劲、失业救济申请处'几代人以来最低'，但称他与多数参与者不认为经济过热或增长导致通胀，通胀补偿和预期方向正确，金融条件收紧但非紧缩、'政策正在奏效'。任务组报告年底截止，FOMC 2027Q1审议结论；维持每年8次会议，但2027年1次、2028年2次会议专门讨论货币政策策略，不发声明、不投票。",
+          "important": true
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "声明新增句有效传递鹰派倾向 继续预计12月加息",
+          "details": "JPM Fed Watch：声明新增'更多信息的积累'一句有效传递鹰派倾向，意在让12月成为可行的加息选项，继续预计12月加息。但发布会未给出清晰的暂停理由，主席回答夹杂'新货币药方''审视现实''望出窗外'等措辞，市场对12月加息信心下降可以理解；'利率渗入裂缝'一语借自Jeremy Stein，此处指上月加息已传导至更广泛金融条件。2027年1次、2028年2次会议改为策略讨论，政策会议间隔或拉长至12-13wk。Cook异议非常意外，9月点阵图中年内最后三次会议支持加息的4位参与者原被认为均是地区联储主席，背景是白宫试图罢免Cook，其预计12月出席白宫听证。",
+          "important": false
+        },
+        {
+          "actor": "MS",
+          "actor_type": "Analyst",
+          "text": "维持12月和3月各加息25bps 终端4.25-4.5%",
+          "details": "MS FOMC Takeaways：维持12月和3月各加息25bps、终端4.25%-4.5%的预测，低于市场定价的额外2.8次（约70bps）；声明和发布会暗示进一步紧缩但无紧迫感，延续Warsh杰克逊霍尔'悠闲徒步'的克制再校准。Warsh认为AI capex并非对利率免疫，9月初以来科技内外分化、部分信用利差走阔；金融条件'更紧但不愿称其为紧'；生产率持续上升，增长高但未导致通胀，若强劲增长不引发通胀可少加息甚至为降息留空间。资产负债表任务组2027Q1提交建议，预计最早2027Q2启动。",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "Warsh偏鸽逻辑有问题 2s30s急剧陡峭化",
+          "details": "BofA FOMC Recap：声明偏鹰但'更多信息的积累'显示对限制性水平和中性利率缺乏信心，紧缩将放缓至季度节奏：预计2026年12月和2027年3月各加息25bps，终端4.25%-4.5%维持至2027年底。Warsh发布会偏鸽且缺乏指引，以金融条件收紧证明9月加息奏效的逻辑有问题，因金融条件也取决于市场对未来路径的定价，依赖它少加息可能损害信誉。Cook异议意外，Logan未异议。发布会起2Y -6bps、30Y +4bps，2s30s急剧陡峭化，反映市场认为Warsh抗通胀不可信；12月加息定价约21bps（会前23bps）。DXY会议期间跌0.2-0.3%。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "维持12月和3月各加息25bps 增长强劲通胀仍高",
+          "details": "DB Fed：维持12月和3月各加息25bps的预测：Warsh回避前瞻指引，但强调金融条件收紧符合预期、增长强劲、通胀仍高，强化9月SEP中16位官员预计年底前再加一次的路径。Warsh称金融条件'更紧但不紧'、收紧'并不令人不适'，Fed不会因此改变加息轨迹；声明经济活动升为'强劲'，预计Q3实际GDP增速超3%。2027年7次政策会议加1次策略会议，2028年6次政策加2次策略，自明年秋季开始。",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "维持12月最后一次加息25bps至4.00-4.25%",
+          "details": "Nomura Fed：维持12月最后一次加息25bps、之后按兵不动至2027年底的预测，终端4.00%-4.25%：Warsh愿意但不主动寻求加息，AI驱动的生产率提升或令其认为利率接近终端；他对通胀偏鸽，未讨论9月CPI和PPI，认为AI投资需求并非高通胀驱动。Cook异议意外（Nomura原预期Logan），或源于其对AI建设推升通胀的担忧。纽约联储储备购买中期月均$20B，MBS减持收益再投资于国债、偏向T-bill；预计2027年10月会议改为战略讨论，2028年6次政策会议更均匀分布，或过渡至双月会议。",
+          "important": false
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "10月偏鸽 平11月联邦基金多头 建12月/1月走平头寸",
+          "details": "Citi US Rates：10月FOMC偏鸽：9月点阵图中4位预计10月加息的参与者有2位未再异议，Logan未异议，Warsh称经济未'过热'，叠加2027/2028年会议减至7/6次，前端尾部风险下降、曲线走陡，久期维持中性。平掉11月联邦基金期货多头（96.12，亏损$50K），建立$50K DV01的12月/1月FOMC走平头寸，押注12月加息、1月暂停，入场+9.375bps、目标+9.375bps、止损-15bps。核心PCE历史上11-12月偏软，为1月暂停创造条件。3-5Y仍有相对价值，维持UST 10Y 2026年目标5%；预计下周再融资20Y和30Y拍卖各削减$3B。继续做多5Y互换利差（-28bps）、支付1y1y SOFR/TONAR（-21bps）、2y远期5s10s30s蝶式收腹部（14.5bps）。",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "鉴于增长强劲 Fed再加息未必是错",
+          "details": "Bessent称鉴于增长强劲，美联储再加息未必是错；同时呼吁对能源冲击或为暂时保持开放。他重申本人与特朗普对Warsh的信心。淡化AI信贷担忧，称neocloud只是生态一小部分且融资仍在发生；提及Meta股权融资，并称财政部正监测进展。",
+          "important": false
+        },
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "KOL",
+          "text": "Warsh利率触及AI繁荣观点或意味更少加息",
+          "details": "Nick Timiraos称沃什'利率正触及AI繁荣'的观点或意味更少加息，而更广经济偏强则指向相反。",
+          "important": false
+        },
+        {
+          "actor": "Anna Wong",
+          "actor_type": "KOL",
+          "text": "这不是鹰派按兵不动",
+          "details": "Anna Wong：'This is not a hawkish hold'。",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "12月加息可能是最后一次 Cook把个人恩怨带入投票",
+          "details": "Herman Jin：1. 事实：7月的异议者（Hammack、Kashkari、Logan）这次只剩Hammack；2. 解读：Warsh那句'unwilling and unable to call conditions tight'本身可能说明近期流动性压力仍影响了决定；3. 年末PCE应会改善，缓解部分hike压力；12月hike可能是最后一次，至多倒数第二次；4. 他认为'traditional dove' Cook把与Trump的个人恩怨带进投票'unprofessional'。",
+          "important": false
+        },
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "Fed关注点已从原油转向QQQ 若紧缩不停风险重现2018",
+          "details": "Warren Pies：按SOFR看，Fed的关注点已从原油转向QQQ；风险是Warsh暗示AI信用波动不足以让周期放缓。1. 迄今科技走弱时收益率下降（hike定价被剔除），防御/非AI篮子上涨，S&P 500横盘；2. 若Fed表示纳指走弱不足以停止紧缩、要看到数据改善，纳指与收益率的负相关会被打破，类似2018年环境。",
+          "important": false
+        },
+        {
+          "actor": "Ed Bradford",
+          "actor_type": "KOL",
+          "text": "预期鹰派按兵不动 Strong vs Solid意外",
+          "details": "Ed Bradford：多数人预期'hawkish hold'，他也是，但若Warsh或声明提到金融条件收紧，市场可能过度反应。会后：'Strong vs Solid a bit of surprise'。",
+          "important": false
+        },
+        {
+          "actor": "Macropotamus",
+          "actor_type": "KOL",
+          "text": "减少live会议意味着更多会议间行动",
+          "details": "Macropotamus：减少'live'会议意味着'More inter-meeting actions'。Fed刚刻意把hike引导为季度节奏。他另称：只开两次策略会'sounds like forward guidance'。",
+          "important": false
+        },
+        {
+          "actor": "Mohamed A. El-Erian",
+          "actor_type": "KOL",
+          "text": "讨论过度集中货币政策 太少关注财政整顿",
+          "details": "Mohamed A. El-Erian：不少如今因通胀超标五年而呼吁hike的人，去年在通胀已超标四年时支持了一系列cut；通胀需要政策回应，但讨论过度集中于货币政策，太少关注财政整顿等更合适的工具。",
+          "important": false
+        },
+        {
+          "actor": "Rick Rieder",
+          "actor_type": "Analyst",
+          "text": "Fed按兵不动是对的 one thermostat比喻",
+          "details": "Rick Rieder（买方）论点：Fed按兵不动、保持耐心是对的；再加25-basis-point未必能解决剩余通胀。1. 经济和通胀各部分速度不同：总量增长靠强劲投资周期保持韧性，但对借贷成本敏感的部分已明显受抑；对利率敏感的周期性通胀分项控制得较好；2. 能源、保险、医疗和教育的持续压力，不太会被再加25bps明显影响；'one thermostat'比喻：再调低只会让已凉的房间更冷；3. 通胀仍高于2%，Fed应保留在潜在通胀恶化时进一步收紧的选项；美债收益率上升已替Fed做了一部分收紧，鹰派措辞与耐心政策可以并存；4. 投资上：不做方向性大赌注，实际收益率有吸引力，继续偏好中等久期。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 3,
+      "sources": [
+        "GS",
+        "JPM",
+        "MS",
+        "BofA",
+        "DB",
+        "Nomura",
+        "Citi"
+      ],
+      "date": "2026-10-29",
+      "image_urls": [
+        "/uploads/2026-10-29/7730b76dbc01.png"
+      ]
+    },
+    {
+      "id": "us-rates-funding-oct29",
+      "topic": "美债/回购/再融资",
+      "topic_tag": "rates",
+      "title": "月末回购收紧 11/4再融资或削减长端 T-bill占比升",
+      "summary": "BofA分析10月末回购收紧源于TGA回升、T-bill发行、加拿大财年结束三因素，Fed应在11月中旬重启RMP。HSBC预计11/4 QRA附息规模连11季不变但前瞻指引可能软化；T-bill占总债务约22%，FY28末或超27%、FY29末或超30%。GS Q3 GDP下调至3.3%，AI capex贡献5.0pp但靠进口被净出口抵消。",
+      "bullets": [
+        {
+          "actor": "BofA Repo",
+          "actor_type": "Analyst",
+          "text": "10月末回购三因素收紧 Fed应11月中旬重启RMP",
+          "details": "BofA Repo：10月末回购收紧源于三因素：TGA自10月中旬增约$100B、月末前再增$20B-$120B抽走准备金；T-bill发行增加且月末集中结算，本周附息加T-bill发行约$132B；加拿大财年10/31结束，加拿大银行收缩资产负债表，推升SOFR和赞助回购量。财政部月末TGA目标写作$105B±$5B，而年底TGA降至$850B（原文两处不一致）。压力显示Fed应在11月中旬重启RMP（$10B/mo），10月未重启说明Fed对资金面判断滞后；月末后加拿大银行回归、11月净T-bill供给降至$97B、12月转负-$195B、TGA回落，回购将企稳。维持做多Dec26 SOFR/FF价差，当前-2.5bps，目标-1.5bps，止损-6bps。",
+          "important": true
+        },
+        {
+          "actor": "HSBC",
+          "actor_type": "Analyst",
+          "text": "11/4 QRA附息连11季不变 但前瞻指引或软化",
+          "details": "HSBC Refunding：预计11/4 QRA名义附息和FRN规模连续第11个季度不变（2Y $69B、5Y $70B、10Y $42B、20Y $16B、30Y $25B），但前瞻指引可能先于供给软化：8月措辞已改为'继续评估潜在变化'，若删去'至少'，调整最早2027年2月或5月，保留则最早2027年8月。8月长端回购上限从$2B提至$6B，若全年执行32次可达$192B，占20Y和30Y年发行42%，引发'供给扭转'预期；基准为2027年5月QRA起20Y、30Y分别削减$4B、$2B，同时增加2Y-5Y（2Y升至$75B、5Y $74B）。货币基金和稳定币增速放缓、Fed短债购买暂停，T-bill占总债务约22%，维持当前结构FY28末将超27%、FY29末或超30%，再融资风险上升，预计FY28增加2Y-7Y、TIPS和FRN发行以拉长期限。",
+          "important": false
+        },
+        {
+          "actor": "GS US Eco",
+          "actor_type": "Analyst",
+          "text": "Q3 GDP下调至3.3% AI capex贡献5.0pp但靠进口抵消",
+          "details": "GS US Eco：纳入贸易和库存数据后Q3 GDP预测下调0.1pp至环比年化3.3%，高于共识3.2%、与GDPNow持平（Q2 2.2%）；库存积累加快贡献+3.4pp，但贸易逆差大于此前假设，净出口贡献-4.2pp，国内最终销售3.9%。商业固定投资10.4%，其中AI相关capex贡献5.0pp，但AI投资大量依赖进口，被更宽的贸易逆差机械性抵消；消费3.4%（Q2 3.8%）。伊朗战争下石油出口大降、出口预测-6.5%，主因SPR释放放缓而非国内产量下降，SPR释放减少计入联邦非国防支出下降，联邦支出+2.0%（Q2 -2.4%），净影响大致中性；SPR和AI进口抵消同时扭曲了国内最终销售作为潜在增长指标的意义。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "BofA",
+        "HSBC",
+        "GS"
+      ],
+      "date": "2026-10-29",
+      "image_urls": []
+    },
+    {
+      "id": "jpm-flows-liquidity-oct29",
+      "topic": "资金流动",
+      "topic_tag": "macro-other",
+      "title": "JPM：散户杠杆ETF创纪录涌入 动量交易平仓",
+      "summary": "JPM资金流报告：散户杠杆ETF资金流入创月度历史纪录支撑AI股反弹；机构科技仓位有加仓空间，QQQ空头兴趣升至2023年来最高。动量交易者已大幅平掉政府债期货空头和股票期货多头。",
+      "bullets": [
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "散户杠杆ETF资金流创纪录 支撑AI股反弹",
+          "details": "JPM Flows & Liquidity：散户创纪录涌入杠杆股票ETF，支撑AI相关股票触底反弹：本月杠杆ETF资金流入创历史纪录，此前杠杆股票ETF AUM相对底层市值跌至5月底以来最低、较4/5月峰值回落约2/3，杠杆内存股ETF尤甚；散户看涨期权买盘自去年6/7月去杠杆后尚未恢复，年底前有望通过期权进一步加仓。",
+          "important": true
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "机构科技仓位有空间 QQQ空头兴趣2023年来最高",
+          "details": "机构同样有加仓科技的空间：包括对冲基金在内的投机仓位较9月中旬高点显著回落，QQQ空头兴趣升至2023年以来最高，存在空头回补需求。全球回购公告YTD $1.55T、年化约$1.7T高于去年，科技板块融资盈余$400B且融资渠道畅通，尚未削减回购，但若融资条件收紧可能改变。",
+          "important": false
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "动量交易者平政府债空头与股票多头",
+          "details": "动量交易者已大幅平掉政府债期货空头和股票期货多头：10Y UST、Bund、gilt、JGB期货动量z-score从月初近极端回落至-0.3至-0.4，Bund仍约-0.7，10Y OAT对Bund -2.9仍极端、空头或面临获利了结；SPX和日经动量信号从10月初+1.3降至+0.9、+0.4，MSCI EM从+0.5转为-0.2；EUR空头z-score -1.8有回补风险，原油期货+1.8、TTF +2.6仍处高位。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "QQQ"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "JPM"
+      ],
+      "date": "2026-10-29",
+      "image_urls": []
+    },
+    {
+      "id": "oil-market-oct29",
+      "topic": "原油市场",
+      "topic_tag": "oil",
+      "title": "原油隐波仍高 麦格理看未来数年铜过剩",
+      "summary": "KOL对原油态度分化：JH认为long vol是最干净表达、隐波dirt cheap；Stockcoach减仓多头认为霍尔木兹流量已回战前且中期选后打击伊朗概率高。麦格理预计铜未来数年过剩，Trafigura估数据中心今年推升铜需求约35万吨。",
+      "bullets": [
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "不想做多也不想做空原油 long vol是最干净表达",
+          "details": "JH现在不想做多也不想做空原油；'Long vol remains the cleanest expression'，隐含波动率相对当前位置'dirt cheap'。",
+          "important": true
+        },
+        {
+          "actor": "Stockcoach",
+          "actor_type": "KOL",
+          "text": "减仓原油多头 霍尔木兹流量已回战前水平",
+          "details": "Stockcoach减仓原油多头SM；他认为美国在中期选举后打击伊朗概率高，但霍尔木兹流量已回到战前水平，很多风险已计价。Peter Berezin引用并称：长期油价主要由页岩开采成本（约$65每桶）锚定，油价下跌是'when not if'。",
+          "important": false
+        },
+        {
+          "actor": "麦格理",
+          "actor_type": "Analyst",
+          "text": "未来数年铜将过剩 价格已脱离基本面",
+          "details": "麦格理预计未来数年铜将过剩，称价格已脱离基本面。Trafigura估数据中心今年增需求约35万吨，高价亦挤压其他消费。（FT）",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        3
+      ],
+      "importance": 2,
+      "sources": [
+        "FT"
+      ],
+      "date": "2026-10-29",
+      "image_urls": [
+        "/uploads/2026-10-29/2e7a17fefb88.jpg",
+        "/uploads/2026-10-29/d20b550f5cc6.png"
+      ]
+    },
+    {
+      "id": "ai-capex-macro-oct29",
+      "topic": "AI 宏观",
+      "topic_tag": "ai",
+      "title": "华尔街奖励微软甲骨文 Alphabet因现金消耗受罚",
+      "summary": "华尔街因能在不过度抽资下支撑AI投入而奖励微软与甲骨文；Alphabet因现金消耗及谷歌搜索增速放缓受罚，加剧对其'为AI输血'主业受损担忧。Marvell与Lumentum进入收购谈判。",
+      "bullets": [
+        {
+          "actor": "RTRS",
+          "actor_type": "新闻",
+          "text": "华尔街奖励MSFT/ORCL 罚Alphabet现金消耗",
+          "details": "华尔街奖励微软与甲骨文：证明可在不过度抽资下支撑庞大AI投入。Alphabet因现金消耗受罚，谷歌搜索增速放缓加剧对其'为AI输血'主业受损的担忧。（RTRS）",
+          "important": true
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "Marvell与Lumentum进入收购谈判 下周或公告",
+          "details": "Marvell与Lumentum进入收购谈判，下周或有公告。协议未敲定；Lumentum约$83B市值并非已约定收购价，支付条款未披露。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MSFT",
+        "ORCL",
+        "GOOGL",
+        "MRVL",
+        "LITE",
+        "META"
+      ],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [
+        "Reuters"
+      ],
+      "date": "2026-10-29",
+      "image_urls": [
+        "/uploads/2026-10-29/96c4682c3796.jpg"
+      ]
+    },
+    {
+      "id": "europe-fiscal-ecb-oct29",
+      "topic": "欧洲",
+      "topic_tag": "macro-other",
+      "title": "英秋季预算财政空间£15B ECB拉加德2027年2月卸任",
+      "summary": "英国秋季预算财政空间£15B、£4.1B生活成本补贴、银行税上调轻于预期。ECB拉加德通知管理委员会和欧洲理事会主席科斯塔将于2027年2月7日卸任。",
+      "bullets": [
+        {
+          "actor": "英国",
+          "actor_type": "Foreign-Gov",
+          "text": "秋季预算财政空间£15B 银行税上调轻于预期",
+          "details": "英国秋季预算：财政空间£15B，£4.1B生活成本补贴，银行税上调轻于预期。",
+          "important": true
+        },
+        {
+          "actor": "Lagarde",
+          "actor_type": "Central-Bank",
+          "text": "ECB拉加德将于2027年2月7日卸任",
+          "details": "ECB Lagarde已通知管理委员会和欧洲理事会主席安东尼奥·科斯塔，她将于2027年2月7日卸任。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-10-29",
+      "image_urls": []
+    }
+  ]
+}
