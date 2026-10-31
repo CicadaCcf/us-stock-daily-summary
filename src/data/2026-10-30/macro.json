@@ -1,0 +1,290 @@
+{
+  "topics": [
+    {
+      "id": "us-iran-ceasefire-nov",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "特朗普称伊朗战争将很快结束，万斯提议直接会谈停火框架",
+      "summary": "特朗普表态伊朗战争将很快结束、伊朗不能拥有核武，但抱怨不知该跟谁谈。副总统万斯提议与伊朗最高国安委秘书Mohsen Rezaei当面会谈停火框架，地点或选伊斯坦布尔/多哈。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "特朗普称伊朗战争将很快结束、伊朗不能拥有核武",
+          "details": "Trump: 伊朗战争将很快结束、伊朗不能拥有核武；不知道该跟谁谈，伊朗很多领导人已不在；伊朗必须达成协议。",
+          "important": true
+        },
+        {
+          "actor": "JD Vance",
+          "actor_type": "US-Executive",
+          "text": "万斯提议与伊朗国安委秘书Rezaei当面谈停火框架",
+          "details": "JD Vance 提议与伊朗最高国家安全委员会秘书 Mohsen Rezaei 当面谈停火框架；信函强调防核武、承认伊经济重建与主权关切，并要求伊指定有权谈核代表；若成行或选伊斯坦布尔/多哈。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-10-30",
+      "image_urls": []
+    },
+    {
+      "id": "fed-kol-views-nov",
+      "topic": "Fed KOL观点",
+      "topic_tag": "fed",
+      "title": "KOL：Fed hold隐含押注2027年去通胀，Warsh须信AI生产率",
+      "summary": "Rishi Mishra 认为 Fed hold 等于押注 2027 年显著去通胀，hawkish tails 打开。另有 KOL 评 Warsh 必须相信 AI 生产率才能把向特朗普推销降息和严肃央行行长形象统一。",
+      "bullets": [
+        {
+          "actor": "Rishi Mishra",
+          "actor_type": "KOL",
+          "text": "Fed hold 隐含押注 2027 年显著去通胀",
+          "details": "Rishi Mishra（经 dampedspring 转发）：Fed hold 等于押注 2027 年去通胀，hawkish tails 被打开。1. 无论怎么衡量通胀都在约 3%；2. 政策利率约为现货通胀加 87.5bp，合理的\"限制性\"定义约为 150bp；3. 因此 Fed hold 隐含对 2027 年 significant disinflation 的押注。",
+          "important": true
+        },
+        {
+          "actor": "Dow",
+          "actor_type": "KOL",
+          "text": "Warsh 必须相信 AI 生产率才能自洽",
+          "details": "Dow：Warsh 必须相信 AI 生产率，否则无法把\"向 Trump pitch for lower rates\"和\"严肃央行行长\"的形象统一；现实正逼他二选一，Fed 其他人会帮他选。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-10-30",
+      "image_urls": [
+        "/uploads/2026-10-30/17cf47a0c92e.jpg"
+      ]
+    },
+    {
+      "id": "ai-kol-views-nov",
+      "topic": "AI/科技 KOL观点",
+      "topic_tag": "ai",
+      "title": "KOL辩论AI回调：1998类比 vs Google长期衰落",
+      "summary": "多位 KOL 对 AI 回调激辩：Curbstone 以 1998 年 LTCM 危机类比看作牛市中段中断；Stahel 认为 Google 将加入衰落名单，AI 商品化将侵蚀搜索护城河；ChinaFacts 判断 AI 已见底、择机加仓；Timmer 关注利率上升若无盈利抵消对估值的伤害。",
+      "bullets": [
+        {
+          "actor": "Curbstone Research",
+          "actor_type": "KOL",
+          "text": "回调类比1998年LTCM，牛市中段中断而非泡沫破裂",
+          "details": "Curbstone Research 论点：这次回调更像牛市中途的中断而不是泡沫破裂。1. 涨时创纪录 capex 是需求证据，跌时成了灾难证据；2. 类比 1998 年 8 月：俄罗斯违约、LTCM 崩盘、日元套息崩盘，科技龙头从高点跌 40–60%，9 月 29 日首次 rate cut 一度令市场失望，10 月 15 日意外 emergency Fed cut 后风险偏好恢复，11 月道指创新高；3. Microsoft Azure +48%, Google Cloud 翻倍，Meta capex $135–145B 并计划创纪录 $97.5B 股权融资；4. AI 共识分裂、唱空时髦不是见顶情绪，NDX 在 1998 年用了 4 个月见底；5. 预计本轮周期至少还有一次持续数月创新高的上涨，但牛市即将进入第五年，明年要谨慎大仓位抄底。",
+          "important": true
+        },
+        {
+          "actor": "Alexander Stahel",
+          "actor_type": "KOL",
+          "text": "Google将加入衰落名单，AI无护城河将商品化",
+          "details": "Alexander Stahel：Google 被重挫在于投资者这么久才意识到，Google 将加入衰落名单。1. AI 在改变 hyperscaler 高资本回报机制，Google 拍卖搜索意图、Meta 拍卖注意力、Amazon 拍卖商品发现都是轻资本\"数字地主\"；2. 作者自称几乎不再用浏览器搜索；3. Google 2026 年 capex 向 $200B 走，而搜索增长已放缓，往颠覆性技术砸钱只会把回报拉到平均；4. AI 商品化，经济学像航空座位；5. 2025 年 Google 搜索收入 $225B、Meta 广告 $196B，能守住多少存疑，AI 切换成本接近零；6. 历史上标普霸主（AT&T、GM、IBM、Kodak、GE、Intel 等）很少保住超额回报。所转 Max Anderson 帖称 Google 废除二价拍卖、放宽精确匹配、超支预算上限来\"制造\"收入增长。",
+          "important": false
+        },
+        {
+          "actor": "THE SHORT BEAR",
+          "actor_type": "KOL",
+          "text": "认同1998类比，街上普遍仓位过大",
+          "details": "THE SHORT BEAR 认同 lesse_jivermore 的 1998 类比。另称夏天大家喊增长和低估值，现在因 capex 被上调 10% 而尖叫；跟着共识交易就会成为流动性；街上普遍仓位过大、把 B- 机会当 A 机会、过度交易。指出 hyperscaler 跳空低开后 AI 能源板块相对强势。",
+          "important": false
+        },
+        {
+          "actor": "中国政经事实ChinaFacts",
+          "actor_type": "KOL",
+          "text": "判断AI本轮下跌已见底，择机加仓INTC/GOOG/海力士",
+          "details": "ChinaFacts：AI 本轮下跌已见底，周中判断失败但坚持。1. 近几日各方信息在强化 AI 而非削弱；2. vol 有上行压力，但对冲基金净仓位已降到近五年第二低，仅次于 2025 年解放日；3. 2027 年估值处于历史上有吸引力的水平；接下来择机加仓 INTC、GOOG、000660（海力士）。",
+          "important": false
+        },
+        {
+          "actor": "Jurrien Timmer",
+          "actor_type": "KOL",
+          "text": "利率上升若无盈利增长抵消伤害估值",
+          "details": "Jurrien Timmer 论点：利率上升若不被盈利增长抵消对估值伤害大。1. 含/不含利率的 P/E 模型背离；1987、2000、2021 年泡沫期 P/E 无法被三个变量解释，今天还没到那一步，前提是利润率和信用利差守住；2. 按 DCF，盈利强劲时资本成本上升未必终结牛市但会放缓，历史上有 1994 年 Greenspan rate cycle、2014 末至 2016 初能源利差爆开；3. 2022 年式的\"回声\"情景到 2027 年仍可能。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GOOGL",
+        "META",
+        "AMZN",
+        "MSFT",
+        "INTC",
+        "NVDA"
+      ],
+      "image_indexes": [
+        1
+      ],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-10-30",
+      "image_urls": [
+        "/uploads/2026-10-30/8405de0b1a48.png"
+      ]
+    },
+    {
+      "id": "sellside-fed-watch-nov",
+      "topic": "卖方Fed观点",
+      "topic_tag": "fed",
+      "title": "巴克莱/野村：10月FOMC偏鸽但12月加息25bps仍是基准",
+      "summary": "巴克莱和野村均解读 10 月 FOMC 为变相前瞻指引、暗示 12 月加息 25bps 至 4.25-4.50%。Cook、Hammack 投反对票主张立即加息，Warsh 认金融条件有收紧但拒绝承诺暂停。市场定价 12 月加息概率 85%。",
+      "bullets": [
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "巴克莱：10月声明暗示12月加息25bps，维持至2027年末",
+          "details": "Barclays Fed Watch：10 月 FOMC 维持 3.75-4.00%，声明新增\"更多信息的积累将帮助委员会确定政策立场\"、不再提\"缺乏紧迫感\"，活动表述由\"稳健\"上调为\"强劲\"，视为变相前瞻指引、暗示 12 月加息 25bps；Cook 和 Hammack 投反对票主张立即加息，Logan、Kashkari、Waller 可能支持年内再加，偏鸽的 Williams 也认为年底前再加一次合适。维持 12 月和 1 月各加 25bps 至 4.25-4.50%、至少维持到 2027 年末，此后待通胀接近 2% 才降至长期中性 3.50-3.75%；9 月核心 CPI mom 0.33% 连续第二个月超预期，预测 9 月核心 PCE mom 0.35%、yoy 3.1%，2026 年 Q4/Q4 核心 PCE 3.2%、2027 年 2.6%。Warsh 称通胀\"过高\"、申请人数处\"几代人最低\"；2027 秋起 8 次会议 1 次专注政策战略不投票不发声明，2028 起 4/5 月和 10/11 月为战略会议。",
+          "important": true
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "野村：市场定价12月加息85%，Fed过快转鸽恐推高长端",
+          "details": "Nomura Fed Watch：FOMC 比预期偏鸽，Warsh 承认 9 月加息后部分领域金融条件开始收紧、加息正在起效，但称尚无法断定金融条件已收紧、暂停为时尚早，12 月加息仍是基准、同时为之后暂停铺垫。市场定价 12 月加息概率 85%（21bps）、1 月 37%，至 3 月累计 46bps、至 6 月 63bps，2y 远期 OIS 持稳于 4.44%，尚未计入 12 月后暂停；除非中东局势大幅改善，暂停需股票和信用进一步回调。若 Fed 过快转鸽，市场将强化 AI 驱动复苏预期并担忧 Fed 落后于曲线，全球长端收益率反而可能上升。会后短中期 UST 因空头回补上涨、长端因油价等因素下跌，10Y 实际利率 2.63%、BEI 2.38%，MOVE 94.6、VIX 16.9，美元随短端利率走弱。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Barclays",
+        "Nomura"
+      ],
+      "date": "2026-10-30",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-macro-ai-nov",
+      "topic": "卖方宏观/AI观点",
+      "topic_tag": "ai",
+      "title": "JPM/花旗/GS：AI capex有财务基础，但正侵蚀非科技就业",
+      "summary": "JPM 测算 189 家公司可动用 $10.6T 自有现金流承担 AI capex、为共识 $2.1T 的 508%；GS 显示 AI 失业者找工作多花 1 月、1 年仍失业概率高 10pp；花旗预计 2030 年全球 AI capex 超 $3.5T、看多 UST 5Y 和全球 IT。",
+      "bullets": [
+        {
+          "actor": "JPM SMid",
+          "actor_type": "Analyst",
+          "text": "JPM：189家公司可支撑AI capex的508%，中小盘是新机会",
+          "details": "JPM SMid AI：189 家公司承担过去 3y 全球约 90% AI capex，2023-2026 年 77% 由 FCF 为正的公司完成、其 FCF 相当于全球 AI capex 的 115%，近 80% 来自平均 ND/EBITDA 仅 0.13x 的公司；按 2027 年共识，可加杠杆至 2.0x ND/EBITDA 动用 $10.607T，为共识 AI capex $2.088T 的 508%。AI 交易自 5 月停滞，按 PEG 当前 AI 组合甚至贵于科技泡沫顶点；全球 AI 股票池 2636 只中 73% 为新标的，筛后得 672 只中小盘、265 只大盘，85% 中小盘日均成交 >$5M。美国中小盘科技滚动 PE 28.4x、盈利增长 20%，35 只 OW 评级 AI 标的平均上行 64%。新增 PTRN、DY、TENB、GDDY、007660 KS、ESE、SANM、QTWO 进中小盘模型组合，做空首选 MNDY、WIX、CCCS；偏好科技、工业、材料中 AI 主题，回避能源、中小盘银行及可选消费。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS：AI失业者1年后仍失业概率高10pp，影响扩散至非制造业",
+          "details": "GS AI Labor：AI 影响正从科技扩散至非制造业，AI 采用率越高的行业就业增长越弱、失业率越高。基于 CPS 失业工人补充调查（2016-2025 超 15,000 人），自 2025 年以来 AI 失业评分前 30% 的工人找工作平均多花约 1mo，1y 后仍失业的概率高约 10pp，幅度与早期技术变革相当。年轻 AI 失业者回到全职仅比普通多约 3wk，年长者多约 5wk；大学生正转向 AI 暴露低、就业增长强的专业；AI 失业者更可能离开原职业和行业，但再就业时（尤其年长者）进入 AI 暴露相似或更高的岗位，该模式 2023 年后才出现，面临再次被替代风险。",
+          "important": false
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "花旗：预计12月加息、2030年全球AI capex超$3.5T",
+          "details": "Citi Global Outlook：预计 Fed 12 月加息，FF 2026Q4 末 4.25%、2027Q4 末降至 3.50%；伊朗冲突以来 UST 10Y 上行超 100bps，源于美国财政发行、AI capex（2030 年全球超 $3.5T）等加大储蓄池压力及期限/风险溢价上升。看多 UST 5Y，渐进加息下曲线中段具构建性。超配全球 IT 和美国股票，看好 AI 建设至少持续到下个十年中期，风险为金融泡沫、2028 年大选后政治支持减弱和网络事件。Brent 现 $115/bbl、2 月以来涨约 60%，基准 0-3mo 看空至 $75/bbl（预计霍尔木兹年底前正常化），牛市情景 $120/bbl；Gold 0-3mo 目标 $4800/oz、2027 年初 $5000/oz。",
+          "important": false
+        },
+        {
+          "actor": "JPM Global Eco",
+          "actor_type": "Analyst",
+          "text": "JPM：Q4 GDP放缓至1.75%，全球capex从科技向非科技扩散",
+          "details": "JPM Global Eco：美国私人需求经受住能源冲击，但预计 Q4 GDP 放缓至 1.75%，因商品通胀上升带来第二次购买力挤压；9 月核心 PCE yoy 3.1% 仍高于目标、支持 Fed 维持紧缩立场。全球 capex nowcaster Q3 环比年化 10.3%，9 月月度 mom +0.9% 为 5 月以来最强，美国 Q4 capex 10% 预测有上行风险；资本开支正从科技/AI 向非科技扩散，全球工业（除科技）capex 产出 PMI 仍处 53.0。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "PTRN",
+        "DY",
+        "TENB",
+        "GDDY",
+        "ESE",
+        "SANM",
+        "QTWO",
+        "MNDY",
+        "WIX",
+        "CCCS"
+      ],
+      "image_indexes": [
+        2
+      ],
+      "importance": 3,
+      "sources": [
+        "JPM",
+        "Goldman Sachs",
+        "Citi"
+      ],
+      "date": "2026-10-30",
+      "image_urls": [
+        "/uploads/2026-10-30/274178fc554e.png"
+      ]
+    },
+    {
+      "id": "jpm-tbill-funding-nov",
+      "topic": "T-bill融资压力",
+      "topic_tag": "rates",
+      "title": "JPM：T-bill需求端萎缩，便宜或成新常态",
+      "summary": "10 月以来 T-bill 净发行 $255B、相对 SOFR 持续走阔为两年多来首次，全曲线处数年来最便宜。MMF 增长停滞、外国官方 4 个月减持 $145B、稳定币资产停滞；2027 年私人持有 T-bill 净发行达 $991B，需求难匹配。",
+      "bullets": [
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "T-bill曲线数年来最便宜，需求端萎缩是关键",
+          "details": "JPM Front End：10 月以来 T-bill 净发行 $255B，T-bill 相对 SOFR 持续走阔为两年多首次，全曲线处数年来最便宜附近；夏季更大发行未造成冲击，说明需求端变化是关键：MMF 资产增长近两个月停滞，2026 年预计仅 +5%（前两年约 15%），政府型和优质型 WAM 分别降至 33d、27d；外国官方 4mo 减持 T-bill $145B，占比降至 4.3% 为 2024 年 5 月以来最低；稳定币资产停滞于 $265B-$280B，持有 T-bill 约 $127B（去年 12 月约 $137B）。",
+          "important": true
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "2027年私人持有T-bill净发行$991B，压力或外溢至融资市场",
+          "details": "JPM：预计 11 月净发行 $208B、12 月净偿还 $288B，短期压力缓和，但 2027 年私人持有 T-bill 净发行达 $991B，需求难以匹配，T-bill 便宜更可能是新常态；压力可能外溢至融资市场（MMF 从回购转向 T-bill），明年春季债务上限下财政部现金管理可能掩盖融资信号。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "JPM"
+      ],
+      "date": "2026-10-30",
+      "image_urls": []
+    },
+    {
+      "id": "jefferies-energy-nov",
+      "topic": "能源/原油",
+      "topic_tag": "oil",
+      "title": "Jefferies：中东出口恢复90%+但在途量创新高，运费涨8倍",
+      "summary": "中东原油出口（不含伊朗）已恢复至战前 90% 以上但在途时间拉长，全球原油在途量创新高；实物原油溢价周涨 8% 至 $9/bbl、运费自冲突以来涨约 8 倍。新加坡炼油毛利 YTD $13.6/bbl，LNG 周涨 6% 至 $32/MMBtu。",
+      "bullets": [
+        {
+          "actor": "Jefferies",
+          "actor_type": "Analyst",
+          "text": "原油出口恢复90%但在途量创新高，运费涨8倍",
+          "details": "Jefferies Energy：中东原油出口（不含伊朗）已恢复至战前 90% 以上，但船对船转运拉长在途时间、进口商改走更长航线，全球原油在途量创历史新高；实物原油溢价周涨 8% 至 $9/bbl，成品油运输仍受影响。运费周降 3%，但自冲突以来涨约 8x，占到岸成本由战前 3% 升至 25% 以上，油轮屡遭袭击下短期维持高位。",
+          "important": true
+        },
+        {
+          "actor": "Jefferies",
+          "actor_type": "Analyst",
+          "text": "新加坡炼油毛利YTD $13.6/bbl，乌拉尔折价收窄至$2",
+          "details": "Jefferies：新加坡综合炼油毛利 YTD 均值 $13.6/bbl，周环比回落但仍处高位，汽油/柴油/航煤裂解约 $27/$53/$55/bbl，乌克兰袭击俄炼厂压低俄出口、收紧中间馏分，预计 2027 财年利润率维持高位。乌拉尔对 Brent 折价由 2 月底 $14/bbl 收窄至 $2/bbl，Dubai 对 Brent 折价周扩大 6x 至 $4/bbl；美国行政令豁免对进口俄油国家（含中国、印度）征收最高 100% 关税的条款，至 12 月中旬。",
+          "important": false
+        },
+        {
+          "actor": "Jefferies",
+          "actor_type": "Analyst",
+          "text": "LNG周涨6%至$32/MMBtu，欧盟储气75%低于去年",
+          "details": "Jefferies：现货 LNG 周涨 6% 至 $32/MMBtu，欧盟储气率 75%（去年同期 83%），预计冬季气价维持高位；印度原油篮子约 $118/bbl，OMC 汽油/柴油亏损 ₹25/L/₹37/L。评级：买入 ONGC、IOCL、BPCL、IGL 及信实工业（石化价差较 2 月底涨 55%），减持 HPCL、PLNG、MAHGL。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Jefferies"
+      ],
+      "date": "2026-10-30",
+      "image_urls": []
+    }
+  ]
+}
