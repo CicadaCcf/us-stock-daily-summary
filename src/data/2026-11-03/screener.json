@@ -1,0 +1,101 @@
+{
+  "generated_at": "2026-11-03T21:31:38+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-11-03",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12595,
+    "partial_pass": 6,
+    "with_carryover": 9,
+    "after_full_check": 6
+  },
+  "rows": [
+    {
+      "tk": "AEHR",
+      "nm": "Aehr Test Systems",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 26.5,
+      "w1": 1.8,
+      "market_cap_bn": 2.13,
+      "dollar_vol_bn": 0.56,
+      "w1_avg_dollar_vol_bn": 0.23,
+      "reason": "",
+      "main_business": "半导体集成电路老化测试设备制造商"
+    },
+    {
+      "tk": "CIFR",
+      "nm": "Cipher Digital Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 18.4,
+      "w1": -4.2,
+      "market_cap_bn": 3.37,
+      "dollar_vol_bn": 0.54,
+      "w1_avg_dollar_vol_bn": 0.42,
+      "reason": "",
+      "main_business": "专注于人工智能和高性能计算的数据中心开发运营"
+    },
+    {
+      "tk": "RIOT",
+      "nm": "Riot Platforms, Inc. Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 18.4,
+      "w1": 3.4,
+      "market_cap_bn": 5.26,
+      "dollar_vol_bn": 0.55,
+      "w1_avg_dollar_vol_bn": 0.34,
+      "reason": "",
+      "main_business": "运营大规模比特币挖矿及数据中心基础设施"
+    },
+    {
+      "tk": "HUT",
+      "nm": "Hut 8 Corp. Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 15.9,
+      "w1": -5.3,
+      "market_cap_bn": 7.86,
+      "dollar_vol_bn": 0.55,
+      "w1_avg_dollar_vol_bn": 0.36,
+      "reason": "",
+      "main_business": "整合电力与算力基础设施从事比特币挖矿业务"
+    },
+    {
+      "tk": "FN",
+      "nm": "Fabrinet",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 15.5,
+      "w1": 5.9,
+      "market_cap_bn": 13.02,
+      "dollar_vol_bn": 0.86,
+      "w1_avg_dollar_vol_bn": 0.52,
+      "reason": "",
+      "main_business": "提供光通信、激光器及医疗设备的精密光学制造服务"
+    },
+    {
+      "tk": "ADT",
+      "nm": "ADT Inc.",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 0.2,
+      "w1": 43.4,
+      "market_cap_bn": 7.2,
+      "dollar_vol_bn": 0.33,
+      "w1_avg_dollar_vol_bn": 0.57,
+      "reason": "",
+      "main_business": "面向美国家庭与小企业的安防与智能家居服务"
+    }
+  ]
+}
