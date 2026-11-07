@@ -1,0 +1,551 @@
+{
+  "topics": [
+    {
+      "id": "fed-hammack-hawkish",
+      "topic": "美联储",
+      "topic_tag": "fed",
+      "title": "Fed Hammack 鹰派：主张限制性立场、小幅频繁调整",
+      "summary": "克利夫兰联储 Hammack 表示通胀已超 2% 目标近六年，压力较广泛，预计货币政策需转向限制性立场以及时使通胀回到目标，偏好更频繁的小幅调整以降低政策落后和通胀心态固化的风险。",
+      "bullets": [
+        {
+          "actor": "Hammack",
+          "actor_type": "Central-Bank",
+          "text": "通胀已超目标近六年，需转向限制性立场",
+          "details": "Hammack：通胀已超目标近六年，压力较广泛；预计货币政策需转向限制性立场，以及时使通胀回到2%。",
+          "important": true
+        },
+        {
+          "actor": "Hammack",
+          "actor_type": "Central-Bank",
+          "text": "偏好更频繁的小幅调整",
+          "details": "偏好更频繁的小幅调整，以降低政策落后和通胀心态固化的风险。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-06",
+      "image_urls": []
+    },
+    {
+      "id": "trump-core",
+      "topic": "特朗普政府",
+      "topic_tag": "policy",
+      "title": "Trump 核心：甩锅民主党、坚持高关税、Rubio 辞职传闻",
+      "summary": "Trump 将股市大跌归因于民主党胜选并呼吁不要恐慌，坚持高关税以防日本等国倾销；BBG 报道国务卿 Rubio 考虑辞职但本人否认；据报道 Trump 在移民执法上多次摇摆，曾对幕僚说 Stephen Miller 做过头。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "将股市大跌归因于民主党胜选，呼吁不要恐慌",
+          "details": "Trump 称股市大跌是民主党胜选造成的，让大家不要恐慌。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "坚持高关税，若撤销日本等国将倾销",
+          "details": "Trump 继续高关税政策：若撤销，日本等国就会把产品出口过来。",
+          "important": false
+        },
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "BBG 报道 Rubio 考虑辞职，本人否认",
+          "details": "BBG 报道：国务卿 Rubio 考虑辞职，本人否认。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "移民执法摇摆，曾称 Miller 做过头",
+          "details": "据报道 Trump 在移民执法上多次摇摆，曾对幕僚说 Stephen Miller 做过头。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Bloomberg"
+      ],
+      "date": "2026-11-06",
+      "image_urls": []
+    },
+    {
+      "id": "midterm-congress",
+      "topic": "中期选举与国会",
+      "topic_tag": "policy",
+      "title": "民主党普选票 1976 年以来最大领先；Warren 掌参院银行委",
+      "summary": "民主党众院普选票领先幅度为 1976 年以来最大，至少 37 名新任民主党众议员来自 Trump 2024 年获胜选区；众院三位共和党委员会主席就 Alice Huang 关系质询 Jensen Huang；民主党拟调查 JPMorgan 与 Epstein 关系；Elizabeth Warren 将任参院银行委主席，反对加密货币与股票永续合约。",
+      "bullets": [
+        {
+          "actor": "民主党",
+          "actor_type": "US-Congress",
+          "text": "普选票领先为 1976 年以来最大",
+          "details": "民主党众院普选票领先幅度为 1976 年以来最大，至少 37 名新任众院民主党人来自 Trump 2024 年赢下的选区。",
+          "important": true
+        },
+        {
+          "actor": "Elizabeth Warren",
+          "actor_type": "US-Congress",
+          "text": "Warren 将任参院银行委主席，反对加密与永续合约",
+          "details": "Elizabeth Warren 将任参院银行委员会主席，其反对加密货币和股票永续合约，曾多次要求调查特朗普家族的 WLFI。",
+          "important": false
+        },
+        {
+          "actor": "众院共和党委员会主席",
+          "actor_type": "US-Congress",
+          "text": "三位共和党主席要求 Jensen Huang 说明与 Alice Huang 关系",
+          "details": "众院三位共和党委员会主席致信 Jensen Huang，要求闭门说明与 Alice Huang 的关系。",
+          "important": false
+        },
+        {
+          "actor": "民主党",
+          "actor_type": "US-Congress",
+          "text": "民主党拟调查 JPMorgan 与 Epstein 关系",
+          "details": "民主党拟调查 JPMorgan 与 Epstein 关系。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "JPM"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-11-06",
+      "image_urls": []
+    },
+    {
+      "id": "texas-datacenter",
+      "topic": "德州数据中心政策",
+      "topic_tag": "policy",
+      "title": "德州州长当选人 Hinojosa：已批数据中心照建，新项目先停加条件",
+      "summary": "德州州长当选人 Hinojosa 表示已获许可的数据中心可建完，新项目立法落实前先停，要求纳税、不推高居民电价、不影响居民用水、用工会劳工；Musk 花 2 亿美元支持德州共和党参议员候选人仍以两位数落败。",
+      "bullets": [
+        {
+          "actor": "Hinojosa",
+          "actor_type": "Foreign-Gov",
+          "text": "已批数据中心可建完，新项目立法前先停并加条件",
+          "details": "Texas 州长当选人 Hinojosa：已获许可的数据中心可建完，新项目立法落实前先停、加条件：纳税、不推高居民电价、不影响居民用水、用工会劳工，\"It is not that I hate data centers\"。",
+          "important": true
+        },
+        {
+          "actor": "Musk",
+          "actor_type": "Corporate",
+          "text": "花 $200M 支持德州共和党候选人仍两位数落败",
+          "details": "Musk 花 $200M 支持 Texas 共和党参议员候选人，仍以两位数落败。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-06",
+      "image_urls": []
+    },
+    {
+      "id": "global-cbanks-china",
+      "topic": "全球央行与中国",
+      "topic_tag": "rates",
+      "title": "BoE 加 25bp 至 4%、BoJ 纪要偏鹰、中石油暂停柴油出口",
+      "summary": "英国央行加息 25bp 至 4%，三年多来首次，Bailey 称若伊朗战争持续则再加息'more likely than not'；日银 9 月会议纪要显示委员认为需继续加息，有人提到可能加快节奏；中国中石油暂停 11 月柴油出口。",
+      "bullets": [
+        {
+          "actor": "BoE / Bailey",
+          "actor_type": "Central-Bank",
+          "text": "BoE 加 25bp 至 4%，三年多来首次",
+          "details": "BoE hike 25bp 至 4%，三年多来首次；Bailey 称伊朗战争持续则再加息 \"more likely than not\"。",
+          "important": true
+        },
+        {
+          "actor": "BoJ",
+          "actor_type": "Central-Bank",
+          "text": "BoJ 9 月纪要：需继续加息，有人提加快节奏",
+          "details": "BoJ 9 月会议纪要：委员认为需继续 raising rates，有人提到可能加快节奏。",
+          "important": false
+        },
+        {
+          "actor": "中石油",
+          "actor_type": "Corporate",
+          "text": "中石油暂停 11 月柴油出口",
+          "details": "中国中石油暂停 11 月柴油出口；中国炼厂 11 月装船柴油（文本未完）。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-06",
+      "image_urls": []
+    },
+    {
+      "id": "hf-blowups",
+      "topic": "对冲基金重亏与赎回",
+      "topic_tag": "macro-other",
+      "title": "多家对冲基金本周重亏遭赎回，PM 团队关停",
+      "summary": "Axebrook、Walleye、Engineers Gate、Lone Pine、Millennium 内部 pods、Verition pods、Samlyn 等多家对冲基金本周重亏、遭赎回或关停 PM 团队；Melvin 警告对冲基金亏损与赎回影响可能比市场定价严重得多，杠杆组合被撤出 billions。",
+      "bullets": [
+        {
+          "actor": "多家对冲基金",
+          "actor_type": "新闻",
+          "text": "多家 HF 本周重亏遭赎回或关停 PM 团队",
+          "details": "Axebrook、Walleye、Engineers Gate、Lone Pine、Millennium 内部 pods、Verition pods、Samlyn 多家对冲基金本周重亏、遭赎回或关停 PM 团队。",
+          "important": true
+        },
+        {
+          "actor": "Melvin",
+          "actor_type": "KOL",
+          "text": "HF 亏损与赎回伤害可能比市场定价严重得多",
+          "details": "Melvin：对冲基金亏损与赎回伤害可能比市场已定价的严重得多，杠杆组合被撤出 billions of dollars，仓位必须在某处减掉。",
+          "important": false
+        },
+        {
+          "actor": "THE SHORT BEAR",
+          "actor_type": "KOL",
+          "text": "95% 确定未来几天有基金爆仓新闻",
+          "details": "THE SHORT BEAR：95% 确定未来几天会出现基金爆仓的新闻；Leopold 第一次那轮时，一些基金就差点爆仓，这次幅度更大，且账面原本已有亏损。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        5
+      ],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-11-06",
+      "image_urls": [
+        "/uploads/2026-11-06/9aeb33cc859b.png"
+      ]
+    },
+    {
+      "id": "ai-infra-neocloud",
+      "topic": "AI 基建与 Neocloud 融资",
+      "topic_tag": "ai",
+      "title": "Anthropic run rate 超 $80B；微软加强对 Neocloud 监督",
+      "summary": "WSJ 称 Anthropic 10 月底 run rate 超 $80B；OpenAI 发公关攻势把数据中心改称 Compute Campuses 且不再要求签 NDA；Bloomberg 称一打贷款含 OpenAI 新墨西哥 Stargate 一笔 $25M 及 Vantage、CyrusOne 相关债务；微软加强对 Nebius、IREN、Nscale 项目监督，内部讨论是否再签 neocloud 合同；AAOI 称 DSP 是 1.6T 光模块主要瓶颈；Arm CEO 称世界其他地方已准备好建数据中心。",
+      "bullets": [
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "WSJ：Anthropic 10 月底 run rate 超 $80B",
+          "details": "WSJ：Anthropic 10 月底 run rate 超 $80B。",
+          "important": true
+        },
+        {
+          "actor": "Microsoft",
+          "actor_type": "Corporate",
+          "text": "微软加强对 Nebius/IREN/Nscale 监督，或不再签 neocloud 合同",
+          "details": "微软加强对 Nebius、IREN、Nscale 项目的监督，退出其认为有风险的项目；内部讨论是否再签 neocloud 合同，不少高管强烈不愿。",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "一打 AI 数据中心贷款出售，Stargate/Vantage/CyrusOne 均涉及",
+          "details": "Bloomberg：卖方未具名，共一打贷款，含 OpenAI 新墨西哥 Stargate 项目一笔 $25M，另有 Vantage、CyrusOne 相关债务；每笔出价至少 $10M。",
+          "important": false
+        },
+        {
+          "actor": "OpenAI",
+          "actor_type": "Corporate",
+          "text": "OpenAI 公关攻势：数据中心改称 Compute Campuses",
+          "details": "OpenAI 发起公关攻势：数据中心改称 Compute Campuses，不再要求签 NDA。",
+          "important": false
+        },
+        {
+          "actor": "AAOI",
+          "actor_type": "Corporate",
+          "text": "AAOI：DSP 是 1.6T 光模块主要瓶颈",
+          "details": "AAOI：客户投资计划没有变化，DSP 是 1.6T 光模块的主要供给瓶颈。",
+          "important": false
+        },
+        {
+          "actor": "Arm CEO",
+          "actor_type": "Corporate",
+          "text": "Arm CEO：世界其他地方已准备好建数据中心",
+          "details": "Arm CEO 称\"世界其他地方已经准备好\"建数据中心。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "MSFT",
+        "NBIS",
+        "IREN",
+        "AAOI",
+        "ARM"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "Bloomberg"
+      ],
+      "date": "2026-11-06",
+      "image_urls": []
+    },
+    {
+      "id": "kol-views",
+      "topic": "KOL 观点",
+      "topic_tag": "macro-other",
+      "title": "KOL 观点：抛售未完 vs 已超卖反弹；AI 资本开支见顶争论",
+      "summary": "Andy Constan 称 Leverage ETF 待卖 $51BN 抛售未完；Chanos、Minervini、Baker、Dan Ives、Brandon Carl、cintrini 等就 AI/半导体是否见顶、政治冲击、工会与数据中心关系给出分歧判断；Walter Deemer、Valckrie 偏向反弹，Trade_the_Matrix 对比 2001。",
+      "bullets": [
+        {
+          "actor": "Andy Constan",
+          "actor_type": "KOL",
+          "text": "Leverage ETF 待卖 $51BN，抛售未完",
+          "details": "Andy Constan：This selloff isn't over，Leverage ETF 待卖规模 \"51BN as of now\"，他称 \"Tooo much to frontrun\"。",
+          "important": true
+        },
+        {
+          "actor": "Dan Ives",
+          "actor_type": "KOL",
+          "text": "Big Tech capex 增速 2027 见顶，此前为 2028/2029",
+          "details": "Dan Ives：Big Tech capex 增速将在 2027 年见顶，此前判断是 2028/2029 年；2027 年 Big Tech 和 hyperscaler capex 仍会轻松超过 $1 trillion，但进入 2028 年增速明显放缓；原因是政治版图下（尤其 Texas）数据中心建设会慢很多。",
+          "important": false
+        },
+        {
+          "actor": "Gavin Baker",
+          "actor_type": "KOL",
+          "text": "对德州 Hinojosa 越来越乐观，已批项目覆盖 2027",
+          "details": "Gavin Baker：对 Texas 州长当选人 Hinojosa 越来越乐观；认为她的数据中心立场 \"Sounds reasonable\"，她不想失去大量蓝领工作和 Texas 农村小镇的房产税；判断已获许可项目基本覆盖 2027 年全部、很可能到 2028 年大部分；欣赏她交接团队里有共和党人和工会电工，不碰文化战议题；认为她是政治人才，可能走向全国政坛。",
+          "important": false
+        },
+        {
+          "actor": "James Chanos",
+          "actor_type": "KOL",
+          "text": "卖高 beta 科技买 30-100x 消费股也未必明智",
+          "details": "James Chanos：卖掉已跌 40-70% 的高 beta 科技股，去买 30-100x 盈利的低增长或零增长消费股，可能也不明智。",
+          "important": false
+        },
+        {
+          "actor": "Mohamed A. El-Erian",
+          "actor_type": "KOL",
+          "text": "质疑没有科技盈利盾牌其他市场能否繁荣",
+          "details": "Mohamed A. El-Erian：选后科技股再次跑输在意料之中。提出两个问题：国会格局变化真的会拖慢科技吗（很多人这么认为，他不太确定）？如果会，没有科技盈利和支出这面 \"shield\"，其他市场和经济能否繁荣。",
+          "important": false
+        },
+        {
+          "actor": "Mark Minervini",
+          "actor_type": "KOL",
+          "text": "不认为 '87 式崩盘，但可能 1-2wk meltdown",
+          "details": "Mark Minervini：不认为会有 '87 式崩盘，但今天可能引发持续 1–2wk 的 meltdown；中期选举结果超出市场预期，但历史和季节性背景偏有利；近期再洗盘不必自动看空；市场问题不在政治，在 \"surprise\"：市场能消化好消息和坏消息，难消化的是没被充分预期的结果。",
+          "important": false
+        },
+        {
+          "actor": "Valckrie",
+          "actor_type": "KOL",
+          "text": "已平波段空头，预计未来几天大反弹",
+          "details": "@Valckrie：科技和 AI 篮子已下跌数周；已平掉波段空头篮子，预计未来几天有大反弹机会。",
+          "important": false
+        },
+        {
+          "actor": "Trade_the_Matrix",
+          "actor_type": "KOL",
+          "text": "2001 与 2026 相似：AI 公司 CDS 利率快速上升",
+          "details": "Trade_the_Matrix：2001 与 2026 相似，问是否会迎来 2001 年后那样的熊市。1. 两次 SPY 都接近 ATH 时，dotcom / AI 泡沫已破，多数最大公司距高点跌 50% 以上。2. 两次都有很多公司前瞻指引令人失望，或项目中止（\"MU etc\"）。2001 年债券违约激增；这次 AI 公司 CDS 收益率快速上升，\"signaling defaults\"（原文未给数据）。",
+          "important": false
+        },
+        {
+          "actor": "Walter Deemer",
+          "actor_type": "KOL",
+          "text": "Sold-out 市场比 oversold 更 bullish",
+          "details": "Walter Deemer：Sold-out 市场比 oversold 市场更 bullish。",
+          "important": false
+        },
+        {
+          "actor": "Lance Breitstein",
+          "actor_type": "KOL",
+          "text": "半导体/AI 处境难：基本面事件叠加高位",
+          "details": "Lance Breitstein：半导体/AI 处境难：新增了基本面事件（民主党胜选），而这些股票仍处在前期大涨后的高位。",
+          "important": false
+        },
+        {
+          "actor": "cis",
+          "actor_type": "KOL",
+          "text": "日股像短期抛售高潮，差不多该买了",
+          "details": "cis@株 先物 FX 新信長の野望：日股像短期抛售高潮，但还是贵？\"差不多该买了\"。",
+          "important": false
+        },
+        {
+          "actor": "宏观边际 MacroMargin",
+          "actor_type": "KOL",
+          "text": "流动性暴跌，AI 需求未见顶；anti-AI 类比地产",
+          "details": "宏观边际 MacroMargin：流动性冲击下的暴跌，底线思维看需求：AI 需求总会见顶，但不是现在。面对强劲真实需求，民主党即使彻底打压 AI，也只是扮演十多年前共产党的角色：压缩供给、抑制需求，反而给行业续命；anti AI 是弱化版的当年中国地产问题：AIDC 对融资的挤出和居民负担远不及地产，但对经济的影响类似。",
+          "important": false
+        },
+        {
+          "actor": "Kevin S. Xu",
+          "actor_type": "KOL",
+          "text": "扼杀数据中心会断送民主党 2028 工会票",
+          "details": "Kevin S. Xu：工会工人喜欢数据中心，扼杀数据中心会断送民主党 2028 年赢回工会票的机会；民主党 2024 年在工会选票上大输给 Trump；Teamster 主席在 2024 年共和党大会演讲，工会 120 多年来首次。",
+          "important": false
+        },
+        {
+          "actor": "Brandon Carl",
+          "actor_type": "KOL",
+          "text": "半导体泡沫见顶条件基本满足，但资金可能延长",
+          "details": "Brandon Carl：半导体处于泡沫，大部分\"必要\"的见顶条件已满足，但 Funding 和 Policy 可能延长泡沫。",
+          "important": false
+        },
+        {
+          "actor": "Jukan",
+          "actor_type": "KOL",
+          "text": "存储股即使 3 倍 P/E 也不便宜",
+          "details": "Jukan：存储股即使 3 倍 P/E 也不便宜。",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "不在一致做空、仓位偏空时看空 AI/半导体",
+          "details": "Herman Jin：不在市场一致做空、仓位偏空时看空 AI/半导体。",
+          "important": false
+        },
+        {
+          "actor": "cintrini",
+          "actor_type": "KOL",
+          "text": "AI capex 增长已见顶，宏观偏滞胀",
+          "details": "cintrini：AI 资本开支增长已经见顶，不对称风险转向下行；宏观\"闻起来有周期末期扩张的味道\"，资产价格偏向滞胀。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        2
+      ],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-11-06",
+      "image_urls": [
+        "/uploads/2026-11-06/f8ebc4695f08.png",
+        "/uploads/2026-11-06/cc36f20302af.jpg"
+      ]
+    },
+    {
+      "id": "sell-side-nfp-cpi-fed",
+      "topic": "卖方观点",
+      "topic_tag": "rates",
+      "title": "GS/Barclays/Citi/Nomura/JPM：NFP、CPI、Fed 路径与系统性抛售",
+      "summary": "GS 预期 10 月非农 +75K、时薪 +0.3%、失业率 4.2%；Barclays 预期 10 月核心 CPI 0.22%、换算核心 PCE 0.21%，维持 12 月加息 25bp 基准；Citi 称 WTI 跌破 $90/bbl 若持续对 Fed 非常鸽派；GS 下调黄金 2026 年底至 $4150；Nomura 称 12 月加息概率降至 66%，看多长债/JGB/Gold；JPM 测算 CTA/vol target/杠杆 ETF 合计数百亿美元被动抛售。",
+      "bullets": [
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "JPM：杠杆 ETF 收盘前卖超 $60B，90% 科技相关",
+          "details": "JPM Systematic Flows：SPX 跌 4.4%、NDX 跌 6.4%，为解放日以来最差单日，科技领跌触发宏观系统性策略大规模去杠杆，未来数日仍有卖压。CTA 转为净空美股，SPX、NDX、RTY 动量信号均转空，SPX 期货在现货开盘前约 1.5h 净卖出约 $11B；SPX 接近 200d 均线且 12mo 动量仍为正。波动率目标基金目标杠杆需从约 67 百分位降至 30 百分位，未来几日约卖出 $50B 股票；杠杆 ETF 一周内第二次大幅去杠杆，收盘前卖出超 $60B、约 90% 为科技相关（半导体、NDX、XLK），隐含空头伽马从约 $7.5B 降至 $6.5B 每 1% 波动。",
+          "important": true
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS NFP Preview：预期 10 月非农 +75K",
+          "details": "GS NFP Preview：预期 10 月非农 +75K，高于共识 +65K 和 3mo 均值 +51K，私人部门 +70K（共识 +64K）；依据是裁员低位（10 月初请均值 198K、9 月 204K，9 月 JOLTS 裁员率降 0.1pp 至 1.0%，Challenger 经 GS 季调 53K）、替代就业指标均值约 +70K，以及劳动节偏晚（9/7）后的残余季节性，此类年份 10 月平均较 9 月加速约 50K，9 月仅 +29K。平均时薪预期 mom +0.3%，与共识一致，GS 工资追踪器 Q3 年化 3.0%、yoy 3.3%；失业率预期持平 4.2% 但风险偏下行，续请下降指向更低失业率，不过 GS 松弛追踪器仍为 4.6%。雇主调查就业分项走弱（制造业降 0.5 至 52.6、服务业降 0.8 至 50.8），Conference Board 劳动力差值升 2.4 至 +5.3。",
+          "important": false
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "Barclays CPI Preview：核心 0.22%，维持 12 月加 25bp",
+          "details": "Barclays CPI Preview：预期 10 月整体 CPI mom 0.24%（9 月 0.65%），核心 0.22%（9 月 0.33%），NSA 指数 337.157，接近 fixings 337.18。正文称汽油 mom 跌约 1% 拖累整体，但预测表中能源 +0.43%、汽油 +0.42%（原文两处不一致）。核心商品 0.01%：家居陈设 -0.35%、服装 -0.10%、二手车 0.10%，计算机及软件涨价使教育与通信商品维持 0.70%；核心服务 0.29%（9 月 0.37%），OER 0.30%（9 月 0.35%），机票 -1.50% 为去年 12 月以来首次季调下跌，邮政快递提价使教育与通信服务 0.40%，健康保险由前 6mo 均值 -0.3% 转为 0.2%。换算核心 PCE mom 0.21%、yoy 3.2%。维持 12 月加息 25bps 基准：10 月 FOMC 声明加入鹰派措辞、两位鹰派反对，Warsh 偏好的 6mo 和 12mo 通胀指标受基数效应年内难改善，高能源价格正传导至运费和运输成本，近期通胀风险偏上行。",
+          "important": false
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "Citi：WTI 跌破 $90 若持续对 Fed 非常鸽派",
+          "details": "Citi Fed & Oil：WTI 从上周 $105/bbl 跌破 $90/bbl，完全回吐 10 月涨幅，因投资者下调军事升级概率；若持续对 Fed 非常鸽派。Warsh 在 10 月 FOMC 称经济未过热、不愿放缓增长，加息出于信誉和风险管理，油价下跌拉低整体通胀、减少能源成本传导，使 Fed 更易结束本轮加息，并可能为明年晚些时候降息创造条件。关键在油价下跌能否持续，地缘发展难预测，中期选举结果不显著改变结果分布；市场尚未完全定价今年加息。预期初请升至 200K，续请已处很低水平，通常领先失业率数月。",
+          "important": false
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "Citi US Rates：战术中性，新建 Dec/Jan FOMC flattener",
+          "details": "Citi US Rates：维持战术中性，不追科技股财报和中期选举后的避险反弹：期限溢价过去几周大幅压缩，10Y、30Y 暴露于抛售风险，Warsh 不太可能压垮经济、增长仍强，曲线有陡峭化风险；若 Fed 只在 SEP 会议动作，2027 年下半年终端利率有上限。2026 年末基准预测 2Y/5Y/10Y/30Y 为 4.80%/4.85%/5.00%/5.30%，牛市 4.30%/4.45%/4.65%/5.05%，熊市 5.30%/5.30%/5.30%/5.55%。10 月 FOMC 温和偏鸽、仅 Hammack 和 Cook 反对，9 月点阵图四位预期 10 月加息者中两位未反对，新建 Dec/Jan FOMC flattener（6bps），押注 12 月加息、1 月暂停，核心 PCE 历史上 11-12 月偏弱、1-2 月偏强。维持 2Y BE 空头（2.16%，汽油多头对冲），市场定价未来一年剔除汽油 CPI 从 2.22% 升至 2.9%，住房领先指标继续走低；做多 30Y BE，自 9 月底跌约 12bps 至 2.19%，与风险资产和偏鸽政策背离。",
+          "important": false
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS 下调黄金 2026 年底至 $4150/oz",
+          "details": "GS Gold：因 Fed 鹰派转向压制黄金持仓，下调 Gold 2026 年底预测至 $4150/oz（原 $4650/oz）、2027 年底至 $4800/oz（原 $5400/oz），但维持长期建设性看多；央行结构性需求仍强，预期 2026–2027 年月均购金 60t（当前 3mo 季调 85t/mo，2022 年前均值 17t/mo），环境类似 2022 年：央行托底、高利率压制投资者头寸。下行风险来自 12 月加息及 2027 年 3 月可能再加息，额外加息情景下 2027 年底仅 $4660/oz；短期 3-6mo CTA 和宏观基金难以维持多头，油价上涨或股市回撤引发的去杠杆初期都会拖累金价。预期 2027 年底至 2028 年初降息三次后 ETF 流入回归。看涨期权需求自 2025 年中急升，GLD 看涨净未平仓每增 1M 张推升金价约 5%，而每 100t 确信需求约 2%。",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "Nomura：12 月加息概率降至 66%，看多长债/Gold/JGB",
+          "details": "Nomura Cross-Asset：中期选举后 Fed 加息定价大幅回落，12 月概率降至 66%，峰值约 1.6 次、不再完全定价第二次，定价 12 月 17bps、3 月 29bps、6 月 39bps，2y 远期 OIS 降至 4.19%；若风险厌恶持续，Fed 可能跳过 12 月或加息同时释放观望信号，先例为 1997 年和 2015 年仅加一次后长期暂停。看多长债、JGB 和 Gold，看空美日股票和比特币。非科技股引领的反弹不现实：AI 应用尚未通过工资和通胀提升实际收入，减税效果消退拖累消费；Dec-27 原油期货跌破 $80/bbl，但 $70-$75/bbl 阻力限制进一步下跌。10Y 实际利率 2.61%、BEI 2.23%，MOVE 97.9、VIX 26.7；日本 12 月加息概率 76%、终端 2.18%，USDJPY 走强至 157.5-158.0，日股承压，若终端预期下降 5Y JGB 领涨，否则 10Y 为避险去向。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GLD",
+        "TLT"
+      ],
+      "image_indexes": [
+        3,
+        6,
+        7
+      ],
+      "importance": 3,
+      "sources": [
+        "GS",
+        "Barclays",
+        "Citi",
+        "Nomura",
+        "JPM"
+      ],
+      "date": "2026-11-06",
+      "image_urls": [
+        "/uploads/2026-11-06/1465baed30b4.jpg",
+        "/uploads/2026-11-06/84188066c19c.png",
+        "/uploads/2026-11-06/56fe00c956b6.png"
+      ]
+    },
+    {
+      "id": "other-charts",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "其他：全球派息 CAGR、历史类似 1 日跌幅参考",
+      "summary": "Fidelity 全球派息 5 年 CAGR 图显示日本约 22%、加拿大 15%、欧洲 14%、EAFE 13%、美国 11%、中国 8%；历史与当前类似 -4.3% 级别单日下跌后的后续回报表现各异（含 1988、1932、2020、2001、2022 等）。",
+      "bullets": [
+        {
+          "actor": "Fidelity",
+          "actor_type": "新闻",
+          "text": "全球派息 5 年 CAGR：日本 22% 领先，美国 11%",
+          "details": "Fidelity 全球派息（股息+回购）5 年 CAGR 图：日本约 22%、加拿大约 15%、欧洲约 14%、EAFE 约 13%、美国约 11%、中国约 8%、EM 约 8%，数据截至 2026/11/02。",
+          "important": true
+        },
+        {
+          "actor": "历史类比",
+          "actor_type": "新闻",
+          "text": "类似 -4.3% 单日跌幅历史：后续回报分化大",
+          "details": "历史与当前类似的 -4.3% 级别 S&P 500 单日跌幅 session：1988-04-14（Next 1Y +14.11%）、1932-06-07（+116.91%）、2020-03-20（+70.96%）、1933-03-17（+57.62%）、1937-09-20（-14.71%）、2022-09-13（+14.56%）、2001-03-12（-1.24%）、1932-01-22（-13.52%）、1948-11-05（+5.06%）、1946-11-06（+4.77%）。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        4
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-11-06",
+      "image_urls": [
+        "/uploads/2026-11-06/75f8934a4c28.jpg",
+        "/uploads/2026-11-06/52198de97b9e.jpg"
+      ]
+    }
+  ]
+}
