@@ -1,0 +1,574 @@
+{
+  "topics": [
+    {
+      "id": "fed-dec-hike-debate-nov10",
+      "topic": "美联储12月加息辩论",
+      "topic_tag": "fed",
+      "title": "Waller倾向12月加25bps、DB/Barclays/JPM基线均指向加息",
+      "summary": "Waller称若10月CPI改善则支持12月加25bps，若核心CPI≥0.3%则加50bps。DB、Barclays、JPM均维持12月加息基线，市场定价概率约80%。鸽鹰阵营分歧明显但通胀被列为首要任务。",
+      "bullets": [
+        {
+          "actor": "Waller",
+          "actor_type": "Central-Bank",
+          "text": "Waller：10月CPI若改善支持12月加25bps，核心≥0.3%则加50bps",
+          "details": "Waller称通胀仍然过高、经济强劲、劳动力市场稳定，将根据10月份CPI制定政策建议；如果10月月度通胀率有所改善，倾向于支持12月加息25bps；并警告若核心CPI≥0.3%，将支持加息50bps。",
+          "important": true
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "DB：维持12月和3月各加25bps基线，市场定价12月概率80%",
+          "details": "DB Fed Watch：10月会后官员讲话普遍认为通胀过高、需进一步加息，多位官员把10月暂停视为风险管理而非方向或终点改变；DB维持12月和3月FOMC各加25bps基线，预测联邦基金利率2026Q4 4.13%、2027年4.38%并维持全年，2028年回落至3.63%；市场定价12月加息概率80%，终端利率明年夏天4.4%。",
+          "important": false
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "DB梳理鸽鹰阵营：鸽派渐进加息，Logan最鹰呼吁至少再加2次",
+          "details": "相对鸽派的Williams、Daly、Barkin倾向在高度不确定下渐进加息，但都把通胀列为首要任务：Williams称通胀\"绝对过高\"、AI短期增加价格压力，Barkin认为政策接近中性甚至略宽松，Daly称强劲的10月就业报告让Fed可专注通胀。鹰派Logan认为利率区间至少比轻度限制性低50bps、暂停前至少再加2次25bps，Hammack倾向频繁小幅调整，Musalem支持提前逐步收紧，Goolsbee警示服务通胀上升和数据中心建设带来过热风险。",
+          "important": false
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "Barclays：预期12月和1月各加25bps后维持至2027年底",
+          "details": "Barclays预期Fed 12月和1月各加25bps后维持至2027年底（2026Q4 4.00-4.25%、2027年 4.25-4.50%），CPI 2026年3.5%、2027年2.8%，租金CPI 2026年12月3.0%、2027年12月2.8%，OER由3.5%放缓至3.2%；GDP 2026年2.4%、2027年2.1%。",
+          "important": false
+        },
+        {
+          "actor": "JPMorgan",
+          "actor_type": "Analyst",
+          "text": "JPM：预期10月核心CPI mom 0.23%，若11-12月接近0.3%将挑战市场定价",
+          "details": "JPM预期10月核心CPI mom 0.23%，足以把年化核心PCE推回3.2%（9月核心CPI 0.33%）；若11、12月核心CPI接近0.3%，将挑战市场对12月后进一步收紧有限的定价。美国劳动力市场加入上行趋势，10月非农+159K，3mo均值137K，BLS工资收入代理指标增速为三年多来最快，劳动收入趋势仍接近过去四个季度4.5%；预期未来几个季度就业增长保持100K以上，ECB和BoJ也将行动。",
+          "important": false
+        },
+        {
+          "actor": "WSJ/Timiraos",
+          "actor_type": "新闻",
+          "text": "10月CPI卖方预测中位：Headline 0.25%、Core 0.22%",
+          "details": "WSJ/Nick Timiraos汇总10月CPI预测：中位Headline m/m 0.25%、Core m/m 0.22%。BofA 0.17/0.22、Barclays 0.24/0.22、BNP 0.27/0.28、Citadel -/0.21、Citi -/0.19、DB 0.20/0.20、Econvitals 0.21/0.21、Employ America 0.25/0.26、GS 0.21/0.16、JPM 0.25/0.23、Moody's 0.28/0.17、MS 0.19/0.19、Nomura 0.14/0.13、Pinebrook 0.29/0.28、Santander -/0.24、TD 0.27/0.23、UBS 0.26/0.23。9月前值Headline m/m 0.65%、y/y 3.7%、Core m/m 0.33%、y/y 2.6%。",
+          "important": false
+        },
+        {
+          "actor": "MSIM/Citi",
+          "actor_type": "Analyst",
+          "text": "Citi通胀意外指数：近期通胀发布与共识基本持平",
+          "details": "Citi Inflation Surprise Index显示近期通胀发布与共识一致或略好，当前值在-5到0附近；2021年末峰值60-70，2025年5-7月跌至-30至-35深度负值后回升。MSIM评论：绝对通胀水平令政策辩论持续，但相对共识近期印数并不令人担忧。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        6
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "Deutsche Bank",
+        "Barclays",
+        "JPMorgan",
+        "MSIM"
+      ],
+      "date": "2026-11-10",
+      "image_urls": [
+        "/uploads/2026-11-10/34f263101564.png",
+        "/uploads/2026-11-10/58eed3b99753.jpg"
+      ]
+    },
+    {
+      "id": "us-iran-hormuz-nov10",
+      "topic": "美伊/霍尔木兹",
+      "topic_tag": "geo",
+      "title": "Trump对伊军事行动\"quite unlikely\"，民主党拟借拨款期限施压",
+      "summary": "Trump会见卡塔尔首相后称对伊军事行动不太可能、倾向维持现状；民主党考虑借12月11日拨款期限迫使Trump结束对伊战争。霍尔木兹原油流量恢复至战前93%，卡塔尔LNG出口稳步恢复。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：对伊军事行动\"quite unlikely\"，倾向维持现状",
+          "details": "Trump会见卡塔尔首相约45分钟后称对伊军事行动\"quite unlikely\"，倾向维持现状。",
+          "important": true
+        },
+        {
+          "actor": "民主党",
+          "actor_type": "US-Congress",
+          "text": "民主党考虑借12月11日拨款期限迫使Trump结束对伊战争",
+          "details": "BBG报道民主党考虑借12月11日拨款期限迫使Trump结束对伊战争，可能阻挡拨款或限制军事行动经费，存在再次停摆风险；也可等1月民主党掌控两院再行动。",
+          "important": false
+        },
+        {
+          "actor": "Rory Johnston",
+          "actor_type": "KOL",
+          "text": "Rory：原油一周跌近$30/bbl让Trump更容易谈维持现状",
+          "details": "Rory Johnston：Trump本人也不知道会达成协议、升级还是维持现状；原油一周跌近$30/bbl让他更容易谈维持现状。",
+          "important": false
+        },
+        {
+          "actor": "Hormuz Strait Tracker",
+          "actor_type": "新闻",
+          "text": "霍尔木兹液体出口7日估值18.7MBPD、恢复至战前93%",
+          "details": "Hormuz Strait Tracker：当前7日估计液体出口18.7 MBPD，约为战前93%（战前常态20.0 MBPD）。波斯湾及红海增量装船+富查伊拉等绕行通道。10-11月装船高波动，近期7日均值在16-18 MBPD。更新至Nov 9, 2026。",
+          "important": false
+        },
+        {
+          "actor": "Kpler/Bloomberg",
+          "actor_type": "新闻",
+          "text": "卡塔尔LNG出口稳步恢复，11月回升至15-20船次",
+          "details": "卡塔尔LNG装载与油轮出港10日移动均值：2月约30船次，3月初骤降接近0，4月起复苏，至11月两条曲线收敛至15-20船次。尽管霍尔木兹过境仍受冲突制约。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        8,
+        9
+      ],
+      "importance": 3,
+      "sources": [
+        "Bloomberg",
+        "Kpler",
+        "Hormuz Strait Tracker"
+      ],
+      "date": "2026-11-10",
+      "image_urls": [
+        "/uploads/2026-11-10/48e3c996e8ff.png",
+        "/uploads/2026-11-10/28a9c2c04f74.png"
+      ]
+    },
+    {
+      "id": "nvda-china-export-nov10",
+      "topic": "NVDA中国/出口管制",
+      "topic_tag": "ai",
+      "title": "Trump与黄仁勋通话，国会威胁传票并推AI Overwatch Act",
+      "summary": "Trump与黄仁勋通话后称\"I really believe him\"；众院外委会主席Mast不排除对NVDA发传票，白宫在AI Overwatch Act中加入限制远程使用美国算力条款。KOL围绕黄仁勋关键人物风险和出口管制漏洞激烈讨论。",
+      "bullets": [
+        {
+          "actor": "Brian Mast",
+          "actor_type": "US-Congress",
+          "text": "众院外委会主席Mast不排除对Nvidia发传票",
+          "details": "众院外委会主席Brian Mast不排除对Nvidia发传票；称白宫已在AI Overwatch Act中加入限制远程使用美国算力的条款，并对三个主要出口管制法案给了反馈。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump与黄仁勋通话：黄称不知对方是间谍，Trump称\"I really believe him\"",
+          "details": "Trump与黄仁勋通话：黄称不知对方是间谍，Trump称\"I really believe him\"。",
+          "important": false
+        },
+        {
+          "actor": "Gavin Baker",
+          "actor_type": "KOL",
+          "text": "Gavin Baker：允许向中国出口落后几代GPU是聪明国防政策",
+          "details": "Gavin Baker：允许向中国出口落后几代的GPU是聪明的国防政策，中国自己在封堵Nvidia芯片就是证据。",
+          "important": false
+        },
+        {
+          "actor": "Alexander Stahel",
+          "actor_type": "KOL",
+          "text": "Stahel：黄仁勋是关键人物风险的\"ground zero\"",
+          "details": "Alexander Stahel：黄仁勋是关键人物风险的\"ground zero\"，继任规划应进入新国会议程。黄仁勋直接管约60名下属，没有明显继任者；董事平均任期18年，超S&P 500均值两倍；整个AI生态（市值、收入、投资、跨公司承诺和表外义务）都围绕一个人，美国、韩国、台湾股市都依赖它。",
+          "important": false
+        },
+        {
+          "actor": "Lingling Wei",
+          "actor_type": "KOL",
+          "text": "魏玲灵：事件暴露中国图谋和管制漏洞，补漏或两党合作",
+          "details": "Lingling Wei（魏玲灵）：事件暴露中国对美国芯片的图谋和出口管制漏洞，补漏或是两党少有的合作领域；黄仁勋作为Nvidia唯一关键人物的地位已成公司重大风险。Julian Gewirtz引Stephen Witt书中细节：黄仁勋指示团队\"never to think about\"台湾突发情况的预案，尽管业务依赖台积电。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-11-10",
+      "image_urls": []
+    },
+    {
+      "id": "ai-capex-midterm-nov10",
+      "topic": "AI capex与中期选举",
+      "topic_tag": "ai",
+      "title": "MS/HSBC/Barclays：民主党胜州给AI建设带来延期但不打断故事",
+      "summary": "民主党赢下TX、OH州长等，约20%（5GW）美国新增容量从2028延至2029，但在建项目难受干扰。MS仍预期2027年hyperscaler capex $1.6T，HSBC建议买入科技回调。表外义务6个月激增至$3.2T，IG AI债券发行创纪录。",
+      "bullets": [
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "MS：约20%(5GW)美国容量延至2029，2027 hyperscaler capex $1.6T不变",
+          "details": "MS AI Capex：约束数据中心的杠杆在州和地方，民主党赢下TX、OH州长但州议会分裂，在建项目难受干扰；约20%（5GW）美国新增容量从2028年推迟至2029年，美国新增容量2028年yoy 4%、2029年+38%（全球+9%/+20%），2028年供应链或现\"气穴\"，capex周期拉长、现有容量溢价上升。另：约40%部署在美国的芯片2026-2028年无法及时通电，规划取代电力成为首要瓶颈，建设成本年通胀超10%；hyperscaler债券发行回暖但利差处年内最宽，2028年有下行风险。P Equity转述MS：80页报告仍预期2027年超大规模云厂商capex $1.6T，约5GW(IT)美国建设从2028延至2029，2027在建容量不受影响。",
+          "important": true
+        },
+        {
+          "actor": "HSBC",
+          "actor_type": "Analyst",
+          "text": "HSBC：抛售过度，建议买入科技回调；$48B杠杆ETF被迫卖出",
+          "details": "HSBC Equity Strategy：抛售过度，建议买入科技回调。上周SPX -2.5%、纳指-5%，AI监管或减缓但不会破坏capex，州政府更可能要求hyperscaler支付更高电价；美国310GW数据中心管道中80%位于民主党州长州（选前35%）。约$130B杠杆ETF在11/5被迫卖出近$48B，NVDA、MU、AAPL分别$3.9B、$2.7B、$2.5B。美国半导体12mo远期PE 13.5x、自6月降级45%，WMT PE 40x接近历史高位而NVDA 13x接近低位，防御轮动极端；hyperscaler FCF共识自1Q27拐点、可能提前，DRAM价格坚挺，Anthropic 2027年前上市概率从90%降至70%后恢复。",
+          "important": false
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "Barclays蓝浪：约80%高概率公用事业管线2027年位于民主党州长州",
+          "details": "Barclays Blue Wave：民主党控制两院并在德州、佐治亚赢得全州性选举，大规模财政刺激更难通过、AI建设放缓风险上升，收窄增长、通胀和利率右尾，但下行风险不应夸大；约80%高概率公用事业管线2027年将位于民主党州长州（2026年30%）。利率上获利了结receive 1yf 2y，保留1yf 2s10s SOFR曲线陡峭化。SPX跌幅超一半来自半导体、软件和硬件，视为轮动而非全面去风险。",
+          "important": false
+        },
+        {
+          "actor": "GF Securities",
+          "actor_type": "Analyst",
+          "text": "GF光模块：2027订单大部分已锁定，砍单需付约60%取消费",
+          "details": "GF Securities光模块（P Equity转述）：2027年总需求不变，采购渠道在Nvidia打包和直采之间再平衡；2027订单大部分已锁定，砍单需付约60%取消费；2028可见度强；头部供应商Q4订单满足率约50%，激光器和DSP仍是2027瓶颈。",
+          "important": false
+        },
+        {
+          "actor": "Jurrien Timmer",
+          "actor_type": "KOL",
+          "text": "Timmer：中期选举是上周AI回撤触发点，均值回归",
+          "details": "Jurrien Timmer：下一笔\"交易\"将是从债券再平衡回股票。中期选举是上周AI板块回撤的触发点，但近几个月债权和股权融资需求受考验已埋下伏笔，是均值回归，经济背景仍正面、Fed在紧缩上仍落后，10Y收益率下行空间不大。",
+          "important": false
+        },
+        {
+          "actor": "Jason Furman",
+          "actor_type": "KOL",
+          "text": "Furman：AI繁荣经济拉动主要来自股市财富效应，风险也在股市",
+          "details": "Jason Furman：AI繁荣对经济的拉动主要来自股市财富效应，风险也在股市。",
+          "important": false
+        },
+        {
+          "actor": "Nikkei研究",
+          "actor_type": "新闻",
+          "text": "美科技巨头表外义务6个月激增至约$3.2T",
+          "details": "Nikkei research：美科技巨头表外义务Q4 2025约$1.2T、Q1'26约$1.65T、Q2'26约$2.6T、Q3'26约$3.2T。Google ~$1.1T、Meta ~$0.8T、Microsoft ~$0.6T、Amazon ~$0.35T、Oracle ~$0.35T（Oracle以8月季末计入Q3）。",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "IG AI债券发行时间线：Sep25-Nov26 MTD共26笔$428.1B",
+          "details": "IG $3bn+ AI Issuance Timeline：Sep-25至Nov-26 MTD 26笔共$428.1bn。高峰月份：Oct-25 $57.3B (META $30, RPLDCI $27.3)、Jun-26 $54.25B (NVDA $25, SPCX $25, HUTRBA $4.25)、Jul-26 $37.6B (AMZN $25, TXEDCI $12.6)、Feb-26 $45B (ORCL $25, GOOGL $20)、Apr-26 $53.35B (META $25, RDMICH $14, INTC $6.5)。Oct-26 MSFT $25B，Nov-26 META $15+ORCL $10。Dec-25、May-26、Sep-26无$3B+发行。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "MU",
+        "AAPL",
+        "META",
+        "GOOGL",
+        "MSFT",
+        "AMZN",
+        "ORCL",
+        "AVGO",
+        "AMD"
+      ],
+      "image_indexes": [
+        3,
+        4
+      ],
+      "importance": 3,
+      "sources": [
+        "Morgan Stanley",
+        "HSBC",
+        "Barclays",
+        "GF Securities",
+        "Nikkei"
+      ],
+      "date": "2026-11-10",
+      "image_urls": [
+        "/uploads/2026-11-10/24299c447174.jpg",
+        "/uploads/2026-11-10/95c70f27080c.jpg"
+      ]
+    },
+    {
+      "id": "us-stock-sellside-kol-nov10",
+      "topic": "美股观点",
+      "topic_tag": "earnings",
+      "title": "GS维持超配SPX 12mo目标8700；KOL技术面偏谨慎",
+      "summary": "GS维持股票超配，SPX 12mo目标8700（现7377，+19.1%），但RAI降至0.6显示情绪与仓位偏弱。Minervini、Ritchie II等KOL认为反弹为熊市修正中的常规反弹。资产类别2026 YTD：DBC +41.1%、SPY +8.3%、GLD -6.0%、BTC -13.4%。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS：维持股票超配，SPX 12mo目标8700（+19.1%）",
+          "details": "GS Cross-Asset：维持股票超配（3mo/12mo），盈利支持、仓位转轻和估值回落支撑股市至年底，SPX 12mo目标8700（现7377，+19.1%）。RAI降至0.6，除债券和外汇外子成分全负，情绪与仓位指标为2025年4月以来最低，但未到历史上回报显著改善的1.5，商业周期仍是回撤风险的关键锚，需等RAI跌破1确认更好的回报不对称。关注点从AI建设转向变现，半导体大幅跑输hyperscaler，KOSPI跑输TOPIX，NDX隐含相关性与个股隐含波动同步上升，防御、价值和非AI周期板块跑赢。维持债券超配偏长久期，UST 10Y目标4.43%（现4.86%），以payer作叠加、日元对冲AI抛售；Gold目标$4,700/oz（现$4,064/oz），Brent现$98/bbl、12mo预测$79/bbl。",
+          "important": true
+        },
+        {
+          "actor": "Mark Minervini",
+          "actor_type": "KOL",
+          "text": "Minervini：目前看是更大下跌趋势中的又一次反弹",
+          "details": "Mark Minervini：早盘反弹令人鼓舞，但几乎没有个股形成买点，目前看是更大下跌趋势中的又一次反弹；熊市修正中常有最大的反弹；未回补SPY、DIA空单，继续持有8月7日买入的TEVA。",
+          "important": false
+        },
+        {
+          "actor": "Mark Ritchie II",
+          "actor_type": "KOL",
+          "text": "Ritchie II：这是\"什么都不做\"的时刻",
+          "details": "Mark Ritchie II：论点是\"什么都不做\"的时刻。短期超卖、反弹正常；VIX急升、put/call小幅冲高；成交量；类比2026、2025年2-4月和2018 Q4的失败突破，反弹只持续3-7d、未破前高。",
+          "important": false
+        },
+        {
+          "actor": "Charlie Bilello",
+          "actor_type": "KOL",
+          "text": "2026 YTD资产：DBC +41.1%领跑，GLD -6%、BTC -13.4%",
+          "details": "Creative Planning资产类别2026 YTD回报：DBC +41.1%、IWD +23.7%、IWM +11.9%、VNQ +11.3%、DIA +9.2%、SPY +8.3%、EFA +7.8%、VGK +7.2%、VWO +3.2%、CWB +3.1%、BIL +3.1%、HYG +0.6%、TIP +0.1%、BND 0.0%、MUB -0.2%、LQD -1.4%、TLT -2.3%、PFF -4.4%、IVV -5.3%、GLD -6.0%、BTC -13.4%。2011-26累计：SPY +668%、IVV +819%、VGK +1279%、BTC极高。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "DIA",
+        "TEVA",
+        "QQQ"
+      ],
+      "image_indexes": [
+        5
+      ],
+      "importance": 2,
+      "sources": [
+        "Goldman Sachs",
+        "Creative Planning"
+      ],
+      "date": "2026-11-10",
+      "image_urls": [
+        "/uploads/2026-11-10/c4d9eb2400c7.png"
+      ]
+    },
+    {
+      "id": "us-labor-consumer-nov10",
+      "topic": "就业与消费",
+      "topic_tag": "macro-other",
+      "title": "初请走低、JOLTS回升；BofA卡数据显示消费降级至2021来最低",
+      "summary": "初请4周均值降至约195K，JOLTS和Indeed招聘近期回升。BofA STC支出层级指数降至2021年以来最低，消费者转向价值型商户。纽约联储一年后失业率更高概率45.3%为疫情以来最高。AI采用率与裁员关系减弱。",
+      "bullets": [
+        {
+          "actor": "DB AI Labor",
+          "actor_type": "Analyst",
+          "text": "DB：AI暴露行业职位发布yoy大增，AI替代州裁员关系减弱",
+          "details": "DB AI Labor：BTOS显示企业AI采用率上升至接近25%，高采用州约为低采用州的3倍，多数行业仍低于50%；企业主要用AI补充或增强员工而非替代（信息行业例外），大量企业尚未因AI调整雇佣，AI采用率与职位空缺变化几乎无关。JOLTS职位空缺和Indeed招聘近期回升，软件开发等AI暴露行业职位发布yoy大增；挑战者、WARN和初请均处低位，续请接近2019年均值，AI替代型用途较高的州裁员和失业金指标略高但关系减弱。AI采用率高的行业时薪增速减速更明显，应届大学毕业生失业率上升最多，影响更多是结构性调整而非总量冲击。",
+          "important": true
+        },
+        {
+          "actor": "BofA Institute",
+          "actor_type": "Analyst",
+          "text": "BofA：STC综合指数降至2021年以来最低，服装餐饮降级最明显",
+          "details": "BofA Institute Consumer：BofA卡数据构建的支出层级综合指数（STC）降至2021年以来最低，消费者转向价值型商户维持支出，信心仍低于疫情前但支出韧性仍在；服装和餐饮降级最明显，旅行STC 9月yoy +0.4%，但航空交易增长下降，或反映低预算旅客直接放弃出行。千禧一代自2018年以来STC降幅最大，服装和杂货转向低价商户最明显，价值寻求已延伸至日常支出；服装通胀近期更接近税后工资增速，BofA Global Research认为与关税价格传导有关，降级交易能维持购买力但效果取决于品类可替代性。",
+          "important": false
+        },
+        {
+          "actor": "纽约联储",
+          "actor_type": "Central-Bank",
+          "text": "纽约联储：一年后失业率更高概率45.3%，疫情以来最高",
+          "details": "纽约联储调查：认为一年后失业率更高的概率45.3%，为疫情以来最高。",
+          "important": false
+        },
+        {
+          "actor": "FRED",
+          "actor_type": "新闻",
+          "text": "初请4周均值降至约195K，10月末单周约189K",
+          "details": "FRED初请数据：4周移动均值从2025年末约227K一路下行至2026年末约195K。单周峰值出现在2025-12/2026-02/2026-06（约230-235K），底部在2026-04/07/10月末（约189-190K）。8月起趋势性下行。",
+          "important": false
+        },
+        {
+          "actor": "Schroders/Stanford/ADP",
+          "actor_type": "Analyst",
+          "text": "软件开发者就业指数：早期职业1(22-25)跌至~78，中年2(41-49)升至~120",
+          "details": "软件开发者就业指数（2022年11月=100）：Mid-Career 2 (41-49)稳步上行至约119-120；Mid-Career 1 (35-40)下滑至78后恢复至~111；Developing (31-34)峰值~109后回落至~105；Early Career 2 (26-30)稳定在95-97；Early Career 1 (22-25)持续下行至77-79。数据来源Schroders、Stanford Digital Economy Lab、ADP Research。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2,
+        7
+      ],
+      "importance": 2,
+      "sources": [
+        "Deutsche Bank",
+        "BofA Institute",
+        "NY Fed",
+        "Schroders"
+      ],
+      "date": "2026-11-10",
+      "image_urls": [
+        "/uploads/2026-11-10/54b30d90eb10.jpg",
+        "/uploads/2026-11-10/2c79950e0656.png"
+      ]
+    },
+    {
+      "id": "oil-energy-nov10",
+      "topic": "原油与能源",
+      "topic_tag": "oil",
+      "title": "MS：中国炼油恢复快于需求，GS维持Brent $79/bbl 12mo预测",
+      "summary": "MS中国报告：9月原油进口9.1M b/d回升但仍低21%，炼厂加工14.0M b/d，缺口靠成品油出口消化。OECD能源通胀9月跳升至17.4%。Barclays维持Brent 2026 $100、2027 $85；GS Brent 12mo $79/bbl。",
+      "bullets": [
+        {
+          "actor": "Morgan Stanley",
+          "actor_type": "Analyst",
+          "text": "MS中国：9月成品油出口yoy +39%，10月中新柴油利润转负",
+          "details": "MS Oil：中国炼油恢复快于国内需求，缺口靠成品油出口消化。9月原油进口9.1M b/d，较6月低点回升1.9M b/d但yoy约-21%；炼厂加工14.0M b/d，收复2.7M b/d跌幅的一半以上，仍比冲突前低约1.2M b/d；表观需求14.4M b/d、yoy -15%，较2月低2.1M b/d，仅收复约30%跌幅。道路燃料最弱，9月汽油yoy -14%、柴油-18%，NEV零售渗透率67%、年内替代约315K b/d汽油，电动卡车额外替代约160K b/d柴油。9月成品油出口1.8M b/d、yoy +39%，柴油净出口460K b/d接近上年4x；10月装船环比减约320K b/d，中新柴油出口利润10月下旬转负，月度审批和偏低的商业库存使出口短期难再加速。",
+          "important": true
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "Barclays：维持Brent 2026 $100、2027 $85，战术做多27年9-12月日历价差",
+          "details": "Barclays维持Brent 2026年$100/bbl、2027年$85/bbl，实物市场仍紧、仓位清淡，战术做多2027年9-12月日历价差；美元逢跌买入。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS：Brent现$98/bbl、12mo预测$79/bbl，Gold目标$4700/oz",
+          "details": "GS Cross-Asset：Brent现$98/bbl、12mo预测$79/bbl；Gold目标$4,700/oz（现$4,064/oz）。",
+          "important": false
+        },
+        {
+          "actor": "OECD",
+          "actor_type": "新闻",
+          "text": "OECD 9月能源通胀跳升至17.4% yoy",
+          "details": "OECD能源通胀9月2026 yoy +17.4%。各国：Türkiye 47.7、Lithuania 31.5、Greece 24.4、Belgium 24.4、Italy 22.5、Spain 21.7、France 20.9、US 20.4、Canada 19.0、UK 17.9、OECD 17.4、Germany 15.6、Korea 7.7、Japan -0.6、Iceland -4.0。能源涵盖电力、燃气、其他燃料及个人交通燃料和润滑油。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "XOM",
+        "CVX",
+        "USO"
+      ],
+      "image_indexes": [
+        1
+      ],
+      "importance": 2,
+      "sources": [
+        "Morgan Stanley",
+        "Barclays",
+        "Goldman Sachs",
+        "OECD"
+      ],
+      "date": "2026-11-10",
+      "image_urls": [
+        "/uploads/2026-11-10/ec9fb42e6fdd.jpg"
+      ]
+    },
+    {
+      "id": "us-fiscal-funding-nov10",
+      "topic": "美国财政/融资",
+      "topic_tag": "rates",
+      "title": "CBO：FY26赤字$2.0T；GS预期Fed本月重启储备管理购买",
+      "summary": "CBO FY2026赤字$2.0T、增$217B（+12%）；FY2027首月赤字$409B。GS预期Fed本月重启储备管理购买，初始$10B/mo至少持续到2027Q1。债务上限预期2027Q1约束。参院以超70票推进两党许可改革法案BAAJA。",
+      "bullets": [
+        {
+          "actor": "CBO",
+          "actor_type": "US-Executive",
+          "text": "CBO：FY2026赤字$2.0T，增$217B（+12%）",
+          "details": "CBO：FY2026赤字$2.0T，增$217B（12%）；FY2027首月赤字$409B。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS：预期Fed本月重启储备管理购买，初始$10B/mo",
+          "details": "GS Funding：预期Fed本月重启储备管理购买，初始$10B/mo至少持续到2027Q1，之后升至$25B/mo，使准备金稳定在银行资产约11%，Fed更可能忽略债务上限带来的暂时宽松而非重启QT；2027年总净供给由$2.1T增至$2.2T，但T-bill净供给增约$200B至$1.1T，非Fed买家需吸收约$600B（2026年$480B），2-10Y拍卖规模预期2027年8月起扩大。债务上限预期2027Q1（最可能2月）约束，TGA下降$400B对SOFR约4bps下行压力，达成协议后重建TGA将逆转并可能引发类似2025年的波动；准备金处于需求曲线拐点附近，波动可能双向。2026年回购利率平均低于IORB，eSLR修正、赞助回购和SRF使用意愿降低了波动，市场已合理定价略紧的基线但路径更崎岖。",
+          "important": false
+        },
+        {
+          "actor": "参议院",
+          "actor_type": "US-Congress",
+          "text": "参院以超70票推进两党许可改革法案BAAJA",
+          "details": "参议院以超过70票推进两党许可改革法案BAAJA。",
+          "important": false
+        },
+        {
+          "actor": "JPMorgan",
+          "actor_type": "Analyst",
+          "text": "JPM：G-4 SLOOS显示Q3英美欧需求下降至多年高点",
+          "details": "JPM Global Eco：G-4 SLOOS：Q3净收紧标准的银行占比3.2%，与过去两年大致持平，但净12%的银行报告企业和家庭贷款需求下降，美国、欧元区、英国均为多年高点；英国信贷标准由一年前净宽松22%转为净收紧10%，部分需求下降反映转向替代融资。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TLT"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "CBO",
+        "Goldman Sachs",
+        "JPMorgan"
+      ],
+      "date": "2026-11-10",
+      "image_urls": []
+    },
+    {
+      "id": "anthropic-goldman-ai-news-nov10",
+      "topic": "AI公司新闻",
+      "topic_tag": "ai",
+      "title": "Anthropic招股文件价格出错撤回；GS收回多数AI编程工具",
+      "summary": "Anthropic IPO招股文件原约867M股、每股$70-80后撤回；同时发布Claude Fable 5.2和Mythos 5.2，Fable 5.2登顶SemiAnalysis GDPx榜。Goldman收回多数交易员和银行家的AI编程工具，仅限约12,000名工程师使用。",
+      "bullets": [
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic IPO招股文件价格出错后撤回：原约867M股、$70-80/股",
+          "details": "Anthropic IPO招股文件价格出错后撤回：原文件为约867M股、每股$70-$80。",
+          "important": true
+        },
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic发布Claude Fable 5.2和Mythos 5.2，Fable登顶GDPx榜",
+          "details": "Anthropic发布Claude Fable 5.2和Mythos 5.2；Fable 5.2登顶SemiAnalysis GDPx榜。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Corporate",
+          "text": "Goldman收回多数交易员和银行家的AI编程工具",
+          "details": "Goldman Sachs收回多数交易员和银行家的AI编程工具，仅限约12,000名工程师使用。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GS"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-11-10",
+      "image_urls": []
+    },
+    {
+      "id": "other-misc-nov10",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "中国陕西男子驾挖掘机撞毁政务中心大门",
+      "summary": "零星社会新闻。",
+      "bullets": [
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "中国陕西西咸新区男子驾挖掘机撞毁政务中心大门",
+          "details": "中国陕西西咸新区一男子驾挖掘机撞毁政务中心大门。",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "占位：本卡用于兜底零散信息",
+          "details": "本卡为兜底汇总，仅收纳未归入其他主题的零散新闻。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-11-10",
+      "image_urls": []
+    }
+  ]
+}
