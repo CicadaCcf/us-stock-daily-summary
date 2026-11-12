@@ -1,0 +1,268 @@
+{
+  "themes": [
+    {
+      "id": "ai-infoflow-1102-1108",
+      "theme": "AI",
+      "title": "AI信息流总结 11/2-11/8",
+      "date_range": "11/2-11/8",
+      "date": "2026-11-11",
+      "tickers": [
+        "MSFT",
+        "GOOGL",
+        "META",
+        "AMZN",
+        "NVDA"
+      ],
+      "summary": "ANT IPO估值从$1.5T降至$1.1-1.3T但时间规模不变；OAI融资仅完成$11B远低于$30B目标，被ANT抢份额后通过放宽订阅反击；即期算力仍紧张但融资成本高企，2028年后DC新建因州政府易手存在风险。",
+      "groups": [
+        {
+          "label": "ARR",
+          "entries": [
+            {
+              "source": "官方",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "ANT S1/A 给了新增 Q3 数据，10 月 ARR 仍然空缺，OAI 无新增",
+                "Q3 Rev $16.9B, 与 IR 披露基本一致"
+              ]
+            },
+            {
+              "source": "第三方",
+              "source_type": "",
+              "important": true,
+              "points": [
+                "WSJ：10 月 ARR超过 $80B",
+                "WSJ的10月ARR beat市场预期$74-75B, 但市场对数据反应较为平淡，一部分参与者质疑数据可信度，一部分担忧存量竞争，对未来中期ARR增长无信心",
+                "Ramp AI: Q4 至今企业在 ANT 上的支出环比 +15-25%,OAI基本无增长",
+                "其他口径无边际数据更新"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "需求",
+          "entries": [
+            {
+              "source": "SemiAnalysis、BofA",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "1 年期 H100 合约价自 3 月 +21%；B200、H100 租金年初至今 +47%、+31%"
+              ]
+            },
+            {
+              "source": "FundaAI",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "S-1 披露 ANT 本季和供应商重谈了租赁价格（TPU租金下调）"
+              ]
+            },
+            {
+              "source": "Jamin Ball",
+              "source_type": "Altimeter 合伙人，Latent Space 播客",
+              "important": false,
+              "points": [
+                "持仓ANT所以对ANT仍然乐观，但是债市偏空。GPU 债\"无人出价\"，数据中心债利率超过 10%。信贷方穿透看付款人只有 OAI、ANT"
+              ]
+            },
+            {
+              "source": "All in",
+              "source_type": "",
+              "important": true,
+              "points": [
+                "利好手里有算力和电力的hyperscaler, 不利于neocloud",
+                "SPCX可能会在ANT合同到期时溢价重新和ANT签合同，因为目前算力持续涨价",
+                "个人认为可能性比较小，因为SPCX 1.1GW的算力，拿出来没有其他买家能一次吃下",
+                "2027 Capex见顶：基准情形是现有项目2027年完工，2028年新项目管道关闭或大幅缩小。因为目前反对数据中心能拉选票，大家没有动力批新项目",
+                "DC建设外溢：州卡建设，算力会外迁到加拿大、墨西哥、马来西亚、新加坡（战后还有中东），美国变成 token 净进口国"
+              ]
+            },
+            {
+              "source": "FundaAI",
+              "source_type": "周会、企业 CIO 调研",
+              "important": false,
+              "points": [
+                "约一半受访企业已用或计划用路由工具；步骤级路由渗透到 20-30%，前沿 API 收入少 5-8 个点",
+                "六期 CIO 调研都没看到 AI 采用有特别进展"
+              ]
+            },
+            {
+              "source": "Menlo Ventures",
+              "source_type": "2026 企业 AI 报告",
+              "important": false,
+              "points": [
+                "企业AI部署支出$177B，yoy 436%。ANT在企业API份额中从40%涨到55%。OAI 31%，开源仅19%"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "供给",
+          "entries": [
+            {
+              "source": "RSI",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "方向上支持实验室能力加速，但无法独立验证；headline 影响，无三要素变化",
+                "2025 年 10 月以来，研发提速约 2 倍"
+              ]
+            },
+            {
+              "source": "MS",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "BL 财报显示财务领域 agent 落地比多头想的慢"
+              ]
+            },
+            {
+              "source": "ANT芯片团队",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "ANT 15 人芯片团队用 Claude 做定制芯片设计，向 IPO 投资人展示；目标 2027–28 年用 AI 省掉 70-80% 半导体工程师人力"
+              ]
+            },
+            {
+              "source": "OAI",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "OAI发布网安模型GPT-6 Cyber，仅对选定客户开放，影响不大"
+              ]
+            },
+            {
+              "source": "FundaAI",
+              "source_type": "周会、客户调研",
+              "important": false,
+              "points": [
+                "安全相关模型收入可能从 $5-7B 涨到 $50-70B；明年安全预算可能多增 5 个点，其中 token 占比 3-5% 至少翻倍，约八成经 CSP 和安全厂商采购"
+              ]
+            },
+            {
+              "source": "ANT、Physical Superintelligence、Bloomberg",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "ANT 生物团队用 Claude 解析首个细菌 vault 颗粒 3D 结构",
+                "Physical Superintelligence 称用一个未公开的 ANT 模型证明 Aaronson-Ambainis 猜想（量子计算 2008 年以来的开放问题），Lean 验证",
+                "Isomorphic Labs 在谈约 $5B 融资"
+              ]
+            },
+            {
+              "source": "FundaAI",
+              "source_type": "Deep LLM 26Q4",
+              "important": false,
+              "points": [
+                "次旗舰标价趋同于每百万 token $4 / $20；Ramp 样本里 LLM 有效单价比 3 月高点低约 40%"
+              ]
+            },
+            {
+              "source": "Tibo Sottiaux",
+              "source_type": "OAI Codex 负责人，X",
+              "important": true,
+              "points": [
+                "Pro $100 / $200 / $500 分别是 Plus 的 10 / 20 / 50 倍用量，都没有 5 小时限制；正在问要不要出 Pro $50",
+                "OAI最近被ANT抢用户后，通过降价/放宽订阅用量吸引用户"
+              ]
+            }
+          ]
+        },
+        {
+          "label": "融资与估值",
+          "entries": [
+            {
+              "source": "WSJ",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "三家准备认购的大投资人认为 $1.5T 要降，一家称可能接近 $1T"
+              ]
+            },
+            {
+              "source": "Bloomberg",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "认购方看到的估值低到 $1.1T，另有投资人讨论 $1.2-1.3T"
+              ]
+            },
+            {
+              "source": "FT",
+              "source_type": "",
+              "important": true,
+              "points": [
+                "公司仍以约 $1.5T 为目标、感恩节前上市，安排英国散户发售；想一次融够、\"以后不必再卖股权\"，\"不在乎估值最大化\""
+              ]
+            },
+            {
+              "source": "Andrew Curran",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "估值已从一个月前传的 $2T 大致砍半，媒体宣传 11/9 开始"
+              ]
+            },
+            {
+              "source": "Bloomberg、Reuters、NYT",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "完成 $11B 融资，估值 $1.25T（原计划 $30B → $20B）；软银在谈再投数亿美元"
+              ]
+            },
+            {
+              "source": "Sarah Friar",
+              "source_type": "OAI CFO，CNBC",
+              "important": false,
+              "points": [
+                "Friar：选后照样投数据中心，\"资本永远会给最强的故事\""
+              ]
+            }
+          ]
+        },
+        {
+          "label": "监管",
+          "entries": [
+            {
+              "source": "Hinojosa",
+              "source_type": "德州新州长，CNN",
+              "important": false,
+              "points": [
+                "\"不是我讨厌数据中心，我讨厌的是它们占德州便宜\"；首场记者会没谈数据中心",
+                "口风比竞选软，但还没有正式政策。影响建设节奏"
+              ]
+            },
+            {
+              "source": "MS",
+              "source_type": "",
+              "important": true,
+              "points": [
+                "德州、俄亥俄州长易手后，2028 / 2029 / 2030 年各有 4.9 / 3.8 / 3.7GW 有风险，合计约 12GW，占 2028、2029 年累计容量 4%、7%；2027 年在建不受影响"
+              ]
+            },
+            {
+              "source": "SemiAnalysis",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "2027 年约 50GW 待上线容量里最多 2-3GW 有风险"
+              ]
+            },
+            {
+              "source": "Bernstein",
+              "source_type": "",
+              "important": false,
+              "points": [
+                "全国容量现实损失 2-4%（最坏 9%），历史上限制措施只有约 30% 能持续"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "topics": [
+    {
+      "id": "fed-hawkish-pivot-nov2026",
+      "topic": "Fed官员表态",
+      "topic_tag": "fed",
+      "title": "Fed官员集体转鹰，Logan称至少再加息两次",
+      "summary": "Logan明确表态至少还需加息2次25bp、冬季可能加快节奏；Bowman偏鸽关注AI估值风险；Goolsbee称10月CPI近乎令人不安；Hassett、Paulson均偏向继续收紧。整体FOMC反应函数正从谨慎转向果断行动。",
+      "bullets": [
+        {
+          "actor": "Logan",
+          "actor_type": "Central-Bank",
+          "text": "至少还需加息2次25bp，冬季或加快节奏",
+          "details": "Logan称至少还需加息2次25bp，今冬或可以加快节奏，加完两次后暂停评估，并称现行利率较有一定限制性水平至少低50bp。",
+          "important": true
+        },
+        {
+          "actor": "Bowman",
+          "actor_type": "Central-Bank",
+          "text": "Bowman关注AI融资债务>800B及估值修正风险",
+          "details": "Bowman称AI融资债务超800B，能源冲击倾向看穿但警惕向核心价格和预期扩散；风险含AI估值大幅修正。支持维持并评估，进一步收紧的收益须与成本权衡，称加息收益需对照对利率敏感行业的成本。",
+          "important": false
+        },
+        {
+          "actor": "Goolsbee",
+          "actor_type": "Central-Bank",
+          "text": "Goolsbee称10月CPI近乎令人不安",
+          "details": "Goolsbee称10月CPI\"近乎令人不安\"，通胀正在朝错误方向移动；被问及更大幅度加息时，他拒绝在会议前限制联储选项。",
+          "important": false
+        },
+        {
+          "actor": "Hassett",
+          "actor_type": "US-Executive",
+          "text": "Hassett：若10月通胀真的高Fed将适当行动",
+          "details": "Hassett称若10月通胀\"really high\"，Fed会\"appropriately act\"。",
+          "important": false
+        },
+        {
+          "actor": "Paulson",
+          "actor_type": "Central-Bank",
+          "text": "Paulson支持继续渐进加息",
+          "details": "Paulson支持继续渐进加息，称若通胀预期、工资或基础通胀走强将加快步伐，眼下我没有看到这种情况。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-11-11",
+      "image_urls": []
+    },
+    {
+      "id": "us-iran-pressure-nov2026",
+      "topic": "美伊危机",
+      "topic_tag": "geo",
+      "title": "Trump选择持续经济施压与海上封锁伊朗",
+      "summary": "Rubio披露Trump已选择持续经济施压与海上封锁伊朗，而非大规模打击或妥协。Bessent因伊朗威胁已迁往军事基地。国会候任参议院拨款委员会主席Murray考虑利用12月资金期限约束对伊作战。",
+      "bullets": [
+        {
+          "actor": "Rubio",
+          "actor_type": "US-Executive",
+          "text": "Trump选择经济施压+海上封锁，非军事打击",
+          "details": "Rubio称Trump已选择持续经济施压与海上封锁，而非恢复大规模打击或按伊朗现有条件达成协议。",
+          "important": true
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "Bessent因伊朗威胁迁往军事基地",
+          "details": "Bessent因伊朗威胁迁往军事基地。",
+          "important": false
+        },
+        {
+          "actor": "Patty Murray",
+          "actor_type": "US-Congress",
+          "text": "民主党或借12月资金期限限制对伊作战",
+          "details": "候任参议院拨款委员会主席Patty Murray希望将短期拨款延期至1月，使民主党掌握全年支出谈判主导权；她称民主党正考虑利用12月资金期限来结束对伊战争。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-11",
+      "image_urls": []
+    },
+    {
+      "id": "congress-hegseth-cr-nov2026",
+      "topic": "美国国会",
+      "topic_tag": "policy",
+      "title": "众议院搁置Hegseth弹劾决议，CR走向关键",
+      "summary": "众议院以211–204将Hegseth弹劾决议移交司法委员会阻止立即表决。Jefferies预计跛脚鸭会期将通过CR延至2027Q1和NDAA，许可改革推迟至2027年3月，和解3.0大概率放弃。",
+      "bullets": [
+        {
+          "actor": "众议院",
+          "actor_type": "US-Congress",
+          "text": "众议院211–204将Hegseth弹劾决议移交司法委员会",
+          "details": "众议院以211–204票将Hegseth弹劾决议移交司法委员会，从而阻止对指控立即表决。",
+          "important": false
+        },
+        {
+          "actor": "Jefferies",
+          "actor_type": "Analyst",
+          "text": "跛脚鸭会期基准CR延至2027Q1+NDAA",
+          "details": "Jefferies跛脚鸭会期基准是通过CR（拨款延至2027Q1）和NDAA，许可改革推迟至2027年3月地面交通再授权，和解3.0大概率放弃：至年底仅剩22个参议院工作日，2027财年拨款无一通过，民主党1/3掌控前不太可能同意全年拨款；民主党或借期限争取限制对伊朗作战资金，CR失败将于12/12关门，但历史上市场影响短暂。",
+          "important": true
+        },
+        {
+          "actor": "Jefferies",
+          "actor_type": "Analyst",
+          "text": "三项芯片法案纳入参议院NDAA是半导体头条风险",
+          "details": "三项芯片法案（AI OVERWATCH、芯片安全、MATCH）纳入参议院NDAA，若保留将是半导体的头条风险；和解3.0因议长Johnson仅能失2票而难过。上行情形是许可和和解通过，利好能源基建并消除2027年财政对峙。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-11",
+      "image_urls": []
+    },
+    {
+      "id": "china-tax-ymtc-nov2026",
+      "topic": "中国",
+      "topic_tag": "macro-other",
+      "title": "中国离岸信托个税申报超￥160B，长江存储拟27Q1 IPO",
+      "summary": "中国国家税务局披露离岸信托相关个税申报超￥160B；长江存储目标最早27年Q1在上海科创板IPO，原计划筹资￥33B（$4.9bn），反驳上周上市搁置报道。",
+      "bullets": [
+        {
+          "actor": "中国国家税务局",
+          "actor_type": "Foreign-Gov",
+          "text": "离岸信托个税申报超￥160B",
+          "details": "中国国家税务局透露，自7月发布对离岸信托相关个人所得税征缴公告后，获申报的个人所得税超￥160B，绝大多数纳税人积极配合。",
+          "important": false
+        },
+        {
+          "actor": "长江存储",
+          "actor_type": "Corporate",
+          "text": "长江存储目标27Q1科创板IPO，筹资￥33B",
+          "details": "中国存储厂商长江存储目标最早于27年Q1在上海科创板IPO，以反驳上周关于上市搁置的报道。此前计划筹资￥33B（$4.9bn）。",
+          "important": true
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-11-11",
+      "image_urls": []
+    },
+    {
+      "id": "russia-ukraine-abudhabi-nov2026",
+      "topic": "俄乌谈判",
+      "topic_tag": "geo",
+      "title": "俄乌美官员阿布扎比第二天和平谈判",
+      "summary": "俄、乌、美官员周三在阿布扎比开始第二天和平谈判；基辅与华盛顿周一曾称会谈具建设性，但尚未出现突破迹象。",
+      "bullets": [
+        {
+          "actor": "俄乌美官员",
+          "actor_type": "Foreign-Gov",
+          "text": "阿布扎比和平谈判进入第二天，无突破",
+          "details": "俄、乌、美官员周三在阿布扎比开始第二天和平谈判；基辅与华盛顿周一曾称会谈具建设性，但尚未出现突破迹象。",
+          "important": true
+        },
+        {
+          "actor": "基辅与华盛顿",
+          "actor_type": "Foreign-Gov",
+          "text": "周一称会谈具建设性",
+          "details": "基辅与华盛顿周一曾称会谈具建设性，但尚未出现突破迹象。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-11-11",
+      "image_urls": []
+    },
+    {
+      "id": "ai-capex-funding-nov2026",
+      "topic": "AI融资与巨头",
+      "topic_tag": "ai",
+      "title": "Anthropic/OpenAI/CoreWeave收入激增，Anthropic估值或超$1.5tn",
+      "summary": "Anthropic前9月收入$33.2B（去年$2.5B），10月底ARR$81B，IPO定价或上调至$1.5tn+。OpenAI Q3营收约$10bn环比增50%但重亏。CoreWeave Q3营收$3.66B超预期盘后涨13%。GS测算六大超大规模厂商2026 capex $890B。",
+      "bullets": [
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic前9月$33.2B，IPO估值或超$1.5tn",
+          "details": "Anthropic收入：前9mo $33.2B（去年同期$2.5B），10月底ARR $81B。Anthropic IPO定价有望上调，估值或达$1.5tn以上。",
+          "important": true
+        },
+        {
+          "actor": "OpenAI",
+          "actor_type": "Corporate",
+          "text": "OpenAI Q3营收约$10bn环比增50%仍重亏",
+          "details": "WSJ称，OpenAI营收从二季度到三季度约增长50%至$10bn，但仍报告沉重经营亏损。",
+          "important": false
+        },
+        {
+          "actor": "CoreWeave",
+          "actor_type": "Corporate",
+          "text": "CoreWeave Q3 $3.66B超预期，盘后涨13%",
+          "details": "CoreWeave Q3营收$3.66B超预期，上调全年指引，盘后涨13%。",
+          "important": false
+        },
+        {
+          "actor": "GS Sheridan",
+          "actor_type": "Analyst",
+          "text": "GS：六大超大规模厂商26年capex $890B，27年$1.4T",
+          "details": "GS AI Capex：AI投资尚未放缓，但股债压力、循环融资和选后监管不确定性引发对持久性的质疑，关键在终端客户能否获得回报，目前尚未显现；GS预计六大超大规模厂商2026年capex $890B，共识2027年$1.4T。Sheridan认为当前是计算周期正常的\"幻灭低谷\"，三大云积压合计$1.8T（yoy约+140%），不计积压转换，2028-2030年累计收入约$1.42T即可实现15%以上ROIC；转为持久收缩需需求失望、融资中断或电力短缺之一。",
+          "important": false
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "超大规模FCF转负YTD发债$296B，Neocloud需70-75%利用率",
+          "details": "信用端市场饱和是最关键约束：超大规模厂商FCF转负，YTD发债$296B、超过全年预测$250B，租赁承诺$1.7T中75%尚未开始，另有购买承诺$1.9T（$685B于2027年底前到期），穆迪、标普趋于谨慎，2028年货币化证据是关键。Neocloud需约70-75%利用率才能盈利，HY将分化、质量上移；CoreWeave无担保债收益率达16%，但CDS上升部分反映基础设施对冲，未来5y再融资概率低。",
+          "important": false
+        },
+        {
+          "actor": "GS Hammond",
+          "actor_type": "Analyst",
+          "text": "超大规模需$350B年收入覆盖capex，应用层需$1T",
+          "details": "Hammond估算超大规模厂商需年收入约$350B覆盖2026-2027年capex，应用层需超$1T，可由全球企业软件支出约$1.5T转向；Q3约一半SPX公司讨论AI用例，仅4%量化了盈利影响。访谈者一致建议定位安全、上移信用质量，超大规模厂商相对稳健。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "CRWV",
+        "MSFT",
+        "GOOGL",
+        "META",
+        "AMZN"
+      ],
+      "image_indexes": [
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-11-11",
+      "image_urls": [
+        "/uploads/2026-11-11/89068cb6e871.jpg"
+      ]
+    },
+    {
+      "id": "nvidia-huang-scandal-nov2026",
+      "topic": "Nvidia黄仁勋调查",
+      "topic_tag": "ai",
+      "title": "Nvidia聘Wachtell调查黄仁勋，预测市场2028前离任概率44%",
+      "summary": "Nvidia聘Wachtell Lipton调查黄仁勋；预测市场给出2028年前离任概率44%。Politico称黄仁勋与疑似中国间谍婚外情曝光提高国会把芯片出口限制纳入NDAA立法可能性。FT披露BIS数十份转运警示未处理，Megaspeed实体清单被推迟。",
+      "bullets": [
+        {
+          "actor": "Nvidia",
+          "actor_type": "Corporate",
+          "text": "Nvidia聘Wachtell调查黄仁勋，2028前离任概率44%",
+          "details": "Nvidia聘Wachtell Lipton调查黄仁勋；预测市场给出2028年前离任概率44%。",
+          "important": true
+        },
+        {
+          "actor": "Politico",
+          "actor_type": "新闻",
+          "text": "黄仁勋间谍婚外情提高NDAA芯片出口限制可能性",
+          "details": "Politico援引接近辩论的议员、国会助手和游说人士称，黄仁勋与一名据称是中国间谍发生婚外情的曝光，显著提高了国会将芯片出口限制作为必须通过的《国防授权法》一部分、于今年立法的可能性。",
+          "important": false
+        },
+        {
+          "actor": "FT",
+          "actor_type": "新闻",
+          "text": "商务部推迟Megaspeed实体清单，BIS数十份转运警示未处理",
+          "details": "FT：商务部推迟Megaspeed列入实体清单；BIS职员\"dozens\"份报告警示芯片转运未获处理。",
+          "important": false
+        },
+        {
+          "actor": "财新",
+          "actor_type": "新闻",
+          "text": "黄乐曾任上海和熙投资大股东，创始人康伟受刑事调查",
+          "details": "财新称黄乐曾任上海和熙投资大股东和高管，创始人康伟被罚且受刑事调查。",
+          "important": false
+        },
+        {
+          "actor": "Brandon Carl",
+          "actor_type": "KOL",
+          "text": "KOL：事件冲击整个AI生态，难以替代",
+          "details": "Brandon Carl称市场尚未完全反映Nvidia消息，这是整个生态的冲击，不只是Nvidia事件，黄仁勋同时扮演利率设定者、放贷者（含应收）、供应链组织者和新实验室/新云孵化者，难以替代。接下来可能发生：1.公司对所有通信启动Legal Hold；2.记者挖掘还原事件；3.国会议员呼吁听证或立法；4.融资方重审在途信用担保等合约安排；5.供应链预演更严出口管制或其他中断。",
+          "important": false
+        },
+        {
+          "actor": "Z (Bishop转)",
+          "actor_type": "KOL",
+          "text": "Z：调查结束+黄留任NVDA或涨10%，科技股见底",
+          "details": "Z（Bishop转发）：一旦Nvidia正式声明调查结束、黄仁勋留任，NVDA会涨10%，Nasdaq和科技股同时见底。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Politico",
+        "FT",
+        "财新"
+      ],
+      "date": "2026-11-11",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-fed-call-nov2026",
+      "topic": "卖方Fed路径",
+      "topic_tag": "fed",
+      "title": "GS/Nomura新增2027年3月第三次加息，终端4.25-4.5%",
+      "summary": "GS维持12月加息25bps基础上新增2027年3月第三次加息，峰值升至4.25%-4.5%，首次降息由27年9月推迟至12月。Nomura同步上调预期至终端4.25-4.50%，10月核心PCE预测由0.209%升至0.343%。BofA指出核心PCE已连续67个月高于目标。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS新增2027年3月第三次加息，峰值4.25-4.5%",
+          "details": "GS维持12月加息25bps，但新增2027年3月第三次加息，峰值升至4.25%-4.5%：10月核心CPI mom 0.30%高于预期、连续第三个月走强，约5bps来自政府停摆残余季节性，但多数分项超预期，估计核心PCE mom 0.35%。Waller曾称核心CPI达0.3%以上应考虑12月加50bps，GS认为多数投票委员不愿一次加50bps。",
+          "important": true
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS：第三次加息3月概率略高于1月，首次降息推至27年12月",
+          "details": "第三次加息3月概率略高于1月：预计11、12月核心PCE回落至high teens，但年初\"一月效应\"或令1月通胀回升，点阵图只需再有2位参与者上调即显示第三次加息。油价自选举以来大跌、能源对CPI传导基本完成，仍预计2027年底通胀明显回落；降息终点3.25%-3.5%不变，首次降息由2027年9月推迟至12月，2028年3月、6月、9月续降。",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "Nomura改为12月+27年3月各加25bps，终端4.25-4.50%",
+          "details": "Nomura改为预期Fed 12月和2027年3月各加25bps（此前认为12月为最后一次），终端区间4.25%-4.50%，12月点阵图2027年中位数将上调：10月核心PCE mom预测由CPI前0.209%升至0.343%（9月0.317%、8月0.262%），yoy 3.3%、3mo年化3.75%，超级核心PCE连续三个月mom 0.4%，核心商品加速。",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "Nomura：官员转鹰，Daly/Cook/Waller/Logan均偏紧",
+          "details": "官员表态转鹰：Daly称\"更可能需要额外调整\"，Cook在10月会议鹰派反对，Waller考虑12月加50bps，Logan考虑12月和1月连续加息，Williams未重申12月加息。股市抛售收紧金融条件、住房走软支持按季度加息而非连续加息，但风险偏上行，通胀再超预期则1月加息成真；资产负债表中期月均增约$20B，MBS继续缩减、再投资偏向T-bill。",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "BofA：核心PCE连续67个月高于目标，必须压回2%以下",
+          "details": "自2020年12月以来核心PCE从未出现连续3mo年化低于2%，已连续67个月高于目标；BofA认为超调的规模和持续时间都重要，若只超标一两年Fed或可接受2-2.5%换取就业稳定，但近六年超调意味着必须把通胀压回2.0%或更低以免失去公信力，赞同Goolsbee称Fed应正视目标未达成。Q3 GDP追踪因9月批发库存上调0.1pp至环比年化3.9%（官方预测3.4%）；CPI前BofA预测10月核心CPI mom 0.2%（共识0.2%，前值0.3%）。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "GS",
+        "Nomura",
+        "BofA"
+      ],
+      "date": "2026-11-11",
+      "image_urls": []
+    },
+    {
+      "id": "rates-ust-nov2026",
+      "topic": "美债与利率",
+      "topic_tag": "rates",
+      "title": "2Y单日升18bps至4.73%，CPI推动曲线走平",
+      "summary": "JPM：CPI超预期+鹰派讲话推动2Y单日升18bps至4.73%、2025年4月来最大，曲线走平10bps，OIS远期至27年中累计加息75bps。HSBC平仓1月-6月FOMC OIS陡峭化获利9bps。DB指AI情绪成2s10s最显著驱动因素。",
+      "bullets": [
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "2Y单日升18bps至4.73%，为25年4月来最大",
+          "details": "JPM UST Daily：CPI超预期和鹰派讲话推动2Y单日升18bps至4.73%、为2025年4月以来最大，曲线走平10bps，10Y 4.99%、30Y 5.35%；OIS远期定价至2027年中累计加息75bps，本周新增30bps，JPM认为前端已基本反映Fed表态和增长预期，不再强烈看空。若Logan\"至少两次、冬季可能更快\"的基调扩散至整个FOMC，反应函数转向以抑通胀为中心，可能出现类似2022年中的熊平。",
+          "important": true
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "住房3mo年化3.90%，核心商品mom 0.45%为后疫情第二大",
+          "details": "CPI显示粘性增强：住房3mo年化3.90%（年初1.75%），集中于OER；核心商品除新旧车mom 0.45%为后疫情第二大，6mo年化超3%的成分占39%。维持低beta 5s/10s盈亏平衡曲线平坦化多头；$25B 30Y拍卖自10月以来收益率已降25bps、估值平淡，或需更多让步，预计宣布$16B 20Y和$19B 10Y TIPS规模不变，20Y滚期公允+0.125bp。技术面2Y升至4.76%（9月61.8%回撤位），下一支撑4.85%、9月高点4.96%。",
+          "important": false
+        },
+        {
+          "actor": "HSBC",
+          "actor_type": "Analyst",
+          "text": "HSBC平仓1月-6月OIS陡峭化获利9bps",
+          "details": "HSBC US Rates：平仓2027年1月-6月FOMC OIS曲线趋平（付1月、收6月）：9/24以37bps入场，11/10以28bps出场，获利9bps（原目标10bps、止损50bps）。10月核心CPI高于预期且涨价覆盖各类商品和服务，多位官员愿意多次加息，Logan和Hammack主张渐进调整，渐进路径将使2027H1加息定价维持，前端风险偏上行，下一轮通胀和就业数据前利差难再收窄。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "DB：AI情绪成2s10s最显著驱动因素",
+          "details": "DB UST Curve：回归显示2s10s驱动因素已切换：伊朗战争开始至Warsh首次FOMC，油价、Fed预期和数据意外均显著压平曲线；6-9月油价不再显著；9月FOMC以来油价仍不显著、数据影响减弱，Fed预期影响更强，AI情绪成为最显著因素，AI情绪上升通过推高长期发行预期与期限溢价、改善生产率前景使曲线变陡。DB推荐的2s10s陡峭化近几周受挑战，若Fed更鹰、AI情绪继续走弱，逆风将加大，但未撤销该推荐。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "JPM",
+        "HSBC",
+        "DB"
+      ],
+      "date": "2026-11-11",
+      "image_urls": []
+    },
+    {
+      "id": "db-metals-copper-gold-nov2026",
+      "topic": "DB金属",
+      "topic_tag": "macro-other",
+      "title": "DB：铜挤压+黄金中期看多，27Q1催化剂密集",
+      "summary": "DB称铜处于\"铜挤压\"，SHFE深度backward、中国阴极铜升水约$230/t；维持Gold中期看多，CTA突破$4175/oz即启动买入；27Q1催化剂含1/10釜山休战到期、精铜关税15%、301调查。",
+      "bullets": [
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "铜挤压：SHFE深度back，中国阴极铜升水$230/t",
+          "details": "铜处于\"铜挤压\"：尽管美国仓库大幅累库，LME曲线拒绝转为contango，SHFE曲线深度backwardation、交易所库存极低，中国阴极铜升水约$230/t，SHFE进口窗口仍关闭，由升水而非平价为稀缺定价。美国流入并非中国需求疲弱，而是不可见库存回流可见体系，电网投资高位、电气设备出口yoy超10%；市场已无法容纳常规需求增速，流动性危机可能带来越来越凸性的价格上行，但更高价格仍需需求稳定增长。",
+          "important": true
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "Gold中期看多，CTA突破$4175/oz启动买入",
+          "details": "维持Gold中期看多：近期跨资产抛售是需求仍强下对未来风险的担忧，结构性支撑来自对UST作为安全抵押品的信心和债务挑战；民主党控制参议院或约束特朗普的Fed任命、缓和Lisa Cook听证会（12/14）冲击，而拨款到期（12/11）、债务上限（2027年3月）和财政部融资空间（2027年秋）可能重燃兴趣。短期CTA只需突破$4175/oz（GCZ6）即启动下一轮买入。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "27Q1催化剂密集：釜山休战到期+精铜关税+301调查",
+          "details": "关键矿产是两党优先事项，232关税仍属总统权限，CTA洗仓压低了COMEX铜价差；2027Q1催化剂密集：1/10釜山休战到期、商务部建议精铜关税2027年15%、2028年30%，3月301产能过剩调查。白银2025年10月挤压显示库存降至临界低位时边际需求的价格冲击大幅放大，同样逻辑适用于当前铜市。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        4
+      ],
+      "importance": 2,
+      "sources": [
+        "DB"
+      ],
+      "date": "2026-11-11",
+      "image_urls": [
+        "/uploads/2026-11-11/0b0cf34f44f6.png"
+      ]
+    },
+    {
+      "id": "gs-china-equity-nov2026",
+      "topic": "GS中国股市",
+      "topic_tag": "macro-other",
+      "title": "GS：MSCI中国有10-15%重估空间，配置AI/出海+高股息",
+      "summary": "GS指中国增长与股市回报背离：2021年来EPS CAGR仅6%，较21年高点跌45%、跑输全球110pp，核心在WACC过低（4.6%）导致内卷。预计未来5y趋势EPS增速10%、ROE 12%，MSCI中国有10-15%重估空间。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "中国股票较21年高点跌45%、跑输全球110pp",
+          "details": "中国增长与股市回报背离：2021年以来EPS CAGR仅6%，ROE连降6y，指数EPS连续9y未达年初共识，净发行累计稀释EPS约15%，中国股票较2021年高点跌45%、跑输全球110pp；核心不在需求，而在资本成本过低（全中国WACC 4.6%），叠加补贴、监管、地产下行和技术通缩，企业转向扩产和份额，形成\"内卷\"。",
+          "important": true
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS：MSCI中国10-15%重估空间，配AI出海+高股息国企",
+          "details": "增长更窄更集中：盈利正增长公司占比由约60%降至40%，头尾四分位增速差扩大至90pp，结构性增长转向AI硬件与出海。预计未来5y趋势EPS增速10%、正常化ROE 12%，PE已由17x降至9.7x，MSCI中国有10-15%重估空间（DDM约8%）；配置聚焦AI/出海和高股息国企（2026E股息率约6%），低配地产链至2028/2029年房价企稳。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "FXI",
+        "MCHI",
+        "KWEB"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-11-11",
+      "image_urls": []
+    },
+    {
+      "id": "kol-cpi-fed-nov2026",
+      "topic": "KOL CPI/Fed观点",
+      "topic_tag": "fed",
+      "title": "KOL：CPI HOT HOT HOT，12月加息仅剩一次还是两次问题",
+      "summary": "Furman称CPI无避风港、12月只剩加一次还是两次。Timiraos指更大问题是两三次调整还是更长紧缩周期开始。Pies指supercore连3个月>0.4%，预计2Y重测高点。Swonk称Fed正从谨慎转向果断行动。Oliver称Bowman相对鸽派。",
+      "bullets": [
+        {
+          "actor": "Jason Furman",
+          "actor_type": "KOL",
+          "text": "Furman：CPI无避风港，12月只剩加一次或两次",
+          "details": "Jason Furman称CPI没有任何避风港，全线很热，截尾均值看来会比核心更差，上周就业强劲之后，12月FOMC只剩加一次还是两次的问题。",
+          "important": true
+        },
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "KOL",
+          "text": "Timiraos：更大问题是两三次还是更长紧缩周期开始",
+          "details": "Nick Timiraos称更大的问题是Fed是两三次的小幅调整，还是更长紧缩周期的开始，读数温和本可让12月成为最后一次；这份报告至少会让官员认为明年要做更多，而不是更少。",
+          "important": false
+        },
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "Pies：supercore连3个月>0.4%，预计2Y重测高点",
+          "details": "Warren Pies称supercore连续3个月>0.4%；按其框架，收益率只定价了再加一次加上鹰派暂停，12月坐实、1月和3月加息概率上升，预计2Y重测高点。CPI前曾猜Waller已知道数据会<0.3%，只是在喊话（后被证伪）。",
+          "important": false
+        },
+        {
+          "actor": "Diane Swonk",
+          "actor_type": "KOL",
+          "text": "Swonk：CPI HOT HOT HOT，Fed从谨慎转向果断",
+          "details": "Diane Swonk称CPI\"HOT HOT HOT\"，PCE分项会更热；工资相对通胀是1970年代以来最差。Fed正在考虑从谨慎转向果断行动，这是重大转变。",
+          "important": false
+        },
+        {
+          "actor": "Shane Oliver",
+          "actor_type": "KOL",
+          "text": "Oliver：Fed按+25bp，Waller的50bp意在压降息预期",
+          "details": "Shane Oliver称更高能源成本正渗入核心；Fed仍按+25bp走，Waller的+50bp概率低，Waller的50bp意在压掉市场对明年降息的想象，最终应是25；Bowman相对鸽派。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-11",
+      "image_urls": []
+    },
+    {
+      "id": "kol-equity-market-nov2026",
+      "topic": "KOL美股市场",
+      "topic_tag": "earnings",
+      "title": "KOL：死猫跳、市场结构脆弱、小盘流动性枯竭",
+      "summary": "Timmer类比2018/2015金融条件收紧，上周五反弹像死猫跳，AI篮子473跌到310像ABC三浪。Derivatives Don警告真正风险是市场结构脆弱。Trade_the_Matrix称小盘流动性枯竭由宏观周期造成，2022与2026相似。MS建议中期选举过度反应、buy the drop。Herman Jin评Anthropic IPO投行策略。",
+      "bullets": [
+        {
+          "actor": "Jurrien Timmer",
+          "actor_type": "KOL",
+          "text": "Timmer：上周五反弹像死猫跳，AI篮子ABC三浪",
+          "details": "Jurrien Timmer称类似2018、2015年，盈利增长让位于金融条件收紧，这种模式还会持续；上周五反弹像死猫跳；除非Anthropic IPO成功、或投资者认定巨头在缩减的capex周期里胜出而重估Mag 7，否则没有快速转向；技术面乐观解读：AI篮子由473跌到310像ABC三浪修正；全球动能弱、接近中度超卖。",
+          "important": true
+        },
+        {
+          "actor": "Derivatives Don",
+          "actor_type": "KOL",
+          "text": "Don：真正的风险是市场结构脆弱",
+          "details": "Derivatives Don称真正的风险是市场结构脆弱，宏观只是煤油；单股波动已透支，指数可能开始补跌；持有SPX也躲不开AI集中风险。",
+          "important": false
+        },
+        {
+          "actor": "Trade_the_Matrix",
+          "actor_type": "KOL",
+          "text": "小盘流动性枯竭由宏观周期造成，2022与2026相似",
+          "details": "Trade_the_Matrix称小盘流动性枯竭是宏观周期造成的，地缘升级和通胀上行先抽走大盘流动性，再外溢到小盘；2022和2026相似。",
+          "important": false
+        },
+        {
+          "actor": "MS (Quintanilla转)",
+          "actor_type": "Analyst",
+          "text": "MS：中选过度反应，仅20% 5GW项目或推迟，buy the drop",
+          "details": "MS（Quintanilla转）：市场对中期选举反应过度，仅约20%（5GW）美国项目可能由2028推迟到2029，建议\"buy the drop\"。",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "Jin：Anthropic IPO投行以$64B/$1T锚定，预计最终1.4T",
+          "details": "Herman Jin称GS/MS有意把发行规模说成$64B、估值说成$1T（用投前数），说明投行清楚这么大的IPO对流动性很脆弱，预计很快会放出1.4T超额认购的\"利好\"，最终大概率落在1.4T。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "QQQ",
+        "IWM"
+      ],
+      "image_indexes": [
+        0,
+        2,
+        3
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-11",
+      "image_urls": [
+        "/uploads/2026-11-11/0d1b6105c101.png",
+        "/uploads/2026-11-11/635bafb42f06.jpg",
+        "/uploads/2026-11-11/61a64c98c637.png"
+      ]
+    }
+  ]
+}
