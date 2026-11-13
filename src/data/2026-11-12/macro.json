@@ -1,0 +1,413 @@
+{
+  "topics": [
+    {
+      "id": "nvda-huang-ouster-nov25",
+      "topic": "Nvidia/黄仁勋董事会危机",
+      "topic_tag": "ai",
+      "title": "Nvidia董事会拟罢免黄仁勋 婚外情+对华业务双重调查",
+      "summary": "WSJ 等报道 Nvidia 董事会最早当日开会讨论罢免黄仁勋，倾向由 CFO Kress 任临时 CEO 并已聘外部机构物色接班人；触发点为与直属 VP 及中国商人介绍的黄乐的婚外情，以及多年来对其对华业务和游说放松出口管制的审视。KOL 普遍认为黄仁勋对 NVDA 不可替代、创始人溢价消失将压缩估值倍数，但也存在估值已低、短期见底的声音。叠加共和党矛头指向 Lutnick、芯片出口限制可能写入 NDAA。",
+      "bullets": [
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ：Nvidia董事会准备罢免黄仁勋 最早当日开会",
+          "details": "WSJ：Nvidia 董事会准备罢免黄仁勋，最早当日开会；NYT 曝其与直属 VP 另有婚外情。Semafor 称董事会倾向 CFO Kress 任临时 CEO；Bloomberg 称已聘外部机构物色新 CEO。",
+          "important": true
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "特朗普政府多年审视黄仁勋对华业务与游说",
+          "details": "WSJ：特朗普政府官员多年审视黄仁勋的对华业务，担忧涉及其中国业务和对放松出口管制的游说，在婚外情曝光前送到白宫但被基本忽视。"
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "中国商人康伟将黄乐介绍给黄仁勋",
+          "details": "WSJ：中国商人康伟把黄乐介绍给黄仁勋，康伟似乎接受妻子与黄仁勋的关系。"
+        },
+        {
+          "actor": "Axios",
+          "actor_type": "新闻",
+          "text": "Lutnick 阻挠追查 Megaspeed 被 Bessent 当面质问",
+          "details": "Axios 等：Lutnick 一再阻挠追查 Megaspeed，过去一年在\"undoing\"对 Megaspeed 的追责，理由是担心贸易战升级，Bessent 在战情室当面质问。"
+        },
+        {
+          "actor": "Greer",
+          "actor_type": "US-Executive",
+          "text": "Greer：希望芯片\"皇冠明珠\"留美 对NVDA仍担忧",
+          "details": "US Core Greer：希望\"皇冠明珠\"芯片留在美国及盟友手中，对 NVDA 我们仍感担忧。"
+        },
+        {
+          "actor": "共和党国会",
+          "actor_type": "US-Congress",
+          "text": "共和党矛头指向Lutnick 芯片出口限制或写入NDAA",
+          "details": "Congress：共和党人矛头指向 Lutnick；芯片出口限制写入 NDAA 的可能性上升。"
+        },
+        {
+          "actor": "Eric Wallerstein",
+          "actor_type": "KOL",
+          "text": "Wallerstein：黄仁勋大概率出局 AI交易\"put\"存疑",
+          "details": "Eric Wallerstein：黄仁勋大概率出局，Nvidia 对 AI 交易的\"put\"随之存疑，他已与 MSS 特工和直接下属都有关系，接班安排悬而未决，黄仁勋用 Nvidia 资产负债表编织了循环融资网络，最终为 AI 交易兜底，撤掉这个 put，或只是让它不确定，投资者都会提高 AI 相关资产的风险溢价。"
+        },
+        {
+          "actor": "Mohamed El-Erian",
+          "actor_type": "KOL",
+          "text": "El-Erian：董事会调查挑战\"CEO挺过去\"假设 牵连广",
+          "details": "Mohamed A. El-Erian：董事会调查创始人 CEO，挑战了市场此前\"CEO 能挺过去\"的假设；CEO、公司、行业、时点都不寻常，牵连太广，难以只限于这一家公司。"
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "Herman Jin：黄不可替代但几乎必被逼走 越公司治理红线",
+          "details": "Herman Jin：黄仁勋对 NVDA 不可替代，但几乎肯定会被逼走，只有熬过多次濒死周期的创始人敢承担风险：押注激进路线图、锁定供应链承诺、投资新云、用资产负债表担保芯片残值、推动对华合作，职业经理人不敢，他越过了美国公司治理的红线：职场性关系加涉及利益冲突的婚外情。"
+        },
+        {
+          "actor": "Gavin Baker",
+          "actor_type": "KOL",
+          "text": "Gavin Baker：罢免前应让股东投票",
+          "details": "Gavin Baker：若调查结束前就要动黄仁勋，应让股东投票；或调查完成后再投票，众多大股东和合伙人打电话称董事会应等调查结果，他同意，但请他们去找能影响决定的人。"
+        },
+        {
+          "actor": "Dan Niles",
+          "actor_type": "KOL",
+          "text": "Niles：最快明早离任 类比乔布斯病休 2年内不明显跑输",
+          "details": "Dan Niles：黄仁勋可能最快明早离任，CFO 或任临时 CEO；NVDA 相对半导体指数最晚在下周财报后见底。公司 40K 员工、直接下属梯队深，产品线可撑约两年；类比乔布斯 2011年1月病休，AAPL 2011、2012 年仍涨 26%/26%，营收增 66%/45%，第三年增速降到 <10% 才明显跑输。"
+        },
+        {
+          "actor": "Nick G.",
+          "actor_type": "KOL",
+          "text": "nickgiva：NVDA估值已低到换\"Trump级\"CEO也难再压",
+          "details": "Nick G. (nickgiva)：NVDA 估值已低到换一个\"Trump 级别\"的人来管也很难再压低股价。"
+        },
+        {
+          "actor": "Alexander Stahel",
+          "actor_type": "KOL",
+          "text": "Stahel：中美AI竞赛像\"bromance\" 黄需解释合规",
+          "details": "Alexander Stahel：Trump 政府下的中美 AI 竞赛像\"bromance\"；若 Axios 关于 Lutnick 一年来\"undoing\"追责 Megaspeed 的报道属实，说明以事必躬亲著称的黄仁勋清楚自己在做什么，须解释这如何符合美国出口法。"
+        },
+        {
+          "actor": "政经鲁社长",
+          "actor_type": "KOL",
+          "text": "政经鲁社长：建议股东投票决定去留",
+          "details": "政经鲁社长：董事会左右为难，罢免则无合适接替者、损失太大，不罢免则丑闻接连、公众压力大；建议搞股东投票，让投资者决定去留。"
+        },
+        {
+          "actor": "Dr_Gingerballs",
+          "actor_type": "KOL",
+          "text": "Dr_Gingerballs：对NVDA依赖如同宗教崇拜",
+          "details": "@Dr_Gingerballs：如果 AI 是严肃生意，早该摆脱对 NVDA 的依赖；数以万亿计的资金押在上面，CUDA 锁定这么多年仍荒谬，只能解释为宗教崇拜。"
+        },
+        {
+          "actor": "调研纪要小组",
+          "actor_type": "KOL",
+          "text": "调研纪要：若黄离职 创始人溢价消失 国产算力受益",
+          "details": "调研纪要小组：黄仁勋若离职，英伟达创始人溢价消失、估值倍数压缩，国产算力迎来机会。"
+        }
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "NYT",
+        "Semafor",
+        "Bloomberg",
+        "Axios"
+      ],
+      "date": "2026-11-12",
+      "image_urls": []
+    },
+    {
+      "id": "fed-hike-pricing-nov25",
+      "topic": "Fed 12月加息定价",
+      "topic_tag": "fed",
+      "title": "沃勒鹰派讲话推升12月加50bps概率 PIMCO/Citi重定价",
+      "summary": "沃勒讲话使12月加 50bps \"坚定摆上桌面\"，PIMCO 基准改为12月和1月各加 25bps、3月有再加风险；Citi 仍预计12月加 25bps，若波动消退且数据强劲则 50bps 概率上升。鹰派叙事令 UST 2Y 单日飙升近 20bps。KOL Warren Pies、Bob Elliott 强调通胀与就业动能坐实 hiking cycle。",
+      "bullets": [
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "Citi：10月核心CPI mom 0.296%满足沃勒50bps条件",
+          "details": "Citi US Daily：沃勒隔夜称若10月核心CPI mom再涨 0.3%，12月可加息 50bps，随后公布的核心CPI mom 0.296%（Citi预期 0.19%）满足该条件；Citi仍预计12月加 25bps，因洛根只支持\"至少再加两次 25bps\"后暂停、未支持 50bps，近期市场动荡也令官员谨慎，但若未来几周波动消退且数据持续强劲，50bps 概率将上升。鹰派叙事回归令UST 2Y单日飙升近 20bps，扭转此前数周逐步排除加息的定价。",
+          "important": true
+        },
+        {
+          "actor": "PIMCO",
+          "actor_type": "Analyst",
+          "text": "PIMCO：12月和1月各加25bps 3月有再加风险",
+          "details": "PIMCO US Inflation：沃勒讲话使12月加 50bps \"坚定摆上桌面\"，PIMCO基准改为12月和1月各加 25bps、3月有再加风险，若威廉姆斯和杰斐逊强化沃勒信息则12月改为 50bps。本轮更像政策校准而非新加息周期：联邦基金利率 3.75%-4.0% 仅比泰勒规则低约 100bps（2022年初约 800bps），收紧的金融条件可部分替代加息，若股市涨、利差收窄、长端回落而通胀仍强则需加更多。"
+        },
+        {
+          "actor": "PIMCO",
+          "actor_type": "Analyst",
+          "text": "PIMCO：航运扰动机械性推高商品通胀 2027明显回落",
+          "details": "PIMCO：航运扰动和库存受限或令假日折扣减少，机械性推高季调商品通胀并在1-2月反向；约 70%-80% 的预期成本传导已发生，随油价回落、供给冲击消退、需求缓冲减弱（AI capex进口含量高、追溯性减税为一次性、股市停滞），预计2027年通胀明显回落。"
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "Citi：10月CPI广泛上涨 核心PCE初估mom 0.33%",
+          "details": "10月核心涨幅广泛，家庭用品、餐饮和城内交通大涨，或是能源和运输成本向更广泛价格传导的初步证据，也可能是去年10月数据缺失造成的季调异常。去年停摆致10月CPI无官方同比，11月发布的同比及10、11月核心PCE同比或被高估，要到2027年1月发布的12月数据才清晰；初估10月核心PCE mom 0.33%，待周五PPI后更新。"
+        },
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "Warren Pies：supercore连续3月>0.4% Fed或被迫再加2次",
+          "details": "Warren Pies：supercore CPI 连续三个月 >.4%，Fed 可能被迫至少再 hike 2 次；2Y 将升破 5%，\"the market is not priced for another 2+ hikes\"，Fed 是中期的真正风险。"
+        },
+        {
+          "actor": "Bob Elliott",
+          "actor_type": "KOL",
+          "text": "Bob Elliott：就业改善+通胀>4% 坐实hiking cycle",
+          "details": "Bob Elliott：\"Backed Into A Corner\"：就业动能改善、总体通胀 >4%，坐实了一轮实质性 hiking cycle，对高度依赖资产持续上涨的经济是风险。"
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "Citi",
+        "PIMCO"
+      ],
+      "date": "2026-11-12",
+      "image_urls": [
+        "/uploads/2026-11-12/521bf1e7b631.png",
+        "/uploads/2026-11-12/f5aff5fda33b.png"
+      ]
+    },
+    {
+      "id": "gs-global-inflation-nov25",
+      "topic": "GS 全球通胀/上游传导",
+      "topic_tag": "rates",
+      "title": "GS：上游价格全球扩散 美CPI玩具9-10月+7.3%",
+      "summary": "GS 指出全球生产者和进口价格加速扩散，制成品进口价格通胀超疫情水平，部分反映 AI 建设相关产品涨价；上游领先核心CPI约10个月，预测持续至明年上半年，风险偏上行，若兑现可能促使主要央行2027年初进一步温和紧缩。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS：全球上游价格加速扩散 美玩具游戏9-10月+7.3%",
+          "details": "GS Global Inflation：伊朗战争以来主要经济体核心通胀多低于预期，但美国9、10月CPI上行意外显示风险犹存：全球生产者和进口价格加速且范围扩大，制成品进口价格通胀已超疫情期间水平，部分反映AI建设相关产品涨价；化工、塑料、纸制品等下游品类也在涨，美国CPI玩具和游戏9-10月累计 +7.3%、2月以来 +11.5%，家庭纸制品10月 mom +2.9% 为疫情以来最大。",
+          "important": true
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS：上游领先核心CPI约10mo 未来9mo或累计超共识0.1-0.2pp",
+          "details": "上游价格领先核心CPI约 10mo，每 1% 上游涨幅在 6-12mo 后推高年化核心通胀 0.1-0.2pp，GS美、欧、英预测已纳入大部分传导，核心预测上调持续至明年上半年。共识历来低估上游冲击，冲击后 3-9mo 月度通胀通常超预期 5-10bps，未来 9mo 或累计超共识 0.1-0.2pp（部分经年初效应实现），风险偏上行，若兑现可能促使主要央行2027年初进一步温和紧缩。"
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-11-12",
+      "image_urls": []
+    },
+    {
+      "id": "db-rate-check-nov25",
+      "topic": "DB AI生产率+财政债券卫士",
+      "topic_tag": "rates",
+      "title": "DB Reid：AI 是职业生涯首个结构性生产率提升",
+      "summary": "Jim Reid 认为 AI 可能是其职业生涯首个结构性提升生产率的创新，但必经繁荣-萧条周期；市场已从普涨转向分化。多国赤字处于通常仅见于衰退或战争水平、债务指数增长，债券卫士将制造波动划定财政边界。中期选举后一年历史上 SPX 全部上涨，但今年反弹力度或弱于以往。",
+      "bullets": [
+        {
+          "actor": "DB (Jim Reid)",
+          "actor_type": "Analyst",
+          "text": "DB Reid：AI 10-15y 提振生产率 但必经繁荣-萧条",
+          "details": "Jim Reid认为AI可能是其职业生涯首个结构性提升生产率的创新，未来 10-15y 显著提振生产率、历史上终将扩大就业，但必然经历繁荣-萧条周期。市场已从普涨转向分化：超大规模企业过去一年横盘、capex直接受益者跑赢、软件落后，若市场惩罚capex致其下跌 20%-30% 并迫使削减，将冲击整个AI链；AI capex刚从现金流转向债务融资，尚非系统性风险，但若未来 2-3y 债务复合增长则可能演变为系统性风险。",
+          "important": true
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "DB：债券卫士将制造波动划定财政边界",
+          "details": "多国赤字处于通常仅见于衰退或战争时期的水平、债务呈指数增长，债券卫士将通过抛售脆弱国家国债、制造波动划定财政边界，未来可能出现周期性局部抛售。二战后 20 次中期选举后一年SPX全部上涨，但今年5月底至选举SPX基本持平（历史同期通常跌 3%-5%），反弹力度或弱于以往，更确信SPW和多数个股上涨；Brent自11月初约 $115/bbl 跌至约 $90/bbl，选举后地缘溢价消退。"
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "DB"
+      ],
+      "date": "2026-11-12",
+      "image_urls": []
+    },
+    {
+      "id": "jpm-flows-liquidity-nov25",
+      "topic": "JPM 资金流/AI交易逆转",
+      "topic_tag": "ai",
+      "title": "JPM：散户逢低买 对冲基金大幅去风险 AI估值回到23年起点",
+      "summary": "散户继续逢低买入股票ETF，对冲基金10月大幅去风险，QQQ 卖空比例升至2023年以来最高；11/5 大跌由杠杆ETF再平衡约$45B的机械抛售放大。MTUM相对SPX跌至2024年8月以来最低，AI子板块 12mo 远期PE 跌至2023年AI交易启动以来最低；Oracle CDS成交回落。",
+      "bullets": [
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "JPM：散户继续逢低买 对冲基金10月大幅去风险",
+          "details": "JPM Flows & Liquidity：散户继续逢低买入：全球股票ETF日均买入上周增至 $20B、本周一 $30B，11/5-6杠杆ETF流入近 $5B（杠杆后约 $15B），反向ETF流出约 $5B；期权市场散户冲动自6月初高点进一步回撤，留有再度增强空间。对冲基金10月大幅去风险，QQQ卖空比例升至2023年以来最高，多空基金21日贝塔约 0.27，11/5仅跌 1.2%（NDX -6.6%），量化中性基金跌 0.2%，去风险多在11/5前完成；若散户流入延续，对冲基金或自11月底重建AI敞口、支撑年末反弹。",
+          "important": true
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "JPM：11/5大跌由杠杆ETF再平衡抛售$45B放大",
+          "details": "11/5大跌由机械因素放大：杠杆ETF再平衡抛售约 $45B，被流入部分抵消后净股票基金流量 -$6B；风险平价指数跌 0.9%（基准 0.4%），显示波动率驱动去风险，全球主动股票基金贝塔由 0.9 以下升至 1.06；NDX、日经、韩国、台湾期货动量z分数降约 0.6 个标准差，动量投资者或已投降。"
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "JPM：AI子板块12mo远期PE跌至2023年启动以来最低",
+          "details": "AI交易极端逆转：MTUM相对SPX跌至2024年8月以来最低，回吐两年多超额收益，AI子板块 12mo 远期PE跌至2023年AI交易启动以来最低；Oracle CDS周成交量10/23当周见顶回落，neocloud融资担忧边际缓和。跨资产仓位百分位（11/10）：美元 0.83、比特币 0.69、股票 0.64、政府债 0.62、Gold 0.36、信用 0.12。"
+        }
+      ],
+      "tickers": [
+        "QQQ",
+        "ORCL"
+      ],
+      "image_indexes": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "importance": 3,
+      "sources": [
+        "JPM"
+      ],
+      "date": "2026-11-12",
+      "image_urls": [
+        "/uploads/2026-11-12/ffbfd4a25c91.png",
+        "/uploads/2026-11-12/4ae78edd1e2f.png",
+        "/uploads/2026-11-12/40d4c471bcf8.png",
+        "/uploads/2026-11-12/8675cb30e1c3.png"
+      ]
+    },
+    {
+      "id": "gs-carbonomics-energy-nov25",
+      "topic": "GS Carbonomics 能源/数据中心电力",
+      "topic_tag": "oil",
+      "title": "GS：霍尔木兹后LNG产能上调 2030数据中心电力需求+170%",
+      "summary": "GS 指出霍尔木兹危机后能源安全回到核心，LNG 长协和 FID 重启，2025-30 累计新增产能上调至约 334Mtpa。油气资本开支周期重启，结构性上行周期提前至2027年。2030年全球数据中心电力需求较2025年增170%，超60%来自美国。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS：2030数据中心电力需求+170% 60%+来自美国",
+          "details": "2030年全球数据中心电力需求较2025年增 170%，累计增量约 1,100TWh，超过 60% 来自美国；美国总电力需求2025-30年CAGR上调至 3.5%，2026-30年需输配电capex约 $609B，2030年表后发电装机预测由约 40GW 上调至约 67GW。",
+          "important": true
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS：中东-中国VLCC日收入从$100K飙至$1.3M LNG产能上调",
+          "details": "GS Carbonomics：霍尔木兹危机后能源安全与可负担性回到核心，推动能源来源、运输路线和库存多元化：中东至中国VLCC日收入由约 $100K 升至约 $1.3M，等价运费由约 $1/bbl 升至约 $35/bbl。安全供应担忧重启LNG长协和FID，2025-30年累计LNG新增产能由约 279Mtpa 上调至约 334Mtpa，节奏偏后但总量更高。"
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS：油气capex周期重启 深水FID较5年均值+75%",
+          "details": "油气资本开支周期重启：大型项目储量寿命较2012年峰值降 60%，单位桶油当量capex仍较峰值低 42%，勘探开支降 66%，过去 1y 高再投资公司跑赢低capex同行约 30pp。结构性上行周期提前至2027年，当年油气capex增 11%、深水FID较五年均值增 75%；AI与数字化可将深水项目周期由约 12y 压至 7y，IRR提升 3.5pp、盈亏平衡油价降 15%，长期Brent假设由 $75/bbl 降至 $64/bbl。"
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "GS"
+      ],
+      "date": "2026-11-12",
+      "image_urls": []
+    },
+    {
+      "id": "us-iran-diplomacy-nov25",
+      "topic": "美伊外交",
+      "topic_tag": "geo",
+      "title": "Vance拟与伊朗Rezaei多哈面谈 KOL称突破无望",
+      "summary": "WSJ 报道 Vance 在 Trump 支持下考虑与伊朗安全事务负责人 Rezaei 在多哈面谈，仍属初步阶段、重大分歧未解。KOL JH 认为报道是噪音，民主党若中期选举横扫则伊朗只需拖时间。",
+      "bullets": [
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ：Vance拟与伊朗Rezaei多哈面谈 尚未安排",
+          "details": "WSJ：Vance 在 Trump 支持下考虑与伊朗安全事务负责人 Rezaei 面谈，多哈是可能地点，尚未安排；会谈仍属初步，重大分歧未解。",
+          "important": true
+        },
+        {
+          "actor": "JH",
+          "actor_type": "KOL",
+          "text": "JH：报道是噪音 伊朗只需拖时间",
+          "details": "JH：WSJ 关于 Vance 直接谈判的报道是噪音，双方现在都没有动力促成突破，民主党横扫中期选举，Q1 民主党掌控国会，伊朗只需拖时间，华盛顿筹码自然衰减，伊朗打法是政权生存：拖着秘密渠道冻结对峙、避免空袭，不会让 Vance 带着可兑现的协议回去。"
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "WSJ"
+      ],
+      "date": "2026-11-12",
+      "image_urls": []
+    },
+    {
+      "id": "ai-capex-supply-chain-nov25",
+      "topic": "AI capex/供应链",
+      "topic_tag": "ai",
+      "title": "SoftBank取消燃气轮机订单损失$3.7B HBM4良率70%",
+      "summary": "WSJ 称 SoftBank 曾预订远超 13GW 燃气轮机、多数来自 GE Vernova 后取消多余预订，损失 $3.7B 被 Whitney Baker 视为牛鞭效应教科书案例；Anthropic 称 AI 加速自身研究、模型改进速度约翻倍；SK 海力士 HBM4 良率 70%，TSMC 称 AI 需求 9 个月抛物线增长。Jurrien Timmer 认为 AI 板块图形受损、半导体指数确认双顶。",
+      "bullets": [
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ：SoftBank取消大量燃气轮机预订 多来自GE Vernova",
+          "details": "WSJ：SoftBank 曾预订远超 13GW 燃气轮机，多数来自 GE Vernova，后取消多余预订。",
+          "important": true
+        },
+        {
+          "actor": "Whitney Baker",
+          "actor_type": "KOL",
+          "text": "Whitney Baker：SoftBank取消损失$3.7B 牛鞭效应教科书",
+          "details": "Whitney Baker：SoftBank 取消燃气轮机订单损失 $3.7 billion，像 2001 年重创电信和光纤的牛鞭效应教科书案例；但供应商这次可能谈到了更好的合同。"
+        },
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic：AI加速自身研究 模型改进速度约翻倍",
+          "details": "Anthropic 称触发自家一项 AI 安全警报：AI 加速自身研究、模型改进速度约翻倍。"
+        },
+        {
+          "actor": "SK海力士/TSMC",
+          "actor_type": "Corporate",
+          "text": "SK海力士HBM4良率70% TSMC AI需求9月抛物线",
+          "details": "算力与供应链：SK 海力士 HBM4 良率 70%；TSMC 称 AI 需求 9 个月呈抛物线增长。"
+        },
+        {
+          "actor": "Jurrien Timmer",
+          "actor_type": "KOL",
+          "text": "Timmer：半导体指数确认双顶 类比90年代末互联网",
+          "details": "Jurrien Timmer：AI 板块图形受损，SPX 可能还要继续整理或修正，S&P 500 半导体指数在大量资金流入后可以说确认了双顶，1990 年代末互联网类比显示 AI 热潮在结束，\"entertainment purposes\"；该类比的拐点本就是中期选举。"
+        }
+      ],
+      "tickers": [
+        "SFTBY",
+        "GEV",
+        "TSM"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "WSJ",
+        "Anthropic"
+      ],
+      "date": "2026-11-12",
+      "image_urls": []
+    }
+  ]
+}

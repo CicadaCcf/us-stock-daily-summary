@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-11-12T21:31:29+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-11-12",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 13144,
+    "partial_pass": 5,
+    "with_carryover": 14,
+    "after_full_check": 4
+  },
+  "rows": [
+    {
+      "tk": "LUNR",
+      "nm": "Intuitive Machines, Inc. Class A Common Stock",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 6.9,
+      "w1": 51.1,
+      "market_cap_bn": 2.1,
+      "dollar_vol_bn": 0.35,
+      "w1_avg_dollar_vol_bn": 0.18,
+      "reason": "",
+      "main_business": "设计建造月球着陆器及深空探测航天器与服务"
+    },
+    {
+      "tk": "AMD",
+      "nm": "Advanced Micro Devices",
+      "industry": "",
+      "days_remaining": 3,
+      "initial_days": 3,
+      "d1": 5.8,
+      "w1": 44.7,
+      "market_cap_bn": 959.78,
+      "dollar_vol_bn": 30.8,
+      "w1_avg_dollar_vol_bn": 25.42,
+      "reason": "",
+      "main_business": "设计研发CPU、GPU及AI芯片等高性能半导体"
+    },
+    {
+      "tk": "AAOI",
+      "nm": "Applied Optoelectronics, Inc.",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": -5.6,
+      "w1": 12.5,
+      "market_cap_bn": 4.79,
+      "dollar_vol_bn": 0.47,
+      "w1_avg_dollar_vol_bn": 0.78,
+      "reason": "",
+      "main_business": "设计制造光纤网络产品，服务数据中心与通信市场"
+    },
+    {
+      "tk": "AXTI",
+      "nm": "AXT Inc",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": -7.4,
+      "w1": 18.5,
+      "market_cap_bn": 2.85,
+      "dollar_vol_bn": 0.42,
+      "w1_avg_dollar_vol_bn": 0.48,
+      "reason": "",
+      "main_business": "研发生产化合物半导体衬底晶圆材料"
+    }
+  ]
+}
