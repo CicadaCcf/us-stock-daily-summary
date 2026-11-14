@@ -1,0 +1,663 @@
+{
+  "topics": [
+    {
+      "id": "fed-hawks-nov12",
+      "topic": "美联储",
+      "topic_tag": "fed",
+      "title": "Hammack否认落后曲线 Daly倾向进一步收紧",
+      "summary": "Fed官员鹰派表态持续：Hammack称Fed没有落后于曲线、不支持12月加50bp；Daly倾向需要进一步收紧。市场观察人士认为鹰派定价已充分，流动性在枯竭。",
+      "bullets": [
+        {
+          "actor": "Hammack",
+          "actor_type": "Central-Bank",
+          "text": "Hammack称Fed未落后于曲线，不支持12月加50bp",
+          "details": "Hammack：Fed 没有落后于曲线，不支持 12月 加 50bp。",
+          "important": true
+        },
+        {
+          "actor": "Daly",
+          "actor_type": "Central-Bank",
+          "text": "Daly倾向需要进一步收紧",
+          "details": "Daly 倾向需进一步收紧。",
+          "important": false
+        },
+        {
+          "actor": "Andy Constan",
+          "actor_type": "KOL",
+          "text": "调侃最鹰的Hammack却说没落后",
+          "details": "Andy Constan：落后于曲线的定义就是市场曲线的 hike 次数多于 FOMC 点阵、且通胀未回目标；最鹰的 Hammack 却说没落后，\"The funny thing\"。",
+          "important": false
+        },
+        {
+          "actor": "Ed Bradford",
+          "actor_type": "KOL",
+          "text": "前端已定价充分，流动性枯竭、投机资产承压",
+          "details": "Ed Bradford：前端已定价充分，不确定是否值得冒险拉长久期；无论是更激进 rate hikes 的讨论还是年末临近，流动性在枯竭，crypto、白银等投机资产承压；\"the tide is going out\"。",
+          "important": false
+        },
+        {
+          "actor": "Mohamed A. El-Erian",
+          "actor_type": "Analyst",
+          "text": "债市没为AI借贷激增腾出空间，高利率压制利率敏感部门",
+          "details": "Mohamed A. El-Erian：债市没有为 AI 借贷激增腾出空间，更高利率会持续压制住房等利率敏感部门，通胀担忧在放大这一点，且不止美国。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        4,
+        5
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-13",
+      "image_urls": [
+        "/uploads/2026-11-13/8f3af385ae73.png",
+        "/uploads/2026-11-13/5c6aadcd947d.png"
+      ]
+    },
+    {
+      "id": "nvda-jensen-resign-nov12",
+      "topic": "英伟达-黄仁勋辞职",
+      "topic_tag": "ai",
+      "title": "黄仁勋因间谍案与婚外情辞任Nvidia CEO CFO Kress临时接任",
+      "summary": "黄仁勋即日辞去Nvidia CEO、总裁和董事职务，CFO Kress任临时CEO，与Alice Huang间谍案调查及多段婚外情曝光相关。Trump称不鼓励留任、Musk主张股东投票决定，DOJ对Nvidia及Megaspeed、Super Micro展开调查，国会要求黄仁勋作证。市场与KOL剧烈分化，有人看跌循环交易崩塌，有人认为出清已到位。",
+      "bullets": [
+        {
+          "actor": "Nvidia董事会",
+          "actor_type": "Corporate",
+          "text": "黄仁勋即日辞职 CFO Kress任临时CEO",
+          "details": "黄仁勋即日辞去 Nvidia CEO、总裁和董事职务，CFO Kress 任临时 CEO。",
+          "important": true
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "Bloomberg复盘辞职全过程 黄仁勋状态崩溃自称\"piece of sh--\"",
+          "details": "Bloomberg 复盘：董事会开会到深夜，黄仁勋别无选择只能辞职；10月底传闻时多数董事不想管；11月6日 FT 报道后法务对质，他承认；11月8日全员邮件致歉；11月11日 纽约时报曝与 Kimberly Powell 关系，当晚开会；11月12日宣布；报道称他此前一直在力争留任，但让 Kress 接手的临时方案前一天已在推进，Bloomberg 称他状态崩溃，自称\"piece of sh--\"，最在意妻子和相关女性。",
+          "important": false
+        },
+        {
+          "actor": "Reuters",
+          "actor_type": "新闻",
+          "text": "Reuters爆黄仁勋与另一Nvidia员工有第三段亲密关系",
+          "details": "Reuters：黄仁勋与另一名 Nvidia 员工也有亲密关系，为曝光的第三段关系。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump周二致电鼓励黄继续争取 但受访暗示若间谍应辞职",
+          "details": "Trump 周二曾致电黄仁勋鼓励他继续争取；受访称\"若女方是间谍就该辞职\"，如果不是鼓励留任。",
+          "important": false
+        },
+        {
+          "actor": "Musk",
+          "actor_type": "Corporate",
+          "text": "Musk称雇黄仁勋\"would be an honor\" 主张股东投票",
+          "details": "Musk 称雇黄仁勋\"would be an honor\"，主张由股东投票决定其去留。",
+          "important": false
+        },
+        {
+          "actor": "CNN",
+          "actor_type": "新闻",
+          "text": "CNN：情报界尚无法证明Alice Huang是北京间谍",
+          "details": "CNN：迄今情报不能证明 Alice Huang 是北京间谍，情报界仍在弄清她与中国政府的关系；Todd Blanche 也暗示她可能不是。",
+          "important": false
+        },
+        {
+          "actor": "DOJ",
+          "actor_type": "US-Executive",
+          "text": "DOJ查Alice Huang关联实体是否走私Super Micro产品 新加坡扣其护照",
+          "details": "Alice Huang 调查：DOJ 查其关联实体是否走私 Super Micro 产品；Bloomberg 称她已回北京；新加坡称扣押其护照至 2026年2月。",
+          "important": false
+        },
+        {
+          "actor": "Semafor",
+          "actor_type": "新闻",
+          "text": "DOJ对Nvidia启动反垄断调查 同时调查Megaspeed和Super Micro",
+          "details": "Semafor：DOJ 对 Nvidia 展开反垄断调查，另两项调查针对 Megaspeed 和 Super Micro。",
+          "important": false
+        },
+        {
+          "actor": "The Information",
+          "actor_type": "新闻",
+          "text": "Alice Huang关联公司经SPV投资DeepSeek 承诺供应Blackwell",
+          "details": "The Information：Alice Huang 关联公司经 SPV 投资 DeepSeek，承诺稳定供应被禁的 Blackwell。",
+          "important": false
+        },
+        {
+          "actor": "will depue",
+          "actor_type": "KOL",
+          "text": "法证分析称6款中国模型在Blackwell上初始化",
+          "details": "will depue 称法证分析证明 6 款中国模型在 Blackwell 上初始化，涉及 DeepSeek、Moonshot、MiniMax、Ant Group。",
+          "important": false
+        },
+        {
+          "actor": "众议院外委会主席",
+          "actor_type": "US-Congress",
+          "text": "芯片相关议案很可能并入NDAA 为对华芯片出口建立护栏",
+          "details": "众议院外交事务委员会主席表示，一揽子相关议案\"很有可能\"被纳入必须通过的年度《国防授权法案》中，为先进芯片对华出口建立护栏。目前正在讨论的相关措施有三项：一是《芯片安全法案》（Chip Security Act），要求先进芯片内置位置验证机制以打击走私；二是收紧对芯片制造设备的限制，并推动外国与美国限制措施保持一致；三是让国会有机会审查先进AI芯片销售的许可证。",
+          "important": false
+        },
+        {
+          "actor": "众议院",
+          "actor_type": "US-Congress",
+          "text": "三委员会给黄仁勋发最后通牒 他已同意作证",
+          "details": "众院情报等三委员会给黄仁勋发最后通牒，要求出席闭门听证，否则发传票；众院外委会主席称黄仁勋已同意作证。",
+          "important": false
+        },
+        {
+          "actor": "商务部",
+          "actor_type": "US-Executive",
+          "text": "商务部最快本月出台对华远程访问Blackwell新规 扩至7国",
+          "details": "出口管制：The Information 称商务部最快本月出台针对中国远程访问 Blackwell 的新规，许可范围扩至新加坡、马来西亚、泰国、印尼、巴西、挪威、南非；美资数据中心若禁止武器禁运国访问并报告客户和容量可免许可。",
+          "important": false
+        },
+        {
+          "actor": "Eric Wallerstein",
+          "actor_type": "KOL",
+          "text": "WSJ暗示AI交易完蛋 循环融资压向NVDA、$150b回购是孤注一掷",
+          "details": "Eric Wallerstein：WSJ 标题埋了重点，\"the ai trade is toast\"，循环融资\"像重力一样\"压向 Nvidia，交易由\"enterprising son-in-law\"主导，$150b 回购是挽救估值的孤注一掷。",
+          "important": false
+        },
+        {
+          "actor": "Gavin Baker",
+          "actor_type": "KOL",
+          "text": "不懂AI硬件的对华Hawks正危害美国国家安全",
+          "details": "Gavin Baker：不懂 AI 硬件的对华 Hawks 正在危害美国国家安全；按黄仁勋支持的出口策略，中国实验室只能用性能较弱的美国 GPU，按 scaling laws 美国永远领先；一旦冲突可直接关掉东南亚云，\"America had machine guns and we were giving China muskets\"，以此阻止中国自研；Hawks 政策得逞后，中国会走另一条能效较低的 AI 硬件路线，有机会追上。",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "怀疑是针对华裔掌控半导体的清洗 类比教父被枪击",
+          "details": "Herman Jin：短期无影响，中期英伟达各条 roadmap 负面和延期的可能增加；labs 的需求靠黄仁勋对接落地，他是分配产业链订单的\"切蛋糕的\"；类比老教父被枪击，Corleone 家族实力少一半；明年国会换届后监管调查明显加强，过去两年 pro business 风气会逆转，与中国有技术联系的芯片公司都要\"小心点\"；隐约觉得整件事是为了\"做掉\"他，防止半导体和 AI 落入华裔手中，甚至怀疑婚外情本身(作者猜测)。",
+          "important": false
+        },
+        {
+          "actor": "Andy Constan",
+          "actor_type": "KOL",
+          "text": "循环交易崩塌论\"complete nonsense\" 但NVDA是\"AIG of chips\"",
+          "details": "Andy Constan：黄仁勋出事导致循环交易崩塌的说法大体是\"complete nonsense\"；担忧一：NVDA 是否像 Enron，融资交易条款未披露或未正确入账；他认为可能性低，因为 Enron 做的是钱和衍生品，NVDA 卖的是真被使用的芯片；独董需要清理门户；担忧二：他被逼走后现有和未来交易因财务不稳、无人能谈而崩塌；NVDA 是\"the AIG of chips\"，但价格和风险合适时并非唯一信用来源；真正的问题始终没答案：终端客户是否愿为 AI 服务付费、用量是否足以偿还系统里创造的信用。",
+          "important": false
+        },
+        {
+          "actor": "Brandon Carl",
+          "actor_type": "KOL",
+          "text": "Legal Hold已启动 市场反应未走完 AMD-NVDA对冲可能双杀",
+          "details": "Brandon Carl：市场对 Nvidia 消息的反应可能还没走完；公司立即对所有通讯启动\"Legal Hold\"，决策受额外审视；记者会挖掘人脉重建事件经过；议员可能要求听证或立法；金融方要评估在途信用担保和合同是否还站得住；供应链开始为更严出口限制做情景规划；下周财报会可能限制问答范围；Anthropic 受影响程度取决于市场错位；AMD 对 NVDA 的相对价值交易可能转向两者一起跌。",
+          "important": false
+        },
+        {
+          "actor": "Alexander Stahel",
+          "actor_type": "KOL",
+          "text": "AI失去的不只是CEO 还是最大啦啦队长和融资backstop",
+          "details": "Alexander Stahel：AI 失去的不只是 Nvidia 的\"Chief Everything Officer\"，还有最大的啦啦队长、交易撮合者、融资方和最终 backstop。",
+          "important": false
+        },
+        {
+          "actor": "郭明錤",
+          "actor_type": "Analyst",
+          "text": "近期利空已定价 交接影响最早2028年才显现",
+          "details": "郭明錤：近期利空已定价，股价层面可能是一次性出清；交接影响最早 2028 年体现在产品和竞争力上；中国买家最终拿到的 AI 芯片收入占比可能高于官方口径；只要海外转售渠道存在，管制收紧也不会让中国需求消失。",
+          "important": false
+        },
+        {
+          "actor": "Master WU",
+          "actor_type": "KOL",
+          "text": "NVDA跌破167 下一站147-148 认为低点能守到下周二财报",
+          "details": "Master WU：最后支撑 167 跌破后，NVDA 下一站 147-148，较前收约跌 15%；强平可能打穿，但认为低点能守到下周二财报。",
+          "important": false
+        },
+        {
+          "actor": "P Equity Research",
+          "actor_type": "Analyst",
+          "text": "黄的HBM4议价优势难延续 比Google等便宜19-20%",
+          "details": "P Equity Research：后黄仁勋时代 Nvidia 的供应链议价优势难以延续；SemiAnalysis 估计 Nvidia 拿到的 HBM4 价格比 Google、Amazon、AMD、Broadcom 便宜约 19-20%，靠的是黄仁勋多年在韩日台建立的关系。",
+          "important": false
+        },
+        {
+          "actor": "Hedgie",
+          "actor_type": "KOL",
+          "text": "股价失去Jensen premium Kress曾反对更大的OpenAI backstop",
+          "details": "Hedgie：股价会永久失去部分\"Jensen premium\"，更大风险在下游，Kress 是数字型的人，不会站上台承诺数万亿 AI 支出；他维持资金流向 OpenAI、CoreWeave 和新云；继任者对这些押注没有同样忠诚，资金放缓后较弱玩家要以更差条件找私人信贷；Nvidia 曾为 OpenAI 数据中心担保至多 $105 billion 租金，Kress 曾反对更大的 OpenAI backstop。",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "图表：NVDA跌幅轨迹与1998-2000年思科惊人相似",
+          "details": "Bloomberg图表 Uncomfortably Similar：The Cisco precedent looks grim for Nvidia，以Cisco从1998年1月高点、NVDA从2024年6月高点的回撤对比，形态高度相似。",
+          "important": false
+        },
+        {
+          "actor": "OddStats",
+          "actor_type": "KOL",
+          "text": "QQQ连续7日1.5%波动含-6%日 但尚未进入熊市",
+          "details": "OddStats图：QQQ连续7日1.5%波动区间、含一个-6%回报日，尚未进入熊市（对数坐标，1999至今）。",
+          "important": false
+        },
+        {
+          "actor": "JPM Equity Strategy",
+          "actor_type": "Analyst",
+          "text": "JPM：NVDA散户净买入失衡图（截至11/11）",
+          "details": "JPM Equity Strategy & Quantitative Research 图16：NVDA Daily Retail Imbalance，截至Nov 11，显示散户净买入与价格走势。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "SMCI",
+        "AVGO",
+        "AMZN",
+        "GOOGL"
+      ],
+      "image_indexes": [
+        0,
+        1,
+        2
+      ],
+      "importance": 3,
+      "sources": [
+        "Bloomberg",
+        "Reuters",
+        "CNN",
+        "Semafor",
+        "The Information",
+        "WSJ",
+        "FT",
+        "NYT"
+      ],
+      "date": "2026-11-13",
+      "image_urls": [
+        "/uploads/2026-11-13/9f346fbad647.jpg",
+        "/uploads/2026-11-13/68618a6c3e44.png",
+        "/uploads/2026-11-13/2279b0b59a03.jpg"
+      ]
+    },
+    {
+      "id": "trump-iran-vance-nov12",
+      "topic": "Trump对伊/人事",
+      "topic_tag": "geo",
+      "title": "Trump称无需与伊朗达协议 Vance改负责打击民主党城市",
+      "summary": "Trump称\"We don't need a deal with Iran\"，已拿到伊朗的钱和海峡；Vance不再参与对伊谈判，被指派转打击民主党执政城市和州的所谓腐败与犯罪。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：无需与伊朗达协议 已拿到钱和海峡",
+          "details": "Trump：\"We don't need a deal with Iran\"，称已拿到伊朗的钱和海峡。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Vance改任打击民主党城市/州腐败与犯罪",
+          "details": "Vance 不再参与对伊朗的谈判，给 Vance 下达的新任务是专门负责打击民主党执政的城市和州的所谓腐败与犯罪。",
+          "important": false
+        },
+        {
+          "actor": "参议员Banks",
+          "actor_type": "US-Congress",
+          "text": "Banks要求Lutnick尽快到参议院银行委员会作证",
+          "details": "参议员 Banks 要求 Lutnick 尽快到银行委员会作证。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-13",
+      "image_urls": []
+    },
+    {
+      "id": "barclays-iran-longwar-nov12",
+      "topic": "Barclays伊朗展望",
+      "topic_tag": "geo",
+      "title": "Barclays：美伊冲突大概率长期维持至Trump任期结束",
+      "summary": "Barclays基准情形是美伊战争长期维持：3月底识别的5个结束催化剂8个月后均未实现，历史上持续8个月的国家间战争平均剩余1.8年。护航令中东石油出口恢复至战前85%，中国以弱需求和战略储备吸收冲击，伊朗可能等待总统更替。",
+      "bullets": [
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "基准：美伊冲突长期维持至Trump任期结束 剩余1.8年",
+          "details": "Barclays：美国在伊朗战争上有升级、长期维持、撤出三个选项，基准是长期维持：3月底识别的 5 个结束催化剂（含汽油 $5/gal）8mo 后均未实现，1823年以来 95 场国家间战争中持续 8mo 的平均剩余 1.8y，投资者需考虑冲突延续至特朗普任期结束。",
+          "important": true
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "护航令中东油品出口恢复至战前85% 中国吸收冲击",
+          "details": "长期维持可持续，因全球经济有韧性、能源价格区间波动：美国封锁可无限期维持，护航令中东石油和成品油出口恢复至战前约 85%（30d 均值），中国以弱需求和战略储备吸收冲击。升级受地区报复风险、GCC 谨慎和目标耗尽制约，单边撤出会让伊朗控制霍尔木兹而不可接受；类比1979-1981年人质危机，伊朗或等待总统更替，直到外部冲击改变其计算。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Barclays"
+      ],
+      "date": "2026-11-13",
+      "image_urls": []
+    },
+    {
+      "id": "rates-ust-nov12",
+      "topic": "美债利率",
+      "topic_tag": "rates",
+      "title": "10Y收于5.10% 30Y拍卖尾部0.4bp 2Y一周累涨34bps",
+      "summary": "JPM：鹰派CPI与官员表态推动收益率单日上行8-14bps、前端领涨、曲线走平4bps；10Y收于5.10%，30Y拍卖温和尾部，终端用户占比降4.6pp。JPM改用5y5y通胀互换建模10Y公允价值，当前残差仅-4.4bps。",
+      "bullets": [
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "收益率单日+8-14bps 10Y至5.10% 2Y周累+34bps",
+          "details": "JPM UST：收益率单日上行 8-14bps、前端领涨、曲线走平 4bps，2Y 一周累计 +34bps，10Y 收于 5.10%，驱动为周二 CPI 超预期、官员鹰派表态和商品上涨；30Y 拍卖尾部 0.4bp，终端用户 88.6%、较上次降 4.6pp。",
+          "important": true
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "核心CPI超互换定价创24年1月以来最大 但BE几无反应",
+          "details": "核心 CPI 为 2024年1月以来最大的超互换定价，但 5Y 盈亏平衡本周仅宽 1bp 至 231.9bps、10Y/30Y 各降 1bp；Waller 数据前称可加 50bps、终端定价当日 +18bps，鹰派 Fed 令 5Y BE 对通胀意外的贝塔近 1mo 接近零。5s/10s BE 平坦化获利了结，维持 5s/10s/30s 腹部变陡蝶式作为看多前端通胀的低贝塔表达。",
+          "important": false
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "10Y模型改用5y5y通胀互换 残差-4.4bps 技术面逼近5.15%",
+          "details": "10Y 公允价值模型改用 5y5y 零息通胀互换替代 TIPS BE（通胀互换交易量 YTD +57%、约为 TIPS 的 50%），系数 0.80、R² 96.8%、标准误 12.6bps，当前残差仅 -4.4bps（旧模型平均低估约 10bps）。技术面 10Y 逼近 5.15%/5.185%，其上 5.245%-5.36% 长期位或限制上行，回落需破 5.035%（50d 均线）和 4.97%；T-bill 至 12/3 净发行 $160B，12/8 至 1/12 净偿还 $202B。",
+          "important": false
+        },
+        {
+          "actor": "Vanda/US Treasury",
+          "actor_type": "新闻",
+          "text": "30Y拍卖图：high yield-17.7bp 直接11% 间接68%",
+          "details": "UST AUCTIONS 30-Year 11月12日 $30.1bn 对比过去50次：high yield bp change vs prior -17.7，bid-to-cover 2.36x，primary dealer 20%，direct 11%，indirect 68%，相对历史区间显示间接偏高、直接偏低。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TLT",
+        "TBT"
+      ],
+      "image_indexes": [
+        6
+      ],
+      "importance": 2,
+      "sources": [
+        "JPM"
+      ],
+      "date": "2026-11-13",
+      "image_urls": [
+        "/uploads/2026-11-13/7f376b213fb3.jpg"
+      ]
+    },
+    {
+      "id": "gs-commodities-2027-nov12",
+      "topic": "GS商品与宏观2027展望",
+      "topic_tag": "oil",
+      "title": "GS：积极配置商品 Brent 2027 $88 铜$15,600 Gold $4,650",
+      "summary": "GS 2027展望：建议积极配置商品，11月能源铜抛售来自情绪而非基本面，风险溢价下降反而给出更好入场点。结构性看多铜和Gold、看空铝；2027年宏观友好但市场周期老化，建议增配债券、看多JPY/CNY。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "建议积极配置商品 Brent风险溢价已从$27降至几美元",
+          "details": "GS 2027 Commodities：建议积极配置商品，风险溢价下降反而给出更好的入场点：11月能源和铜的抛售来自情绪和中东升级风险变化而非基本面，Brent 风险溢价从中期选举前周五的 $27/bbl 降至几美元，波斯湾原油出口 9 月已恢复至接近 2025年水平、10月油市或回到过剩。基准情形能源继续温和回落，BCOM 总回报接近零（YTD +26%），但战术上能源上行风险、股债对油价高敏感、农产品上行风险（YTD +10%、超级厄尔尼诺）支持把商品作组合对冲，过去 60y 股债 12mo 实际回报同时为负时 Gold 或商品均为正。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "预测2027 Brent $88 TTF €45 多头交易组合推荐",
+          "details": "预测 2027年 Brent 均价 $88/bbl（现 $93/bbl）、TTF €45/MWh（现 €87/MWh）；交易：做多 BCOM，做多 EBOB Jun27（基准回报 20%、再升级 62%、下行 -4%），做多 TTF 27Q1 看涨价差，买入 2029年 TTF 看跌期权（LNG FID 潮致长期过剩）。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "结构性看多铜$15,600和Gold$4,650 看空铝$2,600",
+          "details": "结构性看多铜和 Gold、看空铝：LME 铜 2027年12月目标 $15,600/t（现 $13,821/t），美国关税前囤货和中国废铜发票新规收紧供应；Gold 2027年12月 $4,650/oz（原 $4,800/oz，现 $4,014/oz），央行结构性买盘托底、私人需求待 2027年12月 Fed 降息后恢复；做空 2027年12月 LME 铝，目标 $2,600/t，印尼原铝产量占全球比例将由 2025年底 1% 升至 2027年底约 4%（同篇另一版摘要写 Brent 2027年 $80/bbl、TTF €32/MWh、Gold 4Q27 $4,390/oz、铜 $15,400/t、铝 $2,700/t，原文两处不一致）。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "2027宏观友好但AI动能见顶 SPX EPS增速36%→11%",
+          "details": "GS 2027 Markets Outlook：2027年宏观基准友好（增长稳定、通胀下降、政策利率见顶），但市场周期老化：实际利率上升、信用利差走阔、表面下波动加剧，风险资产前景更双向。AI 投资动能（增量占 GDP）预计 2027年初见顶，对利润和资产的冲击大于对 GDP；SPX EPS 增速由 2026年 36% 降至 2027年 11%，轮动可能从 AI 基础设施传到超大规模企业和 AI 受益者，但最可能的传导渠道是金融条件收紧。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "债券重获对冲价值 UST 10Y 2027年底4.6% 看多JPY/CNY",
+          "details": "债券重获宏观和对冲价值、建议增配：央行定价过鹰，UST 10Y 2027年底 4.6%，收益率高、估值便宜、仓位偏低。美元周期性增强，贸易加权 2027年约 -3%，看多被低估的 JPY 和 CNY，EUR 下行期权有吸引力，Gilt 对油价最敏感、受益油价回落；美国信用利差温和走阔，抵押贷款和结构化信用为避风港。基准情形能源逐步回落，但伊朗升级仍是最大近期风险、欧洲冬季气库存低，商品继续作对冲；尾部对冲推荐美日利率下行、USDJPY 下行、TTF 看涨价差和股指看跌期权。",
+          "important": false
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "图表：金融条件不再提振美国GDP增长",
+          "details": "Exhibit 3：Financial conditions no longer boosting US GDP growth，2022-2027 real US GDP growth impulse from financial conditions 由正转负至约 -1.5pp 区间。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GLD",
+        "USO",
+        "UNG",
+        "JJC"
+      ],
+      "image_indexes": [
+        5
+      ],
+      "importance": 3,
+      "sources": [
+        "Goldman Sachs"
+      ],
+      "date": "2026-11-13",
+      "image_urls": [
+        "/uploads/2026-11-13/5c6aadcd947d.png"
+      ]
+    },
+    {
+      "id": "barclays-oil-nov12",
+      "topic": "Barclays油价",
+      "topic_tag": "oil",
+      "title": "Barclays：油价短期风险偏上行 Brent 2026 $100目标",
+      "summary": "Barclays维持Brent 2026/2027 $100/$85目标，重申做多Brent日历价差：美伊外交短期难有突破、SPR释放结束、库存偏低、投机仓位处2014年以来低位。霍尔木兹净出口为战前85%，WCS贴水扩大来自运费和检修而非供应激增。",
+      "bullets": [
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "油价短期风险偏上行 维持Brent 2026 $100/2027 $85",
+          "details": "Barclays Oil：油价短期风险偏上行，市场对现状延续准备不足：Brent 和 WTI 近月自上次更新跌约 7%，但美伊外交短期难有突破、沙特与胡塞冲突升级、战略储备释放基本结束、除中国外库存显著偏低，投机净仓位处 2014年以来低位；现货溢价回落部分反映对协议的预期，重估后可能恢复。维持 Brent 2026/2027年 $100/bbl/$85/bbl、WTI $90/bbl/$82/bbl，重申做多 Brent 日历价差。",
+          "important": true
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "霍尔木兹净出口17.7M b/d 为战前85%",
+          "details": "截至 10/31 当周经霍尔木兹直接净出口 8.9M b/d、加转运 17.7M b/d，较战前低 23%，30d 均值 19.4M b/d 为战前 85%；中印合计海运原油及成品油净进口 yoy 已持平（年初一度 -5M b/d）。WCS 对 WTI 贴水扩大来自运费上升、加拿大升级装置检修、美国炼厂检修和偏高硫的 SPR 释放，而非供应激增，委内瑞拉出口 yoy 仅 +200K b/d，Cushing-Hardisty 基差稳定。",
+          "important": false
+        },
+        {
+          "actor": "Javier Blas",
+          "actor_type": "新闻",
+          "text": "Blas：苏伊士以西运费数日跌50-75% 阿曼湾至东北亚跌60%",
+          "details": "Blas：苏伊士以西多条航线数日内跌 50%-75%；阿曼湾至东北亚自 10月15日跌约 60%，波斯湾内装船运费较稳。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "USO",
+        "XLE"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Barclays"
+      ],
+      "date": "2026-11-13",
+      "image_urls": []
+    },
+    {
+      "id": "gs-copper-nov12",
+      "topic": "GS铜",
+      "topic_tag": "macro-other",
+      "title": "GS维持铜2027 $15,400 但AI仓位与关税成下行风险",
+      "summary": "GS维持2027年铜价$15,400/t（较现货+13%），中期选举后AI相关仓位和美国关税成为两大下行风险。LME铜过去1月跌7%至$13,588，净多头从21%降至9%，若维持当前仓位均价约$14,600。",
+      "bullets": [
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "维持铜2027 $15,400 AI仓位和关税为两大下行风险",
+          "details": "GS Copper：维持 2027年铜价 $15,400/t（较现货 +13%），但中期选举后 AI 相关仓位和美国关税成为两大下行风险。LME 铜过去 1mo 跌约 7% 至 $13,588/t，由 AI 股波动和仓位驱动而非基本面：洋山溢价超 $200/t 创纪录、美国以外可见库存近季节性低位；净多头占 OI 由 9月底约 21% 降至约 9%，低于假设 16%，若维持当前仓位 2027年均价约 $14,600/t。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "COMEX-LME价差仅隐含2028.1关税6-7% 232条款风险未消",
+          "details": "COMEX-LME 价差仅隐含 2027年1月关税 1%、2028年1月 6-7%，预测假设 2027年美国超额囤货约 400kt，若美国停止囤货均价约 $14,500/t、库存回流则下行更大，但 232 条款决定权在总统、关税风险未消。民主党州长数据中心暂停影响有限，已开工容量足以覆盖 2028年前需求，即便得州在建项目全部延迟 6mo，2027年需求仅减约 50kt、价格最多降 $100/t。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "FCX",
+        "JJC"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "Goldman Sachs"
+      ],
+      "date": "2026-11-13",
+      "image_urls": []
+    },
+    {
+      "id": "citi-market-tops-nov12",
+      "topic": "Citi市场顶部类比",
+      "topic_tag": "earnings",
+      "title": "Citi：AI走弱触发泡沫顶部类比 3个预警信号已部分显现",
+      "summary": "Citi识别三个顶部预警：动量成长急反转、成长与质量脱钩（63日相关性降幅已与Dot.Com见顶时相当）、质量转向与价值同向。周期对防御1mo波动调整价差z分数近-4，为30年极端。中期仍看多AI并增加战术对冲。",
+      "bullets": [
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "三个泡沫顶部预警信号已部分显现 自1995年仅出现两次",
+          "details": "Citi Market Tops：AI 走弱引发泡沫顶部类比，三个顶部预警信号已部分显现，但中期仍看多 AI 并增加战术对冲：动量与成长见顶前冲高后急反转、成长与质量脱钩（63日相关性降幅已与 Dot.Com 见顶时相当，Dot.Com 前相关性 50%-75%、全样本约 14%）、质量转向与价值同向；三信号组合自 1995年仅在 Dot.Com 和 2021 成长周期附近出现。",
+          "important": true
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "周期对防御1mo波动调整价差z分数近-4 为30年极端",
+          "details": "周期对防御 1mo 波动调整价差 z 分数近 -4，为 30y 极端。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "QQQ"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "Citi"
+      ],
+      "date": "2026-11-13",
+      "image_urls": []
+    },
+    {
+      "id": "kol-views-nov12",
+      "topic": "KOL观点",
+      "topic_tag": "macro-other",
+      "title": "KOL：2026像2018/2015 Minervini翻倍空头但见Nasdaq FTD",
+      "summary": "Jurrien Timmer认为2026像2018/2015/2011/2022的震荡轮动；Mark Minervini前一日把标普空头翻倍、Nasdaq出现follow-through day但多为超跌反弹；RenMac图显示5Y实际收益率2.65%（98分位）同时Gold跌至$3,885。",
+      "bullets": [
+        {
+          "actor": "Jurrien Timmer",
+          "actor_type": "Analyst",
+          "text": "2026年像2018/2015/2011/2022的震荡轮动",
+          "details": "Jurrien Timmer：市场可能继续震荡轮动，2026 年像 2018、2015、2011 或 2022，不是末日也不是 melt-up。",
+          "important": false
+        },
+        {
+          "actor": "Mark Minervini",
+          "actor_type": "KOL",
+          "text": "前日把标普空头翻倍 Nasdaq见FTD但多为下降趋势反弹",
+          "details": "Mark Minervini：前一日把已盈利的标普空头翻倍，但会逐步加多头；Nasdaq 出现 follow-through day，但领涨多是超跌科技股在下降趋势里的反弹，通胀黏性、Fed 再 rate hikes、长端利率上升、AI 和数据中心监管都是保持谨慎的理由；十年期收益率再度上行、一年期跳升，情绪在改善但未到逆向买点极值，希望再恶化一些。",
+          "important": true
+        },
+        {
+          "actor": "RenMac",
+          "actor_type": "Analyst",
+          "text": "图：5Y实际收益率2.65%（98分位）Gold跌至$3,885",
+          "details": "RenMac图：Real 5Y 2.65%（+9.5bp，2.2 sd，98th pctl）；gold settle 3,885（-2.9%，lowest of the 252-day window）；9月28日高2.70（dashed），通过Nov 18维持>=2.70概率25%。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GLD",
+        "SPY",
+        "QQQ"
+      ],
+      "image_indexes": [
+        3
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-11-13",
+      "image_urls": [
+        "/uploads/2026-11-13/3df301cdbf86.jpg"
+      ]
+    },
+    {
+      "id": "other-corp-nov12",
+      "topic": "其他-公司",
+      "topic_tag": "macro-other",
+      "title": "OpenAI上季营收$10B亏$10.9B Tesla-SpaceX最早12月合并",
+      "summary": "WSJ爆OpenAI上季营收约$10B、亏损$10.9B；Bloomberg称Tesla与SpaceX最早12月合并；Anthropic推出Claude Meetings；微软365大面积宕机超7小时。",
+      "bullets": [
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "OpenAI上季营收$10B亏损$10.9B 营收+50%但亏损扩大",
+          "details": "WSJ：OpenAI 上季营收约 $10B、亏损约 $10.9B，营收增 50% 但亏损扩大。",
+          "important": true
+        },
+        {
+          "actor": "Bloomberg",
+          "actor_type": "新闻",
+          "text": "Bloomberg：Tesla与SpaceX最早12月合并",
+          "details": "Bloomberg：Tesla 与 SpaceX 最早 12月 合并。",
+          "important": false
+        },
+        {
+          "actor": "Anthropic/Microsoft",
+          "actor_type": "Corporate",
+          "text": "Anthropic推Claude Meetings 微软365宕机超7小时",
+          "details": "产品与事故：Anthropic 推出 Claude Meetings；微软 365 大面积宕机超 7 小时。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "TSLA",
+        "MSFT"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "WSJ",
+        "Bloomberg"
+      ],
+      "date": "2026-11-13",
+      "image_urls": []
+    }
+  ]
+}

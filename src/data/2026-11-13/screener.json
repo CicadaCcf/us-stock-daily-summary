@@ -1,0 +1,87 @@
+{
+  "generated_at": "2026-11-13T21:31:29+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-11-13",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12564,
+    "partial_pass": 2,
+    "with_carryover": 6,
+    "after_full_check": 5
+  },
+  "rows": [
+    {
+      "tk": "MOD",
+      "nm": "Modine Manufacturing Co",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 1,
+      "d1": 27.9,
+      "w1": 40.4,
+      "market_cap_bn": 7.22,
+      "dollar_vol_bn": 1.14,
+      "w1_avg_dollar_vol_bn": 0.36,
+      "reason": "",
+      "main_business": "研发制造车辆及工业用热管理与散热系统"
+    },
+    {
+      "tk": "LUNR",
+      "nm": "Intuitive Machines, Inc. Class A Common Stock",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": -0.2,
+      "w1": 24.2,
+      "market_cap_bn": 2.1,
+      "dollar_vol_bn": 0.15,
+      "w1_avg_dollar_vol_bn": 0.2,
+      "reason": "",
+      "main_business": "设计建造月球着陆器及深空探测航天器与服务"
+    },
+    {
+      "tk": "AXTI",
+      "nm": "AXT Inc",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -3.9,
+      "w1": 7.6,
+      "market_cap_bn": 2.74,
+      "dollar_vol_bn": 0.44,
+      "w1_avg_dollar_vol_bn": 0.49,
+      "reason": "",
+      "main_business": "研发生产化合物半导体衬底晶圆材料"
+    },
+    {
+      "tk": "AAOI",
+      "nm": "Applied Optoelectronics, Inc.",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -5.6,
+      "w1": -0.5,
+      "market_cap_bn": 4.53,
+      "dollar_vol_bn": 0.53,
+      "w1_avg_dollar_vol_bn": 0.69,
+      "reason": "",
+      "main_business": "设计制造光纤网络产品，服务数据中心与通信市场"
+    },
+    {
+      "tk": "AMD",
+      "nm": "Advanced Micro Devices",
+      "industry": "",
+      "days_remaining": 2,
+      "initial_days": 3,
+      "d1": -8.8,
+      "w1": 18.9,
+      "market_cap_bn": 875.9,
+      "dollar_vol_bn": 26.01,
+      "w1_avg_dollar_vol_bn": 26.84,
+      "reason": "",
+      "main_business": "设计研发CPU、GPU及AI芯片等高性能半导体"
+    }
+  ]
+}
