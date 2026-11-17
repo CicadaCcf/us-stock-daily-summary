@@ -1,0 +1,218 @@
+{
+  "themes": [
+    {
+      "id": "ai-infoflow-1108-1115",
+      "theme": "AI",
+      "title": "AI信息流总结 11/8-11/15",
+      "date_range": "11/8-11/15",
+      "summary": "ANT 10月ARR $81B且NNARR加速，但Q4指引隐含假期增长放平；Jensen离任削弱NVDA循环融资支持，ANT IPO约7倍认购、OAI融资进度偏慢，监管收紧远程算力访问冲击中国AI。",
+      "tickers": [
+        "NVDA",
+        "GOOGL",
+        "ORCL"
+      ],
+      "date": "2026-11-16",
+      "groups": [
+        {
+          "label": "ARR",
+          "entries": [
+            {
+              "source": "官方 ANT",
+              "source_type": "",
+              "points": [
+                "10月ARR约 $81B，路演Q4 收入指引约 $19.3B，反推官方指引11–12 月因假期增长放平",
+                "*ANT今年年底ARR预期～$85-90B, 2027年底预期 $180–250B"
+              ],
+              "important": true
+            },
+            {
+              "source": "OAI",
+              "source_type": "",
+              "points": [
+                "Q3 收入约 $10B，环比 +约 50%",
+                "*OAI 是净额口径，按 20% 分成还原也只有约 $12.5B，仍比 ANT 的 $16.9B 低约25%。收入数据没有预期差，无影响"
+              ],
+              "important": false
+            },
+            {
+              "source": "Yipit",
+              "source_type": "第三方追踪",
+              "points": [
+                "ANT 10月 $77.2B,低于公司口径$81B，10月token环比+53%，单价 -28%。OAI 10月ARR $57B，NNARR +$7B,和上个月持平，单价企稳"
+              ],
+              "important": false
+            },
+            {
+              "source": "FundaAI",
+              "source_type": "第三方追踪",
+              "points": [
+                "11月中预估ANT $78B, OAI $68B。FundaAI认为明年 Q1 再加速暂无明确路径",
+                "*FundaAI ANT的方向性判断可靠，对OAI估计偏高太多"
+              ],
+              "important": false
+            },
+            {
+              "source": "Tickertrends",
+              "source_type": "第三方追踪",
+              "points": [
+                "本周无数据更新"
+              ],
+              "important": false
+            }
+          ]
+        },
+        {
+          "label": "需求",
+          "entries": [
+            {
+              "source": "Brett Harrison",
+              "source_type": "Architect CEO，主营GPU 算力期货交易所",
+              "points": [
+                "近一个月H卡一年期租价回到 10 月中水平，B300 回吐 10 月底涨幅的大半",
+                "*长约端仍紧，现货端开始松动，因为供给端集体上线，新集群在 4Q26 末到 1Q27 集中上线，叠加部分 neocloud 为回笼现金折价出租"
+              ],
+              "important": true
+            },
+            {
+              "source": "企业应用",
+              "source_type": "",
+              "points": [
+                "本周无三要素变化",
+                "高价值的开发场景不设上限，批量运行场景换便宜模型。量增价跌，短期对实验室收入是减速项，和 ANT 偏保守的 Q4 指引一致"
+              ],
+              "important": false
+            }
+          ]
+        },
+        {
+          "label": "供给",
+          "entries": [
+            {
+              "source": "模型",
+              "source_type": "",
+              "points": [
+                "ANT 新模型重回第一，旗舰标价降 20%但每任务花费反升。芯片迁移壁垒因模型进步大幅降低，时间从月降到天",
+                "Fable 5.2更新，展现ANT押注物理世界，详情见post",
+                "ANT 用自己的模型 3 天把 Claude 移植到 AMD GPU，过去要几十名工程师做几个月。叠加Jensen离开，议价权从NVDA向AI labs和hyperscaler转移",
+                "GOOGL: 发布Gemini 4 Carbon, GDM重回第三"
+              ],
+              "important": true
+            },
+            {
+              "source": "企业应用 ANT",
+              "source_type": "",
+              "points": [
+                "Claude 上线 Whiteboards、Sheets、Data 和 Meetings（加入视频会议、边谈边生成文档）",
+                "*模型能力产品化，无三要素变化",
+                "金融、法律、RSI、网安、AI4S：本周无三要素变化"
+              ],
+              "important": false
+            },
+            {
+              "source": "竞争与定价",
+              "source_type": "",
+              "points": [
+                "价格战继续",
+                "开源：中国开源模型的算力来源受限（见监管）"
+              ],
+              "important": false
+            }
+          ]
+        },
+        {
+          "label": "融资与估值",
+          "entries": [
+            {
+              "source": "【重要】Jensen离任与NVDA 的融资支持",
+              "source_type": "",
+              "points": [
+                "Jensen离任后，NVDA对循环融资的支持预计会减弱，小neocloud融资会更难。2027年紧缺部件多数已经覆盖，问题多在2028年之后",
+                "对neocloud/AI labs的股权融资和担保详情见post",
+                "8 月和银行搭的 $500B 融资计划至今没有一笔贷款完成，至少一家贷款方在谈退出",
+                "*暂时没有任何deal达成，更多是损害未来融资信心"
+              ],
+              "important": false
+            },
+            {
+              "source": "Chamath Palihapitiya",
+              "source_type": "Social Capital 创始人，All-In 播客",
+              "points": [
+                "Chamath：\"NVIDIA 银行\"是经黄仁勋本人运转的，现在可能迎来无限期关门",
+                "Musk：黄仁勋的很多关键交易是握手协议、不是书面合同，他走后至少一部分会丢"
+              ],
+              "important": false
+            },
+            {
+              "source": "【重要】ANT IPO",
+              "source_type": "",
+              "points": [
+                "AI labs处于比semi强势的地位，预计将抢走流动性。ANT IPO 约 7 倍认购，目前估值～$1.5T"
+              ],
+              "important": true
+            },
+            {
+              "source": "Michael Naso",
+              "source_type": "FBN 销售，IPO 点评",
+              "points": [
+                "订单簿的质量和规模预计超过 SPCX。二级市场指标走高，但定价方会守纪律、把发行留在合理区间，不需要重新递交区间，路演 11/18 在纽约结束",
+                "*ANT是唯一可买的前沿实验室，稀缺性高。对semi整体偏负面，一方面是认购资金抽水semi, 另一方面labs地位比semi强势"
+              ],
+              "important": false
+            },
+            {
+              "source": "OAI 融资",
+              "source_type": "",
+              "points": [
+                "目标 $20B，已融金额从上周的 $11B 增加到 $15B；估值 $1.25T 不变",
+                "*一周多融了 $4B，但仍没融满，资金偏好ANT"
+              ],
+              "important": false
+            }
+          ]
+        },
+        {
+          "label": "监管",
+          "entries": [
+            {
+              "source": "Will Depue",
+              "source_type": "前 OAI 研究员，X",
+              "points": [
+                "Jensen事件让政府大幅收紧对华出口管制，远程访问规则原本是合法后门，禁令最早本月出",
+                "称有取证证据：DeepSeek、Moonshot、MiniMax、蚂蚁的最新模型都在被禁的 Blackwell 上训练",
+                "*从灰色行为摆到明面上，虽然对NVDA/neocloud/ORCL整体收入影响不大，但极大冲击中国AI模型，对闭源实验室的价格压力边际减轻"
+              ],
+              "important": true
+            },
+            {
+              "source": "The Information",
+              "source_type": "",
+              "points": [
+                "商务部在定\"远程访问规则\"：禁止中国 AI 公司租用海外数据中心里的先进芯片，覆盖马来西亚、新加坡、泰国等 7 国，最早本月公布；Megaspeed 获批列入实体清单",
+                "*走私芯片进中国早就违法，但租海外算力目前是合法的；这条规则是把合法的这条路也堵上"
+              ],
+              "important": false
+            },
+            {
+              "source": "国会",
+              "source_type": "BBG/SA",
+              "points": [
+                "众议院以 369–22 通过 RASA（把出口管制从\"卖芯片\"扩到\"租算力\"的法案），待参议院表决；参议院民主党领袖 Schumer 要求立法限制 AI 芯片出口；OAI 和 ANT 都表态支持",
+                "*行政和国会、两党方向一致，几乎没有反对票；立法通过后下届政府不能随手放松，收紧会是长期的"
+              ],
+              "important": false
+            },
+            {
+              "source": "数据中心许可",
+              "source_type": "",
+              "points": [
+                "选后数据中心建设",
+                "sellside大量分析，基本结论是2027 年不变，2028 年新增容量下修约 10%"
+              ],
+              "important": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

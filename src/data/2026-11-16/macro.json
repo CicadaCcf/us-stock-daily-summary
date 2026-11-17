@@ -1,0 +1,580 @@
+{
+  "topics": [
+    {
+      "id": "fed-speakers-nov14-16",
+      "topic": "美联储官员发言",
+      "topic_tag": "fed",
+      "title": "多位Fed官员鹰派发声：通胀粘性强，政策需进一步收紧",
+      "summary": "Warsh、Williams、Jefferson、Collins、Daly、Goolsbee、Barr密集发声，几乎一致鹰派：通胀顽固且在扩散，核心CPI连续三月约0.3%，政策尚未足够限制性。Collins暗示路径可能比两月前更紧，Daly倾向大概率需要加息。AI对生产率、r*、就业的影响成为讨论新焦点。",
+      "bullets": [
+        {
+          "actor": "Collins",
+          "actor_type": "Central-Bank",
+          "text": "很快需要进一步收紧，路径可能比此前更紧",
+          "details": "Collins认为很快需要进一步收紧，方向很清楚：通胀高且在扩散，就业市场稳定且可能加速，通胀数据不友好、价格压力在扩散，路径可能比她两个月前设想的更紧一些。目前稳步渐进的路径看起来合适但保持开放。住房占CPI约三分之一，租金滞后效应曾使通胀偏高；探讨是否改变住房通胀测算方式。",
+          "important": true
+        },
+        {
+          "actor": "Daly",
+          "actor_type": "Central-Bank",
+          "text": "倾向大概率需要加息，政策未必足够限制性",
+          "details": "Daly：住房以外的服务通胀没朝正确方向走、通常粘性强。核心CPI连续三个月约0.3%，远高于与2%目标相符的0.2%或以下；零售和专业服务企业要买更贵的IT产品、付更高能源账单，可能把成本转嫁客户。倾向是大概率需要加息，很难说当前政策已经足够限制性。",
+          "important": false
+        },
+        {
+          "actor": "Williams",
+          "actor_type": "Central-Bank",
+          "text": "经济强劲、劳动力市场走强，货币政策还没到位",
+          "details": "Williams：数据现在说得很清楚，经济强劲、劳动力市场继续走强、通胀顽固，需要逐步采取行动确保通胀及时持续回到2%，货币政策还没到位；政策同时要确保不对充分就业造成不必要伤害。",
+          "important": false
+        },
+        {
+          "actor": "Jefferson",
+          "actor_type": "Central-Bank",
+          "text": "通胀轨迹是关键信号；AI推高存储芯片价格",
+          "details": "Jefferson：通胀轨迹是判断政策立场更重要的信号。能源推高机票和运输，新技术需求推高存储芯片等商品价格。10月数据显示价格压力仍远高于目标。AI采用率约40-50%工人、25%企业，尚未全面渗透；新技术替代工人速度可能快于再培训，推高失业；AI对总生产率贡献目前有限但潜力大；AI投资与股价财富效应推升需求，芯片价格上涨，中期供给将缓解；AI或影响中性利率r*，方向不确定。",
+          "important": false
+        },
+        {
+          "actor": "Goolsbee",
+          "actor_type": "Central-Bank",
+          "text": "通胀往错误方向走，不在回到2%路径上",
+          "details": "Goolsbee：通胀已高于目标近六年，最近没有进展，反而在往错误方向走。被问是否在回到2%路径上，认为现在不是。仍拒绝在25和50bp之间选择。决定取决于通胀和是否在回到2%路径上，数据恶化会让美联储更激进。",
+          "important": false
+        },
+        {
+          "actor": "Warsh",
+          "actor_type": "Central-Bank",
+          "text": "新会议日历涉及决策方式：少追月度数据",
+          "details": "Warsh：新会议日历「不只是行政细节」，涉及决策方式——少追月度数据，多向前看。",
+          "important": false
+        },
+        {
+          "actor": "Barr",
+          "actor_type": "Central-Bank",
+          "text": "AI属偏资本创新，年轻岗位已现替代",
+          "details": "Barr：资本替代劳动、市场集中、工人议价力下降，是劳动占比下滑的三个成因；至今AI对就业替代有限，但年轻、低经验岗位已现替代迹象；AI或属偏向资本的创新，需防短期劳动市场冲击和收益集中。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-11-16",
+      "image_urls": []
+    },
+    {
+      "id": "nvidia-huang-crisis-nov16",
+      "topic": "Nvidia黄仁勋风波",
+      "topic_tag": "ai",
+      "title": "黄仁勋下台风波持续发酵：Bessent施压、董事会接触ARM CEO",
+      "summary": "Nvidia黄仁勋丑闻持续扩大：Bessent公开质疑董事会撤帅不等于公司脱责，追问Megaspeed $4B+芯片销售；Musk警告黄仁勋口头协议会丢失；FT称黄仁勋与盟友组建硅谷war room图谋回归，董事会已接触ARM CEO Rene Haas作为继任候选。Rubio据CIA备忘录警告Trump黄仁勋与疑似间谍关系。参院McGuire撰文指控Megaspeed走私$7B芯片、台湾海关显示2025-2026超$60B AI芯片可能运往新加坡马来西亚泰国。",
+      "bullets": [
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "董事会撤黄不等于公司脱责，追问$4B+Megaspeed销售",
+          "details": "Bessent：董事会撤掉黄仁勋不等于公司脱责，追问Nvidia对Megaspeed超$4B芯片销售。Nvidia找新CEO应『go outside the company』，追问新加坡壳公司销售。",
+          "important": true
+        },
+        {
+          "actor": "Musk",
+          "actor_type": "Corporate",
+          "text": "Nvidia很多关键交易是与黄仁勋的口头约定，他走后至少部分会丢",
+          "details": "Musk：Nvidia很多关键交易是与黄仁勋的口头约定，他走后至少部分会丢。",
+          "important": false
+        },
+        {
+          "actor": "McGuire参议员",
+          "actor_type": "US-Congress",
+          "text": "指Lutnick 18年来最长未更新实体清单，Megaspeed走私$7B芯片",
+          "details": "参院McGuire撰文列七点指其不执行防走私管制，称Megaspeed据报走私$7B芯片；台湾海关显示2025至2026年超$60B AI芯片可能运往新加坡、马来西亚、泰国；Lutnick逾一年未新增实体清单，为18年来最长；2026年5月已获简报。",
+          "important": false
+        },
+        {
+          "actor": "Rubio/CIA",
+          "actor_type": "US-Executive",
+          "text": "Rubio据CIA报告改写强硬备忘录警告Trump黄仁勋与疑似间谍关系",
+          "details": "WaPo：Rubio据CIA报告改写成更强硬的备忘录（『in his own more assertive terms』），警告Trump黄仁勋与疑似间谍的关系。",
+          "important": false
+        },
+        {
+          "actor": "FT",
+          "actor_type": "新闻",
+          "text": "黄仁勋讨论回任、组建硅谷war room；董事会接触ARM CEO",
+          "details": "FT：黄仁勋与亲信讨论回任Nvidia CEO，盟友组建硅谷『war room』游说董事会和白宫。FT另称Nvidia董事会接触ARM CEO Rene Haas。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "Kress砍OpenAI担保$250B→$105B；临时CEO预计收紧交易",
+          "details": "WSJ：Kress曾把$250B OpenAI担保砍到约$105B；Nvidia的融资计划尚无贷款落地；临时CEO预计收紧交易；黄仁勋曾要求合作方先向客户收预付款才给GPU配额。",
+          "important": false
+        },
+        {
+          "actor": "SEC filing",
+          "actor_type": "新闻",
+          "text": "Nvidia董事Mark Stevens 8-9月售$947M股票未用10b5-1",
+          "details": "Nvidia董事Mark Stevens 8-9月售出约$947 million股票，未使用预设交易计划，依据SEC文件，首次售出在8月31日，约在黄仁勋丑闻爆出前两个月。",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg/Reuters/The Information",
+          "actor_type": "新闻",
+          "text": "中国走私芯片链被曝光，商务部拟堵海外数据中心漏洞",
+          "details": "Bloomberg称Alice Huang创办的中国公司采购走私AI芯片，装在与Megaspeed相关的上海数据中心；Reuters：在中国找到逾$3B基于Nvidia受限芯片的算力项目；The Information：商务部准备堵住中国AI公司经海外数据中心使用受限Nvidia芯片的漏洞。保守派继续攻击Lutnick压力上升，Cantor持$362.3M NVDA。",
+          "important": false
+        },
+        {
+          "actor": "CoreWeave",
+          "actor_type": "Corporate",
+          "text": "CoreWeave寻求$4b贷款、债券利率近16%",
+          "details": "CoreWeave寻求以Meta合同担保的$4 b贷款，利率约7.5%，其债券近16%。Nvidia多名员工发文悼念式致敬，暂无集体行动信号。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "CRWV",
+        "ARM",
+        "META",
+        "AMD"
+      ],
+      "image_indexes": [
+        1,
+        2,
+        5,
+        6
+      ],
+      "importance": 3,
+      "sources": [
+        "FT",
+        "WSJ",
+        "WaPo",
+        "Bloomberg",
+        "Reuters",
+        "The Information",
+        "Semafor"
+      ],
+      "date": "2026-11-16",
+      "image_urls": [
+        "/uploads/2026-11-16/c4af96d0058f.jpg",
+        "/uploads/2026-11-16/6191f8ccc8ba.jpg",
+        "/uploads/2026-11-16/cfb5dc3770e5.png",
+        "/uploads/2026-11-16/fa4bc07374f6.png"
+      ]
+    },
+    {
+      "id": "kol-views-nvidia-nov16",
+      "topic": "KOL观点",
+      "topic_tag": "ai",
+      "title": "KOL观点：黄仁勋难回归、Nvidia是AI央行",
+      "summary": "多位KOL评论黄仁勋风波：Scaramucci、Gasparino、Bishop均认为黄回归概率接近0；Derivatives Don把Nvidia比作AI央行，黄离开相当于AI融资体系由宽松转紧。Bosa称Anthropic是最大赢家。宏观KOL Joseph等讨论精炼油通胀粘性与NeoClouds融资枯竭。",
+      "bullets": [
+        {
+          "actor": "Derivatives Don",
+          "actor_type": "KOL",
+          "text": "Nvidia是AI央行，黄离开=AI融资体系从宽松转紧",
+          "details": "Derivatives Don：Nvidia是『AI央行』，黄仁勋离开相当于AI融资体系从宽松转向紧缩，可类比LTCM卖波动率的规模大到决定保险价格；Nvidia 9月计划与六家机构动员超500bln AI基建投资，方式是担保所售设备的价值，残值担保在经济上是对GPU抵押品写put，而Nvidia收入本身依赖这类资产，属wrong-way correlation，LTCM倒下前Salomon套利团队解散让它承担更多风险；后黄时代Nvidia很难再有同样意愿把利润回投给买芯片的生态。",
+          "important": true
+        },
+        {
+          "actor": "Scaramucci",
+          "actor_type": "KOL",
+          "text": "黄仁勋回不来：FBI/DOJ/Wachtell多项调查未结",
+          "details": "Scaramucci：黄仁勋回不来：涉及FBI反情报审查、DOJ芯片走私调查、Wachtell调查和与下属的关系，在这些调查结束前，任何负有信义义务的董事都不能投票让他回来。",
+          "important": false
+        },
+        {
+          "actor": "Charles Gasparino",
+          "actor_type": "KOL",
+          "text": "即便回来白宫和董事会也不会信任他：he ain't coming back",
+          "details": "Gasparino：即便回来，白宫、董事会是否信任他，集体诉讼、民主党控制的国会、Lutnick的出口许可问题都不会消失；所以『he ain't coming back』。",
+          "important": false
+        },
+        {
+          "actor": "Bill Bishop",
+          "actor_type": "KOL",
+          "text": "Bessent表态让回归概率接近0；David Sacks也要解释",
+          "details": "Bill Bishop：Bessent那样表态，让黄仁勋回归的努力成功概率接近0，前AI主管David Sacks也『has a LOT of explaining to do』，并把黄仁勋下台描绘为深层政府阴谋。",
+          "important": false
+        },
+        {
+          "actor": "Toby Rogers",
+          "actor_type": "KOL",
+          "text": "持15%投票权股东可召开特别会议，黄仁勋会压倒性胜出",
+          "details": "Toby Rogers：Nvidia章程规定持有至少15%投票权的股东可召开特别会议并改选董事会；若召开，黄仁勋会压倒性胜出。",
+          "important": false
+        },
+        {
+          "actor": "SemiAnalysis",
+          "actor_type": "KOL",
+          "text": "七大客户除SpaceX都在自研芯片，Google缺撮合交易基因",
+          "details": "SemiAnalysis：七大客户(Google、Microsoft、Meta、Amazon、SpaceX、Anthropic、OpenAI)中除SpaceX都在自研芯片，没有Nvidia撑着，CoreWeave等neocloud行业不会存在；其测评TPU与Nvidia一样好，但Google没有黄仁勋那种撮合交易的基因。",
+          "important": false
+        },
+        {
+          "actor": "P Equity Research/Bernstein Rasgon",
+          "actor_type": "Analyst",
+          "text": "Bernstein称最难的一次下调，让他走可能是错误",
+          "details": "Bernstein Rasgon：称这是他写过最难的一次Nvidia下调；不认为近期业务轨迹有大风险，但新闻流会持续；认为董事会会发现让他走是错误，『It may have even been a bigger mistake to keep him』；很多供应链决定基于黄仁勋的握手和私人关系。",
+          "important": false
+        },
+        {
+          "actor": "Jukan",
+          "actor_type": "KOL",
+          "text": "资深工程师多财务自由，OpenAI等正在挖人",
+          "details": "Jukan：资深工程师多已财务自由，留下主要因为黄仁勋个人魅力；OpenAI和竞争对手可能正在挖人，承诺带团队即可整队迁移。",
+          "important": false
+        },
+        {
+          "actor": "Deirdre Bosa",
+          "actor_type": "KOL",
+          "text": "Anthropic是Nvidia风波大赢家，IPO heavily oversubscribed",
+          "details": "Deirdre Bosa：Anthropic是Nvidia风波的大赢家，最不依赖Nvidia(TPU、Trainium、AMD)、支持对华出口管制、不发开源模型；IPO仍heavily oversubscribed，同周Nvidia市值蒸发约$500B。",
+          "important": false
+        },
+        {
+          "actor": "Gavin Baker",
+          "actor_type": "KOL",
+          "text": "对华供较弱GPU是国家安全成功，全面禁售风险大",
+          "details": "Gavin Baker：向中国出口较弱GPU、让中国实验室用东南亚美资云，是国家安全上的成功；全面禁售风险很大。",
+          "important": false
+        },
+        {
+          "actor": "Mark Ritchie II",
+          "actor_type": "KOL",
+          "text": "NVDA经典突破失败演变为底部失败，股票character变了",
+          "details": "Mark Ritchie II：NVDA是本轮牛市主要龙头里跌得最快的，经典突破失败已演变为底部失败，『the character of the stock has clearly changed』。",
+          "important": false
+        },
+        {
+          "actor": "Bob Elliott",
+          "actor_type": "KOL",
+          "text": "AI capex减速削弱盈利增长，动摇资产价格扩张",
+          "details": "Bob Elliott：AI capex增速放缓会削弱盈利增长，动摇依赖资产价格的扩张。",
+          "important": false
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "市场激进定价12个月加息超3次；精炼油通胀黏性严峻",
+          "details": "Joseph：虽然Logan和Hammack等鹰派官员倾向更温和节奏（12月加25BP、1月再加25BP），但市场目前已激进定价未来12个月内将加息超过3次，整体紧缩预期已显著高于美联储9月点阵图。精炼油通胀黏性依然严峻：尽管原油价格有所回落，但乌克兰对俄炼油厂的打击及霍尔木兹海峡局势仍严重限制成品油供应，柴油等精炼产品价格高企。黄仁勋事件极像一场精心策划的政治打击：绕道对华供芯触怒鹰派、中期选举后政治保护伞瓦解、开源模型路线威胁闭源巨头；新CEO缩减兜底与融资支持，高利率环境下高度杠杆化的NeoClouds本就面临融资枯竭；随着英伟达切断循环融资的水龙头，AI链条的现金流危机将加速扩散，SOX显现见顶破位迹象，NDX周五亦跌破200日均线。网络安全风险值得注意。",
+          "important": false
+        },
+        {
+          "actor": "Andy Constan",
+          "actor_type": "KOL",
+          "text": "PCE分项把共识压到.3以下，押50bp的人in shambles",
+          "details": "Andy Constan：PCE分项把共识压到.3以下，押50bp的人『in shambles』，dove guys又会开始赌暂停，自称周四从空仓建了2/3最大股票空头，开盘想补齐时太贪。",
+          "important": false
+        },
+        {
+          "actor": "Omair Sharif",
+          "actor_type": "KOL",
+          "text": "Fed和经济学家今夏对通胀太乐观，现在又过度紧张",
+          "details": "Omair Sharif：Fed和经济学家今夏对通胀太乐观，现在又对最近几期过度紧张。",
+          "important": false
+        },
+        {
+          "actor": "Jurrien Timmer",
+          "actor_type": "KOL",
+          "text": "10Y几周前见顶5.36%、现4.86%；股债重回负相关",
+          "details": "Jurrien Timmer：10-year几周前见顶5.36%，现为4.86%；股债重新负相关，但进入三角形末端，债券上行空间有限。",
+          "important": false
+        },
+        {
+          "actor": "Ariel Hernandez",
+          "actor_type": "KOL",
+          "text": "可能只是超卖反弹，AMD/NET反弹40%不是低风险入场",
+          "details": "Ariel Hernandez：趋势向下、缺乏领涨，可能只是超卖反弹；AMD、NET 5个交易日反弹40%不是低风险入场；低于200日线就是长期下跌趋势。",
+          "important": false
+        },
+        {
+          "actor": "Lucas | Orion Engine",
+          "actor_type": "KOL",
+          "text": "科技回调结构类似2025关税风暴，是否有lockout rally",
+          "details": "Lucas | Orion Engine：这次科技回调结构与2025关税风暴相似，问是否会有lockout rally。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "NET",
+        "GOOG",
+        "MSFT",
+        "META",
+        "AMZN"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-16",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-views-nov16",
+      "topic": "卖方观点",
+      "topic_tag": "macro-other",
+      "title": "卖方共识：Fed通胀上落后，12月加息是基准",
+      "summary": "JPM、BofA、UBS、Barclays、DB、GS多家卖方研究一致认为Fed在通胀上落后形势，12月加息25bps是基准，部分预计2027年1月、3月再加。JPM重申SPX目标8000（现7592），Barclays 2027年目标8700下调。核心PCE粘性显著，AI、关税、能源三大冲击。GS预判AI投资2027见顶但投资到2028-2029才放缓。",
+      "bullets": [
+        {
+          "actor": "JPM Cross-Asset",
+          "actor_type": "Analyst",
+          "text": "重申SPX目标8000，AI去杠杆非超级周期破裂",
+          "details": "JPM Cross-Asset：近期回调是AI去杠杆和仓位重置而非超级周期破裂：长期动量指数自6月峰值跌38.4%，为ChatGPT发布以来最大回撤，拥挤度从100%分位回落至76%，SPX远期PE自5月压缩约3个点而盈利修正平稳。重申SPX目标8000（现7592），AI敞口继续通过超大规模云厂商而非高贝塔AI篮子表达，存储芯片估值下杀后具价值；宽度轮动已具备油价回落（Brent两周由$118/bbl跌至约$96/bbl）和就业强劲，但缺通胀回落和Fed耐心。Fed耐心越来越取决于通胀：10月非农159K、3mo均值137K为5月以来最高，失业率4.1%，CPI/核心CPI mom 0.35%/0.30%，基准12月加息25bps。市场定价至2027年9月累计加息由约47bps重定价至约90bps。2027最大风险是Fed由容忍通胀的『新约』转向不惜牺牲增长的『旧约』。利率上战术看空美债在CPI后兑现，10s/30s变陡获利了结，前端由看空转中性；商品预测Brent 2026/12 $80/bbl、2027/9 $60/bbl，Gold $4500/$4800/oz（现$3898），铜2026/12 $14,800/t（现$13,642）。",
+          "important": true
+        },
+        {
+          "actor": "JPM Global Eco",
+          "actor_type": "Analyst",
+          "text": "央行通胀自然回落的魔法思维接近终结",
+          "details": "JPM Global Eco：需求韧性叠加通胀反弹，央行和市场『通胀会自然回落』的魔法思维接近终结：全球综合PMI反弹，全球核心通胀（除中国和土耳其）3mo年化回升至3.4%。美国核心PCE yoy 3.2%、3mo年化3.5%，核心服务3.9%、超级核心4.2%，上游核心PPI 3mo年化5.5%、消费品进口价格3.3%，10月失业率稳定、劳动参与改善，工资通胀可能走强。Fed沟通已开始离开『新约式』容忍通胀立场，12月可能加息，点阵图中位数或暗示明年多次加息，泰勒规则显示政策利率需高于4.5%；除日本外其他发达经济体国内基本面不支持进一步加息。",
+          "important": false
+        },
+        {
+          "actor": "GS 2027 Takeaways",
+          "actor_type": "Analyst",
+          "text": "AI投资2027见顶但投资到2028-2029才放缓",
+          "details": "GS 2027 Takeaways：市场比宏观更具挑战：AI投资冲动明年见顶但投资本身到2028-2029年才放缓，AI对市场涨幅的贡献大于对经济增长的贡献，若投资者聚焦AI投资占GDP见顶、其他板块接棒缓慢或能源再度飙升，冲击可能大于预期。UST 10Y由现5.10%降至2027年底4.6%，因政策利率峰值低于市场预期、前端仍有下行空间。",
+          "important": false
+        },
+        {
+          "actor": "GS US Inflation",
+          "actor_type": "Analyst",
+          "text": "能源冲击对核心PCE传导2/3已完成",
+          "details": "GS US Inflation：能源冲击对核心PCE的累计传导约2/3已完成：较高的商品价格目前推高核心PCE yoy约0.5pp，其中90%来自原油上涨和成品油裂解价差扩大；传导通常需6-12mo，已发生的涨幅将在1Q27每月推高核心通胀3bps、2Q27-3Q27每月1-2bps，同比冲击2027年初见顶于0.6pp后随基数退出回落。假设Brent未来几个月维持约$100/bbl、2027年回落至$80/bbl，裂解价差明年仅部分正常化。剩余传导集中在传导较慢的核心商品，机票虽能源成本占比最高但通常两个季度内完成。质疑Fed经济学家『仅完成约1/3、疫情后传导更大更持久』的结论。",
+          "important": false
+        },
+        {
+          "actor": "JPM US Tariffs",
+          "actor_type": "Analyst",
+          "text": "301/232将恢复有效关税率至IEEPA前水平",
+          "details": "JPM US Tariffs：政府将很快通过301和232关税把平均有效关税率恢复至2月IEEPA被推翻前水平，针对16个经济体『结构性产能过剩』的301调查结果可能推迟至12月中旬以配合APEC和G20中美会晤。静态有效关税率现11.2%（IEEPA前13.8%），实际征收比率由1月11.1%降至9月7.1%，季调年化关税收入由1月$373B降至10月$280B。完全恢复将使有效关税率接近14%、年关税收入增加约$90B（消费支出0.4%），核心CPI一年内上升约0.2%且效应前置；若设20%上限则有效关税率12.6%、核心通胀仅+0.1%。IEEPA退款估计共$165B、已退约$140B。另有多晶硅衍生物12/4起15%、橱柜1/1起由25%升至50%，若1/1前无协议对加拿大汽车和钢铁加征50%。",
+          "important": false
+        },
+        {
+          "actor": "BofA Fed Watch",
+          "actor_type": "Analyst",
+          "text": "加息预测增加一次：12月/1月/3月各25bps至4.5-4.75%",
+          "details": "BofA Fed Watch：10月CPI确认Fed在通胀上落后于形势，季度加息节奏不足以追赶，加息预测增加一次：12月、1月、3月各加25bps，终端4.5%-4.75%。风险平衡，数据走弱或金融条件显著收紧可能跳过最后一次，工资通胀大幅上升或年度价格重置较大则政策利率可能升破5%；市场已定价未来两次会议合计近50bps。",
+          "important": false
+        },
+        {
+          "actor": "UBS US Inflation",
+          "actor_type": "Analyst",
+          "text": "整体CPI已见顶4.25%，核心PCE 11月见顶3.4%",
+          "details": "UBS US Inflation：整体CPI yoy已于5月见顶4.25%（10月3.95%），除非Brent持续大幅高于前期峰值$115-120/bbl，春季将大幅回落，整体PCE 5月降至约2.3%、2027年9-10月触及2%。核心PCE 11月见顶3.4%，核心CPI 10月2.76%、11月升至2.9%并维持至3月。核心PCE超目标1.12pp，其中AI采用（信息处理设备）约0.3pp、油价经机票0.2pp、关税经其他核心商品约0.3pp。核心PCE Q4/Q4 2026 3.3%、2027 2.5%、2028 2.1%。Fed在通胀下行前维持不动、2028年才小幅降息，FFR中点2026末4.125%、2027末4.375%、2028末3.875%。股票占家庭财富37%。",
+          "important": false
+        },
+        {
+          "actor": "Barclays Front End",
+          "actor_type": "Analyst",
+          "text": "Fed 12月/2027年1月各加25bps至4.25-4.50%并维持至2027底",
+          "details": "Barclays Front End：预计Fed 12月和2027年1月各加25bps至4.25%-4.50%并维持至少到2027年底；加息或吸引现金回流MMF，但滞后效应不足以抵消1Q大量T-bill供给。10月末至11月初隔夜市场因四季度资产负债表约束、T-bill供给高企、MMF流入放缓和防御性定位明显收紧。债务上限可能2月中下旬开始约束、X-date最早8月底或9月初。1Q末TGA需约$1T、4月纳税季或超$1.1T，预计Fed 12月重启准备金管理购买$10B/mo、1月提至$20B/mo。",
+          "important": false
+        },
+        {
+          "actor": "DB US Chartbook",
+          "actor_type": "Analyst",
+          "text": "美国面临不着陆或再加速风险",
+          "details": "DB US Chartbook：美国面临『不着陆』或再加速风险：金融条件中性至宽松支撑私人需求，制造业和capex预期改善；非农回升，DB盈亏平衡就业40K-50K，10月失业率4.1%。核心PCE粘性，剔除能源、关税和AI后yoy停在2.5%附近，预测核心PCE 2026Q4/2027Q4/2028Q4 3.2%/2.4%/2.1%，2028年才回到2%。DB r-star约1.8%，FFR预测2026Q4 4.13%、2027Q4 4.63%、2028Q4 3.88%。AI采用速度快于电力和ICT，但token降价令AI支出增速放缓，前1%用户月均每员工近$10K、中位数$16；超大规模云厂商capex至2029年持续增加、2027年后增速放缓，自由现金流转负，AI生产率影响学术估计每年0.5-0.75pp。",
+          "important": false
+        },
+        {
+          "actor": "Jefferies",
+          "actor_type": "Analyst",
+          "text": "关键矿产45X或延长并扩至铜，精铜关税可能借232推迟",
+          "details": "Jefferies Critical Minerals：专家认为新国会下美国关键矿产支持政策具持久性，但转向更严监督和定向激励；45X矿产生产抵免（现10%，2031年起递减、2033年后到期）有望延长并扩至铜等矿物。拟议精炼铜关税（2027年1月起15%、2028年起30%）尚未生效，可负担性优先的政府可能借232条款推迟；需关注EXIM（12/31到期）重新授权和FY27 NDAA（OSC股权授权最高$500M、持股上限50%）。",
+          "important": false
+        },
+        {
+          "actor": "Barclays US Equity 2027",
+          "actor_type": "Analyst",
+          "text": "2027年SPX目标由8800下调至8700，EPS由$414上调至$434",
+          "details": "Barclays US Equity 2027：2027年回报靠盈利而非估值：2027年EPS由$414上调至$434（2026年$377，+15%），SPX 2027年底目标由8800下调至8700、对应20x（现约18.5x），牛/熊9400/6450，下调源于金融条件收紧、Fed重新加息和信用质量溢价上升。半导体、硬件和资本品占2027年EPS增长73%但仅占指数权重32%；超大规模厂商capex 2027年超$1.3T、55%在下半年，州级数据中心暂停影响超40%规划产能，但2027年增量产能70-80%已开工。1994-95年类比显示加息期间SPX走平、末次加息至首次降息上涨17.9%。美国股票基金连续5wk净流入、YTD超$380B。超配科技、工业，医疗上调至正面，通信下调至中性、材料下调至负面，可选和必需消费维持负面。",
+          "important": false
+        },
+        {
+          "actor": "卖方汇总(NVDA)",
+          "actor_type": "Analyst",
+          "text": "12家卖方10家维持买入但目标价下调20-30%",
+          "details": "12家卖方里10家维持买入或增持，目标价普遍下调20-30%。共识：未来12-18个月业绩已被积压订单锁住，真正风险在估值降级、2028年后路线图、出口管制。汇丰买入365(未动)；花旗买入315→285→225，不可替代；高盛买入300→220，用苹果失去乔布斯类比；JPM股票增持320→215；JPM信用低配，CDS创新高；JPM波动率短期偏多；巴克莱增持275→210；野村无评级；杰富瑞买入300，亲中立场在华盛顿失去支持；摩根士丹利增持300；嘉信用惠普Hurd丑闻类比，提示人才外流。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "SPY"
+      ],
+      "image_indexes": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "importance": 3,
+      "sources": [
+        "JPM",
+        "GS",
+        "BofA",
+        "UBS",
+        "Barclays",
+        "DB",
+        "Jefferies"
+      ],
+      "date": "2026-11-16",
+      "image_urls": [
+        "/uploads/2026-11-16/fa4bc07374f6.png",
+        "/uploads/2026-11-16/6178f3fa4a1c.png",
+        "/uploads/2026-11-16/cfc45d374854.png",
+        "/uploads/2026-11-16/4d93dd210527.png"
+      ]
+    },
+    {
+      "id": "trump-iran-apec-nov16",
+      "topic": "Trump与地缘",
+      "topic_tag": "geo",
+      "title": "Trump暂缓打击伊朗；下周深圳APEC三方会谈",
+      "summary": "Trump对幕僚称若无新挑衅可能暂缓对伊朗打击；白宫确认Trump下周在深圳APEC与习近平、普京首次三方会谈削减核武器。民主党参议员拟在12/11拨款期限附加切断伊朗战争经费修正案。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "若无新挑衅可能暂缓对伊朗打击",
+          "details": "Trump对幕僚称若无新挑衅可能暂缓对伊朗打击。",
+          "important": false
+        },
+        {
+          "actor": "白宫",
+          "actor_type": "US-Executive",
+          "text": "下周深圳APEC三方会谈：Trump/习近平/普京首谈核裁军",
+          "details": "白宫确认Trump下周在深圳APEC与习近平、普京首次三方会谈，主题是削减核武器。",
+          "important": true
+        },
+        {
+          "actor": "民主党参议员",
+          "actor_type": "US-Congress",
+          "text": "拟12/11拨款期限附加切断伊朗战争经费修正案",
+          "details": "民主党参议员拟在12/11拨款期限附加切断伊朗战争经费的修正案。",
+          "important": false
+        },
+        {
+          "actor": "乌军",
+          "actor_type": "Foreign-Gov",
+          "text": "乌军证实打击俄萨马拉石油枢纽与利佩茨克机场",
+          "details": "乌军证实打击俄萨马拉石油枢纽与利佩茨克机场，俄军持续空袭乌能源设施。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-16",
+      "image_urls": []
+    },
+    {
+      "id": "faa-outage-nov13",
+      "topic": "FAA全国停飞",
+      "topic_tag": "macro-other",
+      "title": "FAA 11月13日全国停飞：L3Harris通信网更新崩溃",
+      "summary": "FAA 11月13日全国停飞，Duffy指源于L3Harris Technologies在偏远地区更换老旧铜线，导致路由器向ATC系统发送大量连接尝试，造成通信和雷达信号间歇性故障。Duffy指责国会未通过$30bn空管现代化拨款，但记者访谈60名管制员称此类切换不会在周五下午做。",
+      "bullets": [
+        {
+          "actor": "Duffy",
+          "actor_type": "US-Executive",
+          "text": "问题源于L3Harris换老旧铜线导致ATC系统故障",
+          "details": "Duffy：问题源于L3Harris Technologies公司在偏远地区更换老旧铜线，导致该处的路由器开始向空中交通管制系统发送大量连接尝试。这造成了空中交通管制通信以及用于引导飞机的雷达信号出现『间歇性』故障。指责国会没通过$30bn空管现代化拨款。",
+          "important": true
+        },
+        {
+          "actor": "记者调查",
+          "actor_type": "新闻",
+          "text": "访谈60名管制员称此类切换不会在周五下午做",
+          "details": "FAA 11月13日全国停飞：L3Harris运营的通信网络更新导致系统重启崩溃；但仍有疑点，记者称访谈60名管制员，他们说此类切换不会在周五下午繁忙时做。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "LHX"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-11-16",
+      "image_urls": []
+    },
+    {
+      "id": "china-policy-nov16",
+      "topic": "中国政策",
+      "topic_tag": "policy",
+      "title": "习近平《求是》文章；吴清谈科技企业上市适配性",
+      "summary": "《求是》杂志发表习近平重要文章《携手共建亚太命运共同体》。吴清在2026中国资本市场学术年会表示科学把握节奏同时加强对科技企业发行上市的制度适配性研究。",
+      "bullets": [
+        {
+          "actor": "习近平",
+          "actor_type": "Foreign-Gov",
+          "text": "《求是》发表《携手共建亚太命运共同体》",
+          "details": "《求是》杂志发表习近平重要文章《携手共建亚太命运共同体》。",
+          "important": false
+        },
+        {
+          "actor": "吴清",
+          "actor_type": "Foreign-Gov",
+          "text": "加强对科技企业发行上市制度适配性研究",
+          "details": "吴清在参加2026中国资本市场学术年会时表示，科学把握节奏的同时加强对科技企业发行上市的制度适配性研究；研究评估量化、减持等制度的优化和公平合理的监管安排。",
+          "important": true
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-11-16",
+      "image_urls": []
+    },
+    {
+      "id": "oil-surplus-iea-nov16",
+      "topic": "原油市场",
+      "topic_tag": "oil",
+      "title": "IEA：10月全球油市转过剩约2 MMbpd",
+      "summary": "IEA 10月全球石油转为过剩约2 MMbpd，多数仍在海上。原油库存回升但精炼产品库存仍偏低，支持精炼油通胀粘性叙事。Hassett数周内离任消息也值得关注。",
+      "bullets": [
+        {
+          "actor": "IEA",
+          "actor_type": "新闻",
+          "text": "10月全球油市转过剩约2 MMbpd，多数在海上",
+          "details": "IEA：10月全球石油转为过剩约2 MMbpd，多数仍在海上。精炼产品库存仍低（支持柴油等成品油通胀粘性）。",
+          "important": true
+        },
+        {
+          "actor": "Semafor",
+          "actor_type": "新闻",
+          "text": "白宫经济顾问Hassett预计数周内离任",
+          "details": "Semafor：白宫经济顾问Hassett预计数周内离任。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        4
+      ],
+      "importance": 1,
+      "sources": [
+        "IEA",
+        "Semafor"
+      ],
+      "date": "2026-11-16",
+      "image_urls": [
+        "/uploads/2026-11-16/7cb092373f62.jpg",
+        "/uploads/2026-11-16/646309ecd2c1.jpg"
+      ]
+    }
+  ]
+}

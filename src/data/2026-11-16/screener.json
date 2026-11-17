@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-11-16T21:31:22+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-11-16",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12625,
+    "partial_pass": 2,
+    "with_carryover": 7,
+    "after_full_check": 2
+  },
+  "rows": [
+    {
+      "tk": "AMD",
+      "nm": "Advanced Micro Devices",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -5.6,
+      "w1": -0.8,
+      "market_cap_bn": 827.06,
+      "dollar_vol_bn": 18.0,
+      "w1_avg_dollar_vol_bn": 25.29,
+      "reason": "",
+      "main_business": "设计研发CPU、GPU及AI芯片等高性能半导体"
+    },
+    {
+      "tk": "LUNR",
+      "nm": "Intuitive Machines, Inc. Class A Common Stock",
+      "industry": "",
+      "days_remaining": 1,
+      "initial_days": 3,
+      "d1": -9.8,
+      "w1": -2.6,
+      "market_cap_bn": 1.89,
+      "dollar_vol_bn": 0.09,
+      "w1_avg_dollar_vol_bn": 0.17,
+      "reason": "",
+      "main_business": "设计建造月球着陆器及深空探测航天器与服务"
+    }
+  ]
+}
