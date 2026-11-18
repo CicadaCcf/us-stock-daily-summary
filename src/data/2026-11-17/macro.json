@@ -1,0 +1,583 @@
+{
+  "topics": [
+    {
+      "id": "nvda-governance-china-nov20",
+      "topic": "Nvidia治理与对华芯片",
+      "topic_tag": "ai",
+      "title": "Nvidia换帅调查+BIS远程芯片新规多头承压",
+      "summary": "Nvidia董事会据CNBC不考虑让黄仁勋回任并已找猎头，临时CEO Kress预计收紧融资交易；BIS发布远程访问先进AI芯片新规新增五国许可，Megaspeed子公司收到$800M+受管制芯片被调查。Trump称不介意黄仁勋复职、不考虑换Lutnick，围绕NVDA财报的治理与对华叙事成为本周主线。",
+      "bullets": [
+        {
+          "actor": "CNBC",
+          "actor_type": "新闻",
+          "text": "Nvidia董事会不考虑黄仁勋回任，已找猎头",
+          "details": "CNBC：Nvidia 董事会不考虑让黄仁勋回任，已找猎头物色新 CEO。",
+          "important": true
+        },
+        {
+          "actor": "BIS",
+          "actor_type": "US-Executive",
+          "text": "BIS发布远程访问先进AI芯片新规",
+          "details": "BIS 发布远程访问先进 AI 芯片新规，新增五国许可要求。",
+          "important": false
+        },
+        {
+          "actor": "DOJ/Commerce",
+          "actor_type": "US-Executive",
+          "text": "Megaspeed调查：商务部与司法部联合声明",
+          "details": "Megaspeed 调查：商务部与司法部发联合声明；NYT 称其马来西亚子公司收到 $800M+ 受管制芯片。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "临时CEO Kress预计收紧Nvidia融资交易",
+          "details": "WSJ：临时 CEO Kress 预计收紧 Nvidia 融资交易。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：Lutnick和Bessent对华有两种看法，不换Lutnick，不介意黄仁勋复职",
+          "details": "Trump Core：Lutnick 与 Bessent 对华\"两种看法\"，不考虑换掉 Lutnick；不介意黄仁勋复职。",
+          "important": false
+        },
+        {
+          "actor": "SEC/Nvidia",
+          "actor_type": "Corporate",
+          "text": "Nvidia减持Intel 25.0%至161.1mln股",
+          "details": "SEC 文件：Nvidia 减持 Intel 25.0% 至 161.1 mln 股。",
+          "important": false
+        },
+        {
+          "actor": "HSBC",
+          "actor_type": "Corporate",
+          "text": "HSBC以85美分折价卖出Stargate新墨西哥$300M贷款",
+          "details": "HSBC 以约 85 美分折价卖出 Stargate 新墨西哥项目 $300M 贷款。",
+          "important": false
+        },
+        {
+          "actor": "SemiAnalysis",
+          "actor_type": "Analyst",
+          "text": "SemiAnalysis下调2028年AI加速器capex预测至$758B（-28%）",
+          "details": "SemiAnalysis 下调 AI 加速器 capex 预测：2028年 -28% 至 $758B。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ：Alice Huang夫妇\"双轨\"推进中国AI",
+          "details": "WSJ 系列报道：Alice Huang 夫妇\"双轨\"推进中国 AI，丈夫在中国建设政府支持的数据中心，两条线并行多年。",
+          "important": false
+        },
+        {
+          "actor": "叶俊显",
+          "actor_type": "Foreign-Gov",
+          "text": "台湾国发会主委：AI芯片需求超供给，Nvidia拿得少别人就拿得多",
+          "details": "台湾国发会主委叶俊显(台积电董事)：AI 芯片需求超过供给，\"If Nvidia takes less, others will take more\"。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "INTC"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "CNBC",
+        "WSJ",
+        "NYT",
+        "SEC"
+      ],
+      "date": "2026-11-17",
+      "image_urls": []
+    },
+    {
+      "id": "fed-hawkish-pivot-nov20",
+      "topic": "美联储鹰派转向",
+      "topic_tag": "fed",
+      "title": "10月CPI后Fed官员全面转鹰，12/9 FOMC加息成共识",
+      "summary": "DB汇总Fed官员表态：Daly、Waller、Logan、Goolsbee、Schmid普遍转鹰，12月加25bps成共识，Waller称核心CPI mom≥0.3%可考虑加50bps。DB基准新增1月加息，12/1/3月各+25bps，FFR 2027Q1达4.625%，名义中性利率上调至3.75-4.00%；市场定价1月加息概率超70%。",
+      "bullets": [
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "10月CPI后Fed官员全面转鹰，12/9加25bps成共识",
+          "details": "DB Fed Speakers：10月CPI后Fed官员不分鹰鸽全面转鹰，12/9 FOMC加 25bps 成为共识：Daly称\"很可能\"需进一步收紧，Waller称若核心CPI mom达 0.3% 或以上可考虑12月加 50bps，并支持至少收回去年三次保险性降息。Logan认为至少还需两次 25bps 加息才算适度紧缩，引用r-star 1.00%-1.85%；Goolsbee主张\"前置激进\"，Schmid称3mo年化CPI 5.7% \"太高\"、政策\"相当宽松\"。",
+          "important": true
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "DB基准新增1月加息，FFR 2027Q1达4.625%",
+          "details": "DB基准新增1月加息，12月、1月、3月各加 25bps，FFR 2027Q1达 4.625%，此后至2028年底逐步回落至中性，名义中性利率上调至 3.75%-4.00%；核心PCE yoy 2026Q4 3.2%、2027Q4 2.4%。转鹰主因是关税、能源和AI建设推动通胀扩散，市场定价1月加息概率超 70%、明年夏季终端约 4.7%。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "2027年FOMC日程改革，SEP或每次会议发布",
+          "details": "2027年FOMC日程调整：10月会议改为讨论政策框架，最后一次决策会议提前至11/16-17，会议间隔均为 2mo；DB倾向SEP未来每次会议发布，点阵图或面临改革。",
+          "important": false
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS：AI/能源/关税推升核心PCE，2028年前回落",
+          "details": "图0 GS预测：核心PCE受AI价格压力（含真实与错误计量）、能源/伊朗效应、关税效应共同推升，2027年达到约3.30%峰值，2028年回落至约2.30%。关税+能源+AI合计贡献2026年中峰值约1.00-1.25pp。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "DB",
+        "GS"
+      ],
+      "date": "2026-11-17",
+      "image_urls": [
+        "/uploads/2026-11-17/0b90447fd856.png"
+      ]
+    },
+    {
+      "id": "sell-side-rates-outlook-nov20",
+      "topic": "卖方观点-利率与资产配置",
+      "topic_tag": "rates",
+      "title": "GS/MS/BofA/Barclays/JPM 2027展望",
+      "summary": "GS看多高质量久期，预计年底UST 10Y 4.6%；MS最大超配全球股票+15%、SPX目标8700；BofA调查显示做多利率近40%列为2027最高信念交易、全球久期仓位近历史高位；Barclays记录固收基金 5d流出$3.1B；JPM预警通胀粘性和AI去风险挑战Fed耐心。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS：UST 10Y年底4.6%，建议做多高质量久期",
+          "details": "GS 2027 Rates Outlook：高起始收益率、通胀回落和对冲价值恢复支撑2027年债券回报，预计年底UST 10Y 4.6%（当前 5.13%）、Gilt 10Y 4.8%（5.32%）、Bund 10Y 3.1%（3.37%），JGB 10Y在 2.75% 附近波动（2.87%）。除日本外G10央行2027年加息少于市场定价，美国核心PCE由2026年底 3.2% 降至2027年底 2.4%；美国5y5y略高于公允价值、英日偏便宜，建议做多高质量久期，预计UST 10Y实现2020年以来第二次正超额回报。",
+          "important": true
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS曲线：美德偏好中段，日本走平，英国最陡",
+          "details": "曲线上美、德、英随前端鸽派重估而变陡，英国陡峭最多，日本走平，美德偏好中段（加息结束后2s5s先横盘再参与陡峭化）；通胀上做多美国10Y TIPS对名义，欧洲和英国前端通胀定价偏高，通过1y1y或1y2y做空通胀。基线下隐含波动率下降、倾向做空gamma，以长期低执行价receiver对冲美国增长下行尾部。",
+          "important": false
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS供需：美国净供应降至$1.097T，欧元区降至€965B",
+          "details": "美国净供应（不含T-bill）由2026年 $1.224T 降至2027年 $1.097T，财政部增加2-10Y拍卖规模但可被Fed购债和到期再投资消化，储备管理购买约 $25B/mo；债务上限或在2027Q1触发，TGA下降先压低SOFR后反转。欧元区净供应由 €1.059T 降至 €965B，BTP-Bund、OAT-Bund年底目标 90bps、100bps。",
+          "important": false
+        },
+        {
+          "actor": "MS",
+          "actor_type": "Analyst",
+          "text": "MS：最大超配全球股票+15%，SPX目标8700",
+          "details": "MS Macro Forum：2027年全球增长 3.4%、美国 2.5%，由AI capex和高收入消费支撑；能源冲击令通胀粘性，Fed 12月和3月加息至 4.25-4.5%，ECB至 3.0%、BoJ至 1.75%，Fed和ECB 2028年降息。UST 10Y年中 5.05%、年底 5.00%，上半年熊平，2Y 4Q 4.70%、2s10s +30bps，长端Bund和Gilt最具价值。最大超配全球股票（+15%：美国 +5%、日本 +5%、欧洲 +4%、EM +1%），SPX目标 8700（2028年EPS $458 × 19x，2027年EPS $420、+14%），偏质量、向周期轮动、首选工业；通过低配商品（-3%，Brent、铜转低配）、现金（-3%）和核心固收（-4%）融资，Gold中性。",
+          "important": false
+        },
+        {
+          "actor": "MS",
+          "actor_type": "Analyst",
+          "text": "MS信用：IG上调至中性，超大规模云AI融资约$900B",
+          "details": "US IG上调至中性、4Q利差收窄至 80bps，2027年IG发行 $2.4T（+12%），HY和EM本地债降至低配，超配CLO AAA；2027年超大规模云现金capex约 $1.5T，跨渠道AI融资约 $900B（从约 $650B），含 $385B 无担保hyperscaler债和 $350B 芯片融资。",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "BofA调查：近40%把做多利率列为2027最高信念交易",
+          "details": "BofA FX & Rates Sentiment：做多利率比做多风险更拥挤：近 40% 受访者把做多利率列为2027年最高信念交易，三分之二认为做多风险最共识，利率多头作为对冲已异常拥挤，上周价格走势已有体现；全球久期仓位接近历史高位，美国久期仓位连续 2mo 增加至年内最看多，美元情绪和仓位转空。37% 受访者认为UST 10Y低于 5.5% 就会引发股市熊市，中位阈值 5.5%-6%；多数认为油价 $125-$150/bbl 持续 3mo 以上将引发消费显著放缓。四分之三认为AI定价至少适度高于合理盈利，42% 认为AI情绪波动将伴随美元走弱；调查于11/6-12进行，41 位基金经理、AUM $489B。",
+          "important": false
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "Barclays：固收基金 5d流出$3.1B，跌至6mo区间底部",
+          "details": "截至11/12的 5d 固收ETF和共同基金流出 $3.1B（前周流入 $14B，此前 4wk 平均流入 $9B），跌至 6mo 区间底部，YTD仍流入 $574B。通胀数据走强和Fed鹰派言论推升政策路径预期，政府债基全线流出，中期政府需求由第 45 百分位降至第 4、长期政府由第 91 降至第 38，公司债基较抗跌，仅银行贷款基金升至第 65 百分位。截至11/4当周H.8银行证券持仓增约 $50B，MBS +$21B、UST +$19B，大型国内银行增持UST $17B，剔除估值效应后仍可观；外国需求走弱，日本投资者最新一周卖出外国债券 $3.4B，Fed托管UST周降 $20B。共同基金仍略超配久期，宏观和CTA基金增加空头久期；资产管理人10Y UST期货净多头处 99.2 百分位，杠杆基金净空。",
+          "important": false
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "JPM：通胀粘性与AI去风险考验Fed耐心",
+          "details": "JPM US Morning：全球数据观察认为通胀持续和劳动力市场反弹将终结Fed的\"魔法思维\"，全球共同通胀脉冲消退后各央行政策将分化，消费增速下滑已开始但尚不构成威胁。宏观策略指出中东紧张缓和后Brent 2wk 内由 $118/bbl 跌近 20% 至约 $96/bbl，接近JPM估算的公允价值，CPI粘性和AI板块去风险令Fed耐心面临考验；Q3财报季除NVDA外超预期获正面反应，但AI股遭抛售，超预期不获奖励、不及预期受重罚。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "DB Jim Reid：对AI就业长期影响比共识乐观",
+          "details": "DB AI & Jobs：Jim Reid对AI就业长期影响比共识乐观：上月DB全球市场调查中 55% 受访者认为AI长期摧毁的岗位多于创造，28% 相反，17% 预期中性。依据是1890年以来美国经历多轮通用技术变革，失业率在衰退之外从未上升超过零点几个百分点，创新带来的生产率提升最终在其他领域创造新岗位。",
+          "important": false
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "JPM：目前没有美国工资增长激增证据",
+          "details": "图1 JPM AM图表：Atlanta Fed工资追踪2026年回落至4-4.5%，Indeed在线招聘工资追踪降至2.5-3%，没有工资激增迹象。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1
+      ],
+      "importance": 3,
+      "sources": [
+        "GS",
+        "MS",
+        "BofA",
+        "Barclays",
+        "JPM",
+        "DB"
+      ],
+      "date": "2026-11-17",
+      "image_urls": [
+        "/uploads/2026-11-17/f827f1db401c.png"
+      ]
+    },
+    {
+      "id": "pimco-yield-update-nov20",
+      "topic": "买方-PIMCO",
+      "topic_tag": "rates",
+      "title": "PIMCO：美债收益率25年高位，中期看好久期",
+      "summary": "PIMCO指出全球名义和实际收益率处约25年高位，美国宽基债券收益率约5.5%、核心通胀约2.5%，与2022年\"零缓冲\"不同；高质量债券策略持有3-5年有望赚取当前收益率，相较昂贵股票更有吸引力。久期从2021年低配转为大致贴近美国宽基指数并偏好较长久期。",
+      "bullets": [
+        {
+          "actor": "PIMCO",
+          "actor_type": "Analyst",
+          "text": "PIMCO：债券收益率25年高位，久期偏多",
+          "details": "PIMCO Yield Update：全球名义和实际收益率处约 25y 高位，利率上行主要来自实际收益率、通胀预期升幅小得多；美国宽基债券指数收益率约 5.5%、核心通胀约 2.5%，与2022年几乎无收益率缓冲不同，高质量策略持有 3-5y 有望赚取当前收益率，相对昂贵股票更有吸引力。",
+          "important": true
+        },
+        {
+          "actor": "PIMCO",
+          "actor_type": "Analyst",
+          "text": "久期从2021低配转为偏长久期",
+          "details": "中期看好久期，加息已计入定价，加息少于预期或AI繁荣动摇时债券受益，久期从2021年低配转为大致贴近美国宽基指数并偏好较长久期。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "PIMCO"
+      ],
+      "date": "2026-11-17",
+      "image_urls": []
+    },
+    {
+      "id": "kol-nvda-earnings-nov20",
+      "topic": "KOL-NVDA财报与半导体",
+      "topic_tag": "ai",
+      "title": "KOL热议NVDA财报：多数预期\"kitchen sink\"或治理雷",
+      "summary": "Andy Constan、Danny Dayan、Brandon Carl、THE SHORT BEAR、Herman Jin、Dow、P Equity、Bob Elliott围绕NVDA财报和治理展开：多数认为最可能是审查拖延（灾难情形）或\"kitchen sink\"压指引；Brandon Carl认为股价会跌破$125，AI版\"影子银行\"体系已hard landing。半导体股估值已隐含50%+ earnings cut。",
+      "bullets": [
+        {
+          "actor": "Andy Constan",
+          "actor_type": "KOL",
+          "text": "Andy Constan：最可能1A+2C\"sell the rip\"，2A拖延是灾难",
+          "details": "Andy Constan：NVDA 财报的组合决定方向，最可能的是最差情形；1. 业绩两种可能：A \"Smash it out of the park\"；B \"kitchen sink\"，压低业绩和指引留给下任；2. 治理三种可能：A 仍在审查；B 审查完毕、主动交代全部问题并配合监管；C 审查完毕、业务没问题但黄仁勋必须走；1A+2C：\"sell the rip\"；1B+2B：\"buy the dip\"，会是底部；2A 拖延问题，是灾难，但\"by far\"最可能。",
+          "important": true
+        },
+        {
+          "actor": "Danny Dayan",
+          "actor_type": "KOL",
+          "text": "Danny Dayan：选kitchen sink，中国和新融资归零",
+          "details": "Danny Dayan：1. \"We are bigger than Jensen\"：big beat 加强指引，2. Kitchen sink：中国和新融资交易归零、无指引直到新 CEO 上任，称自己会选第二种。",
+          "important": false
+        },
+        {
+          "actor": "Brandon Carl",
+          "actor_type": "KOL",
+          "text": "Brandon Carl：NVDA会跌破$125，AI\"影子银行\"已hard landing",
+          "details": "Brandon Carl：Nvidia 财报只能给笼统保证；本轮周期股价会跌破 $125，Colette 团队首要目标是安抚投资者，但没有足够时间尽调，黄仁勋做过大量\"handshake\"交易，预计措辞是\"we're hard at work…\"而非具体答复，需要判断近期盈利有多少来自 AI 版\"影子银行\"，该体系已\"hard landing\"，股价走势有序，是机构卖给散户的程序化抛售。",
+          "important": false
+        },
+        {
+          "actor": "THE SHORT BEAR",
+          "actor_type": "KOL",
+          "text": "THE SHORT BEAR：下跌主因是对华更强硬而非NVDA换帅",
+          "details": "THE SHORT BEAR：这轮下跌主要不是 NVDA 换帅，而是对华更强硬导致间接来自中国的盈利被重估，市场脆弱时放大了不确定性。SemiAnalysis 原先的预测离谱，现在向华尔街共识靠拢。",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "Herman Jin：远程访问新规是APEC筹码，黄仁勋回归难",
+          "details": "Herman Jin：远程访问新规是 APEC 谈判筹码；美方没有稀土和供应链承受力，只有 TACO 一条路；黄仁勋回归如同\"节度使已占据皇宫\"，难以实现。",
+          "important": false
+        },
+        {
+          "actor": "Dow",
+          "actor_type": "KOL",
+          "text": "Dow：Bessent和Rubio焦土攻击Lutnick以保护Trump",
+          "details": "Dow：Bessent 和 Rubio 会对 Lutnick 焦土攻击以保护 Trump；Trump 本人持有 NVDA。",
+          "important": false
+        },
+        {
+          "actor": "P Equity Research",
+          "actor_type": "KOL",
+          "text": "P Equity：半导体估值隐含50%+ earnings cut",
+          "details": "P Equity Research：很多半导体股估值已隐含 50+% earnings cut。",
+          "important": false
+        },
+        {
+          "actor": "Bob Elliott",
+          "actor_type": "KOL",
+          "text": "Bob Elliott：Anthropic估值>$1.2tln给不出像样回报",
+          "details": "Bob Elliott：Claude 和 ChatGPT 对 ANT IPO 更乐观，但估值超过 $1.2tln 时都给不出像样回报。",
+          "important": false
+        },
+        {
+          "actor": "OpenRouter",
+          "actor_type": "Corporate",
+          "text": "OpenRouter：10月token量789.9T，年内指数级增长",
+          "details": "图4 OpenRouter数据：月度token量从1月31.7T指数级增长至10月789.9T，Oct 2026显示为蓝色突出。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "NET",
+        "CRWD"
+      ],
+      "image_indexes": [
+        4
+      ],
+      "importance": 2,
+      "sources": [
+        "KOL"
+      ],
+      "date": "2026-11-17",
+      "image_urls": [
+        "/uploads/2026-11-17/daecc983b44d.png"
+      ]
+    },
+    {
+      "id": "kol-macro-market-nov20",
+      "topic": "KOL-宏观与市场",
+      "topic_tag": "macro-other",
+      "title": "KOL：市场定价衰退/放缓，AI交易已跌35%+",
+      "summary": "多位KOL讨论市场定价衰退、股债同跌风险、动量因子历史最熊、SPY空头持仓。宏观边际指出中国地方政绩观导致投资持续为负，East Asia Econ看人民币2027年升势难持续。",
+      "bullets": [
+        {
+          "actor": "THE SHORT BEAR",
+          "actor_type": "KOL",
+          "text": "市场在定价衰退，AI交易较高点跌35%+",
+          "details": "THE SHORT BEAR：市场在定价衰退或放缓：商品和通胀对冲下跌、防御上涨，动量因子\"biggest bear ever\"，AI 交易较高点跌 35%+。",
+          "important": true
+        },
+        {
+          "actor": "Gingerballs",
+          "actor_type": "KOL",
+          "text": "Gingerballs：AI抛售时等长端走强会失望，股债同跌",
+          "details": "Gingerballs：等 AI 抛售时长端走强的人会失望，股债会一起跌。",
+          "important": false
+        },
+        {
+          "actor": "Elliott",
+          "actor_type": "KOL",
+          "text": "Elliott：其他风险资产都跌，收益率难维持",
+          "details": "Elliott：其他风险资产都在跌，收益率很难维持在这个水平。",
+          "important": false
+        },
+        {
+          "actor": "Fullcarry",
+          "actor_type": "KOL",
+          "text": "Fullcarry：10月CPI和鹰派Fed让前端暂时稳住",
+          "details": "Fullcarry：10月 CPI 和鹰派 Fed 让前端暂时稳住。",
+          "important": false
+        },
+        {
+          "actor": "FoftyPawlow",
+          "actor_type": "KOL",
+          "text": "FoftyPawlow：离散度交易平仓后，债券和黄金才会重新起避险作用",
+          "details": "FoftyPawlow：离散度交易平仓后，债券和黄金才会重新起避险作用。",
+          "important": false
+        },
+        {
+          "actor": "Mark Minervini",
+          "actor_type": "KOL",
+          "text": "Minervini：10/15建立SPY空头，11/11加倍，仍超配空头",
+          "details": "Mark Minervini：10月15日 建立 SPY 空头，11月11日 加倍，仍维持超配空头。",
+          "important": false
+        },
+        {
+          "actor": "Ariel Hernandez",
+          "actor_type": "KOL",
+          "text": "Ariel Hernandez：在AMD/NET/CRWD/SPCX反弹至20/50MA时做空",
+          "details": "Ariel Hernandez：今天没什么可做；AI 交易继续被惩罚，但没有反弹到压力位就不宜做空；现在没理由认为已见底，真正的上升趋势出现时会很明显；在 AMD、NET、CRWD、SPCX 反弹至下行的 20/50 日均线时做空。",
+          "important": false
+        },
+        {
+          "actor": "East Asia Econ",
+          "actor_type": "KOL",
+          "text": "East Asia Econ：2027年人民币升势难持续",
+          "details": "East Asia Econ：2027 年人民币升势能否持续是大问题，逆风是名义增长放缓，以及 more monetary easing。",
+          "important": false
+        },
+        {
+          "actor": "宏观边际MacroMargin",
+          "actor_type": "KOL",
+          "text": "宏观边际：地方政绩观+终身追责制致投资持续为负",
+          "details": "宏观边际MacroMargin：今年投资持续为负的重要原因是地方政绩观和终身追责制，执行中容易误伤正常项目。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "AMD",
+        "NET",
+        "CRWD"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "KOL"
+      ],
+      "date": "2026-11-17",
+      "image_urls": []
+    },
+    {
+      "id": "oil-hormuz-nov20",
+      "topic": "原油与霍尔木兹",
+      "topic_tag": "oil",
+      "title": "UBS追踪：霍尔木兹流量低位，Energy Aspects上调油价底部至$75",
+      "summary": "UBS Hormuz Tracker显示霍尔木兹原油和成品油 7d均值降至10.1M b/d为11月最低，伊朗原油装载为零；Jefferies Energy Aspects将油价底部从$60-65上移至$75，柴油结构性偏紧。GS显示Brent/WTI/Gold/Copper managed money 11月净多头急降。",
+      "bullets": [
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "UBS：霍尔木兹流量7d均值降至10.1M b/d为11月最低",
+          "details": "UBS Hormuz Tracker：霍尔木兹及绕行路线原油和成品油 7d均值降至 10.1M b/d、为11月最低，较冲突前基线少约 10.8M b/d；仅霍尔木兹 8.1M b/d，较基线 20.9M b/d 少 12.8M b/d，绕行另加 1.9M b/d，又称霍尔木兹加绕行总出口 7d均值 12.5M b/d。",
+          "important": true
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "伊朗原油装载为零，巴林周末再遭袭",
+          "details": "除伊朗外海湾原油装载上周 7.2M b/d、11月均值 7.6M b/d（10月 8.4M b/d），伊朗原油装载为零（战前 1.8M b/d），成品油装载不足 1M b/d（正常 3M b/d 以上），Yanbu 2.4M b/d（10月 2.6M b/d）；LNG离开阿曼湾流量恢复至冲突前约 15%，装载率近 40%。若伊朗无新挑衅，特朗普或在周四与习近平、普京会面前暂缓打击，但巴林周末再遭袭、伊朗称更多船只在海峡被击中。",
+          "important": false
+        },
+        {
+          "actor": "Amrita Sen/Jefferies",
+          "actor_type": "Analyst",
+          "text": "Energy Aspects：油价底部上移至$75",
+          "details": "Jefferies Energy Aspects：Energy Aspects创始人Amrita Sen将油价底部从 $60-$65/bbl 上移至约 $75/bbl：基准情形2027年中起累库、4Q27过剩最大，但若中东出口维持9月水平，全球库存保持多年低位并去化至2027年夏、或迫使炼厂降负；约 400M bbl 陆上库存已消耗，美国SPR释放持续至1Q27后所剩无几，缓冲削弱。",
+          "important": false
+        },
+        {
+          "actor": "Jefferies",
+          "actor_type": "Analyst",
+          "text": "柴油结构性偏紧，美国LNG出口能力升至近$ bcf/d",
+          "details": "柴油结构性偏紧：美国柴油库存到2026年底低于五年区间，PADD 1到2027年底低于五年最低，支撑NYMEX取暖油时间价差和裂解底部，汽油受库存累积和需求疲弱压制。美国LNG出口能力从略高于 20 bcf/d 升至2028年底近。",
+          "important": false
+        },
+        {
+          "actor": "GS/CFTC",
+          "actor_type": "Analyst",
+          "text": "Brent/WTI/Gold/Copper 11月净多头急降",
+          "details": "图2 GS 1m Conditional Projections：Brent/WTI 11月净多头从Sept-Oct的6-9$bn急降至3-5$bn；Gold从10$bn降至-10/-12$bn；Copper从10-12$bn急降至-10/-15$bn。各品种在Up Big情景下预期流量显著回升。",
+          "important": false
+        },
+        {
+          "actor": "CFTC/Brent",
+          "actor_type": "Analyst",
+          "text": "Brent CTA动量：长趋势仍在25-30",
+          "details": "图3 Brent Managed Money Net Length和CTA动量阈值：MM Net Length在4月后大幅上升至45-48b；PMPU Gross Longs波动于100-150b；CTA Short/Medium/Long Trend在4-5月峰值40-43后回落，11月Long Trend维持25-30、Medium 5-10、Short 5-7。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "XOM",
+        "CVX"
+      ],
+      "image_indexes": [
+        2,
+        3
+      ],
+      "importance": 2,
+      "sources": [
+        "UBS",
+        "Jefferies",
+        "GS"
+      ],
+      "date": "2026-11-17",
+      "image_urls": [
+        "/uploads/2026-11-17/67c605d3d9d9.png",
+        "/uploads/2026-11-17/2d96bec37d7e.png"
+      ]
+    },
+    {
+      "id": "us-congress-fy2027-nov20",
+      "topic": "美国国会FY2027拨款",
+      "topic_tag": "policy",
+      "title": "参院共和党公布FY2027拨款案：国防$1.072T",
+      "summary": "参议院共和党公布FY2027拨款案，国防拨款$1.072T，部分和解预算项目移入。",
+      "bullets": [
+        {
+          "actor": "Senate GOP",
+          "actor_type": "US-Congress",
+          "text": "参院共和党FY2027国防拨款$1.072T",
+          "details": "参院共和党公布 FY2027 拨款案：国防 $1.072T，部分和解预算项目移入。",
+          "important": true
+        },
+        {
+          "actor": "NY Fed",
+          "actor_type": "Central-Bank",
+          "text": "NY Fed：疫后求职者对再就业持续悲观",
+          "details": "NY Fed Job Expectations：疫情后劳动者对再就业持续悲观：2014-2019年SCE预期 3mo 求职率 55.5%、CPS实际 57.2%，2022年至今实际 58.8%、预期仅 53.0%；悲观集中在 30 岁及以下（由高估 6.3pp 转为低估 3.0pp）和高中及以下学历（疫情后低估 7.5pp）。失业风险预期普遍高于实际，CPS实际失业概率约为SCE预期的一半，但CPS口径漏掉退出劳动力和被裁前主动离职，只是风险下限；实际失业率随任期显著下降而预期降得更慢，工作满 2y 后预期仍超实际 2x 以上。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-11-17",
+      "image_urls": []
+    },
+    {
+      "id": "misc-news-nov20",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "Anthropic IPO超额10-20倍+美国大行登录故障",
+      "summary": "Gerstner称Anthropic IPO超额认购10-20倍，将推出对标Microsoft办公产品；Chase/BofA/Wells Fargo/US Bank/Capital One客户报告无法登录或转账，JPM称technical issue，Zelle称自身正常。",
+      "bullets": [
+        {
+          "actor": "Gerstner",
+          "actor_type": "KOL",
+          "text": "Anthropic IPO超额认购10-20倍，将推出对标MSFT办公产品",
+          "details": "Anthropic IPO：Gerstner 称超额认购 10-20 倍；将推出对标 Microsoft 的办公产品。",
+          "important": true
+        },
+        {
+          "actor": "JPM/BofA/WFC/USB/COF",
+          "actor_type": "Corporate",
+          "text": "美国多家大行登录和转账故障，Zelle正常",
+          "details": "Chase、Bank of America、Wells Fargo、US Bank、Capital One 客户报告无法登录或转账；JPMorgan 称\"technical issue\"导致部分交易延迟；Zelle 称自身正常。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "USB",
+        "COF",
+        "MSFT"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-11-17",
+      "image_urls": []
+    }
+  ]
+}
