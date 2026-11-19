@@ -1,0 +1,732 @@
+{
+  "topics": [
+    {
+      "id": "fed-speakers-nov19",
+      "topic": "美联储官员发言",
+      "topic_tag": "fed",
+      "title": "Fed 内部鹰派扩散：Musalem/Williams/Hammack 齐表态",
+      "summary": "多位Fed官员本周集中发声，整体偏鹰：Musalem暗示春季前可能需要数次加息；Williams强调通胀顽固、需及时回到2%但不认同50bps激进行动；Hammack要求在平静期先定好干预美债的原则。GS与UBS均观察到Fed基调转向更广泛鹰派。",
+      "bullets": [
+        {
+          "actor": "Musalem",
+          "actor_type": "Central-Bank",
+          "text": "春季前可能需要数次加息",
+          "details": "Musalem 称 2027 年春季之前可能需要 \"several\" rate hikes 才能及时回到 2% 通胀目标。",
+          "important": true
+        },
+        {
+          "actor": "Williams",
+          "actor_type": "Central-Bank",
+          "text": "通胀顽固，但反对12月50bps激进行动",
+          "details": "Williams 称通胀\"顽固高企\"、需及时持续回到 2%；认为10月核心CPI超预期是关税和能源冲击传导的\"延续\"而非\"扩散\"，AI是重要且更可能持续的通胀因素；但对 Waller 上周提出的 12 月加息 50bps 选项回应\"当前形势不需要激进行动\"。",
+          "important": false
+        },
+        {
+          "actor": "Hammack",
+          "actor_type": "Central-Bank",
+          "text": "呼吁事先定好干预美债原则",
+          "details": "Hammack 认为 FOMC 应在平静时定好干预美债市场的原则，干预应\"temporary and targeted\"，自始就有退出安排；流动性差若反映基本面，Fed 不该出手。",
+          "important": false
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS解读官员节奏分歧",
+          "details": "GS Fed Speakers 纪要：Jefferson 重申调整取决于数据趋势、前景和风险平衡，GS 解读为更渐进；Hammack 要求让限制性重新回到经济中，偏好每次会议缓慢、稳定、连续加息；Musalem 称 2027 春季前可能需几次加息。GS 估计 AI 相关价格压力对核心 PCE yoy 影响在 2026 年底见顶，2027 年随内存涨价放缓回落。",
+          "important": false
+        },
+        {
+          "actor": "UBS Evidence Lab",
+          "actor_type": "Analyst",
+          "text": "LLM追踪显示Fed鹰派基调接近2022年",
+          "details": "UBS Evidence Lab 基于 LLM 的央行基调追踪（覆盖超过 20y 讲话/采访/发布会，每日更新）显示，Fed 基调转为更坚定、基础更广的鹰派，上升斜率开始接近 2022 年；通胀仍是最大驱动、大体追随整体 PCE，增长和就业基调也在走强，4Q 鹰派扩散至理事会成员和多个话题，Warsh 和 Jefferson 领涨。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "GS",
+        "UBS"
+      ],
+      "date": "2026-11-18",
+      "image_urls": []
+    },
+    {
+      "id": "us-congress-admin-nov19",
+      "topic": "美国国会与政府",
+      "topic_tag": "policy",
+      "title": "Jeffries要求IT故障简报；SEC民事调查Nvidia",
+      "summary": "众议院民主党领袖 Jeffries 就微软/FAA/NSA 故障要求两院简报；拨款谈判由 DeLauro 与 Murray 主导推进，DeLauro 反对伊朗战争但不希望 12/11 停摆。SEC 对 Nvidia 展开民事调查。",
+      "bullets": [
+        {
+          "actor": "SEC",
+          "actor_type": "US-Executive",
+          "text": "SEC 对 Nvidia 展开民事调查",
+          "details": "Administration：SEC 对 Nvidia 展开民事调查。",
+          "important": true
+        },
+        {
+          "actor": "Hakeem Jeffries",
+          "actor_type": "US-Congress",
+          "text": "要求就微软/FAA/NSA故障两院简报",
+          "details": "Jeffries 要求政府就微软、FAA、NSA 故障做两院简报；并称拨款进程由 Rosa DeLauro（众议院）和 Patty Murray（参议院）主导的\"四角谈判\"在推进。",
+          "important": false
+        },
+        {
+          "actor": "Rosa DeLauro",
+          "actor_type": "US-Congress",
+          "text": "反对伊朗战争，但不想12/11停摆",
+          "details": "众议院拨款委员会民主党最高负责人 DeLauro 反对伊朗战争，但不希望 12 月 11 日停摆，想在民主党掌控国会后再与 Trump 摊牌。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-18",
+      "image_urls": []
+    },
+    {
+      "id": "nvidia-narrative-nov19",
+      "topic": "Nvidia 公司叙事",
+      "topic_tag": "ai",
+      "title": "Nvidia：董事会设国安委员会、黄仁勋去留、浑水做空",
+      "summary": "Nvidia 董事会新设国家安全与出口管制监督委员会；黄仁勋声明若董事会认为合适愿回任 CEO，但董事会\"does not intend to reinstate\"；浑水宣布做空，指销售主管与前 SMCI 高管关系；接任人选曾考虑 Marvell 的 Matt Murphy。多位 KOL 从估值、融资结构、系统性风险角度评论。",
+      "bullets": [
+        {
+          "actor": "Nvidia 董事会",
+          "actor_type": "Corporate",
+          "text": "设国安与出口管制委员会；不打算让黄仁勋回任",
+          "details": "Nvidia 董事会设立国家安全与出口管制监督委员会。黄仁勋发声明：若董事会认为符合各方利益，愿意回任 CEO；但 Nvda 董事会\"does not intend to reinstate\"黄仁勋，不回答其离职问题。Semafor 称曾考虑 Marvell CEO Matt Murphy 接任，但私下担心此时接任观感不好。",
+          "important": true
+        },
+        {
+          "actor": "浑水 Muddy Waters",
+          "actor_type": "Analyst",
+          "text": "浑水宣布做空 NVDA",
+          "details": "浑水宣布做空 NVDA，指前销售主管 Puri 与前 SMCI 高管 Cenly Chen 关系。",
+          "important": false
+        },
+        {
+          "actor": "Mohamed A. El-Erian",
+          "actor_type": "Analyst",
+          "text": "称Nvidia具系统重要性，被称'AI央行'",
+          "details": "El-Erian：Nvidia 的财务结构具有系统重要性，被称为\"central bank of AI\"，处在股权、供应商融资、算力承诺交织的网中，对手方常是财务脆弱的公司，合同条款不公开，压力下是否稳固不确定，没有可靠的基准预测，结果分布很宽：从资产负债表吸收的有序调整，到收紧 AI 信贷的无序平仓。",
+          "important": false
+        },
+        {
+          "actor": "Dan Niles",
+          "actor_type": "KOL",
+          "text": "按CY27 10x PE，风险回报'compelling'",
+          "details": "Dan Niles：NVDA 是 beat and raise，按 CY27 10x PE（S&P 17x），风险回报\"compelling\"。",
+          "important": false
+        },
+        {
+          "actor": "Brandon Carl",
+          "actor_type": "KOL",
+          "text": "调高FY27数据利好估值，设委员会是Smart move",
+          "details": "Brandon Carl：Nvidia 调高 fiscal 2027 数据和 fiscal 2028 增长，NTM P/E 会很低，有助托住分析师预期；设立国家安全与出口管制委员会是\"Smart move\"，好消息会开始对冲坏消息，短期波动后形成新基准；做 AMD 对 NVDA 相对价值交易的一周约赚 10%，建议降风险；他预计两者转向一起走低。",
+          "important": false
+        },
+        {
+          "actor": "P Equity Research",
+          "actor_type": "KOL",
+          "text": "怀疑28FY在新BIS规则下增长100%",
+          "details": "P Equity Research：Colette 的表态让他认为 Nvidia 的融资力度几乎和黄仁勋时期一样激进；看重 LPS（土地、电力、厂房），直接利好 neocloud；对 Colette 同意新 BIS 规则下 28 财年仍可增长 100% 表示怀疑。",
+          "important": false
+        },
+        {
+          "actor": "Mo",
+          "actor_type": "KOL",
+          "text": "没有黄仁勋NVDA很可能失败",
+          "details": "Mo：没有黄仁勋，NVDA 很可能失败，前沿实验室和 hyperscaler 是最大赢家，SI 下每个前沿实验室和 hyperscaler 都得做芯片。",
+          "important": false
+        },
+        {
+          "actor": "180K",
+          "actor_type": "KOL",
+          "text": "数字好但大框架未清晰",
+          "details": "180K：单看数字好，但悬而未决的大框架不算完全清晰，股东回报好，但资金使用和产业链支持之间不算清晰。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "SMCI",
+        "MRVL"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Semafor"
+      ],
+      "date": "2026-11-18",
+      "image_urls": []
+    },
+    {
+      "id": "ai-sector-macro-nov19",
+      "topic": "AI 行业宏观",
+      "topic_tag": "ai",
+      "title": "AI 行业：出口管制再升级、模型发布、独角兽融资",
+      "summary": "路透社称 Trump 政府将推进限制中国新型光收发模块等 AI 数据中心设备进口；WSJ 称 Anthropic 拟将 IPO 定价上调至 $80 以上；OpenAI 发布 GPT-6.2 Astra/Sol；Anthropic 集中投入生物医药。多位 KOL 评论 AI capex 占市值、hyperscaler 与矿企分化。",
+      "bullets": [
+        {
+          "actor": "Trump 政府",
+          "actor_type": "US-Executive",
+          "text": "将推进限制中国 AI 数据中心设备进口",
+          "details": "路透社：Trump 政府将推进限制中国新型光收发模块等 AI 数据中心设备进口。",
+          "important": true
+        },
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "IPO 拟上调定价至 $80 以上",
+          "details": "WSJ：Anthropic 拟把 IPO 定价提到 $80 以上，原区间 $70-$78。",
+          "important": false
+        },
+        {
+          "actor": "OpenAI",
+          "actor_type": "Corporate",
+          "text": "发布 GPT-6.2 Astra 和 Sol",
+          "details": "OpenAI 发布 GPT-6.2 Astra 和 Sol，距上次前沿模型 72 天，主打财务建模、科研等专业工作，成本更低。",
+          "important": false
+        },
+        {
+          "actor": "海外独角兽",
+          "actor_type": "KOL",
+          "text": "Anthropic 押注生物医药，或成制药业台积电",
+          "details": "海外独角兽：生物医药是 Anthropic 在 Coding 之后集中投入的方向，它可能成为制药业的台积电，重点是尽快 close the loop：分子设计已能快速生成，瓶颈转向湿实验，因此自建实验室并与外部合作。",
+          "important": false
+        },
+        {
+          "actor": "Danny Dayan",
+          "actor_type": "KOL",
+          "text": "AI capex占市值6%不算极端",
+          "details": "Danny Dayan：用 AI capex 占市值衡量：累计花市值的 6% 押注变革性技术不算极端；AMZN 和 META 明显高出一截。",
+          "important": false
+        },
+        {
+          "actor": "Eric Wallerstein",
+          "actor_type": "KOL",
+          "text": "hyperscaler 撑得住，矿企和 SPX/KOSPI 不行",
+          "details": "Eric Wallerstein：hyperscaler 还撑得住，能继续发债和股票；转型前的比特币矿企\"not okay at all\"；SPX 和 KOSPI 也不行。",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "做多防御做空半导体的拥挤仓位会反爆",
+          "details": "Herman Jin：做多防御、做空半导体的拥挤仓位 100% 会反向爆仓，消费、医疗、utility 每年增长 2-6%，升息环境下追不上利息，却因做空增长 50% 的 semi 而暴涨。把明年增长 5% 的药厂炒到 18 倍 PE，把增速 50%+ 的 semi 砸到 low teens multiple。",
+          "important": false
+        },
+        {
+          "actor": "调研纪要小组",
+          "actor_type": "KOL",
+          "text": "AI 封锁升级利好国产算力自主可控",
+          "details": "调研纪要小组：美国 AI 封锁再升级，国产算力与半导体迎来自主可控窗口。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "AMZN",
+        "META",
+        "AMD"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Reuters",
+        "WSJ"
+      ],
+      "date": "2026-11-18",
+      "image_urls": []
+    },
+    {
+      "id": "it-outage-cyber-nov19",
+      "topic": "IT 故障与网络安全",
+      "topic_tag": "macro-other",
+      "title": "NSA/Apple/Optimizely 事件；Google 警告自主 AI 攻击",
+      "summary": "NSA 机密网络中断、Apple iCloud 多项服务中断，均称非网络攻击；黑客通过 Optimizely 向 178 家公司植入盗卡代码；Google 警告 3-6 个月内或出现完全自主 AI 网络攻击。",
+      "bullets": [
+        {
+          "actor": "NSA",
+          "actor_type": "US-Executive",
+          "text": "NSA 内部机密网络中断，源于修 AI 漏洞",
+          "details": "CNN：NSA 内部通信用的机密网络中断，暂无网络攻击迹象，NSA 告诉国会，故障源于赶修 AI 模型发现的漏洞。",
+          "important": true
+        },
+        {
+          "actor": "Apple",
+          "actor_type": "Corporate",
+          "text": "iCloud 登录与多项服务中断",
+          "details": "Apple：所有用户受 iCloud 登录故障影响，部分用户无法使用 iCloud 网页应用和 Mail，Apple 称\"internal update\"导致多项服务中断，不是网络攻击。",
+          "important": false
+        },
+        {
+          "actor": "黑客",
+          "actor_type": "Unknown",
+          "text": "经 Optimizely 向 178 家公司植入盗卡代码",
+          "details": "黑客经 Optimizely 在 178 家公司网站植入盗卡代码，涉及 Zoom、CNN、BBC、IKEA、HSBC；三十二家银行和金融网站允许该工具运行代码。",
+          "important": false
+        },
+        {
+          "actor": "Google",
+          "actor_type": "Corporate",
+          "text": "3-6 个月内或出现完全自主 AI 网络攻击",
+          "details": "Google 威胁报告：3-6 个月内或出现完全自主的 AI 网络攻击。",
+          "important": false
+        },
+        {
+          "actor": "THE SHORT BEAR",
+          "actor_type": "KOL",
+          "text": "政府应说明故障性质，否则恐慌",
+          "details": "THE SHORT BEAR：政府应告诉公众故障的性质；FAA、NSA 最终都没事，但不给信息引发恐慌；他猜可能是 AI 时代技术栈更新带来的中断。",
+          "important": false
+        },
+        {
+          "actor": "Trade_the_Matrix",
+          "actor_type": "KOL",
+          "text": "'4th turning'正在兑现",
+          "details": "Trade_the_Matrix：网络攻击会冲击金融市场，\"4th turning\"正在兑现。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "AAPL",
+        "ZM"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "CNN"
+      ],
+      "date": "2026-11-18",
+      "image_urls": []
+    },
+    {
+      "id": "buyside-views-nov19",
+      "topic": "买方观点",
+      "topic_tag": "macro-other",
+      "title": "Druckenmiller 几乎全换组合；但斌看多 AI",
+      "summary": "Druckenmiller 把 1 月组合几乎全部换掉，当前处于资本保全，不多不空股票，持少量多美元、少量空铜，看好 AI 应用、医疗、网络安全；担心 2027H2。但斌认为 AI 行情现在像 1994 而非 2000。",
+      "bullets": [
+        {
+          "actor": "Druckenmiller",
+          "actor_type": "KOL",
+          "text": "几乎全换组合，capital preservation",
+          "details": "Druckenmiller：几乎完全换掉了1月份的组合（当时看多经济、看多股票、看多铜、做空国债、看好医疗）。现在经济本身仍强，但其他条件几乎全部反转：美联储不再降息、商品走弱、信用利差扩大、涨跌线已见顶等；担心 2027 年下半年经济令人失望。不做多也不做空股票，\"I can't remember a period where I had less clarity on where we're gonna be in 12 months\"；处于 capital preservation；\"I wouldn't dare go short with all the innovation going on\"，认为相关股票\"oversold\"；持有少量 dollar 多头；小仓做空铜。",
+          "important": true
+        },
+        {
+          "actor": "Druckenmiller",
+          "actor_type": "KOL",
+          "text": "AI 看应用而非基础设施；点名医疗/网安",
+          "details": "Druckenmiller：AI 是美国商业史上最重大的事件之一；找 AI 应用而非基础设施，基础设施可能还有阶段性交易机会，但已不再是下一阶段主要业绩引擎；领先的模型公司不会长期只卖 token，最终会直接卖\"完成的任务\"；医疗健康和网络安全是他点名关注的方向。",
+          "important": false
+        },
+        {
+          "actor": "Druckenmiller",
+          "actor_type": "KOL",
+          "text": "评 Warsh：反对免费货币，支持货币紧缩",
+          "details": "Druckenmiller：我对 Warsh 很熟悉，曾经在我旁边坐了 15 年。他不喜欢过去 15 年一直是免费的钱，而赤字和其他东西一路冲上天。他更不喜欢，通胀已经连续五年高于目标，所以现在发生的是货币紧缩。",
+          "important": false
+        },
+        {
+          "actor": "但斌",
+          "actor_type": "KOL",
+          "text": "AI 行情才四年，现在像 1994 而非 2000",
+          "details": "但斌：AI 行情才走四年，不太可能就此结束，今年调整更像蓄力，现在像 1994 年而非 2000 年；如果真栽了就认了。",
+          "important": false
+        },
+        {
+          "actor": "David Solomon (GS CEO)",
+          "actor_type": "Corporate",
+          "text": "AI 仍处周期早期，估值比半年前有吸引力",
+          "details": "GS CEO Solomon：\"peak\"是个有意思的词，AI 仍处周期早期，增长曲线在重新校准；估值比六个月前有吸引力得多。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-11-18",
+      "image_urls": []
+    },
+    {
+      "id": "us-equity-views-nov19",
+      "topic": "美股观点与季节性",
+      "topic_tag": "macro-other",
+      "title": "美股：Minervini 准备回补空头；散户已回归",
+      "summary": "多位交易员 KOL 对美股当前位置分歧：Minervini 仍做空但周四前可能回补；Ritchie II/Hernandez 认为短线超卖反弹；Derivatives Don 视为 relief rally；Trade_the_Matrix 定性为熊市；Ariston 关注散户活动与年底格局。",
+      "bullets": [
+        {
+          "actor": "Mark Minervini",
+          "actor_type": "KOL",
+          "text": "周四美中俄会晤前准备回补 S&P 空头",
+          "details": "Mark Minervini：仍做空 S&P 500，但准备在周四美中俄会晤前回补，若周四前再跌，可能借弱势回补部分或全部空头。牛市已是第五长；1950 年以来中期选举后一年 S&P 500 从未下跌，大选前一年平均涨 17.2%，多在上半年；年末季节性和总统周期前半段是利好；若 Fed 不进入快速紧缩，这次回调会较短。",
+          "important": true
+        },
+        {
+          "actor": "Mark Ritchie II",
+          "actor_type": "KOL",
+          "text": "短线超卖，关注反弹放量",
+          "details": "Mark Ritchie II：短线超卖，反弹正常；看反弹是否放量；类似的失败突破，反弹都没突破前高，只持续 3-7 天。",
+          "important": false
+        },
+        {
+          "actor": "Ariel Hernandez",
+          "actor_type": "KOL",
+          "text": "'成长股跌 50%'不算多头理由",
+          "details": "Ariel Hernandez：连续三天大跌后，市场能否反弹几天待看；若最强的多头理由只是\"成长股已跌 50%\"，那算不上多头逻辑；没有更高低点、成长股也没走强，保持耐心；明天可以试探性入场，但满仓前先让一只股票站稳。",
+          "important": false
+        },
+        {
+          "actor": "Derivatives Don",
+          "actor_type": "KOL",
+          "text": "只是 relief rally，在找卖点",
+          "details": "Derivatives Don：只是 relief rally，在找卖点，近端做多是错的。",
+          "important": false
+        },
+        {
+          "actor": "Trade_the_Matrix",
+          "actor_type": "KOL",
+          "text": "SPY 已在熊市，做空每次反弹",
+          "details": "Trade_the_Matrix：SPY 已在熊市：反弹慢慢磨，下跌很快到新低；\"short every next rally\"。",
+          "important": false
+        },
+        {
+          "actor": "Ariston",
+          "actor_type": "KOL",
+          "text": "散户已回，看本周测试是否失败",
+          "details": "Ariston：散户投资者已经回来；11 月中到年底散户活动通常感恩节前上升、感恩节周回落、12 月中再升；若本周测试失败、这批人泄气，失守支撑会改变美股年底格局。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY"
+      ],
+      "image_indexes": [
+        0,
+        1,
+        2
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-18",
+      "image_urls": [
+        "/uploads/2026-11-18/1327beb85b94.jpg",
+        "/uploads/2026-11-18/f53690449d29.jpg",
+        "/uploads/2026-11-18/aa7431565307.jpg"
+      ]
+    },
+    {
+      "id": "inflation-commodity-views-nov19",
+      "topic": "通胀与大宗商品观点",
+      "topic_tag": "oil",
+      "title": "多方认为通胀/名义增长已见顶；铜三支柱恶化",
+      "summary": "Anna Wong 预计 11 月 CPI 追踪为 0%、2H27 headline CPI 低于 2；Bob Elliott 认为通胀担忧已随上一份 CPI 见顶；Jurrien Timmer 则看到债市从担心增长转向定价结构性通胀。Thorne 看空成品油价格，Ariston 看空铜。",
+      "bullets": [
+        {
+          "actor": "Anna Wong",
+          "actor_type": "Analyst",
+          "text": "11 月 CPI 追踪 0%，2H27 headline 低于 2",
+          "details": "Anna Wong：她的预测路径与 GS（core PCE 到 2027 年底 2.4%）很接近；Druckenmiller 说 2H 27 增长可能令人失望，她预计 2H 27 headline CPI 低于 2；另：Bloomberg Price Project 11 月 CPI 追踪 0%。",
+          "important": true
+        },
+        {
+          "actor": "Bob Elliott",
+          "actor_type": "KOL",
+          "text": "通胀担忧已见顶，名义增长预期过峰值",
+          "details": "Bob Elliott：crack spread 和 Brent 近两周下跌，通胀担忧可能已随上一份 CPI 见顶；Markets See Peak Nominal Growth Behind Us：油、铜、股票、黄金、比特币和 dollar 都显示名义增长预期已过峰值。",
+          "important": false
+        },
+        {
+          "actor": "@EconstratPB",
+          "actor_type": "KOL",
+          "text": "gas-to-CPI 模型得出同样结论",
+          "details": "@EconstratPB：他的 gas-to-CPI 模型和 crack bot 也得出 BobEUnlimited 的结论；headline 一直在降，主要因能源；核心不变。",
+          "important": false
+        },
+        {
+          "actor": "Jurrien Timmer",
+          "actor_type": "KOL",
+          "text": "'投资时钟已过午夜'，Fed 落后于曲线",
+          "details": "Jurrien Timmer：市场多股暗流：\"peak AI\"担忧、Mag 7 可能重估、债市从担心增长转向定价结构性通胀；盈利增长见顶而金融条件收紧，\"It is past midnight for the investment clock\"；通胀高于 3%；Fed 落后于曲线。",
+          "important": false
+        },
+        {
+          "actor": "James E. Thorne",
+          "actor_type": "KOL",
+          "text": "成品油过剩，还没跌完",
+          "details": "James E. Thorne：炼厂此前开足马力，现在过剩转到下游，汽柴油跌得比原油快，零售油价滞后批发几周，还没跌完，这是供给过剩而非需求问题，在替 Fed 做事；炼油利润崩塌时 Hiking 1% 是\"insanity\"。",
+          "important": false
+        },
+        {
+          "actor": "Ariston",
+          "actor_type": "KOL",
+          "text": "铜三支柱恶化，情绪溢价消失",
+          "details": "Ariston：铜的三个定价支柱都在恶化，转向关注下行路径：1) 系统 2026/9/22 发出的顶部信号仍是本轮最高点；价格涨、动能弱，现已跌破上升趋势线；2) 铜溢价来自囤货、贸易壁垒和\"AI metal\"情绪；中国 PPI 转正后已平掉大部分多头；3) 囤货与贸易壁垒溢价先走弱，最近 AI 和数据中心交易崩塌，情绪溢价也没了。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-18",
+      "image_urls": []
+    },
+    {
+      "id": "ubs-oil-nov19",
+      "topic": "UBS 原油展望",
+      "topic_tag": "oil",
+      "title": "UBS：Brent 跌破 $100，2026 平衡表转松",
+      "summary": "中东升级缓解令 Brent 跌破 $100，但库存低位仍支撑在 $90 区间。UBS 基准 4Q26 均价 $100、2026/27/28 为 $91.57/$80/$75，长期边际成本约 $75；2026 全年由短缺 2M b/d 收至 1.3M b/d，2027 过剩 3.6M b/d。沙特产出回到战前 90%，11 月海湾出口回落 1M b/d。",
+      "bullets": [
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "Brent 4Q26 均价 $100，2027 降至 $80",
+          "details": "UBS：中东升级风险缓解、海湾供应恢复令 Brent 跌破 $100/bbl，但库存处 5y 区间低位，需以 2M b/d 速度重建近 1y 才能回到冲突前水平，供需和库存仍支撑 Brent 在 $90/bbl 区间。基准 4Q26 均价 $100/bbl，2026/2027/2028 年 $91.57/$80/$75/bbl，长期边际成本约 $75/bbl；中东基础设施再遭袭击可升至 $120/bbl 以上，美伊达成协议则可能跌破 $80/bbl。",
+          "important": true
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "4Q26 由短缺转为过剩 1M b/d",
+          "details": "平衡表转松：4Q26 由短缺 1.7M b/d 改为过剩 1M b/d，2026 年全年短缺由 2M b/d 缩至 1.3M b/d（EIA、IEA 约 0.7M b/d）；2027 年过剩 3.6M b/d（伊朗不恢复则 2.4M b/d），IEA 3.8M b/d、EIA 4.1M b/d。需求端维持 2026 年增长 -2M b/d，2027 年下调至 2.6M b/d，成品油紧张和高燃料价格拖累 2027H1。",
+          "important": false
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "沙特产出回到战前 90%，SPR 释放完成 83%",
+          "details": "UBS：10 月海湾出口约 12M b/d、关停产能收窄至 3.6M b/d，沙特产量回到 10M b/d、出口 7.7M b/d（约战前 90%），但 11 月海湾出口回落约 1M b/d，美伊协议前景有限、全面正常化仍远。10 月全球观察库存增 52M 桶为 6 月以来首增、主要在海上，陆上库存近 2016 年以来最低；中国 10 月进口回升至约 9M b/d（8 月 7.3M b/d，仍低于冲突前 15%），全球战略储备释放已完成约 83%，美国 SPR 低于 280M 桶。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "UBS"
+      ],
+      "date": "2026-11-18",
+      "image_urls": []
+    },
+    {
+      "id": "bofa-fms-nov19",
+      "topic": "BofA FMS 11月调查",
+      "topic_tag": "earnings",
+      "title": "全球 FMS：科技降配创 06 年来最大，软着陆首超无着陆",
+      "summary": "11月全球 FMS（193位、$526B）显示现金降至 3.6%（跌破 4% 卖出规则）、股票净超配 41%、软着陆 50% 首超无着陆 42%；科技超配从 37% 降至 12%（06 年 6 月来最大单月降幅）；医疗升至 34%；最大尾部风险为 AI 泡沫 34%。亚洲 FMS 增长与盈利预期显著恶化，日本成下阶段 AI 周期首选。",
+      "bullets": [
+        {
+          "actor": "BofA Global FMS",
+          "actor_type": "Analyst",
+          "text": "科技超配降 25pp，06 年来最大单月降幅",
+          "details": "11 月 FMS（193 位经理、AUM $526B）宏观仍乐观但 AI 狂热消退：现金降至 3.6%、低于 4% 现金规则触发卖出信号，股票净超配 41%；软着陆 50% 自 6 月来首超无着陆 42%，硬着陆仅 3%，净 32% 预期全球 CPI 下降、为 2024 年 10 月以来最低。情绪指标 6.3、牛熊指标 7.4，恐慌不足，战术上仍规避风险。",
+          "important": true
+        },
+        {
+          "actor": "BofA Global FMS",
+          "actor_type": "Analyst",
+          "text": "最拥挤仍是多半导体 39%；医疗超配 34%",
+          "details": "科技超配从净 37% 降至 12%，为 2006 年 6 月以来最大单月降幅，医疗保健超配升至净 34%，可选、必需消费低配收窄至 20%、18%，能源低配扩大至 12%；债券低配从净 37% 收窄至 23%，UST 10Y 需达 5.8% 才转配债券，创纪录净 23% 认为黄金低估。52% 预期超大规模厂商 6mo 内削减 capex（上月 30%），最大尾部风险为 AI 泡沫 34%、AI 超大规模信用事件 31%，最拥挤交易仍为做多全球半导体 39%（7 月 82%）。",
+          "important": false
+        },
+        {
+          "actor": "BofA Global FMS",
+          "actor_type": "Analyst",
+          "text": "2027 最佳资产：国际股 36%、美股 24%、金 17%",
+          "details": "2027 年最佳资产为国际股票 36%、美股 24%、黄金 17%，日元为最佳货币 42%；年末目标 UST 10Y 4.9%、EURUSD 1.12、SPX 7926、Gold $4341/oz。逆向交易：多现金/黄金空股票、多消费空医疗、多 REITs 空银行、多能源空工业。",
+          "important": false
+        },
+        {
+          "actor": "BofA Asia FMS",
+          "actor_type": "Analyst",
+          "text": "亚洲：增长盈利预期恶化，日本取代韩国成 AI 首选",
+          "details": "BofA Asia FMS 11 月（受访 94 人、AUM $241B）增长与盈利预期显著恶化：净 5% 预期亚太除日本盈利改善（上月 55%），净 19% 预期中国经济走弱，日本经济预期跌至历史第 16 百分位，净 5% 预期通胀上升（上月 50%）；亚太除日本 12mo 预期上行降至 4.7%，日本 5.1%（历史均值 4.8%），认为亚太除日本低估的比例上升。仓位转向防御：印度 2026/1 以来首次转为净超配，医疗保健首次成为亚太除日本最受青睐板块之一，消费和公用事业获加仓，工业、材料、科技被削减，北亚超配下降。86% 认为 AI 变现是未来 12mo 最大驱动，日本取代韩国成为下一阶段 AI 周期首选受益者，偏好从基础设施/内存转向计算/软件，半导体周期信心跌至历史第 12 百分位；62% 预期 BoJ 12 月加息。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "importance": 3,
+      "sources": [
+        "BofA"
+      ],
+      "date": "2026-11-18",
+      "image_urls": [
+        "/uploads/2026-11-18/5f9024098e04.png",
+        "/uploads/2026-11-18/97ab1bbb0fac.png",
+        "/uploads/2026-11-18/2a77a55bb1b5.png",
+        "/uploads/2026-11-18/69e9e2ec500e.png"
+      ]
+    },
+    {
+      "id": "ms-prime-positioning-nov19",
+      "topic": "MS/Prime 科技仓位",
+      "topic_tag": "earnings",
+      "title": "MS 13F：NVDA 低配扩至历史最大 -2.75%",
+      "summary": "MS 3Q26 13F 显示超大盘科技相对 SPX 平均低配 -124bps；NVDA 低配扩大 22bps 至历史最大 -2.75%，TSLA 升至 +0.71% 为唯一超配；机构超配存储与半导体设备、低配软件；主动持仓显著低于指数的股票历史上平均出现技术性上拉。",
+      "bullets": [
+        {
+          "actor": "MS",
+          "actor_type": "Analyst",
+          "text": "NVDA 低配扩至历史最大 -2.75%",
+          "details": "MS Tech Positioning：3Q26 13F 显示超大盘科技股（NVDA、AAPL、MSFT、AMZN、GOOGL、META、TSLA）相对 SPX 权重平均低配 -124bps，较 2Q -129bps 小幅收窄，其余 21 只大型科技超配从 +39bps 降至 +28bps。NVDA 低配扩大 22bps 至历史最大 -2.75%，其次 AAPL -2.54%、MSFT -1.96%、AMZN -1.13%；TSLA 升 101bps 至 +0.71%，为唯一超配的超大盘股，过去 45d NVDA 跌 32%、AAPL 涨 6%，AAPL 或已成最低配。",
+          "important": true
+        },
+        {
+          "actor": "MS",
+          "actor_type": "Analyst",
+          "text": "超配存储/设备，低配软件",
+          "details": "机构继续超配存储和半导体设备（KLAC +1.29%、STX +1.01%、SNDK +0.86%），低配 IBM、PANW、ADBE、ORCL、NOW 等软件，拥挤一定程度导致 Q4 以来基础设施跑输软件；经市值和业绩调整后，主动持仓显著低于指数的股票历史上平均出现技术性上拉。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "GOOGL",
+        "META",
+        "TSLA",
+        "KLAC",
+        "STX",
+        "SNDK",
+        "IBM",
+        "PANW",
+        "ADBE",
+        "ORCL",
+        "NOW"
+      ],
+      "image_indexes": [
+        3
+      ],
+      "importance": 2,
+      "sources": [
+        "MS"
+      ],
+      "date": "2026-11-18",
+      "image_urls": [
+        "/uploads/2026-11-18/18d329d6888c.png"
+      ]
+    },
+    {
+      "id": "bofa-rates-ubs-cross-nov19",
+      "topic": "美利率与跨资产",
+      "topic_tag": "rates",
+      "title": "BofA：2Y 看 5%，推 2s30s 平坦化；DB 看 X 日期在 10 月",
+      "summary": "BofA 预计 2Y 至 2026 年底 5%，低配前端、最高确信 2s30s 平坦化；经济团队再增一次加息、终端 4.5-4.75%，不排除 12 月 50bps。UBS 多数客户视 5% 为 2Y 上限、基准 12 月与 1 月各 25bps。DB 称债务上限约 2 月中触发、X 日期大体在 10 月。",
+      "bullets": [
+        {
+          "actor": "BofA US Rates",
+          "actor_type": "Analyst",
+          "text": "2Y 看 5%，最高确信 2s30s 平坦化",
+          "details": "BofA US Rates：美国前端利率将继续温和上行，预计 2Y 至 2026 年底 5%，建议低配美国前端，最高确信表达为 2s30s 平坦化（入场 62bps、当前 64bps、目标 40bps、止损 100bps）。依据是利率未实质限制经济：3mo 年化核心 CPI 和彭博劳动惊喜指数处 2024H1 以来最高，信用利差和贷款增长未收紧，泰勒规则隐含联邦基金利率接近或高于 5%；BofA 美国经济团队再增一次加息、终端利率 4.5-4.75%，不排除 12 月加息 50bps（条件：11 月失业率 4.0%、平均时薪 mom 0.4%、科技情绪稳定）。前端重定价将推高全期限收益率并压平曲线，客户普遍押注陡峭化，平坦化可能成为全球久期的痛苦交易；油价接近 BofA 预测，但美伊冲突升级时油价和利率有上行风险，客户认为油价超过 $125/bbl 才引发需求破坏。",
+          "important": true
+        },
+        {
+          "actor": "UBS Cross-Asset",
+          "actor_type": "Analyst",
+          "text": "多数客户视 5% 为 2Y 上限，基准 12/1 月各 25bps",
+          "details": "UBS Cross-Asset：客户对蓝色浪潮影响分歧：一方认为民主党阵容广泛，资本开支和数据中心建设急剧放缓风险低，美元或回吐部分溢价但美国仍是最强主要经济体，UBS 预计 EURUSD 2027Q2 1.07；另一方认为美国实际利率已具限制性，若 2027 年超大规模资本开支不及 UBS 基准 $1.75T，UST 收益率和美元可能快速下行。12 月 FOMC 加 50bps 可能性低，多数客户视 5% 为 UST 2Y 上限，UBS 基准 12 月、1 月各加 25bps 以逆转 2025 年 75bps 保险性降息，淡化 ECB 或 BoE 加息被认为比淡化 Fed 更划算。UBS 主题性偏好 5s30s SOFR 曲线陡峭化（部分客户偏好 2s5s 走平），预计欧元 2s10s ESTR 曲线进一步走平。部分客户认为科技股抛售偏技术性，AI 和半导体去杠杆或提供更好入场点，防御股不便宜、进一步远离 AI 的轮动不具吸引力，AI 资本开支的股市财富效应可能比实体支出对增长更重要。法国利差 2027H1 或进一步走阔、风险持续期间 100-150bps 合理，之后转建设性；担保债券偏好核心市场 2-5Y 和德国担保债券。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "债务上限 2 月中触发，X 日期约 10 月",
+          "details": "DB Debt Ceiling：年底前完成预算和解可能性低，债务上限将在 2027 年成为核心约束：按过去四个财年季节性并校准至 DB 2027 年赤字率 7% 的预测，$41.1T 上限约在 2 月中旬触发，此后非常措施（暂停投资、提前赎回联邦雇员退休基金）加 TGA 合计约 $1.55T 资源，X 日期大体在 10 月；期间财政部将动用 TGA 并削减 T-bill 发行以保住附息发行空间。税收强度是 X 日期的主要变数：今年代扣所得税收入稳定增长 5%，但股债表现弱于往年，可能拖累整体税收、使 X 日期提前。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "BofA",
+        "UBS",
+        "DB"
+      ],
+      "date": "2026-11-18",
+      "image_urls": []
+    },
+    {
+      "id": "bofa-us-consumer-nov19",
+      "topic": "美国消费数据",
+      "topic_tag": "macro-other",
+      "title": "BofA 卡数据：K 型分化逆转，低收入假日支出 +9%",
+      "summary": "BofA 卡数据显示 10 月假日相关支出按家庭 yoy 低收入 +9%、高收入 +6%、收入前 5% +4%，千禧与 Z 世代约 +10%，K 型分化正在逆转。BofA 提醒当日 10 月零售销售环比预估 +0.2%（控制组 +0.4%），应透过噪音看潜在趋势。",
+      "bullets": [
+        {
+          "actor": "BofA US Eco",
+          "actor_type": "Analyst",
+          "text": "低收入假日支出 +9% 领先高收入 +6%",
+          "details": "BofA 卡数据显示假日消费开局强劲且更广泛，K 型分化正在逆转：10 月假日相关支出按家庭 yoy 低收入 +9%、高收入 +6%、收入前 5% +4%，千禧一代和 Z 世代约 +10%，远高于年长家庭。BofA 提醒当日公布的 10 月零售销售环比可能温和（预估 +0.2%、控制组 +0.4%），应透过数据噪音看潜在趋势。",
+          "important": true
+        },
+        {
+          "actor": "BofA US Eco",
+          "actor_type": "Analyst",
+          "text": "提醒看潜在趋势而非 10 月零售噪音",
+          "details": "BofA：当日公布的 10 月零售销售环比可能温和（预估 +0.2%、控制组 +0.4%），应透过数据噪音看潜在趋势。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [
+        "BofA"
+      ],
+      "date": "2026-11-18",
+      "image_urls": []
+    },
+    {
+      "id": "china-regulator-nov19",
+      "topic": "中国监管与机构",
+      "topic_tag": "macro-other",
+      "title": "证监会辟谣基金 AI 敞口上报；平安降股票仓位",
+      "summary": "证监会辟谣\"监管要求基金公司上报全部产品 AI 敞口\"；中国平安郭晓涛称投资端提高固收和另类配置，降低公开市场股票比例。",
+      "bullets": [
+        {
+          "actor": "证监会",
+          "actor_type": "Foreign-Gov",
+          "text": "辟谣基金 AI 敞口上报",
+          "details": "证监会辟谣：\"监管要求基金公司上报全部产品 AI 敞口\"不属实。",
+          "important": true
+        },
+        {
+          "actor": "中国平安 郭晓涛",
+          "actor_type": "Corporate",
+          "text": "提高固收另类，降低股票比例",
+          "details": "中国平安郭晓涛：投资端提高固收和另类配置，降低公开市场股票比例。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-11-18",
+      "image_urls": []
+    }
+  ]
+}
