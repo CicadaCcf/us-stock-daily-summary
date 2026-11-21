@@ -1,0 +1,433 @@
+{
+  "topics": [
+    {
+      "id": "iran-crisis-nov20",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "Trump否认伊斯兰堡初协 考虑新一轮打击",
+      "summary": "Trump称伊斯兰堡初步协议\"a waste of time\"但希望持久协议，NYT称其正考虑新一轮大规模对伊打击。国会方面众院民主党起草NDAA条款、参院战争权力决议仍缺共和党票以限制伊朗战争。Fars称一艘伊朗油轮准备突破封锁，航线受干扰将引爆海湾多国石油设施。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump考虑新一轮大规模对伊打击",
+          "details": "NYT:Trump 考虑新一轮大规模对伊打击，尚未决定。Trump 称伊斯兰堡初步协议\"a waste of time\"，但想要持久协议，并会\"soon\"结束战争；对 Axios:伊朗问题不急于决定，年初之后再看。",
+          "important": true
+        },
+        {
+          "actor": "美国国会",
+          "actor_type": "US-Congress",
+          "text": "国会尝试限制伊朗战争权力",
+          "details": "国会限制伊朗战争:众院民主党起草 NDAA 条款,参院战争权力决议仍缺共和党票。",
+          "important": false
+        },
+        {
+          "actor": "Fars",
+          "actor_type": "新闻",
+          "text": "Fars称伊朗油轮准备突破封锁",
+          "details": "Fars 称一艘伊朗油轮准备突破封锁,航线受干扰将引爆巴林、科威特、阿曼、卡塔尔、沙特、阿联酋的石油设施。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "NYT",
+        "Axios",
+        "Fars"
+      ],
+      "date": "2026-11-20",
+      "image_urls": []
+    },
+    {
+      "id": "us-congress-energy-ai-nov20",
+      "topic": "能源/AI/社保立法",
+      "topic_tag": "policy",
+      "title": "参院通过BAAJA许可改革 社保兜底提案",
+      "summary": "参院通过BAAJA许可改革法案转交众议院，便利管道、输电线路及能源基础设施建设，部分数据中心可免付电网升级费用。国会考虑把Remote Access Security Act条款加入AI OVERWATCH Act。参院预算委主席Ron Johnson提议社保信托基金耗尽后由一般收入兜底。",
+      "bullets": [
+        {
+          "actor": "参议院",
+          "actor_type": "US-Congress",
+          "text": "参院通过BAAJA许可改革法案",
+          "details": "参院通过许可改革法案 BAAJA，转交众议院，该法案便利管道、输电线路及其他重大能源基础设施建设，能源项目审批改革法案拟让部分数据中心免付电网升级费用。",
+          "important": true
+        },
+        {
+          "actor": "国会",
+          "actor_type": "US-Congress",
+          "text": "考虑将远程访问安全条款并入AI OVERWATCH",
+          "details": "国会考虑把 Remote Access Security Act 条款加入 AI OVERWATCH Act。",
+          "important": false
+        },
+        {
+          "actor": "Ron Johnson",
+          "actor_type": "US-Congress",
+          "text": "社保信托耗尽后由一般收入兜底",
+          "details": "参院预算委员会主席 Ron Johnson 提案:社保信托基金耗尽后由一般收入兜底。",
+          "important": false
+        },
+        {
+          "actor": "Hinojosa(德州当选州长)",
+          "actor_type": "US-Executive",
+          "text": "德州拟冻结电价 数据中心承担基建成本",
+          "details": "德州当选州长 Hinojosa 称将通过 Public Utility Commission 推动电价冻结，认为消费者不应承担数据中心基础设施成本。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-20",
+      "image_urls": []
+    },
+    {
+      "id": "ukraine-nato-territory-nov20",
+      "topic": "乌克兰谈判",
+      "topic_tag": "geo",
+      "title": "Kushner与Witkoff议乌克兰让地换北约",
+      "summary": "美国特使Jared Kushner与Steve Witkoff讨论了以乌克兰让出领土换取北约成员资格的方案。",
+      "bullets": [
+        {
+          "actor": "Kushner/Witkoff",
+          "actor_type": "US-Executive",
+          "text": "讨论乌克兰让地换北约方案",
+          "details": "美国特使Jared Kushner与Steve Witkoff讨论了以乌克兰让出领土换取北约成员资格的方案。",
+          "important": true
+        },
+        {
+          "actor": "Unknown",
+          "actor_type": "Unknown",
+          "text": "方案仍在内部讨论阶段",
+          "details": "该方案系美方内部讨论，未与基辅或北约盟友公开确认。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-20",
+      "image_urls": []
+    },
+    {
+      "id": "nvda-amd-tsmc-chips-nov20",
+      "topic": "芯片行业动态",
+      "topic_tag": "ai",
+      "title": "Moody's降NVDA展望 TSMC/三星暂停对华发货",
+      "summary": "Moody's把Nvidia评级展望从positive降至stable，理由是黄仁勋出局后的治理问题；Semafor称黄仁勋回任概率为零，可能另创芯片公司。FT报道台积电、三星通知中国客户暂停部分处理器发货并向美商务部申请许可。Hunterbrook发布AMD做空报告称AMD有自己的\"China problem\"；Musk称Anthropic想从SpaceX再租10GW算力。",
+      "bullets": [
+        {
+          "actor": "Moody's",
+          "actor_type": "Analyst",
+          "text": "Moody's将NVDA展望降至stable",
+          "details": "Moody's 把 Nvidia 评级展望从 positive 降至 stable，理由是黄仁勋出局后的治理问题。",
+          "important": true
+        },
+        {
+          "actor": "Semafor/Goswami",
+          "actor_type": "新闻",
+          "text": "黄仁勋回任概率为零 或另创芯片公司",
+          "details": "Semafor 记者 Goswami 称黄仁勋回任英伟达概率\"为零\"，可能另创芯片公司，董事会决定门槛极高，许多董事与他共事约 30 年，不会因外界声援推翻。",
+          "important": false
+        },
+        {
+          "actor": "FT",
+          "actor_type": "新闻",
+          "text": "台积电三星暂停对华部分处理器发货",
+          "details": "FT:台积电、三星通知中国客户暂停部分处理器发货,同时向美商务部申请许可。",
+          "important": false
+        },
+        {
+          "actor": "Hunterbrook",
+          "actor_type": "Analyst",
+          "text": "Hunterbrook做空AMD 称其有China problem",
+          "details": "Hunterbrook 发布 AMD 做空报告，称 AMD 有自己的\"China problem\"。",
+          "important": false
+        },
+        {
+          "actor": "Musk",
+          "actor_type": "Corporate",
+          "text": "Anthropic欲从SpaceX再租10GW算力",
+          "details": "Musk:Anthropic 想从 SpaceX 再租 10GW 算力。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "TSM"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "FT",
+        "Semafor",
+        "Moody's"
+      ],
+      "date": "2026-11-20",
+      "image_urls": []
+    },
+    {
+      "id": "anthropic-ipo-ai-kol-nov20",
+      "topic": "Anthropic IPO与AI叙事",
+      "topic_tag": "ai",
+      "title": "Anthropic IPO引市场结构与AI估值辩论",
+      "summary": "Anthropic已承诺超过$800bn算力基础设施支出（Broadcom $161.2B、Google $114.5B、Amazon $110B、Google TPU追加$150B、SpaceXAI $120.5B等）。多位KOL/分析师围绕IPO辩论：El-Erian称其挤占市场资金类似利率上升、Anna Wong警告token价格下滑无定价权是AI交易终结信号、Jon Turek称$1.5T估值同时容纳右尾与肥左尾、PDS认为多头获得突破\"AI wall of worry\"的载体、Dan Niles看好ANT扛过LLM商品化、Herman Jin批Anthropic排斥开源。",
+      "bullets": [
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "Anthropic算力承诺超$800B",
+          "details": "Anthropic 承诺超过$800bn算力基础设施支出：Broadcom $161.2B、Google $114.5B、Amazon $110B、Google TPU追加$150B、SpaceXAI $120.5B、Microsoft $44.9B、Lambda $41.3B、Nscale $44.6B、AMD $20B。",
+          "important": true
+        },
+        {
+          "actor": "Anna Wong",
+          "actor_type": "Analyst",
+          "text": "ANT IPO或标志AI交易终结",
+          "details": "Anna Wong:Anthropic IPO 可能标志 AI 交易的终结。其每百万 token 的实际价格近期下降很快；token 用量份额却没有回升,甚至略降；这说明它是没有持久定价权的寡头,增长只能靠降价换量,生意很难做。",
+          "important": false
+        },
+        {
+          "actor": "Mohamed El-Erian",
+          "actor_type": "Analyst",
+          "text": "ANT IPO挤占市场腾地有成本",
+          "details": "El-Erian:Anthropic 上市不只关乎 AI 的前景,也关乎为它腾地方,市场结构的转变有成本。狭义上,投资者靠出售其他持仓来认购这单 mega-IPO；广义上与收益率的情形类似:大型借款人都不减少用债,融资成本对所有人上升,利率敏感板块受冲击最大。",
+          "important": false
+        },
+        {
+          "actor": "Jon Turek",
+          "actor_type": "Analyst",
+          "text": "$1.5T估值容纳右尾与肥左尾",
+          "details": "Jon Turek:$1.5T 的 ANT 估值,同时容纳了\"$10T+ 生意\"的右尾和比同规模公司更肥的左尾。公司通常靠把左尾风险压到接近零来达到 $1T 以上估值:估值是未来现金流现值的倍数,也是围绕这些现金流的分布。",
+          "important": false
+        },
+        {
+          "actor": "PDS",
+          "actor_type": "Analyst",
+          "text": "ANT上市给多头突破AI wall of worry",
+          "details": "PDS:多空都对,但空头逻辑已在基础设施层计价,ANT 上市让多头逻辑有了突破\"AI wall of worry\"的载体。空头说的是半年前的叙事,而且确实兑现了;多头关注技术的变革作用、扩散还很早、经济在转向 cognitive economy。ANT 上市后,市场首次能定期、公开地看到需求端,这会锚定这项技术作为收入和利润引擎的衡量方式。",
+          "important": false
+        },
+        {
+          "actor": "Dan Niles",
+          "actor_type": "Analyst",
+          "text": "若选一家扛过LLM商品化选ANT",
+          "details": "Dan Niles:ANT IPO 稳健;若只能选一家扛过 LLM 层商品化,会选 Anthropic,但短期不是他的 AI 首选。",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "Anthropic排斥开源\"太邪恶\"",
+          "details": "Herman Jin:Anthropic 做那么多小动作,是为了排斥开源竞争,\"太邪恶了\"。意识到开源的实质威胁,保持优势越来越难。趁企业 workflow 跑起来,堵死数据口,想独占数据、赢家通吃。制造 AI 生态威胁论,引入国家监管,给开源打上中国印记。",
+          "important": false
+        },
+        {
+          "actor": "Apple",
+          "actor_type": "Corporate",
+          "text": "苹果开发自主AI智能体入场竞争",
+          "details": "苹果正在开发可代用户办事的自主人工智能智能体，希望进入 OpenAI、Anthropic、Meta 等已在竞逐的快速增长市场。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "AVGO",
+        "GOOGL",
+        "AMZN",
+        "MSFT",
+        "AMD",
+        "AAPL",
+        "META"
+      ],
+      "image_indexes": [
+        0
+      ],
+      "importance": 3,
+      "sources": [
+        "FT"
+      ],
+      "date": "2026-11-20",
+      "image_urls": [
+        "/uploads/2026-11-20/00c345f240fb.jpg"
+      ]
+    },
+    {
+      "id": "us-equity-kol-nov20",
+      "topic": "美股KOL观点",
+      "topic_tag": "macro-other",
+      "title": "KOL讨论NVDA估值与IPO情绪",
+      "summary": "Bob Elliott认为NVDA回到2024年秋水平、trailing 12m earnings的15x开始有意思；Lance Breitstein称是情绪拖累ANT而非反之；Mark Ritchie II把ANT IPO问询少视为反向指标；Mark Minervini在找capitulation信号、已回补全部空头；Ariel Hernandez称眼下几乎找不到真正领涨。",
+      "bullets": [
+        {
+          "actor": "Bob Elliott",
+          "actor_type": "KOL",
+          "text": "NVDA回到15x TTM开始有意思",
+          "details": "Bob Elliott:NVDA 回到 2024 年秋的水平,trailing 12m earnings 的 15x,开始变得有意思;不需要接近 75% 的增长也有吸引力。",
+          "important": true
+        },
+        {
+          "actor": "Lance Breitstein",
+          "actor_type": "KOL",
+          "text": "是情绪拖累ANT而非反之",
+          "details": "Lance Breitstein:不是 Anthropic 拖累情绪,是情绪拖累了 Anthropic 当天的表现。依据:本周 SNDK、NVDA、SMH、ETH、BTC 反弹已很弱,本就准备转跌。",
+          "important": false
+        },
+        {
+          "actor": "Mark Ritchie II",
+          "actor_type": "KOL",
+          "text": "ANT IPO问询少 反向指标",
+          "details": "Mark Ritchie II:作为反向指标,问 Anthropic IPO 的人远少于当年问 SPCX 的;反向指标往往成群出现。他不交易首日 IPO,对 ANT 没有强观点。",
+          "important": false
+        },
+        {
+          "actor": "Mark Minervini",
+          "actor_type": "KOL",
+          "text": "接近低点回补全部空头",
+          "details": "Mark Minervini:市场仍危险,但 easy money 已经赚到;在美中俄峰会后白宫可能释放正面表态前,接近低点回补全部空头。早盘:人人期待的 IPO 一上市,市场就没事了?早盘反弹\"unimpressive\",随后连发\"I rest my case\"\"Can you hear me now?\"；在找 capitulation 信号:等反弹出现 follow-through day,再看能否出现 breadth-thrust;关键是领涨股和 setup、突破是否有效。",
+          "important": false
+        },
+        {
+          "actor": "Ariel Hernandez",
+          "actor_type": "KOL",
+          "text": "眼下几乎找不到真正领涨",
+          "details": "Ariel Hernandez:市场一定会反弹,问题是谁来领涨;没有价格确认的 conviction 是固执。眼下几乎找不到真正的领涨;Tom Lee 把 Ethereum 放进领涨类别,\"it certainly isn't leading now\"。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "image_indexes": [
+        2
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-20",
+      "image_urls": [
+        "/uploads/2026-11-20/ec87d0c4fe2a.png"
+      ]
+    },
+    {
+      "id": "sellside-cross-nov20",
+      "topic": "卖方观点汇总",
+      "topic_tag": "macro-other",
+      "title": "Citi/HSBC/JPM/Barclays/UBS/DB卖方汇总",
+      "summary": "Citi看油价回落可能抑制核心通胀但12月加息已锁定；HSBC指企业AI生产力宏观红利要2027-28后才现，2026年20%裁员被引为AI原因但实际裁员下降存在\"AI清洗\"；JPM预测债务上限X日期推迟至2027年11月；Barclays指参院$1.073T FY27国防提案较总统请求少26%；UBS看IEA ARC情景利好能源服务；DB看CTA在贵金属连续数周最大空头但现货流量仍指向买入。",
+      "bullets": [
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "债务上限X日期推迟至2027年11月",
+          "details": "JPM:债务上限将在2027年2月底前再度约束：截至11/16财政部距 $41.1T 上限仅剩 $640B，FY27赤字假设 $2.06T。宣布最长 6mo 的DISP后可用非常措施约 $597B（G基金 $364B、CSRDF/PSRHBF $208B、ESF $25B），叠加2月底约 $900B TGA，X日期预计推迟至2027年11月。共和党成为少数党后可能以债务上限为筹码，但缓冲期长、参议院需至少 5 名共和党人倒戈，预计不会重演2011/2023年最后一刻僵局。上限未解决前财政部减少净T-bill发行消耗TGA，准备金增加使2027年上半年融资环境充裕；全年净T-bill发行超 $1T 但集中在下半年，围绕X日期的 6mo T-bill或在2027年春季出现溢价。",
+          "important": true
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "油价回落或松动12月之后加息路径",
+          "details": "Citi US Daily:WTI从9月中旬约 $100/bbl 回落至略高于 $80/bbl，若延续将通过机票等子项同时压低整体和核心通胀，并抑制明年1-2月核心通胀季调后仍偏强的季节性。Fed加息的主因是维护抗通胀公信力而非经济过热，因此加息计划对即期通胀数据异常敏感。连续 3 次核心通胀超预期已基本锁定12月加息，不排除1月继续加息；但低能源价格若持续，可能成为12月之后暂缓加息的理由。",
+          "important": false
+        },
+        {
+          "actor": "HSBC",
+          "actor_type": "Analyst",
+          "text": "AI生产力红利要2027-28后才现",
+          "details": "HSBC:企业层面尚未出现广泛的AI生产力收益，宏观生产力繁荣在2027年甚至2028年出现的前景不乐观。52 个经济体 2176 家公司业绩电话会中 59% 积极采用AI，其中仅 56% 报告某种生产力收益；全样本仅 19% 报告成本收益、16% 报告生产收益、13% 报告收入收益。报告收益的公司中 80% 提到时间节省，这类收益较模糊、不直接增加产出或减少工时；成本收益（57%）通过减少工时直接作用于生产力分母，且在成熟采用者中增长最快。美国公司把时间节省转化为成本节省略好于欧洲；Challenger数据中AI被引为裁员原因的比例2026年为 20%（2025年不足 5%），但实际裁员同比下降，存在\"AI清洗\"。",
+          "important": false
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "参院$1.073T国防提案较总统少26%",
+          "details": "Barclays:参议院共和党公布约 $1.1T（实为 $1.073T）FY27国防拨款提案，较总统约 $1.45T 总请求（含 $350B 协调资金）少 $377B、-26%，国防预算已接近峰值；共和党握有多数仍无法通过总统数字，共识区间 $1.0T-$1.1T。投资账户 $488.5B（较总统自主预算多 $12.1B、较总请求少 $268.3B）；O&M $327.1B（较总请求 -24%）。弹药 $53.1B 与总请求 $52.9B 基本持平，$47B 从协调转入基础预算（另一处称 $6.9B，原文两处不一致）；金穹 -44% 至 $9.8B、造船 -36% 至 $42B、无人机DAWG -93% 至 $4B 为削减重灾区。伊朗冲突是民主党反对的主要症结，Patty Murray称\"不能也不应接受\"；现行CR于12/11到期，11/30-12/11为关键谈判窗口，若无法通过拨款法案或新CR，政府面临停摆风险。",
+          "important": false
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "IEA ARC情景利好能源服务",
+          "details": "UBS:IEA 2026 WEO新增ARC情景（中东油气长期中断叠加更强政策响应），UBS认为冲突最明确的后果是各国把能源安全和可负担性放在首位，推动供应路线、供应伙伴和能源结构三重多元化，能源服务是最大受益者，买入TE.PA、GTT.PA、SPMI.MI、SLB、WFRD、NESR。霍尔木兹原油流量已恢复至冲突前约 90%（不含伊朗）但近期回落；在建或考虑中的绕行管道 7M b/d、投资约 $40B（约 $2/bbl）。石油需求：CPS 2035年 110M b/d（UBS 107M b/d）、2050年 120M b/d，STEPS 2035年 106M b/d、2050年 101M b/d；ARC较STEPS 2035年低 4.4M b/d、2050年低 15M b/d，主因EV替代超 11M b/d。天然气：CPS 2035年需求 5177bcm、STEPS 4799bcm，中国LNG进口增 130bcm，全球超 70% LNG出口流向亚洲；STEPS下LNG过剩约2030年见顶、2035年仍约 70bcm。两种情景投资需求都高于过去十年，CPS年均约 $380B（+30%）、STEPS约 $330B（+10%）。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "CTA贵金属连续数周最大空头 铜供应紧缩",
+          "details": "DB:CTA在贵金属已连续数周处于有效\"最大空头\"（Gold -41%、白银 -45%、铂 -37%、钯 -43%），但现货流量仍指向买入，Gold和白银ETF未因深跌抛售、钯ETF持仓回升。Gold $4,060/oz、白银 $52.91/oz、铂 $1,576/oz 需上涨 6%、钯 $1,125/oz 需上涨 3% 才触发CTA减空。Gold空头仍在\"破防\"：CME未平仓显示新空头进场，宏观基金和自营因担忧Fed过度紧缩加空；非商业多头已近多年低位，ETF未现2013年式反转，Warsh对前瞻指引的立场可能延迟Fed信息修正。铜价无差别抛售与历史性供应紧缩并存：中国阴极铜升水超 ¥500/t 接近历史高位，SHFE近月价差显示极度稀缺，10月冶炼开工率为疫情封锁以来最低。LME亚洲仓库仅剩 36Kt、欧洲 18.4Kt；CTA持LME铜净空（最大规模的 -20%，另一处写 -15%），LME 3M铜需升破 $12,830/t 才转买入，下行触发位 $11,609/t。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SLB"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Citi",
+        "HSBC",
+        "JPM",
+        "Barclays",
+        "UBS",
+        "DB"
+      ],
+      "date": "2026-11-20",
+      "image_urls": []
+    },
+    {
+      "id": "other-misc-nov20",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "国家网络总监离任 外资抄底美股 保证金近高",
+      "summary": "美国总统的国家网络总监已离任，适值政府淡化全国一系列技术故障。德银数据显示外国投资者在本轮抛售中大举抄底美国股票ETF。FINRA/Fed数据显示保证金借贷接近历史高位（M2占比约6.2%，流通货币占比约62%）。",
+      "bullets": [
+        {
+          "actor": "白宫",
+          "actor_type": "US-Executive",
+          "text": "国家网络总监离任",
+          "details": "总统的国家网络总监已离任。在政府淡化全国范围内一系列技术故障之际。",
+          "important": false
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "外资在抛售中大举买入美股ETF",
+          "details": "Deutsche Bank Research:Foreigners have been huge buyers of US equities in this sell-off，外国投资者日度美股ETF流入（aggressive dip-buying），纳斯达克指数同步显示。",
+          "important": true
+        },
+        {
+          "actor": "FINRA/Fed",
+          "actor_type": "新闻",
+          "text": "保证金借贷接近历史高位",
+          "details": "Margin Borrowing Nears Record Highs：保证金借贷占货币流通约62%、占M2约6.2%（October为估计值，使用最新保证金与货币数据）。",
+          "important": false
+        },
+        {
+          "actor": "Paulson",
+          "actor_type": "US-Executive",
+          "text": "[美联储沟通] 官员应充分阐明反应函数",
+          "details": "Paulson:官员应充分阐明自身观点，使投资者与公众对\"政策制定者可能如何应对经济状况\"有\"共同理解\"，即所谓反应函数。",
+          "important": true
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        2
+      ],
+      "importance": 1,
+      "sources": [
+        "Deutsche Bank",
+        "FINRA"
+      ],
+      "date": "2026-11-20",
+      "image_urls": [
+        "/uploads/2026-11-20/e2ee5743a5bf.png",
+        "/uploads/2026-11-20/ec87d0c4fe2a.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-11-20T21:31:22+00:00",
+  "source": "polygon.io + claude",
+  "ref_date": "2026-11-20",
+  "filter": {
+    "min_dollar_volume_usd": 300000000,
+    "min_d1_pct": 15.0,
+    "min_w1_pct": 40.0,
+    "min_market_cap_usd": 1000000000,
+    "universe_size": 12667,
+    "partial_pass": 9,
+    "with_carryover": 11,
+    "after_full_check": 0
+  },
+  "rows": []
+}
