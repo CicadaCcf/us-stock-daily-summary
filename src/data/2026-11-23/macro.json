@@ -1,0 +1,883 @@
+{
+  "topics": [
+    {
+      "id": "fed-rate-path-nov22",
+      "topic": "Fed与利率路径",
+      "topic_tag": "fed",
+      "title": "Cook等待、Bessent反对50bp、Warsh鹰派预期升温",
+      "summary": "Fed官员Cook解释10月降息理由并暗示需观望，Bessent明确质疑12月加息50bp的提议，Trump再度抨击利率过高但归咎于Fed政治化而非Powell。市场普遍担忧Warsh上任后转向强硬压通胀、12月可能再次加息25-50bp。",
+      "bullets": [
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "质疑12月加息50bp，主张Fed向前看",
+          "details": "Bessent质疑12月加息50bp的主张，认为油价、保险及运费回落将压低通胀，Fed应向前看，避免追着滞后的能源冲击加息。",
+          "important": true
+        },
+        {
+          "actor": "Cook",
+          "actor_type": "Central-Bank",
+          "text": "10月降息两点理由：政策未抑AI建设、股市支撑消费",
+          "details": "Cook解释10月两点理由：政策'not curtailing the AI buildout'、股市上涨支撑消费；等待会落后于曲线，之后需要'additional and larger rate increases'。",
+          "important": false
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "再批利率过高，归咎'very political Fed'但不怪主席",
+          "details": "Trump再次批评利率过高，但称利率太高是因为'very political Fed'，不怪主席。",
+          "important": false
+        },
+        {
+          "actor": "Bill Ackman",
+          "actor_type": "KOL",
+          "text": "警告Fed可能在12/9再犯错，追2%通胀将致衰退",
+          "details": "Bill Ackman称Fed可能在December 9th再犯一次错，若继续raise rates追2%，会让美国和世界陷入衰退。",
+          "important": false
+        },
+        {
+          "actor": "Eric Wallerstein",
+          "actor_type": "KOL",
+          "text": "Fed实际加息少于预期，明年完全无法降息",
+          "details": "Eric Wallerstein称Fed实际hike会比它现在预期的少，但明年大概完全无法cut；想象Warsh 12月上台说不在乎股市回撤、不会动摇压通胀的决心，市场在找Fed put。",
+          "important": false
+        },
+        {
+          "actor": "Warren Pies",
+          "actor_type": "KOL",
+          "text": "2018 analog延续，不预期Fed加息仅去宽松倾向",
+          "details": "Warren Pies称2018 analog全年都在，本周Waller的话让人想起Powell 2018年'a long way from neutral'；相似点：EPS增长20%以上、新主席下的Fed收紧、中期选举年、Trump任总统；1995年以来S&P 500盈利增长超20%的年份有六个(95、03、04、10、18、21)，只有2018年没有两位数回报，那年Fed在hike；本人不预期Fed hike，只预期去掉宽松倾向，市场已回调。",
+          "important": false
+        },
+        {
+          "actor": "Peter Berezin",
+          "actor_type": "KOL",
+          "text": "Fed pivot也救不了股市，参考2001年11次降息",
+          "details": "Peter Berezin称股市继续跌Fed肯定会pivot，但不一定救得了股市；2001年Fed cut 11次，联邦基金利率从6.5%降到1.75%，股市照样跌；预期S&P 500反弹到年底，2027年再跌。",
+          "important": false
+        },
+        {
+          "actor": "Peter Schiff",
+          "actor_type": "KOL",
+          "text": "除非Fed pivot，否则将重演2008金融危机",
+          "details": "Peter Schiff称除非Fed pivot，现在和2008年的另一个相似点将是金融危机。",
+          "important": false
+        },
+        {
+          "actor": "El-Erian",
+          "actor_type": "Analyst",
+          "text": "10Y降幅异常偏小，估值下跌暂不阻科技发债",
+          "details": "Mohamed A. El-Erian论点：本周十年期收益率降幅偏小，不太寻常；降幅受限于鹰派Fedspeak和残留的通胀担忧；他认为最主要的是估值下跌暂时不太会阻止科技公司发债。",
+          "important": false
+        },
+        {
+          "actor": "ABCトレーダー",
+          "actor_type": "KOL",
+          "text": "建议Trump解雇Warsh让Powell复职",
+          "details": "ABCトレーダー称特朗普应该解雇Warsh、让Powell复职；股价急跌让央行加息变得不确定。",
+          "important": false
+        },
+        {
+          "actor": "@EconstratPB",
+          "actor_type": "KOL",
+          "text": "6%名义GDP相当9档经济，Fed放慢是在尽职",
+          "details": "@EconstratPB称6%名义GDP相当于经济开到'9th gear'，Fed放慢经济是在尽职。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-11-23",
+      "image_urls": []
+    },
+    {
+      "id": "us-iran-crisis-nov22",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "Trump称将与伊朗达成永久协议，美以考虑新一轮打击",
+      "summary": "Trump表态将与伊朗达成永久协议确保无核武，但指伊方签MOU一日后违约；参议院否决限制美军对伊军事行动决议。CBS与FT披露美以强硬派施压Trump在年底前恢复打击，美军指挥部警告战备消耗。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "将与伊朗达成'永久'协议确保无核武，称不在乎政权更迭",
+          "details": "Trump称将与伊朗达成'永久'协议，确保其不获核武；称伊朗现领导层'也许更理性但很难打交道'，'今天达成协议、第二天就毁约'，指伊方签MOU一天后就违约；称自己不太在乎政权更迭，但已连续对付三代领导层，'这就是根本性的政权更迭'。",
+          "important": true
+        },
+        {
+          "actor": "CBS",
+          "actor_type": "新闻",
+          "text": "美以考虑短期对伊新一轮打击，2-4天可发动",
+          "details": "CBS：美以考虑'短期内'对伊发动新攻势，Netanyahu政府希望联合行动，Trump未表态；资产已就位，下令后2-4天可发动；以方担心伊朗快速重建弹道导弹产能、把军事和核设施转入地下。",
+          "important": false
+        },
+        {
+          "actor": "FT",
+          "actor_type": "新闻",
+          "text": "美以强硬派施压Trump年底前恢复打击，美军战备吃紧",
+          "details": "FT：美以强硬派施压Trump在年底前恢复打击；美军指挥官警告去年12月以来的部署正在消耗战备和预算，一名美军官员否认已近极限。",
+          "important": false
+        },
+        {
+          "actor": "美国参议院",
+          "actor_type": "US-Congress",
+          "text": "48-51否决要求美军退出对伊敌对行动决议",
+          "details": "参议院以48比51否决要求美军退出对伊敌对行动的H.Con.Res. 93；共和党Collins、Murkowski、Paul赞成，民主党Fetterman反对，Tillis改投反对。",
+          "important": false
+        },
+        {
+          "actor": "Axios/Ravid",
+          "actor_type": "新闻",
+          "text": "伊朗Araghchi：要求Trump明确表态想要协议",
+          "details": "Axios记者Ravid补发Araghchi对《伊朗报》访谈要点：伊方第一个要求是Trump明确表态想要协议，并要一系列建立信任措施；愿与美方开专家级谈判讨论两天方案；Netanyahu为政治存活拖美国再打一轮。一名参与调停的外交官称，Trump周五说想达成协议，回应了伊方的担忧。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "CBS",
+        "FT",
+        "Axios"
+      ],
+      "date": "2026-11-23",
+      "image_urls": []
+    },
+    {
+      "id": "trump-ai-data-centers-nov22",
+      "topic": "Trump AI与数据中心政策",
+      "topic_tag": "ai",
+      "title": "Trump反对美企海外建数据中心，坚持仅出口旧芯片",
+      "summary": "Trump威胁对在海外建数据中心的美企征重税，要求算力留美；同时坚持仅出口较旧芯片保护Blackwell，但希望黄仁勋道歉后回归英伟达；Bessent强调收紧中国通过境外数据中心租用先进算力的渠道。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "威胁对海外建数据中心美企征重税，要求算力留美",
+          "details": "Trump不希望美国企业在海外建设数据中心，威胁对这样做的企业征收重税；要求算力投资留在美国；要求地方接受数据中心，通过社区补偿、自建供电等方式谈条件；强调赢得AI竞争的重要性；欢迎参议院通过审批改革法案，认为会促进住房、工厂、电厂及基础设施建设。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "坚持仅出口较旧芯片保护Blackwell，望黄仁勋道歉回归",
+          "details": "Trump坚持仅出口较旧芯片，强调保护Blackwell；同时希望黄仁勋道歉后回归英伟达，并重申信任卢特尼克。",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "目标降低风险避免脱钩，收紧境外算力租用",
+          "details": "Bessent目标是降低风险、避免脱钩；预计两国领导人将在G20再次见面；与中方没谈黄仁勋，H200出口许可政策不变；强调收紧中国通过境外数据中心租用先进算力的渠道。淡化与卢特尼克的分歧，称适当限制已经落实，拒绝'鹰派/鸽派'标签，强调执行总统政策。",
+          "important": false
+        },
+        {
+          "actor": "Musk",
+          "actor_type": "Corporate",
+          "text": "明年现金短缺'nuts'，算力通电散热极难",
+          "details": "Musk称明年的现金短缺会'nuts'，让这么多算力通电、散热并稳定运行极其困难。",
+          "important": false
+        },
+        {
+          "actor": "Bessent",
+          "actor_type": "US-Executive",
+          "text": "预告Anthropic创始人将大额捐赠，主张儿童投资账户",
+          "details": "Bessent预告一位Anthropic创始人将在未来几周大额捐赠，主张通过儿童投资账户分享科技创造的财富。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-23",
+      "image_urls": []
+    },
+    {
+      "id": "nvda-scandal-nov22",
+      "topic": "英伟达调查与黄仁勋",
+      "topic_tag": "ai",
+      "title": "SEC调查NVDA会计、加州刑事审查、黄仁勋酝酿回归",
+      "summary": "Reuters称SEC调查Nvidia会计问题，司法部另审其Hugging Face收购；加州对NVDA是否违法向中国卖先进芯片进行刑事审查。FT与NYT揭露中国资金经Huang家族关联公司流入含Nvidia硬件的数据中心；黄仁勋据称正盘算重返。",
+      "bullets": [
+        {
+          "actor": "Reuters",
+          "actor_type": "新闻",
+          "text": "SEC调查Nvidia会计问题，DOJ另审Hugging Face收购",
+          "details": "Reuters：SEC调查Nvidia会计问题，司法部另审其Hugging Face收购。",
+          "important": true
+        },
+        {
+          "actor": "加州",
+          "actor_type": "US-Executive",
+          "text": "审查NVDA违法售华芯片的刑事责任",
+          "details": "加州对Nvidia是否违法向中国卖先进芯片、误导投资者的调查，也在审查可能违反州法的刑事责任。",
+          "important": false
+        },
+        {
+          "actor": "FT",
+          "actor_type": "新闻",
+          "text": "Alice Huang旗下Speedmatrix从Aivres进口约$4.6B",
+          "details": "FT：前Megaspeed高管Alice Huang身处空壳公司网络；其马来西亚子公司Speedmatrix截至2025年12月的一年从Aivres(Inspur前美国子公司)申报进口约$4.6 billion。",
+          "important": false
+        },
+        {
+          "actor": "NYT/Strider",
+          "actor_type": "新闻",
+          "text": "约$3.6B中国国家资金经Huang家族流入含NVDA硬件数据中心",
+          "details": "纽约时报引Strider Technologies：约$3.6 billion中国国家资金经Huang家族及关联方流转，用于含Nvidia硬件的数据中心等；FT称上海Century Litong是主要分销商。",
+          "important": false
+        },
+        {
+          "actor": "NYT",
+          "actor_type": "新闻",
+          "text": "黄仁勋长期辱骂员工，称员工太富需羞辱驱动",
+          "details": "NYT：黄仁勋长期辱骂员工，称员工太富有只能靠羞辱驱动。",
+          "important": false
+        },
+        {
+          "actor": "商业内幕",
+          "actor_type": "新闻",
+          "text": "黄仁勋在接听同行电话，盘算重返英伟达",
+          "details": "商业内幕：黄仁勋在接听同行电话，为重返英伟达做盘算。",
+          "important": false
+        },
+        {
+          "actor": "Gavin Baker",
+          "actor_type": "KOL",
+          "text": "黄仁勋回归可能性与日俱增；撤回投资担忧是多余",
+          "details": "Gavin Baker称黄仁勋回归的可能性与日俱增；担心Nvidia撤回投资和兜底是多余的。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "Reuters",
+        "FT",
+        "NYT"
+      ],
+      "date": "2026-11-23",
+      "image_urls": []
+    },
+    {
+      "id": "asia-market-controls-nov22",
+      "topic": "亚洲市场管控",
+      "topic_tag": "policy",
+      "title": "台湾全面禁止低价卖空，中国下调融资保证金至80%",
+      "summary": "台湾自周一起禁止全部股票以低于前收盘价放空，为2015年以来首次全面限制。中国三大交易所将融资买入最低保证金比例由100%下调至80%，2026/11/30起施行；PBOC以稳定中间价抑制人民币大幅波动。",
+      "bullets": [
+        {
+          "actor": "台湾证交所",
+          "actor_type": "Foreign-Gov",
+          "text": "台湾全面禁止股票低于前收价放空，2015年来首次",
+          "details": "台湾自周一起禁止全部股票以低于前收盘价放空，2015年以来首次全面限制。",
+          "important": true
+        },
+        {
+          "actor": "沪深北交易所",
+          "actor_type": "Foreign-Gov",
+          "text": "融资买入最低保证金由100%下调至80%，11/30施行",
+          "details": "沪深北交易所发布通知调整融资保证金比例，将投资者融资买入证券的最低保证金比例由100%调低至80%，相关规则调整自2026年11/30起施行。",
+          "important": false
+        },
+        {
+          "actor": "PBOC",
+          "actor_type": "Central-Bank",
+          "text": "以基本稳定的中间价抑制人民币大幅波动",
+          "details": "PBOC以基本稳定的中间价抑制人民币sharp moves。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-23",
+      "image_urls": []
+    },
+    {
+      "id": "us-fiscal-crfb-nov22",
+      "topic": "美国财政",
+      "topic_tag": "policy",
+      "title": "CRFB警告分裂政府或延续支出扩张，首100天议程>$4T",
+      "summary": "CRFB认为中期后分裂政府更可能延续支出扩张，国家债务已达$40T，Trump'首100天'议程成本可能超$4T，债券投资者担忧上升；主张任何和解方案都不应增加债务。",
+      "bullets": [
+        {
+          "actor": "CRFB",
+          "actor_type": "Analyst",
+          "text": "国债$40T，Trump首100天议程成本或超$4T",
+          "details": "CRFB：分裂政府可能推动两党财政合作，但更可能延续支出扩张：中期选举几乎未讨论国家债务、缺乏削赤授权，民主党更可能像上次与特朗普共享权力时那样施压增加支出，特朗普也愿意配合。国家债务已达$40T，'首100天'议程成本可能超过$4T，债券投资者对华盛顿借款的担忧正在上升，CRFB主张任何和解方案都不应增加债务。",
+          "important": true
+        },
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "称民主党新多数或带来great healthcare",
+          "details": "Trump谈民主党新多数：'We could end up with great healthcare'，原话还称可能比和共和党打交道更好。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-11-23",
+      "image_urls": []
+    },
+    {
+      "id": "ust-supply-demand-nov22",
+      "topic": "美债供需与期限溢价",
+      "topic_tag": "rates",
+      "title": "JPM：2027净发行$2.226T缺口$646B；DB上调期限溢价至133bps",
+      "summary": "JPM预计2027年美债净发行$2.226T、投资者需求缺口$646B，主要风险在下半年可能上调附息拍卖规模。DB上调G4自由流通量预测、复合期限溢价升至2028年底133bps。另有1990-2019 VAR研究显示TFP新闻冲击压低长端利率，与教科书机制相反。",
+      "bullets": [
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "2027美债净发行$2.226T，缺口$646B，关注下半年附息拍卖上调",
+          "details": "JPM：2027年美债净发行$2.226T（2026年$2.181T），主要投资者需求缺口由$615B温和扩大至$646B，约一半净发行为T-bill，久期压力可控、不应大幅推高期限溢价；更大风险在下半年，财政部可能在2027年8月上调附息拍卖规模，若市场提前定价（类似2023年），期限溢价会在此前上升。持有者结构向价格敏感型投资者的转变已稳定但未逆转，整体对久期中性偏谨慎。",
+          "important": true
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "分项：Fed $180B全为T-bill，外国$550B偏短端",
+          "details": "JPM分项：Fed $180B全为T-bill，债务上限或于2027年2月绑定、TGA下降使准备金充裕，RMP需求下降，2H27后期TGA回补才可能重启，Warsh资产负债表工作组若重启缩表为下行风险；外国$550B偏短端，官方需求自2023年来首次转正，预计BoJ在2027年底前加息幅度超过Fed、稳定USDJPY并减少干预。",
+          "important": false
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "银行$100B、养老保险$100B、共同基金ETF $300B、MMF $500B",
+          "details": "JPM：银行$100B（贷款增长挤压证券配置，更多通过资产互换）；养老金/保险$100B，STRIPS年初至今$37.5B、年化约$45B为2022年以来最慢，公共养老金去风险是上行风险；共同基金/ETF $300B，实际收益率近20y高位支撑，即便预计Fed至2027Q1再加75bps；MMF AUM增速由2024-25年约15%放缓至约5%，预计净流入约$500B、T-bill需求$250B。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "上调G4自由流通量，复合期限溢价升至2028底133bps",
+          "details": "DB上调G4自由流通量预测至2027年底54.3%、2028年底56.7%，据此复合UST/DBR 5s10s期限溢价将升至2027年底123bps、2028年底133bps；当前复合期限溢价仍接近年初水平，相对当前和未来两年的自由流通量均偏低，长端收益率有上行压力。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "假设美国赤字较CBO高$600B，JGB发行扩大、QT节奏放缓",
+          "details": "DB：假设美国2027-28年赤字较CBO基线高$600B，JGB发行2026Q4增¥6T、2027Q1增¥3.5T、FY2027/FY2028增¥21.2T/¥20.8T；Fed自2028年起每月减持$20B息票UST，ECB 2027年全面QT、2028年PSPP 50%再投资，BoE每年主动出售£20B。QT节奏较2024-2025年放缓，但赤字驱动发行仍推升自由流通量；最大风险是美国赤字进一步上行，美元贬值则会机械性压低G4自由流通量。",
+          "important": false
+        },
+        {
+          "actor": "Fed研究",
+          "actor_type": "Analyst",
+          "text": "TFP新闻冲击压低长端利率和r*，与教科书机制相反",
+          "details": "可预期的生产率提升并不推高利率，反而压低长端利率和r*：1990-2019年贝叶斯VAR以最大份额法识别TFP新闻冲击，冲击后未来10y TFP持续上升，但名义和实际10Y收益率、未来5-10y预期实际短率均下降，与收入预期压低储蓄、投资需求推高利率的教科书机制相反。长端下行主要来自实际期限溢价大而持久的回落，渠道为风险价格下降、产出扩张而通胀不升降低政策路径不确定性、税基扩大改善财政空间。模型在2022Q4-2026Q2识别出多轮正向TFP新闻冲击，按估计应压低长端，因此AI乐观不能解释近期长端上行。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        3
+      ],
+      "importance": 2,
+      "sources": [
+        "JPM",
+        "DB"
+      ],
+      "date": "2026-11-23",
+      "image_urls": [
+        "/uploads/2026-11-23/f421e1508480.jpg"
+      ]
+    },
+    {
+      "id": "oil-outlook-nov22",
+      "topic": "原油展望",
+      "topic_tag": "oil",
+      "title": "UBS上调Brent 4Q26至$100；DB新增'长期僵持'情景",
+      "summary": "UBS上调油价预测，Brent 4Q26由$83.74升至$100/bbl，依据霍尔木兹10月供应缺口5M b/d、伊朗零装船。DB新增'长期僵持'情景，油价可能明显高于其基准$70/bbl，但基本面继续转松，10月全球液体库存录得开战以来最大增幅。",
+      "bullets": [
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "Brent 4Q26上调至$100/bbl，2027年$80，2028年$75",
+          "details": "UBS上调油价预测：Brent 4Q26由$83.74/bbl上调至$100/bbl、2026年$91.57/bbl、2027年$80/bbl、2028年$75/bbl；WTI 4Q26由$79.22/bbl上调至$96/bbl、2026年$86.60/bbl、2027年$76/bbl。依据是10月霍尔木兹供应缺口5M b/d（动用SPR前），伊朗原油自8月底零装船，全球观察库存处低位，Brent近端维持backwardation。",
+          "important": true
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "2026需求+2.0M b/d、供应+4.7M b/d；SPR降至1983年来最低",
+          "details": "UBS：2026年全球需求2.0M b/d（柴油拖累最大）、供应4.7M b/d，2027年需求+2.6M b/d；OPEC+取消自愿减产受伊朗、俄罗斯制约，美国液体产量2026年+0.6M b/d由Permian主导，难以对冲中东损失；美国SPR降至1983年以来最低。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "新增'长期僵持'情景，基准Brent 2H27约$70/bbl上行风险",
+          "details": "DB过去一周油价异常稳定，新增第四种情景'长期僵持'，意味着油价可能明显高于其2027年下半年Brent约$70/bbl的基准假设，构成显著上行风险；但提醒不宜过度看重一周的稳定，伊朗对海湾航运和美国设施的袭击呈蓄意、有计划的升级，意在抬高美国经济封锁的成本，美方有限回应会鼓励伊朗、强硬回应则加速升级。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "基本面转松：10月全球液体库存录开战来最大增幅",
+          "details": "DB：基本面继续转松，全球炼厂检修季仍高开工但裂解价差回落，柴油裂解降至7月水平；全球可观察液体库存10月录得开战以来最大增幅，美国成品油和原油、中国原油库存均在回升；DFL维持低位，部分VLCC运费大跌逆转9月强势，中东湾原油出口与9-10月相近、袭击频率下降，此前应对短缺的适应措施也在减弱。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "政策面：日本提议建亚洲版IEA；欧盟拟改油储规则",
+          "details": "DB：政策面上日本提议建立'亚洲版IEA'管理区域战略原油储备，获菲律宾、新加坡、印尼、马来西亚支持，阿联酋或作为供应方参与；欧盟提议修改石油库存规则，要求至少包含一种成品油并可能允许紧急军事动用。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "UBS",
+        "DB"
+      ],
+      "date": "2026-11-23",
+      "image_urls": []
+    },
+    {
+      "id": "metals-gold-copper-nov22",
+      "topic": "金属：黄金与铜",
+      "topic_tag": "macro-other",
+      "title": "UBS：金价逼近$3500关口；铜长期看多但短期二元化",
+      "summary": "UBS称黄金期货抛压集中、金价逼近$3500/oz，抄底资金稀少但结构性多元化逻辑未破坏。铜2027/28矿山供应增长仅约1%、需求2.5-3.0%，但美国关税前囤货造成短期二元化。DB称金属处'美元紧缩'流动性真空，铜CTA流出为历史第99百分位。",
+      "bullets": [
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "黄金期货抛压集中，金价逼近$3500/oz关口",
+          "details": "UBS：本轮Gold下跌的抛压集中在期货；美元走强、Fed鹰派重定价及SPX和商品的风险规避下，期货未平仓合约自上周减少逾6M oz，跌破关键技术位可能触发系统性空头；金价逼近$3500/oz关口；ETF持仓暂稳但数据滞后，上季在$4000-$4500/oz区间流入约166t，这些仓位多已浮亏，韧性将受检验。",
+          "important": true
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "抄底资金稀少，1mo隐含波动率升至25%以上",
+          "details": "UBS：抄底资金稀少，FOMC临近且市场计入50bps加息可能，跌速过快令现货买家观望，2月初春节旺季或提供支撑；官方部门倾向低价买入但回避高波动，1mo隐含波动率由10月不足20%升至25%以上、实际波动率约22%（上月约18%），预计等波动缓和再入场。3Q央行增持184.1t、其他官方137.1t、ETF 166.2t。Tether 3Q末持金约143t、qoq 2%、占总资产约10%，金价跌15%机械压低占比。",
+          "important": false
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "铜长期看多：27/28矿山供应增长仅约1%，需求2.5-3.0%",
+          "details": "UBS长期看多铜：2027/28年矿山供应增长仅约1%、需求2.5-3.0%，形成潜在缺口；但2026年的紧张源于美国关税前囤货，美国可见库存约975Kt（COMEX 730Kt、LME美国245Kt），占全球可见库存88%，而美国需求不足全球10%，掩盖了过去2-3y的潜在过剩，前景呈二元化。",
+          "important": false
+        },
+        {
+          "actor": "UBS",
+          "actor_type": "Analyst",
+          "text": "关键风险是美国'战略铜库存'外流；上调数据中心容量增速",
+          "details": "UBS：关键风险是美国'战略铜库存'能否流出；中国升水飙升至$425/t以上（历史通常低于$100/t），COMEX对SHFE 3mo套利价差$375/t已超运费约$300/t，已有20-30Kt预订运往中国；上调数据中心容量增速2027/28年至41%/30%（原26%/23%），超大规模capex 2027年+70%至$1.76T，AI不构成2027年供需威胁。短期技术支撑LME $12000/t、COMEX $5.50/lb；首选AAL、TECK、FCX、FM。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "金属处'美元紧缩'流动性真空，Gold避险失效",
+          "details": "DB：金属市场处于'美元紧缩'流动性真空，价格剧烈波动但实际资金流动有限，Fed过度紧缩担忧和科技股波动导致抛售蔓延，金融压力指标上升。Gold避险失效是宏观体制转向的信号而非基本面恶化，因美元紧缩强化了货币价值，而Gold近年对冲的是货币价值。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "Gold未见大规模流出，CTA处最大空头",
+          "details": "DB：Gold未见大规模流出，CME未平仓合约几乎不变，CTA数周处于最大空头（Gold 41%、白银44%、铂36%、钯43%，Gold $4008/oz、距下一触发点4%），全球ETF持仓异常稳定、未现2013年式赎回，中国ETF减持有限、上海溢价仍在；风险在于风险平价去杠杆，以及粘性的零售和ETF持仓若转向将加剧下行。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "铜CTA 1mo流出达第99百分位，仅次于2020年2月",
+          "details": "DB：铜CTA过去1mo流出达第99百分位，仅次于2020年2月，因起始仓位为历史性多头；中国阴极铜溢价创纪录、SHFE曲线指向实物挤压，但价格完全由流动性驱动，LME 3M跌破$11740/t时CTA还会继续卖出。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "FCX"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "UBS",
+        "DB"
+      ],
+      "date": "2026-11-23",
+      "image_urls": []
+    },
+    {
+      "id": "equity-positioning-flows-nov22",
+      "topic": "股市仓位与资金流",
+      "topic_tag": "earnings",
+      "title": "DB/Barclays：Fed put缺位、仓位降至11%分位，CTA大规模做空",
+      "summary": "DB称整体仓位降至0.90SD（11%分位），SPX较高点跌约12%定价盈利收缩，维持2026年目标8000。Barclays指出股市更大挑战是Fed put缺位，市场完全定价12月加息甚至猜50bps。GS PB显示单股本周空头交易为2022年6月以来最大、ETF做空第三大。",
+      "bullets": [
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "整体仓位降至0.90SD(11%分位)，维持SPX 2026年目标8000",
+          "details": "DB：10月的科技轮动已演变为全面溃败，触发因素包括中期选举'蓝色浪潮'、NVDA相关担忧、股票供给担忧和多起科技故障；SPX较高点跌约12%，约为二战后衰退中位跌幅24%的一半，定价已对应盈利收缩、PMI跌破50，而实际盈利仍稳健。维持SPX 2026年目标8000，EPS 2026年$362、2027年$430。整体仓位降至0.90个标准差（11%分位），主观投资者4%分位、系统性15%分位；超大盘成长/科技21%分位。",
+          "important": true
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "波动率冲击平均6-8周见底，NDX低于200D均线10%+为十年第5次",
+          "details": "DB：波动率冲击仍在进行，历史上平均6-8wk见底、SPX平均跌14-16%、4-6mo收复；NDX低于200d均线10%以上，为十年内第5次，科技绝对和相对水平均触及十年通道底部。CTA股票配置降至36%分位、NDX 15%分位轻微空头，美元多头97%分位，波动率控制基金21%分位，风险平价股票降至56%分位。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "股票基金周流入$66.6B，债券基金流出$7.4B为解放日以来首次",
+          "details": "DB：资金流分化：股票基金周流入$66.6B（三周低位，美国$45.6B），债券基金流出$7.4B，为解放日以来首次，EM债流出$7.5B为2020年3月以来最大，工业基金创纪录流出$2.3B。",
+          "important": false
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "股市更大挑战是Fed put缺位，市场完全定价12月加息",
+          "details": "Barclays：股市更大的挑战是Fed put缺位，强增长和粘性通胀推动利率重定价，金融条件收紧、美元走强、过剩流动性被抽干、估值下修；2018年12月股市跌约20%后Fed才转鸽，而当前市场完全定价12月加息、甚至猜测50bps，Barclays经济学家认为此举可能暗示恐慌并等于承认10月暂停是错的。",
+          "important": false
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "偏好超级巨头、盈利半导体，回避融资/电力依赖的数据中心项目",
+          "details": "Barclays：股市对AI放缓的担忧与债市对过热的担忧不能长期并存，AI投资若真消退会降低过热压力和紧缩必要性，油价走软时尤其如此，12月FOMC和随后CPI是年底风险偏好关键催化。价格与基本面脱节、周期股错位极端、快钱仓位已出清但长线仓位仍高；偏好超级巨头、盈利半导体和强资产负债表，回避依赖外部融资或电力、许可未落地的数据中心项目。全球股票基金周流入约$67B（美国约$46B，科技占近半），固收基金流出约$7B，为解放日以来首次、结束80wk连续流入；YTD股票流入$1.36T，固收$804B、货基$549B。",
+          "important": false
+        },
+        {
+          "actor": "GS PB",
+          "actor_type": "Analyst",
+          "text": "美股单股本周空头交易为2022年6月以来最大",
+          "details": "GS PB：US Single Stocks collectively were shorted every day this week and saw the largest weekly shorting activity since Jun '22 (third largest in the past decade). At the same time, US-Listed ETF shorts increased +11% this week, the largest % shorting since March and third largest in the past five years.",
+          "important": false
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS情绪指标0.7；S&P 500中位股做空率位于92%分位",
+          "details": "GS US Equity Sentiment Indicator as of Nov 20 2026 at 0.7。S&P 500中位股做空率3.1%(20y均2.4%、92%分位)，防御板块做空最极端：公用事业99%分位、必需消费95%、医疗95%、工业91%。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "importance": 3,
+      "sources": [
+        "DB",
+        "Barclays",
+        "GS"
+      ],
+      "date": "2026-11-23",
+      "image_urls": [
+        "/uploads/2026-11-23/b2fb789c1d66.png",
+        "/uploads/2026-11-23/937e2213419e.png",
+        "/uploads/2026-11-23/3a2fbe91087d.png",
+        "/uploads/2026-11-23/268e4d08ff9b.png",
+        "/uploads/2026-11-23/3333b212f11e.png",
+        "/uploads/2026-11-23/de076ff53fb1.png",
+        "/uploads/2026-11-23/766565e4fcc7.png"
+      ]
+    },
+    {
+      "id": "kol-market-view-nov22",
+      "topic": "KOL美股观点",
+      "topic_tag": "earnings",
+      "title": "Constan：Dead Santa年末反弹已死；多数KOL判断深度超卖",
+      "summary": "Andy Constan宣布年末反弹已死，交易为very short stocks、moderately long bonds。多数KOL(Niles、Minervini、Kampner、Dayan)判断市场深度超卖、随时可能大反弹但对冲基金临近年末不愿买。Master WU判断7007是本段目标，LBM_LXXVIII称当前抛售与2018年末极似。",
+      "bullets": [
+        {
+          "actor": "Andy Constan",
+          "actor_type": "KOL",
+          "text": "年末反弹已死'Dead Santa'，交易very short stocks、moderately long bonds",
+          "details": "Andy Constan：回到growth scare路径，交易是very short stocks、moderately long bonds；岔路口之前仓位不用大改。年末反弹已死'Dead Santa'：第一个支撑因素是为避免2026年资本利得而少卖股票，多数分散组合有大量资本亏损、少量利得，这个因素已死；第二个是业绩好时portfolio managers推高年末以锁定业绩报酬或保住AUM，落后者追最强股票；今年没人业绩强，这个因素也死了。",
+          "important": true
+        },
+        {
+          "actor": "Dan Niles",
+          "actor_type": "KOL",
+          "text": "周五是回补空头、买入好时机，感恩节周或剧烈双向",
+          "details": "Dan Niles：统计上看，周五是回补空头、买入看好多头的好时机，预计周一强反弹，但感恩节周流动性低，'will likely be violent in either direction'。",
+          "important": false
+        },
+        {
+          "actor": "Mark Minervini",
+          "actor_type": "KOL",
+          "text": "市场仍很弱但已非常超卖，长期牛市里的周期性熊市",
+          "details": "Mark Minervini：市场仍很弱，但已非常超卖，随时可能有几天的大反弹；回头看会是长期牛市里的周期性熊市。",
+          "important": false
+        },
+        {
+          "actor": "Sam Kampner",
+          "actor_type": "KOL",
+          "text": "市场正大规模去杠杆，追保被迫抛售、最好跟在最差后",
+          "details": "Sam Kampner：市场正在经历大规模去杠杆，很多是被迫抛售；毫不相关的行业同时崩跌；遇到追保时，投资者卖的不是想卖的，而是能卖的，于是整片板块不分基本面地被抛；这类事件历史上可能很猛，但往往短暂，最好的几天常跟在最差的几天之后。",
+          "important": false
+        },
+        {
+          "actor": "Danny Dayan",
+          "actor_type": "KOL",
+          "text": "深度超卖近期会反弹但基金临近年底不愿买",
+          "details": "Danny Dayan：股票到金属都深度超卖，近期会反弹；但据他所闻对冲基金临近年底不想买，除非Fed退缩，反弹可能被卖。",
+          "important": false
+        },
+        {
+          "actor": "Master WU",
+          "actor_type": "KOL",
+          "text": "当前是2022级调整浪，7007是本段目标非终点",
+          "details": "Master WU：当前是与2022年熊市同级别的调整浪，7007只是本段下跌的目标，不是调整终点；2027年将创新高；7007是本段的底部目标，原定11月底到达，结果当天(11月20日)就接近；若到达并停留在该枢轴下方，持有多头仓位的人下周一会'VERY WORRIED'；本人没有仓位。",
+          "important": false
+        },
+        {
+          "actor": "LBM_LXXVIII",
+          "actor_type": "KOL",
+          "text": "AI只是USD流动性收紧倒下的骨牌，与2018年末极似",
+          "details": "LBM_LXXVIII：AI只是USD流动性收紧中倒下的又一张骨牌，当前抛售与2018年末非常相似；相似点不止价格图：Trump任期第二年、中期选举与blue wave、鹰派Fed、金融条件收紧、强USD、风险偏好恶化、股票商品crypto同步抛售。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-23",
+      "image_urls": []
+    },
+    {
+      "id": "kol-ai-view-nov22",
+      "topic": "KOL AI观点",
+      "topic_tag": "ai",
+      "title": "Joseph：AI资本开支与Fed双杀，长期阴跌熊市",
+      "summary": "Joseph判断数据中心建设放缓叠加NVDA SEC调查致GDP核心引擎失速，Fed拒绝救市、12月加息25bp几成定局，美股将步入漫长阴跌熊市，债市跑赢、金银需待Fed转向。Brandon Carl称可看多技术看空投资，Berezin担心2029年折旧超营业利润，Hedgie称AI两个前提已破裂。",
+      "bullets": [
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "AI资本开支放缓+NVDA调查+Fed拒绝救市，将陷漫长阴跌熊市",
+          "details": "Joseph：数据中心建设动能放缓与英伟达遭遇'致命一击'，GDP核心引擎面临失速，更为致命的是周五传出SEC正就英伟达'会计违规'展开正式调查，在资本市场上这通常被视为重创公司估值的毁灭性打击。美联储绝不'看跌期权救市'（No Fed Pivot），拒绝为10%的股市回调转向，12月加息25BP几成定局，中期选举共和党失利的核心主因是通胀高企，政治教训已让美联储主席沃什下定决心全力压制通胀。感恩节/圣诞前夕或迎超跌反弹，但长期走势为缓慢阴跌：缺乏数据中心capex与Fed降息的双重支撑，美股整体将步入漫长而痛苦的阴跌熊市，大量盲目抄底资金将被套牢。",
+          "important": true
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "前沿模型变现脆弱，Anthropic $80-100B融资抽血大盘",
+          "details": "Joseph：前沿模型变现能力存疑，尽管模型在科学和数学难题上取得突破，但商业变现模式极其脆弱；IPO天量增发挤占二级市场资金：Anthropic启动了高达$80-100B规模的股权融资，迫使机构投资者在投资组合中抛售其他股票来筹集认购资金，对美股大盘流动性造成了显著的'抽血'效应。",
+          "important": false
+        },
+        {
+          "actor": "Joseph",
+          "actor_type": "KOL",
+          "text": "债市跑赢股市，金银需等Fed彻底停加息再抄底",
+          "details": "Joseph：债市跑赢股市，黄金白银暴跌后迎买点：中期选举后美债表现显著跑赢美股，在高真实利率环境下国债具备极高吸引力。对于近期暴跌崩盘的黄金白银，真正的左侧买入时机必须等待市场开始正式定价美联储'彻底停止加息甚至转向降息'的节点。",
+          "important": false
+        },
+        {
+          "actor": "Brandon Carl",
+          "actor_type": "KOL",
+          "text": "可看多技术看空投资，三个假设都错",
+          "details": "Brandon Carl：可以看多技术、看空投资；原有均衡建立在超高需求增长、供给短缺和充足融资上，这三个假设看来都错了。",
+          "important": false
+        },
+        {
+          "actor": "Peter Berezin",
+          "actor_type": "KOL",
+          "text": "hyperscaler 2029折旧$630B预计超今年全部营业利润$570B",
+          "details": "Peter Berezin：hyperscaler 2029年折旧($630b)预计超过今年全部营业利润($570b)；收入不substantially增长，利润会让人失望。",
+          "important": false
+        },
+        {
+          "actor": "Hedgie",
+          "actor_type": "KOL",
+          "text": "AI两个前提已破裂：支出不停+资金便宜",
+          "details": "Hedgie：AI交易依赖的两个前提今年秋天开始破裂；两个前提是支出永不放缓、资金一直够便宜；10-year美债升破5%，每笔数据中心贷款都更贵，大额支出者仍拿不出承诺的生产率。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [],
+      "date": "2026-11-23",
+      "image_urls": []
+    },
+    {
+      "id": "sellside-strategy-nov22",
+      "topic": "卖方策略汇总",
+      "topic_tag": "earnings",
+      "title": "GS SPX目标7800；BofA目标6000；MS 4Q27达9000",
+      "summary": "各大投行SPX目标分化：GS 12M目标7800、BofA 6000、MS 4Q27达9000、JP Morgan 8700。EPS预测：GS 2026 $362/2027 $416、MS $373。12月FOMC前市场定价加息概率约50%；经济方面2026 GDP预测1.5-3.2%不等，10月核心PCE约0.27%。",
+      "bullets": [
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "SPX 12M目标7800(+15.5%)，2027 EPS $416",
+          "details": "GS Portfolio Strategy：SPX 12个月目标7800(上止15.5%)，2027年EPS持续上升。AI capex高增长支撑；2026年EPS +5%，2027 $416，实际上+5%区域主要是Mag-7。情景分析：Trend EPS 2026 $370/2027 $400/$425，Current区间对应18x PE约7200，20x 5y均值8500。",
+          "important": true
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "增持SPX 2026目标6000，EPS 2026 $362/2027 $416",
+          "details": "BofA Asset Allocation：增重S&P 500 2026年目标6000；标的S&P 500 EPS 2026年$362、2027年$416。增重Tech（10/30起），对Tech的持仓已增，MCG @Tech总体接近。CESH住居动保组，2027年上收部部06-rate。",
+          "important": false
+        },
+        {
+          "actor": "MS",
+          "actor_type": "Analyst",
+          "text": "4Q27 SPX目标9000，EPS $373",
+          "details": "MS目标SPX 4Q27达9000，EPS $373。",
+          "important": false
+        },
+        {
+          "actor": "DB",
+          "actor_type": "Analyst",
+          "text": "SPX 2027提升至9000，分析区间最高7000-9000",
+          "details": "DB Cross-Asset Strategy：S&P 500 ox 2027提升2,700，最高9000，居六1,000；通胀部动金组回18.3%（1/1/30 7.5%+）。",
+          "important": false
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "JPM SPX目标8700",
+          "details": "JP Morgan Equity Strategy目标SPX 8700。",
+          "important": false
+        },
+        {
+          "actor": "Barclays",
+          "actor_type": "Analyst",
+          "text": "European Equity Strategy：12月FOMC前后前取定价50%",
+          "details": "Barclays European Equity Strategy：短期部价店组区K印已经，12月FOMs前后部区前取18居定50%。EPS动部的力过，低低组口下部，金部部序96区。",
+          "important": false
+        },
+        {
+          "actor": "各机构",
+          "actor_type": "Analyst",
+          "text": "Fed路径共识：12月、1月、3月各加25bp至4.375%-4.875%",
+          "details": "多数机构(Citi、BofA、DB、Nomura、GS)预期：12月再加25bp至4.25%，2027年Q1加至4.375%-4.875%；BofA预计2027Q1加3次至4.875%；Nomura/MS预计12月加息并2028部部8题起。Arnundi/Jefferies认同12月加息，核心PCE 0.3%左右，部区口是序中定保部回空1题序1题定的。",
+          "important": false
+        },
+        {
+          "actor": "各机构",
+          "actor_type": "Analyst",
+          "text": "经济预测：4Q26 GDP 1.5-3.2%，10月核心PCE +0.27%",
+          "details": "11家机构共识：10月核心PCE +0.27%，2026年总体+1.3%；2027年通胀+2.4%。GDP：Citi 4Q26 1.5%、2027年1.1%；BofA 2026 1.3%/2027 2.4%；DB 4Q26 1.9%/2026 2.5%；GS 2027 2.4%；Nomura 4Q26 3.2%/2027 2.3%；MS/Jefferies house forecast NFP 2027Q1 -63K、全年月均-16K；低预备BofA NFP 2026年70k，2027~28年35k。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        0,
+        2
+      ],
+      "importance": 2,
+      "sources": [
+        "GS",
+        "BofA",
+        "MS",
+        "DB",
+        "JPM",
+        "Barclays"
+      ],
+      "date": "2026-11-23",
+      "image_urls": [
+        "/uploads/2026-11-23/08997fd26504.png",
+        "/uploads/2026-11-23/cc926678006c.jpg"
+      ]
+    },
+    {
+      "id": "other-news-nov22",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "Anthropic用AI证黎曼猜想；Oracle筹齐OpenAI合同资金",
+      "summary": "Anthropic数学家称用AI证明黎曼猜想获Lean社区认证。Oracle已筹齐履行OpenAI合同所需全部资金。孙正义曾探讨以$1T收购SK海力士。Kushner持国防公司$32M未披露。FBI数据库再遭疑似黑客入侵。",
+      "bullets": [
+        {
+          "actor": "Anthropic",
+          "actor_type": "Corporate",
+          "text": "数学家称用AI证明黎曼猜想，Lean社区认证",
+          "details": "Anthropic数学家称用AI证明黎曼猜想，Lean社区认证证明正确。",
+          "important": true
+        },
+        {
+          "actor": "Oracle",
+          "actor_type": "Corporate",
+          "text": "已筹齐履行OpenAI合同所需全部资金",
+          "details": "Oracle：已筹齐履行OpenAI合同所需全部资金。",
+          "important": false
+        },
+        {
+          "actor": "The Information",
+          "actor_type": "新闻",
+          "text": "孙正义曾探讨以$1T收购SK海力士",
+          "details": "The Information：孙正义曾探讨以$1T收购SK海力士；软银称已不再积极推进。",
+          "important": false
+        },
+        {
+          "actor": "The Atlantic",
+          "actor_type": "新闻",
+          "text": "Kushner未披露美国防公司$32M持股",
+          "details": "The Atlantic：Kushner未公开披露在一家美国国防公司$32M持股。",
+          "important": false
+        },
+        {
+          "actor": "FBI",
+          "actor_type": "US-Executive",
+          "text": "FBI调查全国犯罪信息数据库疑遭黑客入侵",
+          "details": "FBI调查全国犯罪信息数据库疑遭黑客入侵，为近几个月第二次。",
+          "important": false
+        },
+        {
+          "actor": "Tesla",
+          "actor_type": "Corporate",
+          "text": "向部分早期用户推送FSD V15，新增'现实视图'",
+          "details": "特斯拉向部分早期用户推送FSD V15，新增'现实视图'。",
+          "important": false
+        },
+        {
+          "actor": "CrowdStrike",
+          "actor_type": "Corporate",
+          "text": "CrowdStrike洽购Zscaler",
+          "details": "CrowdStrike洽购Zscaler。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "ORCL",
+        "TSLA",
+        "CRWD",
+        "ZS"
+      ],
+      "image_indexes": [],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-11-23",
+      "image_urls": []
+    }
+  ]
+}
