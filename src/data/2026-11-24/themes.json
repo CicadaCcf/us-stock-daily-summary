@@ -1,0 +1,191 @@
+{
+  "themes": [
+    {
+      "id": "ai-app-infoflow-1116-1122",
+      "theme": "AI应用",
+      "title": "AI应用信息流总结 11/16-11/22",
+      "date_range": "11/16-11/22",
+      "date": "2026-11-24",
+      "tickers": [
+        "GOOGL",
+        "NVDA"
+      ],
+      "summary": "本周AI应用侧核心看点：ANT IPO高开低走承销商无托市弹药、GOOGL Gemini Neon半价加剧前沿模型竞争、Stripe与Semi Analysis数据共同指向需求放缓，2027年ANT能否守住$130B指引成为买方最大分歧。",
+      "groups": [
+        {
+          "label": "ARR",
+          "entries": [
+            {
+              "source": "官方",
+              "source_type": "",
+              "points": [
+                "官方无新增"
+              ],
+              "important": false
+            },
+            {
+              "source": "Yipit",
+              "source_type": "第三方",
+              "points": [
+                "ANT ARR `$83B`（截至 11/8）, 外推11月底`$88B`, NNARR +7B",
+                "OAI ARR `$59B`（截至 11/8）, 外推11月底`$65B`, NNARR +7B"
+              ],
+              "important": true
+            },
+            {
+              "source": "Tickertrends/FundaAI",
+              "source_type": "第三方",
+              "points": [
+                "本周无新增"
+              ],
+              "important": false
+            },
+            {
+              "source": "市场预期",
+              "source_type": "",
+              "points": [
+                "&*市场预期11月ARR～`$86-88B`"
+              ],
+              "important": false
+            }
+          ]
+        },
+        {
+          "label": "需求",
+          "entries": [
+            {
+              "source": "总体判断",
+              "source_type": "",
+              "points": [
+                "2027 增速放缓成为买方共识，分歧在 **ANT 2027能否守住指引～**`$130B`"
+              ],
+              "important": false
+            },
+            {
+              "source": "ANT",
+              "source_type": "企业需求",
+              "points": [
+                "Amodei 称 coding“有些成熟”。路演上被问 coding 占收入多少，管理层没给准数，但没有反驳 `40–60%`",
+                "&*Coding明年无法贡献高增速已成共识，市场目前并未看到promising新场景"
+              ],
+              "important": true
+            },
+            {
+              "source": "Stripe",
+              "source_type": "企业需求",
+              "points": [
+                "最近一个季度AI native firms收入增速放缓，从年化`+140%`回落到`+80%`",
+                "**应用层收入增速在降温**，和实验室一侧的放缓同向"
+              ],
+              "important": false
+            },
+            {
+              "source": "Semi Analysis",
+              "source_type": "企业需求",
+              "points": [
+                "全球 AI 加速器支出 2027 年 `$770B` 下调至`$627B`，2028 年 `$1,054B` 下调至 `$758B`（`28%`）。存储价格见顶从 **2Q29 提前到 3Q27**"
+              ],
+              "important": false
+            }
+          ]
+        },
+        {
+          "label": "供给",
+          "entries": [
+            {
+              "source": "模型总体",
+              "source_type": "",
+              "points": [
+                "模型：前沿排名没变，GOOGL一半价格**加剧frontier models竞争**"
+              ],
+              "important": false
+            },
+            {
+              "source": "GOOGL：Gemini Neon",
+              "source_type": "GOOGL",
+              "points": [
+                "benchmark仅次于Fable 5.2和GPT 6.2 Astra, 但是任务成本不到一半，开发者口碑极好",
+                "实际测评接近opus 5.5, 价格为opus 5.5 `75%`, 个人认为**实质上对Opus 5.5无影响**，但叙事上竞争加剧ANT会有逆风"
+              ],
+              "important": true
+            },
+            {
+              "source": "OAI: GPT 6.2 Astra/Sol",
+              "source_type": "OAI",
+              "points": [
+                "benchmark仅次于Fable，实际使用体感上远不如"
+              ],
+              "important": false
+            },
+            {
+              "source": "竞争与定价",
+              "source_type": "",
+              "points": [
+                "头部价格战race to the bottom，OAI给GPT 6.2打六折，ANT打八折"
+              ],
+              "important": false
+            },
+            {
+              "source": "开源",
+              "source_type": "",
+              "points": [
+                "监管加强利空中国开源，利好头部模型公司",
+                "需求端回流美国：远程访问规则后 Cursor 考虑逐步停用中国开源模型",
+                "供给端减少中国开源价格压力：B卡灰色地带被取消后，中国模型迭代速度中期势必放慢，减少对frontier labs压力"
+              ],
+              "important": false
+            },
+            {
+              "source": "RSI/网安",
+              "source_type": "",
+              "points": [
+                "本周无三要素变化"
+              ],
+              "important": false
+            },
+            {
+              "source": "AI4S",
+              "source_type": "",
+              "points": [
+                "headline效应为主，非RF重点",
+                "数学家和ANT协作宣布解决黎曼猜想",
+                "Levent Alpöge 称和 Claude 一起证明了黎曼猜想，约 `1,700` 万行 Lean 代码；社区一天内认证陈述和证明正确，MIT 的 Sutherland 独立跑通检查。",
+                "实际节奏上非常重大的突破，但**目前不是市场RF重点**"
+              ],
+              "important": false
+            }
+          ]
+        },
+        {
+          "label": "融资与估值",
+          "entries": [
+            {
+              "source": "ANT IPO",
+              "source_type": "",
+              "points": [
+                "ANT周四上市高开低走",
+                "一级需求极强（超区间定价、扩发行、绿鞋全额行使）",
+                "二级没有接住：首日开盘即高点，两天从 `$115` 跌到 `$83.05`，守住发行价但只剩约 `7%` 缓冲，且绿鞋已行使，**承销商已无托市头寸**",
+                "ANT走势不好，后续预计OAI上市融资只会更差，陷入负面恶性循环"
+              ],
+              "important": true
+            }
+          ]
+        },
+        {
+          "label": "监管",
+          "entries": [
+            {
+              "source": "NVDA 调查",
+              "source_type": "NVDA",
+              "points": [
+                "SEC 调查扩到会计，加州总检察长就对华出货传唤 NVDA，黄仁勋 12/1、12/3 到国会作证"
+              ],
+              "important": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
