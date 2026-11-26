@@ -1,0 +1,647 @@
+{
+  "topics": [
+    {
+      "id": "nvidia-huang-reinstatement-nov24",
+      "topic": "黄仁勋复职事件",
+      "topic_tag": "ai",
+      "title": "Trump介入黄仁勋复职引发多方调查与政治风暴",
+      "summary": "Trump 公开承认考虑让政府入股 Nvidia，介入黄仁勋复职是担心选错接班人；黄本人就违反行为准则向员工道歉；国会两党、DOJ、WSJ 等多方跟进调查与披露，焦点包括董事会决策过程、Alice Huang 情报接触、卢特尼克涉嫌利益冲突等。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump承认考虑让政府入股Nvidia，介入复职因担心选错接班人",
+          "details": "Trump称赦免always an option但认为没有必要；称黄作证时不必援引第五修正案，律师会给建议，他一向光明正大；称考虑过让政府入股Nvidia，此前未提，现在可能还不晚；称介入复职是担心Nvidia选错接班人。",
+          "important": true
+        },
+        {
+          "actor": "黄仁勋",
+          "actor_type": "Corporate",
+          "text": "黄仁勋向员工道歉，承认违反行为准则，称每天接受治疗",
+          "details": "Jensen向员工道歉，承认违反公司行为准则，称辜负了大家；透露自己每天接受治疗；称更难的一次谈话是与妻子；称董事会确认无国家安全威胁后才让他复职，不是因为他凌驾于法律之上；称特朗普喜爱Nvidia，Nvidia不涉政治，对下一任总统也会一样；称不需要传统接班人计划，以免高管争位。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ：董事会认定违反准则但找不到接班人，Arm CEO曾被接触",
+          "details": "WSJ：董事会认定黄仁勋违反行为准则、不够坦诚，但找不到合适接班人，Arm CEO Rene Haas 与 Nvidia 猎头的接触在复职前已推进，Arm 管理层和董事会（含孙正义）出面挽留；周日会上他披露了已报道两段之外的其他婚外情，态度悔过；国家情报总监 Jay Clayton 在复职前与 Nvidia 董事沟通，建议继续内部调查。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "WSJ：Alice Huang与中国情报有接触但缺乏确证",
+          "details": "WSJ：Alice Huang 与中国情报有接触，但美情报缺乏她被指派搜集信息或传递国安机密的确证；官员对风险看法分歧，北京否认。",
+          "important": false
+        },
+        {
+          "actor": "DOJ Todd Blanche",
+          "actor_type": "US-Executive",
+          "text": "DOJ称复职前无直接针对黄仁勋的刑事调查",
+          "details": "DOJ Todd Blanche称司法部在黄复职前没有直接针对黄仁勋的调查；关注不等于刑事调查，称上周所说的是司法部在关注此事，关注不一定变成刑事调查或起诉；称Nvidia是好的企业公民；若是刑事调查对象，总统不会这样表态。未确认司法部已认定黄不构成国家安全风险，称此类判断由多机构共同得出；不排除日后另起调查。",
+          "important": false
+        },
+        {
+          "actor": "共和党国会议员",
+          "actor_type": "US-Congress",
+          "text": "共和党多人质疑无国安风险结论，推《芯片安全法案》",
+          "details": "共和党：科宁质疑'无国家安全风险'结论的依据；柯蒂斯要求说明哪些官员向董事会说了什么；科顿呼吁通过《芯片安全法案》；克拉默要设更强的'安全护栏'，派'保姆'看着黄仁勋。",
+          "important": false
+        },
+        {
+          "actor": "民主党国会议员",
+          "actor_type": "US-Congress",
+          "text": "民主党索要通信记录，Raskin扩大对1789 Capital调查",
+          "details": "民主党：沃伦要求英伟达管理层和董事会就出口管制合规向国会解释。候任众院委员会主席 Pallone、Meeks、Raskin、Garcia 致信 Trump，索要政府与董事会的全部通信、Trump 何时得知 Alice Huang、黄仁勋是否仍在 PCAST。Raskin 扩大调查 Donald Trump Jr. 任高级合伙人的风投 1789 Capital，查总统家人和盟友是否利用政治关系和内幕信息牟利。",
+          "important": false
+        },
+        {
+          "actor": "Politico",
+          "actor_type": "新闻",
+          "text": "Politico：年终NDAA可能收紧对华出口管制",
+          "details": "Politico 援引国会助手称，英伟达面临在年终国防法案中收紧出口管制的可能性上升；众议院民主党助手还称，议员正考虑向更多董事索取信息，立法与相关要求仍在讨论。",
+          "important": false
+        },
+        {
+          "actor": "新闻",
+          "actor_type": "新闻",
+          "text": "卢特尼克成调查重点，被曝挪用BIS探员当保镖",
+          "details": "卢特尼克成调查重点：被曝抽调工业与安全局探员当私人保镖，家族公司持有英伟达股票。",
+          "important": false
+        },
+        {
+          "actor": "BIS",
+          "actor_type": "US-Executive",
+          "text": "BIS将阿里Apex等七家东南亚公司列入实体清单",
+          "details": "美国将包括美速（Megaspeed）与阿里巴巴 Apex Enterprise Solutions 在内的七家东南亚公司列入实体清单，受管制出口需按'推定拒绝'审查许可证。",
+          "important": false
+        },
+        {
+          "actor": "Carl Quintanilla",
+          "actor_type": "KOL",
+          "text": "KOL将Trump介入类比2008年TARP政府兜底",
+          "details": "Carl Quintanilla：Trump 介入迫使黄仁勋复职，类似 2008 年的 TARP，是一种政府兜底；区别是 TARP 是法律，这次是'the silent hand moving behind the curtain'（Quintanilla 转引）。",
+          "important": false
+        },
+        {
+          "actor": "Mitt Romney",
+          "actor_type": "US-Congress",
+          "text": "Romney：一边阻中国AI一边卖芯片，闻起来像腐败",
+          "details": "Mitt Romney：一边为领先中国不加监管地推进 AI，一边把中国赶超所需的芯片卖给中国；'Smells of profit, corruption and perhaps worse'（Konczal 转发）。",
+          "important": false
+        },
+        {
+          "actor": "Nick G.",
+          "actor_type": "KOL",
+          "text": "gnoble将复职类比Enron请回Ken Lay后110天破产",
+          "details": "Nick G.：gnoble 称复职是 AI 泡沫里最绝望的一招，类比 Enron 2001年8月请回 Ken Lay 后 110 天破产，其做空、预期 CoreWeave、IREN 破产；Nick G. 不评内容，只嘲讽对方在车里拍视频不值得当真。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "ARM",
+        "BABA",
+        "CRWV"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "Politico",
+        "BBG"
+      ],
+      "date": "2026-11-25",
+      "image_urls": []
+    },
+    {
+      "id": "iran-hormuz-crisis-nov24",
+      "topic": "美伊/霍尔木兹危机",
+      "topic_tag": "geo",
+      "title": "Trump警告战争资金撑到1月底，海峡袭船持续",
+      "summary": "Trump 警告民主党人结束伊朗冲突可能让'彻底胜利'变'失败'，战争资金可维持到1月底。UKMTO 报告三起袭船，伊朗军方要求逐日收紧通行，ADNOC 限制未授权船只进入。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "Trump：对伊战争资金可撑到1月底，警告别让胜利变失败",
+          "details": "美国对伊朗的战争资金可维持到 1 月底，并警告民主党人若结束冲突，可能把'彻底胜利'变成'失败'；只是不想让他们拥有核武器。我从未支持或反对政权更迭。",
+          "important": true
+        },
+        {
+          "actor": "UKMTO/ADNOC",
+          "actor_type": "新闻",
+          "text": "UKMTO报告三起袭船，ADNOC禁未授权船只入水域",
+          "details": "霍尔木兹：UKMTO一份报告含三起袭船；伊朗军方要求'day by day'收紧通行。ADNOC：非授权业务船只禁止进入 ADNOC-PPA 水域。",
+          "important": false
+        },
+        {
+          "actor": "Gregory Brew",
+          "actor_type": "Analyst",
+          "text": "Brew：伊朗威慑策略不适合破解封锁，重启会受更大损害",
+          "details": "Gregory Brew：伊朗领导层把封锁定为不可接受的现状，但暂时不愿把进攻行动推到比现在更远，既然准备好军事行动，为何一直回避；除了重启战争，没有破解封锁的清晰办法，而重启会让伊朗受更大损害，伊朗的威慑和报复策略不适合这个目标：让地区受痛不一定能让美国解除封锁，甚至适得其反。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "UKMTO"
+      ],
+      "date": "2026-11-25",
+      "image_urls": []
+    },
+    {
+      "id": "us-tariffs-replace-ieepa-nov24",
+      "topic": "美国关税替代方案",
+      "topic_tag": "policy",
+      "title": "美最早周二宣布对欧中等经济体新一轮关税替代IEEPA",
+      "summary": "BBG：美国最早周二宣布对欧盟、中国等十多个经济体加征关税，以替代被最高法院推翻的IEEPA关税。分析认为用301产能过剩替代但总幅度难越20%红线。",
+      "bullets": [
+        {
+          "actor": "BBG/WSJ",
+          "actor_type": "新闻",
+          "text": "美最早周二对欧盟中国等十余经济体提高关税替代被推翻关税",
+          "details": "BBG：美国最早周二宣布对欧盟、中国及十多个其他经济体提高关税，以替代被最高法院推翻的关税；WSJ称针对被认为扶持本国工业生产、伤害美企的国家。",
+          "important": true
+        },
+        {
+          "actor": "Brad Setser",
+          "actor_type": "Analyst",
+          "text": "Setser：用301把全部国家关税加回IEEPA水平是严重错误",
+          "details": "Brad Setser：用产能过剩 301 把所有国家的关税加回 IEEPA 水平是严重错误，Trump 政府看来要对所有国家而不只是中国这样做，全球顺差现在在中国和芯片出口国，不在日本和欧盟。",
+          "important": false
+        },
+        {
+          "actor": "宏观边际MacroMargin",
+          "actor_type": "KOL",
+          "text": "宏观边际：替代关税对华影响不大，总幅度难超20%红线",
+          "details": "宏观边际MacroMargin：新关税只是替代被判非法的 IEEPA 关税，对华影响不大，调查早已启动。总替代关税预计不超 20%（目前 12.5%），这是中方早划的红线；可以替代，不能越替越高，超过的话中方会反制。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [
+        "BBG",
+        "WSJ"
+      ],
+      "date": "2026-11-25",
+      "image_urls": []
+    },
+    {
+      "id": "fed-december-hike-nov24",
+      "topic": "美联储12月加息路径",
+      "topic_tag": "fed",
+      "title": "多家卖方押注Fed再加息3次至4.50-4.75%",
+      "summary": "JPM预计Fed在12月、1月、3月各加息25bps至4.50-4.75%后暂停，2027 GDP增速降至1.9%；Citi称股市动荡令后续路径复杂但与2018差异大；KOL讨论加息对股市的拖累。",
+      "bullets": [
+        {
+          "actor": "JPM US Rates",
+          "actor_type": "Analyst",
+          "text": "JPM：EFFR升至4.63%维持至27Q3，10Y高点5.10%",
+          "details": "JPM US Rates Outlook：Fed加息至2027Q1，EFFR由 3.88% 升至 4.63% 并维持至三季度；UST 10Y从 4.91% 升至2027Q1高点 5.10%，年底回落至 4.95%，2Y从 4.61% 升至 4.90% 后回到 4.60%。今年10Y上行 76bps，其中1y1y OIS上行 1.27pp 贡献 71bps，主要是中期政策预期鹰派重定价；Fed反应函数对增长更敏感，货币市场曲线将更倒挂，推荐2s/5s走平和2s/5s/10s腹部变贵蝶式。",
+          "important": true
+        },
+        {
+          "actor": "JPM Washington Policy",
+          "actor_type": "Analyst",
+          "text": "JPM：12月、1月、3月再加3次25bps，27年GDP降至1.9%",
+          "details": "JPM Washington Policy：11/19华盛顿会议后对中期选举后风险更谨慎，年末'丑陋圣诞'风险偏下行：除UST和美元外几乎所有资产都在抛售，AI融资解除叠加Fed进一步收紧可能令股市大跌，最终迫使Fed像2018年末那样逆转。JPM美国经济团队预计再加息 3 次 25bps（12月、1月、3月）至 4.50%-4.75% 后暂停，2027年GDP增速降至 1.9%、核心PCE降至 2.7%；若油价回落至 $60/bbl 或以下，通胀可能快速下行。",
+          "important": false
+        },
+        {
+          "actor": "Citi",
+          "actor_type": "Analyst",
+          "text": "Citi：12月至少加25bps，与2018差异使鸽派转向更晚",
+          "details": "Citi US Daily：Fed看起来仍将在12月加息至少 25bps，但市场不稳定令后续路径复杂化。与2018年不同：SPX仅较高点跌约 10%（2018年为 20%）且年内仍小幅上涨，增长稳健而非疲软，通胀高于目标，因此官员转鸽会更晚；但AI投资和消费支出对股市敏感，若动荡持续，Fed可能不得不重复2018年的鸽派转向。",
+          "important": false
+        },
+        {
+          "actor": "Prometheus Research",
+          "actor_type": "KOL",
+          "text": "Prometheus：这轮股市下跌源于风险溢价扩张，球在Fed手里",
+          "details": "Prometheus Research：这轮股市下跌来自风险溢价扩张，这种急剧扩张往往会回撤；continued hiking cycle 对股市没帮助，'Ball in the Fed's court'。",
+          "important": false
+        },
+        {
+          "actor": "Thorsten Froehlich",
+          "actor_type": "KOL",
+          "text": "Froehlich：RAGE HIKE将至？多数委员盯后视镜很危险",
+          "details": "Thorsten Froehlich：'RAGE HIKE INBOUND?' 除 Williams 外，多数 FOMC 成员盯着后视镜，很危险；不接受 Warsh 当主席加剧了局面，Warsh 想停掉前瞻指引却得不到委员支持，适得其反。",
+          "important": false
+        },
+        {
+          "actor": "丹湖渔翁",
+          "actor_type": "KOL",
+          "text": "丹湖渔翁：12月加息概率100%，金银铜下跌风险未解除",
+          "details": "丹湖渔翁：12月加息概率 100%，金银铜继续下跌的风险并未完全解除。",
+          "important": false
+        },
+        {
+          "actor": "WSJ经济学家调查",
+          "actor_type": "新闻",
+          "text": "10月PCE预期中值：核心m/m 0.29%、y/y 3.2%",
+          "details": "October PCE price index forecasts：Barclays/JPM/MS/GS等核心m/m 0.29%、y/y 3.2%；中位数headline m/m 0.31%、y/y 3.8%，核心m/m 0.29%、y/y 3.2%；9月前值分别为 0.49%/3.6%/0.32%/3.1%。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        6
+      ],
+      "importance": 3,
+      "sources": [
+        "JPM",
+        "Citi",
+        "WSJ"
+      ],
+      "date": "2026-11-25",
+      "image_urls": [
+        "/uploads/2026-11-25/df3a7ebb0852.png"
+      ]
+    },
+    {
+      "id": "ecb-boe-eu-nov24",
+      "topic": "欧洲央行与法国财政",
+      "topic_tag": "rates",
+      "title": "ECB鹰派表态，BOE'behind curve'，法国预算过关",
+      "summary": "ECB 的 Simkus、Kaasik 支持继续加息；BOE 的 Greene 警告落后于形势；法国国民议会批准 2026 预算，马克龙考虑重启2011年修宪方案。",
+      "bullets": [
+        {
+          "actor": "ECB官员",
+          "actor_type": "Central-Bank",
+          "text": "ECB Simkus称加息审慎，Kaasik称利率须进一步上调",
+          "details": "ECB：Simkus 称 hike 'prudent'，Kaasik 称利率必须进一步上调。",
+          "important": true
+        },
+        {
+          "actor": "BOE Greene",
+          "actor_type": "Central-Bank",
+          "text": "BOE Greene：除非伊朗战争奇迹结束否则BOE落后于形势",
+          "details": "BOE 的 Greene：除非伊朗战争奇迹般结束，BOE 就'behind the curve'。",
+          "important": false
+        },
+        {
+          "actor": "法国/马克龙",
+          "actor_type": "Foreign-Gov",
+          "text": "法议会批准2026预算，马克龙拟重启2011修宪方案",
+          "details": "法国国民议会批准 2026 年 year-end 预算法案；EU 暂缓审查法国公共财政；马克龙称若金融市场动荡持续到明年1月，可考虑重启2011年萨科+齐时期的修宪方案；该方案不设年度赤字上限，靠多年财政框架实现长期收支平衡。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-25",
+      "image_urls": []
+    },
+    {
+      "id": "ai-capex-sellside-nov24",
+      "topic": "AI Capex与融资担忧",
+      "topic_tag": "ai",
+      "title": "JPM：2027年AI capex约$1.4T，2028年起走平",
+      "summary": "JPM预计2027年AI capex近乎翻倍至$1.4T、2027-2031累计$7T，2028年起走平；多位KOL与Nomura担忧融资解体与科技股调整连锁；GS下调存储盈利预测。",
+      "bullets": [
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "JPM：2027年AI capex约$1.4T，2028起走平，'27是big and strange'",
+          "details": "JPM：资本约束下年度 AI 数据中心 capex 从 2028 年起在约 $1.4 trillion 走平；'late 2027 or early 2028' 会有一个季度 capex 展望基本持平；'2027 is going to be a big and strange year in AI capex'。JPM另统计2027-2031年累计 $7T，IMF统计 14 笔交易 $300B 股权加 $650B 债务对应 $1.4T 未来收入承诺。",
+          "important": true
+        },
+        {
+          "actor": "Nomura Macro",
+          "actor_type": "Analyst",
+          "text": "Nomura：科技股走弱必然恶化AI融资，复苏不可持续",
+          "details": "Nomura Macro Strategy：怀疑'科技股调整但AI投资继续、复苏转向非科技板块'的观点：当前周期由AI投资驱动，科技股走弱必然恶化信贷条件，使AI投资融资难以为继，没有科技股重新上涨复苏就不可持续。政府干预不是转折点，Fed加息与流动性收紧、科技信贷收缩与循环交易减少、中美竞争、AI投资限制四个因素交织；消费接棒需要失业率持续下降，而当前工资与通胀同步放缓，不像90年代末那样实际收入上升。",
+          "important": false
+        },
+        {
+          "actor": "GS",
+          "actor_type": "Analyst",
+          "text": "GS下调Kioxia、SK海力士、三星盈利预测",
+          "details": "卖方存储与光通信：GS 下调 Kioxia、SK 海力士、三星盈利预测。",
+          "important": false
+        },
+        {
+          "actor": "ABCトレーダー",
+          "actor_type": "KOL",
+          "text": "日本KOL：GS下调Kioxia虽已计入1-2倍PER但股价还会跌",
+          "details": "ABCトレーダー：引 Goldman 下调 Kioxia 盈利预测：预期 PER 1〜2 倍应已计入，但股价还是会跌。",
+          "important": false
+        },
+        {
+          "actor": "Yet another commodity guy",
+          "actor_type": "KOL",
+          "text": "KOL：存储股开始便宜，SK海力士约1.5x FCF",
+          "details": "Yet another commodity guy：存储股开始便宜，算上现金和已签长期订单，SK 海力士约为 next 12 months 自由现金流的 1.5x；内存价格终会走低，但没人会对内存厂商的 LTA 违约，黄仁勋更不会；韩国存储商若聪明，可以回购一半流通股，还有钱建新厂。",
+          "important": false
+        },
+        {
+          "actor": "P Equity Research",
+          "actor_type": "KOL",
+          "text": "KOL：蒸馏成功率从一次变十次，反蒸馏比芯片限制更伤",
+          "details": "P Equity Research：中国 AI 公司研究员称蒸馏获取有用训练数据现在要试十次，过去一次就够；有业内人士认为反蒸馏比芯片限制更伤中国实验室。",
+          "important": false
+        },
+        {
+          "actor": "Special Situations Research / Andy Constan",
+          "actor_type": "KOL",
+          "text": "KOL：$ANT由承销商定价，开源利空Anthropic",
+          "details": "Andy Constan：$ANT 本周由承销商行为定价，下周才可能真正价格发现。Special Situations Research Newsletter (Jay)：黄仁勋再推开源模型对 $ANT 是负面；token 价格一直在跌；Anthropic 从 IPO 日起就是短线做空标的。",
+          "important": false
+        },
+        {
+          "actor": "Derivatives Don",
+          "actor_type": "KOL",
+          "text": "KOL：NVDA对指数化资金的gamma噩梦类比AMC/BBBY",
+          "details": "Derivatives Don：$NVDA 现在给指数化资金带来的噩梦，让他想起 $AMC 和 Bed Bath and Beyond 给 Russell 2k gamma 账户造成的麻烦，但这次规模大得多、影响更深远。",
+          "important": false
+        },
+        {
+          "actor": "JPM Equity Strategy",
+          "actor_type": "Analyst",
+          "text": "JPM：科技ETF散户资金创纪录流出",
+          "details": "Figure 10: Retail Outflows from Tech ETFs at their Largest on Record。Equity Sector—Technology Weekly (50) Retail Imbalance，近期Jul-26至Nov-26出现大幅红色负值柱，净流出降至-200至-300区间，为纪录以来最大流出。",
+          "important": false
+        },
+        {
+          "actor": "A股回购",
+          "actor_type": "Corporate",
+          "text": "中际旭创拟回购¥2-4B，摩尔线程¥500M-1B",
+          "details": "多家A股公司11月23日晚披露回购：中际旭创 ¥2B–¥4B，摩尔线程 ¥500M–¥1B。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "KIOXIA",
+        "ANT"
+      ],
+      "image_indexes": [
+        4,
+        7
+      ],
+      "importance": 3,
+      "sources": [
+        "JPM",
+        "GS",
+        "Nomura"
+      ],
+      "date": "2026-11-25",
+      "image_urls": [
+        "/uploads/2026-11-25/7e532c51fa5f.png",
+        "/uploads/2026-11-25/fd36f67ccdb9.png"
+      ]
+    },
+    {
+      "id": "us-equity-market-outlook-nov24",
+      "topic": "美股回调与展望",
+      "topic_tag": "earnings",
+      "title": "MS测算10-20%回调或引增长衰退，多KOL看类比1998/2018",
+      "summary": "MS 分三档评估股市回调对经济冲击；JPM 警告丑陋圣诞；多位KOL从技术面和历史类比讨论是否见底。",
+      "bullets": [
+        {
+          "actor": "MS US Eco",
+          "actor_type": "Analyst",
+          "text": "MS：10-20%回调可能引'增长衰退'，20%+进入熊市",
+          "details": "MS US Eco：维持2027-28年美国增长韧性、通胀缓慢回落的判断，但分三档评估股市回调的冲击：10% 以内属常规波动（平均每 2y 一次），不改预测；从高点持续下跌 10%-20% 可能引发'增长衰退'（增长低于潜在、失业率上升但产出仍扩张），需大幅下调增长预测；20% 以上进入熊市，约 30% 跌幅是引发衰退的合理门槛。AI投资既直接拉动需求、又通过股市财富支撑消费，一旦AI前景重估，投资和消费会同时走弱。依据：2022Q2至2026Q2家庭净资产增加 $50.1T 至 $196T（金融资产贡献 $46.2T），前 20% 收入家庭持有 87% 的股票/基金，55 岁以上持有 73% 净财富。1950年以来SPX持续下跌 10-20% 时消费增速每年放缓约 2.0pp、20% 以上约 2.5pp；1929年以来 22 次熊市平均跌 33.6%，11 次与NBER衰退重合。30% 财富冲击在快速调整下第一年拖累消费 0.8pp、峰值 1.3pp，缓慢调整仅 0.1pp。",
+          "important": true
+        },
+        {
+          "actor": "JPM Joyce Chang",
+          "actor_type": "Analyst",
+          "text": "JPM Joyce Chang：AI融资解体+Fed紧缩或造就丑陋圣诞",
+          "details": "JPM Joyce Chang（11/19华盛顿闭门会）：'中期选举后需监测的十大风险'论点：中期选举后风险更值得谨慎；'AI融资的解体，加上美联储的进一步紧缩，可能造就一个非常难看的圣诞节'。",
+          "important": false
+        },
+        {
+          "actor": "JPM",
+          "actor_type": "Analyst",
+          "text": "JPM配置：持高质量固收和美元，回避金油",
+          "details": "JPM配置上持有高质量固收和美元、回避Gold和原油：高质量固收提供约 6% 收益，10年期IG最优（利差目标收窄 19bps 至 90bps、总回报 7.1%），EMBIGD全年回报约 10%，EURUSD看至 1.05；多数与会者认为AI回调更像2001而非2008，但叠加Fed紧缩可能类似2018。风险清单：伊朗12月或现军事升级窗口（谈判 20%-25%、现状 30%-40%、重新进攻 30%-40%），但商品团队预计Brent 2027年底降至 $66/bbl；12/11政府资金到期、持续决议可能性大，FY2026赤字占GDP 6.2%，利率每升 50bps 十年累计利息多 $1.6T；301/232调查或将有效关税率从 7-8% 推向 15-20%，对华芯片管制可能在1月新国会前收紧。",
+          "important": false
+        },
+        {
+          "actor": "Nomura US Consumer",
+          "actor_type": "Analyst",
+          "text": "Nomura：财富效应被高估，$1股票仅拉动略多于$0.01消费",
+          "details": "Nomura US Consumer：股市回调拖累消费的风险被高估，消费主要跟随劳动收入：Fed 2025年研究估算每 $1 股票财富仅带来略多于 $0.01 消费，剔除财富效应后PCE轨迹不变、仍贴合工资薪金（yoy约 4%）。低失业率下的回撤对消费影响温和，1987年股灾后一年实际PCE仍增 4.2%，1998年和2015-16年支出也保持平稳。SCF显示最高收入和财富十分位家庭各占非住房消费约 28%，远低于近 50% 的估算，不支持K型叙事；银行数据显示各收入和信用分层支出与信用表现稳固（JPM借记卡和信用卡支出 yoy +10%）。",
+          "important": false
+        },
+        {
+          "actor": "Mohamed A. El-Erian",
+          "actor_type": "KOL",
+          "text": "El-Erian：上周技术面预警远不止Nvidia",
+          "details": "Mohamed A. El-Erian：市场在提醒投资者，上周的预警信号尤其是技术面，远不止 Nvidia；关键问题是坏的技术面会不会变成坏的基本面。",
+          "important": false
+        },
+        {
+          "actor": "Jurrien Timmer",
+          "actor_type": "KOL",
+          "text": "Timmer：盈利增速见顶，低远期P/E未必便宜",
+          "details": "Jurrien Timmer：盈利仍在增长但增速已见顶，低远期 P/E 未必像看上去那么有吸引力。",
+          "important": false
+        },
+        {
+          "actor": "Mark Minervini",
+          "actor_type": "KOL",
+          "text": "Minervini：投票显示情绪不是底部通常的样子",
+          "details": "Mark Minervini：发起'S&P 500 先往哪走'投票后称：这不是底部通常会有的情绪。",
+          "important": false
+        },
+        {
+          "actor": "Lucas",
+          "actor_type": "KOL",
+          "text": "Lucas：纳指低于200日线10%，2000年真泡沫到过60%",
+          "details": "Lucas：1998 类比第二部分：纳指跌到 200 日线下方 10%，许多人急着喊熊市；指数此前只比 200 日线高 20%，2000 年真泡沫时到过 60%，很难叫泡沫。",
+          "important": false
+        },
+        {
+          "actor": "Master WU",
+          "actor_type": "KOL",
+          "text": "Master WU：本周多头不能收复7300，SPX或回测6883",
+          "details": "Master WU：若多头本周不能有力收复7300，SPX 很可能回测 6883 低点。",
+          "important": false
+        },
+        {
+          "actor": "波元霸台球之门",
+          "actor_type": "KOL",
+          "text": "波元霸：A大底未到，市场重审AI盈利兑现能力",
+          "details": "波元霸台球之门：A大底未到市场在重新审视 AI 盈利兑现能力；黄仁勋回归只解决管理层不确定性，回答不了需求持续性和投入能否回本；外部冲击叠加国内资金疲软：增量资金少、没有主线，持续缩量说明只是磨底，不等于底部确认；真正的市场底往往先有恐慌放量杀跌，再缩量企稳，现在更偏阴跌磨盘。",
+          "important": false
+        },
+        {
+          "actor": "Bloomberg/Fidelity图表",
+          "actor_type": "新闻",
+          "text": "图：2026走势类比2018剧本；SPX回撤-12.3%",
+          "details": "2026 Follows 2018 Playbook, So Far：标普500 2026年走势与2017-19年类比。Equity Drawdowns图显示SPX近期回撤 -12.3%，近年峰值7802回落至6910。AI Metrics显示GS AI篮子从峰值473跌至296，AI panic drawdown -34%。纳指实际与Q4 94-Q3 98类比（Match Score 78.7），距200日线 -10.1%（3Y 1st percentile）。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPY",
+        "QQQ"
+      ],
+      "image_indexes": [
+        0,
+        1,
+        3
+      ],
+      "importance": 3,
+      "sources": [
+        "MS",
+        "JPM",
+        "Nomura",
+        "Fidelity"
+      ],
+      "date": "2026-11-25",
+      "image_urls": [
+        "/uploads/2026-11-25/bb4b89a868ca.png",
+        "/uploads/2026-11-25/27cda5247fc1.jpg",
+        "/uploads/2026-11-25/383c3fca7c79.jpg"
+      ]
+    },
+    {
+      "id": "commodities-metals-oil-nov24",
+      "topic": "商品：金属与原油",
+      "topic_tag": "oil",
+      "title": "JPM看金铜底部临近，混沌天成偏空原油",
+      "summary": "CME上调金银保证金；JPM基本金属调整未完、贵金属接近底；混沌天成看空原油基本面，铜随宏观下跌；美精炼铜库存与232关税悬而未决。",
+      "bullets": [
+        {
+          "actor": "混沌天成",
+          "actor_type": "Analyst",
+          "text": "混沌天成：原油基本面偏弱，利多靠伊朗升级",
+          "details": "混沌天成 Energy & Chem：原油现实仍偏弱，潜在利多主要来自地缘，关注伊朗是否主动升级局势：OPEC产量已恢复到接近战前、超出市场预期，仅伊朗产量出口大幅下跌，伊拉克不满 5M b/d 配额、OPEC团结性再受考验；美伊僵持，特朗普称若明年1月仍未达成协议可能重新动武，IRGC继续高强度袭击海峡油轮。需求端EIA显示美国成品油表需同比走弱，截至11/20 API原油库存 +130K 桶、汽油 -50K 桶、馏分油 +1.65M 桶，月差基差偏弱、柴油利润大幅走弱。",
+          "important": true
+        },
+        {
+          "actor": "JPM Metals",
+          "actor_type": "Analyst",
+          "text": "JPM：铜先回落至$11000/t，金4Q27目标$4500/oz",
+          "details": "JPM Metals Outlook：基本金属调整未完，2027H1仍有下行：过去一年铜涨至 $14000/t 以上主要因美国超量进口囤积约 2M t 精炼铜，关税未落地后错位溢价解除，LME铜11月单月跌 15%；2027年美国去库存近 400K t，美国以外精炼铜由缺口转为约 400K t 过剩，铜先回落至 $11000/t，4Q27目标 $12250/t、2027均价 $11750/t。贵金属接近底部：10Y实际利率自2月上行逾 100bps、Fed 9月恢复加息，Gold较高点回落超 30%，11月测试 $3400-3500/oz；Fed在12月、1月、3月各加息一次后暂停，Brent 2Q27后回落至 $65-75/bbl，ETF增持约 480t，4Q27目标 $4500/oz、2027均价 $4100/oz，2028年中重回约 $5000/oz；白银4Q27 $56/oz、铂金 $1800/oz，钯金 $1000-1200/oz。",
+          "important": false
+        },
+        {
+          "actor": "CME",
+          "actor_type": "Corporate",
+          "text": "CME上调金保证金至6%、银至9%",
+          "details": "CME 上调金银保证金：黄金 5% → 6%, 白银 8% → 9%，周二收盘后生效，CME 称是例行波动率评估。",
+          "important": false
+        },
+        {
+          "actor": "混沌天成（铜铝）",
+          "actor_type": "Analyst",
+          "text": "混沌天成：铜随宏观跌，铝中期过剩逢高可空",
+          "details": "美债美指维持高位、AI叙事难以反转，铜价重新跟随宏观下跌：美国11月综合PMI初值 54.6、制造业 54.5 均低于前值，费城联储物价支付指数升至 45.8（10月 42.1）。Cochilco预测智利2026年产量 4.94M t（yoy -8.4%）、2027年恢复至 5.08M t（+3.0%），2027年全球矿铜 24.08M t（+3.4%）；COMEX-LME价差跌至 -$158/t、LME总库存升至 337.8K t，232精炼铜关税（2027年 15%、2028年 30%）悬而未决。铝：中东已减产 2.714M t（不含伊朗）、海外2026年供应增量下修 2.01M t，但EGA复产达 61%、巴林铝业恢复至 80%；国内周产量 874K t、表需 945K t。LME将铝tom-next借出指引门槛由 50% 下调至 30%。锌、锡承压下行，镍偏弱震荡（沪镍主力 -1.99% 至 ¥114,500/t）。",
+          "important": false
+        },
+        {
+          "actor": "炼厂图表",
+          "actor_type": "新闻",
+          "text": "APAC/NWE/USGC炼厂净回值与运费图",
+          "details": "Figure 5-10：APAC/NWE/USGC炼厂净回值边际与USGC/LATAM/WAF油轮运费走势（Brent、Arab Light/Medium、Dubai、WTI MEH、Murban等），数据源Poten/OPIS/Bloomberg。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "GLD",
+        "SLV",
+        "USO"
+      ],
+      "image_indexes": [
+        5
+      ],
+      "importance": 2,
+      "sources": [
+        "JPM",
+        "混沌天成"
+      ],
+      "date": "2026-11-25",
+      "image_urls": [
+        "/uploads/2026-11-25/44f9354f458b.png"
+      ]
+    },
+    {
+      "id": "burry-positioning-nov24",
+      "topic": "Burry仓位调整",
+      "topic_tag": "macro-other",
+      "title": "Burry已卖出75% NVDA看跌，增持中概",
+      "summary": "Burry在Nvidia暴涨前已累计卖出75%看跌期权并买入虚值看涨；清SMH看跌、减NDX看跌、加仓MercadoLibre/京东/比亚迪/腾讯。",
+      "bullets": [
+        {
+          "actor": "Michael Burry",
+          "actor_type": "KOL",
+          "text": "Burry：暴涨前卖出75% NVDA看跌，增持中概",
+          "details": "Burry：做空英伟达的逻辑不变，但暴涨前已累计卖出 75% 的英伟达看跌期权，并买入少量长期深度虚值看涨期权；清仓 SMH 看跌期权，卖出一半2027年4月到期的NDX看跌期权，MercadoLibre 增持约 20%；增持京东、比亚迪、腾讯。",
+          "important": true
+        },
+        {
+          "actor": "Michael Burry",
+          "actor_type": "KOL",
+          "text": "Burry论点：黄回归只恢复脆弱常态，做空逻辑不依赖其离职",
+          "details": "论点：黄仁勋回归只恢复了脆弱的常态，做空逻辑不依赖其离职；同时在已暴跌的中国股票里加仓。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "SMH",
+        "MELI",
+        "JD",
+        "BYDDY"
+      ],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-25",
+      "image_urls": []
+    },
+    {
+      "id": "misc-other-nov24",
+      "topic": "其他",
+      "topic_tag": "macro-other",
+      "title": "陈吉宁被查、FinCEN网安事件、微短剧超长视频",
+      "summary": "上海市委书记陈吉宁被调查；FinCEN承认网络安全事件可能大量机密交易数据被窃；中国微短剧用户日均使用129分钟超长视频。",
+      "bullets": [
+        {
+          "actor": "中国政治局",
+          "actor_type": "Foreign-Gov",
+          "text": "政治局委员、上海市委书记陈吉宁被调查",
+          "details": "中国政治局委员、上海市委书记陈吉宁被调查。宏观边际评论：陈吉宁被撸下去，印证了此前周报对五中全会的分析：全会对反腐成果定调明显回摆，反腐第二阶段（第二轮清洗）或将加剧；但消息出来仍惊讶。",
+          "important": true
+        },
+        {
+          "actor": "FinCEN",
+          "actor_type": "US-Executive",
+          "text": "FinCEN承认网安事件，疑大量机密交易数据被窃",
+          "details": "财政部FinCEN承认网络安全事件，解释了过去一周的宕机；crampell 称可能有大量机密交易数据被窃，银行也无法报告可疑洗钱。",
+          "important": false
+        },
+        {
+          "actor": "《中国网络视听发展研究报告》",
+          "actor_type": "新闻",
+          "text": "微短剧用户日均129分钟，首超长视频",
+          "details": "《中国网络视听发展研究报告(2026)》：截至2025年12月，微短剧用户人均单日使用 129 分钟，已超过长视频。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 1,
+      "sources": [],
+      "date": "2026-11-25",
+      "image_urls": [
+        "/uploads/2026-11-25/0818923ec00d.jpg"
+      ]
+    }
+  ]
+}
