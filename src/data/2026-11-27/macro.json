@@ -1,0 +1,441 @@
+{
+  "topics": [
+    {
+      "id": "ustr-301-tariffs-nov26",
+      "topic": "USTR 301关税",
+      "topic_tag": "policy",
+      "title": "USTR拟对14国加征301关税 中国20%可升至40%",
+      "summary": "USTR依301条款拟对14个贸易伙伴加征关税，中国20%、谈判破裂可升至40%，越南35%最高，印度25%，欧日韩台瑞15%。实施推迟至2027年初，意见截止1/5、听证1/25。GS、HSBC、JPM、CRFB等主要卖方认为净增幅较小、对通胀影响有限，CRFB估算到FY2036可筹$375B、恢复IEEPA收入损失约80%。",
+      "bullets": [
+        {
+          "actor": "USTR",
+          "actor_type": "US-Executive",
+          "text": "拟对14个贸易伙伴加征301关税 中国20%、可升至40%",
+          "details": "美国按301条款拟对14个贸易伙伴加征关税：中国20%、可升至40%，越南最高35%，印度、台湾、韩国、印尼、马来西亚、泰国、柬埔寨最高25%；USTR称几个月后才生效。",
+          "important": true
+        },
+        {
+          "actor": "Goldman Sachs",
+          "actor_type": "Analyst",
+          "text": "GS：美国有效关税率升至9.2% 对华升至24.9%",
+          "details": "GS估算美国有效关税率由7.8%升至9.2%（+1.4pp，此前假设+1.7pp），对2027核心PCE增量影响很小。中国20%并恢复半导体、计算机、药品、网络设备、智能手机10%关税，另排除$30B基本消费品，对华有效关税率由19.9%升至24.9%；欧盟/日本/瑞士/韩国15%，台湾由20%降至15%，东南亚多国18%；越南/印度无协议分别35%、25%（有协议20%、17%）；实施推迟至2027年2月底至3月。",
+          "important": false
+        },
+        {
+          "actor": "HSBC",
+          "actor_type": "Analyst",
+          "text": "HSBC：扣除现有301后净增幅较小 不会重现4月冲击",
+          "details": "HSBC指USTR 11/25提议加征15%-35%，扣除现有301关税后净增幅较小，越南+22.5pp、中国+7.5pp、欧盟+5pp、日韩+2.5pp；意见截止1/5、听证1/25，2027年初可能实施；因税率为净额计入既有协议，预计不会重现2025年4月\"解放日\"式冲击；中国若问题未解决可升至40%，\"30换30\"清单商品排除。",
+          "important": false
+        },
+        {
+          "actor": "JPMorgan",
+          "actor_type": "Analyst",
+          "text": "JPM：中美基准仍是有限延长休战 \"30-for-30\"豁免为下一步",
+          "details": "JPM基准是中美再次有限延长休战，同时美国在豁免清单外提高关税；USTR新税率短期不生效（1/5意见、1/25听证均晚于1/10休战到期）；\"30-for-30\"豁免双方各约$30B非敏感商品（按2024贸易值），既非采购承诺也非关税减免；若迈阿密G20（12/14-15）会晤，首要防止178项301豁免（1/9）和中国扩大出口管制暂停（1/10）到期。半导体管制趋紧，MATCH条款或纳入FY27 NDAA，BIS远程访问规则11/19生效。中国前10个月货物贸易顺差$1.04T。",
+          "important": false
+        },
+        {
+          "actor": "CRFB",
+          "actor_type": "Analyst",
+          "text": "CRFB：301新关税到FY2036可筹$375B 恢复IEEPA收入约80%",
+          "details": "CRFB估算拟议14国301关税到FY2036可筹约$375B，叠加已实施的301、338和临时122关税，可恢复IEEPA被否后收入损失的约80%（7月估计不足60%），剩余缺口由约$825B缩至约$455B，FY2027以后年度替代率约90%；2036债务/GDP估算121%（CBO二月基线120%），较7月低1pp。临时122关税已被国际贸易法院裁定非法。",
+          "important": false
+        },
+        {
+          "actor": "Deutsche Bank",
+          "actor_type": "Analyst",
+          "text": "DB：301对中国纳入多个金属HTS编码 释放关键矿产去风险信号",
+          "details": "DB指USTR 301提案对其他经济体普遍豁免关键矿产，唯独对中国纳入多个金属HTS编码（含LME和LBMA金属），中国直接对美出口占比极低，更多是对华关键矿产去风险的战略信号。铜市出现美中背离：两年关税预期把大量精炼铜吸入美国，美中合计约占全球地上库存70%；中国期限结构和升水创历史高位，LME欧洲和亚洲仓库仅剩33K吨。对精炼铜实施S232关税激励冶炼回流的理由在增强：美洲矿山项目占全球增量约35%，美国占美洲35%；铝先例：关税对整车成本影响约$330/辆，2025年以来15项铝投资公告、产能2.35M吨、3600岗位。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "USTR",
+        "GS",
+        "HSBC",
+        "JPM",
+        "CRFB",
+        "DB"
+      ],
+      "date": "2026-11-27",
+      "image_urls": []
+    },
+    {
+      "id": "fed-warsh-hawkish-nov26",
+      "topic": "美联储政策转向",
+      "topic_tag": "fed",
+      "title": "Fed突然转鹰 市场定价政策失误 Warsh言论重估",
+      "summary": "Nomura指Fed转鹰由后顾式因素驱动（回应CPI上行意外、避免落后曲线），市场定价政策失误，2Y远期OIS 4.53%，2Y实际收益率逼近SVB水平。Nick梳理Warsh过往重视市场信号但不救市。Timiraos认为与2018年12月Powell Fed类比有限，当前通胀仍\"uncomfortably hot\"。BofA指Fed通胀算术不成立，需大幅压降总需求。",
+      "bullets": [
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "Nomura：市场定价Fed政策失误 2Y远期OIS 4.53%",
+          "details": "Fed突然转鹰主要由后顾式因素驱动：回应CPI等通胀上行意外、避免重蹈2022年落后于曲线的覆辙影响最大，而非对AI复苏的信心或科技股推松金融条件等前瞻判断。市场回应是定价政策失误，2Y远期OIS预期6mo后见顶、早于此前，几乎完全定价三次加息后已开始明确定价降息。与美伊冲突后保险性加息定价不同，当前商品（含原油）大跌、BEI明显下行，2Y实际收益率逼近2023年SVB冲击水平，提示急剧放缓风险；若通胀预期下降过快，Fed可能被迫近期重回降息。10Y实际收益率跌至2.74%、10Y BEI持平2.12%，市场定价12月加24bps、1月累计40bps、3月累计55bps，VIX 28.3、MOVE 97.5。",
+          "important": true
+        },
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "Nick梳理Warsh过往：重视市场信号但不救市",
+          "details": "Nick Timiraos梳理Warsh过往言论：重视市场信号但不救市。2016年3月演讲批评Fed系统性低估市场价格信号，随后恐慌反应坐实central bank put；2018年10月10Y当周涨20bps称为\"nature, gravity\"，认为10Y收益率应等于名义GDP、约5.5%，Dec加25bps\"doesn't matter much\"；2018年12月与Druckenmiller合写WSJ评论，股市跌约11%时主张Fed \"should cease—for now\"。",
+          "important": false
+        },
+        {
+          "actor": "Nick Timiraos",
+          "actor_type": "新闻",
+          "text": "Timiraos：与2018年12月Powell Fed类比有限 通胀背景不同",
+          "details": "Timiraos认为与2018年12月Powell Fed的类比有限，通胀背景完全不同。表面相似：新主席、Trump中期选举受挫、委员会偏鹰、risk-off，当时Bullard警告raising rates显得\"tone deaf\"并预言曲线倒挂，但附加条件\"if inflation was running above target\"；如今通胀仍\"uncomfortably hot\"。",
+          "important": false
+        },
+        {
+          "actor": "BofA",
+          "actor_type": "Analyst",
+          "text": "BofA：Fed通胀算术不成立 需更大幅压降总需求",
+          "details": "BofA指1994年NAFTA至疫情前核心PCE商品年化-0.5%、核心服务约2.8%即可支撑2%核心PCE；2020年2月以来核心商品年化升至2%，去全球化在关税效应消退后仍可能支撑商品通胀，与目标一致的核心服务通胀须明显更低，Fed需比以往更大幅压降总需求。当前核心服务通胀远高于目标一致水平，Warsh是否愿让经济放缓到所需程度将决定Fed公信力。4Q GDP追踪因工业产值年度修订下调0.2pp至2.2% q/q saar（官方预测2.4%）。",
+          "important": false
+        },
+        {
+          "actor": "Claudia Sahm",
+          "actor_type": "Analyst",
+          "text": "Sahm：Warsh担心预测虚假精确有理 但委员会担心不公布当前计划造成混乱也有理",
+          "details": "Claudia Sahm：\"Warsh is right to worry about the false precision of forecasts, but the Committee is right to worry about the confusion of withholding the current plan\"。",
+          "important": false
+        },
+        {
+          "actor": "@EconstratPB",
+          "actor_type": "KOL",
+          "text": "@EconstratPB：核心通胀涨价面相当广 燃料只是分项",
+          "details": "@EconstratPB：燃料价格只是一个分项，核心通胀涨价面相当广，通胀机制和指数权重很复杂。",
+          "important": false
+        },
+        {
+          "actor": "Fed FEDS Note",
+          "actor_type": "Central-Bank",
+          "text": "FEDS Note：AI生产率预期上升会压低长期美债收益率和r*",
+          "details": "美联储FEDS Note：AI等生产率预期上升会压低长期美债收益率和r*。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        1,
+        3
+      ],
+      "importance": 3,
+      "sources": [
+        "Nomura",
+        "BofA",
+        "Fed",
+        "WSJ"
+      ],
+      "date": "2026-11-27",
+      "image_urls": [
+        "/uploads/2026-11-27/082c905a2c57.jpg",
+        "/uploads/2026-11-27/a5ccf8d50c4a.jpg"
+      ]
+    },
+    {
+      "id": "trump-nvidia-huang-nov26",
+      "topic": "Nvidia与黄仁勋复职",
+      "topic_tag": "ai",
+      "title": "黄仁勋下周一回归Nvidia Trump/Vance秘密推动",
+      "summary": "Trump称黄仁勋下周一回归Nvidia并将与其通话。NYT报情报官员向国会简报Nvidia事件，无证据Alice Huang受MSS指使。Trump和Vance秘密推动复职，Rubio、Ratcliffe、Lutnick未参与。另有传言白宫经财政部入股Nvidia，Nvidia要求制造伙伴停止向东南亚四国交付服务器。",
+      "bullets": [
+        {
+          "actor": "Trump",
+          "actor_type": "US-Executive",
+          "text": "黄仁勋下周一回归Nvidia 将与其通话",
+          "details": "Trump表示黄仁勋下周一回归Nvidia，称将与其通话。",
+          "important": true
+        },
+        {
+          "actor": "NYT",
+          "actor_type": "新闻",
+          "text": "NYT：情报官员向国会简报Nvidia事件 无证据Alice Huang受MSS指使",
+          "details": "NYT：情报官员向国会幕僚简报Nvidia事件，无证据显示Alice Huang受MSS指使接近黄仁勋，简报方含F.B.I.、C.I.A.和Office of the Director of National Intelligence。",
+          "important": false
+        },
+        {
+          "actor": "白宫/Vance",
+          "actor_type": "US-Executive",
+          "text": "Trump和Vance秘密推动黄仁勋复职 Rubio/Ratcliffe/Lutnick未参与",
+          "details": "Trump和Vance秘密推动黄仁勋复职，Rubio、Ratcliffe、Lutnick未参与。",
+          "important": false
+        },
+        {
+          "actor": "传言",
+          "actor_type": "新闻",
+          "text": "传言白宫经财政部入股Nvidia",
+          "details": "有rumor传言白宫经财政部入股Nvidia。",
+          "important": false
+        },
+        {
+          "actor": "Nvidia",
+          "actor_type": "Corporate",
+          "text": "Nvidia要求制造伙伴停止向东南亚四国交付服务器",
+          "details": "Nvidia要求Dell、Supermicro等制造伙伴停止向马来西亚、新加坡、泰国、印尼交付服务器。",
+          "important": false
+        },
+        {
+          "actor": "The Information",
+          "actor_type": "新闻",
+          "text": "DeepSeek内部估计蒸馏通道关闭后中美模型差距或拉大到九个月",
+          "details": "The Information：DeepSeek内部估计蒸馏通道关闭后中美模型差距或拉大到九个月。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "DELL",
+        "SMCI"
+      ],
+      "image_indexes": [],
+      "importance": 3,
+      "sources": [
+        "NYT",
+        "The Information"
+      ],
+      "date": "2026-11-27",
+      "image_urls": []
+    },
+    {
+      "id": "ai-compute-prices-nov26",
+      "topic": "AI算力价格",
+      "topic_tag": "ai",
+      "title": "AI算力价格回落引担忧 折旧或摧毁hyperscaler利润",
+      "summary": "trap_zack指出SpaceX下调Blackwell小集群现货价至$10-12/GPU·小时，Anthropic不续约约50K张H200，BIS新规使原租给中国客户的算力回流，短期算力供给快速释放；若算力市场不再紧张，折旧会摧毁hyperscaler/neocloud利润，根源是ARR走平。李在镕两次拒绝Musk长期采购合同和建厂融资担保。TrendForce下调2027 DRAM价格预测。",
+      "bullets": [
+        {
+          "actor": "trap_zack",
+          "actor_type": "KOL",
+          "text": "算力供给快速释放 折旧或摧毁hyperscaler/neocloud利润",
+          "details": "trap_zack论点：市场担心算力价格开始回落。SpaceX下调Blackwell小集群现货价至$10-12/GPU·小时；Anthropic不再续约约50K张H200，SpaceX按约$5对外报价；短期算力供给快速释放；BIS新规使原租给中国客户的算力回流。若算力市场不再紧张（lower rev/GW），折旧会摧毁hyperscaler/neocloud利润；这一切源于ARR走平。",
+          "important": true
+        },
+        {
+          "actor": "WSJ/李在镕",
+          "actor_type": "新闻",
+          "text": "三星李在镕两次拒绝Musk长期采购合同和建厂融资担保",
+          "details": "WSJ：三星李在镕两次拒绝Musk的长期采购合同和建厂融资担保，李在镕回应：\"Everyone else is making the same offer. What more can you do?\"",
+          "important": false
+        },
+        {
+          "actor": "TrendForce",
+          "actor_type": "Analyst",
+          "text": "TrendForce下调2027 DRAM价格预测 需求转弱",
+          "details": "TrendForce 11月25日下调2027年DRAM价格预测，理由是DRAM需求转弱。",
+          "important": false
+        },
+        {
+          "actor": "WSJ",
+          "actor_type": "新闻",
+          "text": "Aschenbrenner的Situational Awareness三季度亏损65%",
+          "details": "WSJ：Aschenbrenner的Situational Awareness三季度亏损65%。",
+          "important": false
+        },
+        {
+          "actor": "Jonny Matthews",
+          "actor_type": "KOL",
+          "text": "SuperMacro：就业依赖AI热潮 若受挫别指望payrolls维持",
+          "details": "Jonny Matthews | SuperMacro：就业依赖AI热潮，若AI推进受挫、盈利增速放缓，别指望payrolls维持近期趋势。",
+          "important": false
+        },
+        {
+          "actor": "Herman Jin",
+          "actor_type": "KOL",
+          "text": "网络安全问题是\"屎山代码\" 阻止SI不是办法",
+          "details": "Herman Jin：网络安全问题不是AI导致，而是人类几十年写的\"屎山代码\"，阻止SI不是办法；办法是让防御方都用更先进模型，把旧代码全部检验一遍。",
+          "important": false
+        },
+        {
+          "actor": "Hedgie",
+          "actor_type": "KOL",
+          "text": "马来西亚AI项目收紧 贷款拍卖显示lenders先撤离",
+          "details": "Hedgie：这次收紧早可预见，部分马来西亚项目明年可能半途烂尾；贷款拍卖、United Overseas Bank出售风险说明lenders先于公众撤离；这类贷款可能进入退休账户里的private credit和债券基金。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "005930.KS"
+      ],
+      "image_indexes": [
+        4
+      ],
+      "importance": 3,
+      "sources": [
+        "WSJ",
+        "TrendForce",
+        "The Information"
+      ],
+      "date": "2026-11-27",
+      "image_urls": [
+        "/uploads/2026-11-27/f6185b988360.png"
+      ]
+    },
+    {
+      "id": "trump-admin-nov26",
+      "topic": "Trump政府动态",
+      "topic_tag": "policy",
+      "title": "Hassett称经济Goldilocks 万斯重估2028参选",
+      "summary": "Hassett称经济处在Goldilocks、出口商基本在吃下关税、油价回落至战前水平，美联储应区分供给与需求驱动的通胀。WSJ援引6名接近人士称万斯在中期选举惨败后重新评估是否参选2028，最早明年公布决定。",
+      "bullets": [
+        {
+          "actor": "Hassett",
+          "actor_type": "US-Executive",
+          "text": "Hassett：经济Goldilocks 出口商吃下关税 油价回落至战前",
+          "details": "Hassett：经济处在Goldilocks；出口商基本在吃下关税；油价柴油回落至战前水平；美联储应区分供给与需求驱动的通胀。",
+          "important": true
+        },
+        {
+          "actor": "WSJ/Vance",
+          "actor_type": "新闻",
+          "text": "万斯重估2028参选 最早明年公布决定",
+          "details": "中期选举惨败后，万斯重新评估是否参选2028，最早明年公布决定；有长期盟友建议他考虑放弃参选；WSJ援引6名接近人士称他尚未作最终决定。",
+          "important": false
+        },
+        {
+          "actor": "Nomura",
+          "actor_type": "Analyst",
+          "text": "Nomura：中期惨败是对特朗普本人的公投 剩余任期或聚焦贸易失衡",
+          "details": "Nomura指中期共和党惨败是对特朗普本人的公投：出口民调39%选民视经济为首要议题，75%认为经济不太好或差，79%称通胀造成严重或中度困难；33%将民主状况列为首要议题，其中八成投民主党、约占全体选民26%，仅此足以导致共和党失败。特朗普基本盘仍是贸易赤字受害者（累计损失相当于GDP 119.2%，按2015年GDP约$21.8T）。3Q GDP年化3.4%、失业率4.1%，企业投资数十年来首次成为主要驱动，但关税和能源推高通胀压迫家庭，部分地区汽油$7/gal。通胀四个驱动（关税、伊朗战争、AI热潮、QE宽松金融条件）中Fed只能控制最后一个；预计Fed转向\"更慢但更长\"的紧缩，Warsh可能12月加息。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [
+        2
+      ],
+      "importance": 2,
+      "sources": [
+        "WSJ",
+        "Nomura"
+      ],
+      "date": "2026-11-27",
+      "image_urls": [
+        "/uploads/2026-11-27/1dac591a81f4.jpg"
+      ]
+    },
+    {
+      "id": "china-capital-market-nov26",
+      "topic": "中国资本市场政策",
+      "topic_tag": "policy",
+      "title": "国常会专题研究资本市场 首次点名\"国家队\"",
+      "summary": "国常会专题研究资本市场，加力发挥\"国家队\"稳市作用，优化汇金类\"平准基金\"功能，定调\"资本市场事关经济发展大局\"；首次在国常会点名\"国家队\"和中央汇金，增量政策\"谋划出台\"；监管部门计划更严格限制控股股东、实控人减持。",
+      "bullets": [
+        {
+          "actor": "国务院常务会议",
+          "actor_type": "Foreign-Gov",
+          "text": "国常会首次点名\"国家队\"和中央汇金 增量政策谋划出台",
+          "details": "国常会专题研究资本市场：加力发挥\"国家队\"稳市作用，优化汇金类\"平准基金\"功能，定调\"资本市场事关经济发展大局\"；首次在国常会点名\"国家队\"和中央汇金，增量政策\"谋划出台\"。",
+          "important": true
+        },
+        {
+          "actor": "中国监管部门",
+          "actor_type": "Foreign-Gov",
+          "text": "监管拟更严格限制控股股东、实控人减持",
+          "details": "盘中发通稿，监管部门计划更严格限制控股股东、实控人减持。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-27",
+      "image_urls": []
+    },
+    {
+      "id": "mideast-oil-nov26",
+      "topic": "中东能源与油价",
+      "topic_tag": "oil",
+      "title": "Houthi袭击沙特Ras Tanura Brent跌破$90",
+      "summary": "Houthi无人机袭击沙特Ras Tanura，2个储罐被毁、装船暂停；Jizan炼厂遭空中来袭。John Kemp警告库存回升基础不牢，依赖美国组织的shuttle run和对伊朗海上封锁。Brent跌破$90/bbl，可能由需求破坏驱动。",
+      "bullets": [
+        {
+          "actor": "Houthi",
+          "actor_type": "Foreign-Gov",
+          "text": "Houthi无人机袭击沙特Ras Tanura 2个储罐被毁",
+          "details": "Houthi无人机袭击沙特Ras Tanura，2个储罐被毁，装船暂停；沙特Jizan炼厂遭空中来袭，一名工人死亡、多人受伤。",
+          "important": true
+        },
+        {
+          "actor": "John Kemp",
+          "actor_type": "Analyst",
+          "text": "Kemp：库存回升基础不牢 shuttle run执行成本高、中期不可持续",
+          "details": "John Kemp：库存回升的基础不牢，这靠美国组织的shuttle run和对伊朗海上封锁支撑，执行成本很高，中期在财务和操作上可能unsustainable。",
+          "important": false
+        },
+        {
+          "actor": "The Officials",
+          "actor_type": "Analyst",
+          "text": "The Officials：Brent跌破$90背后可能是需求破坏",
+          "details": "The Officials：Brent跌破$90/bbl背后可能是需求破坏，不只是节前平仓。",
+          "important": false
+        }
+      ],
+      "tickers": [],
+      "image_indexes": [],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-27",
+      "image_urls": []
+    },
+    {
+      "id": "kol-us-equities-nov26",
+      "topic": "KOL美股观点",
+      "topic_tag": "macro-other",
+      "title": "KOL美股：测试底部 做空风险回报恶化",
+      "summary": "Deemer指多数climactic lows后会被测试，问今天是否就是测试点。Minervini指$SPCX按教科书演绎、快速反弹撞上overhead supply。地平线全球策略认为做空风险回报恶化，可能就是本轮抛售结束的地方。Michael的美投日记认为阶段性低点已出现。",
+      "bullets": [
+        {
+          "actor": "地平线全球策略",
+          "actor_type": "KOL",
+          "text": "做空风险回报恶化 可能就是本轮抛售结束的地方",
+          "details": "地平线全球策略：做空的风险回报比正在恶化，这可能就是本轮抛售结束的地方；NQ回测低点但开新仓意愿减弱，说明这波下跌主要因买方退场；一旦空头也停止卖出，跌势就会结束。同样逻辑适用于DRAM、SOXX、MEME，甚至黄金白银。",
+          "important": true
+        },
+        {
+          "actor": "Walter Deemer",
+          "actor_type": "KOL",
+          "text": "Deemer：climactic lows后多数会被测试 看缺口回补速度",
+          "details": "Walter Deemer：多数climactic lows之后会被测试，常在a few days和/或a few weeks后，但not every test is successful；问今天是否就是\"a few days afterwards\"的测试，缺口回补快慢可以看出底层趋势还有多强。",
+          "important": false
+        },
+        {
+          "actor": "Mark Minervini",
+          "actor_type": "KOL",
+          "text": "Minervini：$SPCX按教科书演绎 快速反弹撞上overhead supply",
+          "details": "Mark Minervini：$SPCX按教科书方式演绎，与他three months前的判断一致：快速反弹撞上overhead supply，类似Facebook、LinkedIn；LinkedIn直到2013年一季度才消化完供给。",
+          "important": false
+        },
+        {
+          "actor": "Michael的美投日记",
+          "actor_type": "KOL",
+          "text": "Michael：阶段性低点已出现 当前是震荡区间",
+          "details": "Michael的美投日记：原有下降趋势动能已衰退，目前是震荡区间，本轮下跌的阶段性低点已出现。",
+          "important": false
+        }
+      ],
+      "tickers": [
+        "SPCX",
+        "SOXX"
+      ],
+      "image_indexes": [
+        0
+      ],
+      "importance": 2,
+      "sources": [],
+      "date": "2026-11-27",
+      "image_urls": [
+        "/uploads/2026-11-27/3021f09f072a.jpg"
+      ]
+    }
+  ]
+}

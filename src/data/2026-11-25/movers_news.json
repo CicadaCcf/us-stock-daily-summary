@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T21:32:28+00:00",
+  "generated_at": "2026-11-27T00:22:58+00:00",
   "date": "2026-11-25",
   "since": "2026-11-23T20:00:00+00:00",
   "by_ticker": {
@@ -103,16 +103,6 @@
         "description": "Sanofi announced an agreement to acquire Insmed Incorporated for $175 per share ($41.0 billion) to strengthen its respiratory disease portfolio and immunology capabilities. The acquisition includes two commercialized products—Brinsupri and Arikayce—and a promising phase 3 pipeline asset. The transaction is expected to be EPS accretive by end of 2028 and close in H1 2027, subject to regulatory approvals and shareholder approval."
       }
     ],
-    "MTSI": [
-      {
-        "headline": "Here's Why M/A-Com (MTSI) Is a Great 'Buy the Bottom' Stock Now",
-        "url": "https://www.zacks.com/stock/news/3034531/here-s-why-m-a-com-mtsi-is-a-great-buy-the-bottom-stock-now?cid=CS-ZC-FT-fundamental_analysis|hammer_chart_pattern_(ta)-3034531",
-        "source": "Zacks Investment Research",
-        "published_at": "2026-11-24T13:55:04Z",
-        "image": "https://staticx-tuner.zacks.com/images/default_article_images/default357.jpg",
-        "description": "M/A-Com (MTSI) has formed a hammer chart pattern after a 5% decline over four weeks, signaling potential trend reversal. The stock is supported by strong fundamental indicators including a 15.2% upward revision in consensus EPS estimates over the last 30 days and a Zacks Rank #1 (Strong Buy) rating, suggesting improved company prospects."
-      }
-    ],
     "KYMR": [
       {
         "headline": "Kymera Shares Soar 30% After Positive Atopic Dermatitis Drug Data",
@@ -137,6 +127,16 @@
         "published_at": "2026-11-23T21:45:00Z",
         "image": "https://ml.globenewswire.com/Resource/Download/4d3d3283-c57d-401e-9e1b-53f17e22d76b",
         "description": "Kymera Therapeutics, a clinical-stage biopharmaceutical company, announced an underwritten public offering of $1.5 billion in common stock, with an additional $225 million option for underwriters. The company plans to use proceeds to advance its pipeline of targeted protein degradation (TPD) degrader programs for immunological diseases and general corporate purposes."
+      }
+    ],
+    "MTSI": [
+      {
+        "headline": "Here's Why M/A-Com (MTSI) Is a Great 'Buy the Bottom' Stock Now",
+        "url": "https://www.zacks.com/stock/news/3034531/here-s-why-m-a-com-mtsi-is-a-great-buy-the-bottom-stock-now?cid=CS-ZC-FT-fundamental_analysis|hammer_chart_pattern_(ta)-3034531",
+        "source": "Zacks Investment Research",
+        "published_at": "2026-11-24T13:55:04Z",
+        "image": "https://staticx-tuner.zacks.com/images/default_article_images/default357.jpg",
+        "description": "M/A-Com (MTSI) has formed a hammer chart pattern after a 5% decline over four weeks, signaling potential trend reversal. The stock is supported by strong fundamental indicators including a 15.2% upward revision in consensus EPS estimates over the last 30 days and a Zacks Rank #1 (Strong Buy) rating, suggesting improved company prospects."
       }
     ],
     "MRVL": [
@@ -215,16 +215,6 @@
         "description": "KLA Corporation is capitalizing on surging AI infrastructure investments and semiconductor process control demand. The company expects advanced packaging process control revenues to reach $1.1 billion in 2026 with over 70% year-over-year growth. KLA faces competition from Teradyne and Astera Labs, both benefiting from robust AI-driven semiconductor demand. KLA stock has gained 10% year-to-date and carries a Zacks Rank #2 (Buy) rating with fiscal 2027 earnings expected to grow 52.39% year-over-ye"
       }
     ],
-    "IREN": [
-      {
-        "headline": "Stock Market Today, Nov. 23: CoreWeave Surges 22% as Nvidia Reinstates Jensen Huang as CEO",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-coreweave-surges-22-as-nvidia-reinstates-jensen-huang-as-ceo/?source=iedfolrf0000001",
-        "source": "The Motley Fool",
-        "published_at": "2026-11-23T21:49:10Z",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fb40bd5da58c6c9d072de55c19cb7d0958e34fd9f-1280x853.png&w=1200&op=resize",
-        "description": "CoreWeave surged 22% to $48.33 on November 23, 2026, following renewed AI sector optimism after Nvidia reinstated Jensen Huang as CEO. The broader market rallied with the S&P 500 up 4.73% and Nasdaq up 6.51%. CoreWeave's strong performance was driven by heavy trading volume and investor confidence in AI infrastructure demand, supported by Nvidia's $6 billion commitment to the company through 2032."
-      }
-    ],
     "SKHY": [
       {
         "headline": "Sandisk vs. Western Digital: Which Computer Drive Stock Is a Better Buy for 2027?",
@@ -257,6 +247,16 @@
         "published_at": "2026-11-23T22:36:12Z",
         "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fd005a9a595358436ece0fd0b8541ad2cabbc09d9-1440x810.jpg&w=1200&op=resize",
         "description": "SK Hynix stock surged 20% after reports that SoftBank Group's Chairman Masayoshi Son explored acquiring the chipmaker for $1 trillion. The proposed deal, which would have given SoftBank control over key AI semiconductor supply chain components, ultimately did not proceed due to regulatory concerns and the deal's massive scale. SK Hynix stock remains attractively priced at less than 7 times earnings, though concerns persist about maintaining profit margins amid AI market volatility."
+      }
+    ],
+    "IREN": [
+      {
+        "headline": "Stock Market Today, Nov. 23: CoreWeave Surges 22% as Nvidia Reinstates Jensen Huang as CEO",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-coreweave-surges-22-as-nvidia-reinstates-jensen-huang-as-ceo/?source=iedfolrf0000001",
+        "source": "The Motley Fool",
+        "published_at": "2026-11-23T21:49:10Z",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fb40bd5da58c6c9d072de55c19cb7d0958e34fd9f-1280x853.png&w=1200&op=resize",
+        "description": "CoreWeave surged 22% to $48.33 on November 23, 2026, following renewed AI sector optimism after Nvidia reinstated Jensen Huang as CEO. The broader market rallied with the S&P 500 up 4.73% and Nasdaq up 6.51%. CoreWeave's strong performance was driven by heavy trading volume and investor confidence in AI infrastructure demand, supported by Nvidia's $6 billion commitment to the company through 2032."
       }
     ],
     "UMC": [
